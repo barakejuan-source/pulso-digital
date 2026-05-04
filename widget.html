@@ -1,0 +1,492 @@
+<!-- ============================================================
+     PULSO DIGITAL 2026 — Widget autocontenido
+     Pega este bloque completo en cualquier página HTML
+     o en un Bloque de Código de Squarespace.
+     No requiere servidor, ni instalaciones, ni cuentas.
+     ============================================================ -->
+
+<style>
+  #pd-widget {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    background: #000;
+    color: #e2e8f0;
+    padding: 32px 24px 48px;
+    box-sizing: border-box;
+    width: 100%;
+  }
+  #pd-widget *, #pd-widget *::before, #pd-widget *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Header */
+  .pd-header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 10px;
+  }
+  .pd-title {
+    font-size: 1.5rem;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    color: #fff;
+  }
+  .pd-subtitle {
+    font-size: 0.78rem;
+    color: #64748b;
+    margin-top: 2px;
+  }
+  .pd-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+  }
+  .pd-updated {
+    font-size: 0.72rem;
+    color: #475569;
+  }
+  .pd-refresh {
+    font-size: 0.72rem;
+    background: #111;
+    border: 1px solid #333;
+    color: #64748b;
+    padding: 4px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .pd-refresh:hover { background: #1a1a1a; }
+  .pd-refresh.spinning svg { animation: pd-spin 0.8s linear infinite; }
+  @keyframes pd-spin { to { transform: rotate(360deg); } }
+
+  /* Disclaimer */
+  .pd-disclaimer {
+    background: #0a1628;
+    border-left: 4px solid #3b82f6;
+    border-radius: 6px;
+    padding: 10px 14px;
+    margin-bottom: 28px;
+    font-size: 0.78rem;
+    color: #94a3b8;
+  }
+  .pd-disclaimer strong { color: #cbd5e1; }
+
+  /* Candidate grid */
+  .pd-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 14px;
+    margin-bottom: 40px;
+  }
+
+  .pd-card {
+    background: #fff;
+    border-radius: 14px;
+    padding: 20px;
+    color: #1e293b;
+    transition: box-shadow 0.2s;
+  }
+  .pd-card:hover { box-shadow: 0 6px 24px rgba(255,255,255,0.08); }
+
+  .pd-card-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .pd-photo {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top center;
+    flex-shrink: 0;
+    border: 3px solid;
+    background: #f1f5f9;
+  }
+  .pd-info { flex: 1; min-width: 0; }
+  .pd-name { font-size: 1rem; font-weight: 700; }
+  .pd-party { font-size: 0.72rem; color: #64748b; margin-top: 2px; }
+
+  .pd-badge {
+    font-size: 0.68rem;
+    font-weight: 600;
+    padding: 3px 8px;
+    border-radius: 99px;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .pd-badge.up   { color: #16a34a; background: #f0fdf4; }
+  .pd-badge.down { color: #dc2626; background: #fef2f2; }
+  .pd-badge.flat { color: #64748b; background: #f1f5f9; }
+
+  .pd-prob-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 6px;
+  }
+  .pd-prob-label { font-size: 0.75rem; color: #64748b; }
+  .pd-prob-value {
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: -0.04em;
+    line-height: 1;
+  }
+  .pd-bar-track {
+    width: 100%;
+    height: 10px;
+    background: #f1f5f9;
+    border-radius: 99px;
+    overflow: hidden;
+    margin-bottom: 16px;
+  }
+  .pd-bar-fill {
+    height: 100%;
+    border-radius: 99px;
+    width: 0;
+    transition: width 1.2s cubic-bezier(0.25,0.1,0.25,1);
+  }
+
+  .pd-breakdown-title {
+    font-size: 0.62rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #94a3b8;
+    margin-bottom: 8px;
+    border-top: 1px solid #f1f5f9;
+    padding-top: 12px;
+  }
+  .pd-breakdown-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 6px;
+  }
+  .pd-bd-label { font-size: 0.7rem; color: #64748b; width: 80px; flex-shrink: 0; }
+  .pd-bd-track {
+    flex: 1;
+    height: 5px;
+    background: #f1f5f9;
+    border-radius: 99px;
+    overflow: hidden;
+  }
+  .pd-bd-fill {
+    height: 100%;
+    border-radius: 99px;
+    width: 0;
+    transition: width 1s ease 0.3s;
+  }
+  .pd-bd-num { font-size: 0.68rem; font-weight: 600; color: #334155; width: 22px; text-align: right; }
+
+  /* News */
+  .pd-section-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 12px;
+  }
+  .pd-news { display: flex; flex-direction: column; gap: 8px; }
+  .pd-article {
+    background: #111;
+    border: 1px solid #222;
+    border-radius: 10px;
+    padding: 12px 14px;
+    text-decoration: none;
+    color: #e2e8f0;
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    transition: background 0.15s;
+  }
+  .pd-article:hover { background: #1a1a1a; }
+  .pd-article-body { flex: 1; }
+  .pd-article-meta {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    margin-bottom: 4px;
+    flex-wrap: wrap;
+  }
+  .pd-tag {
+    font-size: 0.62rem;
+    font-weight: 600;
+    padding: 2px 6px;
+    border-radius: 99px;
+    color: #fff;
+  }
+  .pd-source { font-size: 0.68rem; color: #64748b; }
+  .pd-date   { font-size: 0.68rem; color: #475569; }
+  .pd-article-title {
+    font-size: 0.84rem;
+    font-weight: 600;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 2px;
+  }
+  .pd-article-snippet {
+    font-size: 0.75rem;
+    color: #64748b;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .pd-ext-icon { color: #334155; flex-shrink: 0; margin-top: 2px; }
+
+  /* State */
+  .pd-state {
+    text-align: center;
+    padding: 48px 24px;
+    color: #475569;
+    font-size: 0.88rem;
+  }
+
+  /* Footer */
+  .pd-footer {
+    margin-top: 32px;
+    border-top: 1px solid #1a1a1a;
+    padding-top: 16px;
+    font-size: 0.72rem;
+    color: #334155;
+    text-align: center;
+  }
+</style>
+
+<div id="pd-widget">
+
+  <div class="pd-header">
+    <!-- Logo Prisma -->
+    <svg width="44" height="38" viewBox="0 0 110 95" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <polygon points="6,86 36,8 66,86"  fill="none" stroke="#0E96D5" stroke-width="7" stroke-linejoin="round"/>
+      <polygon points="44,86 74,8 104,86" fill="none" stroke="#D41B60" stroke-width="7" stroke-linejoin="round"/>
+    </svg>
+    <div>
+      <div class="pd-title">Pulso Digital 2026</div>
+      <div class="pd-subtitle">Momentum digital · Presidencia Colombia</div>
+    </div>
+  </div>
+
+  <div class="pd-meta">
+    <span class="pd-updated" id="pd-updated"></span>
+    <button class="pd-refresh" id="pd-refresh-btn" onclick="pdRefresh()">
+      <svg id="pd-refresh-icon" width="12" height="12" viewBox="0 0 24 24" fill="none"
+           stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M23 4v6h-6"/><path d="M1 20v-6h6"/>
+        <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
+      </svg>
+      Actualizar
+    </button>
+  </div>
+
+  <div class="pd-disclaimer">
+    <strong>No es una encuesta.</strong> Mide momentum digital basado en cobertura mediática colombiana. Es un indicador de visibilidad, no una predicción electoral.
+  </div>
+
+  <div class="pd-grid" id="pd-grid">
+    <div class="pd-state" style="grid-column:1/-1">Cargando datos...</div>
+  </div>
+
+  <div class="pd-section-title">Cobertura mediática reciente</div>
+  <div class="pd-news" id="pd-news">
+    <div class="pd-state">Cargando artículos...</div>
+  </div>
+
+  <div class="pd-footer">
+    Pulso Digital 2026 — Este sitio mide momentum digital, no es una encuesta oficial ni una predicción electoral.
+  </div>
+</div>
+
+<script>
+(function () {
+  'use strict';
+
+  const CANDIDATES = [
+    { id: 'ivan_cepeda',        name: 'Iván Cepeda',              party: 'Pacto Histórico',           color: '#E63946', twitter: 'IvanCepedaCast',   keywords: ['iván cepeda','cepeda candidato'],            exclude: ['manuel cepeda'] },
+    { id: 'abelardo_espriella', name: 'Abelardo de la Espriella', party: 'Defensores de la Patria',   color: '#1D3557', twitter: 'ABDELAESPRIELLA',   keywords: ['abelardo de la espriella','abelardo espriella'], exclude: [] },
+    { id: 'paloma_valencia',    name: 'Paloma Valencia',           party: 'Centro Democrático',        color: '#457B9D', twitter: 'PalomaValenciaL',   keywords: ['paloma valencia','senadora paloma'],          exclude: [] },
+    { id: 'sergio_fajardo',     name: 'Sergio Fajardo',           party: 'Coalición Centro Esperanza', color: '#2A9D8F', twitter: 'sergio_fajardo',    keywords: ['sergio fajardo','fajardo candidato'],         exclude: ['mafe fajardo','daniel fajardo'] }
+  ];
+
+  const RSS_FEEDS = [
+    { name: 'El Tiempo',      url: 'https://www.eltiempo.com/rss/politica.xml' },
+    { name: 'La Silla Vacía', url: 'https://www.lasillavacia.com/rss/' },
+    { name: 'Semana',         url: 'https://www.semana.com/rss/' },
+    { name: 'El Espectador',  url: 'https://www.elespectador.com/arc/outboundfeeds/rss/?outputType=xml' },
+    { name: 'Blu Radio',      url: 'https://www.bluradio.com/rss.xml' }
+  ];
+
+  const RSS2JSON = 'https://api.rss2json.com/v1/api.json?rss_url=';
+
+  async function fetchFeed(feed) {
+    try {
+      const r = await fetch(RSS2JSON + encodeURIComponent(feed.url));
+      const d = await r.json();
+      return (d.items || []).map(i => ({
+        title:   i.title || '',
+        snippet: i.description ? i.description.replace(/<[^>]+>/g, '') : '',
+        link:    i.link || '',
+        pubDate: i.pubDate || new Date().toISOString(),
+        source:  feed.name
+      }));
+    } catch (e) { return []; }
+  }
+
+  function momentumIcon(dir) {
+    if (dir === 'up')   return '<svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>';
+    if (dir === 'down') return '<svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"/><polyline points="17 18 23 18 23 12"/></svg>';
+    return '<svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/></svg>';
+  }
+
+  function fmtDate(d) {
+    return new Date(d).toLocaleDateString('es-CO', { day: 'numeric', month: 'short' });
+  }
+
+  let prevData = null;
+
+  async function load() {
+    const btn = document.getElementById('pd-refresh-btn');
+    btn.classList.add('spinning');
+
+    try {
+      // Fetch all feeds in parallel
+      const results = await Promise.all(RSS_FEEDS.map(fetchFeed));
+      const allArticles = results.flat();
+
+      // Count mentions per candidate
+      const mentions = Object.fromEntries(CANDIDATES.map(c => [c.id, 0]));
+      const tagged = [];
+
+      for (const art of allArticles) {
+        const text = (art.title + ' ' + art.snippet).toLowerCase();
+        for (const c of CANDIDATES) {
+          if (c.exclude.some(ex => text.includes(ex))) continue;
+          if (c.keywords.some(kw => text.includes(kw))) {
+            mentions[c.id]++;
+            if (!tagged.find(t => t.link === art.link && t.candidate_id === c.id)) {
+              tagged.push({ ...art, candidate_id: c.id });
+            }
+          }
+        }
+      }
+
+      const max   = Math.max(...Object.values(mentions), 1);
+      const total = Object.values(mentions).reduce((s, v) => s + v, 0) || 1;
+
+      const candidatesData = CANDIDATES.map(c => {
+        const score = Math.round((mentions[c.id] / max) * 100);
+        const prob  = parseFloat(((mentions[c.id] / total) * 100).toFixed(1));
+        const prev  = prevData?.find(p => p.id === c.id);
+        let momentum = { value: 0, direction: 'flat' };
+        if (prev) {
+          const delta = score - prev.score;
+          const pct   = prev.score > 0 ? ((delta / prev.score) * 100).toFixed(1) : 0;
+          momentum = { value: parseFloat(pct), direction: delta > 2 ? 'up' : delta < -2 ? 'down' : 'flat' };
+        }
+        return { ...c, score, prob, mentions: mentions[c.id], momentum };
+      });
+
+      prevData = candidatesData.map(c => ({ id: c.id, score: c.score }));
+
+      renderCards(candidatesData.sort((a, b) => b.prob - a.prob));
+      renderNews(tagged.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate)).slice(0, 15));
+
+      document.getElementById('pd-updated').textContent =
+        'Actualizado: ' + new Date().toLocaleTimeString('es-CO', { hour: '2-digit', minute: '2-digit' });
+
+    } catch (e) {
+      document.getElementById('pd-grid').innerHTML =
+        '<div class="pd-state" style="color:#ef4444;grid-column:1/-1">Error cargando datos.</div>';
+    }
+
+    btn.classList.remove('spinning');
+  }
+
+  function renderCards(list) {
+    const grid = document.getElementById('pd-grid');
+    grid.innerHTML = list.map(c => `
+      <div class="pd-card">
+        <div class="pd-card-header">
+          <img class="pd-photo" src="https://unavatar.io/x/${c.twitter}" alt="${c.name}"
+               style="border-color:${c.color}" onerror="this.style.display='none'"/>
+          <div class="pd-info">
+            <div class="pd-name">${c.name}</div>
+            <div class="pd-party">${c.party}</div>
+          </div>
+          <div class="pd-badge ${c.momentum.direction}">
+            ${momentumIcon(c.momentum.direction)}
+            ${c.momentum.value > 0 ? '+' : ''}${c.momentum.value}%
+          </div>
+        </div>
+        <div class="pd-prob-row">
+          <span class="pd-prob-label">Momentum relativo</span>
+          <span class="pd-prob-value" style="color:${c.color}">${c.prob}%</span>
+        </div>
+        <div class="pd-bar-track">
+          <div class="pd-bar-fill" style="background:${c.color}" data-w="${c.prob}"></div>
+        </div>
+        <div class="pd-breakdown-title">Desglose</div>
+        <div class="pd-breakdown-row">
+          <span class="pd-bd-label">Menciones</span>
+          <div class="pd-bd-track">
+            <div class="pd-bd-fill" style="background:${c.color}" data-w="${c.score}"></div>
+          </div>
+          <span class="pd-bd-num">${c.mentions}</span>
+        </div>
+      </div>
+    `).join('');
+
+    requestAnimationFrame(() => requestAnimationFrame(() => {
+      document.querySelectorAll('#pd-widget [data-w]').forEach(el => {
+        el.style.width = el.dataset.w + '%';
+      });
+    }));
+  }
+
+  function renderNews(articles) {
+    const el = document.getElementById('pd-news');
+    if (!articles.length) {
+      el.innerHTML = '<div class="pd-state">No hay artículos recientes.</div>';
+      return;
+    }
+    const colorMap = Object.fromEntries(CANDIDATES.map(c => [c.id, c.color]));
+    el.innerHTML = articles.map(a => `
+      <a class="pd-article" href="${a.link}" target="_blank" rel="noopener noreferrer">
+        <div class="pd-article-body">
+          <div class="pd-article-meta">
+            <span class="pd-tag" style="background:${colorMap[a.candidate_id] || '#64748b'}">
+              ${CANDIDATES.find(c => c.id === a.candidate_id)?.name || a.candidate_id}
+            </span>
+            <span class="pd-source">${a.source}</span>
+            <span class="pd-date">${fmtDate(a.pubDate)}</span>
+          </div>
+          <div class="pd-article-title">${a.title}</div>
+          <div class="pd-article-snippet">${a.snippet}</div>
+        </div>
+        <svg class="pd-ext-icon" width="13" height="13" viewBox="0 0 24 24" fill="none"
+             stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/>
+          <polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/>
+        </svg>
+      </a>
+    `).join('');
+  }
+
+  window.pdRefresh = load;
+
+  // Load now and every 30 minutes
+  load();
+  setInterval(load, 30 * 60 * 1000);
+})();
+</script>
