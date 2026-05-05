@@ -546,9 +546,18 @@
 
   function forceRefresh() { loadData(true); }
 
+  // Auto-resize iframe in parent (Squarespace)
+  function reportHeight() {
+    const h = document.documentElement.scrollHeight;
+    window.parent.postMessage({ pulsoHeight: h }, '*');
+  }
+
   // load on start, then every 5 min check for freshness
-  loadData();
+  loadData().then(() => {
+    setTimeout(reportHeight, 600); // after cards render + animate
+  });
   setInterval(() => loadData(), 5 * 60 * 1000);
+  window.addEventListener('resize', reportHeight);
 </script>
 </body>
 </html>
