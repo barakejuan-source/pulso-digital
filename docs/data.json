@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-05-05T21:03:53.263Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-05-05T21:20:23.165Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 64,
-      "youtubeScore": 5,
-      "sentimentScore": 28,
+      "trendsScore": 51,
+      "youtubeScore": 2,
+      "sentimentScore": 34,
       "sentimentPct": {
-        "positive": 28.4,
-        "negative": 51.2,
-        "neutral": 20.4
+        "positive": 34,
+        "negative": 46,
+        "neutral": 20
       },
-      "youtubeViews": 306921,
-      "finalScore": 36,
+      "youtubeViews": 93517,
+      "finalScore": 31,
       "momentum": {
-        "value": 2.9,
-        "direction": "flat"
+        "value": -13.9,
+        "direction": "down"
       },
-      "probability": 21.6
+      "probability": 20.8
     },
     {
       "id": "abelardo_espriella",
@@ -29,62 +29,120 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 6,
-      "sentimentScore": 24,
+      "youtubeScore": 0,
+      "sentimentScore": 0,
       "sentimentPct": {
-        "positive": 24.4,
-        "negative": 41.6,
-        "neutral": 34
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
       },
-      "youtubeViews": 351302,
-      "finalScore": 49,
+      "youtubeViews": 0,
+      "finalScore": 40,
       "momentum": {
-        "value": 2.1,
-        "direction": "flat"
+        "value": -18.4,
+        "direction": "down"
       },
-      "probability": 29.3
+      "probability": 26.8
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 79,
+      "trendsScore": 69,
       "youtubeScore": 100,
-      "sentimentScore": 14,
+      "sentimentScore": 24,
       "sentimentPct": {
-        "positive": 14.2,
-        "negative": 36.6,
-        "neutral": 49.3
+        "positive": 23.5,
+        "negative": 20.6,
+        "neutral": 55.9
       },
-      "youtubeViews": 6364786,
-      "finalScore": 66,
+      "youtubeViews": 6340143,
+      "finalScore": 65,
       "momentum": {
-        "value": 0,
+        "value": -1.5,
         "direction": "flat"
       },
-      "probability": 39.5
+      "probability": 43.6
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 21,
-      "youtubeScore": 6,
+      "trendsScore": 20,
+      "youtubeScore": 0,
       "sentimentScore": 18,
       "sentimentPct": {
         "positive": 18,
-        "negative": 51.5,
-        "neutral": 30.5
+        "negative": 56,
+        "neutral": 26
       },
-      "youtubeViews": 355417,
-      "finalScore": 16,
+      "youtubeViews": 6827,
+      "finalScore": 13,
       "momentum": {
-        "value": -5.9,
-        "direction": "flat"
+        "value": -18.8,
+        "direction": "down"
       },
-      "probability": 9.6
+      "probability": 8.7
+    }
+  ],
+  "articles": [
+    {
+      "title": "La chiva y los logros de Petro: así busca Iván Cepeda conquistar a Bogotá",
+      "link": "https://www.lasillavacia.com/silla-nacional/la-chiva-y-los-logros-de-petro-asi-busca-ivan-cepeda-conquistar-a-bogota/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 05 May 2026 20:46:56 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Seguidores de Abelardo piden suspender a Benedetti del cargo",
+      "link": "https://www.lasillavacia.com/en-vivo/seguidores-de-abelardo-piden-suspender-a-benedetti-del-cargo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 05 May 2026 20:16:14 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Paloma Valencia invitó a debatir a Abelardo de la Espriella y a su fórmula José Manuel Restrepo; esto respondió el candidato: 'Les caigo'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-y-juan-daniel-oviedo-invitaron-a-debatir-a-abelardo-de-la-espriella-y-a-su-formula-jose-manuel-restrepo-esto-respondio-el-candidato-3553267",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-05T13:30:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "'Habla de sus carencias y no de sus capacidades': Fajardo cuestionó a Paloma Valencia por impulsar un debate entre ella y Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/habla-de-sus-carencias-y-no-de-sus-capacidades-fajardo-cuestiono-a-paloma-valencia-por-impulsar-un-debate-entre-ella-y-abelardo-de-la-espriella-3553269",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-05T13:06:49-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda denuncia presiones de grupos armados para incidir en el electorado: 'Los responsables deben ser investigados y sancionados'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-denuncia-presiones-de-grupos-armados-para-incidir-en-el-electorado-los-responsables-deben-ser-investigados-y-sancionados-3553242",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-05T12:07:20-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Sigue silencio de Cepeda sobre nombramiento de Quintero en Supersalud",
+      "link": "https://www.lasillavacia.com/en-vivo/sigue-silencio-de-cepeda-sobre-nombramiento-de-quintero-en-supersalud/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 05 May 2026 16:39:37 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Campaña de Iván Cepeda alista evento para que liberales se sumen a su coalición pese a directriz del partido de apoyar a Paloma Valencia",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/campana-de-ivan-cepeda-alista-evento-para-que-liberales-se-sumen-a-su-coalicion-pese-a-directriz-del-partido-de-apoyar-a-paloma-valencia-3553218",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-05T10:55:42-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     }
   ]
 }
