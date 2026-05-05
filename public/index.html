@@ -246,6 +246,93 @@
       margin-top: 3px;
     }
 
+    /* ── Summary card ── */
+    .summary-card {
+      background: #fff;
+      color: #0f172a;
+      border: 1px solid #e2e8f0;
+      border-radius: 14px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+    .summary-title {
+      font-size: 0.65rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #94a3b8;
+      margin-bottom: 16px;
+    }
+    .summary-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 0;
+      border-bottom: 1px solid #f1f5f9;
+    }
+    .summary-row:last-child { border-bottom: none; }
+    .summary-rank {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: #94a3b8;
+      width: 16px;
+      flex-shrink: 0;
+      text-align: center;
+    }
+    .summary-photo {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      object-fit: cover;
+      object-position: top center;
+      flex-shrink: 0;
+      border: 2px solid;
+      background: #f1f5f9;
+    }
+    .summary-info { flex: 1; min-width: 0; }
+    .summary-name {
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: #0f172a;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .summary-party { font-size: 0.65rem; color: #94a3b8; margin-top: 1px; }
+    .summary-bar-wrap {
+      width: 80px;
+      flex-shrink: 0;
+    }
+    .summary-bar-track {
+      height: 6px;
+      background: #f1f5f9;
+      border-radius: 99px;
+      overflow: hidden;
+      margin-bottom: 3px;
+    }
+    .summary-bar-fill {
+      height: 100%;
+      border-radius: 99px;
+      width: 0;
+      transition: width 1.2s cubic-bezier(0.25,0.1,0.25,1);
+    }
+    .summary-pct {
+      font-size: 1.1rem;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      flex-shrink: 0;
+      width: 46px;
+      text-align: right;
+    }
+    .summary-momentum {
+      font-size: 0.62rem;
+      font-weight: 600;
+      flex-shrink: 0;
+    }
+    .summary-momentum.up   { color: #16a34a; }
+    .summary-momentum.down { color: #dc2626; }
+    .summary-momentum.flat { color: #94a3b8; }
+
     /* ── News ── */
     h2 { font-size: 1.2rem; font-weight: 700; margin-bottom: 14px; color: #fff; }
 
@@ -384,6 +471,8 @@
   <h1>Carrera Presidencial Colombia 2026</h1>
   <p class="page-sub">Google Trends · YouTube · Sentimiento IA — Se actualiza cada 12 horas.</p>
 
+  <div class="summary-card" id="summaryCard" style="display:none"></div>
+
   <div class="grid" id="candidateGrid">
     <div class="state" style="grid-column:1/-1">
       <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#cbd5e1" stroke-width="1.5">
@@ -505,6 +594,8 @@
       </div>
     `;}).join('');
 
+    renderSummary(candidates);
+
     // animate bars after paint
     requestAnimationFrame(() => {
       requestAnimationFrame(() => {
@@ -517,6 +608,37 @@
         });
       });
     });
+  }
+
+  function renderSummary(candidates) {
+    const el = document.getElementById('summaryCard');
+    const momIcon = { up: '▲', down: '▼', flat: '—' };
+    el.innerHTML = `
+      <div class="summary-title">Resumen · Momentum relativo</div>
+      ${candidates.map((c, i) => {
+        const meta = CANDIDATES_META[c.id] || {};
+        const sign = c.momentum.value > 0 ? '+' : '';
+        return `
+        <div class="summary-row">
+          <span class="summary-rank">${i + 1}</span>
+          <img class="summary-photo" src="${meta.photo || ''}"
+            alt="${c.name}" style="border-color:${c.color}"
+            onerror="this.style.display='none'"/>
+          <div class="summary-info">
+            <div class="summary-name">${c.name}</div>
+            <div class="summary-party">${c.party}</div>
+          </div>
+          <div class="summary-bar-wrap">
+            <div class="summary-bar-track">
+              <div class="summary-bar-fill" style="background:${c.color}" data-width="${c.probability}"></div>
+            </div>
+          </div>
+          <span class="summary-pct" style="color:${c.color}">${c.probability}%</span>
+          <span class="summary-momentum ${c.momentum.direction}">${momIcon[c.momentum.direction]} ${sign}${c.momentum.value}%</span>
+        </div>`;
+      }).join('')}
+    `;
+    el.style.display = 'block';
   }
 
 
