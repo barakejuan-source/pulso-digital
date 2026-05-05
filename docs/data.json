@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T16:31:42.324Z",
+  "updatedAt": "2026-05-05T21:03:53.263Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -8,20 +8,20 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 64,
-      "youtubeScore": 3,
-      "sentimentScore": 27,
+      "youtubeScore": 5,
+      "sentimentScore": 28,
       "sentimentPct": {
-        "positive": 26.5,
-        "negative": 51.5,
-        "neutral": 22
+        "positive": 28.4,
+        "negative": 51.2,
+        "neutral": 20.4
       },
-      "youtubeViews": 208742,
-      "finalScore": 35,
+      "youtubeViews": 306921,
+      "finalScore": 36,
       "momentum": {
-        "value": 0,
+        "value": 2.9,
         "direction": "flat"
       },
-      "probability": 21.1
+      "probability": 21.6
     },
     {
       "id": "abelardo_espriella",
@@ -29,20 +29,20 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 10,
-      "sentimentScore": 15,
+      "youtubeScore": 6,
+      "sentimentScore": 24,
       "sentimentPct": {
-        "positive": 15,
-        "negative": 51.7,
-        "neutral": 33.3
+        "positive": 24.4,
+        "negative": 41.6,
+        "neutral": 34
       },
-      "youtubeViews": 663417,
-      "finalScore": 48,
+      "youtubeViews": 351302,
+      "finalScore": 49,
       "momentum": {
-        "value": 0,
+        "value": 2.1,
         "direction": "flat"
       },
-      "probability": 28.9
+      "probability": 29.3
     },
     {
       "id": "paloma_valencia",
@@ -57,13 +57,13 @@
         "negative": 36.6,
         "neutral": 49.3
       },
-      "youtubeViews": 6364413,
+      "youtubeViews": 6364786,
       "finalScore": 66,
       "momentum": {
         "value": 0,
         "direction": "flat"
       },
-      "probability": 39.8
+      "probability": 39.5
     },
     {
       "id": "sergio_fajardo",
@@ -71,20 +71,20 @@
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
       "trendsScore": 21,
-      "youtubeScore": 5,
-      "sentimentScore": 23,
+      "youtubeScore": 6,
+      "sentimentScore": 18,
       "sentimentPct": {
-        "positive": 23,
-        "negative": 49,
-        "neutral": 28
+        "positive": 18,
+        "negative": 51.5,
+        "neutral": 30.5
       },
-      "youtubeViews": 344520,
-      "finalScore": 17,
+      "youtubeViews": 355417,
+      "finalScore": 16,
       "momentum": {
-        "value": 0,
+        "value": -5.9,
         "direction": "flat"
       },
-      "probability": 10.2
+      "probability": 9.6
     }
   ]
 }
