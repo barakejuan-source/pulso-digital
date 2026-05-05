@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T16:04:03.766Z",
+  "updatedAt": "2026-05-05T16:31:42.324Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -8,7 +8,7 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 64,
-      "youtubeScore": 4,
+      "youtubeScore": 3,
       "sentimentScore": 27,
       "sentimentPct": {
         "positive": 26.5,
@@ -18,8 +18,8 @@
       "youtubeViews": 208742,
       "finalScore": 35,
       "momentum": {
-        "value": -43.5,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 21.1
     },
@@ -29,7 +29,7 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 11,
+      "youtubeScore": 10,
       "sentimentScore": 15,
       "sentimentPct": {
         "positive": 15,
@@ -39,8 +39,8 @@
       "youtubeViews": 663417,
       "finalScore": 48,
       "momentum": {
-        "value": -14.3,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 28.9
     },
@@ -60,8 +60,8 @@
       "youtubeViews": 6364413,
       "finalScore": 66,
       "momentum": {
-        "value": 40.4,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 39.8
     },
@@ -71,7 +71,7 @@
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
       "trendsScore": 21,
-      "youtubeScore": 6,
+      "youtubeScore": 5,
       "sentimentScore": 23,
       "sentimentPct": {
         "positive": 23,
@@ -81,8 +81,8 @@
       "youtubeViews": 344520,
       "finalScore": 17,
       "momentum": {
-        "value": -45.2,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 10.2
     }
