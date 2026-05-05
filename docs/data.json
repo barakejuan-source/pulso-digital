@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-05T21:20:23.165Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-05-05T23:03:40.460Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -8,20 +8,20 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 51,
-      "youtubeScore": 2,
-      "sentimentScore": 34,
+      "youtubeScore": 11,
+      "sentimentScore": 18,
       "sentimentPct": {
-        "positive": 34,
-        "negative": 46,
-        "neutral": 20
+        "positive": 17.5,
+        "negative": 58.5,
+        "neutral": 24
       },
-      "youtubeViews": 93517,
-      "finalScore": 31,
+      "youtubeViews": 661780,
+      "finalScore": 29,
       "momentum": {
-        "value": -13.9,
-        "direction": "down"
+        "value": -6.5,
+        "direction": "flat"
       },
-      "probability": 20.8
+      "probability": 18.4
     },
     {
       "id": "abelardo_espriella",
@@ -29,20 +29,20 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 0,
-      "sentimentScore": 0,
+      "youtubeScore": 12,
+      "sentimentScore": 27,
       "sentimentPct": {
-        "positive": 0,
-        "negative": 0,
-        "neutral": 0
+        "positive": 27,
+        "negative": 39,
+        "neutral": 34
       },
-      "youtubeViews": 0,
-      "finalScore": 40,
+      "youtubeViews": 765754,
+      "finalScore": 52,
       "momentum": {
-        "value": -18.4,
-        "direction": "down"
+        "value": 30,
+        "direction": "up"
       },
-      "probability": 26.8
+      "probability": 32.9
     },
     {
       "id": "paloma_valencia",
@@ -51,19 +51,19 @@
       "color": "#457B9D",
       "trendsScore": 69,
       "youtubeScore": 100,
-      "sentimentScore": 24,
+      "sentimentScore": 14,
       "sentimentPct": {
-        "positive": 23.5,
-        "negative": 20.6,
-        "neutral": 55.9
+        "positive": 14.2,
+        "negative": 37.3,
+        "neutral": 48.5
       },
-      "youtubeViews": 6340143,
-      "finalScore": 65,
+      "youtubeViews": 6364952,
+      "finalScore": 62,
       "momentum": {
-        "value": -1.5,
-        "direction": "flat"
+        "value": -4.6,
+        "direction": "down"
       },
-      "probability": 43.6
+      "probability": 39.2
     },
     {
       "id": "sergio_fajardo",
@@ -71,23 +71,47 @@
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
       "trendsScore": 20,
-      "youtubeScore": 0,
+      "youtubeScore": 6,
       "sentimentScore": 18,
       "sentimentPct": {
-        "positive": 18,
-        "negative": 56,
-        "neutral": 26
+        "positive": 17.5,
+        "negative": 52,
+        "neutral": 30.5
       },
-      "youtubeViews": 6827,
-      "finalScore": 13,
+      "youtubeViews": 355831,
+      "finalScore": 15,
       "momentum": {
-        "value": -18.8,
-        "direction": "down"
+        "value": 15.4,
+        "direction": "flat"
       },
-      "probability": 8.7
+      "probability": 9.5
     }
   ],
   "articles": [
+    {
+      "title": "Luis Gilberto Murillo renunciará a su postulación presidencial para adherirse a la campaña de Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/luis-gilberto-murillo-renunciara-a-su-postulacion-presidencial-para-adherirse-a-la-campana-de-ivan-cepeda-3553361",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-05T17:58:11-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Vélez por la mañana | María Fernanda Cabal afirmó que quiere hacer su propio movimiento político: 'Quiero ser la esperanza'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/velez-por-la-manana-maria-fernanda-cabal-afirmo-que-quiere-hacer-su-propio-movimiento-politico-quiero-ser-la-esperanza-3553367",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-05T17:56:28-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Mauricio Gómez Amín renuncia al Partido Liberal y a su curul como senador: se compromete a totalidad con la campaña de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/congreso/mauricio-gomez-amin-renuncia-al-partido-liberal-y-a-su-curul-como-senador-se-compromete-a-totalidad-con-la-campana-de-abelardo-de-la-espriella-3553338",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-05T16:47:08-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "La chiva y los logros de Petro: así busca Iván Cepeda conquistar a Bogotá",
       "link": "https://www.lasillavacia.com/silla-nacional/la-chiva-y-los-logros-de-petro-asi-busca-ivan-cepeda-conquistar-a-bogota/",
@@ -97,8 +121,8 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Seguidores de Abelardo piden suspender a Benedetti del cargo",
-      "link": "https://www.lasillavacia.com/en-vivo/seguidores-de-abelardo-piden-suspender-a-benedetti-del-cargo/",
+      "title": "Siguen los ataques: seguidores de Abelardo buscan suspender a Benedetti",
+      "link": "https://www.lasillavacia.com/en-vivo/siguen-los-ataques-seguidores-de-abelardo-buscan-suspender-a-benedetti/",
       "source": "La Silla Vacía",
       "pubDate": "Tue, 05 May 2026 20:16:14 +0000",
       "candidateId": "abelardo_espriella",
@@ -127,14 +151,6 @@
       "pubDate": "2026-05-05T12:07:20-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Sigue silencio de Cepeda sobre nombramiento de Quintero en Supersalud",
-      "link": "https://www.lasillavacia.com/en-vivo/sigue-silencio-de-cepeda-sobre-nombramiento-de-quintero-en-supersalud/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 05 May 2026 16:39:37 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Campaña de Iván Cepeda alista evento para que liberales se sumen a su coalición pese a directriz del partido de apoyar a Paloma Valencia",
