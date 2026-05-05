@@ -2,6 +2,17 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 const googleTrends = require('google-trends-api');
+const Parser = require('rss-parser');
+
+const rss = new Parser({ timeout: 10000, headers: { 'User-Agent': 'Mozilla/5.0 PulsoDigital/1.0' } });
+
+const RSS_FEEDS = [
+  { name: 'El Tiempo',      url: 'https://www.eltiempo.com/rss/politica.xml' },
+  { name: 'La Silla Vacía', url: 'https://www.lasillavacia.com/rss/' },
+  { name: 'Semana',         url: 'https://www.semana.com/rss/' },
+  { name: 'El Espectador',  url: 'https://www.elespectador.com/arc/outboundfeeds/rss/?outputType=xml' },
+  { name: 'Blu Radio',      url: 'https://www.bluradio.com/rss.xml' }
+];
 
 const OUT = path.join(__dirname, '../docs/data.json');
 
@@ -39,6 +50,53 @@ const CANDIDATES = [
     exclude: ['Mafe Fajardo', 'Daniel Fajardo']
   }
 ];
+
+async function fetchRSS() {
+  const articles = [];
+  for (const feed of RSS_FEEDS) {
+    try {
+      const parsed = await rss.parseURL(feed.url);
+      parsed.items.forEach(item => articles.push({
+        title: item.title || '',
+        snippet: item.contentSnippet || '',
+        link: item.link || '',
+        pubDate: item.pubDate || new Date().toISOString(),
+        source: feed.name
+      }));
+    } catch (e) { console.warn(`RSS skip (${feed.name}):`, e.message); }
+  }
+
+  const tagged = [];
+  for (const article of articles) {
+    const text = `${article.title} ${article.snippet}`.toLowerCase();
+    for (const c of CANDIDATES) {
+      if (c.exclude.some(ex => text.includes(ex.toLowerCase()))) continue;
+      if (c.keywords.some(kw => text.includes(kw.toLowerCase()))) {
+        if (!tagged.find(a => a.link === article.link)) {
+          tagged.push({ ...article, candidateId: c.id, candidateColor: c.color });
+        }
+        break;
+      }
+    }
+    // Also include general election articles
+    const electionTerms = ['elecciones 2026', 'candidato presidencial', 'primera vuelta', 'campaña presidencial'];
+    if (!tagged.find(a => a.link === article.link) && electionTerms.some(t => text.includes(t))) {
+      tagged.push({ ...article, candidateId: null, candidateColor: '#64748b' });
+    }
+  }
+
+  return tagged
+    .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
+    .slice(0, 12)
+    .map(a => ({
+      title: a.title,
+      link: a.link,
+      source: a.source,
+      pubDate: a.pubDate,
+      candidateId: a.candidateId,
+      candidateColor: a.candidateColor
+    }));
+}
 
 // Weights
 const W_TRENDS    = 0.40;
@@ -180,7 +238,11 @@ async function main() {
     probability: parseFloat(((c.finalScore / total) * 100).toFixed(1))
   }));
 
-  const snapshot = { updatedAt: new Date().toISOString(), trendsFresh, candidates: withProb };
+  console.log('Fetching RSS news...');
+  const articles = await fetchRSS();
+  console.log(`  → ${articles.length} artículos encontrados`);
+
+  const snapshot = { updatedAt: new Date().toISOString(), trendsFresh, candidates: withProb, articles };
   fs.writeFileSync(OUT, JSON.stringify(snapshot, null, 2));
   console.log('Done. Saved to', OUT);
 }
