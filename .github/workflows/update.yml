@@ -2,7 +2,7 @@ name: Actualizar datos
 
 on:
   schedule:
-    - cron: '0 11,23 * * *'   # 6am y 6pm hora Colombia (UTC-5)
+    - cron: '0 */2 * * *'     # cada 2 horas
   workflow_dispatch:            # botón manual en GitHub
 
 jobs:
