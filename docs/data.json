@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T22:37:35.715Z",
+  "updatedAt": "2026-05-05T06:39:49.593Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -18,8 +18,8 @@
       "youtubeViews": 0,
       "finalScore": 26,
       "momentum": {
-        "value": -58.1,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 24.5
     },
@@ -39,8 +39,8 @@
       "youtubeViews": 0,
       "finalScore": 40,
       "momentum": {
-        "value": -28.6,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 37.7
     },
@@ -60,8 +60,8 @@
       "youtubeViews": 0,
       "finalScore": 32,
       "momentum": {
-        "value": -31.9,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 30.2
     },
@@ -81,8 +81,8 @@
       "youtubeViews": 0,
       "finalScore": 8,
       "momentum": {
-        "value": -74.2,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 7.5
     }
