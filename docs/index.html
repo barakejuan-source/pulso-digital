@@ -9,6 +9,11 @@
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+    html, body {
+      overflow-x: hidden;
+      max-width: 100%;
+    }
+
     body {
       font-family: 'Inter', system-ui, sans-serif;
       background: #000;
@@ -86,7 +91,7 @@
     /* ── Candidate grid ── */
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr));
       gap: 16px;
       margin-bottom: 48px;
     }
@@ -312,6 +317,29 @@
       font-size: 0.78rem;
     }
     footer strong { color: #64748b; }
+
+    /* ── Mobile ── */
+    @media (max-width: 480px) {
+      .header-inner { padding: 10px 14px; }
+      .brand-text .title { font-size: 0.95rem; }
+      .last-update { display: none; }
+
+      main { padding: 20px 14px 48px; }
+      h1 { font-size: 1.4rem; }
+      .page-sub { font-size: 0.8rem; }
+      .disclaimer { font-size: 0.75rem; padding: 10px 12px; }
+
+      .grid { gap: 12px; }
+      .card { padding: 16px; }
+
+      .candidate-photo { width: 52px; height: 52px; }
+      .candidate-name { font-size: 0.92rem; }
+      .prob-value { font-size: 1.7rem; }
+
+      .breakdown-label { width: 72px; font-size: 0.68rem; }
+      .breakdown-num { font-size: 0.65rem; }
+      .sent-labels { font-size: 0.58rem; }
+    }
   </style>
 </head>
 <body>
