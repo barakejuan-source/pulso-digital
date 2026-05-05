@@ -109,7 +109,23 @@ async function main() {
   if (!trendsFresh) console.log('  → usando trendsScores del snapshot anterior');
 
   console.log('Fetching YouTube + sentiment...');
-  const yt = fetchYouTubeSentiment();
+  const ytRaw = fetchYouTubeSentiment();
+
+  // If YouTube returned no views for everyone, fall back to previous scores
+  const ytTotalViews = Object.values(ytRaw).reduce((s, d) => s + (d.views || 0), 0);
+  const ytFresh = ytTotalViews > 0;
+  if (!ytFresh) console.log('  → YouTube bloqueado, usando scores anteriores');
+
+  const yt = ytFresh ? ytRaw : Object.fromEntries(
+    CANDIDATES.map(c => {
+      const prev = previous?.candidates?.find(p => p.id === c.id);
+      return [c.id, {
+        views: prev?.youtubeViews || 0,
+        commentCount: 0,
+        sentiment: prev?.sentimentPct || { positive: 0, negative: 0, neutral: 100 }
+      }];
+    })
+  );
 
   // Normalize YouTube engagement (views + comments)
   const engagementRaw = Object.fromEntries(

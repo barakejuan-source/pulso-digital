@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T06:39:49.593Z",
+  "updatedAt": "2026-05-05T11:04:37.715Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -8,20 +8,20 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 64,
-      "youtubeScore": 0,
-      "sentimentScore": 0,
+      "youtubeScore": 100,
+      "sentimentScore": 20,
       "sentimentPct": {
-        "positive": 0,
-        "negative": 0,
-        "neutral": 0
+        "positive": 20,
+        "negative": 50.2,
+        "neutral": 29.8
       },
-      "youtubeViews": 0,
-      "finalScore": 26,
+      "youtubeViews": 686587,
+      "finalScore": 62,
       "momentum": {
         "value": 0,
         "direction": "flat"
       },
-      "probability": 24.5
+      "probability": 31.6
     },
     {
       "id": "abelardo_espriella",
@@ -29,20 +29,20 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 0,
-      "sentimentScore": 0,
+      "youtubeScore": 30,
+      "sentimentScore": 22,
       "sentimentPct": {
-        "positive": 0,
-        "negative": 0,
-        "neutral": 0
+        "positive": 21.5,
+        "negative": 38.5,
+        "neutral": 40
       },
-      "youtubeViews": 0,
-      "finalScore": 40,
+      "youtubeViews": 203844,
+      "finalScore": 56,
       "momentum": {
         "value": 0,
         "direction": "flat"
       },
-      "probability": 37.7
+      "probability": 28.6
     },
     {
       "id": "paloma_valencia",
@@ -50,20 +50,20 @@
       "party": "Centro Democrático",
       "color": "#457B9D",
       "trendsScore": 79,
-      "youtubeScore": 0,
-      "sentimentScore": 0,
+      "youtubeScore": 27,
+      "sentimentScore": 23,
       "sentimentPct": {
-        "positive": 0,
-        "negative": 0,
-        "neutral": 0
+        "positive": 23.1,
+        "negative": 51.1,
+        "neutral": 25.8
       },
-      "youtubeViews": 0,
-      "finalScore": 32,
+      "youtubeViews": 183254,
+      "finalScore": 47,
       "momentum": {
         "value": 0,
         "direction": "flat"
       },
-      "probability": 30.2
+      "probability": 24
     },
     {
       "id": "sergio_fajardo",
@@ -71,20 +71,20 @@
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
       "trendsScore": 21,
-      "youtubeScore": 0,
-      "sentimentScore": 0,
+      "youtubeScore": 50,
+      "sentimentScore": 25,
       "sentimentPct": {
-        "positive": 0,
-        "negative": 0,
-        "neutral": 0
+        "positive": 24.5,
+        "negative": 52,
+        "neutral": 23.5
       },
-      "youtubeViews": 0,
-      "finalScore": 8,
+      "youtubeViews": 339886,
+      "finalScore": 31,
       "momentum": {
         "value": 0,
         "direction": "flat"
       },
-      "probability": 7.5
+      "probability": 15.8
     }
   ]
 }
