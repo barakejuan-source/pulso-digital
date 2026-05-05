@@ -419,10 +419,11 @@
       .brand-text .title { font-size: 0.95rem; }
       .last-update { display: none; }
 
-      main { padding: 20px 14px 48px; }
+      main { padding: 16px 14px 8px; }
       h1 { font-size: 1.4rem; }
       .page-sub { font-size: 0.8rem; }
       .disclaimer { font-size: 0.75rem; padding: 10px 12px; }
+      footer { padding: 8px 14px; font-size: 0.7rem; }
 
       .grid { gap: 12px; }
       .card { padding: 16px; }
@@ -492,19 +493,23 @@
   const CANDIDATES_META = {
     ivan_cepeda: {
       color: '#E63946',
-      photo: './images/ivan_cepeda.jpg'
+      photo: './images/ivan_cepeda.jpg',
+      shortName: 'Cepeda'
     },
     abelardo_espriella: {
       color: '#1D3557',
-      photo: './images/abelardo_espriella.jpg'
+      photo: './images/abelardo_espriella.jpg',
+      shortName: 'De la Espriella'
     },
     paloma_valencia: {
       color: '#457B9D',
-      photo: './images/paloma_valencia.jpg'
+      photo: './images/paloma_valencia.jpg',
+      shortName: 'Valencia'
     },
     sergio_fajardo: {
       color: '#2A9D8F',
-      photo: './images/sergio_fajardo.jpg'
+      photo: './images/sergio_fajardo.jpg',
+      shortName: 'Fajardo'
     }
   };
 
@@ -625,7 +630,7 @@
             alt="${c.name}" style="border-color:${c.color}"
             onerror="this.style.display='none'"/>
           <div class="summary-info">
-            <div class="summary-name">${c.name}</div>
+            <div class="summary-name">${meta.shortName || c.name}</div>
             <div class="summary-party">${c.party}</div>
           </div>
           <div class="summary-bar-wrap">
