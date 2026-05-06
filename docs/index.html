@@ -6,7 +6,6 @@
   <title>Pulso Digital 2026</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -882,6 +881,17 @@
   let _chartInstance = null;
   let _historyData = null;
 
+  function loadChartJs() {
+    if (window.Chart) return Promise.resolve();
+    return new Promise((resolve, reject) => {
+      const s = document.createElement('script');
+      s.src = 'https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js';
+      s.onload = resolve;
+      s.onerror = reject;
+      document.head.appendChild(s);
+    });
+  }
+
   async function loadHistory() {
     if (_historyData !== null) return _historyData;
     try {
@@ -911,7 +921,8 @@
     document.getElementById('modalName').textContent = candidate.name;
     document.getElementById('modalParty').textContent = candidate.party;
 
-    loadHistory().then(history => renderChart(candidateId, candidate, history));
+    Promise.all([loadHistory(), loadChartJs()])
+      .then(([history]) => renderChart(candidateId, candidate, history));
   }
 
   function handleOverlayClick(e) {
