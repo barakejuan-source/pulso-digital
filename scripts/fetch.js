@@ -9,9 +9,9 @@ const rss = new Parser({ timeout: 10000, headers: { 'User-Agent': 'Mozilla/5.0 P
 const RSS_FEEDS = [
   { name: 'El Tiempo',      url: 'https://www.eltiempo.com/rss/politica.xml' },
   { name: 'La Silla Vacía', url: 'https://www.lasillavacia.com/rss/' },
-  { name: 'Semana',         url: 'https://www.semana.com/rss/' },
-  { name: 'El Espectador',  url: 'https://www.elespectador.com/arc/outboundfeeds/rss/?outputType=xml' },
-  { name: 'Blu Radio',      url: 'https://www.bluradio.com/rss.xml' }
+  { name: 'Infobae',        url: 'https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml' },
+  { name: 'BBC Mundo',      url: 'https://feeds.bbci.co.uk/mundo/rss.xml' },
+  { name: 'France 24',      url: 'https://www.france24.com/es/rss' }
 ];
 
 const OUT = path.join(__dirname, '../docs/data.json');
