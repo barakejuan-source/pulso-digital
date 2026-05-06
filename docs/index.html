@@ -680,7 +680,7 @@
     grid.innerHTML = candidates.map((c, i) => {
       const meta = CANDIDATES_META[c.id] || {};
       return `
-      <div class="card" onclick="openModal('${c.id}')">`
+      <div class="card" onclick="openModal('${c.id}')">
         <div class="card-header">
           <img
             class="candidate-photo"
