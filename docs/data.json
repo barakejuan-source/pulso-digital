@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-05-06T20:58:33.447Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-05-06T23:04:28.330Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 44,
-      "youtubeScore": 4,
+      "trendsScore": 50,
+      "youtubeScore": 5,
       "sentimentScore": 15,
       "sentimentPct": {
         "positive": 14.8,
         "negative": 47.2,
         "neutral": 38
       },
-      "youtubeViews": 273206,
-      "finalScore": 23,
+      "youtubeViews": 275641,
+      "finalScore": 26,
       "momentum": {
-        "value": -4.2,
-        "direction": "flat"
+        "value": 13,
+        "direction": "up"
       },
-      "probability": 15.4
+      "probability": 17.1
     },
     {
       "id": "abelardo_espriella",
@@ -29,96 +29,80 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 6,
-      "sentimentScore": 36,
+      "youtubeScore": 12,
+      "sentimentScore": 24,
       "sentimentPct": {
-        "positive": 36,
-        "negative": 29.2,
-        "neutral": 34.8
+        "positive": 23.5,
+        "negative": 43,
+        "neutral": 33.5
       },
-      "youtubeViews": 412743,
-      "finalScore": 53,
+      "youtubeViews": 765358,
+      "finalScore": 51,
       "momentum": {
-        "value": 0,
+        "value": -3.8,
         "direction": "flat"
       },
-      "probability": 35.6
+      "probability": 33.6
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 61,
+      "trendsScore": 63,
       "youtubeScore": 100,
-      "sentimentScore": 21,
+      "sentimentScore": 22,
       "sentimentPct": {
-        "positive": 21.3,
+        "positive": 21.8,
         "negative": 43.6,
-        "neutral": 35.1
+        "neutral": 34.7
       },
-      "youtubeViews": 6506915,
-      "finalScore": 61,
+      "youtubeViews": 6507425,
+      "finalScore": 62,
       "momentum": {
-        "value": 0,
+        "value": 1.6,
         "direction": "flat"
       },
-      "probability": 40.9
+      "probability": 40.8
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 12,
+      "trendsScore": 13,
       "youtubeScore": 6,
-      "sentimentScore": 19,
+      "sentimentScore": 20,
       "sentimentPct": {
-        "positive": 19.2,
-        "negative": 54,
-        "neutral": 26.8
+        "positive": 20.2,
+        "negative": 52.2,
+        "neutral": 27.6
       },
-      "youtubeViews": 358977,
-      "finalScore": 12,
+      "youtubeViews": 361032,
+      "finalScore": 13,
       "momentum": {
-        "value": 0,
+        "value": 8.3,
         "direction": "flat"
       },
-      "probability": 8.1
+      "probability": 8.6
     }
   ],
   "articles": [
     {
-      "title": "Catherine Juvinao impugnó resolución de la Alianza Verde que obliga a los militantes a apoyar a Iván Cepeda: “Clara violación”",
-      "link": "https://www.infobae.com/colombia/2026/05/06/catherine-juvinao-impugno-resolucion-de-la-alianza-verde-que-obliga-a-los-militantes-a-apoyar-a-ivan-cepeda-clara-violacion/",
+      "title": "Se disparan las especulaciones sobre una posible campaña presidencial de Marco Rubio",
+      "link": "https://www.infobae.com/america/agencias/2026/05/06/se-disparan-las-especulaciones-sobre-una-posible-campana-presidencial-de-marco-rubio/",
       "source": "Infobae",
-      "pubDate": "Wed, 06 May 2026 20:37:30 +0000",
+      "pubDate": "Wed, 06 May 2026 22:30:44 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "La representante Catherine Juvinao impugnó ante el CNE la resolución de la Alianza Verde en la que se oficializó el apoyo a Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-representante-catherine-juvinao-impugno-ante-el-cne-la-resolucion-de-la-alianza-verde-en-la-que-se-oficializo-el-apoyo-a-ivan-cepeda-3553660",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-06T17:25:03-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Sergio Fajardo advirtió sobre una “confrontación nacional” ante la asamblea constituyente impulsada por Petro: “Puede pasar cualquier cosa aquí”",
-      "link": "https://www.infobae.com/colombia/2026/05/06/sergio-fajardo-advirtio-sobre-una-confrontacion-nacional-ante-la-asamblea-constituyente-impulsada-por-petro-puede-pasar-cualquier-cosa-aqui/",
-      "source": "Infobae",
-      "pubDate": "Wed, 06 May 2026 20:27:05 +0000",
-      "candidateId": "sergio_fajardo",
-      "candidateColor": "#2A9D8F"
-    },
-    {
-      "title": "Secuestros del ELN reviven la discusión sobre la paz en la campaña presidencial colombiana",
-      "link": "https://www.infobae.com/america/agencias/2026/05/06/secuestros-del-eln-reviven-la-discusion-sobre-la-paz-en-la-campana-presidencial-colombiana/",
-      "source": "Infobae",
-      "pubDate": "Wed, 06 May 2026 20:16:43 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "El Pacto Histórico encendió las alarmas sobre las elecciones: “Sin auditoría real del software electoral no hay confianza”",
-      "link": "https://www.infobae.com/colombia/2026/05/06/el-pacto-historico-encendio-las-alarmas-sobre-las-elecciones-sin-auditoria-real-del-software-electoral-no-hay-confianza/",
-      "source": "Infobae",
-      "pubDate": "Wed, 06 May 2026 20:15:31 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Los Char alistan acto formal de adhesión a la campaña de Abelardo De la Espriella: Elsa Noguera también lo apoyará",
@@ -133,22 +117,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/luis-gilberto-murillo-se-suma-oficialmente-a-la-campana-presidencial-de-ivan-cepeda-aqui-hay-una-oportunidad-real-3553549",
       "source": "El Tiempo",
       "pubDate": "2026-05-06T11:57:55-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Qué pasará con el tarjetón de la primera vuelta presidencial si los candidatos renuncian a sus candidaturas?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-pasara-con-el-tarjeton-de-la-primera-vuelta-presidencial-si-los-candidatos-renuncian-a-sus-candidaturas-3553542",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-06T11:08:28-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "'Iván Cepeda se esconde en las aguas subterráneas': Álvaro Uribe lanza críticas al candidato del oficialismo por su resistencia a debatir",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-se-esconde-en-las-aguas-subterraneas-alvaro-uribe-lanza-criticas-al-candidato-del-oficialismo-por-su-resistencia-a-debatir-3553493",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-06T09:32:48-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
