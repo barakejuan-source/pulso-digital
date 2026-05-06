@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T15:04:06.413Z",
+  "updatedAt": "2026-05-06T15:57:00.220Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -18,8 +18,8 @@
       "youtubeViews": 382526,
       "finalScore": 25,
       "momentum": {
-        "value": -54.5,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 16.7
     },
@@ -29,7 +29,7 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 5,
+      "youtubeScore": 4,
       "sentimentScore": 29,
       "sentimentPct": {
         "positive": 28.5,
@@ -39,8 +39,8 @@
       "youtubeViews": 277749,
       "finalScore": 50,
       "momentum": {
-        "value": 25,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 33.3
     },
@@ -60,8 +60,8 @@
       "youtubeViews": 6357635,
       "finalScore": 62,
       "momentum": {
-        "value": 158.3,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 41.3
     },
@@ -81,13 +81,37 @@
       "youtubeViews": 367622,
       "finalScore": 13,
       "momentum": {
-        "value": 160,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 8.7
     }
   ],
   "articles": [
+    {
+      "title": "La adhesión de Luis Gilberto Murillo a la campaña de Iván Cepeda generó reacciones divididas",
+      "link": "https://www.infobae.com/colombia/2026/05/06/la-adhesion-de-luis-gilberto-murillo-a-la-campana-de-ivan-cepeda-genero-reacciones-divididas/",
+      "source": "Infobae",
+      "pubDate": "Wed, 06 May 2026 15:47:30 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones 2026: Este jueves 7 es la fecha límite para revisar actas impugnadas y despejar el camino a la segunda vuelta",
+      "link": "https://www.infobae.com/peru/2026/05/06/elecciones-2026-este-jueves-7-de-mayo-el-peru-sabra-quien-pasa-a-segunda-vuelta-con-keiko-fujimori/",
+      "source": "Infobae",
+      "pubDate": "Wed, 06 May 2026 15:42:50 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Gustavo Bolívar respaldó a Gustavo Petro tras la polémica por una finca presuntamente expropiada por un primo de Paloma Valencia: “Desesperados”",
+      "link": "https://www.infobae.com/colombia/2026/05/06/gustavo-bolivar-respaldo-a-gustavo-petro-tras-la-polemica-por-una-finca-presuntamente-expropiada-por-un-primo-de-paloma-valencia-desesperados/",
+      "source": "Infobae",
+      "pubDate": "Wed, 06 May 2026 15:41:26 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
     {
       "title": "Abelardo de la Espriella le respondió a Armando Benedetti, quien acusó de tener supuestos implantes: 'El pobre vive bajo los efectos de alucinógenos'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-le-respondio-a-armando-benedetti-quien-acuso-de-tener-supuestos-implantes-el-pobre-vive-bajo-los-efectos-de-alucinogenos-3553468",
@@ -95,22 +119,6 @@
       "pubDate": "2026-05-06T09:47:40-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Vicky Dávila se metió en la pelea entre Paloma Valencia y Abelardo de la Espriella: “El país está por encima de ustedes”",
-      "link": "https://www.infobae.com/colombia/2026/05/06/vicky-davila-se-metio-en-la-pelea-entre-paloma-valencia-y-abelardo-de-la-espriella-el-pais-esta-por-encima-de-ustedes/",
-      "source": "Infobae",
-      "pubDate": "Wed, 06 May 2026 14:33:15 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella explicó por qué rechazó la invitación de Paloma Valencia para acudir a debate: “Tenemos que cuidar esa relación” ",
-      "link": "https://www.infobae.com/colombia/2026/05/06/abelardo-de-la-espriella-explico-por-que-rechazo-la-invitacion-de-paloma-valencia-para-acudir-a-debate-tenemos-que-cuidar-esa-relacion/",
-      "source": "Infobae",
-      "pubDate": "Wed, 06 May 2026 14:33:01 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "'Iván Cepeda se esconde en las aguas subterráneas': Álvaro Uribe lanza críticas al candidato del oficialismo por su resistencia a debatir",
