@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T03:02:13.753Z",
+  "updatedAt": "2026-05-06T05:01:38.624Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -18,8 +18,8 @@
       "youtubeViews": 67575,
       "finalScore": 55,
       "momentum": {
-        "value": 17,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 44.4
     },
@@ -39,8 +39,8 @@
       "youtubeViews": 0,
       "finalScore": 40,
       "momentum": {
-        "value": -44.4,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 32.3
     },
@@ -60,8 +60,8 @@
       "youtubeViews": 0,
       "finalScore": 24,
       "momentum": {
-        "value": -27.3,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 19.4
     },
@@ -81,8 +81,8 @@
       "youtubeViews": 0,
       "finalScore": 5,
       "momentum": {
-        "value": -87.5,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 4
     }
@@ -159,30 +159,6 @@
       "pubDate": "Tue, 05 May 2026 20:16:14 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Paloma Valencia invitó a debatir a Abelardo de la Espriella y a su fórmula José Manuel Restrepo; esto respondió el candidato: 'Les caigo'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-y-juan-daniel-oviedo-invitaron-a-debatir-a-abelardo-de-la-espriella-y-a-su-formula-jose-manuel-restrepo-esto-respondio-el-candidato-3553267",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-05T13:30:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "'Habla de sus carencias y no de sus capacidades': Fajardo cuestionó a Paloma Valencia por impulsar un debate entre ella y Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/habla-de-sus-carencias-y-no-de-sus-capacidades-fajardo-cuestiono-a-paloma-valencia-por-impulsar-un-debate-entre-ella-y-abelardo-de-la-espriella-3553269",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-05T13:06:49-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda denuncia presiones de grupos armados para incidir en el electorado: 'Los responsables deben ser investigados y sancionados'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-denuncia-presiones-de-grupos-armados-para-incidir-en-el-electorado-los-responsables-deben-ser-investigados-y-sancionados-3553242",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-05T12:07:20-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
