@@ -642,25 +642,38 @@
     }
     canvas.style.display = 'block'; emptyEl.style.display = 'none';
 
-    const labels = points.map(p => {
-      const d = new Date(p.date.length > 10 ? p.date : p.date + 'T12:00');
-      return d.toLocaleDateString('es-CO', { day: 'numeric', month: 'short' });
+    // Aggregate multiple intra-day points into one daily value (average)
+    const dayMap = new Map();
+    points.forEach(p => {
+      const day = p.date.slice(0, 10);
+      if (!dayMap.has(day)) dayMap.set(day, []);
+      dayMap.get(day).push(p);
     });
 
-    const get = key => points.map(p => {
-      const entry = p.candidates?.find(c => c.id === candidateId);
-      const val = entry ? entry[key] : null;
-      return (val === 0 && key !== 'trends') ? null : val;
+    const daily = [...dayMap.entries()].map(([day, pts]) => {
+      const avg = key => {
+        const vals = pts.map(p => {
+          const e = p.candidates?.find(c => c.id === candidateId);
+          const v = e ? e[key] : null;
+          return (v === 0 && key !== 'trends') ? null : v;
+        }).filter(v => v !== null);
+        return vals.length ? Math.round(vals.reduce((a, b) => a + b, 0) / vals.length) : null;
+      };
+      return { day, trends: avg('trends'), youtube: avg('youtube'), sentiment: avg('sentiment') };
     });
+
+    const labels = daily.map(({ day }) =>
+      new Date(day + 'T12:00:00').toLocaleDateString('es-CO', { day: 'numeric', month: 'short' })
+    );
 
     _chartInstance = new Chart(canvas, {
       type: 'line',
       data: {
         labels,
         datasets: [
-          { label: 'Google Trends', data: get('trends'), borderColor: candidate.color, backgroundColor: candidate.color + '18', borderWidth: 2.5, pointRadius: 2.5, tension: 0.35, spanGaps: true },
-          { label: 'YouTube',       data: get('youtube'), borderColor: '#F59E0B', backgroundColor: '#F59E0B18', borderWidth: 2.5, pointRadius: 2.5, tension: 0.35, spanGaps: false },
-          { label: 'Sentimiento IA',data: get('sentiment'), borderColor: '#8B5CF6', backgroundColor: '#8B5CF618', borderWidth: 2.5, pointRadius: 2.5, tension: 0.35, spanGaps: false }
+          { label: 'Google Trends', data: daily.map(d => d.trends),    borderColor: candidate.color, backgroundColor: candidate.color + '18', borderWidth: 2.5, pointRadius: 3, tension: 0.35, spanGaps: true },
+          { label: 'YouTube',       data: daily.map(d => d.youtube),   borderColor: '#F59E0B', backgroundColor: '#F59E0B18', borderWidth: 2.5, pointRadius: 3, tension: 0.35, spanGaps: false },
+          { label: 'Sentimiento IA',data: daily.map(d => d.sentiment), borderColor: '#8B5CF6', backgroundColor: '#8B5CF618', borderWidth: 2.5, pointRadius: 3, tension: 0.35, spanGaps: false }
         ]
       },
       options: {
