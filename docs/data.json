@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T19:04:55.637Z",
+  "updatedAt": "2026-05-06T20:58:33.447Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -8,7 +8,7 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 44,
-      "youtubeScore": 5,
+      "youtubeScore": 4,
       "sentimentScore": 15,
       "sentimentPct": {
         "positive": 14.8,
@@ -16,12 +16,12 @@
         "neutral": 38
       },
       "youtubeViews": 273206,
-      "finalScore": 24,
+      "finalScore": 23,
       "momentum": {
-        "value": -54.7,
-        "direction": "down"
+        "value": -4.2,
+        "direction": "flat"
       },
-      "probability": 16
+      "probability": 15.4
     },
     {
       "id": "abelardo_espriella",
@@ -29,7 +29,7 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 7,
+      "youtubeScore": 6,
       "sentimentScore": 36,
       "sentimentPct": {
         "positive": 36,
@@ -39,10 +39,10 @@
       "youtubeViews": 412743,
       "finalScore": 53,
       "momentum": {
-        "value": -19.7,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 35.3
+      "probability": 35.6
     },
     {
       "id": "paloma_valencia",
@@ -60,10 +60,10 @@
       "youtubeViews": 6506915,
       "finalScore": 61,
       "momentum": {
-        "value": 90.6,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 40.7
+      "probability": 40.9
     },
     {
       "id": "sergio_fajardo",
@@ -81,28 +81,52 @@
       "youtubeViews": 358977,
       "finalScore": 12,
       "momentum": {
-        "value": -70,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 8
+      "probability": 8.1
     }
   ],
   "articles": [
     {
-      "title": "Iván Cepeda arremetió contra Paloma Valencia tras polémica por finca expropiada por su primo en Vichada: “No lo pueden ocultar ni con máscara de centro”  ",
-      "link": "https://www.infobae.com/colombia/2026/05/06/ivan-cepeda-arremetio-contra-paloma-valencia-tras-polemica-por-finca-expropiada-por-su-primo-en-vichada-no-lo-pueden-ocultar-ni-con-mascara-de-centro/",
+      "title": "Catherine Juvinao impugnó resolución de la Alianza Verde que obliga a los militantes a apoyar a Iván Cepeda: “Clara violación”",
+      "link": "https://www.infobae.com/colombia/2026/05/06/catherine-juvinao-impugno-resolucion-de-la-alianza-verde-que-obliga-a-los-militantes-a-apoyar-a-ivan-cepeda-clara-violacion/",
       "source": "Infobae",
-      "pubDate": "Wed, 06 May 2026 18:47:54 +0000",
+      "pubDate": "Wed, 06 May 2026 20:37:30 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Sondra Macollins le salió al paso a Paloma Valencia y cuestionó el debate en solitario que realizó: “Llega tarde senadora”  ",
-      "link": "https://www.infobae.com/colombia/2026/05/06/sondra-macollins-le-salio-al-paso-a-paloma-valencia-y-cuestiono-el-debate-en-solitario-que-realizo-llega-tarde-senadora/",
+      "title": "Sergio Fajardo advirtió sobre una “confrontación nacional” ante la asamblea constituyente impulsada por Petro: “Puede pasar cualquier cosa aquí”",
+      "link": "https://www.infobae.com/colombia/2026/05/06/sergio-fajardo-advirtio-sobre-una-confrontacion-nacional-ante-la-asamblea-constituyente-impulsada-por-petro-puede-pasar-cualquier-cosa-aqui/",
       "source": "Infobae",
-      "pubDate": "Wed, 06 May 2026 18:44:21 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
+      "pubDate": "Wed, 06 May 2026 20:27:05 +0000",
+      "candidateId": "sergio_fajardo",
+      "candidateColor": "#2A9D8F"
+    },
+    {
+      "title": "Secuestros del ELN reviven la discusión sobre la paz en la campaña presidencial colombiana",
+      "link": "https://www.infobae.com/america/agencias/2026/05/06/secuestros-del-eln-reviven-la-discusion-sobre-la-paz-en-la-campana-presidencial-colombiana/",
+      "source": "Infobae",
+      "pubDate": "Wed, 06 May 2026 20:16:43 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "El Pacto Histórico encendió las alarmas sobre las elecciones: “Sin auditoría real del software electoral no hay confianza”",
+      "link": "https://www.infobae.com/colombia/2026/05/06/el-pacto-historico-encendio-las-alarmas-sobre-las-elecciones-sin-auditoria-real-del-software-electoral-no-hay-confianza/",
+      "source": "Infobae",
+      "pubDate": "Wed, 06 May 2026 20:15:31 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Los Char alistan acto formal de adhesión a la campaña de Abelardo De la Espriella: Elsa Noguera también lo apoyará",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-char-alistan-acto-formal-de-adhesion-a-la-campana-de-abelardo-de-la-espriella-elsa-noguera-tambien-lo-apoyara-3553529",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-06T14:23:18-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Luis Gilberto Murillo se sumó oficialmente a la campaña presidencial de Iván Cepeda: 'Aquí hay una oportunidad real, vamos a ganar en primera'",
@@ -113,22 +137,6 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Álvaro Uribe habla de los choques entre Paloma y De la Espriella: 'Diferencias hay, lo importante es manejarlas en el escenario de los argumentos'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/alvaro-uribe-habla-de-los-choques-entre-paloma-y-de-la-espriella-diferencias-hay-lo-importante-es-manejarlas-en-el-escenario-de-los-argumentos-3553475",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-06T11:54:56-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Los Char alistan acto formal de adhesión a la campaña de Abelardo De la Espriella: Elsa Noguera también lo apoyará",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-char-alistan-acto-formal-de-adhesion-a-la-campana-de-abelardo-de-la-espriella-elsa-noguera-tambien-lo-apoyara-3553529",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-06T11:32:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "¿Qué pasará con el tarjetón de la primera vuelta presidencial si los candidatos renuncian a sus candidaturas?",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-pasara-con-el-tarjeton-de-la-primera-vuelta-presidencial-si-los-candidatos-renuncian-a-sus-candidaturas-3553542",
       "source": "El Tiempo",
@@ -137,34 +145,10 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Abelardo de la Espriella le respondió a Armando Benedetti, quien acusó de tener supuestos implantes: 'El pobre vive bajo los efectos de alucinógenos'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-le-respondio-a-armando-benedetti-quien-acuso-de-tener-supuestos-implantes-el-pobre-vive-bajo-los-efectos-de-alucinogenos-3553468",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-06T09:47:40-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "'Iván Cepeda se esconde en las aguas subterráneas': Álvaro Uribe lanza críticas al candidato del oficialismo por su resistencia a debatir",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-se-esconde-en-las-aguas-subterraneas-alvaro-uribe-lanza-criticas-al-candidato-del-oficialismo-por-su-resistencia-a-debatir-3553493",
       "source": "El Tiempo",
       "pubDate": "2026-05-06T09:32:48-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Es oficial: Murillo aterriza en la campaña de Iván Cepeda",
-      "link": "https://www.lasillavacia.com/en-vivo/es-oficial-murillo-aterriza-en-la-campana-de-ivan-cepeda/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 06 May 2026 13:58:43 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Qué busca la campaña de Iván Cepeda con la renuncia Luis Gilberto Murillo a la candidatura presidencial y su adhesión oficial?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-busca-la-campana-de-ivan-cepeda-con-la-renuncia-luis-gilberto-murillo-a-la-candidatura-presidencial-y-su-adhesion-oficial-3553424",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-06T06:01:00-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
