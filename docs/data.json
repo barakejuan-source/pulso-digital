@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-05-05T23:03:40.460Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-05-06T01:03:45.313Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 51,
-      "youtubeScore": 11,
-      "sentimentScore": 18,
+      "trendsScore": 44,
+      "youtubeScore": 75,
+      "sentimentScore": 24,
       "sentimentPct": {
-        "positive": 17.5,
-        "negative": 58.5,
-        "neutral": 24
+        "positive": 24,
+        "negative": 49.6,
+        "neutral": 26.4
       },
-      "youtubeViews": 661780,
-      "finalScore": 29,
+      "youtubeViews": 257469,
+      "finalScore": 47,
       "momentum": {
-        "value": -6.5,
-        "direction": "flat"
+        "value": 62.1,
+        "direction": "up"
       },
-      "probability": 18.4
+      "probability": 24.5
     },
     {
       "id": "abelardo_espriella",
@@ -29,70 +29,94 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 12,
-      "sentimentScore": 27,
+      "youtubeScore": 82,
+      "sentimentScore": 25,
       "sentimentPct": {
-        "positive": 27,
+        "positive": 25,
         "negative": 39,
-        "neutral": 34
+        "neutral": 36
       },
-      "youtubeViews": 765754,
-      "finalScore": 52,
+      "youtubeViews": 289331,
+      "finalScore": 72,
       "momentum": {
-        "value": 30,
+        "value": 38.5,
         "direction": "up"
       },
-      "probability": 32.9
+      "probability": 37.5
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 69,
-      "youtubeScore": 100,
-      "sentimentScore": 14,
+      "trendsScore": 61,
+      "youtubeScore": 15,
+      "sentimentScore": 13,
       "sentimentPct": {
-        "positive": 14.2,
-        "negative": 37.3,
-        "neutral": 48.5
+        "positive": 12.7,
+        "negative": 46.7,
+        "neutral": 40.7
       },
-      "youtubeViews": 6364952,
-      "finalScore": 62,
+      "youtubeViews": 40246,
+      "finalScore": 33,
       "momentum": {
-        "value": -4.6,
+        "value": -46.8,
         "direction": "down"
       },
-      "probability": 39.2
+      "probability": 17.2
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 20,
-      "youtubeScore": 6,
+      "trendsScore": 12,
+      "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
         "positive": 17.5,
-        "negative": 52,
-        "neutral": 30.5
+        "negative": 51.5,
+        "neutral": 31
       },
-      "youtubeViews": 355831,
-      "finalScore": 15,
+      "youtubeViews": 356263,
+      "finalScore": 40,
       "momentum": {
-        "value": 15.4,
-        "direction": "flat"
+        "value": 166.7,
+        "direction": "up"
       },
-      "probability": 9.5
+      "probability": 20.8
     }
   ],
   "articles": [
     {
+      "title": "Plebiscito y oposición: así escala el pulso en la derecha por los debates",
+      "link": "https://www.lasillavacia.com/en-vivo/plebiscito-y-oposicion-asi-escala-el-pulso-en-la-derecha-por-los-debates/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 05 May 2026 23:38:40 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La enredada situación para reemplazar en el Senado a Mauricio Gómez Amín tras su renuncia a su curul y al Partido Liberal",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-enredada-situacion-para-reemplazar-en-el-senado-a-mauricio-gomez-amin-tras-su-renuncia-a-su-curul-y-al-partido-liberal-3553384",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-05T18:37:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "‘Colombia, la más Educada’: Sergio Fajardo presentó su propuesta de educación",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/colombia-la-mas-educada-sergio-fajardo-presento-su-propuesta-de-educacion-3553377",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-05T18:28:01-05:00",
+      "candidateId": "sergio_fajardo",
+      "candidateColor": "#2A9D8F"
+    },
+    {
       "title": "Luis Gilberto Murillo renunciará a su postulación presidencial para adherirse a la campaña de Iván Cepeda",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/luis-gilberto-murillo-renunciara-a-su-postulacion-presidencial-para-adherirse-a-la-campana-de-ivan-cepeda-3553361",
       "source": "El Tiempo",
-      "pubDate": "2026-05-05T17:58:11-05:00",
+      "pubDate": "2026-05-05T18:00:31-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -149,14 +173,6 @@
       "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-denuncia-presiones-de-grupos-armados-para-incidir-en-el-electorado-los-responsables-deben-ser-investigados-y-sancionados-3553242",
       "source": "El Tiempo",
       "pubDate": "2026-05-05T12:07:20-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Campaña de Iván Cepeda alista evento para que liberales se sumen a su coalición pese a directriz del partido de apoyar a Paloma Valencia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/campana-de-ivan-cepeda-alista-evento-para-que-liberales-se-sumen-a-su-coalicion-pese-a-directriz-del-partido-de-apoyar-a-paloma-valencia-3553218",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-05T10:55:42-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
