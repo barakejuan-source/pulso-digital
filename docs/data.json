@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T11:25:43.879Z",
+  "updatedAt": "2026-05-06T13:01:40.923Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -89,6 +89,22 @@
   ],
   "articles": [
     {
+      "title": "Vicky Dávila se metió en la pelea entre Paloma Valencia y Abelardo de la Espriella: “El país está por encima de ustedes”",
+      "link": "https://www.infobae.com/colombia/2026/05/06/vicky-davila-se-metio-en-la-pelea-entre-paloma-valencia-y-abelardo-de-la-espriella-el-pais-esta-por-encima-de-ustedes/",
+      "source": "Infobae",
+      "pubDate": "Wed, 06 May 2026 12:53:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Luis Gilberto Murillo se baja de las presidenciales en Colombia: qué pasará con su espacio en el tarjetón",
+      "link": "https://www.infobae.com/colombia/2026/05/06/luis-gilberto-murillo-se-baja-de-las-presidenciales-en-colombia-que-pasara-con-su-espacio-en-el-tarjeton/",
+      "source": "Infobae",
+      "pubDate": "Wed, 06 May 2026 12:43:34 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
       "title": "¿Qué busca la campaña de Iván Cepeda con la renuncia Luis Gilberto Murillo a la candidatura presidencial y su adhesión oficial?",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-busca-la-campana-de-ivan-cepeda-con-la-renuncia-luis-gilberto-murillo-a-la-candidatura-presidencial-y-su-adhesion-oficial-3553424",
       "source": "El Tiempo",
@@ -143,30 +159,6 @@
       "pubDate": "2026-05-05T17:56:28-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La chiva y los logros de Petro: así busca Iván Cepeda conquistar a Bogotá",
-      "link": "https://www.lasillavacia.com/silla-nacional/la-chiva-y-los-logros-de-petro-asi-busca-ivan-cepeda-conquistar-a-bogota/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 05 May 2026 20:46:56 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Siguen los ataques: seguidores de Abelardo buscan suspender a Benedetti",
-      "link": "https://www.lasillavacia.com/en-vivo/siguen-los-ataques-seguidores-de-abelardo-buscan-suspender-a-benedetti/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 05 May 2026 20:16:14 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Valencia afirma que Noboa reducirá aranceles a Colombia como gesto de \"buena voluntad\" ante posible cambio de gobierno",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260505-valencia-afirma-que-noboa-reducir%C3%A1-aranceles-a-colombia-como-gesto-de-buena-voluntad-ante-posible-cambio-de-gobierno",
-      "source": "France 24",
-      "pubDate": "Tue, 05 May 2026 18:50:31 GMT",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
     }
   ]
 }
