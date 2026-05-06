@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-06T01:03:45.313Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-05-06T03:02:13.753Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -8,20 +8,20 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 44,
-      "youtubeScore": 75,
-      "sentimentScore": 24,
+      "youtubeScore": 100,
+      "sentimentScore": 26,
       "sentimentPct": {
-        "positive": 24,
-        "negative": 49.6,
-        "neutral": 26.4
+        "positive": 26,
+        "negative": 56,
+        "neutral": 18
       },
-      "youtubeViews": 257469,
-      "finalScore": 47,
+      "youtubeViews": 67575,
+      "finalScore": 55,
       "momentum": {
-        "value": 62.1,
+        "value": 17,
         "direction": "up"
       },
-      "probability": 24.5
+      "probability": 44.4
     },
     {
       "id": "abelardo_espriella",
@@ -29,20 +29,20 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 82,
-      "sentimentScore": 25,
+      "youtubeScore": 0,
+      "sentimentScore": 0,
       "sentimentPct": {
-        "positive": 25,
-        "negative": 39,
-        "neutral": 36
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
       },
-      "youtubeViews": 289331,
-      "finalScore": 72,
+      "youtubeViews": 0,
+      "finalScore": 40,
       "momentum": {
-        "value": 38.5,
-        "direction": "up"
+        "value": -44.4,
+        "direction": "down"
       },
-      "probability": 37.5
+      "probability": 32.3
     },
     {
       "id": "paloma_valencia",
@@ -50,20 +50,20 @@
       "party": "Centro Democrático",
       "color": "#457B9D",
       "trendsScore": 61,
-      "youtubeScore": 15,
-      "sentimentScore": 13,
+      "youtubeScore": 0,
+      "sentimentScore": 0,
       "sentimentPct": {
-        "positive": 12.7,
-        "negative": 46.7,
-        "neutral": 40.7
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
       },
-      "youtubeViews": 40246,
-      "finalScore": 33,
+      "youtubeViews": 0,
+      "finalScore": 24,
       "momentum": {
-        "value": -46.8,
+        "value": -27.3,
         "direction": "down"
       },
-      "probability": 17.2
+      "probability": 19.4
     },
     {
       "id": "sergio_fajardo",
@@ -71,23 +71,31 @@
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
       "trendsScore": 12,
-      "youtubeScore": 100,
-      "sentimentScore": 18,
+      "youtubeScore": 0,
+      "sentimentScore": 0,
       "sentimentPct": {
-        "positive": 17.5,
-        "negative": 51.5,
-        "neutral": 31
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
       },
-      "youtubeViews": 356263,
-      "finalScore": 40,
+      "youtubeViews": 0,
+      "finalScore": 5,
       "momentum": {
-        "value": 166.7,
-        "direction": "up"
+        "value": -87.5,
+        "direction": "down"
       },
-      "probability": 20.8
+      "probability": 4
     }
   ],
   "articles": [
+    {
+      "title": "Plenaria del Senado sigue sin votar proyecto de Paloma Valencia que crea los bonos escolares: Pacto Histórico volvió a romper el quórum",
+      "link": "https://www.eltiempo.com/politica/congreso/plenaria-del-senado-sigue-sin-votar-proyecto-de-paloma-valencia-que-crea-los-bonos-escolares-pacto-historico-volvio-a-romper-el-quorum-3553406",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-05T20:52:50-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
     {
       "title": "Plebiscito y oposición: así escala el pulso en la derecha por los debates",
       "link": "https://www.lasillavacia.com/en-vivo/plebiscito-y-oposicion-asi-escala-el-pulso-en-la-derecha-por-los-debates/",
