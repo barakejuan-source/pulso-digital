@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T11:01:43.857Z",
+  "updatedAt": "2026-05-06T11:25:43.879Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -89,6 +89,14 @@
   ],
   "articles": [
     {
+      "title": "¿Qué busca la campaña de Iván Cepeda con la renuncia Luis Gilberto Murillo a la candidatura presidencial y su adhesión oficial?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-busca-la-campana-de-ivan-cepeda-con-la-renuncia-luis-gilberto-murillo-a-la-candidatura-presidencial-y-su-adhesion-oficial-3553424",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-06T06:01:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
       "title": "Plenaria del Senado sigue sin votar proyecto de Paloma Valencia que crea los bonos escolares: Pacto Histórico volvió a romper el quórum",
       "link": "https://www.eltiempo.com/politica/congreso/plenaria-del-senado-sigue-sin-votar-proyecto-de-paloma-valencia-que-crea-los-bonos-escolares-pacto-historico-volvio-a-romper-el-quorum-3553406",
       "source": "El Tiempo",
@@ -137,14 +145,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Mauricio Gómez Amín renuncia al Partido Liberal y a su curul como senador: se compromete a totalidad con la campaña de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/congreso/mauricio-gomez-amin-renuncia-al-partido-liberal-y-a-su-curul-como-senador-se-compromete-a-totalidad-con-la-campana-de-abelardo-de-la-espriella-3553338",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-05T16:47:08-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "La chiva y los logros de Petro: así busca Iván Cepeda conquistar a Bogotá",
       "link": "https://www.lasillavacia.com/silla-nacional/la-chiva-y-los-logros-de-petro-asi-busca-ivan-cepeda-conquistar-a-bogota/",
       "source": "La Silla Vacía",
@@ -159,6 +159,14 @@
       "pubDate": "Tue, 05 May 2026 20:16:14 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Valencia afirma que Noboa reducirá aranceles a Colombia como gesto de \"buena voluntad\" ante posible cambio de gobierno",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260505-valencia-afirma-que-noboa-reducir%C3%A1-aranceles-a-colombia-como-gesto-de-buena-voluntad-ante-posible-cambio-de-gobierno",
+      "source": "France 24",
+      "pubDate": "Tue, 05 May 2026 18:50:31 GMT",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
     }
   ]
 }
