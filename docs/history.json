@@ -1,0 +1,63 @@
+{
+  "bootstrapped": true,
+  "points": [
+    {
+      "date": "2026-05-06T06",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 44,
+          "youtube": 100,
+          "sentiment": 26
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 0,
+          "sentiment": 0
+        },
+        {
+          "id": "paloma_valencia",
+          "trends": 61,
+          "youtube": 0,
+          "sentiment": 0
+        },
+        {
+          "id": "sergio_fajardo",
+          "trends": 12,
+          "youtube": 0,
+          "sentiment": 0
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06T08",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 44,
+          "youtube": 100,
+          "sentiment": 26
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 0,
+          "sentiment": 0
+        },
+        {
+          "id": "paloma_valencia",
+          "trends": 61,
+          "youtube": 0,
+          "sentiment": 0
+        },
+        {
+          "id": "sergio_fajardo",
+          "trends": 12,
+          "youtube": 0,
+          "sentiment": 0
+        }
+      ]
+    }
+  ]
+}

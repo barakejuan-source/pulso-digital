@@ -14,7 +14,8 @@ const RSS_FEEDS = [
   { name: 'France 24',      url: 'https://www.france24.com/es/rss' }
 ];
 
-const OUT = path.join(__dirname, '../docs/data.json');
+const OUT         = path.join(__dirname, '../docs/data.json');
+const HISTORY_OUT = path.join(__dirname, '../docs/history.json');
 
 const CANDIDATES = [
   {
@@ -245,6 +246,100 @@ async function main() {
   const snapshot = { updatedAt: new Date().toISOString(), trendsFresh, candidates: withProb, articles };
   fs.writeFileSync(OUT, JSON.stringify(snapshot, null, 2));
   console.log('Done. Saved to', OUT);
+
+  console.log('Updating history...');
+  await updateHistory(withProb);
+}
+
+// ── Historical Trends (weekly from Jan 2026) ──────────────────────────────────
+
+async function fetchTrendsHistory() {
+  try {
+    const result = await googleTrends.interestOverTime({
+      keyword: CANDIDATES.map(c => c.name),
+      geo: 'CO',
+      startTime: new Date('2026-01-01'),
+      endTime: new Date(),
+      granularTimeResolution: true
+    });
+    const timeline = JSON.parse(result).default.timelineData;
+    // timeline = [{time, formattedTime, value:[n,n,n,n]}, ...]
+    return timeline.map(point => {
+      const date = new Date(parseInt(point.time) * 1000).toISOString().split('T')[0];
+      const entry = { date };
+      CANDIDATES.forEach((c, idx) => {
+        entry[c.id] = parseInt(point.value[idx]) || 0;
+      });
+      return entry;
+    });
+  } catch (e) {
+    console.warn('Historical Trends error:', e.message);
+    return [];
+  }
+}
+
+// Append current scores to history.json
+function updateHistory(withProb, ytFresh, ytData) {
+  const today = new Date().toISOString().split('T')[0];
+  const hour  = new Date().getHours();
+  const key   = `${today}T${String(hour).padStart(2,'0')}`;
+
+  let history = fs.existsSync(HISTORY_OUT)
+    ? JSON.parse(fs.readFileSync(HISTORY_OUT, 'utf8'))
+    : { bootstrapped: false, points: [] };
+
+  // Bootstrap: fetch full Trends history from Jan 2026
+  if (!history.bootstrapped) {
+    console.log('Bootstrapping historical Trends data from Jan 2026...');
+    return fetchTrendsHistory().then(trendsHistory => {
+      // Build historical points from Trends only (YouTube/Sentiment = 0 for past)
+      const maxByCandidate = {};
+      CANDIDATES.forEach(c => {
+        maxByCandidate[c.id] = Math.max(...trendsHistory.map(p => p[c.id] || 0), 1);
+      });
+
+      const historicalPoints = trendsHistory.map(p => ({
+        date: p.date,
+        candidates: CANDIDATES.map(c => ({
+          id: c.id,
+          trends: p[c.id] || 0,
+          youtube: null,
+          sentiment: null
+        }))
+      }));
+
+      // Append current live point
+      historicalPoints.push({
+        date: key,
+        candidates: withProb.map(c => ({
+          id: c.id,
+          trends: c.trendsScore,
+          youtube: c.youtubeScore,
+          sentiment: c.sentimentScore
+        }))
+      });
+
+      history = { bootstrapped: true, points: historicalPoints };
+      fs.writeFileSync(HISTORY_OUT, JSON.stringify(history, null, 2));
+      console.log(`  → History bootstrapped: ${historicalPoints.length} points`);
+    });
+  }
+
+  // Subsequent runs: just append
+  const existing = history.points.find(p => p.date === key);
+  if (!existing) {
+    history.points.push({
+      date: key,
+      candidates: withProb.map(c => ({
+        id: c.id,
+        trends: c.trendsScore,
+        youtube: c.youtubeScore,
+        sentiment: c.sentimentScore
+      }))
+    });
+    fs.writeFileSync(HISTORY_OUT, JSON.stringify(history, null, 2));
+    console.log(`  → History updated: ${history.points.length} total points`);
+  }
 }
 
 main().catch(e => { console.error(e); process.exit(1); });
