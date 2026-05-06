@@ -9,10 +9,7 @@
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-    html, body {
-      overflow-x: hidden;
-      max-width: 100%;
-    }
+    html, body { overflow-x: hidden; max-width: 100%; }
 
     body {
       font-family: 'Inter', system-ui, sans-serif;
@@ -44,29 +41,12 @@
       text-decoration: none;
       color: inherit;
     }
-    .brand-logo svg { display: block; }
-    .brand-text .title {
-      font-size: 1.1rem;
-      font-weight: 800;
-      letter-spacing: -0.02em;
-      color: #fff;
-    }
-    .brand-text .subtitle {
-      font-size: 0.72rem;
-      color: #64748b;
-      margin-top: 1px;
-    }
-    .last-update {
-      font-size: 0.72rem;
-      color: #64748b;
-    }
+    .brand-text .title { font-size: 1.1rem; font-weight: 800; letter-spacing: -0.02em; color: #fff; }
+    .brand-text .subtitle { font-size: 0.72rem; color: #64748b; margin-top: 1px; }
+    .last-update { font-size: 0.72rem; color: #64748b; }
 
     /* ── Main ── */
-    main {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 32px 24px 16px;
-    }
+    main { max-width: 1100px; margin: 0 auto; padding: 32px 24px 16px; }
 
     /* ── Disclaimer ── */
     .disclaimer {
@@ -83,7 +63,6 @@
     }
     .disclaimer svg { flex-shrink: 0; margin-top: 1px; }
 
-    /* ── Page title ── */
     h1 { font-size: 1.8rem; font-weight: 800; letter-spacing: -0.03em; margin-bottom: 6px; color: #fff; }
     .page-sub { color: #64748b; font-size: 0.9rem; margin-bottom: 32px; }
 
@@ -92,7 +71,6 @@
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr));
       gap: 16px;
-      margin-bottom: 0;
     }
 
     .card {
@@ -115,19 +93,11 @@
     .card:nth-child(3) { animation-delay: 0.19s; }
     .card:nth-child(4) { animation-delay: 0.26s; }
 
-    @keyframes fadeUp {
-      to { opacity: 1; transform: translateY(0); }
-    }
+    @keyframes fadeUp { to { opacity: 1; transform: translateY(0); } }
 
-    .card-header {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      margin-bottom: 18px;
-    }
+    .card-header { display: flex; align-items: center; gap: 12px; margin-bottom: 18px; }
     .candidate-photo {
-      width: 58px;
-      height: 58px;
+      width: 58px; height: 58px;
       border-radius: 50%;
       object-fit: cover;
       object-position: top center;
@@ -135,18 +105,8 @@
       border: 3px solid;
       background: #f1f5f9;
     }
-    .candidate-info {
-      flex: 1;
-      min-width: 0;
-      overflow: hidden;
-    }
-    .candidate-name {
-      font-size: 0.95rem;
-      font-weight: 700;
-      color: #0f172a;
-      line-height: 1.3;
-      word-break: break-word;
-    }
+    .candidate-info { flex: 1; min-width: 0; overflow: hidden; }
+    .candidate-name { font-size: 0.95rem; font-weight: 700; color: #0f172a; line-height: 1.3; word-break: break-word; }
     .candidate-party { font-size: 0.7rem; color: #64748b; margin-top: 2px; }
 
     .badge {
@@ -164,23 +124,12 @@
     .badge.down { color: #dc2626; background: #fef2f2; }
     .badge.flat { color: #64748b; background: #f1f5f9; }
 
-    .prob-row {
-      display: flex;
-      justify-content: space-between;
-      align-items: baseline;
-      margin-bottom: 8px;
-    }
-    .prob-label { font-size: 0.78rem; color: #64748b !important; }
-    .prob-value {
-      font-size: 2rem;
-      font-weight: 800;
-      letter-spacing: -0.04em;
-      line-height: 1;
-    }
+    .prob-row { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; }
+    .prob-label { font-size: 0.78rem; color: #64748b; }
+    .prob-value { font-size: 2rem; font-weight: 800; letter-spacing: -0.04em; line-height: 1; }
 
     .bar-track {
-      width: 100%;
-      height: 10px;
+      width: 100%; height: 10px;
       background: #f1f5f9;
       border-radius: 99px;
       overflow: hidden;
@@ -204,132 +153,56 @@
       border-top: 1px solid #f1f5f9;
       padding-top: 14px;
     }
-    .breakdown-row {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      margin-bottom: 7px;
-    }
+    .breakdown-row { display: flex; align-items: center; gap: 10px; margin-bottom: 7px; }
     .breakdown-label { font-size: 0.72rem; color: #64748b; width: 72px; flex-shrink: 0; white-space: nowrap; }
-    .breakdown-track {
-      flex: 1;
-      height: 5px;
-      background: #f1f5f9;
-      border-radius: 99px;
-      overflow: hidden;
-    }
-    .breakdown-fill {
-      height: 100%;
-      border-radius: 99px;
-      width: 0;
-      transition: width 1s ease 0.3s;
-    }
+    .breakdown-track { flex: 1; height: 5px; background: #f1f5f9; border-radius: 99px; overflow: hidden; }
+    .breakdown-fill { height: 100%; border-radius: 99px; width: 0; transition: width 1s ease 0.3s; }
     .breakdown-num { font-size: 0.7rem; font-weight: 600; color: #334155; width: 24px; text-align: right; }
 
     /* ── Sentiment gauge ── */
     .sentiment-bar {
-      display: flex;
-      height: 6px;
-      border-radius: 99px;
-      overflow: hidden;
-      width: 0;
-      transition: width 1s ease 0.4s;
+      display: flex; height: 6px;
+      border-radius: 99px; overflow: hidden;
+      width: 0; transition: width 1s ease 0.4s;
     }
     .sent-pos { background: #16a34a; }
     .sent-neu { background: #94a3b8; }
     .sent-neg { background: #dc2626; }
-    .sent-labels {
-      display: flex;
-      justify-content: space-between;
-      font-size: 0.62rem;
-      color: #94a3b8;
-      margin-top: 3px;
-    }
+    .sent-labels { display: flex; justify-content: space-between; font-size: 0.62rem; color: #94a3b8; margin-top: 3px; }
 
     /* ── Summary card ── */
     .summary-card {
-      background: #fff;
-      color: #0f172a;
+      background: #fff; color: #0f172a;
       border: 1px solid #e2e8f0;
       border-radius: 14px;
       padding: 20px;
       margin-bottom: 16px;
     }
     .summary-title {
-      font-size: 0.65rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: #94a3b8;
-      margin-bottom: 16px;
+      font-size: 0.65rem; font-weight: 700;
+      text-transform: uppercase; letter-spacing: 0.08em;
+      color: #94a3b8; margin-bottom: 16px;
     }
     .summary-row {
-      display: flex;
-      align-items: center;
-      gap: 8px;
+      display: flex; align-items: center; gap: 8px;
       padding: 8px 0;
       border-bottom: 1px solid #f1f5f9;
     }
     .summary-row:last-child { border-bottom: none; }
-    .summary-rank {
-      font-size: 0.75rem;
-      font-weight: 700;
-      color: #94a3b8;
-      width: 16px;
-      flex-shrink: 0;
-      text-align: center;
-    }
+    .summary-rank { font-size: 0.75rem; font-weight: 700; color: #94a3b8; width: 16px; flex-shrink: 0; text-align: center; }
     .summary-photo {
-      width: 36px;
-      height: 36px;
-      border-radius: 50%;
-      object-fit: cover;
-      object-position: top center;
-      flex-shrink: 0;
-      border: 2px solid;
-      background: #f1f5f9;
+      width: 36px; height: 36px;
+      border-radius: 50%; object-fit: cover; object-position: top center;
+      flex-shrink: 0; border: 2px solid; background: #f1f5f9;
     }
     .summary-info { flex: 1; min-width: 0; }
-    .summary-name {
-      font-size: 0.82rem;
-      font-weight: 700;
-      color: #0f172a;
-      line-height: 1.25;
-      word-break: break-word;
-    }
+    .summary-name { font-size: 0.82rem; font-weight: 700; color: #0f172a; line-height: 1.25; word-break: break-word; }
     .summary-party { font-size: 0.65rem; color: #94a3b8; margin-top: 2px; }
-    .summary-bar-wrap {
-      width: 56px;
-      flex-shrink: 0;
-    }
-    .summary-bar-track {
-      height: 6px;
-      background: #f1f5f9;
-      border-radius: 99px;
-      overflow: hidden;
-      margin-bottom: 3px;
-    }
-    .summary-bar-fill {
-      height: 100%;
-      border-radius: 99px;
-      width: 0;
-      transition: width 1.2s cubic-bezier(0.25,0.1,0.25,1);
-    }
-    .summary-pct {
-      font-size: 1rem;
-      font-weight: 800;
-      letter-spacing: -0.03em;
-      flex-shrink: 0;
-      width: 42px;
-      text-align: right;
-    }
-    .summary-momentum {
-      font-size: 0.6rem;
-      font-weight: 600;
-      flex-shrink: 0;
-      width: 52px;
-      text-align: right;
-    }
+    .summary-bar-wrap { width: 56px; flex-shrink: 0; }
+    .summary-bar-track { height: 6px; background: #f1f5f9; border-radius: 99px; overflow: hidden; margin-bottom: 3px; }
+    .summary-bar-fill { height: 100%; border-radius: 99px; width: 0; transition: width 1.2s cubic-bezier(0.25,0.1,0.25,1); }
+    .summary-pct { font-size: 1rem; font-weight: 800; letter-spacing: -0.03em; flex-shrink: 0; width: 42px; text-align: right; }
+    .summary-momentum { font-size: 0.6rem; font-weight: 600; flex-shrink: 0; width: 52px; text-align: right; }
     .summary-momentum.up   { color: #16a34a; }
     .summary-momentum.down { color: #dc2626; }
     .summary-momentum.flat { color: #94a3b8; }
@@ -337,100 +210,47 @@
     /* ── News ── */
     .news-section { margin-top: 24px; }
     .news-section-title {
-      font-size: 1rem;
-      font-weight: 700;
-      color: #fff;
+      font-size: 1rem; font-weight: 700; color: #fff;
       margin-bottom: 14px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
+      display: flex; align-items: center; gap: 8px;
     }
-    .news-section-title::after {
-      content: '';
-      flex: 1;
-      height: 1px;
-      background: #222;
-    }
+    .news-section-title::after { content: ''; flex: 1; height: 1px; background: #222; }
     .news-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
       gap: 10px;
     }
     .news-card {
-      background: #fff;
-      border-radius: 12px;
-      overflow: hidden;
-      text-decoration: none;
-      color: inherit;
-      display: flex;
-      flex-direction: column;
+      background: #fff; border-radius: 12px; overflow: hidden;
+      text-decoration: none; color: inherit;
+      display: flex; flex-direction: column;
       border-left: 4px solid #e2e8f0;
       transition: transform 0.15s, box-shadow 0.15s;
     }
     .news-card:hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
     .news-card-inner { padding: 14px 14px 12px; flex: 1; display: flex; flex-direction: column; gap: 6px; }
-    .news-meta {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      flex-wrap: wrap;
-    }
-    .news-source {
-      font-size: 0.65rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      color: #64748b;
-    }
+    .news-meta { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+    .news-source { font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: #64748b; }
     .news-dot { width: 3px; height: 3px; border-radius: 50%; background: #cbd5e1; flex-shrink: 0; }
     .news-date { font-size: 0.65rem; color: #94a3b8; }
     .news-title {
-      font-size: 0.85rem;
-      font-weight: 600;
-      color: #0f172a;
-      line-height: 1.4;
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
+      font-size: 0.85rem; font-weight: 600; color: #0f172a; line-height: 1.4;
+      display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
     }
-    .news-footer {
-      display: flex;
-      justify-content: flex-end;
-      align-items: center;
-      padding: 0 14px 10px;
-    }
-    .news-read {
-      font-size: 0.68rem;
-      font-weight: 600;
-      color: #64748b;
-      display: flex;
-      align-items: center;
-      gap: 3px;
-    }
+    .news-footer { display: flex; justify-content: flex-end; align-items: center; padding: 0 14px 10px; }
+    .news-read { font-size: 0.68rem; font-weight: 600; color: #64748b; display: flex; align-items: center; gap: 3px; }
 
-    /* ── States ── */
-    .state {
-      text-align: center;
-      padding: 64px 24px;
-      color: #94a3b8;
-      font-size: 0.9rem;
-    }
+    /* ── Loading state ── */
+    .state { text-align: center; padding: 64px 24px; color: #94a3b8; font-size: 0.9rem; }
     .state svg { margin: 0 auto 12px; display: block; }
 
     /* ── Refresh button ── */
     .refresh-btn {
-      font-size: 0.75rem;
-      padding: 5px 12px;
-      border: 1px solid #333;
-      border-radius: 8px;
-      background: #111;
-      color: #94a3b8;
-      cursor: pointer;
-      transition: background 0.15s;
-      display: flex;
-      align-items: center;
-      gap: 5px;
+      font-size: 0.75rem; padding: 5px 12px;
+      border: 1px solid #333; border-radius: 8px;
+      background: #111; color: #94a3b8;
+      cursor: pointer; transition: background 0.15s;
+      display: flex; align-items: center; gap: 5px;
     }
     .refresh-btn:hover { background: #1a1a1a; }
     .refresh-btn.spinning svg { animation: spin 0.8s linear infinite; }
@@ -438,94 +258,55 @@
 
     /* ── Footer ── */
     footer {
-      background: #000;
-      border-top: 1px solid #1a1a1a;
-      text-align: center;
-      padding: 16px 24px 12px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 4px;
+      background: #000; border-top: 1px solid #1a1a1a;
+      text-align: center; padding: 16px 24px 12px;
+      display: flex; flex-direction: column; align-items: center; gap: 4px;
     }
-    .footer-label {
-      font-size: 0.65rem;
-      color: #334155;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-    }
+    .footer-label { font-size: 0.65rem; color: #334155; letter-spacing: 0.06em; text-transform: uppercase; }
 
     /* ── Modal ── */
     .modal-overlay {
       display: none;
-      position: fixed;
-      inset: 0;
+      position: fixed; inset: 0;
       background: rgba(0,0,0,0.72);
       z-index: 1000;
-      align-items: center;
-      justify-content: center;
+      align-items: center; justify-content: center;
       padding: 16px;
     }
     .modal-overlay.open { display: flex; }
     .modal-box {
-      background: #fff;
-      border-radius: 16px;
-      width: 100%;
-      max-width: 580px;
-      padding: 24px;
-      color: #0f172a;
-      max-height: 88vh;
-      overflow-y: auto;
+      background: #fff; border-radius: 16px;
+      width: 100%; max-width: 580px;
+      padding: 24px; color: #0f172a;
+      max-height: 88vh; overflow-y: auto;
     }
-    .modal-header {
-      display: flex;
-      align-items: center;
-      gap: 14px;
-      margin-bottom: 20px;
-    }
+    .modal-header { display: flex; align-items: center; gap: 14px; margin-bottom: 20px; }
     .modal-photo {
       width: 56px; height: 56px;
-      border-radius: 50%;
-      object-fit: cover;
-      object-position: top center;
-      border: 3px solid;
-      background: #f1f5f9;
-      flex-shrink: 0;
+      border-radius: 50%; object-fit: cover; object-position: top center;
+      border: 3px solid; background: #f1f5f9; flex-shrink: 0;
     }
     .modal-candidate-info { flex: 1; min-width: 0; }
     .modal-name { font-size: 1rem; font-weight: 700; color: #0f172a; }
     .modal-party { font-size: 0.72rem; color: #64748b; margin-top: 2px; }
     .modal-close {
       width: 36px; height: 36px;
-      border: none; background: #f1f5f9;
-      border-radius: 50%; cursor: pointer;
-      display: flex; align-items: center; justify-content: center;
+      border: none; background: #f1f5f9; border-radius: 50%;
+      cursor: pointer; display: flex; align-items: center; justify-content: center;
       color: #64748b; flex-shrink: 0;
     }
     .modal-close:hover { background: #e2e8f0; }
     .modal-chart-title {
-      font-size: 0.65rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: #94a3b8;
-      margin-bottom: 12px;
+      font-size: 0.65rem; font-weight: 700;
+      text-transform: uppercase; letter-spacing: 0.08em;
+      color: #94a3b8; margin-bottom: 12px;
     }
     .modal-chart-wrap { position: relative; height: 260px; }
-    .modal-empty {
-      text-align: center;
-      padding: 40px 0;
-      color: #94a3b8;
-      font-size: 0.85rem;
-    }
+    .modal-empty { text-align: center; padding: 40px 0; color: #94a3b8; font-size: 0.85rem; }
     .card-click-hint {
-      font-size: 0.65rem;
-      color: #94a3b8;
-      text-align: center;
-      margin-top: 14px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 4px;
+      font-size: 0.65rem; color: #94a3b8;
+      text-align: center; margin-top: 14px;
+      display: flex; align-items: center; justify-content: center; gap: 4px;
     }
 
     /* ── Mobile ── */
@@ -533,21 +314,16 @@
       .header-inner { padding: 10px 14px; }
       .brand-text .title { font-size: 0.95rem; }
       .last-update { display: none; }
-
       main { padding: 16px 14px 8px; }
-      .page-sub { margin-bottom: 16px; }
       h1 { font-size: 1.4rem; }
-      .page-sub { font-size: 0.8rem; }
+      .page-sub { font-size: 0.8rem; margin-bottom: 16px; }
       .disclaimer { font-size: 0.75rem; padding: 10px 12px; }
       footer { padding: 12px 14px 8px; }
-
       .grid { gap: 12px; }
       .card { padding: 16px; }
-
       .candidate-photo { width: 52px; height: 52px; }
       .candidate-name { font-size: 0.92rem; }
       .prob-value { font-size: 1.7rem; }
-
       .breakdown-label { width: 72px; font-size: 0.68rem; }
       .breakdown-num { font-size: 0.65rem; }
       .sent-labels { font-size: 0.58rem; }
@@ -566,8 +342,8 @@
     </a>
     <div style="display:flex;align-items:center;gap:12px;">
       <span class="last-update" id="lastUpdate"></span>
-      <button class="refresh-btn" id="refreshBtn" onclick="forceRefresh()">
-        <svg id="refreshIcon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <button class="refresh-btn" id="refreshBtn" onclick="loadData()">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
           <path d="M23 4v6h-6"/><path d="M1 20v-6h6"/>
           <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
         </svg>
@@ -603,12 +379,10 @@
     <div class="news-section-title">Últimas noticias</div>
     <div class="news-grid" id="newsGrid"></div>
   </div>
-
 </main>
 
 <footer>
   <span class="footer-label">Powered by</span>
-  <!-- Prisma logo: two overlapping triangles blue + pink -->
   <svg width="110" height="32" viewBox="0 0 160 46" fill="none" xmlns="http://www.w3.org/2000/svg">
     <polygon points="18,4 36,36 0,36" fill="#0E96D5" opacity="0.92"/>
     <polygon points="28,10 46,42 10,42" fill="#D41B60" opacity="0.82"/>
@@ -616,9 +390,8 @@
   </svg>
 </footer>
 
-<!-- History Modal -->
 <div class="modal-overlay" id="modalOverlay" onclick="handleOverlayClick(event)">
-  <div class="modal-box" id="modalBox">
+  <div class="modal-box">
     <div class="modal-header">
       <img id="modalPhoto" class="modal-photo" src="" alt="" onerror="this.style.display='none'" />
       <div class="modal-candidate-info">
@@ -643,31 +416,11 @@
 
 <script>
   const CANDIDATES_META = {
-    ivan_cepeda: {
-      color: '#E63946',
-      photo: './images/ivan_cepeda.jpg',
-      shortName: 'Cepeda'
-    },
-    abelardo_espriella: {
-      color: '#1D3557',
-      photo: './images/abelardo_espriella.jpg',
-      shortName: 'De la Espriella'
-    },
-    paloma_valencia: {
-      color: '#457B9D',
-      photo: './images/paloma_valencia.jpg',
-      shortName: 'Valencia'
-    },
-    sergio_fajardo: {
-      color: '#2A9D8F',
-      photo: './images/sergio_fajardo.jpg',
-      shortName: 'Fajardo'
-    }
+    ivan_cepeda:        { color: '#E63946', photo: './images/ivan_cepeda.jpg',        shortName: 'Cepeda'          },
+    abelardo_espriella: { color: '#1D3557', photo: './images/abelardo_espriella.jpg', shortName: 'De la Espriella' },
+    paloma_valencia:    { color: '#457B9D', photo: './images/paloma_valencia.jpg',    shortName: 'Valencia'        },
+    sergio_fajardo:     { color: '#2A9D8F', photo: './images/sergio_fajardo.jpg',     shortName: 'Fajardo'         }
   };
-
-  const CANDIDATE_COLORS = Object.fromEntries(
-    Object.entries(CANDIDATES_META).map(([id, v]) => [id, v.color])
-  );
 
   function momentumIcon(dir) {
     if (dir === 'up')   return '<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>';
@@ -676,19 +429,13 @@
   }
 
   function renderCandidates(candidates) {
-    const grid = document.getElementById('candidateGrid');
-    grid.innerHTML = candidates.map((c, i) => {
+    document.getElementById('candidateGrid').innerHTML = candidates.map(c => {
       const meta = CANDIDATES_META[c.id] || {};
       return `
       <div class="card" onclick="openModal('${c.id}')">
         <div class="card-header">
-          <img
-            class="candidate-photo"
-            src="${meta.photo || ''}"
-            alt="${c.name}"
-            style="border-color:${c.color}"
-            onerror="this.style.display='none'"
-          />
+          <img class="candidate-photo" src="${meta.photo || ''}" alt="${c.name}"
+            style="border-color:${c.color}" onerror="this.style.display='none'" />
           <div class="candidate-info">
             <div class="candidate-name">${c.name}</div>
             <div class="candidate-party">${c.party}</div>
@@ -698,7 +445,6 @@
             </div>
           </div>
         </div>
-
         <div class="prob-row">
           <span class="prob-label">Momentum relativo</span>
           <span class="prob-value" style="color:${c.color}">${c.probability}%</span>
@@ -706,36 +452,28 @@
         <div class="bar-track">
           <div class="bar-fill" style="background:${c.color}" data-width="${c.probability}"></div>
         </div>
-
         <div class="breakdown-title">Señales digitales</div>
         <div class="breakdown-row">
           <span class="breakdown-label">Trends</span>
-          <div class="breakdown-track">
-            <div class="breakdown-fill" style="background:${c.color}" data-width="${c.trendsScore ?? 0}"></div>
-          </div>
+          <div class="breakdown-track"><div class="breakdown-fill" style="background:${c.color}" data-width="${c.trendsScore ?? 0}"></div></div>
           <span class="breakdown-num">${c.trendsScore ?? 0}</span>
         </div>
         <div class="breakdown-row">
           <span class="breakdown-label">YouTube</span>
-          <div class="breakdown-track">
-            <div class="breakdown-fill" style="background:${c.color}" data-width="${c.youtubeScore ?? 0}"></div>
-          </div>
+          <div class="breakdown-track"><div class="breakdown-fill" style="background:${c.color}" data-width="${c.youtubeScore ?? 0}"></div></div>
           <span class="breakdown-num">${c.youtubeScore ?? 0}</span>
         </div>
         <div class="breakdown-row">
           <span class="breakdown-label">Sentimiento</span>
-          <div class="breakdown-track">
-            <div class="breakdown-fill" style="background:${c.color}" data-width="${c.sentimentScore ?? 0}"></div>
-          </div>
+          <div class="breakdown-track"><div class="breakdown-fill" style="background:${c.color}" data-width="${c.sentimentScore ?? 0}"></div></div>
           <span class="breakdown-num">${c.sentimentScore ?? 0}</span>
         </div>
-
         ${c.sentimentPct ? `
         <div class="breakdown-row" style="margin-top:8px;align-items:flex-start;flex-direction:column;gap:4px;">
           <span class="breakdown-label" style="width:auto">Tono comentarios YouTube</span>
           <div style="width:100%">
             <div class="breakdown-track" style="height:6px;background:#f1f5f9">
-              <div class="sentiment-bar" data-pos="${c.sentimentPct.positive ?? 0}" data-neu="${c.sentimentPct.neutral ?? 0}" data-neg="${c.sentimentPct.negative ?? 0}">
+              <div class="sentiment-bar">
                 <div class="sent-pos" style="flex:${c.sentimentPct.positive ?? 0}"></div>
                 <div class="sent-neu" style="flex:${c.sentimentPct.neutral ?? 0}"></div>
                 <div class="sent-neg" style="flex:${c.sentimentPct.negative ?? 0}"></div>
@@ -752,23 +490,15 @@
           <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
           Ver métricas históricas
         </div>
-      </div>
-    `;}).join('');
+      </div>`;
+    }).join('');
 
     renderSummary(candidates);
 
-    // animate bars after paint
-    requestAnimationFrame(() => {
-      requestAnimationFrame(() => {
-        document.querySelectorAll('[data-width]').forEach(el => {
-          el.style.width = el.dataset.width + '%';
-        });
-        // sentiment bars animate to full width (flex does the proportion)
-        document.querySelectorAll('.sentiment-bar').forEach(el => {
-          el.style.width = '100%';
-        });
-      });
-    });
+    requestAnimationFrame(() => requestAnimationFrame(() => {
+      document.querySelectorAll('[data-width]').forEach(el => { el.style.width = el.dataset.width + '%'; });
+      document.querySelectorAll('.sentiment-bar').forEach(el => { el.style.width = '100%'; });
+    }));
   }
 
   function renderSummary(candidates) {
@@ -782,9 +512,8 @@
         return `
         <div class="summary-row">
           <span class="summary-rank">${i + 1}</span>
-          <img class="summary-photo" src="${meta.photo || ''}"
-            alt="${c.name}" style="border-color:${c.color}"
-            onerror="this.style.display='none'"/>
+          <img class="summary-photo" src="${meta.photo || ''}" alt="${c.name}"
+            style="border-color:${c.color}" onerror="this.style.display='none'"/>
           <div class="summary-info">
             <div class="summary-name">${meta.shortName || c.name}</div>
             <div class="summary-party">${c.party}</div>
@@ -802,18 +531,12 @@
     el.style.display = 'block';
   }
 
-
   function renderNews(articles) {
     if (!articles || articles.length === 0) return;
-    const grid = document.getElementById('newsGrid');
-    const section = document.getElementById('newsSection');
-
-    grid.innerHTML = articles.map(a => {
-      const date = new Date(a.pubDate);
-      const dateStr = date.toLocaleDateString('es-CO', { day: 'numeric', month: 'short' });
-      const color = a.candidateColor || '#64748b';
+    document.getElementById('newsGrid').innerHTML = articles.map(a => {
+      const dateStr = new Date(a.pubDate).toLocaleDateString('es-CO', { day: 'numeric', month: 'short' });
       return `
-      <a class="news-card" href="${a.link}" target="_blank" rel="noopener" style="border-left-color:${color}">
+      <a class="news-card" href="${a.link}" target="_blank" rel="noopener" style="border-left-color:${a.candidateColor || '#64748b'}">
         <div class="news-card-inner">
           <div class="news-meta">
             <span class="news-source">${a.source}</span>
@@ -831,28 +554,22 @@
         </div>
       </a>`;
     }).join('');
-
-    section.style.display = 'block';
+    document.getElementById('newsSection').style.display = 'block';
   }
 
-  async function loadData(force = false) {
-    const url = './data.json?t=' + Date.now();
+  async function loadData() {
     const btn = document.getElementById('refreshBtn');
     btn.classList.add('spinning');
-
     try {
-      const res = await fetch(url);
+      const res = await fetch('./data.json?t=' + Date.now());
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
-
       const sorted = [...data.candidates].sort((a, b) => b.probability - a.probability);
       window._candidatesData = sorted;
       renderCandidates(sorted);
       renderNews(data.articles);
-
-      const updated = new Date(data.updatedAt);
       document.getElementById('lastUpdate').textContent =
-        'Actualizado: ' + updated.toLocaleTimeString('es-CO', { hour: '2-digit', minute: '2-digit' });
+        'Actualizado: ' + new Date(data.updatedAt).toLocaleTimeString('es-CO', { hour: '2-digit', minute: '2-digit' });
     } catch (err) {
       document.getElementById('candidateGrid').innerHTML =
         `<div class="state" style="grid-column:1/-1;color:#ef4444">Error al cargar datos: ${err.message}</div>`;
@@ -861,23 +578,14 @@
     }
   }
 
-  function forceRefresh() { loadData(true); }
-
-  // Auto-resize iframe in parent (Squarespace)
   function reportHeight() {
-    const h = document.body.offsetHeight;
-    window.parent.postMessage({ pulsoHeight: h }, '*');
+    window.parent.postMessage({ pulsoHeight: document.body.offsetHeight }, '*');
   }
 
-  // load on start, then every 5 min check for freshness
-  loadData().then(() => {
-    setTimeout(reportHeight, 800);
-    setTimeout(reportHeight, 1800); // second pass after animations
-  });
-  setInterval(() => loadData(), 5 * 60 * 1000);
+  loadData().then(() => { setTimeout(reportHeight, 800); setTimeout(reportHeight, 1800); });
+  setInterval(loadData, 5 * 60 * 1000);
   window.addEventListener('resize', reportHeight);
 
-  // ── History Modal ──────────────────────────────────────────────────────────
   let _chartInstance = null;
   let _historyData = null;
 
@@ -886,8 +594,7 @@
     return new Promise((resolve, reject) => {
       const s = document.createElement('script');
       s.src = 'https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js';
-      s.onload = resolve;
-      s.onerror = reject;
+      s.onload = resolve; s.onerror = reject;
       document.head.appendChild(s);
     });
   }
@@ -896,33 +603,22 @@
     if (_historyData !== null) return _historyData;
     try {
       const res = await fetch('./history.json?t=' + Date.now());
-      if (!res.ok) { _historyData = {}; return _historyData; }
-      _historyData = await res.json();
-      return _historyData;
-    } catch (e) {
-      _historyData = {};
-      return _historyData;
-    }
+      _historyData = res.ok ? await res.json() : {};
+    } catch (e) { _historyData = {}; }
+    return _historyData;
   }
 
   function openModal(candidateId) {
-    const overlay = document.getElementById('modalOverlay');
-    overlay.classList.add('open');
+    document.getElementById('modalOverlay').classList.add('open');
     document.body.style.overflow = 'hidden';
-
     const candidate = (window._candidatesData || []).find(c => c.id === candidateId);
     if (!candidate) return;
     const meta = CANDIDATES_META[candidateId] || {};
-
     const photo = document.getElementById('modalPhoto');
-    photo.src = meta.photo || '';
-    photo.style.borderColor = candidate.color;
-    photo.style.display = '';
+    photo.src = meta.photo || ''; photo.style.borderColor = candidate.color; photo.style.display = '';
     document.getElementById('modalName').textContent = candidate.name;
     document.getElementById('modalParty').textContent = candidate.party;
-
-    Promise.all([loadHistory(), loadChartJs()])
-      .then(([history]) => renderChart(candidateId, candidate, history));
+    Promise.all([loadHistory(), loadChartJs()]).then(([history]) => renderChart(candidateId, candidate, history));
   }
 
   function handleOverlayClick(e) {
@@ -940,21 +636,14 @@
     const emptyEl = document.getElementById('modalEmpty');
     if (_chartInstance) { _chartInstance.destroy(); _chartInstance = null; }
 
-    const points = (history?.points || []).filter(p =>
-      p.candidates?.some(c => c.id === candidateId)
-    );
-
+    const points = (history?.points || []).filter(p => p.candidates?.some(c => c.id === candidateId));
     if (points.length === 0) {
-      canvas.style.display = 'none';
-      emptyEl.style.display = 'block';
-      return;
+      canvas.style.display = 'none'; emptyEl.style.display = 'block'; return;
     }
-    canvas.style.display = 'block';
-    emptyEl.style.display = 'none';
+    canvas.style.display = 'block'; emptyEl.style.display = 'none';
 
     const labels = points.map(p => {
-      const s = p.date.length > 10 ? p.date : p.date + 'T12:00';
-      const d = new Date(s);
+      const d = new Date(p.date.length > 10 ? p.date : p.date + 'T12:00');
       return d.toLocaleDateString('es-CO', { day: 'numeric', month: 'short' });
     });
 
@@ -969,36 +658,9 @@
       data: {
         labels,
         datasets: [
-          {
-            label: 'Google Trends',
-            data: get('trends'),
-            borderColor: candidate.color,
-            backgroundColor: candidate.color + '18',
-            borderWidth: 2.5,
-            pointRadius: 2.5,
-            tension: 0.35,
-            spanGaps: true
-          },
-          {
-            label: 'YouTube',
-            data: get('youtube'),
-            borderColor: '#F59E0B',
-            backgroundColor: '#F59E0B18',
-            borderWidth: 2.5,
-            pointRadius: 2.5,
-            tension: 0.35,
-            spanGaps: false
-          },
-          {
-            label: 'Sentimiento IA',
-            data: get('sentiment'),
-            borderColor: '#8B5CF6',
-            backgroundColor: '#8B5CF618',
-            borderWidth: 2.5,
-            pointRadius: 2.5,
-            tension: 0.35,
-            spanGaps: false
-          }
+          { label: 'Google Trends', data: get('trends'), borderColor: candidate.color, backgroundColor: candidate.color + '18', borderWidth: 2.5, pointRadius: 2.5, tension: 0.35, spanGaps: true },
+          { label: 'YouTube',       data: get('youtube'), borderColor: '#F59E0B', backgroundColor: '#F59E0B18', borderWidth: 2.5, pointRadius: 2.5, tension: 0.35, spanGaps: false },
+          { label: 'Sentimiento IA',data: get('sentiment'), borderColor: '#8B5CF6', backgroundColor: '#8B5CF618', borderWidth: 2.5, pointRadius: 2.5, tension: 0.35, spanGaps: false }
         ]
       },
       options: {
@@ -1008,25 +670,12 @@
         plugins: {
           legend: {
             position: 'bottom',
-            labels: {
-              font: { size: 11, family: "'Inter', system-ui, sans-serif" },
-              color: '#64748b',
-              boxWidth: 12,
-              padding: 16,
-              usePointStyle: true
-            }
+            labels: { font: { size: 11, family: "'Inter', system-ui, sans-serif" }, color: '#64748b', boxWidth: 12, padding: 16, usePointStyle: true }
           }
         },
         scales: {
-          x: {
-            grid: { color: '#f1f5f9' },
-            ticks: { color: '#94a3b8', font: { size: 10 }, maxTicksLimit: 8 }
-          },
-          y: {
-            min: 0, max: 100,
-            grid: { color: '#f1f5f9' },
-            ticks: { color: '#94a3b8', font: { size: 10 }, stepSize: 25 }
-          }
+          x: { grid: { color: '#f1f5f9' }, ticks: { color: '#94a3b8', font: { size: 10 }, maxTicksLimit: 8 } },
+          y: { min: 0, max: 100, grid: { color: '#f1f5f9' }, ticks: { color: '#94a3b8', font: { size: 10 }, stepSize: 25 } }
         }
       }
     });
