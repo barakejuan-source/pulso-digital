@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-06T23:04:28.330Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-05-07T01:04:21.577Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -8,20 +8,20 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 50,
-      "youtubeScore": 5,
-      "sentimentScore": 15,
+      "youtubeScore": 11,
+      "sentimentScore": 25,
       "sentimentPct": {
-        "positive": 14.8,
-        "negative": 47.2,
-        "neutral": 38
+        "positive": 25,
+        "negative": 49,
+        "neutral": 26
       },
-      "youtubeViews": 275641,
-      "finalScore": 26,
+      "youtubeViews": 715831,
+      "finalScore": 31,
       "momentum": {
-        "value": 13,
+        "value": 19.2,
         "direction": "up"
       },
-      "probability": 17.1
+      "probability": 19.6
     },
     {
       "id": "abelardo_espriella",
@@ -30,19 +30,19 @@
       "color": "#1D3557",
       "trendsScore": 100,
       "youtubeScore": 12,
-      "sentimentScore": 24,
+      "sentimentScore": 25,
       "sentimentPct": {
-        "positive": 23.5,
-        "negative": 43,
-        "neutral": 33.5
+        "positive": 25,
+        "negative": 40.5,
+        "neutral": 34.5
       },
-      "youtubeViews": 765358,
+      "youtubeViews": 769361,
       "finalScore": 51,
       "momentum": {
-        "value": -3.8,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 33.6
+      "probability": 32.3
     },
     {
       "id": "paloma_valencia",
@@ -51,19 +51,19 @@
       "color": "#457B9D",
       "trendsScore": 63,
       "youtubeScore": 100,
-      "sentimentScore": 22,
+      "sentimentScore": 25,
       "sentimentPct": {
-        "positive": 21.8,
-        "negative": 43.6,
-        "neutral": 34.7
+        "positive": 25,
+        "negative": 38.2,
+        "neutral": 36.8
       },
-      "youtubeViews": 6507425,
-      "finalScore": 62,
+      "youtubeViews": 6492090,
+      "finalScore": 63,
       "momentum": {
         "value": 1.6,
         "direction": "flat"
       },
-      "probability": 40.8
+      "probability": 39.9
     },
     {
       "id": "sergio_fajardo",
@@ -72,51 +72,35 @@
       "color": "#2A9D8F",
       "trendsScore": 13,
       "youtubeScore": 6,
-      "sentimentScore": 20,
+      "sentimentScore": 21,
       "sentimentPct": {
-        "positive": 20.2,
+        "positive": 20.6,
         "negative": 52.2,
-        "neutral": 27.6
+        "neutral": 27.2
       },
-      "youtubeViews": 361032,
+      "youtubeViews": 362215,
       "finalScore": 13,
       "momentum": {
-        "value": 8.3,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 8.6
+      "probability": 8.2
     }
   ],
   "articles": [
     {
-      "title": "Se disparan las especulaciones sobre una posible campaña presidencial de Marco Rubio",
-      "link": "https://www.infobae.com/america/agencias/2026/05/06/se-disparan-las-especulaciones-sobre-una-posible-campana-presidencial-de-marco-rubio/",
-      "source": "Infobae",
-      "pubDate": "Wed, 06 May 2026 22:30:44 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Denuncia de Iván Cepeda sobre presiones de grupos armados para las elecciones abrió disputa con Paloma Valencia, ¿por qué?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/denuncia-de-ivan-cepeda-sobre-presiones-de-grupos-armados-para-las-elecciones-abrio-disputa-con-paloma-valencia-por-que-3553625",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-06T19:51:58-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "La representante Catherine Juvinao impugnó ante el CNE la resolución de la Alianza Verde en la que se oficializó el apoyo a Iván Cepeda",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-representante-catherine-juvinao-impugno-ante-el-cne-la-resolucion-de-la-alianza-verde-en-la-que-se-oficializo-el-apoyo-a-ivan-cepeda-3553660",
       "source": "El Tiempo",
       "pubDate": "2026-05-06T17:25:03-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Los Char alistan acto formal de adhesión a la campaña de Abelardo De la Espriella: Elsa Noguera también lo apoyará",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-char-alistan-acto-formal-de-adhesion-a-la-campana-de-abelardo-de-la-espriella-elsa-noguera-tambien-lo-apoyara-3553529",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-06T14:23:18-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Luis Gilberto Murillo se sumó oficialmente a la campaña presidencial de Iván Cepeda: 'Aquí hay una oportunidad real, vamos a ganar en primera'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/luis-gilberto-murillo-se-suma-oficialmente-a-la-campana-presidencial-de-ivan-cepeda-aqui-hay-una-oportunidad-real-3553549",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-06T11:57:55-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
