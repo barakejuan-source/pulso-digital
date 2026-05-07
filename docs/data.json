@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T08:04:25.147Z",
+  "updatedAt": "2026-05-07T16:30:16.923Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -89,6 +89,62 @@
   ],
   "articles": [
     {
+      "title": "Segunda vuelta 2026 en Perú: fecha oficial, cambios en la ONPE, debate y todo lo que necesitas saber antes del 7 de junio",
+      "link": "https://www.infobae.com/peru/2026/05/05/segunda-vuelta-2026-en-peru-fecha-oficial-cambios-debate-y-todo-lo-que-necesitas-saber-antes-del-7-de-junio/",
+      "source": "Infobae",
+      "pubDate": "Thu, 07 May 2026 16:25:48 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella propone diálogo interinstitucional entre su gobierno, altas cortes y Congreso: 'El desafío que tenemos es muy complicado'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-propone-dialogo-interinstitucional-entre-su-gobierno-altas-cortes-y-congreso-el-desafio-que-tenemos-es-muy-complicado-3553842",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-07T11:13:37-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Por qué no termina el escrutinio en Perú a un mes de la segunda vuelta?",
+      "link": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260507-por-qu%C3%A9-no-termina-el-escrutinio-en-per%C3%BA-a-un-mes-de-la-segunda-vuelta",
+      "source": "France 24",
+      "pubDate": "Thu, 07 May 2026 15:43:29 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Directo Latam y las movidas de poder de los candidatos a las elecciones presidenciales en Colombia",
+      "link": "https://www.france24.com/es/video/20260507-directo-latam-y-las-movidas-de-poder-de-los-candidatos-a-las-elecciones-presidenciales-en-colombia",
+      "source": "France 24",
+      "pubDate": "Thu, 07 May 2026 14:56:59 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Iván Cepeda: 'Se han presentado hechos de corrupción que vamos a erradicar en nuestro segundo gobierno'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-se-han-presentado-hechos-de-corrupcion-que-vamos-a-erradicar-en-nuestro-segundo-gobierno-3553800",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-07T09:26:24-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Paloma Valencia, candidata presidencial, denuncia presunto hackeo de su celular y sus chats de WhatsApp; su abogado llevará el caso ante la justicia",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/paloma-valencia-candidata-presidencial-denuncia-hackeo-de-su-celular-y-chats-de-whatsapp-abogado-jaime-lombana-llevara-el-caso-ante-la-justicia-3553774",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-07T08:16:30-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "La constituyente de Petro en la recta final de la campaña",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-constituyente-de-petro-en-la-recta-final-de-la-campana/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 07 May 2026 12:00:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "La realización de los debates vuelve a la discusión en la contienda presidencial: ¿se logrará uno en el que participen los tres punteros?",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-realizacion-de-los-debates-vuelve-a-la-discusion-en-la-contienda-presidencial-se-lograra-uno-en-el-que-participen-los-tres-punteros-3553731",
       "source": "El Tiempo",
@@ -101,14 +157,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/denuncia-de-ivan-cepeda-sobre-presiones-de-grupos-armados-para-las-elecciones-abrio-disputa-con-paloma-valencia-por-que-3553625",
       "source": "El Tiempo",
       "pubDate": "2026-05-06T19:51:58-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "La representante Catherine Juvinao impugnó ante el CNE la resolución de la Alianza Verde en la que se oficializó el apoyo a Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-representante-catherine-juvinao-impugno-ante-el-cne-la-resolucion-de-la-alianza-verde-en-la-que-se-oficializo-el-apoyo-a-ivan-cepeda-3553660",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-06T17:25:03-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
