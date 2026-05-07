@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T01:04:21.577Z",
+  "updatedAt": "2026-05-07T03:03:53.370Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -8,20 +8,20 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 50,
-      "youtubeScore": 11,
-      "sentimentScore": 25,
+      "youtubeScore": 100,
+      "sentimentScore": 20,
       "sentimentPct": {
-        "positive": 25,
-        "negative": 49,
-        "neutral": 26
+        "positive": 20.3,
+        "negative": 45.7,
+        "neutral": 34
       },
-      "youtubeViews": 715831,
-      "finalScore": 31,
+      "youtubeViews": 757066,
+      "finalScore": 56,
       "momentum": {
-        "value": 19.2,
+        "value": 80.6,
         "direction": "up"
       },
-      "probability": 19.6
+      "probability": 32.2
     },
     {
       "id": "abelardo_espriella",
@@ -29,20 +29,20 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 12,
-      "sentimentScore": 25,
+      "youtubeScore": 39,
+      "sentimentScore": 35,
       "sentimentPct": {
-        "positive": 25,
-        "negative": 40.5,
-        "neutral": 34.5
+        "positive": 34.5,
+        "negative": 35,
+        "neutral": 30.5
       },
-      "youtubeViews": 769361,
-      "finalScore": 51,
+      "youtubeViews": 289751,
+      "finalScore": 62,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": 21.6,
+        "direction": "up"
       },
-      "probability": 32.3
+      "probability": 35.6
     },
     {
       "id": "paloma_valencia",
@@ -50,20 +50,20 @@
       "party": "Centro Democrático",
       "color": "#457B9D",
       "trendsScore": 63,
-      "youtubeScore": 100,
-      "sentimentScore": 25,
+      "youtubeScore": 9,
+      "sentimentScore": 15,
       "sentimentPct": {
-        "positive": 25,
-        "negative": 38.2,
-        "neutral": 36.8
+        "positive": 14.5,
+        "negative": 53.3,
+        "neutral": 32.2
       },
-      "youtubeViews": 6492090,
-      "finalScore": 63,
+      "youtubeViews": 58559,
+      "finalScore": 32,
       "momentum": {
-        "value": 1.6,
-        "direction": "flat"
+        "value": -49.2,
+        "direction": "down"
       },
-      "probability": 39.9
+      "probability": 18.4
     },
     {
       "id": "sergio_fajardo",
@@ -71,23 +71,31 @@
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
       "trendsScore": 13,
-      "youtubeScore": 6,
-      "sentimentScore": 21,
+      "youtubeScore": 46,
+      "sentimentScore": 18,
       "sentimentPct": {
-        "positive": 20.6,
-        "negative": 52.2,
+        "positive": 18.3,
+        "negative": 54.5,
         "neutral": 27.2
       },
-      "youtubeViews": 362215,
-      "finalScore": 13,
+      "youtubeViews": 343326,
+      "finalScore": 24,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": 84.6,
+        "direction": "up"
       },
-      "probability": 8.2
+      "probability": 13.8
     }
   ],
   "articles": [
+    {
+      "title": "Paloma Valencia aseguró que no recibe órdenes de Álvaro Uribe: “Jamás me ha tratado de decir qué tengo que hacer”",
+      "link": "https://www.infobae.com/colombia/2026/05/07/paloma-valencia-aseguro-que-no-recibe-ordenes-de-alvaro-uribe-jamas-me-ha-tratado-de-decir-que-tengo-que-hacer/",
+      "source": "Infobae",
+      "pubDate": "Thu, 07 May 2026 02:47:50 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
     {
       "title": "Denuncia de Iván Cepeda sobre presiones de grupos armados para las elecciones abrió disputa con Paloma Valencia, ¿por qué?",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/denuncia-de-ivan-cepeda-sobre-presiones-de-grupos-armados-para-las-elecciones-abrio-disputa-con-paloma-valencia-por-que-3553625",
