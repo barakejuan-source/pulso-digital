@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T03:03:53.370Z",
+  "updatedAt": "2026-05-07T05:01:44.784Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -18,8 +18,8 @@
       "youtubeViews": 757066,
       "finalScore": 56,
       "momentum": {
-        "value": 80.6,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 32.2
     },
@@ -29,7 +29,7 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 39,
+      "youtubeScore": 38,
       "sentimentScore": 35,
       "sentimentPct": {
         "positive": 34.5,
@@ -39,8 +39,8 @@
       "youtubeViews": 289751,
       "finalScore": 62,
       "momentum": {
-        "value": 21.6,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 35.6
     },
@@ -50,7 +50,7 @@
       "party": "Centro Democrático",
       "color": "#457B9D",
       "trendsScore": 63,
-      "youtubeScore": 9,
+      "youtubeScore": 8,
       "sentimentScore": 15,
       "sentimentPct": {
         "positive": 14.5,
@@ -60,8 +60,8 @@
       "youtubeViews": 58559,
       "finalScore": 32,
       "momentum": {
-        "value": -49.2,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 18.4
     },
@@ -71,7 +71,7 @@
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
       "trendsScore": 13,
-      "youtubeScore": 46,
+      "youtubeScore": 45,
       "sentimentScore": 18,
       "sentimentPct": {
         "positive": 18.3,
@@ -81,20 +81,28 @@
       "youtubeViews": 343326,
       "finalScore": 24,
       "momentum": {
-        "value": 84.6,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 13.8
     }
   ],
   "articles": [
     {
-      "title": "Paloma Valencia aseguró que no recibe órdenes de Álvaro Uribe: “Jamás me ha tratado de decir qué tengo que hacer”",
-      "link": "https://www.infobae.com/colombia/2026/05/07/paloma-valencia-aseguro-que-no-recibe-ordenes-de-alvaro-uribe-jamas-me-ha-tratado-de-decir-que-tengo-que-hacer/",
+      "title": "MOE ve difícil una victoria en primera vuelta y alerta por presión armada en elecciones presidenciales",
+      "link": "https://www.infobae.com/colombia/2026/05/07/moe-ve-dificil-una-victoria-en-primera-vuelta-y-alerta-por-presion-armada-en-elecciones-presidenciales/",
       "source": "Infobae",
-      "pubDate": "Thu, 07 May 2026 02:47:50 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
+      "pubDate": "Thu, 07 May 2026 04:53:13 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "La realización de los debates vuelve a la discusión en la contienda presidencial: ¿se logrará uno en el que participen los tres punteros?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-realizacion-de-los-debates-vuelve-a-la-discusion-en-la-contienda-presidencial-se-lograra-uno-en-el-que-participen-los-tres-punteros-3553731",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-06T22:12:51-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Denuncia de Iván Cepeda sobre presiones de grupos armados para las elecciones abrió disputa con Paloma Valencia, ¿por qué?",
