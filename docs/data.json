@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T10:56:46.697Z",
+  "updatedAt": "2026-05-08T16:55:48.399Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -89,20 +89,20 @@
   ],
   "articles": [
     {
-      "title": "Alternativa de implementar el acuerdo nacional vía decreto, una de las opciones de Iván Cepeda: ¿qué tan viable es?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/alternativa-de-implementar-el-acuerdo-nacional-via-decreto-una-de-las-opciones-de-ivan-cepeda-que-tan-viable-es-3553968",
+      "title": "El choque entre el presidente Gustavo Petro y Paloma Valencia por el proyecto de bonos escolares",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-choque-entre-el-presidente-gustavo-petro-y-paloma-valencia-por-el-proyecto-de-bonos-escolares-3554178",
       "source": "El Tiempo",
-      "pubDate": "2026-05-07T21:55:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "2026-05-08T11:21:41-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
     },
     {
-      "title": "Abelardo $32 mil millones; Paloma $15 mil millones: así va la financiación",
-      "link": "https://www.lasillavacia.com/en-vivo/abelardo-32-mil-millones-paloma-15-mil-millones-asi-va-la-financiacion/",
+      "title": "Desayune informado con las claves de este 8 de mayo de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-8-de-mayo-de-2026/",
       "source": "La Silla Vacía",
-      "pubDate": "Thu, 07 May 2026 22:18:10 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Fri, 08 May 2026 12:18:30 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     }
   ]
 }
