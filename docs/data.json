@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T16:55:48.399Z",
+  "updatedAt": "2026-05-08T21:38:43.019Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -89,20 +89,28 @@
   ],
   "articles": [
     {
+      "title": "Paloma Valencia arremete contra la 'paz total' e Iván Cepeda en el más reciente debate presidencial: 'Un gran peligro para Colombia'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-arremete-contra-la-paz-total-e-ivan-cepeda-en-el-mas-reciente-debate-presidencial-un-gran-peligro-para-colombia-3554257",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-08T16:01:05-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Arranca imputación contra Ricardo Roa por violación de topes electorales",
+      "link": "https://www.lasillavacia.com/en-vivo/arranca-imputacion-contra-ricardo-roa-por-violacion-de-topes-electorales/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 08 May 2026 19:52:55 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "El choque entre el presidente Gustavo Petro y Paloma Valencia por el proyecto de bonos escolares",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-choque-entre-el-presidente-gustavo-petro-y-paloma-valencia-por-el-proyecto-de-bonos-escolares-3554178",
       "source": "El Tiempo",
       "pubDate": "2026-05-08T11:21:41-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Desayune informado con las claves de este 8 de mayo de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-8-de-mayo-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 08 May 2026 12:18:30 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
