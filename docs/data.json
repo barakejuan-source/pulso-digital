@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T15:17:37.020Z",
+  "updatedAt": "2026-05-09T19:47:32.286Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -89,20 +89,44 @@
   ],
   "articles": [
     {
+      "title": "Abelardo de la Espriella denuncia presunto plan para atentar contra su vida y señala a la DNI: 'No voy a dejar de hacer campaña'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-denuncia-presunto-plan-para-atentar-contra-su-vida-y-senala-a-la-dni-no-voy-a-dejar-de-hacer-campana-3554471",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-09T14:29:08-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Álvaro Uribe Vélez se pronunció por la muerte de Germán Vargas Lleras, líder de Cambio Radical: “Mala hora de la patria”",
+      "link": "https://www.infobae.com/colombia/2026/05/09/alvaro-uribe-velez-se-pronuncio-por-la-muerte-de-german-vargas-lleras-lider-de-cambio-radical-mala-hora-de-la-patria/",
+      "source": "Infobae",
+      "pubDate": "Sat, 09 May 2026 19:04:32 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Paloma Valencia propone una reforma política para mayor transparencia en financiación de campañas y reforma a la justicia para vincular tecnología",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-propone-una-reforma-politica-para-mayor-transparencia-en-financiacion-de-campanas-y-reforma-a-la-justicia-para-vincular-tecnologia-3554456",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-09T13:01:50-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "La recta final ",
+      "link": "https://www.lasillavacia.com/opinion/la-recta-final/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 09 May 2026 17:58:21 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "La pregunta que el progresismo tiene pendiente",
       "link": "https://www.lasillavacia.com/opinion/la-pregunta-que-el-progresismo-tiene-pendiente/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 09 May 2026 14:32:30 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Estos son los días en que la Registraduría capacitará a los más de 750.000 jurados de la primera vuelta",
-      "link": "https://www.infobae.com/colombia/2026/05/09/estos-son-los-dias-en-que-la-registraduria-capacitara-a-los-mas-de-750000-jurados-de-la-primera-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Sat, 09 May 2026 14:23:22 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
