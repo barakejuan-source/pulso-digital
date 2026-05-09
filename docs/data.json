@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-09T11:17:35.983Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-05-09T15:17:37.020Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,8 +18,8 @@
       "youtubeViews": 757066,
       "finalScore": 53,
       "momentum": {
-        "value": -5.4,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 30.6
     },
@@ -60,8 +60,8 @@
       "youtubeViews": 58559,
       "finalScore": 36,
       "momentum": {
-        "value": 12.5,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 20.8
     },
@@ -81,11 +81,28 @@
       "youtubeViews": 343326,
       "finalScore": 22,
       "momentum": {
-        "value": -8.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 12.7
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "La pregunta que el progresismo tiene pendiente",
+      "link": "https://www.lasillavacia.com/opinion/la-pregunta-que-el-progresismo-tiene-pendiente/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 09 May 2026 14:32:30 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Estos son los días en que la Registraduría capacitará a los más de 750.000 jurados de la primera vuelta",
+      "link": "https://www.infobae.com/colombia/2026/05/09/estos-son-los-dias-en-que-la-registraduria-capacitara-a-los-mas-de-750000-jurados-de-la-primera-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Sat, 09 May 2026 14:23:22 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    }
+  ]
 }
