@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-09T06:30:18.108Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-05-09T11:17:35.983Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 50,
+      "trendsScore": 43,
       "youtubeScore": 100,
       "sentimentScore": 20,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 34
       },
       "youtubeViews": 757066,
-      "finalScore": 56,
+      "finalScore": 53,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -5.4,
+        "direction": "down"
       },
-      "probability": 32.2
+      "probability": 30.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 35.6
+      "probability": 35.8
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 63,
+      "trendsScore": 73,
       "youtubeScore": 8,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 32.2
       },
       "youtubeViews": 58559,
-      "finalScore": 32,
+      "finalScore": 36,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": 12.5,
+        "direction": "up"
       },
-      "probability": 18.4
+      "probability": 20.8
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 13,
+      "trendsScore": 7,
       "youtubeScore": 45,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -79,12 +79,12 @@
         "neutral": 27.2
       },
       "youtubeViews": 343326,
-      "finalScore": 24,
+      "finalScore": 22,
       "momentum": {
-        "value": 0,
+        "value": -8.3,
         "direction": "flat"
       },
-      "probability": 13.8
+      "probability": 12.7
     }
   ],
   "articles": []
