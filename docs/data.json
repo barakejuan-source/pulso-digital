@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-10T19:48:37.649Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-05-10T22:33:15.464Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 41,
+      "trendsScore": 38,
       "youtubeScore": 100,
       "sentimentScore": 20,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 34
       },
       "youtubeViews": 757066,
-      "finalScore": 52,
+      "finalScore": 51,
       "momentum": {
-        "value": 0,
+        "value": -1.9,
         "direction": "flat"
       },
-      "probability": 30.6
+      "probability": 30.5
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 36.5
+      "probability": 37.1
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 67,
+      "trendsScore": 64,
       "youtubeScore": 8,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 32.2
       },
       "youtubeViews": 58559,
-      "finalScore": 34,
+      "finalScore": 33,
       "momentum": {
-        "value": 0,
+        "value": -2.9,
         "direction": "flat"
       },
-      "probability": 20
+      "probability": 19.8
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 7,
+      "trendsScore": 6,
       "youtubeScore": 45,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -79,15 +79,47 @@
         "neutral": 27.2
       },
       "youtubeViews": 343326,
-      "finalScore": 22,
+      "finalScore": 21,
       "momentum": {
-        "value": 0,
+        "value": -4.5,
         "direction": "flat"
       },
-      "probability": 12.9
+      "probability": 12.6
     }
   ],
   "articles": [
+    {
+      "title": "Senador electo del Centro Democrático habría ‘bautizado’ a Abelardo de la Espriella como el “abogado de la mafia” y a Iván Cepeda como “el de las Farc”",
+      "link": "https://www.infobae.com/colombia/2026/05/10/senador-electo-del-centro-democratico-habria-bautizado-a-abelardo-de-la-espriella-como-el-abogado-de-la-mafia-y-a-ivan-cepeda-como-el-de-las-farc/",
+      "source": "Infobae",
+      "pubDate": "Sun, 10 May 2026 22:18:14 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "ONPE al 99.575% EN VIVO: resultados oficiales de las Elecciones 2026 de Perú en la recta final",
+      "link": "https://www.infobae.com/peru/2026/05/09/resultados-onpe-en-vivo-conteo-oficial-conoce-quien-pasa-a-segunda-vuelta-en-las-elecciones-2026-keiko-fujimori-roberto-sanchez-y-rafael-lopez-aliaga/",
+      "source": "Infobae",
+      "pubDate": "Sun, 10 May 2026 21:39:49 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Columnas de opinión del domingo 10 de mayo",
+      "link": "https://www.lasillavacia.com/en-vivo/columnas-de-opinion-del-domingo-10-de-mayo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 10 May 2026 21:38:15 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Murió de Germán Vargas Lleras, así avanza el segundo día de honras en el Palacio de San Carlos: llegan Iván Duque y Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/en-vivo-bogota-despide-a-german-vargas-lleras-en-el-segundo-dia-de-homenaje-en-el-palacio-de-san-carlos-3554551",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-10T16:17:09-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Gobernar por decretos y una constituyente: las ‘caras’ de Iván Cepeda que analiza Néstor Humberto Martínez",
       "link": "https://www.eltiempo.com/politica/gobernar-por-decretos-y-una-constituyente-las-caras-de-ivan-cepeda-que-analiza-nestor-humberto-martinez-3554605",
