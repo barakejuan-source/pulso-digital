@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T11:29:57.670Z",
+  "updatedAt": "2026-05-10T15:35:24.478Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -89,12 +89,44 @@
   ],
   "articles": [
     {
-      "title": "Sergio Fajardo, en su tercera candidatura presidencial, defiende una política “cívica y ciudadana” alejada de las maquinarias: “Es insostenible una Colombia en confrontación”",
-      "link": "https://www.infobae.com/colombia/2026/05/10/sergio-fajardo-en-su-tercera-candidatura-presidencial-defiende-una-politica-civica-y-ciudadana-alejada-de-las-maquinarias-es-insostenible-una-colombia-en-confrontacion/",
+      "title": "Paloma Valencia respondió al ministro de Minas por cuestionamientos a sus propuestas para reducir el costo de energía en el Caribe",
+      "link": "https://www.infobae.com/colombia/2026/05/10/paloma-valencia-respondio-al-ministro-de-minas-por-cuestionamientos-a-sus-propuestas-para-reducir-el-costo-de-energia-en-el-caribe/",
       "source": "Infobae",
-      "pubDate": "Sun, 10 May 2026 11:00:01 +0000",
-      "candidateId": "sergio_fajardo",
-      "candidateColor": "#2A9D8F"
+      "pubDate": "Sun, 10 May 2026 15:25:33 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Miguel Uribe Londoño volvió a arremeter contra Álvaro Uribe por el crimen de su hijo Miguel Uribe Turbay: “Él lo llamó para que saliera a la calle” ",
+      "link": "https://www.infobae.com/colombia/2026/05/10/miguel-uribe-londono-volvio-a-arremeter-contra-alvaro-uribe-por-el-crimen-de-su-hijo-miguel-uribe-turbay-el-lo-llamo-para-que-saliera-a-la-calle/",
+      "source": "Infobae",
+      "pubDate": "Sun, 10 May 2026 15:08:26 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Tomás Uribe Moreno se despachó contra cuenta de seguidores de Abelardo de la Espriella: “Esto que dice es falso”",
+      "link": "https://www.infobae.com/colombia/2026/05/10/tomas-uribe-moreno-se-despacho-contra-cuenta-de-seguidores-de-abelardo-de-la-espriella-esto-que-dice-es-falso/",
+      "source": "Infobae",
+      "pubDate": "Sun, 10 May 2026 14:46:11 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella denuncia presuntas intimidaciones en varios sectores de Medellín: 'Asustados andan los bandidos'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-denuncia-presuntas-intimidaciones-en-varios-sectores-de-medellin-asustados-andan-los-bandidos-3554558",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-10T08:57:41-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "DNI rechaza acusaciones de Abelardo de la Espriella sobre supuesto plan para atentar contra su vida: entidad pide pruebas ante la Fiscalía",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/dni-rechaza-acusaciones-de-abelardo-de-la-espriella-sobre-supuesto-plan-para-atentar-contra-su-vida-entidad-pide-pruebas-ante-la-fiscalia-3554550",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-10T07:15:15-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Roy Barreras en entrevista: 'Una asamblea nacional constituyente es un riesgo innecesario para Colombia'",
@@ -143,14 +175,6 @@
       "pubDate": "Sat, 09 May 2026 17:58:21 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "La pregunta que el progresismo tiene pendiente",
-      "link": "https://www.lasillavacia.com/opinion/la-pregunta-que-el-progresismo-tiene-pendiente/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 09 May 2026 14:32:30 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
