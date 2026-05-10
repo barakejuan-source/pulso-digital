@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T15:35:24.478Z",
+  "updatedAt": "2026-05-10T19:48:37.649Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -89,28 +89,12 @@
   ],
   "articles": [
     {
-      "title": "Paloma Valencia respondió al ministro de Minas por cuestionamientos a sus propuestas para reducir el costo de energía en el Caribe",
-      "link": "https://www.infobae.com/colombia/2026/05/10/paloma-valencia-respondio-al-ministro-de-minas-por-cuestionamientos-a-sus-propuestas-para-reducir-el-costo-de-energia-en-el-caribe/",
-      "source": "Infobae",
-      "pubDate": "Sun, 10 May 2026 15:25:33 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Miguel Uribe Londoño volvió a arremeter contra Álvaro Uribe por el crimen de su hijo Miguel Uribe Turbay: “Él lo llamó para que saliera a la calle” ",
-      "link": "https://www.infobae.com/colombia/2026/05/10/miguel-uribe-londono-volvio-a-arremeter-contra-alvaro-uribe-por-el-crimen-de-su-hijo-miguel-uribe-turbay-el-lo-llamo-para-que-saliera-a-la-calle/",
-      "source": "Infobae",
-      "pubDate": "Sun, 10 May 2026 15:08:26 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Tomás Uribe Moreno se despachó contra cuenta de seguidores de Abelardo de la Espriella: “Esto que dice es falso”",
-      "link": "https://www.infobae.com/colombia/2026/05/10/tomas-uribe-moreno-se-despacho-contra-cuenta-de-seguidores-de-abelardo-de-la-espriella-esto-que-dice-es-falso/",
-      "source": "Infobae",
-      "pubDate": "Sun, 10 May 2026 14:46:11 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Gobernar por decretos y una constituyente: las ‘caras’ de Iván Cepeda que analiza Néstor Humberto Martínez",
+      "link": "https://www.eltiempo.com/politica/gobernar-por-decretos-y-una-constituyente-las-caras-de-ivan-cepeda-que-analiza-nestor-humberto-martinez-3554605",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-10T14:39:29-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Abelardo De La Espriella denuncia presuntas intimidaciones en varios sectores de Medellín: 'Asustados andan los bandidos'",
@@ -153,26 +137,10 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Crece el ruido ante la ausencia de candidatos en los debates: ¿habrá cara a cara antes de la primera vuelta? / En Secreto",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/crece-el-ruido-ante-la-ausencia-de-candidatos-en-los-debates-habra-cara-a-cara-antes-de-la-primera-vuelta-en-secreto-3554444",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-09T22:01:00-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "¿Repetir elecciones?: el laberinto de la convulsa primera vuelta presidencial en Perú",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260509-repetir-elecciones-el-laberinto-de-la-convulsa-primera-vuelta-presidencial-en-per%C3%BA",
       "source": "France 24",
       "pubDate": "Sat, 09 May 2026 23:44:08 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "La recta final ",
-      "link": "https://www.lasillavacia.com/opinion/la-recta-final/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 09 May 2026 17:58:21 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
