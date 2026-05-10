@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T07:51:57.576Z",
+  "updatedAt": "2026-05-10T11:29:57.670Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -88,6 +88,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Sergio Fajardo, en su tercera candidatura presidencial, defiende una política “cívica y ciudadana” alejada de las maquinarias: “Es insostenible una Colombia en confrontación”",
+      "link": "https://www.infobae.com/colombia/2026/05/10/sergio-fajardo-en-su-tercera-candidatura-presidencial-defiende-una-politica-civica-y-ciudadana-alejada-de-las-maquinarias-es-insostenible-una-colombia-en-confrontacion/",
+      "source": "Infobae",
+      "pubDate": "Sun, 10 May 2026 11:00:01 +0000",
+      "candidateId": "sergio_fajardo",
+      "candidateColor": "#2A9D8F"
+    },
     {
       "title": "Roy Barreras en entrevista: 'Una asamblea nacional constituyente es un riesgo innecesario para Colombia'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/roy-barreras-en-entrevista-una-asamblea-nacional-constituyente-es-un-riesgo-innecesario-para-colombia-3554447",
