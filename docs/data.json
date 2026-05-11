@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T11:50:49.394Z",
+  "updatedAt": "2026-05-11T18:26:25.419Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -89,60 +89,60 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella supera a Iván Cepeda a semanas de las elecciones presidenciales, según Polymarket ",
-      "link": "https://www.infobae.com/colombia/2026/05/11/abelardo-de-la-espriella-supera-a-ivan-cepeda-a-semanas-de-las-elecciones-presidenciales-segun-polymarket/",
+      "title": "Resultados ONPE al 100%: ¿Qué falta para llegar al conteo final de votos y conocer quién pasará a segunda vuelta?",
+      "link": "https://www.infobae.com/peru/2026/05/11/resultados-onpe-al-100-que-falta-para-llegar-al-conteo-final-de-votos-y-conocer-quien-pasara-a-segunda-vuelta/",
       "source": "Infobae",
-      "pubDate": "Mon, 11 May 2026 11:42:42 +0000",
+      "pubDate": "Mon, 11 May 2026 18:07:24 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "La polémica Juliana Guerrero recibió abucheos en un evento de campaña de Iván Cepeda en Valledupar: “¡Fuera!\"",
+      "link": "https://www.infobae.com/colombia/2026/05/11/juliana-guerrero-recibio-abucheos-en-evento-de-campana-de-ivan-cepeda-en-valledupar-fuera/",
+      "source": "Infobae",
+      "pubDate": "Mon, 11 May 2026 18:06:07 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Roy Barreras en entrevista: 'Grupos como el Eln no son viables si persisten en el secuestro'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/roy-barreras-en-entrevista-grupos-como-el-eln-no-son-viables-si-persisten-en-el-secuestro-3554671",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-10T23:04:09-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "En plenas exequias de Germán Vargas Lleras, Gustavo Petro le respondió a la hija del fallecido político, quien pidió no votar por Iván Cepeda: “En Colombia no hay aristocracia”",
+      "link": "https://www.infobae.com/colombia/2026/05/11/en-plenas-exequias-de-german-vargas-lleras-gustavo-petro-respondio-a-su-hija-tras-peticion-de-no-votar-por-ivan-cepeda-es-el-pueblo-el-que-decide/",
+      "source": "Infobae",
+      "pubDate": "Mon, 11 May 2026 18:02:09 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "María Claudia Tarazona habló de los desafíos que ha enfrentado tras la muerte de Miguel Uribe Turbay: 'Nosotras hubiéramos querido despedirnos'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/maria-claudia-tarazona-hablo-de-los-desafios-que-ha-enfrentado-tras-la-muerte-de-miguel-uribe-turbay-nosotras-hubieramos-querido-despedirnos-3554640",
+      "title": "Presidente Gustavo Petro responde al llamado de Clemencia Vargas a no votar por Iván Cepeda para ‘salvar al país’: ‘es el pueblo el que decide’",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/presidente-gustavo-petro-responde-al-llamado-de-clemencia-vargas-a-no-votar-por-ivan-cepeda-para-salvar-al-pais-es-el-pueblo-el-que-decide-3554816",
       "source": "El Tiempo",
-      "pubDate": "2026-05-10T20:07:10-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "2026-05-11T12:24:54-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "Columnas de opinión del domingo 10 de mayo",
-      "link": "https://www.lasillavacia.com/en-vivo/columnas-de-opinion-del-domingo-10-de-mayo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 10 May 2026 21:38:15 +0000",
+      "title": "Paloma Valencia agradeció el apoyo de María Claudia Tarazona a su candidatura presidencial: 'Miguel fue mi amigo, voy a honrar sus banderas'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-respondio-al-apoyo-hacia-la-presidencia-de-colombia-de-maria-claudia-tarazona-voy-a-honrar-sus-banderas-y-cuidar-su-legado-3554712",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-11T11:48:46-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
     },
     {
-      "title": "Gobernar por decretos y una constituyente: las ‘caras’ de Iván Cepeda que analiza Néstor Humberto Martínez",
-      "link": "https://www.eltiempo.com/politica/gobernar-por-decretos-y-una-constituyente-las-caras-de-ivan-cepeda-que-analiza-nestor-humberto-martinez-3554605",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-10T14:39:29-05:00",
+      "title": "Paloma propone bajar tarifa de luz en el Caribe. El Pacto se lo saca en cara",
+      "link": "https://www.lasillavacia.com/en-vivo/paloma-propone-bajar-tarifa-de-luz-en-el-caribe-el-pacto-se-lo-saca-en-cara/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 11 May 2026 16:27:51 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Abelardo De La Espriella denuncia presuntas intimidaciones en varios sectores de Medellín: 'Asustados andan los bandidos'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-denuncia-presuntas-intimidaciones-en-varios-sectores-de-medellin-asustados-andan-los-bandidos-3554558",
+      "title": "María Claudia Tarazona, viuda de Miguel Uribe Turbay, afirmó que apoyará a Paloma Valencia, candidata presidencial del Centro Democrático",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/maria-claudia-tarazona-viuda-de-miguel-uribe-turbay-afirmo-que-apoyara-a-paloma-valencia-candidata-presidencial-del-centro-democratico-3554690",
       "source": "El Tiempo",
-      "pubDate": "2026-05-10T08:57:41-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "DNI rechaza acusaciones de Abelardo de la Espriella sobre supuesto plan para atentar contra su vida: entidad pide pruebas ante la Fiscalía",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/dni-rechaza-acusaciones-de-abelardo-de-la-espriella-sobre-supuesto-plan-para-atentar-contra-su-vida-entidad-pide-pruebas-ante-la-fiscalia-3554550",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-10T07:15:15-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "2026-05-11T09:45:03-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
     }
   ]
 }
