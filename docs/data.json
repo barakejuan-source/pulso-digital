@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-10T22:33:15.464Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-05-11T11:50:49.394Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 757066,
       "finalScore": 51,
       "momentum": {
-        "value": -1.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 30.5
@@ -60,7 +60,7 @@
       "youtubeViews": 58559,
       "finalScore": 33,
       "momentum": {
-        "value": -2.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 19.8
@@ -81,7 +81,7 @@
       "youtubeViews": 343326,
       "finalScore": 21,
       "momentum": {
-        "value": -4.5,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 12.6
@@ -89,18 +89,26 @@
   ],
   "articles": [
     {
-      "title": "Senador electo del Centro Democrático habría ‘bautizado’ a Abelardo de la Espriella como el “abogado de la mafia” y a Iván Cepeda como “el de las Farc”",
-      "link": "https://www.infobae.com/colombia/2026/05/10/senador-electo-del-centro-democratico-habria-bautizado-a-abelardo-de-la-espriella-como-el-abogado-de-la-mafia-y-a-ivan-cepeda-como-el-de-las-farc/",
+      "title": "Abelardo de la Espriella supera a Iván Cepeda a semanas de las elecciones presidenciales, según Polymarket ",
+      "link": "https://www.infobae.com/colombia/2026/05/11/abelardo-de-la-espriella-supera-a-ivan-cepeda-a-semanas-de-las-elecciones-presidenciales-segun-polymarket/",
       "source": "Infobae",
-      "pubDate": "Sun, 10 May 2026 22:18:14 +0000",
+      "pubDate": "Mon, 11 May 2026 11:42:42 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "ONPE al 99.575% EN VIVO: resultados oficiales de las Elecciones 2026 de Perú en la recta final",
-      "link": "https://www.infobae.com/peru/2026/05/09/resultados-onpe-en-vivo-conteo-oficial-conoce-quien-pasa-a-segunda-vuelta-en-las-elecciones-2026-keiko-fujimori-roberto-sanchez-y-rafael-lopez-aliaga/",
-      "source": "Infobae",
-      "pubDate": "Sun, 10 May 2026 21:39:49 +0000",
+      "title": "Roy Barreras en entrevista: 'Grupos como el Eln no son viables si persisten en el secuestro'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/roy-barreras-en-entrevista-grupos-como-el-eln-no-son-viables-si-persisten-en-el-secuestro-3554671",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-10T23:04:09-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "María Claudia Tarazona habló de los desafíos que ha enfrentado tras la muerte de Miguel Uribe Turbay: 'Nosotras hubiéramos querido despedirnos'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/maria-claudia-tarazona-hablo-de-los-desafios-que-ha-enfrentado-tras-la-muerte-de-miguel-uribe-turbay-nosotras-hubieramos-querido-despedirnos-3554640",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-10T20:07:10-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -111,14 +119,6 @@
       "pubDate": "Sun, 10 May 2026 21:38:15 +0000",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Murió de Germán Vargas Lleras, así avanza el segundo día de honras en el Palacio de San Carlos: llegan Iván Duque y Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/en-vivo-bogota-despide-a-german-vargas-lleras-en-el-segundo-dia-de-homenaje-en-el-palacio-de-san-carlos-3554551",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-10T16:17:09-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Gobernar por decretos y una constituyente: las ‘caras’ de Iván Cepeda que analiza Néstor Humberto Martínez",
@@ -143,38 +143,6 @@
       "pubDate": "2026-05-10T07:15:15-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Roy Barreras en entrevista: 'Una asamblea nacional constituyente es un riesgo innecesario para Colombia'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/roy-barreras-en-entrevista-una-asamblea-nacional-constituyente-es-un-riesgo-innecesario-para-colombia-3554447",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-09T23:01:02-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Paz total, Constituyente y debates presidenciales: los temas que agitarán las últimas semanas de campaña a las elecciones 2026",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paz-total-constituyente-y-debates-presidenciales-los-temas-que-agitaran-las-ultimas-semanas-de-campana-a-las-elecciones-3554461",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-09T22:43:23-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "‘Control social’ y veto a candidatos: así opera el constreñimiento armado a escasas semanas de ir a la primera vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/control-social-y-veto-a-candidatos-asi-opera-el-constrenimiento-armado-a-escasas-semanas-de-ir-a-la-primera-vuelta-presidencial-3554505",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-09T22:42:01-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Repetir elecciones?: el laberinto de la convulsa primera vuelta presidencial en Perú",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260509-repetir-elecciones-el-laberinto-de-la-convulsa-primera-vuelta-presidencial-en-per%C3%BA",
-      "source": "France 24",
-      "pubDate": "Sat, 09 May 2026 23:44:08 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
