@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T18:28:05.346Z",
+  "updatedAt": "2026-05-12T23:42:17.740Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -89,44 +89,52 @@
   ],
   "articles": [
     {
-      "title": "Centro Democrático respondió a Iván Cepeda por responsabilizar a Álvaro Uribe de falsos positivos: “Ha vivido de atacarlo”",
-      "link": "https://www.infobae.com/colombia/2026/05/12/centro-democratico-respondio-a-ivan-cepeda-por-responsabilizar-a-alvaro-uribe-de-falsos-positivos-ha-vivido-de-atacarlo/",
+      "title": "María Claudia Tarazona defendió su apoyo a Paloma Valencia y habló de la reacción de su suegro ante la decisión: “La derecha sola no va a ganarle a Cepeda”",
+      "link": "https://www.infobae.com/colombia/2026/05/12/maria-claudia-tarazona-defendio-su-apoyo-a-paloma-valencia-y-hablo-de-la-reaccion-de-su-suegro-ante-la-decision-la-derecha-sola-no-va-a-ganarle-a-cepeda/",
       "source": "Infobae",
-      "pubDate": "Tue, 12 May 2026 18:18:15 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Tue, 12 May 2026 23:25:37 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
     },
     {
-      "title": "Diario de Campaña: Abelardo y otro episodio de misoginia en campaña",
-      "link": "https://www.lasillavacia.com/en-vivo/diario-de-campana-abelardo-y-otro-episodio-de-misoginia-en-campana/",
+      "title": "El machismo de Abelardo De la Espriella en seis episodios",
+      "link": "https://www.lasillavacia.com/silla-nacional/el-machismo-de-abelardo-de-la-espriella-en-seis-episodios/",
       "source": "La Silla Vacía",
-      "pubDate": "Tue, 12 May 2026 18:15:22 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Tue, 12 May 2026 23:19:10 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Camilo Romero se refirió a declaraciones de Miguel Uribe Londoño sobre ‘hostigamiento’ de Paloma Valencia a Miguel Uribe Turbay: “Ambición de poder”",
-      "link": "https://www.infobae.com/colombia/2026/05/12/camilo-romero-se-refirio-a-declaraciones-de-miguel-uribe-londono-sobre-hostigamiento-de-paloma-valencia-a-miguel-uribe-turbay-ambicion-de-poder/",
-      "source": "Infobae",
-      "pubDate": "Tue, 12 May 2026 18:14:05 +0000",
+      "title": "Paloma Valencia radicó proyecto para exonerar del SOAT a las motos: 'Los $2.5 billones saldrán del Ministerio de la Igualdad'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-radico-proyecto-para-exonerar-del-soat-a-las-motos-los-2-5-billones-saldran-del-ministerio-de-la-igualdad-3555230",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-12T17:23:59-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
     },
     {
-      "title": "María Claudia Tarazona: 'Paloma Valencia es la única candidata que puede llegar a segunda vuelta y ganarle a Iván Cepeda'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/maria-claudia-tarazona-paloma-valencia-es-la-unica-candidata-que-va-a-poder-llegar-a-segunda-vuelta-y-ganarle-a-ivan-cepeda-3555090",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-12T10:59:35-05:00",
+      "title": "Negada tutela que pedía a Iván Cepeda ir a debates presidenciales",
+      "link": "https://www.lasillavacia.com/en-vivo/negada-tutela-que-pedia-a-ivan-cepeda-ir-a-debates-presidenciales/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 12 May 2026 21:53:45 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "María Claudia Tarazona explicó por qué decidió no apoyar a Miguel Uribe Londoño como candidato presidencial: 'Las encuestas no lo están favoreciendo'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/maria-claudia-tarazona-explico-por-que-no-decidio-apoyar-a-miguel-uribe-londono-como-candidato-presidencial-las-encuestas-no-lo-estan-favoreciendo-3554995",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-12T06:03:49-05:00",
+      "title": "Candidatas rechazan comentarios misóginos de Abelardo a periodista",
+      "link": "https://www.lasillavacia.com/en-vivo/candidatas-rechazan-comentarios-misoginos-de-abelardo-a-periodista/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 12 May 2026 19:08:27 +0000",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Perú: Fujimori y Sánchez lideran el conteo, mientras el izquierdista es investigado por presunta información falsa",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260512-per%C3%BA-fujimori-y-s%C3%A1nchez-lideran-el-conteo-mientras-el-izquierdista-es-investigado-por-presunta-informaci%C3%B3n-falsa",
+      "source": "France 24",
+      "pubDate": "Tue, 12 May 2026 18:47:42 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
