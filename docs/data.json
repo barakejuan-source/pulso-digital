@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-11T23:17:12.610Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-05-12T10:05:25.548Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,8 +18,8 @@
       "youtubeViews": 757066,
       "finalScore": 54,
       "momentum": {
-        "value": 5.9,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 31.6
     },
@@ -60,7 +60,7 @@
       "youtubeViews": 58559,
       "finalScore": 34,
       "momentum": {
-        "value": 3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 19.9
@@ -89,28 +89,60 @@
   ],
   "articles": [
     {
-      "title": "El respaldo de Donald Trump podría definir las elecciones en Colombia",
-      "link": "https://www.infobae.com/colombia/2026/05/11/el-respaldo-de-donald-trump-podria-definir-las-elecciones-en-colombia/",
+      "title": "Adulto mayor murió tras accidente con motocicleta del Ejército durante visita de Iván Cepeda a Magangué, Bolívar",
+      "link": "https://www.infobae.com/colombia/2026/05/12/adulto-mayor-murio-tras-accidente-con-motocicleta-del-ejercito-durante-visita-de-ivan-cepeda-a-magangue-bolivar/",
       "source": "Infobae",
-      "pubDate": "Mon, 11 May 2026 23:09:48 +0000",
+      "pubDate": "Tue, 12 May 2026 09:23:49 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Miguel Uribe Londoño habló de decisión de María Claudia Tarazona, viuda de Miguel Uribe, de apoyar a Paloma Valencia: 'Tratan de dividir a la familia'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/miguel-uribe-londono-hablo-de-decision-de-maria-claudia-tarazona-viuda-de-miguel-uribe-por-apoyar-a-paloma-valencia-disculpas-publicas-3554899",
+      "title": "Iván Cepeda defendió la Paz Total y aseguró que “nunca” se arrepentirá de participar en diálogos con grupos armados",
+      "link": "https://www.infobae.com/colombia/2026/05/12/ivan-cepeda-defendio-la-paz-total-y-aseguro-que-nunca-se-arrepentira-de-participar-en-dialogos-con-grupos-armados/",
+      "source": "Infobae",
+      "pubDate": "Tue, 12 May 2026 09:18:15 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "María Claudia Tarazona explicó por qué no decidió apoyar a Miguel Uribe Londoño como candidato presidencial: 'Las encuestas no lo están favoreciendo'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/maria-claudia-tarazona-explico-por-que-no-decidio-apoyar-a-miguel-uribe-londono-como-candidato-presidencial-las-encuestas-no-lo-estan-favoreciendo-3554995",
       "source": "El Tiempo",
-      "pubDate": "2026-05-11T17:57:28-05:00",
+      "pubDate": "2026-05-12T03:48:03-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
     },
     {
-      "title": "Así han sido las cuentas de las campañas presidenciales a 20 días de la primera vuelta: han reportado más de 25.000 millones en gastos",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-han-sido-las-cuentas-de-las-campanas-presidenciales-a-20-dias-de-la-primera-vuelta-han-reportado-mas-de-25-000-millones-en-gastos-3554897",
+      "title": "Seis votantes hablan de sus emociones a tres semanas de la primera vuelta",
+      "link": "https://www.lasillavacia.com/silla-nacional/seis-votantes-hablan-de-sus-emociones-a-tres-semanas-de-la-primera-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 12 May 2026 06:00:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Planes de gobierno de candidatos presidenciales: esto proponen Iván Cepeda, Abelardo de la Espriella, Paloma Valencia, Sergio Fajardo y Claudia López",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/planes-de-gobierno-de-candidatos-presidenciales-esto-proponen-ivan-cepeda-abelardo-de-la-espriella-paloma-valencia-sergio-fajardo-y-claudia-lopez-3554963",
       "source": "El Tiempo",
-      "pubDate": "2026-05-11T16:12:27-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "2026-05-11T21:27:32-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "#ElFiltro: sondeo en el que Iván Cepeda ganaría en primera vuelta la Presidencia de Colombia fue hecho con IA",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-sondeo-en-el-que-ivan-cepeda-ganaria-en-primera-vuelta-la-presidencia-de-colombia-fue-hecho-con-ia-3554932",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-11T19:46:19-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "'Nunca me arrepentiré': Iván Cepeda se defiende de críticas de la derecha por la paz total y se compromete a implementar el Acuerdo de Paz de 2016",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/nunca-me-arrepentire-ivan-cepeda-se-defiende-de-criticas-de-la-derecha-por-la-paz-total-y-se-compromete-a-implementar-el-acuerdo-de-paz-de-3554934",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-11T18:52:39-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Tensión electoral en Perú: ¿Cuál es el escenario social y político?",
@@ -119,14 +151,6 @@
       "pubDate": "Mon, 11 May 2026 20:38:28 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Gustavo Petro responde al llamado de Clemencia Vargas a no votar por Iván Cepeda para ‘salvar al país’: ‘es el pueblo el que decide’",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/presidente-gustavo-petro-responde-al-llamado-de-clemencia-vargas-a-no-votar-por-ivan-cepeda-para-salvar-al-pais-es-el-pueblo-el-que-decide-3554816",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-11T12:24:54-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
