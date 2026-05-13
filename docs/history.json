@@ -870,6 +870,35 @@
           "sentiment": 18
         }
       ]
+    },
+    {
+      "date": "2026-05-13T09",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 44,
+          "youtube": 100,
+          "sentiment": 26
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 49,
+          "sentiment": 28
+        },
+        {
+          "id": "paloma_valencia",
+          "trends": 68,
+          "youtube": 42,
+          "sentiment": 14
+        },
+        {
+          "id": "sergio_fajardo",
+          "trends": 6,
+          "youtube": 59,
+          "sentiment": 17
+        }
+      ]
     }
   ]
 }
