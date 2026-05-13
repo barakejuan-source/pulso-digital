@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T23:42:17.740Z",
+  "updatedAt": "2026-05-13T10:03:49.166Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -89,12 +89,44 @@
   ],
   "articles": [
     {
-      "title": "María Claudia Tarazona defendió su apoyo a Paloma Valencia y habló de la reacción de su suegro ante la decisión: “La derecha sola no va a ganarle a Cepeda”",
-      "link": "https://www.infobae.com/colombia/2026/05/12/maria-claudia-tarazona-defendio-su-apoyo-a-paloma-valencia-y-hablo-de-la-reaccion-de-su-suegro-ante-la-decision-la-derecha-sola-no-va-a-ganarle-a-cepeda/",
-      "source": "Infobae",
-      "pubDate": "Tue, 12 May 2026 23:25:37 +0000",
+      "title": "Informe desde Lima: Fiscalía pide cinco años de cárcel para candidato presidencial Roberto Sánchez",
+      "link": "https://www.france24.com/es/video/20260513-informe-desde-lima-fiscal%C3%ADa-pide-cinco-a%C3%B1os-de-c%C3%A1rcel-para-candidato-presidencial-roberto-s%C3%A1nchez",
+      "source": "France 24",
+      "pubDate": "Wed, 13 May 2026 04:02:19 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Controversia por comentarios de Abelardo de la Espriella hacia dos periodistas: esto responde el candidato",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/controversia-por-comentarios-de-abelardo-de-la-espriella-hacia-dos-periodistas-esto-responde-el-candidato-3555284",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-12T20:52:38-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Por primera vez en 90 días, Cepeda pierde primer lugar en Google Trends",
+      "link": "https://www.lasillavacia.com/en-vivo/por-primera-vez-en-90-dias-cepeda-pierde-primer-lugar-en-google-trends/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 13 May 2026 00:00:52 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Cepeda recibe respaldo de liberales cercanos a Cristo y Jaramillo",
+      "link": "https://www.lasillavacia.com/en-vivo/cepeda-recibe-respaldo-de-liberales-cercanos-a-cristo-y-jaramillo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 12 May 2026 23:48:17 +0000",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Roberto Sánchez, candidato presidencial en Perú, niega acusación en su contra",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260512-piden-m%C3%A1s-de-5-a%C3%B1os-de-prisi%C3%B3n-para-el-candidato-de-per%C3%BA-roberto-s%C3%A1nchez",
+      "source": "France 24",
+      "pubDate": "Tue, 12 May 2026 23:25:09 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "El machismo de Abelardo De la Espriella en seis episodios",
@@ -111,30 +143,6 @@
       "pubDate": "2026-05-12T17:23:59-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Negada tutela que pedía a Iván Cepeda ir a debates presidenciales",
-      "link": "https://www.lasillavacia.com/en-vivo/negada-tutela-que-pedia-a-ivan-cepeda-ir-a-debates-presidenciales/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 12 May 2026 21:53:45 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Candidatas rechazan comentarios misóginos de Abelardo a periodista",
-      "link": "https://www.lasillavacia.com/en-vivo/candidatas-rechazan-comentarios-misoginos-de-abelardo-a-periodista/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 12 May 2026 19:08:27 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Perú: Fujimori y Sánchez lideran el conteo, mientras el izquierdista es investigado por presunta información falsa",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260512-per%C3%BA-fujimori-y-s%C3%A1nchez-lideran-el-conteo-mientras-el-izquierdista-es-investigado-por-presunta-informaci%C3%B3n-falsa",
-      "source": "France 24",
-      "pubDate": "Tue, 12 May 2026 18:47:42 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
