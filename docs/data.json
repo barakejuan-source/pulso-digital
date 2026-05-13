@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T14:03:53.540Z",
+  "updatedAt": "2026-05-13T15:04:52.750Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -9,19 +9,19 @@
       "color": "#E63946",
       "trendsScore": 44,
       "youtubeScore": 100,
-      "sentimentScore": 26,
+      "sentimentScore": 30,
       "sentimentPct": {
-        "positive": 25.6,
-        "negative": 49.3,
-        "neutral": 25.1
+        "positive": 29.7,
+        "negative": 39,
+        "neutral": 31.3
       },
-      "youtubeViews": 703807,
-      "finalScore": 55,
+      "youtubeViews": 842962,
+      "finalScore": 57,
       "momentum": {
-        "value": 1.9,
+        "value": 3.6,
         "direction": "flat"
       },
-      "probability": 29.4
+      "probability": 30.3
     },
     {
       "id": "abelardo_espriella",
@@ -29,20 +29,20 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 49,
-      "sentimentScore": 28,
+      "youtubeScore": 73,
+      "sentimentScore": 30,
       "sentimentPct": {
-        "positive": 28,
-        "negative": 43.6,
+        "positive": 30.4,
+        "negative": 41.2,
         "neutral": 28.4
       },
-      "youtubeViews": 329575,
-      "finalScore": 63,
+      "youtubeViews": 608330,
+      "finalScore": 71,
       "momentum": {
-        "value": 1.6,
-        "direction": "flat"
+        "value": 12.7,
+        "direction": "up"
       },
-      "probability": 33.7
+      "probability": 37.8
     },
     {
       "id": "paloma_valencia",
@@ -50,20 +50,20 @@
       "party": "Centro Democrático",
       "color": "#457B9D",
       "trendsScore": 68,
-      "youtubeScore": 42,
-      "sentimentScore": 14,
+      "youtubeScore": 19,
+      "sentimentScore": 16,
       "sentimentPct": {
-        "positive": 13.8,
-        "negative": 61.5,
-        "neutral": 24.8
+        "positive": 16,
+        "negative": 57.8,
+        "neutral": 26.2
       },
-      "youtubeViews": 280296,
-      "finalScore": 44,
+      "youtubeViews": 144351,
+      "finalScore": 38,
       "momentum": {
-        "value": 29.4,
-        "direction": "up"
+        "value": -13.6,
+        "direction": "down"
       },
-      "probability": 23.5
+      "probability": 20.2
     },
     {
       "id": "sergio_fajardo",
@@ -71,52 +71,68 @@
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
       "trendsScore": 6,
-      "youtubeScore": 59,
+      "youtubeScore": 49,
       "sentimentScore": 17,
       "sentimentPct": {
         "positive": 17.2,
         "negative": 53.6,
         "neutral": 29.2
       },
-      "youtubeViews": 403882,
-      "finalScore": 25,
+      "youtubeViews": 404059,
+      "finalScore": 22,
       "momentum": {
-        "value": 19,
-        "direction": "up"
+        "value": -12,
+        "direction": "down"
       },
-      "probability": 13.4
+      "probability": 11.7
     }
   ],
   "articles": [
     {
-      "title": "Paloma Valencia se fue contra Abelardo de la Espriella por mostrar polémica foto a periodista: “Me parece una falta de respeto”",
-      "link": "https://www.infobae.com/colombia/2026/05/13/paloma-valencia-se-fue-contra-abelardo-de-la-espriella-por-mostrar-polemica-foto-a-periodista-me-parece-una-falta-de-respeto/",
+      "title": "Sergio Fajardo arremetió contra Abelardo de la Espriella por controversias del abogado con dos periodistas: “¿Puede un machista y misógino ser Presidente?”",
+      "link": "https://www.infobae.com/colombia/2026/05/13/sergio-fajardo-arremetio-contra-abelardo-de-la-espriella-por-controversias-del-abogado-con-dos-periodistas-puede-un-machista-y-misogino-ser-presidente/",
       "source": "Infobae",
-      "pubDate": "Wed, 13 May 2026 13:57:09 +0000",
+      "pubDate": "Wed, 13 May 2026 14:56:30 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Álvaro Uribe se pronunció sobre los polémicos comentarios de Abelardo de la Espriella a dos periodistas: “Mujeres de mi Patria”",
-      "link": "https://www.infobae.com/colombia/2026/05/13/alvaro-uribe-se-pronuncio-tras-la-polemica-por-los-comentarios-de-abelardo-de-la-espriella-a-dos-periodistas-mujeres-de-mi-patria/",
+      "title": "Sondra Macollins habló sobre el desafortunado hecho entre Abelardo de la Espriella y una periodista al alardear de sus partes íntimas: “Ni tan macho”   ",
+      "link": "https://www.infobae.com/colombia/2026/05/13/sondra-macollins-hablo-sobre-el-desafortunado-hecho-entre-abelardo-de-la-espriella-y-una-periodista-al-alardear-de-sus-partes-intimas-ni-tan-macho/",
       "source": "Infobae",
-      "pubDate": "Wed, 13 May 2026 13:53:33 +0000",
+      "pubDate": "Wed, 13 May 2026 14:52:44 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella “pidió disculpas” por referencia que le hizo a una periodista sobre sus genitales: “Me sentí vulnerada, acosada, asqueada”",
-      "link": "https://www.infobae.com/colombia/2026/05/13/abelardo-de-la-espriella-se-pronuncio-por-incidente-con-periodista-del-programa-calle-8-un-caballero-tiene-la-obligacion-moral-de-pedir-disculpas/",
+      "title": "En entrevista, embajadora de Colombia en Haití hizo proselitismo a favor de Iván Cepeda: candidato pidió investigación disciplinaria",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/en-entrevista-embajadora-de-colombia-en-haiti-hizo-proselitismo-a-favor-de-ivan-cepeda-candidato-pidio-investigacion-disciplinaria-3555381",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-13T09:48:07-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Álvaro Uribe arremetió contra Iván Cepeda y comunidades indígenas del Cauca: “Aburridos por la dictadura de Petro-Cepeda-CRIC” ",
+      "link": "https://www.infobae.com/colombia/2026/05/13/alvaro-uribe-critico-a-ivan-cepeda-y-al-cric-tras-reunirse-con-indigenas-del-cauca-aburridos-por-la-dictadura-de-petro-cepeda-cric/",
       "source": "Infobae",
-      "pubDate": "Wed, 13 May 2026 13:46:38 +0000",
+      "pubDate": "Wed, 13 May 2026 14:39:36 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Periodista e ‘influencer’ criticó a Abelardo de la Espriella por su agresión a Malú de Noticias Caracol: “Desde el machismo, la arrogancia y la humillación”",
+      "link": "https://www.infobae.com/colombia/2026/05/13/periodista-e-influencer-critico-a-abelardo-de-la-espriella-por-su-entrevista-con-malu-desde-el-machismo-la-arrogancia-y-la-humillacion/",
+      "source": "Infobae",
+      "pubDate": "Wed, 13 May 2026 14:35:09 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Se oficializó la división en el Partido Liberal de cara a las presidenciales: aunque la colectividad apoya a Paloma Valencia, algunos se inclinan por Iván Cepeda",
-      "link": "https://www.infobae.com/colombia/2026/05/13/el-partido-liberal-enfrenta-fractura-interna-al-acercarse-las-elecciones-aunque-oficialmente-apoyan-a-paloma-valencia-algunos-se-inclinan-por-ivan-cepeda/",
-      "source": "Infobae",
-      "pubDate": "Wed, 13 May 2026 13:45:23 +0000",
+      "title": "Sector liberal se unió a la campaña de Iván Cepeda pese al respaldo oficial del partido a Paloma Valencia",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sector-liberal-se-unio-a-la-campana-de-ivan-cepeda-pese-al-respaldo-oficial-del-partido-a-paloma-valencia-3555325",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-13T09:07:48-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -137,14 +153,6 @@
       "candidateColor": "#457B9D"
     },
     {
-      "title": "Sector liberal se unió a la campaña de Iván Cepeda pese al respaldo oficial del partido a Paloma Valencia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sector-liberal-se-unio-a-la-campana-de-ivan-cepeda-pese-al-respaldo-oficial-del-partido-a-paloma-valencia-3555325",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-13T06:34:28-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "Controversia por comentarios de Abelardo de la Espriella hacia dos periodistas: esto responde el candidato",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/controversia-por-comentarios-de-abelardo-de-la-espriella-hacia-dos-periodistas-esto-responde-el-candidato-3555284",
       "source": "El Tiempo",
@@ -159,22 +167,6 @@
       "pubDate": "Wed, 13 May 2026 04:02:19 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Por primera vez en 90 días, Cepeda pierde primer lugar en Google Trends",
-      "link": "https://www.lasillavacia.com/en-vivo/por-primera-vez-en-90-dias-cepeda-pierde-primer-lugar-en-google-trends/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 13 May 2026 00:00:52 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cepeda recibe respaldo de liberales cercanos a Cristo y Jaramillo",
-      "link": "https://www.lasillavacia.com/en-vivo/cepeda-recibe-respaldo-de-liberales-cercanos-a-cristo-y-jaramillo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 12 May 2026 23:48:17 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
     },
     {
       "title": "Roberto Sánchez, candidato presidencial en Perú, niega acusación en su contra",
