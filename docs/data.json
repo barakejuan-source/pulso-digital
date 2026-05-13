@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T18:32:00.818Z",
+  "updatedAt": "2026-05-13T23:42:38.919Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 55,
+      "trendsScore": 58,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 60,
+      "finalScore": 61,
       "momentum": {
-        "value": 0,
+        "value": 1.7,
         "direction": "flat"
       },
-      "probability": 26.8
+      "probability": 27.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 33
+      "probability": 32.9
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 62,
+      "trendsScore": 63,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -60,10 +60,10 @@
       "youtubeViews": 282459,
       "finalScore": 51,
       "momentum": {
-        "value": -1.9,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 22.8
+      "probability": 22.7
     },
     {
       "id": "sergio_fajardo",
@@ -84,57 +84,73 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 17.4
+      "probability": 17.3
     }
   ],
   "articles": [
     {
-      "title": "Diario de Campaña: Abelardo se disculpa y embajadora impulsa a Cepeda",
-      "link": "https://www.lasillavacia.com/en-vivo/diario-de-campana-abelardo-se-disculpa-y-embajadora-impulsa-a-cepeda/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 13 May 2026 18:26:09 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo de la Espriella habría grabado ilegalmente una llamada con el ‘influencer’ petrista Beto Coral durante un proceso judicial relacionado con Álvaro Uribe ",
-      "link": "https://www.infobae.com/colombia/2026/05/13/abelardo-de-la-espriella-es-senalado-de-grabar-ilegalmente-una-llamada-con-el-influencer-petrista-beto-coral-durante-un-proceso-judicial-relacionado-con-alvaro-uribe/",
+      "title": "Paloma Valencia volvió a arremeter contra Margarita Rosa de Francisco: “Ella no tiene conciencia de que es machista”",
+      "link": "https://www.infobae.com/colombia/2026/05/13/paloma-valencia-volvio-a-arremeter-contra-margarita-rosa-de-francisco-ella-no-tiene-conciencia-de-que-es-machista/",
       "source": "Infobae",
-      "pubDate": "Wed, 13 May 2026 18:25:15 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Juan José Lafaurie arremetió contra Juan Daniel Oviedo por criticar la ética de Abelardo de la Espriella: “La misma que manejas”",
-      "link": "https://www.infobae.com/colombia/2026/05/13/juan-jose-lafaurie-arremetio-contra-juan-daniel-oviedo-y-salio-en-defensa-de-abelardo-de-la-espriella-la-misma-que-manejas/",
-      "source": "Infobae",
-      "pubDate": "Wed, 13 May 2026 18:24:04 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Roy Barreras ratificó que nunca se aliaría con Paloma Valencia: “Tendrían que resucitar los 6.402 inocentes asesinados”",
-      "link": "https://www.infobae.com/colombia/2026/05/13/roy-barreras-ratifico-que-nunca-se-aliaria-con-paloma-valencia-tendrian-que-resucitar-los-6402-inocentes-asesinados/",
-      "source": "Infobae",
-      "pubDate": "Wed, 13 May 2026 18:18:18 +0000",
+      "pubDate": "Wed, 13 May 2026 23:30:33 +0000",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
     },
     {
-      "title": "Mónica Rodríguez se refirió el caso de Laura Rodríguez, tras entrevista con Abelardo de la Espriella y advirtió: “También lo tienen que vivir muchas mujeres al aire”",
-      "link": "https://www.infobae.com/colombia/2026/05/13/monica-rodriguez-se-solidarizo-con-su-colega-laura-rodriguez-tras-entrevista-con-abelardo-de-la-espriella-y-dejo-una-alerta-tambien-lo-tienen-que-vivir-muchas-mujeres-al-aire/",
+      "title": "Paloma Valencia no descarta tener un ministro de izquierda en caso de que sea elegida presidenta: “Necesitamos un país donde quepamos todos”",
+      "link": "https://www.infobae.com/colombia/2026/05/13/paloma-valencia-no-descarta-tener-un-ministro-de-izquierda-en-caso-de-que-sea-elegida-presidenta-necesitamos-un-pais-donde-quepamos-todos/",
       "source": "Infobae",
-      "pubDate": "Wed, 13 May 2026 18:14:13 +0000",
+      "pubDate": "Wed, 13 May 2026 23:13:51 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "María José Pizarro celebró el apoyo de Ernesto Samper a la campaña de Iván Cepeda: “Seguimos consolidando una gran mayoría nacional”",
+      "link": "https://www.infobae.com/colombia/2026/05/13/maria-jose-pizarro-celebro-el-apoyo-de-ernesto-samper-a-la-campana-de-ivan-cepeda-seguimos-consolidando-una-gran-mayoria-nacional/",
+      "source": "Infobae",
+      "pubDate": "Wed, 13 May 2026 23:03:08 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "'Se equivocan cuando usan el letrero del Partido Liberal diciendo que liberales se fueron para donde Cepeda': senador electo Santiago Montoya",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/se-equivocan-cuando-usan-el-letrero-del-partido-liberal-diciendo-que-liberales-se-fueron-para-donde-cepeda-senador-electo-santiago-montoya-3555533",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-13T17:29:02-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "José Manuel Restrepo se refirió a controversias de Abelardo de la Espriella con periodistas: 'Compromiso de respeto por la prensa y con la mujer'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/jose-manuel-restrepo-se-refiere-a-controversias-de-abelardo-de-la-espriella-con-periodistas-compromiso-de-respeto-por-la-prensa-y-con-la-mujer-3555503",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-13T16:27:22-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Sector liberal se unió a la campaña de Iván Cepeda pese al respaldo oficial del partido a Paloma Valencia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sector-liberal-se-unio-a-la-campana-de-ivan-cepeda-pese-al-respaldo-oficial-del-partido-a-paloma-valencia-3555325",
+      "title": "Aida Quilcué, fórmula de Iván Cepeda, criticó al candidato Abelardo de la Espriella por usar el 'tigre' en su campaña electoral: 'No use este símbolo'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/aida-quilcue-critico-al-candidato-abelardo-de-la-espriella-por-usar-el-tigre-en-campana-electoral-no-use-este-simbolo-3555482",
       "source": "El Tiempo",
-      "pubDate": "2026-05-13T11:40:33-05:00",
+      "pubDate": "2026-05-13T15:58:59-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Fiscalía francesa pide siete años de prisión a Nicolás Sarkozy por financiamiento ilícito",
+      "link": "https://www.france24.com/es/video/20260513-fiscal%C3%ADa-francesa-pide-siete-a%C3%B1os-de-prisi%C3%B3n-a-nicol%C3%A1s-sarkozy-por-financiamiento-il%C3%ADcito",
+      "source": "France 24",
+      "pubDate": "Wed, 13 May 2026 19:20:20 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Cepeda dijo que su estado de salud era “verificable”. Hasta ahora, no lo es",
+      "link": "https://www.lasillavacia.com/silla-nacional/cepeda-dijo-que-su-estado-de-salud-era-verificable-hasta-ahora-no-lo-es/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 13 May 2026 19:04:37 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Sarkozy ante la Justicia: piden siete años de prisión en juicio de apelación por financiamiento ilícito",
