@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T17:04:38.814Z",
+  "updatedAt": "2026-05-13T18:32:00.818Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,8 +7,8 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 53,
-      "youtubeScore": 99,
+      "trendsScore": 55,
+      "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
         "positive": 30.3,
@@ -18,10 +18,10 @@
       "youtubeViews": 393379,
       "finalScore": 60,
       "momentum": {
-        "value": 5.3,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 26.7
+      "probability": 26.8
     },
     {
       "id": "abelardo_espriella",
@@ -29,7 +29,7 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 85,
+      "youtubeScore": 84,
       "sentimentScore": 29,
       "sentimentPct": {
         "positive": 29.2,
@@ -39,18 +39,18 @@
       "youtubeViews": 339490,
       "finalScore": 74,
       "momentum": {
-        "value": 4.2,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 32.9
+      "probability": 33
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 64,
-      "youtubeScore": 71,
+      "trendsScore": 62,
+      "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
         "positive": 16.4,
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 52,
+      "finalScore": 51,
       "momentum": {
-        "value": 36.8,
-        "direction": "up"
+        "value": -1.9,
+        "direction": "flat"
       },
-      "probability": 23.1
+      "probability": 22.8
     },
     {
       "id": "sergio_fajardo",
@@ -81,20 +81,52 @@
       "youtubeViews": 404432,
       "finalScore": 39,
       "momentum": {
-        "value": 77.3,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 17.3
+      "probability": 17.4
     }
   ],
   "articles": [
     {
-      "title": "Resultados ONPE al 99.931% EN VIVO: Keiko Fujimori lidera y Roberto Sánchez supera a Rafael López Aliaga por más de 18 mil votos",
-      "link": "https://www.infobae.com/peru/2026/05/09/resultados-onpe-en-vivo-conteo-oficial-conoce-quien-pasa-a-segunda-vuelta-en-las-elecciones-2026-keiko-fujimori-roberto-sanchez-y-rafael-lopez-aliaga/",
-      "source": "Infobae",
-      "pubDate": "Wed, 13 May 2026 16:42:56 +0000",
+      "title": "Diario de Campaña: Abelardo se disculpa y embajadora impulsa a Cepeda",
+      "link": "https://www.lasillavacia.com/en-vivo/diario-de-campana-abelardo-se-disculpa-y-embajadora-impulsa-a-cepeda/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 13 May 2026 18:26:09 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella habría grabado ilegalmente una llamada con el ‘influencer’ petrista Beto Coral durante un proceso judicial relacionado con Álvaro Uribe ",
+      "link": "https://www.infobae.com/colombia/2026/05/13/abelardo-de-la-espriella-es-senalado-de-grabar-ilegalmente-una-llamada-con-el-influencer-petrista-beto-coral-durante-un-proceso-judicial-relacionado-con-alvaro-uribe/",
+      "source": "Infobae",
+      "pubDate": "Wed, 13 May 2026 18:25:15 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Juan José Lafaurie arremetió contra Juan Daniel Oviedo por criticar la ética de Abelardo de la Espriella: “La misma que manejas”",
+      "link": "https://www.infobae.com/colombia/2026/05/13/juan-jose-lafaurie-arremetio-contra-juan-daniel-oviedo-y-salio-en-defensa-de-abelardo-de-la-espriella-la-misma-que-manejas/",
+      "source": "Infobae",
+      "pubDate": "Wed, 13 May 2026 18:24:04 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Roy Barreras ratificó que nunca se aliaría con Paloma Valencia: “Tendrían que resucitar los 6.402 inocentes asesinados”",
+      "link": "https://www.infobae.com/colombia/2026/05/13/roy-barreras-ratifico-que-nunca-se-aliaria-con-paloma-valencia-tendrian-que-resucitar-los-6402-inocentes-asesinados/",
+      "source": "Infobae",
+      "pubDate": "Wed, 13 May 2026 18:18:18 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Mónica Rodríguez se refirió el caso de Laura Rodríguez, tras entrevista con Abelardo de la Espriella y advirtió: “También lo tienen que vivir muchas mujeres al aire”",
+      "link": "https://www.infobae.com/colombia/2026/05/13/monica-rodriguez-se-solidarizo-con-su-colega-laura-rodriguez-tras-entrevista-con-abelardo-de-la-espriella-y-dejo-una-alerta-tambien-lo-tienen-que-vivir-muchas-mujeres-al-aire/",
+      "source": "Infobae",
+      "pubDate": "Wed, 13 May 2026 18:14:13 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Sector liberal se unió a la campaña de Iván Cepeda pese al respaldo oficial del partido a Paloma Valencia",
@@ -103,22 +135,6 @@
       "pubDate": "2026-05-13T11:40:33-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Sergio Fajardo se sumó a tendencia viral con ayuda de la IA y vaticinó el resultado del partido entre Colombia y Portugal por el Mundial 2026",
-      "link": "https://www.infobae.com/colombia/2026/05/13/sergio-fajardo-se-sumo-a-tendencia-viral-con-ayuda-de-la-ia-y-vaticino-el-resultado-del-partido-entre-colombia-y-portugal-por-el-mundial-2026/",
-      "source": "Infobae",
-      "pubDate": "Wed, 13 May 2026 16:38:29 +0000",
-      "candidateId": "sergio_fajardo",
-      "candidateColor": "#2A9D8F"
-    },
-    {
-      "title": "El caricaturista Matador criticó a Abelardo de la Espriella por mostrar foto con doble sentido a periodista: “Hormonado y testiculado” ",
-      "link": "https://www.infobae.com/colombia/2026/05/13/el-caricaturista-matador-critico-a-abelardo-de-la-espriella-por-mostrar-foto-con-doble-sentido-a-periodista-hormonado-y-testiculado/",
-      "source": "Infobae",
-      "pubDate": "Wed, 13 May 2026 16:37:02 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Sarkozy ante la Justicia: piden siete años de prisión en juicio de apelación por financiamiento ilícito",
@@ -143,22 +159,6 @@
       "pubDate": "2026-05-13T10:29:05-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Paloma a la derecha y Oviedo al centro: así busca votos en Bogotá",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/paloma-a-la-derecha-y-oviedo-al-centro-asi-busca-votos-en-bogota/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 13 May 2026 12:39:18 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Informe desde Lima: Fiscalía pide cinco años de cárcel para candidato presidencial Roberto Sánchez",
-      "link": "https://www.france24.com/es/video/20260513-informe-desde-lima-fiscal%C3%ADa-pide-cinco-a%C3%B1os-de-c%C3%A1rcel-para-candidato-presidencial-roberto-s%C3%A1nchez",
-      "source": "France 24",
-      "pubDate": "Wed, 13 May 2026 04:02:19 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
