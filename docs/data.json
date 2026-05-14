@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T23:42:38.919Z",
+  "updatedAt": "2026-05-14T09:41:45.374Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 58,
+      "trendsScore": 60,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 61,
+      "finalScore": 62,
       "momentum": {
-        "value": 1.7,
+        "value": 1.6,
         "direction": "flat"
       },
-      "probability": 27.1
+      "probability": 27.8
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 32.9
+      "probability": 33.2
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 63,
+      "trendsScore": 56,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 51,
+      "finalScore": 48,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -5.9,
+        "direction": "down"
       },
-      "probability": 22.7
+      "probability": 21.5
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 9,
+      "trendsScore": 8,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -84,31 +84,15 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 17.3
+      "probability": 17.5
     }
   ],
   "articles": [
     {
-      "title": "Paloma Valencia volvió a arremeter contra Margarita Rosa de Francisco: “Ella no tiene conciencia de que es machista”",
-      "link": "https://www.infobae.com/colombia/2026/05/13/paloma-valencia-volvio-a-arremeter-contra-margarita-rosa-de-francisco-ella-no-tiene-conciencia-de-que-es-machista/",
+      "title": "“Podemos ganar en primera vuelta”: campaña de Iván Cepeda busca 22.000 abogados para vigilar las elecciones",
+      "link": "https://www.infobae.com/colombia/2026/05/14/podemos-ganar-en-primera-vuelta-campana-de-ivan-cepeda-busca-22000-abogados-para-vigilar-las-elecciones/",
       "source": "Infobae",
-      "pubDate": "Wed, 13 May 2026 23:30:33 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Paloma Valencia no descarta tener un ministro de izquierda en caso de que sea elegida presidenta: “Necesitamos un país donde quepamos todos”",
-      "link": "https://www.infobae.com/colombia/2026/05/13/paloma-valencia-no-descarta-tener-un-ministro-de-izquierda-en-caso-de-que-sea-elegida-presidenta-necesitamos-un-pais-donde-quepamos-todos/",
-      "source": "Infobae",
-      "pubDate": "Wed, 13 May 2026 23:13:51 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "María José Pizarro celebró el apoyo de Ernesto Samper a la campaña de Iván Cepeda: “Seguimos consolidando una gran mayoría nacional”",
-      "link": "https://www.infobae.com/colombia/2026/05/13/maria-jose-pizarro-celebro-el-apoyo-de-ernesto-samper-a-la-campana-de-ivan-cepeda-seguimos-consolidando-una-gran-mayoria-nacional/",
-      "source": "Infobae",
-      "pubDate": "Wed, 13 May 2026 23:03:08 +0000",
+      "pubDate": "Thu, 14 May 2026 09:35:39 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -145,36 +129,12 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Cepeda dijo que su estado de salud era “verificable”. Hasta ahora, no lo es",
-      "link": "https://www.lasillavacia.com/silla-nacional/cepeda-dijo-que-su-estado-de-salud-era-verificable-hasta-ahora-no-lo-es/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 13 May 2026 19:04:37 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Sarkozy ante la Justicia: piden siete años de prisión en juicio de apelación por financiamiento ilícito",
-      "link": "https://www.france24.com/es/francia/20260513-sarkozy-ante-la-justicia-fiscales-piden-siete-a%C3%B1os-de-prisi%C3%B3n-en-el-juicio-por-financiamiento-libio",
-      "source": "France 24",
-      "pubDate": "Wed, 13 May 2026 16:35:52 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "CNE alista investigación y pliego de cargos contra Julio César González, 'Matador', por violencia de género contra Paloma Valencia",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cne-alista-investigacion-y-pliego-de-cargos-contra-julio-cesar-gonzalez-matador-por-violencia-de-genero-contra-paloma-valencia-3555415",
       "source": "El Tiempo",
       "pubDate": "2026-05-13T11:01:07-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Iván Cepeda pide investigación disciplinaria contra embajadora de Colombia en Haití, señalada de hacer proselitismo en favor de su campaña",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/en-entrevista-embajadora-de-colombia-en-haiti-hizo-proselitismo-a-favor-de-ivan-cepeda-candidato-pidio-investigacion-disciplinaria-3555381",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-13T10:29:05-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
