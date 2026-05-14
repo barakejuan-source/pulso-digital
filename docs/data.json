@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-14T17:18:03.073Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-05-14T21:58:07.675Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 60,
+      "trendsScore": 55,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 62,
+      "finalScore": 60,
       "momentum": {
-        "value": 0,
+        "value": -3.2,
         "direction": "flat"
       },
-      "probability": 27.8
+      "probability": 27
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 33.2
+      "probability": 33.3
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 56,
+      "trendsScore": 57,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 48,
+      "finalScore": 49,
       "momentum": {
-        "value": 0,
+        "value": 2.1,
         "direction": "flat"
       },
-      "probability": 21.5
+      "probability": 22.1
     },
     {
       "id": "sergio_fajardo",
@@ -84,33 +84,57 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 17.5
+      "probability": 17.6
     }
   ],
   "articles": [
     {
-      "title": "Con escudo y chaleco antibalas, así se presentó Abelardo de la Espriella se presentó en Medellín tras denunciar amenazas en su contra    ",
-      "link": "https://www.infobae.com/colombia/2026/05/14/abelardo-de-la-espriella-se-presento-con-chaleco-antibalas-en-un-acto-de-campana-tras-denunciar-amenazas-en-su-contra/",
+      "title": "Sergio Fajardo ‘encendió’ la contienda al apostar por el “28%” de votantes indecisos para el 31 de mayo: “¡Demos la sorpresa!“",
+      "link": "https://www.infobae.com/colombia/2026/05/14/sergio-fajardo-encendio-la-contienda-al-apostar-por-el-28-de-votantes-indecisos-para-el-31-de-mayo-demos-la-sorpresa/",
       "source": "Infobae",
-      "pubDate": "Thu, 14 May 2026 17:15:53 +0000",
+      "pubDate": "Thu, 14 May 2026 21:41:27 +0000",
+      "candidateId": "sergio_fajardo",
+      "candidateColor": "#2A9D8F"
+    },
+    {
+      "title": "Ingrid Betancourt denunció que “las bodegas de Cepeda están inflando a Abelardo de la Espriella” para que pase a segunda vuelta",
+      "link": "https://www.infobae.com/colombia/2026/05/14/ingrid-betancourt-denuncio-que-las-bodegas-de-cepeda-estan-inflando-a-abelardo-de-la-espriella-para-que-pase-a-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Thu, 14 May 2026 21:30:55 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Resultados ONPE al 99.973% EN VIVO: Roberto Sánchez supera a López Aliaga y ya se define el segundo lugar",
-      "link": "https://www.infobae.com/peru/2026/05/09/resultados-onpe-en-vivo-conteo-oficial-conoce-quien-pasa-a-segunda-vuelta-en-las-elecciones-2026-keiko-fujimori-roberto-sanchez-y-rafael-lopez-aliaga/",
-      "source": "Infobae",
-      "pubDate": "Thu, 14 May 2026 17:11:41 +0000",
+      "title": "¿Una filtración complica la campaña de Bolsonaro?",
+      "link": "https://www.france24.com/es/programas/en-contexto/20260514-una-filtraci%C3%B3n-complica-la-campa%C3%B1a-de-bolsonaro",
+      "source": "France 24",
+      "pubDate": "Thu, 14 May 2026 21:01:07 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Marbelle respondió a uniformado que la señaló de padecer el síndrome de Estocolmo: “Traidor malpa...”",
-      "link": "https://www.infobae.com/colombia/2026/05/14/marbelle-respondio-a-uniformado-que-la-senalo-de-padecer-el-sindrome-de-estocolmo-traidor-malpa/",
-      "source": "Infobae",
-      "pubDate": "Thu, 14 May 2026 16:52:47 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Violencia electoral y constreñimiento: los temores que envuelven el proceso democrático a 15 días de la primera vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/violencia-electoral-y-constrenimiento-los-temores-que-envuelven-el-proceso-democratico-a-15-dias-de-la-primera-vuelta-presidencial-3555825",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-14T15:47:11-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iván Cepeda volvió a rechazar constreñimiento de grupos armados tras audio de jefe de disidencias de 'Calarcá' en el que se le menciona",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-volvio-a-rechazar-constrenimiento-de-grupos-armados-tras-audio-de-jefe-de-disidencias-de-calarca-en-el-que-se-le-menciona-3555800",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-14T15:17:20-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "#ElFiltro: grabación de militares golpeados en entrenamiento es difundido como violencia guerrillera para atacar candidatura de Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-grabacion-de-militares-golpeados-en-entrenamiento-es-difundido-como-violencia-guerrillera-para-atacar-candidatura-de-ivan-cepeda-3555805",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-14T15:11:07-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Directo Latam y las propuestas de los candidatos presidenciales en materia de salud",
@@ -121,58 +145,10 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "En audios, disidencias de “Calarcá” piden respaldar a Iván Cepeda",
-      "link": "https://www.lasillavacia.com/en-vivo/en-audios-disidencias-de-calarca-piden-respaldar-a-ivan-cepeda/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 14 May 2026 15:00:33 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "¿Quién es Vilma Rocío Velásquez, la embajadora en Haití suspendida por la Procuraduría por posible participación en política?",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/quien-es-vilma-rocio-velasquez-la-embajadora-en-haiti-suspendida-por-la-procuraduria-por-posible-participacion-en-politica-3555667",
       "source": "El Tiempo",
       "pubDate": "2026-05-14T08:53:40-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Procuraduría suspende a embajadora en Haití por presunta participación política",
-      "link": "https://www.lasillavacia.com/en-vivo/procuraduria-suspende-a-embajadora-en-haiti-por-presunta-participacion-politica/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 14 May 2026 13:07:08 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo y el espejo machista de Milei",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/abelardo-y-el-espejo-machista-de-milei/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 14 May 2026 12:34:27 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "'Se equivocan cuando usan el letrero del Partido Liberal diciendo que liberales se fueron para donde Cepeda': senador electo Santiago Montoya",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/se-equivocan-cuando-usan-el-letrero-del-partido-liberal-diciendo-que-liberales-se-fueron-para-donde-cepeda-senador-electo-santiago-montoya-3555533",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-13T17:29:02-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "José Manuel Restrepo se refirió a controversias de Abelardo de la Espriella con periodistas: 'Compromiso de respeto por la prensa y con la mujer'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/jose-manuel-restrepo-se-refiere-a-controversias-de-abelardo-de-la-espriella-con-periodistas-compromiso-de-respeto-por-la-prensa-y-con-la-mujer-3555503",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-13T16:27:22-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Aida Quilcué, fórmula de Iván Cepeda, criticó al candidato Abelardo de la Espriella por usar el 'tigre' en su campaña electoral: 'No use este símbolo'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/aida-quilcue-critico-al-candidato-abelardo-de-la-espriella-por-usar-el-tigre-en-campana-electoral-no-use-este-simbolo-3555482",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-13T15:58:59-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
