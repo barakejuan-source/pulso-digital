@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-14T09:41:45.374Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-05-14T17:18:03.073Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 393379,
       "finalScore": 62,
       "momentum": {
-        "value": 1.6,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 27.8
@@ -60,8 +60,8 @@
       "youtubeViews": 282459,
       "finalScore": 48,
       "momentum": {
-        "value": -5.9,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 21.5
     },
@@ -89,12 +89,68 @@
   ],
   "articles": [
     {
-      "title": "“Podemos ganar en primera vuelta”: campaña de Iván Cepeda busca 22.000 abogados para vigilar las elecciones",
-      "link": "https://www.infobae.com/colombia/2026/05/14/podemos-ganar-en-primera-vuelta-campana-de-ivan-cepeda-busca-22000-abogados-para-vigilar-las-elecciones/",
+      "title": "Con escudo y chaleco antibalas, así se presentó Abelardo de la Espriella se presentó en Medellín tras denunciar amenazas en su contra    ",
+      "link": "https://www.infobae.com/colombia/2026/05/14/abelardo-de-la-espriella-se-presento-con-chaleco-antibalas-en-un-acto-de-campana-tras-denunciar-amenazas-en-su-contra/",
       "source": "Infobae",
-      "pubDate": "Thu, 14 May 2026 09:35:39 +0000",
+      "pubDate": "Thu, 14 May 2026 17:15:53 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Resultados ONPE al 99.973% EN VIVO: Roberto Sánchez supera a López Aliaga y ya se define el segundo lugar",
+      "link": "https://www.infobae.com/peru/2026/05/09/resultados-onpe-en-vivo-conteo-oficial-conoce-quien-pasa-a-segunda-vuelta-en-las-elecciones-2026-keiko-fujimori-roberto-sanchez-y-rafael-lopez-aliaga/",
+      "source": "Infobae",
+      "pubDate": "Thu, 14 May 2026 17:11:41 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Marbelle respondió a uniformado que la señaló de padecer el síndrome de Estocolmo: “Traidor malpa...”",
+      "link": "https://www.infobae.com/colombia/2026/05/14/marbelle-respondio-a-uniformado-que-la-senalo-de-padecer-el-sindrome-de-estocolmo-traidor-malpa/",
+      "source": "Infobae",
+      "pubDate": "Thu, 14 May 2026 16:52:47 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Directo Latam y las propuestas de los candidatos presidenciales en materia de salud",
+      "link": "https://www.france24.com/es/video/20260514-directo-latam-y-las-propuestas-de-los-candidatos-presidenciales-en-materia-de-salud",
+      "source": "France 24",
+      "pubDate": "Thu, 14 May 2026 16:09:29 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "En audios, disidencias de “Calarcá” piden respaldar a Iván Cepeda",
+      "link": "https://www.lasillavacia.com/en-vivo/en-audios-disidencias-de-calarca-piden-respaldar-a-ivan-cepeda/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 14 May 2026 15:00:33 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Quién es Vilma Rocío Velásquez, la embajadora en Haití suspendida por la Procuraduría por posible participación en política?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/quien-es-vilma-rocio-velasquez-la-embajadora-en-haiti-suspendida-por-la-procuraduria-por-posible-participacion-en-politica-3555667",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-14T08:53:40-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Procuraduría suspende a embajadora en Haití por presunta participación política",
+      "link": "https://www.lasillavacia.com/en-vivo/procuraduria-suspende-a-embajadora-en-haiti-por-presunta-participacion-politica/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 14 May 2026 13:07:08 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo y el espejo machista de Milei",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/abelardo-y-el-espejo-machista-de-milei/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 14 May 2026 12:34:27 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "'Se equivocan cuando usan el letrero del Partido Liberal diciendo que liberales se fueron para donde Cepeda': senador electo Santiago Montoya",
@@ -119,22 +175,6 @@
       "pubDate": "2026-05-13T15:58:59-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Fiscalía francesa pide siete años de prisión a Nicolás Sarkozy por financiamiento ilícito",
-      "link": "https://www.france24.com/es/video/20260513-fiscal%C3%ADa-francesa-pide-siete-a%C3%B1os-de-prisi%C3%B3n-a-nicol%C3%A1s-sarkozy-por-financiamiento-il%C3%ADcito",
-      "source": "France 24",
-      "pubDate": "Wed, 13 May 2026 19:20:20 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "CNE alista investigación y pliego de cargos contra Julio César González, 'Matador', por violencia de género contra Paloma Valencia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cne-alista-investigacion-y-pliego-de-cargos-contra-julio-cesar-gonzalez-matador-por-violencia-de-genero-contra-paloma-valencia-3555415",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-13T11:01:07-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
     }
   ]
 }
