@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-14T21:58:07.675Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-05-15T08:33:49.328Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 393379,
       "finalScore": 60,
       "momentum": {
-        "value": -3.2,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 27
@@ -60,7 +60,7 @@
       "youtubeViews": 282459,
       "finalScore": 49,
       "momentum": {
-        "value": 2.1,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 22.1
@@ -89,20 +89,28 @@
   ],
   "articles": [
     {
-      "title": "Sergio Fajardo ‘encendió’ la contienda al apostar por el “28%” de votantes indecisos para el 31 de mayo: “¡Demos la sorpresa!“",
-      "link": "https://www.infobae.com/colombia/2026/05/14/sergio-fajardo-encendio-la-contienda-al-apostar-por-el-28-de-votantes-indecisos-para-el-31-de-mayo-demos-la-sorpresa/",
+      "title": "Resultados ONPE al 99.998% EN VIVO: conteo oficial a poco de cerrar para la segunda vuelta entre Keiko Fujimori y Roberto Sánchez",
+      "link": "https://www.infobae.com/peru/2026/05/15/resultados-onpe-al-100-en-vivo-conteo-oficial-confirma-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
       "source": "Infobae",
-      "pubDate": "Thu, 14 May 2026 21:41:27 +0000",
-      "candidateId": "sergio_fajardo",
-      "candidateColor": "#2A9D8F"
+      "pubDate": "Fri, 15 May 2026 08:21:27 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Ingrid Betancourt denunció que “las bodegas de Cepeda están inflando a Abelardo de la Espriella” para que pase a segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/05/14/ingrid-betancourt-denuncio-que-las-bodegas-de-cepeda-estan-inflando-a-abelardo-de-la-espriella-para-que-pase-a-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Thu, 14 May 2026 21:30:55 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Se reavivó el debate de la participación política de funcionarios a favor de Iván Cepeda tras caso de la embajadora en Haití",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/embajadora-haiti-cepeda-se-reavivo-el-debate-de-la-participacion-politica-de-funcionarios-a-favor-de-ivan-cepeda-tras-caso-de-la-embajadora-en-haiti-3555731",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-14T18:12:49-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Se despeja la incertidumbre en Perú?: el 17 de mayo se sabrá quiénes pasan a la segunda vuelta",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260514-se-despeja-la-incertidumbre-en-per%C3%BA-el-domingo-se-sabr%C3%A1-qui%C3%A9nes-pasan-a-la-segunda-vuelta",
+      "source": "France 24",
+      "pubDate": "Thu, 14 May 2026 22:37:34 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "¿Una filtración complica la campaña de Bolsonaro?",
@@ -133,22 +141,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-grabacion-de-militares-golpeados-en-entrenamiento-es-difundido-como-violencia-guerrillera-para-atacar-candidatura-de-ivan-cepeda-3555805",
       "source": "El Tiempo",
       "pubDate": "2026-05-14T15:11:07-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Directo Latam y las propuestas de los candidatos presidenciales en materia de salud",
-      "link": "https://www.france24.com/es/video/20260514-directo-latam-y-las-propuestas-de-los-candidatos-presidenciales-en-materia-de-salud",
-      "source": "France 24",
-      "pubDate": "Thu, 14 May 2026 16:09:29 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Quién es Vilma Rocío Velásquez, la embajadora en Haití suspendida por la Procuraduría por posible participación en política?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/quien-es-vilma-rocio-velasquez-la-embajadora-en-haiti-suspendida-por-la-procuraduria-por-posible-participacion-en-politica-3555667",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-14T08:53:40-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
