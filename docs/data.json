@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-15T16:34:16.537Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-05-15T21:41:21.672Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 55,
+      "trendsScore": 51,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 60,
+      "finalScore": 59,
       "momentum": {
-        "value": 0,
+        "value": -1.7,
         "direction": "flat"
       },
-      "probability": 27
+      "probability": 27.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 33.3
+      "probability": 34.1
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 57,
+      "trendsScore": 49,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 49,
+      "finalScore": 45,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -8.2,
+        "direction": "down"
       },
-      "probability": 22.1
+      "probability": 20.7
     },
     {
       "id": "sergio_fajardo",
@@ -84,52 +84,44 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 17.6
+      "probability": 18
     }
   ],
   "articles": [
     {
-      "title": "Encuesta AtlasIntel: Abelardo de la Espriella se despegó de Paloma Valencia y apunta a la segunda vuelta con Iván Cepeda",
-      "link": "https://www.infobae.com/colombia/2026/05/15/encuesta-atlasintel-abelardo-de-la-espriella-se-despego-de-paloma-valencia-y-apunta-a-la-segunda-vuelta-con-ivan-cepeda/",
+      "title": "Petro ‘estalló’ contra políticos tras confirmarse que el audio de apoyo a Iván Cepeda es de un extorsionista: “Increíble el nivel de mentira”",
+      "link": "https://www.infobae.com/colombia/2026/05/15/petro-estallo-contra-politicos-tras-confirmarse-que-el-audio-de-apoyo-a-ivan-cepeda-es-de-un-extorsionista-increible-el-nivel-de-mentira/",
       "source": "Infobae",
-      "pubDate": "Fri, 15 May 2026 16:28:05 +0000",
+      "pubDate": "Fri, 15 May 2026 21:16:15 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Resultados ONPE al 100% EN VIVO: Terminó el conteo y Roberto Sánchez superó a Rafael López Aliaga por más de 21 mil votos",
-      "link": "https://www.infobae.com/peru/2026/05/15/resultados-onpe-al-100-en-vivo-conteo-oficial-confirma-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
-      "source": "Infobae",
-      "pubDate": "Fri, 15 May 2026 16:06:12 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Iván Cepeda califica de montaje audios atribuidos a jefe de disidencias de 'Calarcá': 'Hay una campaña sucia para enlodar mi prestigio'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-califica-de-montaje-audios-atribuidos-a-jefe-de-disidencias-de-calarca-hay-una-campana-sucia-para-enlodar-mi-prestigio-3556093",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-15T15:53:50-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "Expresidente Álvaro Uribe le recuerda a sus militantes que Paloma Valencia es su candidata única: ‘De la Espriella llegó 6 meses después’",
+      "title": "Expresidente Álvaro Uribe les recuerda a sus militantes que Paloma Valencia es su candidata única: ‘De la Espriella llegó 6 meses después’",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/expresidente-alvaro-uribe-le-recuerda-a-sus-militantes-que-paloma-valencia-es-su-candidata-unica-de-la-espriella-llego-6-meses-despues-3556023",
       "source": "El Tiempo",
-      "pubDate": "2026-05-15T11:02:07-05:00",
+      "pubDate": "2026-05-15T15:00:15-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
     },
     {
-      "title": "Elecciones 2026: Así votaron todas las regiones y cuántos votos obtuvieron Keiko Fujimori y Roberto Sánchez",
-      "link": "https://www.infobae.com/peru/2026/05/15/elecciones-2026-asi-votaron-todas-las-regiones-y-cuantos-votos-obtuvieron-keiko-fujimori-y-roberto-sanchez/",
-      "source": "Infobae",
-      "pubDate": "Fri, 15 May 2026 15:53:22 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "#ElFiltro: imagen viral que atribuye a Iván Cepeda haber dicho que asesinos del periodista Mateo Pérez 'merecen una segunda oportunidad' es un montaje",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-imagen-viral-que-atribuye-a-ivan-cepeda-haber-dicho-que-asesinos-del-periodista-mateo-perez-merecen-una-segunda-oportunidad-es-un-montaje-3556035",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-15T12:45:20-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "PJ archiva investigación contra PPK por aporte de Odebrecht a su campaña presidencial de 2011",
-      "link": "https://www.infobae.com/peru/2026/05/15/pj-archiva-investigacion-contra-ppk-por-aporte-de-odebrecht-a-su-campana-presidencial-de-2011/",
-      "source": "Infobae",
-      "pubDate": "Fri, 15 May 2026 15:52:30 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Concluye el escrutinio en Perú: la segunda vuelta presidencial sería entre Keiko Fujimori y Roberto Sánchez",
+      "title": "Concluye el escrutinio en Perú: la segunda vuelta presidencial será entre Keiko Fujimori y Roberto Sánchez",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260515-concluye-el-escrutinio-en-per%C3%BA-la-segunda-vuelta-presidencial-ser%C3%ADa-entre-keiko-fujimori-y-roberto-s%C3%A1nchez",
       "source": "France 24",
       "pubDate": "Fri, 15 May 2026 15:44:59 GMT",
@@ -137,34 +129,10 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "La Liga, partido de Rodolfo Hernández, pide votar por candidatos de derecha",
-      "link": "https://www.lasillavacia.com/en-vivo/la-liga-partido-de-rodolfo-hernandez-pide-votar-por-candidatos-de-derecha/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 15 May 2026 15:23:51 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Perú: JNE anunciará el 17 de mayo a los dos candidatos que pasarán al balotaje",
       "link": "https://www.france24.com/es/video/20260515-per%C3%BA-jne-anunciar%C3%A1-el-17-de-mayo-a-los-dos-candidatos-que-pasar%C3%A1n-al-balotaje",
       "source": "France 24",
       "pubDate": "Fri, 15 May 2026 15:04:17 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Se reavivó el debate de la participación política de funcionarios a favor de Iván Cepeda tras caso de la embajadora en Haití",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/embajadora-haiti-cepeda-se-reavivo-el-debate-de-la-participacion-politica-de-funcionarios-a-favor-de-ivan-cepeda-tras-caso-de-la-embajadora-en-haiti-3555731",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-14T18:12:49-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Violencia electoral y constreñimiento: los temores que envuelven el proceso democrático a 15 días de la primera vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/violencia-electoral-y-constrenimiento-los-temores-que-envuelven-el-proceso-democratico-a-15-dias-de-la-primera-vuelta-presidencial-3555825",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-14T15:47:11-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
