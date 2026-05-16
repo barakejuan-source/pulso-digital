@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T21:41:21.672Z",
+  "updatedAt": "2026-05-16T06:40:56.835Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 51,
+      "trendsScore": 53,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -18,10 +18,10 @@
       "youtubeViews": 393379,
       "finalScore": 59,
       "momentum": {
-        "value": -1.7,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 27.2
+      "probability": 27.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 34.1
+      "probability": 34.6
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 49,
+      "trendsScore": 41,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 45,
+      "finalScore": 42,
       "momentum": {
-        "value": -8.2,
+        "value": -6.7,
         "direction": "down"
       },
-      "probability": 20.7
+      "probability": 19.6
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 8,
+      "trendsScore": 7,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -84,17 +84,25 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 18
+      "probability": 18.2
     }
   ],
   "articles": [
     {
-      "title": "Petro ‘estalló’ contra políticos tras confirmarse que el audio de apoyo a Iván Cepeda es de un extorsionista: “Increíble el nivel de mentira”",
-      "link": "https://www.infobae.com/colombia/2026/05/15/petro-estallo-contra-politicos-tras-confirmarse-que-el-audio-de-apoyo-a-ivan-cepeda-es-de-un-extorsionista-increible-el-nivel-de-mentira/",
-      "source": "Infobae",
-      "pubDate": "Fri, 15 May 2026 21:16:15 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Hermanos Bolsonaro son investigados por presunta financiación de un banquero preso en película",
+      "link": "https://www.france24.com/es/video/20260516-hermanos-bolsonaro-son-investigados-por-presunta-financiaci%C3%B3n-de-un-banquero-preso-en-pel%C3%ADcula",
+      "source": "France 24",
+      "pubDate": "Sat, 16 May 2026 01:55:27 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Keiko Fujimori y Roberto Sánchez: las dos figuras antagónicas que van al balotaje presidencial en Perú",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260515-keiko-fujimori-y-roberto-s%C3%A1nchez-las-dos-figuras-antag%C3%B3nicas-que-van-al-balotaje-presidencial-en-per%C3%BA",
+      "source": "France 24",
+      "pubDate": "Fri, 15 May 2026 22:11:04 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Iván Cepeda califica de montaje audios atribuidos a jefe de disidencias de 'Calarcá': 'Hay una campaña sucia para enlodar mi prestigio'",
@@ -119,22 +127,6 @@
       "pubDate": "2026-05-15T12:45:20-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Concluye el escrutinio en Perú: la segunda vuelta presidencial será entre Keiko Fujimori y Roberto Sánchez",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260515-concluye-el-escrutinio-en-per%C3%BA-la-segunda-vuelta-presidencial-ser%C3%ADa-entre-keiko-fujimori-y-roberto-s%C3%A1nchez",
-      "source": "France 24",
-      "pubDate": "Fri, 15 May 2026 15:44:59 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Perú: JNE anunciará el 17 de mayo a los dos candidatos que pasarán al balotaje",
-      "link": "https://www.france24.com/es/video/20260515-per%C3%BA-jne-anunciar%C3%A1-el-17-de-mayo-a-los-dos-candidatos-que-pasar%C3%A1n-al-balotaje",
-      "source": "France 24",
-      "pubDate": "Fri, 15 May 2026 15:04:17 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
