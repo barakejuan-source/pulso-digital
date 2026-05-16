@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T06:40:56.835Z",
+  "updatedAt": "2026-05-16T11:35:11.778Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 53,
+      "trendsScore": 51,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -21,7 +21,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 27.6
+      "probability": 27.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 34.6
+      "probability": 34.4
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 41,
+      "trendsScore": 42,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 42,
+      "finalScore": 43,
       "momentum": {
-        "value": -6.7,
-        "direction": "down"
+        "value": 2.4,
+        "direction": "flat"
       },
-      "probability": 19.6
+      "probability": 20
     },
     {
       "id": "sergio_fajardo",
@@ -84,7 +84,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 18.2
+      "probability": 18.1
     }
   ],
   "articles": [
