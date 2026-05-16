@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T15:40:51.166Z",
+  "updatedAt": "2026-05-16T19:51:52.158Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 51,
+      "trendsScore": 50,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 59,
+      "finalScore": 58,
       "momentum": {
-        "value": 0,
+        "value": -1.7,
         "direction": "flat"
       },
-      "probability": 27.4
+      "probability": 27.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 34.4
+      "probability": 34.7
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 42,
+      "trendsScore": 40,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 43,
+      "finalScore": 42,
       "momentum": {
-        "value": 0,
+        "value": -2.3,
         "direction": "flat"
       },
-      "probability": 20
+      "probability": 19.7
     },
     {
       "id": "sergio_fajardo",
@@ -84,31 +84,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 18.1
+      "probability": 18.3
     }
   ],
   "articles": [
     {
-      "title": "Segunda vuelta 2026 en Perú: Horario oficial, multas, nueva cédula y todos los cambios para este 7 de junio",
-      "link": "https://www.infobae.com/peru/2026/05/16/segunda-vuelta-2026-en-peru-horario-oficial-multas-nueva-cedula-y-todos-los-cambios-que-habran-este-7-de-junio/",
+      "title": "ONPE al 100%: ¿Qué falta para el conteo final y dar los resultados oficiales del Senado 2026?",
+      "link": "https://www.infobae.com/peru/2026/05/16/onpe-al-100-que-falta-para-el-conteo-final-y-dar-los-resultados-oficiales-del-senado-2026/",
       "source": "Infobae",
-      "pubDate": "Sat, 16 May 2026 15:21:32 +0000",
+      "pubDate": "Sat, 16 May 2026 18:51:54 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "Resultados ONPE al 100%: Keiko Fujimori y Roberto Sánchez disputarán la segunda vuelta tras finalizar el conteo oficial",
+      "link": "https://www.infobae.com/peru/2026/05/15/resultados-onpe-al-100-en-vivo-conteo-oficial-confirma-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
+      "source": "Infobae",
+      "pubDate": "Sat, 16 May 2026 18:47:04 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "JNE en las Elecciones 2026: ¿cómo es la proclamación de los ganadores de la primera vuelta electoral?",
+      "link": "https://www.infobae.com/peru/2026/05/16/jne-en-las-elecciones-2026-como-es-la-proclamacion-de-los-ganadores-de-la-primera-vuelta-electoral/",
+      "source": "Infobae",
+      "pubDate": "Sat, 16 May 2026 18:43:26 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella se pronuncia tras asesinato de coordinador de su campaña en el Meta: 'Este crimen no es obra de desconocidos'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-se-pronuncia-tras-asesinato-de-coordinador-de-su-campana-en-el-meta-este-crimen-no-es-obra-de-desconocidos-3556248",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-16T11:23:54-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Hermanos Bolsonaro son investigados por presunta financiación de un banquero preso en película",
       "link": "https://www.france24.com/es/video/20260516-hermanos-bolsonaro-son-investigados-por-presunta-financiaci%C3%B3n-de-un-banquero-preso-en-pel%C3%ADcula",
       "source": "France 24",
       "pubDate": "Sat, 16 May 2026 01:55:27 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Keiko Fujimori y Roberto Sánchez: las dos figuras antagónicas que van al balotaje presidencial en Perú",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260515-keiko-fujimori-y-roberto-s%C3%A1nchez-las-dos-figuras-antag%C3%B3nicas-que-van-al-balotaje-presidencial-en-per%C3%BA",
-      "source": "France 24",
-      "pubDate": "Fri, 15 May 2026 22:11:04 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
