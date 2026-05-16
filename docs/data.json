@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T11:35:11.778Z",
+  "updatedAt": "2026-05-16T15:40:51.166Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -60,7 +60,7 @@
       "youtubeViews": 282459,
       "finalScore": 43,
       "momentum": {
-        "value": 2.4,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 20
@@ -88,6 +88,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Segunda vuelta 2026 en Perú: Horario oficial, multas, nueva cédula y todos los cambios para este 7 de junio",
+      "link": "https://www.infobae.com/peru/2026/05/16/segunda-vuelta-2026-en-peru-horario-oficial-multas-nueva-cedula-y-todos-los-cambios-que-habran-este-7-de-junio/",
+      "source": "Infobae",
+      "pubDate": "Sat, 16 May 2026 15:21:32 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "Hermanos Bolsonaro son investigados por presunta financiación de un banquero preso en película",
       "link": "https://www.france24.com/es/video/20260516-hermanos-bolsonaro-son-investigados-por-presunta-financiaci%C3%B3n-de-un-banquero-preso-en-pel%C3%ADcula",
