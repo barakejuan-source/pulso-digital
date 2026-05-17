@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T19:58:38.404Z",
+  "updatedAt": "2026-05-17T23:16:28.900Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 48,
+      "trendsScore": 49,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 57,
+      "finalScore": 58,
       "momentum": {
-        "value": -1.7,
+        "value": 1.8,
         "direction": "flat"
       },
-      "probability": 26.8
+      "probability": 27.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 34.7
+      "probability": 34.6
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 42,
+      "trendsScore": 43,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -63,7 +63,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 20.2
+      "probability": 20.1
     },
     {
       "id": "sergio_fajardo",
@@ -84,20 +84,28 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 18.3
+      "probability": 18.2
     }
   ],
   "articles": [
     {
-      "title": "Roberto Sánchez plantea múltiples debates contra Keiko Fujimori: Universidad San Marcos, Cajamarca y Puno serían sedes",
-      "link": "https://www.infobae.com/peru/2026/05/17/roberto-sanchez-plantea-multiples-debates-contra-keiko-fujimori-universidad-san-marcos-cajamarca-y-puno-serian-sedes/",
+      "title": "Expresidente del Congreso lanzó pullas contra Iván Cepeda y lo involucró con estructuras armadas: “Hay cercanías imposibles de ocultar”",
+      "link": "https://www.infobae.com/colombia/2026/05/17/expresidente-del-congreso-se-despacho-contra-ivan-cepeda-y-lo-involucro-con-estructuras-armadas-hay-cercanias-imposibles-de-ocultar/",
       "source": "Infobae",
-      "pubDate": "Sun, 17 May 2026 19:13:40 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Sun, 17 May 2026 23:03:08 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "Perú oficializa resultados electorales y Renovación Popular anuncia que los impugnará",
+      "title": "Cepeda busca el voto LGBTQ+ y Valencia el de las mujeres",
+      "link": "https://www.lasillavacia.com/en-vivo/cepeda-busca-el-voto-lgbtq-y-valencia-el-de-las-mujeres/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 17 May 2026 22:17:13 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Perú oficializa un balotaje entre Keiko Fujimori y Roberto Sánchez; la extrema derecha impugnará",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260517-per%C3%BA-oficializa-resultados-electorales-y-renovaci%C3%B3n-popular-anuncia-que-los-impugnar%C3%A1",
       "source": "France 24",
       "pubDate": "Sun, 17 May 2026 19:02:11 GMT",
@@ -119,14 +127,6 @@
       "pubDate": "Sun, 17 May 2026 14:02:46 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda, la verdad como poder",
-      "link": "https://www.lasillavacia.com/silla-nacional/ivan-cepeda-la-verdad-como-poder/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 17 May 2026 06:00:00 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Abelardo de la Espriella se pronuncia tras asesinato de coordinador de su campaña en el Meta: 'Este crimen no es obra de desconocidos'",
