@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T22:33:44.214Z",
+  "updatedAt": "2026-05-17T08:36:48.713Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 51,
+      "trendsScore": 49,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 59,
+      "finalScore": 58,
       "momentum": {
-        "value": 1.7,
+        "value": -1.7,
         "direction": "flat"
       },
-      "probability": 27.6
+      "probability": 27.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 34.6
+      "probability": 34.7
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 41,
+      "trendsScore": 40,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -63,7 +63,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 19.6
+      "probability": 19.7
     },
     {
       "id": "sergio_fajardo",
@@ -84,10 +84,18 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 18.2
+      "probability": 18.3
     }
   ],
   "articles": [
+    {
+      "title": "JNE proclama hoy resultados oficiales de la primera vuelta EN VIVO: Roberto Sánchez y Keiko Fujimori irán al balotaje",
+      "link": "https://www.infobae.com/peru/2026/05/17/en-vivo-jne-proclama-hoy-resultados-oficiales-de-la-primera-vuelta-de-las-elecciones-2026-roberto-sanchez-y-keiko-fujimori-a-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Sun, 17 May 2026 06:17:02 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "Abelardo de la Espriella se pronuncia tras asesinato de coordinador de su campaña en el Meta: 'Este crimen no es obra de desconocidos'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-se-pronuncia-tras-asesinato-de-coordinador-de-su-campana-en-el-meta-este-crimen-no-es-obra-de-desconocidos-3556248",
@@ -97,34 +105,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Hermanos Bolsonaro son investigados por presunta financiación de un banquero preso en película",
-      "link": "https://www.france24.com/es/video/20260516-hermanos-bolsonaro-son-investigados-por-presunta-financiaci%C3%B3n-de-un-banquero-preso-en-pel%C3%ADcula",
-      "source": "France 24",
-      "pubDate": "Sat, 16 May 2026 01:55:27 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Iván Cepeda califica de montaje audios atribuidos a jefe de disidencias de 'Calarcá': 'Hay una campaña sucia para enlodar mi prestigio'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-califica-de-montaje-audios-atribuidos-a-jefe-de-disidencias-de-calarca-hay-una-campana-sucia-para-enlodar-mi-prestigio-3556093",
       "source": "El Tiempo",
       "pubDate": "2026-05-15T15:53:50-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Expresidente Álvaro Uribe les recuerda a sus militantes que Paloma Valencia es su candidata única: ‘De la Espriella llegó 6 meses después’",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/expresidente-alvaro-uribe-le-recuerda-a-sus-militantes-que-paloma-valencia-es-su-candidata-unica-de-la-espriella-llego-6-meses-despues-3556023",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-15T15:00:15-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "#ElFiltro: imagen viral que atribuye a Iván Cepeda haber dicho que asesinos del periodista Mateo Pérez 'merecen una segunda oportunidad' es un montaje",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-imagen-viral-que-atribuye-a-ivan-cepeda-haber-dicho-que-asesinos-del-periodista-mateo-perez-merecen-una-segunda-oportunidad-es-un-montaje-3556035",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-15T12:45:20-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
