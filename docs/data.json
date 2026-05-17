@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T08:36:48.713Z",
+  "updatedAt": "2026-05-17T14:43:49.300Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,10 +18,10 @@
       "youtubeViews": 393379,
       "finalScore": 58,
       "momentum": {
-        "value": -1.7,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 27.2
+      "probability": 27.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 34.7
+      "probability": 34.6
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 40,
+      "trendsScore": 43,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 42,
+      "finalScore": 43,
       "momentum": {
-        "value": 0,
+        "value": 2.4,
         "direction": "flat"
       },
-      "probability": 19.7
+      "probability": 20.1
     },
     {
       "id": "sergio_fajardo",
@@ -84,15 +84,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 18.3
+      "probability": 18.2
     }
   ],
   "articles": [
     {
-      "title": "JNE proclama hoy resultados oficiales de la primera vuelta EN VIVO: Roberto Sánchez y Keiko Fujimori irán al balotaje",
-      "link": "https://www.infobae.com/peru/2026/05/17/en-vivo-jne-proclama-hoy-resultados-oficiales-de-la-primera-vuelta-de-las-elecciones-2026-roberto-sanchez-y-keiko-fujimori-a-segunda-vuelta/",
+      "title": "“Ojalá Alex Saab no contrate un candidato de abogado”: Paloma",
+      "link": "https://www.lasillavacia.com/en-vivo/ojala-alex-saab-no-contrate-un-candidato-de-abogado-paloma/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 17 May 2026 14:02:46 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Qué sigue ahora que el JNE proclamó los resultados de la primera vuelta: prueba de color, debates y más",
+      "link": "https://www.infobae.com/peru/2026/05/17/que-sigue-ahora-que-el-jne-proclamo-los-resultados-de-la-primera-vuelta-prueba-de-color-debates-y-mas/",
       "source": "Infobae",
-      "pubDate": "Sun, 17 May 2026 06:17:02 +0000",
+      "pubDate": "Sun, 17 May 2026 13:39:47 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
