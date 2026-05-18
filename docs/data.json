@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-18T19:20:11.171Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-05-18T23:49:50.979Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 393379,
       "finalScore": 59,
       "momentum": {
-        "value": 1.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 27.2
@@ -60,7 +60,7 @@
       "youtubeViews": 282459,
       "finalScore": 45,
       "momentum": {
-        "value": 2.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 20.7
@@ -88,6 +88,22 @@
     }
   ],
   "articles": [
+    {
+      "title": "Clemencia Vargas, hija del exvicepresidente Germán Vargas Lleras, votará por Abelardo de la Espriella: así hizo el anuncio ",
+      "link": "https://www.infobae.com/colombia/2026/05/18/clemencia-vargas-hija-del-exvicepresidente-german-vargas-lleras-votara-por-abelardo-de-la-espriella-asi-hizo-el-anuncio/",
+      "source": "Infobae",
+      "pubDate": "Mon, 18 May 2026 23:26:40 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Cepeda en RCN: diálogo nacional, política de paz y reunión con gremios",
+      "link": "https://www.lasillavacia.com/en-vivo/cepeda-en-rcn-dialogo-nacional-politica-de-paz-y-reunion-con-gremios/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 18 May 2026 23:23:49 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
     {
       "title": "Mauricio Gómez a María José Pizarro: 'Ustedes son los responsables de la llamada 'paz total' que hoy tiene a Colombia sumida en la violencia'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/mauricio-gomez-a-maria-jose-pizarro-ustedes-son-los-responsables-de-la-llamada-paz-total-que-hoy-tiene-a-colombia-sumida-en-la-violencia-3556502",
