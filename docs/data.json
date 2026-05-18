@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T12:54:32.888Z",
+  "updatedAt": "2026-05-18T19:20:11.171Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 50,
+      "trendsScore": 52,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 58,
+      "finalScore": 59,
       "momentum": {
-        "value": 0,
+        "value": 1.7,
         "direction": "flat"
       },
-      "probability": 27
+      "probability": 27.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 34.4
+      "probability": 34.1
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 46,
+      "trendsScore": 47,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 44,
+      "finalScore": 45,
       "momentum": {
         "value": 2.3,
         "direction": "flat"
       },
-      "probability": 20.5
+      "probability": 20.7
     },
     {
       "id": "sergio_fajardo",
@@ -84,10 +84,26 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 18.1
+      "probability": 18
     }
   ],
   "articles": [
+    {
+      "title": "Mauricio Gómez a María José Pizarro: 'Ustedes son los responsables de la llamada 'paz total' que hoy tiene a Colombia sumida en la violencia'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/mauricio-gomez-a-maria-jose-pizarro-ustedes-son-los-responsables-de-la-llamada-paz-total-que-hoy-tiene-a-colombia-sumida-en-la-violencia-3556502",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-18T13:16:33-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Paloma Valencia, la graduada más fervorosa del uribismo ",
+      "link": "https://www.lasillavacia.com/silla-nacional/paloma-valencia-la-graduada-mas-fervorosa-del-uribismo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 18 May 2026 13:56:43 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
     {
       "title": "Sergio Fajardo, el candidato para el que los medios justifican el fin",
       "link": "https://www.lasillavacia.com/silla-nacional/sergio-fajardo-el-candidato-para-el-que-los-medios-justifican-el-fin/",
@@ -103,22 +119,6 @@
       "pubDate": "Sun, 17 May 2026 22:17:13 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Perú oficializa un balotaje entre Keiko Fujimori y Roberto Sánchez; la extrema derecha impugnará",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260517-per%C3%BA-oficializa-resultados-electorales-y-renovaci%C3%B3n-popular-anuncia-que-los-impugnar%C3%A1",
-      "source": "France 24",
-      "pubDate": "Sun, 17 May 2026 19:02:11 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo de la Espriella en France 24: \"Tengo experiencia en ser exitoso\"",
-      "link": "https://www.france24.com/es/programas/la-entrevista/20260517-abelardo-de-la-espriella-en-france-24-tengo-experiencia-en-ser-exitoso",
-      "source": "France 24",
-      "pubDate": "Sun, 17 May 2026 18:00:41 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Abelardo de la Espriella se pronuncia tras asesinato de coordinador de su campaña en el Meta: 'Este crimen no es obra de desconocidos'",
