@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T23:16:28.900Z",
+  "updatedAt": "2026-05-18T12:54:32.888Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 49,
+      "trendsScore": 50,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -18,10 +18,10 @@
       "youtubeViews": 393379,
       "finalScore": 58,
       "momentum": {
-        "value": 1.8,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 27.1
+      "probability": 27
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 34.6
+      "probability": 34.4
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 43,
+      "trendsScore": 46,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 43,
+      "finalScore": 44,
       "momentum": {
-        "value": 0,
+        "value": 2.3,
         "direction": "flat"
       },
-      "probability": 20.1
+      "probability": 20.5
     },
     {
       "id": "sergio_fajardo",
@@ -84,17 +84,17 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 18.2
+      "probability": 18.1
     }
   ],
   "articles": [
     {
-      "title": "Expresidente del Congreso lanzó pullas contra Iván Cepeda y lo involucró con estructuras armadas: “Hay cercanías imposibles de ocultar”",
-      "link": "https://www.infobae.com/colombia/2026/05/17/expresidente-del-congreso-se-despacho-contra-ivan-cepeda-y-lo-involucro-con-estructuras-armadas-hay-cercanias-imposibles-de-ocultar/",
-      "source": "Infobae",
-      "pubDate": "Sun, 17 May 2026 23:03:08 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Sergio Fajardo, el candidato para el que los medios justifican el fin",
+      "link": "https://www.lasillavacia.com/silla-nacional/sergio-fajardo-el-candidato-para-el-que-los-medios-justifican-el-fin/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 18 May 2026 05:05:00 +0000",
+      "candidateId": "sergio_fajardo",
+      "candidateColor": "#2A9D8F"
     },
     {
       "title": "Cepeda busca el voto LGBTQ+ y Valencia el de las mujeres",
@@ -117,14 +117,6 @@
       "link": "https://www.france24.com/es/programas/la-entrevista/20260517-abelardo-de-la-espriella-en-france-24-tengo-experiencia-en-ser-exitoso",
       "source": "France 24",
       "pubDate": "Sun, 17 May 2026 18:00:41 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "“Ojalá Álex Saab no contrate un candidato de abogado”: Paloma",
-      "link": "https://www.lasillavacia.com/en-vivo/ojala-alex-saab-no-contrate-un-candidato-de-abogado-paloma/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 17 May 2026 14:02:46 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
