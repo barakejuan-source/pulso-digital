@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T18:29:56.961Z",
+  "updatedAt": "2026-05-19T23:47:16.839Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,10 +18,10 @@
       "youtubeViews": 393379,
       "finalScore": 60,
       "momentum": {
-        "value": 1.7,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 27.3
+      "probability": 26.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 33.6
+      "probability": 32.9
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 53,
+      "trendsScore": 66,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 47,
+      "finalScore": 52,
       "momentum": {
-        "value": 4.4,
-        "direction": "flat"
+        "value": 10.6,
+        "direction": "up"
       },
-      "probability": 21.4
+      "probability": 23.1
     },
     {
       "id": "sergio_fajardo",
@@ -84,31 +84,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 17.7
+      "probability": 17.3
     }
   ],
   "articles": [
     {
-      "title": "Gustavo Petro defendió al exministro Iván Velásquez tras señalamientos de Paloma Valencia y negó irregularidades en el Ministerio de Defensa ",
-      "link": "https://www.infobae.com/colombia/2026/05/19/gustavo-petro-defendio-al-exministro-ivan-velasquez-tras-senalamientos-de-paloma-valencia-y-nego-irregularidades-en-el-ministerio-de-defensa/",
-      "source": "Infobae",
-      "pubDate": "Tue, 19 May 2026 18:23:33 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
+      "title": "El país pluriétnico en disputa: lo que proponen los candidatos presidenciales",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-etnica/el-pais-plurietnico-en-disputa-lo-que-proponen-los-candidatos-presidenciales/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 19 May 2026 23:27:40 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Diario de Campaña: Atlas Intel se queda sin margen para las presidenciales",
-      "link": "https://www.lasillavacia.com/en-vivo/diario-de-campana-atlas-intel-se-queda-sin-margen-para-las-presidenciales/",
+      "title": "Álvaro Uribe denunció que manifestantes frente a su casa en Rionegro respondieron a órdenes de Iván Cepeda y reveló agresiones físicas ",
+      "link": "https://www.infobae.com/colombia/2026/05/19/alvaro-uribe-denuncio-que-manifestantes-frente-a-su-casa-en-rionegro-respondieron-a-ordenes-de-ivan-cepeda-y-revelo-agresiones-fisicas/",
+      "source": "Infobae",
+      "pubDate": "Tue, 19 May 2026 23:18:27 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Paloma y liberales definen “plan de acción” para remate de primera vuelta",
+      "link": "https://www.lasillavacia.com/en-vivo/paloma-y-liberales-definen-plan-de-accion-para-remate-de-primera-vuelta/",
       "source": "La Silla Vacía",
-      "pubDate": "Tue, 19 May 2026 18:23:19 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Tue, 19 May 2026 22:46:54 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Candidata Paloma Valencia se reúne con bancada del Partido Liberal a 12 días de las elecciones presidenciales: 'Tenemos que defender la Constitución'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/candidata-paloma-valencia-se-reune-con-bancada-del-partido-liberal-a-13-dias-de-las-elecciones-presidenciales-3556762",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-19T17:02:37-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
     },
     {
       "title": "Iván Cepeda denuncia nuevas presiones de grupos armados para influir en el voto: 'Al parecer, una de las disidencias en Guaviare'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-denuncia-nuevas-presiones-de-grupos-armados-para-influir-en-el-voto-al-parecer-una-de-las-disidencias-en-guaviare-3556734",
       "source": "El Tiempo",
-      "pubDate": "2026-05-19T13:14:47-05:00",
+      "pubDate": "2026-05-19T13:19:47-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -119,38 +135,6 @@
       "pubDate": "2026-05-19T13:11:07-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Militares responsables de filtrar audios en que supuesto cabecilla de las disidencias apoya la campaña de Iván Cepeda saldrían de las Fuerzas Armadas por orden de Gustavo Petro ",
-      "link": "https://www.infobae.com/colombia/2026/05/19/por-orden-de-petro-los-militares-responsables-de-filtrar-falsos-audios-contra-la-campana-de-ivan-cepeda-deberan-salir-de-las-instituciones/",
-      "source": "Infobae",
-      "pubDate": "Tue, 19 May 2026 18:08:04 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Partido Mira anunció su apoyo a la candidatura de Paloma Valencia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/partido-mira-anuncio-su-apoyo-a-la-candidatura-de-paloma-valencia-3556710",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-19T12:12:28-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "CNE suspende encuestas de AtlasIntel para presidenciales",
-      "link": "https://www.lasillavacia.com/en-vivo/cne-suspende-encuestas-de-atlasintel-para-presidenciales/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 19 May 2026 16:56:33 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Partido Mira anuncia adhesión a Paloma Valencia ",
-      "link": "https://www.lasillavacia.com/en-vivo/partido-mira-anuncia-adhesion-a-paloma-valencia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 19 May 2026 16:43:18 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
     }
   ]
 }
