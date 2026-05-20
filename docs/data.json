@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T10:40:24.338Z",
+  "updatedAt": "2026-05-20T19:58:07.991Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 393379,
       "finalScore": 59,
       "momentum": {
-        "value": -1.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 25.5
@@ -49,7 +49,7 @@
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 85,
+      "trendsScore": 86,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -60,8 +60,8 @@
       "youtubeViews": 282459,
       "finalScore": 60,
       "momentum": {
-        "value": 15.4,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 26
     },
@@ -70,7 +70,7 @@
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 5,
+      "trendsScore": 6,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -81,7 +81,7 @@
       "youtubeViews": 404432,
       "finalScore": 38,
       "momentum": {
-        "value": -2.6,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 16.5
@@ -89,34 +89,58 @@
   ],
   "articles": [
     {
-      "title": "Paloma Valencia y Abelardo de la Espriella dividen el voto cristiano: el uribismo se queda con el MIRA y el abogado con los más radicales",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-y-abelardo-de-la-espriella-dividen-el-voto-cristiano-el-uribismo-se-queda-con-el-mira-y-el-abogado-con-los-mas-radicales-3556817",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-19T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Iván Cepeda rechazó señalamientos de Álvaro Uribe por el mural en Rionegro: “Le duele la verdad y la ruptura de su hegemonía autoritaria”",
+      "link": "https://www.infobae.com/colombia/2026/05/20/ivan-cepeda-rechazo-senalamientos-de-alvaro-uribe-por-el-mural-en-rionegro-le-duele-la-verdad-y-la-ruptura-de-su-hegemonia-autoritaria/",
+      "source": "Infobae",
+      "pubDate": "Wed, 20 May 2026 19:44:51 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "El país pluriétnico en disputa: lo que proponen los candidatos presidenciales",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-etnica/el-pais-plurietnico-en-disputa-lo-que-proponen-los-candidatos-presidenciales/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 20 May 2026 01:42:39 +0000",
+      "title": "¿Quiénes definirán la segunda vuelta en Perú? El rol clave de Lima y Arequipa en estas Elecciones 2026, según analista",
+      "link": "https://www.infobae.com/peru/2026/05/20/quienes-definiran-la-segunda-vuelta-en-peru-el-rol-clave-de-lima-y-arequipa-en-estas-elecciones-2026-segun-analista/",
+      "source": "Infobae",
+      "pubDate": "Wed, 20 May 2026 19:29:25 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "‘No soy una llanta de repuesto, también seré el motor del gobierno’: José Manuel Restrepo habla de su papel en un gobierno de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/no-soy-una-llanta-de-repuesto-tambien-sere-el-motor-del-gobierno-jose-manuel-restrepo-habla-de-su-papel-en-un-gobierno-de-abelardo-de-la-espriella-3556863",
+      "title": "Fórmulas de De la Espriella y Paloma Valencia buscan ser más que vicepresidentes: estos son los roles que les dieron a Restrepo y Oviedo",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/formulas-de-la-espriella-y-paloma-valencia-buscan-ser-mas-que-vicepresidentes-estos-son-los-roles-que-les-dieron-a-restrepo-y-oviedo-3557005",
       "source": "El Tiempo",
-      "pubDate": "2026-05-19T18:58:48-05:00",
+      "pubDate": "2026-05-20T13:13:34-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Las propuestas bomba del programa de Abelardo De La Espriella",
+      "link": "https://www.lasillavacia.com/silla-nacional/las-propuestas-bomba-de-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 20 May 2026 18:00:29 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Paloma y liberales definen “plan de acción” para remate de primera vuelta",
-      "link": "https://www.lasillavacia.com/en-vivo/paloma-y-liberales-definen-plan-de-accion-para-remate-de-primera-vuelta/",
+      "title": "Gustavo Matamoros responde a denuncias sobre pagos y contratación en su campaña presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gustavo-matamoros-responde-a-denuncias-sobre-pagos-y-contratacion-en-su-campana-presidencial-3557007",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-20T11:46:26-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Paloma Valencia fue a Rionegro y responsabilizó a Iván Cepeda por mural pintado cerca de la casa de Álvaro Uribe: 'Fue una toma organizada'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-fue-a-rionegro-y-responsabilizo-a-ivan-cepeda-por-mural-pintado-cerca-de-la-casa-de-alvaro-uribe-fue-una-toma-organizada-3556990",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-20T11:18:59-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "ELN anunció cese al fuego unilateral para la primera vuelta",
+      "link": "https://www.lasillavacia.com/en-vivo/eln-anuncio-cese-al-fuego-unilateral-para-la-primera-vuelta/",
       "source": "La Silla Vacía",
-      "pubDate": "Tue, 19 May 2026 22:46:54 +0000",
+      "pubDate": "Wed, 20 May 2026 16:10:11 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
