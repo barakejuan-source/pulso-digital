@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T23:47:16.839Z",
+  "updatedAt": "2026-05-20T10:40:24.338Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 54,
+      "trendsScore": 51,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 60,
+      "finalScore": 59,
       "momentum": {
-        "value": 0,
+        "value": -1.7,
         "direction": "flat"
       },
-      "probability": 26.7
+      "probability": 25.5
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 32.9
+      "probability": 32
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 66,
+      "trendsScore": 85,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 52,
+      "finalScore": 60,
       "momentum": {
-        "value": 10.6,
+        "value": 15.4,
         "direction": "up"
       },
-      "probability": 23.1
+      "probability": 26
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 7,
+      "trendsScore": 5,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -79,30 +79,38 @@
         "neutral": 29.2
       },
       "youtubeViews": 404432,
-      "finalScore": 39,
+      "finalScore": 38,
       "momentum": {
-        "value": 0,
+        "value": -2.6,
         "direction": "flat"
       },
-      "probability": 17.3
+      "probability": 16.5
     }
   ],
   "articles": [
     {
+      "title": "Paloma Valencia y Abelardo de la Espriella dividen el voto cristiano: el uribismo se queda con el MIRA y el abogado con los más radicales",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-y-abelardo-de-la-espriella-dividen-el-voto-cristiano-el-uribismo-se-queda-con-el-mira-y-el-abogado-con-los-mas-radicales-3556817",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-19T22:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "El país pluriétnico en disputa: lo que proponen los candidatos presidenciales",
       "link": "https://www.lasillavacia.com/red-de-expertos/red-etnica/el-pais-plurietnico-en-disputa-lo-que-proponen-los-candidatos-presidenciales/",
       "source": "La Silla Vacía",
-      "pubDate": "Tue, 19 May 2026 23:27:40 +0000",
+      "pubDate": "Wed, 20 May 2026 01:42:39 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Álvaro Uribe denunció que manifestantes frente a su casa en Rionegro respondieron a órdenes de Iván Cepeda y reveló agresiones físicas ",
-      "link": "https://www.infobae.com/colombia/2026/05/19/alvaro-uribe-denuncio-que-manifestantes-frente-a-su-casa-en-rionegro-respondieron-a-ordenes-de-ivan-cepeda-y-revelo-agresiones-fisicas/",
-      "source": "Infobae",
-      "pubDate": "Tue, 19 May 2026 23:18:27 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "‘No soy una llanta de repuesto, también seré el motor del gobierno’: José Manuel Restrepo habla de su papel en un gobierno de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/no-soy-una-llanta-de-repuesto-tambien-sere-el-motor-del-gobierno-jose-manuel-restrepo-habla-de-su-papel-en-un-gobierno-de-abelardo-de-la-espriella-3556863",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-19T18:58:48-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Paloma y liberales definen “plan de acción” para remate de primera vuelta",
@@ -111,30 +119,6 @@
       "pubDate": "Tue, 19 May 2026 22:46:54 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Candidata Paloma Valencia se reúne con bancada del Partido Liberal a 12 días de las elecciones presidenciales: 'Tenemos que defender la Constitución'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/candidata-paloma-valencia-se-reune-con-bancada-del-partido-liberal-a-13-dias-de-las-elecciones-presidenciales-3556762",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-19T17:02:37-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Iván Cepeda denuncia nuevas presiones de grupos armados para influir en el voto: 'Al parecer, una de las disidencias en Guaviare'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-denuncia-nuevas-presiones-de-grupos-armados-para-influir-en-el-voto-al-parecer-una-de-las-disidencias-en-guaviare-3556734",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-19T13:19:47-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Armando Benedetti anuncia refuerzo de seguridad para el candidato Abelardo de la Espriella tras denuncias de amenazas",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/armando-benedetti-anuncia-refuerzo-de-seguridad-para-el-candidato-abelardo-de-la-espriella-tras-denuncias-de-amenazas-3556743",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-19T13:11:07-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
