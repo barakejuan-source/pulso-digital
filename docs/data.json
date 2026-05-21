@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T19:58:07.991Z",
+  "updatedAt": "2026-05-21T00:00:45.704Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 51,
+      "trendsScore": 52,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -21,7 +21,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 25.5
+      "probability": 25.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 32
+      "probability": 31.6
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 86,
+      "trendsScore": 95,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 60,
+      "finalScore": 64,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": 6.7,
+        "direction": "up"
       },
-      "probability": 26
+      "probability": 27.4
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 6,
+      "trendsScore": 4,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -79,28 +79,36 @@
         "neutral": 29.2
       },
       "youtubeViews": 404432,
-      "finalScore": 38,
+      "finalScore": 37,
       "momentum": {
-        "value": 0,
+        "value": -2.6,
         "direction": "flat"
       },
-      "probability": 16.5
+      "probability": 15.8
     }
   ],
   "articles": [
     {
-      "title": "Iván Cepeda rechazó señalamientos de Álvaro Uribe por el mural en Rionegro: “Le duele la verdad y la ruptura de su hegemonía autoritaria”",
-      "link": "https://www.infobae.com/colombia/2026/05/20/ivan-cepeda-rechazo-senalamientos-de-alvaro-uribe-por-el-mural-en-rionegro-le-duele-la-verdad-y-la-ruptura-de-su-hegemonia-autoritaria/",
+      "title": "Sindicato de Keralty se retractó de acusaciones sobre supuestas presiones electorales: se basó en “comentarios” no comprobados",
+      "link": "https://www.infobae.com/colombia/2026/05/20/sindicato-de-keralty-se-retracto-de-acusaciones-sobre-supuestas-presiones-electorales-se-baso-en-comentarios-no-comprobados/",
       "source": "Infobae",
-      "pubDate": "Wed, 20 May 2026 19:44:51 +0000",
+      "pubDate": "Wed, 20 May 2026 23:28:43 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iván Cepeda le responde a Álvaro Uribe por polémica del mural pintado cerca a la casa del exmandatario",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-le-responde-a-alvaro-uribe-por-polemica-del-mural-pintado-cerca-a-la-casa-del-exmandatario-3557098",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-20T16:00:50-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "¿Quiénes definirán la segunda vuelta en Perú? El rol clave de Lima y Arequipa en estas Elecciones 2026, según analista",
-      "link": "https://www.infobae.com/peru/2026/05/20/quienes-definiran-la-segunda-vuelta-en-peru-el-rol-clave-de-lima-y-arequipa-en-estas-elecciones-2026-segun-analista/",
-      "source": "Infobae",
-      "pubDate": "Wed, 20 May 2026 19:29:25 +0000",
+      "title": "Coacción, restricciones en movilidad y patrones atípicos en elecciones 2026: ICP alerta por 327.000 votos bajo zozobra en zonas con presencia armada",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/coaccion-restricciones-en-movilidad-y-patrones-atipicos-icp-alerta-por-327-000-votos-bajo-sospecha-en-zonas-con-presencia-armada-3557034",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-20T15:03:50-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -119,30 +127,6 @@
       "pubDate": "Wed, 20 May 2026 18:00:29 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gustavo Matamoros responde a denuncias sobre pagos y contratación en su campaña presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gustavo-matamoros-responde-a-denuncias-sobre-pagos-y-contratacion-en-su-campana-presidencial-3557007",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-20T11:46:26-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Paloma Valencia fue a Rionegro y responsabilizó a Iván Cepeda por mural pintado cerca de la casa de Álvaro Uribe: 'Fue una toma organizada'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-fue-a-rionegro-y-responsabilizo-a-ivan-cepeda-por-mural-pintado-cerca-de-la-casa-de-alvaro-uribe-fue-una-toma-organizada-3556990",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-20T11:18:59-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "ELN anunció cese al fuego unilateral para la primera vuelta",
-      "link": "https://www.lasillavacia.com/en-vivo/eln-anuncio-cese-al-fuego-unilateral-para-la-primera-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 20 May 2026 16:10:11 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
