@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T12:29:08.389Z",
+  "updatedAt": "2026-05-21T20:28:04.046Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 53,
+      "trendsScore": 51,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -21,7 +21,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 25.4
+      "probability": 25.5
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 31.9
+      "probability": 32
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 88,
+      "trendsScore": 89,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -60,17 +60,17 @@
       "youtubeViews": 282459,
       "finalScore": 61,
       "momentum": {
-        "value": -4.7,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 26.3
+      "probability": 26.4
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 5,
+      "trendsScore": 4,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -79,78 +79,70 @@
         "neutral": 29.2
       },
       "youtubeViews": 404432,
-      "finalScore": 38,
+      "finalScore": 37,
       "momentum": {
-        "value": 2.7,
+        "value": -2.6,
         "direction": "flat"
       },
-      "probability": 16.4
+      "probability": 16
     }
   ],
   "articles": [
     {
-      "title": "Desayune informado con las claves de este 21 de mayo de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-21-de-mayo-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 21 May 2026 12:19:34 +0000",
+      "title": "Encapuchados atacaron sede de la candidata presidencial Paloma Valencia en Bogotá: estos fueron los daños causados ",
+      "link": "https://www.infobae.com/colombia/2026/05/21/encapuchados-atacaron-sede-de-la-candidata-presidencial-paloma-valencia-en-bogota-estos-fueron-los-danos-causados/",
+      "source": "Infobae",
+      "pubDate": "Thu, 21 May 2026 20:16:13 +0000",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
     },
     {
-      "title": "Centro Democrático respondió a Iván Cepeda tras rechazar señalamientos de Álvaro Uribe por mural en Rionegro: “No engañan con discursos”",
-      "link": "https://www.infobae.com/colombia/2026/05/21/centro-democratico-respondio-a-ivan-cepeda-tras-rechazar-senalamientos-de-alvaro-uribe-por-mural-en-rionegro-no-enganan-con-discursos/",
-      "source": "Infobae",
-      "pubDate": "Thu, 21 May 2026 12:18:59 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "La candidata presidencial Sondra Macollins reveló cuál fue el motivo de las diferencias con Abelardo de la Espriella por caso DMG",
-      "link": "https://www.infobae.com/colombia/2026/05/21/la-candidata-presidencial-sondra-macollins-revelo-cual-fue-el-motivo-de-las-diferencias-con-abelardo-de-la-espriella-por-caso-dmg/",
-      "source": "Infobae",
-      "pubDate": "Thu, 21 May 2026 12:02:33 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Comisión de Acusaciones abrió nueva investigación contra Gustavo Petro: investigan si ‘Pipe Tuluá’ financió su campaña presidencial en 2022 ",
-      "link": "https://www.infobae.com/colombia/2026/05/21/comision-de-acusaciones-abrio-nueva-investigacion-contra-gustavo-petro-investigan-si-pipe-tulua-financio-su-campana-presidencial-en-2022/",
-      "source": "Infobae",
-      "pubDate": "Thu, 21 May 2026 12:01:48 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "La receta de Abelardo para pasar a segunda vuelta",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-receta-de-abelardo-para-pasar-a-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 21 May 2026 12:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Dentro de la campaña de Paloma: nervios, roces y fe en que se aún se puede",
-      "link": "https://www.lasillavacia.com/silla-nacional/dentro-de-la-campana-de-paloma-nervios-roces-y-fe-en-encuestas-internas/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 21 May 2026 05:01:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Cómo se compara la violencia electoral en Colombia de 2026 con la de años anteriores?",
-      "link": "https://www.france24.com/es/video/20260520-c%C3%B3mo-se-compara-la-violencia-electoral-en-colombia-de-2026-con-la-de-a%C3%B1os-anteriores",
-      "source": "France 24",
-      "pubDate": "Wed, 20 May 2026 23:53:02 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Iván Cepeda le responde a Álvaro Uribe por polémica del mural pintado cerca a la casa del exmandatario",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-le-responde-a-alvaro-uribe-por-polemica-del-mural-pintado-cerca-a-la-casa-del-exmandatario-3557098",
+      "title": "Sede de campaña de Paloma Valencia y Juan Daniel Oviedo fue vandalizada durante protestas en Bogotá",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sede-de-campana-de-paloma-valencia-y-juan-daniel-oviedo-fue-vandalizada-durante-protestas-en-bogota-3557393",
       "source": "El Tiempo",
-      "pubDate": "2026-05-20T16:00:50-05:00",
+      "pubDate": "2026-05-21T14:56:51-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Diario de Campaña: agarrón en el CNE y campaña de Abelardo contrató a Atlas",
+      "link": "https://www.lasillavacia.com/en-vivo/diario-de-campana-agarron-en-el-cne-y-campana-de-abelardo-contrato-a-atlas/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 21 May 2026 18:15:51 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Sala plena del CNE cerró investigación que pedía anular la candidatura de Abelardo de la Espriella: aspiración quedó en firme",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sala-plena-del-cne-cerro-investigacion-que-pedi-anular-la-candidatura-de-abelardo-de-la-espriella-aspiracion-quedo-en-firme-3557335",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-21T12:35:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Test electoral para la primera vuelta presidencial: conozca con cuál de los 12 candidatos tiene más afinidad según sus planes de gobierno",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/test-electoral-para-la-primera-vuelta-presidencial-conozca-con-cual-de-los-12-candidatos-tiene-mas-afinidad-segun-sus-planes-de-gobierno-3557338",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-21T12:12:52-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Directo Latam y el panorama a pocos días de la primera vuelta presidencial en Colombia",
+      "link": "https://www.france24.com/es/video/20260521-directo-latam-y-el-panorama-a-pocos-d%C3%ADas-de-la-primera-vuelta-presidencial-en-colombia",
+      "source": "France 24",
+      "pubDate": "Thu, 21 May 2026 16:50:51 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "José Manuel Restrepo, candidato a vicepresidente de Colombia: “Comulgo íntegramente con Abelardo”",
+      "link": "https://www.france24.com/es/programas/la-entrevista/20260521-jos%C3%A9-manuel-restrepo-candidato-a-vicepresidente-de-colombia-comulgo-%C3%ADntegramente-con-abelardo",
+      "source": "France 24",
+      "pubDate": "Thu, 21 May 2026 14:19:20 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     }
   ]
 }
