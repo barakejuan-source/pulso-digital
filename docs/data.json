@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T00:00:45.704Z",
+  "updatedAt": "2026-05-21T12:29:08.389Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 52,
+      "trendsScore": 53,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -21,7 +21,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 25.2
+      "probability": 25.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 31.6
+      "probability": 31.9
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 95,
+      "trendsScore": 88,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 64,
+      "finalScore": 61,
       "momentum": {
-        "value": 6.7,
-        "direction": "up"
+        "value": -4.7,
+        "direction": "down"
       },
-      "probability": 27.4
+      "probability": 26.3
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 4,
+      "trendsScore": 5,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -79,20 +79,68 @@
         "neutral": 29.2
       },
       "youtubeViews": 404432,
-      "finalScore": 37,
+      "finalScore": 38,
       "momentum": {
-        "value": -2.6,
+        "value": 2.7,
         "direction": "flat"
       },
-      "probability": 15.8
+      "probability": 16.4
     }
   ],
   "articles": [
     {
-      "title": "Sindicato de Keralty se retractó de acusaciones sobre supuestas presiones electorales: se basó en “comentarios” no comprobados",
-      "link": "https://www.infobae.com/colombia/2026/05/20/sindicato-de-keralty-se-retracto-de-acusaciones-sobre-supuestas-presiones-electorales-se-baso-en-comentarios-no-comprobados/",
+      "title": "Desayune informado con las claves de este 21 de mayo de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-21-de-mayo-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 21 May 2026 12:19:34 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Centro Democrático respondió a Iván Cepeda tras rechazar señalamientos de Álvaro Uribe por mural en Rionegro: “No engañan con discursos”",
+      "link": "https://www.infobae.com/colombia/2026/05/21/centro-democratico-respondio-a-ivan-cepeda-tras-rechazar-senalamientos-de-alvaro-uribe-por-mural-en-rionegro-no-enganan-con-discursos/",
       "source": "Infobae",
-      "pubDate": "Wed, 20 May 2026 23:28:43 +0000",
+      "pubDate": "Thu, 21 May 2026 12:18:59 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "La candidata presidencial Sondra Macollins reveló cuál fue el motivo de las diferencias con Abelardo de la Espriella por caso DMG",
+      "link": "https://www.infobae.com/colombia/2026/05/21/la-candidata-presidencial-sondra-macollins-revelo-cual-fue-el-motivo-de-las-diferencias-con-abelardo-de-la-espriella-por-caso-dmg/",
+      "source": "Infobae",
+      "pubDate": "Thu, 21 May 2026 12:02:33 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Comisión de Acusaciones abrió nueva investigación contra Gustavo Petro: investigan si ‘Pipe Tuluá’ financió su campaña presidencial en 2022 ",
+      "link": "https://www.infobae.com/colombia/2026/05/21/comision-de-acusaciones-abrio-nueva-investigacion-contra-gustavo-petro-investigan-si-pipe-tulua-financio-su-campana-presidencial-en-2022/",
+      "source": "Infobae",
+      "pubDate": "Thu, 21 May 2026 12:01:48 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "La receta de Abelardo para pasar a segunda vuelta",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-receta-de-abelardo-para-pasar-a-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 21 May 2026 12:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Dentro de la campaña de Paloma: nervios, roces y fe en que se aún se puede",
+      "link": "https://www.lasillavacia.com/silla-nacional/dentro-de-la-campana-de-paloma-nervios-roces-y-fe-en-encuestas-internas/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 21 May 2026 05:01:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Cómo se compara la violencia electoral en Colombia de 2026 con la de años anteriores?",
+      "link": "https://www.france24.com/es/video/20260520-c%C3%B3mo-se-compara-la-violencia-electoral-en-colombia-de-2026-con-la-de-a%C3%B1os-anteriores",
+      "source": "France 24",
+      "pubDate": "Wed, 20 May 2026 23:53:02 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -103,30 +151,6 @@
       "pubDate": "2026-05-20T16:00:50-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Coacción, restricciones en movilidad y patrones atípicos en elecciones 2026: ICP alerta por 327.000 votos bajo zozobra en zonas con presencia armada",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/coaccion-restricciones-en-movilidad-y-patrones-atipicos-icp-alerta-por-327-000-votos-bajo-sospecha-en-zonas-con-presencia-armada-3557034",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-20T15:03:50-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Fórmulas de De la Espriella y Paloma Valencia buscan ser más que vicepresidentes: estos son los roles que les dieron a Restrepo y Oviedo",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/formulas-de-la-espriella-y-paloma-valencia-buscan-ser-mas-que-vicepresidentes-estos-son-los-roles-que-les-dieron-a-restrepo-y-oviedo-3557005",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-20T13:13:34-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Las propuestas bomba del programa de Abelardo De La Espriella",
-      "link": "https://www.lasillavacia.com/silla-nacional/las-propuestas-bomba-de-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 20 May 2026 18:00:29 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
