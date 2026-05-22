@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-22T18:25:38.180Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-05-22T23:51:35.700Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -60,7 +60,7 @@
       "youtubeViews": 282459,
       "finalScore": 63,
       "momentum": {
-        "value": 1.6,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 26.9
@@ -89,92 +89,84 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella condenó los ataques al expresidente Álvaro Uribe y afirmó que “el único enemigo es Cepeda”   ",
-      "link": "https://www.infobae.com/colombia/2026/05/22/abelardo-de-la-espriella-condeno-los-ataques-al-expresidente-alvaro-uribe-y-afirmo-que-el-unico-enemigo-es-cepeda/",
-      "source": "Infobae",
-      "pubDate": "Fri, 22 May 2026 18:10:33 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Antes de la clasificación para la Sprint, Franco Colapinto no pudo participar de la práctica por un problema en su Alpine",
-      "link": "https://www.infobae.com/deportes/2026/05/22/franco-colapinto-afrontara-la-practica-libre-del-gp-de-canada-antes-de-la-clasificacion-sprint-hora-tv-y-todo-lo-que-hay-que-saber/",
-      "source": "Infobae",
-      "pubDate": "Fri, 22 May 2026 18:08:16 +0000",
+      "title": "Fajardo le acepta el tinto a Paloma, pero no se mueve de primera",
+      "link": "https://www.lasillavacia.com/en-vivo/fajardo-le-acepta-el-tinto-a-paloma-pero-no-se-mueve-de-primera/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 22 May 2026 23:17:16 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "Sergio Fajardo aceptó invitación de Paloma Valencia para tomarse un café y hablar sobre la campaña presidencial 2026: 'Estoy listo'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-acepto-invitacion-de-paloma-valencia-para-tomarse-un-cafe-y-hablar-sobre-la-campana-presidencial-2026-estoy-listo-3557753",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-22T18:04:34-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Sergio Fajardo aceptó la invitación de Paloma Valencia a tomarse un café, propuso fecha, hora y lugar: “Estoy listo”",
+      "link": "https://www.infobae.com/colombia/2026/05/22/sergio-fajardo-acepto-la-invitacion-de-paloma-valencia-a-tomarse-un-cafe-propuso-fecha-hora-y-lugar-estoy-listo/",
+      "source": "Infobae",
+      "pubDate": "Fri, 22 May 2026 23:04:19 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Sergio Fajardo acepta el café con Paloma Valencia: el encuentro entre los candidatos presidenciales sería este sábado en Barranquilla",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-acepta-el-cafe-con-paloma-valencia-el-encuentro-entre-los-candidatos-presidenciales-seria-este-sabado-en-barranquilla-3557748",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-22T17:17:06-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Elecciones presidenciales en Colombia 2026: ¿cuántos votos necesitan los candidatos para acceder a la reposición monetaria de los gastos de campaña?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-cuantos-votos-necesitan-los-candidatos-para-acceder-a-la-reposicion-monetaria-de-los-gastos-de-campana-3557708",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-22T15:41:11-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Mauricio Gómez Amín, jefe de debate de Abelardo de la Espriella, cuestiona al Consejo Gremial por posible cita con Iván Cepeda cerca de primera vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/mauricio-gomez-amin-jefe-de-debate-de-abelardo-de-la-espriella-cuestiona-al-consejo-gremial-por-posible-cita-con-ivan-cepeda-cerca-de-primera-vuelta-3557717",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-22T15:35:20-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "'Encuentros no representan apoyos políticos ni adhesiones': Natalia Gutiérrez, presidenta del Consejo Gremial, sobre reuniones con candidatos",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/encuentros-no-representan-apoyos-politicos-ni-adhesiones-natalia-gutierrez-presidenta-del-consejo-gremial-sobre-reuniones-con-candidatos-3557690",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-22T15:28:49-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Test electoral para la primera vuelta presidencial: conozca con cuál de los 12 candidatos tiene más afinidad según sus planes de gobierno",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/test-electoral-para-la-primera-vuelta-presidencial-conozca-con-cual-de-los-12-candidatos-tiene-mas-afinidad-segun-sus-planes-de-gobierno-3557657",
       "source": "El Tiempo",
-      "pubDate": "2026-05-22T12:57:40-05:00",
+      "pubDate": "2026-05-22T15:14:42-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Paloma Valencia invita a Sergio Fajardo a sumarse a su campaña: '¿nos tomamos un café?'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-invita-a-sergio-fajardo-a-sumarse-a-su-campana-nos-tomamos-un-cafe-3557601",
+      "title": "#ElFiltro: Invamer no publicó una encuesta que muestra al candidato Iván Cepeda como ganador con 51,2% en primera vuelta de elecciones presidenciales",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-invamer-no-publico-una-encuesta-que-muestra-al-candidato-ivan-cepeda-como-ganador-con-51-2-en-primera-vuelta-de-elecciones-presidenciales-3557693",
       "source": "El Tiempo",
-      "pubDate": "2026-05-22T11:29:13-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Elecciones presidenciales en Colombia 2026: últimas noticias de este 22 de mayo; Paloma Valencia invitó a Sergio Fajardo a dialogar",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-de-este-22-de-mayo-inicia-la-recta-final-hacia-la-jornada-electoral-3557518",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-22T11:23:16-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Aida Quilcué pide comisión de alto nivel del Gobierno por crisis humanitaria entre indígenas Misak y Nasa en el Cauca",
-      "link": "https://www.eltiempo.com/politica/aida-quilcue-pide-comision-de-alto-nivel-del-gobierno-por-crisis-humanitaria-entre-indigenas-misak-y-nasa-en-el-cauca-3557592",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-22T10:50:22-05:00",
+      "pubDate": "2026-05-22T14:49:27-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Detector: Uribe no “da por muerta” la candidatura de Paloma Valencia",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-uribe-no-da-por-muerta-la-candidatura-de-paloma-valencia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 22 May 2026 15:08:53 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "¿Qué respondió María José Pizarro, jefa de debate de Iván Cepeda, sobre señalamientos que la relacionan con ataques a sede de Paloma Valencia?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-responde-maria-jose-pizarro-jefa-de-debate-de-ivan-cepeda-sobre-senalamientos-que-la-relacionan-con-ataques-a-sede-de-paloma-valencia-3557569",
+      "title": "'No estamos condenados ni a una izquierda radical ni a una derecha que propone regresar a épocas oscuras': Edna Bonilla, fórmula de Sergio Fajardo",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/no-estamos-condenados-ni-a-una-izquierda-radical-ni-a-una-derecha-que-propone-regresar-a-epocas-oscuras-edna-bonilla-formula-de-sergio-fajardo-3557666",
       "source": "El Tiempo",
-      "pubDate": "2026-05-22T09:54:52-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Ministro del Interior, Armando Benedetti, se pronunció sobre actos de vandalismo contra la sede de campaña de Paloma Valencia: 'Es deplorable'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-ministro-del-interior-armando-benedetti-se-pronuncio-sobre-el-ataque-a-la-sede-de-campana-de-la-candidata-paloma-valencia-es-deplorable-3557511",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-22T08:35:25-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Iván Cepeda presentó sus 7 programas para el bienestar social si gana la Presidencia: estos son",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-presento-sus-7-programas-para-el-bienestar-social-si-gana-la-presidencia-estos-son-3557520",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-22T06:24:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "A 10 días de las elecciones presidenciales en Colombia, los candidatos aceleran campañas",
-      "link": "https://www.france24.com/es/video/20260522-a-10-d%C3%ADas-de-las-elecciones-presidenciales-en-colombia-los-candidatos-aceleran-campa%C3%B1as",
-      "source": "France 24",
-      "pubDate": "Fri, 22 May 2026 05:08:46 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "2026-05-22T13:22:25-05:00",
+      "candidateId": "sergio_fajardo",
+      "candidateColor": "#2A9D8F"
     }
   ]
 }
