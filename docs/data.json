@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T10:32:04.129Z",
+  "updatedAt": "2026-05-22T18:25:38.180Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 52,
+      "trendsScore": 53,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -21,7 +21,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 25.3
+      "probability": 25.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 31.8
+      "probability": 31.6
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 90,
+      "trendsScore": 93,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 62,
+      "finalScore": 63,
       "momentum": {
         "value": 1.6,
         "direction": "flat"
       },
-      "probability": 26.6
+      "probability": 26.9
     },
     {
       "id": "sergio_fajardo",
@@ -81,98 +81,98 @@
       "youtubeViews": 404432,
       "finalScore": 38,
       "momentum": {
-        "value": 2.7,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 16.3
+      "probability": 16.2
     }
   ],
   "articles": [
     {
-      "title": "Colombia cerrará el puente de Rumichaca por elecciones presidenciales: estas son las fechas y restricciones",
-      "link": "https://www.infobae.com/colombia/2026/05/22/colombia-cerrara-el-puente-de-rumichaca-por-elecciones-presidenciales-estas-son-las-fechas-y-restricciones/",
+      "title": "Abelardo de la Espriella condenó los ataques al expresidente Álvaro Uribe y afirmó que “el único enemigo es Cepeda”   ",
+      "link": "https://www.infobae.com/colombia/2026/05/22/abelardo-de-la-espriella-condeno-los-ataques-al-expresidente-alvaro-uribe-y-afirmo-que-el-unico-enemigo-es-cepeda/",
       "source": "Infobae",
-      "pubDate": "Fri, 22 May 2026 10:05:00 +0000",
+      "pubDate": "Fri, 22 May 2026 18:10:33 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Antes de la clasificación para la Sprint, Franco Colapinto no pudo participar de la práctica por un problema en su Alpine",
+      "link": "https://www.infobae.com/deportes/2026/05/22/franco-colapinto-afrontara-la-practica-libre-del-gp-de-canada-antes-de-la-clasificacion-sprint-hora-tv-y-todo-lo-que-hay-que-saber/",
+      "source": "Infobae",
+      "pubDate": "Fri, 22 May 2026 18:08:16 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "El ministro del Interior, Armando Benedetti, se pronunció sobre el ataque a la sede de campaña de la candidata Paloma Valencia: 'Es deplorable'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-ministro-del-interior-armando-benedetti-se-pronuncio-sobre-el-ataque-a-la-sede-de-campana-de-la-candidata-paloma-valencia-es-deplorable-3557511",
+      "title": "Test electoral para la primera vuelta presidencial: conozca con cuál de los 12 candidatos tiene más afinidad según sus planes de gobierno",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/test-electoral-para-la-primera-vuelta-presidencial-conozca-con-cual-de-los-12-candidatos-tiene-mas-afinidad-segun-sus-planes-de-gobierno-3557657",
       "source": "El Tiempo",
-      "pubDate": "2026-05-22T01:29:49-05:00",
+      "pubDate": "2026-05-22T12:57:40-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Paloma Valencia invita a Sergio Fajardo a sumarse a su campaña: '¿nos tomamos un café?'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-invita-a-sergio-fajardo-a-sumarse-a-su-campana-nos-tomamos-un-cafe-3557601",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-22T11:29:13-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Elecciones presidenciales en Colombia 2026: últimas noticias de este 22 de mayo; Paloma Valencia invitó a Sergio Fajardo a dialogar",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-ultimas-noticias-de-este-22-de-mayo-inicia-la-recta-final-hacia-la-jornada-electoral-3557518",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-22T11:23:16-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Aida Quilcué pide comisión de alto nivel del Gobierno por crisis humanitaria entre indígenas Misak y Nasa en el Cauca",
+      "link": "https://www.eltiempo.com/politica/aida-quilcue-pide-comision-de-alto-nivel-del-gobierno-por-crisis-humanitaria-entre-indigenas-misak-y-nasa-en-el-cauca-3557592",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-22T10:50:22-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Detector: Uribe no “da por muerta” la candidatura de Paloma Valencia",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-uribe-no-da-por-muerta-la-candidatura-de-paloma-valencia/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 22 May 2026 15:08:53 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "¿Qué respondió María José Pizarro, jefa de debate de Iván Cepeda, sobre señalamientos que la relacionan con ataques a sede de Paloma Valencia?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-responde-maria-jose-pizarro-jefa-de-debate-de-ivan-cepeda-sobre-senalamientos-que-la-relacionan-con-ataques-a-sede-de-paloma-valencia-3557569",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-22T09:54:52-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Ministro del Interior, Armando Benedetti, se pronunció sobre actos de vandalismo contra la sede de campaña de Paloma Valencia: 'Es deplorable'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-ministro-del-interior-armando-benedetti-se-pronuncio-sobre-el-ataque-a-la-sede-de-campana-de-la-candidata-paloma-valencia-es-deplorable-3557511",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-22T08:35:25-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Iván Cepeda presentó sus 7 programas para el bienestar social si gana la Presidencia: estos son",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-presento-sus-7-programas-para-el-bienestar-social-si-gana-la-presidencia-estos-son-3557520",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-22T06:24:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "A 10 días de las elecciones presidenciales en Colombia, los candidatos aceleran campañas",
       "link": "https://www.france24.com/es/video/20260522-a-10-d%C3%ADas-de-las-elecciones-presidenciales-en-colombia-los-candidatos-aceleran-campa%C3%B1as",
       "source": "France 24",
       "pubDate": "Fri, 22 May 2026 05:08:46 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Las propuestas bomba del programa de Paloma Valencia",
-      "link": "https://www.lasillavacia.com/silla-nacional/las-propuestas-bomba-del-programa-de-paloma-valencia-2/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 22 May 2026 05:01:00 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Las propuestas bomba del programa de Paloma Valencia",
-      "link": "https://www.lasillavacia.com/silla-nacional/las-propuestas-bomba-del-programa-de-paloma-valencia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 22 May 2026 05:00:00 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Encuesta Guarumo y Ecoanalítica: el voto indeciso será clave en todos los escenarios de la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-han-evolucionado-los-escenarios-de-segunda-vuelta-segun-encuesta-guarumo-cepeda-aparece-por-debajo-de-abelardo-y-perderia-con-paloma-3557427",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-21T20:03:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Juan Daniel Oviedo: ‘Colombia no puede quedarse atrapada entre el populismo de los extremos’",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/juan-daniel-oviedo-colombia-no-puede-quedarse-atrapada-entre-el-populismo-de-los-extremos-3557476",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-21T19:46:48-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Duerma informado con las movidas de este 21 de mayo de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-21-de-mayo-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 22 May 2026 00:40:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Invamer: Cepeda al frente con 44 % y Abelardo dobla a Paloma",
-      "link": "https://www.lasillavacia.com/en-vivo/invamer-cepeda-al-frente-con-44-y-abelardo-dobla-a-paloma/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 22 May 2026 00:30:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así reacciona la política colombiana a resultados de encuesta Guarumo y Ecoanalítica: Iván Cepeda en primer lugar, pero perdería en segunda vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-reacciona-la-politica-colombiana-tras-los-resultados-de-la-encuesta-guarumo-y-ecoanalitica-ivan-cepeda-en-primer-lugar-y-en-segunda-vuelta-3557424",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-21T18:05:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda, Abelardo de la Espriella y Paloma Valencia encabezan encuesta de por quién nunca votarían los colombianos, según Guarumo y Ecoanalítica",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-abelardo-de-la-espriella-y-paloma-valencia-encabezan-encuesta-de-por-quien-nunca-votarian-los-colombianos-segun-guarumo-y-ecoanalitica-3557398",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-21T16:25:06-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
