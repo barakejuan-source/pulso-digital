@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T19:59:56.130Z",
+  "updatedAt": "2026-05-23T23:15:57.840Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 54,
+      "trendsScore": 55,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 393379,
       "finalScore": 60,
       "momentum": {
-        "value": -1.6,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 25.6
@@ -49,7 +49,7 @@
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 89,
+      "trendsScore": 88,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -60,7 +60,7 @@
       "youtubeViews": 282459,
       "finalScore": 61,
       "momentum": {
-        "value": -1.6,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 26.1
@@ -89,10 +89,50 @@
   ],
   "articles": [
     {
-      "title": "Tomás Gálvez revela que Rafael López Aliaga lo llamó “infinidad de veces” exigiendo que Fiscalía detenga el conteo de votos",
-      "link": "https://www.infobae.com/peru/2026/05/23/tomas-galvez-revela-que-rafael-lopez-aliaga-lo-llamo-infinidad-de-veces-exigiendo-que-fiscalia-detenga-el-conteo-de-votos/",
+      "title": "Andrés Cepeda desactivó los comentarios en Instagram por culpa de  Iván Cepeda: “No tengo nada que ver con política”",
+      "link": "https://www.infobae.com/colombia/2026/05/23/andres-cepeda-desactivo-los-comentarios-en-instagram-por-culpa-de-ivan-cepeda-no-tengo-nada-que-ver-con-politica/",
       "source": "Infobae",
-      "pubDate": "Sat, 23 May 2026 18:55:00 +0000",
+      "pubDate": "Sat, 23 May 2026 23:00:50 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Nueva encuesta sacude la carrera presidencial: así quedarían los duelos entre Paloma Valencia, Iván Cepeda y De la Espriella en segunda vuelta",
+      "link": "https://www.infobae.com/colombia/2026/05/23/nueva-encuesta-sacude-la-carrera-presidencial-asi-quedarian-los-duelos-entre-paloma-valencia-ivan-cepeda-y-de-la-espriella-en-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Sat, 23 May 2026 22:52:16 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Iván Cepeda lidera intención de voto en encuesta para la primera vuelta: Paloma Valencia y Abelardo de la Espriella le siguen la pista",
+      "link": "https://www.infobae.com/colombia/2026/05/23/ivan-cepeda-lidera-intencion-de-voto-en-encuesta-para-la-primera-vuelta-paloma-valencia-y-abelardo-de-la-espriella-le-siguen-la-pista/",
+      "source": "Infobae",
+      "pubDate": "Sat, 23 May 2026 22:38:35 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Sergio Fajardo y Paloma Valencia se tomaron el 'café' en Barranquilla: conversación terminó sin acuerdo de alianza",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-y-paloma-valencia-ya-se-toman-el-cafe-en-barranquilla-hay-que-evaluar-como-vamos-a-proceder-hacia-adelante-dice-la-candidata-3557846",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-23T15:50:58-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Benedetti y Alexander López chocan por posible rol en gobierno de Cepeda",
+      "link": "https://www.lasillavacia.com/en-vivo/benedetti-y-alexander-lopez-chocan-por-posible-rol-en-gobierno-de-cepeda/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 23 May 2026 20:25:14 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Es colombiano y va a votar en el exterior? Recomendaciones de la Cancillería para las elecciones presidenciales 2026 en primera vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/es-colombiano-y-va-a-votar-en-el-exterior-recomendaciones-de-la-cancilleria-para-las-elecciones-presidenciales-de-primera-vuelta-3557886",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-23T14:55:26-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -121,28 +161,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Sergio Fajardo y Paloma Valencia se tomaron el 'café' en Barranquilla: conversación terminó sin acuerdo de alianza",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-y-paloma-valencia-ya-se-toman-el-cafe-en-barranquilla-hay-que-evaluar-como-vamos-a-proceder-hacia-adelante-dice-la-candidata-3557846",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-23T13:06:45-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
       "title": "La ciencia que no cabe en el tarjetón",
       "link": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/la-ciencia-que-no-cabe-en-el-tarjeton/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 23 May 2026 16:29:55 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "No te salves, Colombia",
-      "link": "https://www.lasillavacia.com/opinion/no-te-salves-colombia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 23 May 2026 15:50:10 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
     },
     {
       "title": "Los eventos de campaña de los principales candidatos este viernes: Iván Cepeda y Abelardo de la Espriella en Bogotá y Paloma Valencia en Barranquilla",
@@ -159,30 +183,6 @@
       "pubDate": "2026-05-22T23:26:05-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Sergio Fajardo aceptó invitación de Paloma Valencia para tomarse un café y hablar sobre la campaña presidencial 2026: 'Estoy listo'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-acepto-invitacion-de-paloma-valencia-para-tomarse-un-cafe-y-hablar-sobre-la-campana-presidencial-2026-estoy-listo-3557753",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-22T18:04:34-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Elecciones presidenciales en Colombia 2026: ¿cuántos votos necesitan los candidatos para acceder a la reposición monetaria de los gastos de campaña?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-cuantos-votos-necesitan-los-candidatos-para-acceder-a-la-reposicion-monetaria-de-los-gastos-de-campana-3557708",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-22T15:41:11-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Mauricio Gómez Amín, jefe de debate de Abelardo de la Espriella, cuestiona al Consejo Gremial por posible cita con Iván Cepeda cerca de primera vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/mauricio-gomez-amin-jefe-de-debate-de-abelardo-de-la-espriella-cuestiona-al-consejo-gremial-por-posible-cita-con-ivan-cepeda-cerca-de-primera-vuelta-3557717",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-22T15:35:20-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
