@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T08:34:25.339Z",
+  "updatedAt": "2026-05-23T14:50:17.473Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 53,
+      "trendsScore": 56,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 59,
+      "finalScore": 61,
       "momentum": {
-        "value": 0,
+        "value": 3.4,
         "direction": "flat"
       },
-      "probability": 25.3
+      "probability": 25.8
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 31.8
+      "probability": 31.4
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 88,
+      "trendsScore": 91,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 61,
+      "finalScore": 62,
       "momentum": {
-        "value": -3.2,
+        "value": 1.6,
         "direction": "flat"
       },
-      "probability": 26.2
+      "probability": 26.3
     },
     {
       "id": "sergio_fajardo",
@@ -81,13 +81,37 @@
       "youtubeViews": 404432,
       "finalScore": 39,
       "momentum": {
-        "value": 2.6,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 16.7
+      "probability": 16.5
     }
   ],
   "articles": [
+    {
+      "title": "Sergio Fajardo y Paloma Valencia se tomaron el 'café' en Barranquilla: conversación termina sin acuerdo de alianza",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-y-paloma-valencia-ya-se-toman-el-cafe-en-barranquilla-hay-que-evaluar-como-vamos-a-proceder-hacia-adelante-dice-la-candidata-3557846",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-23T09:19:34-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Elecciones 2026: Peruanos están permitidos de votar con DNI vencido en la segunda vuelta, según resolución de Reniec",
+      "link": "https://www.infobae.com/peru/2026/05/23/elecciones-2026-peruanos-estan-permitidos-de-votar-con-dni-vencido-en-la-segunda-vuelta-segun-resolucion-de-reniec/",
+      "source": "Infobae",
+      "pubDate": "Sat, 23 May 2026 14:02:46 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Los eventos de campaña de los principales candidatos este viernes: Iván Cepeda y Abelardo de la Espriella en Bogotá y Paloma Valencia en Barranquilla",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fue-el-cierre-de-campana-de-los-principales-candidatos-ivan-cepeda-y-abelardo-de-la-espriella-en-bogota-y-paloma-valencia-en-barranquilla-3557833",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-23T07:18:50-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
     {
       "title": "¿Qué saldrá del café entre Paloma Valencia y Sergio Fajardo previsto para este sábado en Barranquilla?",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-saldra-del-entre-paloma-valencia-y-sergio-fajardo-este-sabado-en-barranquilla-3557748",
@@ -111,14 +135,6 @@
       "pubDate": "Sat, 23 May 2026 00:50:36 +0000",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Fajardo le acepta el tinto a Paloma, pero no se mueve en primera vuelta",
-      "link": "https://www.lasillavacia.com/en-vivo/fajardo-le-acepta-el-tinto-a-paloma-pero-no-se-mueve-en-primera-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 22 May 2026 23:17:16 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Sergio Fajardo aceptó invitación de Paloma Valencia para tomarse un café y hablar sobre la campaña presidencial 2026: 'Estoy listo'",
@@ -153,28 +169,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Test electoral para la primera vuelta presidencial: conozca con cuál de los 12 candidatos tiene más afinidad según sus planes de gobierno",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/test-electoral-para-la-primera-vuelta-presidencial-conozca-con-cual-de-los-12-candidatos-tiene-mas-afinidad-segun-sus-planes-de-gobierno-3557657",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-22T15:14:42-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "#ElFiltro: Invamer no publicó una encuesta que muestra al candidato Iván Cepeda como ganador con 51,2% en primera vuelta de elecciones presidenciales",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-invamer-no-publico-una-encuesta-que-muestra-al-candidato-ivan-cepeda-como-ganador-con-51-2-en-primera-vuelta-de-elecciones-presidenciales-3557693",
       "source": "El Tiempo",
       "pubDate": "2026-05-22T14:49:27-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "'No estamos condenados ni a una izquierda radical ni a una derecha que propone regresar a épocas oscuras': Edna Bonilla, fórmula de Sergio Fajardo",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/no-estamos-condenados-ni-a-una-izquierda-radical-ni-a-una-derecha-que-propone-regresar-a-epocas-oscuras-edna-bonilla-formula-de-sergio-fajardo-3557666",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-22T13:22:25-05:00",
-      "candidateId": "sergio_fajardo",
-      "candidateColor": "#2A9D8F"
     }
   ]
 }
