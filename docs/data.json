@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T14:50:17.473Z",
+  "updatedAt": "2026-05-23T19:59:56.130Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 56,
+      "trendsScore": 54,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 61,
+      "finalScore": 60,
       "momentum": {
-        "value": 3.4,
+        "value": -1.6,
         "direction": "flat"
       },
-      "probability": 25.8
+      "probability": 25.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 31.4
+      "probability": 31.6
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 91,
+      "trendsScore": 89,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 62,
+      "finalScore": 61,
       "momentum": {
-        "value": 1.6,
+        "value": -1.6,
         "direction": "flat"
       },
-      "probability": 26.3
+      "probability": 26.1
     },
     {
       "id": "sergio_fajardo",
@@ -84,25 +84,65 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 16.5
+      "probability": 16.7
     }
   ],
   "articles": [
     {
-      "title": "Sergio Fajardo y Paloma Valencia se tomaron el 'café' en Barranquilla: conversación termina sin acuerdo de alianza",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-y-paloma-valencia-ya-se-toman-el-cafe-en-barranquilla-hay-que-evaluar-como-vamos-a-proceder-hacia-adelante-dice-la-candidata-3557846",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-23T09:19:34-05:00",
+      "title": "Tomás Gálvez revela que Rafael López Aliaga lo llamó “infinidad de veces” exigiendo que Fiscalía detenga el conteo de votos",
+      "link": "https://www.infobae.com/peru/2026/05/23/tomas-galvez-revela-que-rafael-lopez-aliaga-lo-llamo-infinidad-de-veces-exigiendo-que-fiscalia-detenga-el-conteo-de-votos/",
+      "source": "Infobae",
+      "pubDate": "Sat, 23 May 2026 18:55:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Por qué votar por Abelardo?",
+      "link": "https://www.lasillavacia.com/opinion/por-que-votar-por-abelardo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 23 May 2026 18:19:32 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Mauricio Cárdenas no escribió texto viral contra la campaña de Paloma Valencia",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/mauricio-cardenas-no-escribio-texto-viral-contra-la-campana-de-paloma-valencia/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 23 May 2026 18:10:06 +0000",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
     },
     {
-      "title": "Elecciones 2026: Peruanos están permitidos de votar con DNI vencido en la segunda vuelta, según resolución de Reniec",
-      "link": "https://www.infobae.com/peru/2026/05/23/elecciones-2026-peruanos-estan-permitidos-de-votar-con-dni-vencido-en-la-segunda-vuelta-segun-resolucion-de-reniec/",
-      "source": "Infobae",
-      "pubDate": "Sat, 23 May 2026 14:02:46 +0000",
+      "title": "'Ni una sola pared sin nuestros murales': el llamado que hizo Iván Cepeda a sus simpatizantes en el cierre de su campaña",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ni-una-sola-pared-sin-nuestros-murales-el-llamado-que-hizo-ivan-cepeda-a-sus-simpatizantes-en-medio-de-episodios-de-hostigamientos-a-la-oposicion-3557879",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-23T13:07:58-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Sergio Fajardo y Paloma Valencia se tomaron el 'café' en Barranquilla: conversación terminó sin acuerdo de alianza",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-y-paloma-valencia-ya-se-toman-el-cafe-en-barranquilla-hay-que-evaluar-como-vamos-a-proceder-hacia-adelante-dice-la-candidata-3557846",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-23T13:06:45-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "La ciencia que no cabe en el tarjetón",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/la-ciencia-que-no-cabe-en-el-tarjeton/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 23 May 2026 16:29:55 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "No te salves, Colombia",
+      "link": "https://www.lasillavacia.com/opinion/no-te-salves-colombia/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 23 May 2026 15:50:10 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
     },
     {
       "title": "Los eventos de campaña de los principales candidatos este viernes: Iván Cepeda y Abelardo de la Espriella en Bogotá y Paloma Valencia en Barranquilla",
@@ -117,22 +157,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-saldra-del-entre-paloma-valencia-y-sergio-fajardo-este-sabado-en-barranquilla-3557748",
       "source": "El Tiempo",
       "pubDate": "2026-05-22T23:26:05-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Paloma llena plaza en Barranquilla con políticos y cantante vallenato",
-      "link": "https://www.lasillavacia.com/en-vivo/paloma-llena-plaza-en-barranquilla-con-politicos-y-cantante-vallenato/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 23 May 2026 02:09:58 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Atlas Intel: Cepeda y Abelardo llegan en empate técnico a primera vuelta",
-      "link": "https://www.lasillavacia.com/en-vivo/atlas-intel-cepeda-y-abelardo-llegan-en-empate-tecnico-en-primera-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 23 May 2026 00:50:36 +0000",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
     },
@@ -157,22 +181,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/mauricio-gomez-amin-jefe-de-debate-de-abelardo-de-la-espriella-cuestiona-al-consejo-gremial-por-posible-cita-con-ivan-cepeda-cerca-de-primera-vuelta-3557717",
       "source": "El Tiempo",
       "pubDate": "2026-05-22T15:35:20-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "'Encuentros no representan apoyos políticos ni adhesiones': Natalia Gutiérrez, presidenta del Consejo Gremial, sobre reuniones con candidatos",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/encuentros-no-representan-apoyos-politicos-ni-adhesiones-natalia-gutierrez-presidenta-del-consejo-gremial-sobre-reuniones-con-candidatos-3557690",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-22T15:28:49-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "#ElFiltro: Invamer no publicó una encuesta que muestra al candidato Iván Cepeda como ganador con 51,2% en primera vuelta de elecciones presidenciales",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-invamer-no-publico-una-encuesta-que-muestra-al-candidato-ivan-cepeda-como-ganador-con-51-2-en-primera-vuelta-de-elecciones-presidenciales-3557693",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-22T14:49:27-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
