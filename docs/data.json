@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-22T23:51:35.700Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-05-23T08:34:25.339Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -21,7 +21,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 25.2
+      "probability": 25.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 31.6
+      "probability": 31.8
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 93,
+      "trendsScore": 88,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 63,
+      "finalScore": 61,
       "momentum": {
-        "value": 0,
+        "value": -3.2,
         "direction": "flat"
       },
-      "probability": 26.9
+      "probability": 26.2
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 5,
+      "trendsScore": 7,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -79,18 +79,42 @@
         "neutral": 29.2
       },
       "youtubeViews": 404432,
-      "finalScore": 38,
+      "finalScore": 39,
       "momentum": {
-        "value": 0,
+        "value": 2.6,
         "direction": "flat"
       },
-      "probability": 16.2
+      "probability": 16.7
     }
   ],
   "articles": [
     {
-      "title": "Fajardo le acepta el tinto a Paloma, pero no se mueve de primera",
-      "link": "https://www.lasillavacia.com/en-vivo/fajardo-le-acepta-el-tinto-a-paloma-pero-no-se-mueve-de-primera/",
+      "title": "¿Qué saldrá del café entre Paloma Valencia y Sergio Fajardo previsto para este sábado en Barranquilla?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-saldra-del-entre-paloma-valencia-y-sergio-fajardo-este-sabado-en-barranquilla-3557748",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-22T23:26:05-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Paloma llena plaza en Barranquilla con políticos y cantante vallenato",
+      "link": "https://www.lasillavacia.com/en-vivo/paloma-llena-plaza-en-barranquilla-con-politicos-y-cantante-vallenato/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 23 May 2026 02:09:58 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Atlas Intel: Cepeda y Abelardo llegan en empate técnico a primera vuelta",
+      "link": "https://www.lasillavacia.com/en-vivo/atlas-intel-cepeda-y-abelardo-llegan-en-empate-tecnico-en-primera-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 23 May 2026 00:50:36 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Fajardo le acepta el tinto a Paloma, pero no se mueve en primera vuelta",
+      "link": "https://www.lasillavacia.com/en-vivo/fajardo-le-acepta-el-tinto-a-paloma-pero-no-se-mueve-en-primera-vuelta/",
       "source": "La Silla Vacía",
       "pubDate": "Fri, 22 May 2026 23:17:16 +0000",
       "candidateId": null,
@@ -101,22 +125,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-acepto-invitacion-de-paloma-valencia-para-tomarse-un-cafe-y-hablar-sobre-la-campana-presidencial-2026-estoy-listo-3557753",
       "source": "El Tiempo",
       "pubDate": "2026-05-22T18:04:34-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Sergio Fajardo aceptó la invitación de Paloma Valencia a tomarse un café, propuso fecha, hora y lugar: “Estoy listo”",
-      "link": "https://www.infobae.com/colombia/2026/05/22/sergio-fajardo-acepto-la-invitacion-de-paloma-valencia-a-tomarse-un-cafe-propuso-fecha-hora-y-lugar-estoy-listo/",
-      "source": "Infobae",
-      "pubDate": "Fri, 22 May 2026 23:04:19 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Sergio Fajardo acepta el café con Paloma Valencia: el encuentro entre los candidatos presidenciales sería este sábado en Barranquilla",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-acepta-el-cafe-con-paloma-valencia-el-encuentro-entre-los-candidatos-presidenciales-seria-este-sabado-en-barranquilla-3557748",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-22T17:17:06-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
     },
