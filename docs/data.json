@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T09:12:16.893Z",
+  "updatedAt": "2026-05-24T14:51:49.876Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 67,
+      "trendsScore": 79,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 65,
+      "finalScore": 70,
       "momentum": {
-        "value": 8.3,
+        "value": 7.7,
         "direction": "up"
       },
-      "probability": 27
+      "probability": 28.5
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 30.7
+      "probability": 30.1
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 91,
+      "trendsScore": 88,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 62,
+      "finalScore": 61,
       "momentum": {
-        "value": 1.6,
+        "value": -1.6,
         "direction": "flat"
       },
-      "probability": 25.7
+      "probability": 24.8
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 11,
+      "trendsScore": 14,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -79,15 +79,55 @@
         "neutral": 29.2
       },
       "youtubeViews": 404432,
-      "finalScore": 40,
+      "finalScore": 41,
       "momentum": {
-        "value": 2.6,
+        "value": 2.5,
         "direction": "flat"
       },
-      "probability": 16.6
+      "probability": 16.7
     }
   ],
   "articles": [
+    {
+      "title": "Campaña de Abelardo de la Espriella cuestionó al Consejo Gremial por encuentro privado con Iván Cepeda: “Irresponsables” ",
+      "link": "https://www.infobae.com/colombia/2026/05/24/campana-de-abelardo-de-la-espriella-cuestiono-al-consejo-gremial-por-encuentro-privado-con-ivan-cepeda-irresponsables/",
+      "source": "Infobae",
+      "pubDate": "Sun, 24 May 2026 14:35:11 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Encuesta CNC: De la Espriella empata con Cepeda y Valencia se hunde",
+      "link": "https://www.lasillavacia.com/en-vivo/encuesta-cnc-de-la-espriella-empata-con-cepeda-y-paloma-se-hunde/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 24 May 2026 14:24:06 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Gustavo Petro insiste en fraude electoral y llama a la ciudadanía a movilizarse para “cuidar el voto y su transparencia” ",
+      "link": "https://www.infobae.com/colombia/2026/05/24/gustavo-petro-insiste-en-fraude-electoral-y-llama-a-la-ciudadania-a-movilizarse-para-cuidar-el-voto-y-su-transparencia/",
+      "source": "Infobae",
+      "pubDate": "Sun, 24 May 2026 13:59:38 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Sergio Fajardo afirma que esta es su última campaña presidencial, al acercarse a los 70 años de edad",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-afirma-que-esta-es-su-ultima-campana-presidencial-al-acercarse-a-los-70-anos-de-edad-3557971",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-24T08:55:00-05:00",
+      "candidateId": "sergio_fajardo",
+      "candidateColor": "#2A9D8F"
+    },
+    {
+      "title": "Historias familiares: los Valencia y Popayán",
+      "link": "https://www.lasillavacia.com/podcasts/historias-familiares-los-valencia-y-popayan/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 24 May 2026 13:37:33 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
     {
       "title": "Así fueron los cierres de campaña de los candidatos presidenciales que encabezan encuestas: Cartagena, Barranquilla y Envigado, las ciudades elegidas",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fueron-los-cierres-de-campana-de-los-candidatos-presidenciales-que-encabezan-encuestas-cartagena-barranquilla-y-envigado-las-ciudades-elegidas-3557960",
@@ -127,30 +167,6 @@
       "pubDate": "2026-05-23T14:55:26-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Por qué votar por Abelardo?",
-      "link": "https://www.lasillavacia.com/opinion/por-que-votar-por-abelardo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 23 May 2026 18:19:32 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Mauricio Cárdenas no escribió texto viral contra la campaña de Paloma Valencia",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/mauricio-cardenas-no-escribio-texto-viral-contra-la-campana-de-paloma-valencia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 23 May 2026 18:10:06 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "'Ni una sola pared sin nuestros murales': el llamado que hizo Iván Cepeda a sus simpatizantes en el cierre de su campaña",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ni-una-sola-pared-sin-nuestros-murales-el-llamado-que-hizo-ivan-cepeda-a-sus-simpatizantes-en-medio-de-episodios-de-hostigamientos-a-la-oposicion-3557879",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-23T13:07:58-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
