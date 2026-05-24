@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T19:58:54.664Z",
+  "updatedAt": "2026-05-24T23:44:10.554Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 84,
+      "trendsScore": 81,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 72,
+      "finalScore": 71,
       "momentum": {
-        "value": 2.9,
+        "value": -1.4,
         "direction": "flat"
       },
-      "probability": 29.1
+      "probability": 29
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 30
+      "probability": 30.2
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 86,
+      "trendsScore": 83,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 60,
+      "finalScore": 59,
       "momentum": {
-        "value": -1.6,
+        "value": -1.7,
         "direction": "flat"
       },
-      "probability": 24.3
+      "probability": 24.1
     },
     {
       "id": "sergio_fajardo",
@@ -84,17 +84,57 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 16.6
+      "probability": 16.7
     }
   ],
   "articles": [
     {
-      "title": "Consejo Gremial defiende su encuentro con Iván Cepeda y aseguró que el diálogo con candidatos responde a su misión institucional",
-      "link": "https://www.infobae.com/colombia/2026/05/24/consejo-gremial-defiende-su-encuentro-con-ivan-cepeda-y-aseguro-que-el-dialogo-con-candidatos-responde-a-su-mision-institucional/",
-      "source": "Infobae",
-      "pubDate": "Sun, 24 May 2026 19:14:06 +0000",
+      "title": "Consejo Gremial defendió reuniones con candidatos presidenciales y señaló que el 'diálogo es propio de una democracia saludable'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/consejo-gremial-volvio-a-defender-reuniones-con-candidatos-presidenciales-y-senalo-que-el-dialogo-es-propio-de-una-democracia-saludable-3558046",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-24T17:51:00-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "El Heraldo dijo en editorial que apoya a Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/en-vivo/el-heraldo-dijo-en-editorial-que-apoya-a-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 24 May 2026 22:45:26 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Dólar en Colombia: así subirá de precio la moneda estadounidense luego de la primera vuelta de elecciones presidenciales",
+      "link": "https://www.infobae.com/colombia/2026/05/24/dolar-en-colombia-asi-subira-de-precio-la-moneda-estadounidense-luego-de-la-primera-vuelta-de-elecciones-presidenciales/",
+      "source": "Infobae",
+      "pubDate": "Sun, 24 May 2026 22:29:50 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Así avanza el cierre de campaña de Paloma Valencia en Bogotá",
+      "link": "https://www.lasillavacia.com/en-vivo/asi-avanza-el-cierre-de-campana-de-paloma-valencia-en-bogota/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 24 May 2026 21:09:13 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Con recorrido por la Comuna 13, así fue el cierre de campaña del candidato a la presidencia Sergio Fajardo en Medellín",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/con-recorrido-por-la-comuna-13-asi-fue-el-cierre-de-campana-del-candidato-a-la-presidencia-sergio-fajardo-en-medellin-3558003",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-24T15:24:09-05:00",
+      "candidateId": "sergio_fajardo",
+      "candidateColor": "#2A9D8F"
+    },
+    {
+      "title": "Paloma Valencia cerró su campaña en el Movistar Arena de Bogotá: 'Estamos hechos no para ganar encuestas, sino para ganar elecciones'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-cerro-su-campana-en-el-movistar-arena-de-bogota-no-estamos-hechos-no-para-ganar-encuestas-sino-para-ganar-elecciones-3558028",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-24T15:04:49-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
     },
     {
       "title": "La violencia armada domina la campaña en Colombia, a medida que se acercan las presidenciales",
@@ -108,7 +148,7 @@
       "title": "Se abrirán primeros puestos de votación en el exterior para primera vuelta presidencial desde este lunes 25 de mayo",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/se-abriran-primeros-puestos-de-votacion-en-el-exterior-para-primera-vuelta-presidencial-desde-este-lunes-25-de-mayo-3558013",
       "source": "El Tiempo",
-      "pubDate": "2026-05-24T12:33:50-05:00",
+      "pubDate": "2026-05-24T13:01:00-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -119,14 +159,6 @@
       "pubDate": "2026-05-24T10:37:07-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cuenta regresiva para la primera vuelta presidencial: los escenarios que se perfilan en las encuestas",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cuenta-regresiva-para-la-primera-vuelta-presidencial-los-escenarios-que-se-perfilan-en-las-encuestas-3557913",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-24T10:01:00-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Encuesta del CNC: De la Espriella empata con Cepeda y Valencia se hunde",
@@ -145,28 +177,12 @@
       "candidateColor": "#2A9D8F"
     },
     {
-      "title": "Historias familiares: los Valencia y Popayán",
-      "link": "https://www.lasillavacia.com/podcasts/historias-familiares-los-valencia-y-popayan/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 24 May 2026 13:37:33 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
       "title": "Así fueron los cierres de campaña de los candidatos presidenciales que encabezan encuestas: Cartagena, Barranquilla y Envigado, las ciudades elegidas",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fueron-los-cierres-de-campana-de-los-candidatos-presidenciales-que-encabezan-encuestas-cartagena-barranquilla-y-envigado-las-ciudades-elegidas-3557960",
       "source": "El Tiempo",
       "pubDate": "2026-05-24T00:25:00-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Hostigamiento a la oposición y grescas entre simpatizantes de candidatos, el nuevo riesgo en la campaña",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/hostigamiento-a-la-oposicion-y-grescas-entre-simpatizantes-de-candidatos-el-nuevo-riesgo-en-la-campana-3557920",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-23T22:30:00-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
     }
   ]
 }
