@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T23:15:57.840Z",
+  "updatedAt": "2026-05-24T09:12:16.893Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 55,
+      "trendsScore": 67,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 60,
+      "finalScore": 65,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": 8.3,
+        "direction": "up"
       },
-      "probability": 25.6
+      "probability": 27
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 31.6
+      "probability": 30.7
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 88,
+      "trendsScore": 91,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 61,
+      "finalScore": 62,
       "momentum": {
-        "value": 0,
+        "value": 1.6,
         "direction": "flat"
       },
-      "probability": 26.1
+      "probability": 25.7
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 7,
+      "trendsScore": 11,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -79,46 +79,38 @@
         "neutral": 29.2
       },
       "youtubeViews": 404432,
-      "finalScore": 39,
+      "finalScore": 40,
       "momentum": {
-        "value": 0,
+        "value": 2.6,
         "direction": "flat"
       },
-      "probability": 16.7
+      "probability": 16.6
     }
   ],
   "articles": [
     {
-      "title": "Andrés Cepeda desactivó los comentarios en Instagram por culpa de  Iván Cepeda: “No tengo nada que ver con política”",
-      "link": "https://www.infobae.com/colombia/2026/05/23/andres-cepeda-desactivo-los-comentarios-en-instagram-por-culpa-de-ivan-cepeda-no-tengo-nada-que-ver-con-politica/",
-      "source": "Infobae",
-      "pubDate": "Sat, 23 May 2026 23:00:50 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Nueva encuesta sacude la carrera presidencial: así quedarían los duelos entre Paloma Valencia, Iván Cepeda y De la Espriella en segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/05/23/nueva-encuesta-sacude-la-carrera-presidencial-asi-quedarian-los-duelos-entre-paloma-valencia-ivan-cepeda-y-de-la-espriella-en-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Sat, 23 May 2026 22:52:16 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda lidera intención de voto en encuesta para la primera vuelta: Paloma Valencia y Abelardo de la Espriella le siguen la pista",
-      "link": "https://www.infobae.com/colombia/2026/05/23/ivan-cepeda-lidera-intencion-de-voto-en-encuesta-para-la-primera-vuelta-paloma-valencia-y-abelardo-de-la-espriella-le-siguen-la-pista/",
-      "source": "Infobae",
-      "pubDate": "Sat, 23 May 2026 22:38:35 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Sergio Fajardo y Paloma Valencia se tomaron el 'café' en Barranquilla: conversación terminó sin acuerdo de alianza",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-y-paloma-valencia-ya-se-toman-el-cafe-en-barranquilla-hay-que-evaluar-como-vamos-a-proceder-hacia-adelante-dice-la-candidata-3557846",
+      "title": "Así fueron los cierres de campaña de los candidatos presidenciales que encabezan encuestas: Cartagena, Barranquilla y Envigado, las ciudades elegidas",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fueron-los-cierres-de-campana-de-los-candidatos-presidenciales-que-encabezan-encuestas-cartagena-barranquilla-y-envigado-las-ciudades-elegidas-3557960",
       "source": "El Tiempo",
-      "pubDate": "2026-05-23T15:50:58-05:00",
+      "pubDate": "2026-05-24T00:25:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Hostigamiento a la oposición y grescas entre simpatizantes de candidatos, el nuevo riesgo en la campaña",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/hostigamiento-a-la-oposicion-y-grescas-entre-simpatizantes-de-candidatos-el-nuevo-riesgo-en-la-campana-3557920",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-23T22:30:00-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Cuenta regresiva para la primera vuelta presidencial: los escenarios que se perfilan en las encuestas",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cuenta-regresiva-para-la-primera-vuelta-presidencial-los-escenarios-que-se-perfilan-en-las-encuestas-3557913",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-23T22:30:00-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Benedetti y Alexander López chocan por posible rol en gobierno de Cepeda",
@@ -159,30 +151,6 @@
       "pubDate": "2026-05-23T13:07:58-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "La ciencia que no cabe en el tarjetón",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/la-ciencia-que-no-cabe-en-el-tarjeton/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 23 May 2026 16:29:55 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Los eventos de campaña de los principales candidatos este viernes: Iván Cepeda y Abelardo de la Espriella en Bogotá y Paloma Valencia en Barranquilla",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fue-el-cierre-de-campana-de-los-principales-candidatos-ivan-cepeda-y-abelardo-de-la-espriella-en-bogota-y-paloma-valencia-en-barranquilla-3557833",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-23T07:18:50-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Qué saldrá del café entre Paloma Valencia y Sergio Fajardo previsto para este sábado en Barranquilla?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-saldra-del-entre-paloma-valencia-y-sergio-fajardo-este-sabado-en-barranquilla-3557748",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-22T23:26:05-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
     }
   ]
 }
