@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T14:51:49.876Z",
+  "updatedAt": "2026-05-24T19:58:54.664Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 79,
+      "trendsScore": 84,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 70,
+      "finalScore": 72,
       "momentum": {
-        "value": 7.7,
-        "direction": "up"
+        "value": 2.9,
+        "direction": "flat"
       },
-      "probability": 28.5
+      "probability": 29.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 30.1
+      "probability": 30
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 88,
+      "trendsScore": 86,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 61,
+      "finalScore": 60,
       "momentum": {
         "value": -1.6,
         "direction": "flat"
       },
-      "probability": 24.8
+      "probability": 24.3
     },
     {
       "id": "sergio_fajardo",
@@ -81,34 +81,58 @@
       "youtubeViews": 404432,
       "finalScore": 41,
       "momentum": {
-        "value": 2.5,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 16.7
+      "probability": 16.6
     }
   ],
   "articles": [
     {
-      "title": "Campaña de Abelardo de la Espriella cuestionó al Consejo Gremial por encuentro privado con Iván Cepeda: “Irresponsables” ",
-      "link": "https://www.infobae.com/colombia/2026/05/24/campana-de-abelardo-de-la-espriella-cuestiono-al-consejo-gremial-por-encuentro-privado-con-ivan-cepeda-irresponsables/",
+      "title": "Consejo Gremial defiende su encuentro con Iván Cepeda y aseguró que el diálogo con candidatos responde a su misión institucional",
+      "link": "https://www.infobae.com/colombia/2026/05/24/consejo-gremial-defiende-su-encuentro-con-ivan-cepeda-y-aseguro-que-el-dialogo-con-candidatos-responde-a-su-mision-institucional/",
       "source": "Infobae",
-      "pubDate": "Sun, 24 May 2026 14:35:11 +0000",
+      "pubDate": "Sun, 24 May 2026 19:14:06 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Encuesta CNC: De la Espriella empata con Cepeda y Valencia se hunde",
-      "link": "https://www.lasillavacia.com/en-vivo/encuesta-cnc-de-la-espriella-empata-con-cepeda-y-paloma-se-hunde/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 24 May 2026 14:24:06 +0000",
+      "title": "La violencia armada domina la campaña en Colombia, a medida que se acercan las presidenciales",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260524-la-violencia-armada-domina-la-campa%C3%B1a-en-colombia-a-medida-que-se-acercan-las-presidenciales",
+      "source": "France 24",
+      "pubDate": "Sun, 24 May 2026 18:38:18 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Gustavo Petro insiste en fraude electoral y llama a la ciudadanía a movilizarse para “cuidar el voto y su transparencia” ",
-      "link": "https://www.infobae.com/colombia/2026/05/24/gustavo-petro-insiste-en-fraude-electoral-y-llama-a-la-ciudadania-a-movilizarse-para-cuidar-el-voto-y-su-transparencia/",
-      "source": "Infobae",
-      "pubDate": "Sun, 24 May 2026 13:59:38 +0000",
+      "title": "Se abrirán primeros puestos de votación en el exterior para primera vuelta presidencial desde este lunes 25 de mayo",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/se-abriran-primeros-puestos-de-votacion-en-el-exterior-para-primera-vuelta-presidencial-desde-este-lunes-25-de-mayo-3558013",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-24T12:33:50-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Así fue el cierre de campaña de Abelardo de la Espriella en el Gran Malecón de Barranquilla: 'Nunca más inseguridad'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fue-el-cierre-de-campana-de-abelardo-de-la-espriella-en-el-gran-malecon-de-barranquilla-nunca-mas-inseguridad-3557990",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-24T10:37:07-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Cuenta regresiva para la primera vuelta presidencial: los escenarios que se perfilan en las encuestas",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cuenta-regresiva-para-la-primera-vuelta-presidencial-los-escenarios-que-se-perfilan-en-las-encuestas-3557913",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-24T10:01:00-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Encuesta del CNC: De la Espriella empata con Cepeda y Valencia se hunde",
+      "link": "https://www.lasillavacia.com/en-vivo/encuesta-cnc-de-la-espriella-empata-con-cepeda-y-paloma-se-hunde/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 24 May 2026 14:24:06 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -143,30 +167,6 @@
       "pubDate": "2026-05-23T22:30:00-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Cuenta regresiva para la primera vuelta presidencial: los escenarios que se perfilan en las encuestas",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cuenta-regresiva-para-la-primera-vuelta-presidencial-los-escenarios-que-se-perfilan-en-las-encuestas-3557913",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-23T22:30:00-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Benedetti y Alexander López chocan por posible rol en gobierno de Cepeda",
-      "link": "https://www.lasillavacia.com/en-vivo/benedetti-y-alexander-lopez-chocan-por-posible-rol-en-gobierno-de-cepeda/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 23 May 2026 20:25:14 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Es colombiano y va a votar en el exterior? Recomendaciones de la Cancillería para las elecciones presidenciales 2026 en primera vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/es-colombiano-y-va-a-votar-en-el-exterior-recomendaciones-de-la-cancilleria-para-las-elecciones-presidenciales-de-primera-vuelta-3557886",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-23T14:55:26-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
