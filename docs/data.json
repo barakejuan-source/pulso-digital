@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T23:44:10.554Z",
+  "updatedAt": "2026-05-25T12:52:34.954Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 81,
+      "trendsScore": 88,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 71,
+      "finalScore": 73,
       "momentum": {
-        "value": -1.4,
+        "value": 2.8,
         "direction": "flat"
       },
-      "probability": 29
+      "probability": 29.8
     },
     {
       "id": "abelardo_espriella",
@@ -49,7 +49,7 @@
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 83,
+      "trendsScore": 76,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 59,
+      "finalScore": 56,
       "momentum": {
-        "value": -1.7,
-        "direction": "flat"
+        "value": -5.1,
+        "direction": "down"
       },
-      "probability": 24.1
+      "probability": 22.9
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 14,
+      "trendsScore": 15,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -79,15 +79,95 @@
         "neutral": 29.2
       },
       "youtubeViews": 404432,
-      "finalScore": 41,
+      "finalScore": 42,
       "momentum": {
-        "value": 0,
+        "value": 2.4,
         "direction": "flat"
       },
-      "probability": 16.7
+      "probability": 17.1
     }
   ],
   "articles": [
+    {
+      "title": "Cepeda busca 2.5 millones de votos. Antioquia es la clave",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/cepeda-busca-2-5-millones-de-votos-antioquia-es-la-clave/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 25 May 2026 12:46:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Petro fue criticado por destacar la multitud que acompañó a Cepeda en Barranquilla y hablar de “candidatos filósofos”: “Te pasas la ley por el trasero” ",
+      "link": "https://www.infobae.com/colombia/2026/05/25/petro-fue-criticado-por-destacar-la-multitud-que-acompano-a-cepeda-en-barranquilla-y-hablar-de-candidatos-filosofos-te-pasas-la-ley-por-el-trasero/",
+      "source": "Infobae",
+      "pubDate": "Mon, 25 May 2026 12:36:14 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Paloma Valencia se reunió con María Corina Machado, líder de la oposición venezolana y premio Nobel de la Paz: detalles del encuentro",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-se-reunio-con-maria-corina-machado-lider-de-la-oposicion-venezolana-y-premio-nobel-de-paz-detalles-del-encuentro-3558128",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-25T07:30:12-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Participación en política: presidente Petro publica video de cierre de campaña de Iván Cepeda; oposición pide garantías",
+      "link": "https://www.eltiempo.com/politica/gobierno/participacion-en-politica-presidente-petro-publica-video-de-cierre-de-campana-de-ivan-cepeda-oposicion-pide-garantias-3558124",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-25T07:22:29-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Amapola, hija de Paloma Valencia, se robó el show en el cierre de campaña de su mamá en Bogotá: “No estoy firme por la patria”",
+      "link": "https://www.infobae.com/colombia/2026/05/25/amapola-hija-de-paloma-valencia-se-robo-el-show-en-el-cierre-de-campana-de-su-mama-en-bogota-no-estoy-firme-por-la-patria/",
+      "source": "Infobae",
+      "pubDate": "Mon, 25 May 2026 12:17:45 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Elecciones presidenciales 2026 en Colombia: Sergio Fajardo aseguró que sería 'su última campaña' como candidato y habló del 'café' con Paloma Valencia",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-asi-fue-el-cierre-de-campana-de-los-candidatos-a-pocos-dias-de-la-primera-vuelta-del-domingo-31-de-mayo-3558113",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-25T07:12:05-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "#PrimerPlano: Llegó la recta final de las elecciones presidenciales 2026",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/primerplano-llego-la-recta-final-de-las-elecciones-presidenciales-3558116",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-25T05:53:26-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Así cerraron campaña Abelardo, Paloma e Iván Cepeda",
+      "link": "https://www.lasillavacia.com/en-vivo/asi-cerraron-campana-abelardo-paloma-e-ivan-cepeda/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 25 May 2026 00:57:42 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo cierra su campaña presidencial desde La Macarena, en Medellín",
+      "link": "https://www.lasillavacia.com/en-vivo/abelardo-cierra-su-campana-presidencial-desde-la-macarena-en-medellin/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 25 May 2026 00:33:20 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "“Opción fascista”: Cepeda sobre Abelardo en cierre de campaña en Barranquilla",
+      "link": "https://www.lasillavacia.com/en-vivo/opcion-fascista-cepeda-sobre-abelardo-en-cierre-de-campana-en-barranquilla/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 25 May 2026 00:17:50 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
     {
       "title": "Consejo Gremial defendió reuniones con candidatos presidenciales y señaló que el 'diálogo es propio de una democracia saludable'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/consejo-gremial-volvio-a-defender-reuniones-con-candidatos-presidenciales-y-senalo-que-el-dialogo-es-propio-de-una-democracia-saludable-3558046",
@@ -103,86 +183,6 @@
       "pubDate": "Sun, 24 May 2026 22:45:26 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Dólar en Colombia: así subirá de precio la moneda estadounidense luego de la primera vuelta de elecciones presidenciales",
-      "link": "https://www.infobae.com/colombia/2026/05/24/dolar-en-colombia-asi-subira-de-precio-la-moneda-estadounidense-luego-de-la-primera-vuelta-de-elecciones-presidenciales/",
-      "source": "Infobae",
-      "pubDate": "Sun, 24 May 2026 22:29:50 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Así avanza el cierre de campaña de Paloma Valencia en Bogotá",
-      "link": "https://www.lasillavacia.com/en-vivo/asi-avanza-el-cierre-de-campana-de-paloma-valencia-en-bogota/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 24 May 2026 21:09:13 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Con recorrido por la Comuna 13, así fue el cierre de campaña del candidato a la presidencia Sergio Fajardo en Medellín",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/con-recorrido-por-la-comuna-13-asi-fue-el-cierre-de-campana-del-candidato-a-la-presidencia-sergio-fajardo-en-medellin-3558003",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-24T15:24:09-05:00",
-      "candidateId": "sergio_fajardo",
-      "candidateColor": "#2A9D8F"
-    },
-    {
-      "title": "Paloma Valencia cerró su campaña en el Movistar Arena de Bogotá: 'Estamos hechos no para ganar encuestas, sino para ganar elecciones'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-cerro-su-campana-en-el-movistar-arena-de-bogota-no-estamos-hechos-no-para-ganar-encuestas-sino-para-ganar-elecciones-3558028",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-24T15:04:49-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "La violencia armada domina la campaña en Colombia, a medida que se acercan las presidenciales",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260524-la-violencia-armada-domina-la-campa%C3%B1a-en-colombia-a-medida-que-se-acercan-las-presidenciales",
-      "source": "France 24",
-      "pubDate": "Sun, 24 May 2026 18:38:18 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Se abrirán primeros puestos de votación en el exterior para primera vuelta presidencial desde este lunes 25 de mayo",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/se-abriran-primeros-puestos-de-votacion-en-el-exterior-para-primera-vuelta-presidencial-desde-este-lunes-25-de-mayo-3558013",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-24T13:01:00-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Así fue el cierre de campaña de Abelardo de la Espriella en el Gran Malecón de Barranquilla: 'Nunca más inseguridad'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fue-el-cierre-de-campana-de-abelardo-de-la-espriella-en-el-gran-malecon-de-barranquilla-nunca-mas-inseguridad-3557990",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-24T10:37:07-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Encuesta del CNC: De la Espriella empata con Cepeda y Valencia se hunde",
-      "link": "https://www.lasillavacia.com/en-vivo/encuesta-cnc-de-la-espriella-empata-con-cepeda-y-paloma-se-hunde/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 24 May 2026 14:24:06 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Sergio Fajardo afirma que esta es su última campaña presidencial, al acercarse a los 70 años de edad",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-afirma-que-esta-es-su-ultima-campana-presidencial-al-acercarse-a-los-70-anos-de-edad-3557971",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-24T08:55:00-05:00",
-      "candidateId": "sergio_fajardo",
-      "candidateColor": "#2A9D8F"
-    },
-    {
-      "title": "Así fueron los cierres de campaña de los candidatos presidenciales que encabezan encuestas: Cartagena, Barranquilla y Envigado, las ciudades elegidas",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fueron-los-cierres-de-campana-de-los-candidatos-presidenciales-que-encabezan-encuestas-cartagena-barranquilla-y-envigado-las-ciudades-elegidas-3557960",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-24T00:25:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
