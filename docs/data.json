@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T12:52:34.954Z",
+  "updatedAt": "2026-05-25T19:09:43.401Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 88,
+      "trendsScore": 85,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 73,
+      "finalScore": 72,
       "momentum": {
-        "value": 2.8,
+        "value": -1.4,
         "direction": "flat"
       },
-      "probability": 29.8
+      "probability": 29.5
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 30.2
+      "probability": 30.3
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 76,
+      "trendsScore": 75,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -60,10 +60,10 @@
       "youtubeViews": 282459,
       "finalScore": 56,
       "momentum": {
-        "value": -5.1,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 22.9
+      "probability": 23
     },
     {
       "id": "sergio_fajardo",
@@ -81,34 +81,82 @@
       "youtubeViews": 404432,
       "finalScore": 42,
       "momentum": {
-        "value": 2.4,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 17.1
+      "probability": 17.2
     }
   ],
   "articles": [
     {
-      "title": "Cepeda busca 2.5 millones de votos. Antioquia es la clave",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/cepeda-busca-2-5-millones-de-votos-antioquia-es-la-clave/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 25 May 2026 12:46:00 +0000",
+      "title": "Vicky Dávila cuestionó a Paloma Valencia por la presencia de Óscar Iván Zuluaga en su cierre de campaña en Bogotá: “Lo denuncié” ",
+      "link": "https://www.infobae.com/colombia/2026/05/25/vicky-davila-cuestiono-a-paloma-valencia-por-la-presencia-de-oscar-ivan-zuluaga-en-su-cierre-de-campana-en-bogota-lo-denuncie/",
+      "source": "Infobae",
+      "pubDate": "Mon, 25 May 2026 19:03:08 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "El candidato presidencial Miguel Uribe Londoño dijo que el expresidente Álvaro Uribe lo traicionó: 'Ni siquiera me excluyó, me expulsó'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-candidato-presidencial-miguel-uribe-londono-dijo-que-el-expresidente-alvaro-uribe-lo-traiciono-ni-siquiera-me-excluyo-me-expulso-3558199",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-25T13:29:52-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Colombia: el balance del primer gobierno de izquierda",
+      "link": "https://www.france24.com/es/video/20260525-colombia-el-balance-del-primer-gobierno-de-izquierda",
+      "source": "France 24",
+      "pubDate": "Mon, 25 May 2026 18:28:50 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Petro fue criticado por destacar la multitud que acompañó a Cepeda en Barranquilla y hablar de “candidatos filósofos”: “Te pasas la ley por el trasero” ",
-      "link": "https://www.infobae.com/colombia/2026/05/25/petro-fue-criticado-por-destacar-la-multitud-que-acompano-a-cepeda-en-barranquilla-y-hablar-de-candidatos-filosofos-te-pasas-la-ley-por-el-trasero/",
-      "source": "Infobae",
-      "pubDate": "Mon, 25 May 2026 12:36:14 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Mi voto por Claudia López y mi mensaje a Iván Cepeda",
+      "link": "https://www.lasillavacia.com/opinion/mi-voto-por-claudia-lopez-y-mi-mensaje-a-ivan-cepeda/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 25 May 2026 17:10:02 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Roy Barreras “acompañará al progresismo” en segunda vuelta",
+      "link": "https://www.lasillavacia.com/en-vivo/roy-barreras-acompanara-al-progresismo-en-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 25 May 2026 17:02:44 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Por qué no hubo acuerdo entre Paloma Valencia y Sergio Fajardo luego del café en Barranquilla? Esto dicen campañas y analistas",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/por-que-no-hubo-acuerdo-entre-paloma-valencia-y-sergio-fajardo-luego-del-cafe-en-barranquilla-esto-dicen-campanas-y-analistas-3558167",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-25T12:01:51-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Carlos Caicedo declina su aspiración presidencial y se une oficialmente a la campaña de Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/carlos-caicedo-declina-su-aspiracion-presidencial-y-se-une-oficialmente-a-la-campana-de-ivan-cepeda-3558186",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-25T10:35:42-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "César Gaviria, presente en el cierre de campaña de la candidata Paloma Valencia, pidió al país 'darle el escenario por primera vez a una mujer'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cesar-gaviria-presente-en-el-cierre-de-campana-de-la-candidata-paloma-valencia-pidio-al-pais-darle-el-escenario-por-primera-vez-a-una-mujer-3558174",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-25T09:55:22-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
     },
     {
       "title": "Paloma Valencia se reunió con María Corina Machado, líder de la oposición venezolana y premio Nobel de la Paz: detalles del encuentro",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-se-reunio-con-maria-corina-machado-lider-de-la-oposicion-venezolana-y-premio-nobel-de-paz-detalles-del-encuentro-3558128",
       "source": "El Tiempo",
-      "pubDate": "2026-05-25T07:30:12-05:00",
+      "pubDate": "2026-05-25T08:00:56-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
     },
@@ -121,68 +169,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Amapola, hija de Paloma Valencia, se robó el show en el cierre de campaña de su mamá en Bogotá: “No estoy firme por la patria”",
-      "link": "https://www.infobae.com/colombia/2026/05/25/amapola-hija-de-paloma-valencia-se-robo-el-show-en-el-cierre-de-campana-de-su-mama-en-bogota-no-estoy-firme-por-la-patria/",
-      "source": "Infobae",
-      "pubDate": "Mon, 25 May 2026 12:17:45 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Elecciones presidenciales 2026 en Colombia: Sergio Fajardo aseguró que sería 'su última campaña' como candidato y habló del 'café' con Paloma Valencia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-asi-fue-el-cierre-de-campana-de-los-candidatos-a-pocos-dias-de-la-primera-vuelta-del-domingo-31-de-mayo-3558113",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-25T07:12:05-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
       "title": "#PrimerPlano: Llegó la recta final de las elecciones presidenciales 2026",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/primerplano-llego-la-recta-final-de-las-elecciones-presidenciales-3558116",
       "source": "El Tiempo",
       "pubDate": "2026-05-25T05:53:26-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Así cerraron campaña Abelardo, Paloma e Iván Cepeda",
-      "link": "https://www.lasillavacia.com/en-vivo/asi-cerraron-campana-abelardo-paloma-e-ivan-cepeda/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 25 May 2026 00:57:42 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo cierra su campaña presidencial desde La Macarena, en Medellín",
-      "link": "https://www.lasillavacia.com/en-vivo/abelardo-cierra-su-campana-presidencial-desde-la-macarena-en-medellin/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 25 May 2026 00:33:20 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "“Opción fascista”: Cepeda sobre Abelardo en cierre de campaña en Barranquilla",
-      "link": "https://www.lasillavacia.com/en-vivo/opcion-fascista-cepeda-sobre-abelardo-en-cierre-de-campana-en-barranquilla/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 25 May 2026 00:17:50 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Consejo Gremial defendió reuniones con candidatos presidenciales y señaló que el 'diálogo es propio de una democracia saludable'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/consejo-gremial-volvio-a-defender-reuniones-con-candidatos-presidenciales-y-senalo-que-el-dialogo-es-propio-de-una-democracia-saludable-3558046",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-24T17:51:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "El Heraldo dijo en editorial que apoya a Abelardo de la Espriella",
-      "link": "https://www.lasillavacia.com/en-vivo/el-heraldo-dijo-en-editorial-que-apoya-a-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 24 May 2026 22:45:26 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
