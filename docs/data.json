@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T19:09:43.401Z",
+  "updatedAt": "2026-05-25T23:47:44.670Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 85,
+      "trendsScore": 83,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 72,
+      "finalScore": 71,
       "momentum": {
         "value": -1.4,
         "direction": "flat"
       },
-      "probability": 29.5
+      "probability": 29
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 30.3
+      "probability": 30.2
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 75,
+      "trendsScore": 80,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 56,
+      "finalScore": 58,
       "momentum": {
-        "value": 0,
+        "value": 3.6,
         "direction": "flat"
       },
-      "probability": 23
+      "probability": 23.7
     },
     {
       "id": "sergio_fajardo",
@@ -84,20 +84,76 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 17.2
+      "probability": 17.1
     }
   ],
   "articles": [
     {
-      "title": "Vicky Dávila cuestionó a Paloma Valencia por la presencia de Óscar Iván Zuluaga en su cierre de campaña en Bogotá: “Lo denuncié” ",
-      "link": "https://www.infobae.com/colombia/2026/05/25/vicky-davila-cuestiono-a-paloma-valencia-por-la-presencia-de-oscar-ivan-zuluaga-en-su-cierre-de-campana-en-bogota-lo-denuncie/",
+      "title": "Claudia López denunció a Gustavo Petro por presunta participación en política tras mensajes de apoyo a Iván Cepeda: “Está prohibido” ",
+      "link": "https://www.infobae.com/colombia/2026/05/25/claudia-lopez-denuncio-a-gustavo-petro-por-presunta-participacion-en-politica-tras-mensajes-de-apoyo-a-ivan-cepeda-esta-prohibido/",
       "source": "Infobae",
-      "pubDate": "Mon, 25 May 2026 19:03:08 +0000",
+      "pubDate": "Mon, 25 May 2026 23:09:06 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Quién es la esposa de Abelardo de la Espriella y cuántos hijos tiene el candidato a la Presidencia de Colombia",
+      "link": "https://www.infobae.com/colombia/2026/05/25/quien-es-la-esposa-de-abelardo-de-la-espriella-y-cuantos-hijos-tiene-el-candidato-a-la-presidencia-de-colombia/",
+      "source": "Infobae",
+      "pubDate": "Mon, 25 May 2026 22:35:30 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Paloma Valencia: la heredera de Uribe que quiere ser la primera presidenta de Colombia",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260525-paloma-valencia-la-heredera-de-uribe-que-quiere-ser-la-primera-presidenta-de-colombia",
+      "source": "France 24",
+      "pubDate": "Mon, 25 May 2026 22:25:17 GMT",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
     },
     {
-      "title": "El candidato presidencial Miguel Uribe Londoño dijo que el expresidente Álvaro Uribe lo traicionó: 'Ni siquiera me excluyó, me expulsó'",
+      "title": "Centro Democrático rechazó el secuestro de Alfredo Iván Guzmán, hijo del exalcalde de Tame y coordinador de la campaña de Paloma Valencia",
+      "link": "https://www.infobae.com/colombia/2026/05/25/centro-democratico-rechazo-el-secuestro-de-alfredo-ivan-guzman-hijo-del-exalcalde-de-tame-y-coordinador-de-la-campana-de-paloma-valencia/",
+      "source": "Infobae",
+      "pubDate": "Mon, 25 May 2026 22:20:12 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Los departamentos y municipios que serán cruciales para la primera vuelta presidencial: estas son las apuestas de Cepeda, De la Espriella y Paloma",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-departamentos-y-municipios-que-seran-cruciales-para-la-primera-vuelta-presidencial-estas-son-las-apuestas-de-cepeda-de-la-espriella-y-paloma-3558291",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-25T16:52:17-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Sector ambiental pide a candidatos pronunciarse antes de la primera vuelta",
+      "link": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/sector-ambiental-pide-a-candidatos-pronunciarse-antes-de-la-primera-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 25 May 2026 20:29:11 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Claudia López y su dura pulla a Sergio Fajardo sobre su futuro tras elecciones: 'No me iré a ver ballenas ni me voy a esconder'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/claudia-lopez-y-su-dura-pulla-a-sergio-fajardo-sobre-su-futuro-tras-elecciones-no-me-ire-a-ver-ballenas-ni-me-voy-a-esconder-3558260",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-25T15:25:00-05:00",
+      "candidateId": "sergio_fajardo",
+      "candidateColor": "#2A9D8F"
+    },
+    {
+      "title": "Caso Andrómeda: Absuelto exmilitar señalado de espiar proceso de paz",
+      "link": "https://www.lasillavacia.com/en-vivo/caso-andromeda-absuelto-exmilitar-senalado-de-espiar-proceso-de-paz/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 25 May 2026 20:02:08 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Candidato presidencial Miguel Uribe Londoño dijo que el expresidente Álvaro Uribe lo traicionó: 'Ni siquiera me excluyó, me expulsó'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-candidato-presidencial-miguel-uribe-londono-dijo-que-el-expresidente-alvaro-uribe-lo-traiciono-ni-siquiera-me-excluyo-me-expulso-3558199",
       "source": "El Tiempo",
       "pubDate": "2026-05-25T13:29:52-05:00",
@@ -109,22 +165,6 @@
       "link": "https://www.france24.com/es/video/20260525-colombia-el-balance-del-primer-gobierno-de-izquierda",
       "source": "France 24",
       "pubDate": "Mon, 25 May 2026 18:28:50 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Mi voto por Claudia López y mi mensaje a Iván Cepeda",
-      "link": "https://www.lasillavacia.com/opinion/mi-voto-por-claudia-lopez-y-mi-mensaje-a-ivan-cepeda/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 25 May 2026 17:10:02 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Roy Barreras “acompañará al progresismo” en segunda vuelta",
-      "link": "https://www.lasillavacia.com/en-vivo/roy-barreras-acompanara-al-progresismo-en-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 25 May 2026 17:02:44 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -143,38 +183,6 @@
       "pubDate": "2026-05-25T10:35:42-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "César Gaviria, presente en el cierre de campaña de la candidata Paloma Valencia, pidió al país 'darle el escenario por primera vez a una mujer'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cesar-gaviria-presente-en-el-cierre-de-campana-de-la-candidata-paloma-valencia-pidio-al-pais-darle-el-escenario-por-primera-vez-a-una-mujer-3558174",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-25T09:55:22-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Paloma Valencia se reunió con María Corina Machado, líder de la oposición venezolana y premio Nobel de la Paz: detalles del encuentro",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-se-reunio-con-maria-corina-machado-lider-de-la-oposicion-venezolana-y-premio-nobel-de-paz-detalles-del-encuentro-3558128",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-25T08:00:56-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Participación en política: presidente Petro publica video de cierre de campaña de Iván Cepeda; oposición pide garantías",
-      "link": "https://www.eltiempo.com/politica/gobierno/participacion-en-politica-presidente-petro-publica-video-de-cierre-de-campana-de-ivan-cepeda-oposicion-pide-garantias-3558124",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-25T07:22:29-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "#PrimerPlano: Llegó la recta final de las elecciones presidenciales 2026",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/primerplano-llego-la-recta-final-de-las-elecciones-presidenciales-3558116",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-25T05:53:26-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
