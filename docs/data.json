@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T23:47:44.670Z",
+  "updatedAt": "2026-05-26T19:36:28.943Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 83,
+      "trendsScore": 73,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 71,
+      "finalScore": 67,
       "momentum": {
-        "value": -1.4,
-        "direction": "flat"
+        "value": -5.6,
+        "direction": "down"
       },
-      "probability": 29
+      "probability": 28.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 30.2
+      "probability": 31.4
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 80,
+      "trendsScore": 67,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 58,
+      "finalScore": 53,
       "momentum": {
-        "value": 3.6,
-        "direction": "flat"
+        "value": -8.6,
+        "direction": "down"
       },
-      "probability": 23.7
+      "probability": 22.5
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 15,
+      "trendsScore": 16,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -84,105 +84,73 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 17.1
+      "probability": 17.8
     }
   ],
   "articles": [
     {
-      "title": "Claudia López denunció a Gustavo Petro por presunta participación en política tras mensajes de apoyo a Iván Cepeda: “Está prohibido” ",
-      "link": "https://www.infobae.com/colombia/2026/05/25/claudia-lopez-denuncio-a-gustavo-petro-por-presunta-participacion-en-politica-tras-mensajes-de-apoyo-a-ivan-cepeda-esta-prohibido/",
+      "title": "Él es Iván Cepeda, la víctima de la violencia y el senador que busca reemplazar a Gustavo Petro en la Presidencia de Colombia ",
+      "link": "https://www.infobae.com/colombia/2026/05/26/el-es-ivan-cepeda-la-victima-y-el-senador-que-busca-reemplazar-a-gustavo-petro-en-la-presidencia-de-colombia/",
       "source": "Infobae",
-      "pubDate": "Mon, 25 May 2026 23:09:06 +0000",
+      "pubDate": "Tue, 26 May 2026 19:26:09 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Quién es la esposa de Abelardo de la Espriella y cuántos hijos tiene el candidato a la Presidencia de Colombia",
-      "link": "https://www.infobae.com/colombia/2026/05/25/quien-es-la-esposa-de-abelardo-de-la-espriella-y-cuantos-hijos-tiene-el-candidato-a-la-presidencia-de-colombia/",
-      "source": "Infobae",
-      "pubDate": "Mon, 25 May 2026 22:35:30 +0000",
+      "title": "Así han torcido Petro y Cepeda las reglas de participación en política",
+      "link": "https://www.lasillavacia.com/silla-nacional/asi-han-torcido-petro-y-cepeda-las-reglas-de-participacion-en-politica/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 26 May 2026 18:35:27 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Estratos sociales y desigualdad: las brechas que definen el voto en Colombia (2/5)",
+      "link": "https://www.france24.com/es/video/20260526-estratos-sociales-y-desigualdad-las-brechas-que-definen-el-voto-en-colombia",
+      "source": "France 24",
+      "pubDate": "Tue, 26 May 2026 18:27:30 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "“Voy a defender esta centroizquierda”: Claudia sobre su futuro político",
+      "link": "https://www.lasillavacia.com/en-vivo/voy-a-defender-esta-centroizquierda-claudia-sobre-su-futuro-politico/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 26 May 2026 18:10:55 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Paloma Valencia: la heredera de Uribe que quiere ser la primera presidenta de Colombia",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260525-paloma-valencia-la-heredera-de-uribe-que-quiere-ser-la-primera-presidenta-de-colombia",
-      "source": "France 24",
-      "pubDate": "Mon, 25 May 2026 22:25:17 GMT",
+      "title": "#ElFiltro: Imagen viral de Paloma Valencia con Ciro Ramírez y Andrés Felipe Arias fue creada con inteligencia artificial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-imagen-viral-de-paloma-valencia-con-ciro-ramirez-y-andres-felipe-arias-fue-creada-con-inteligencia-artificial-3558528",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-26T13:04:27-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
     },
     {
-      "title": "Centro Democrático rechazó el secuestro de Alfredo Iván Guzmán, hijo del exalcalde de Tame y coordinador de la campaña de Paloma Valencia",
-      "link": "https://www.infobae.com/colombia/2026/05/25/centro-democratico-rechazo-el-secuestro-de-alfredo-ivan-guzman-hijo-del-exalcalde-de-tame-y-coordinador-de-la-campana-de-paloma-valencia/",
-      "source": "Infobae",
-      "pubDate": "Mon, 25 May 2026 22:20:12 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Los departamentos y municipios que serán cruciales para la primera vuelta presidencial: estas son las apuestas de Cepeda, De la Espriella y Paloma",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-departamentos-y-municipios-que-seran-cruciales-para-la-primera-vuelta-presidencial-estas-son-las-apuestas-de-cepeda-de-la-espriella-y-paloma-3558291",
+      "title": "Referendo ‘Protejamos la Constitución’ le pide a Iván Cepeda que descarte una Asamblea Nacional Constituyente antes de las elecciones del 31 de mayo",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/referendo-protejamos-la-constitucion-le-pide-a-ivan-cepeda-que-descarte-una-asamblea-nacional-constituyente-antes-de-las-elecciones-del-31-de-mayo-3558516",
       "source": "El Tiempo",
-      "pubDate": "2026-05-25T16:52:17-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Sector ambiental pide a candidatos pronunciarse antes de la primera vuelta",
-      "link": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/sector-ambiental-pide-a-candidatos-pronunciarse-antes-de-la-primera-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 25 May 2026 20:29:11 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Claudia López y su dura pulla a Sergio Fajardo sobre su futuro tras elecciones: 'No me iré a ver ballenas ni me voy a esconder'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/claudia-lopez-y-su-dura-pulla-a-sergio-fajardo-sobre-su-futuro-tras-elecciones-no-me-ire-a-ver-ballenas-ni-me-voy-a-esconder-3558260",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-25T15:25:00-05:00",
-      "candidateId": "sergio_fajardo",
-      "candidateColor": "#2A9D8F"
-    },
-    {
-      "title": "Caso Andrómeda: Absuelto exmilitar señalado de espiar proceso de paz",
-      "link": "https://www.lasillavacia.com/en-vivo/caso-andromeda-absuelto-exmilitar-senalado-de-espiar-proceso-de-paz/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 25 May 2026 20:02:08 +0000",
+      "pubDate": "2026-05-26T12:36:06-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Candidato presidencial Miguel Uribe Londoño dijo que el expresidente Álvaro Uribe lo traicionó: 'Ni siquiera me excluyó, me expulsó'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-candidato-presidencial-miguel-uribe-londono-dijo-que-el-expresidente-alvaro-uribe-lo-traiciono-ni-siquiera-me-excluyo-me-expulso-3558199",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-25T13:29:52-05:00",
+      "title": "Paloma Valencia niega salida de Luis Duque, su estratega de campaña",
+      "link": "https://www.lasillavacia.com/en-vivo/paloma-valencia-niega-salida-de-luis-duque-su-estratega-de-campana/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 26 May 2026 16:51:53 +0000",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
     },
     {
-      "title": "Colombia: el balance del primer gobierno de izquierda",
-      "link": "https://www.france24.com/es/video/20260525-colombia-el-balance-del-primer-gobierno-de-izquierda",
-      "source": "France 24",
-      "pubDate": "Mon, 25 May 2026 18:28:50 GMT",
+      "title": "Elecciones 2026: estas son las cinco causales de exoneración como jurado de votación que contempla la ley; evite multas y sanciones",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-son-solo-cinco-las-causales-de-exoneracion-que-contempla-la-ley-no-se-exponga-a-multas-y-sanciones-3558489",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-26T11:37:57-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Por qué no hubo acuerdo entre Paloma Valencia y Sergio Fajardo luego del café en Barranquilla? Esto dicen campañas y analistas",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/por-que-no-hubo-acuerdo-entre-paloma-valencia-y-sergio-fajardo-luego-del-cafe-en-barranquilla-esto-dicen-campanas-y-analistas-3558167",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-25T12:01:51-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Carlos Caicedo declina su aspiración presidencial y se une oficialmente a la campaña de Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/carlos-caicedo-declina-su-aspiracion-presidencial-y-se-une-oficialmente-a-la-campana-de-ivan-cepeda-3558186",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-25T10:35:42-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
