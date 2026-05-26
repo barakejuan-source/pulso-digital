@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T19:36:28.943Z",
+  "updatedAt": "2026-05-26T23:53:08.415Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,10 +18,10 @@
       "youtubeViews": 393379,
       "finalScore": 67,
       "momentum": {
-        "value": -5.6,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 28.4
+      "probability": 28.5
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 31.4
+      "probability": 31.5
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 67,
+      "trendsScore": 66,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 53,
+      "finalScore": 52,
       "momentum": {
-        "value": -8.6,
-        "direction": "down"
+        "value": -1.9,
+        "direction": "flat"
       },
-      "probability": 22.5
+      "probability": 22.1
     },
     {
       "id": "sergio_fajardo",
@@ -84,23 +84,39 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 17.8
+      "probability": 17.9
     }
   ],
   "articles": [
     {
-      "title": "Él es Iván Cepeda, la víctima de la violencia y el senador que busca reemplazar a Gustavo Petro en la Presidencia de Colombia ",
-      "link": "https://www.infobae.com/colombia/2026/05/26/el-es-ivan-cepeda-la-victima-y-el-senador-que-busca-reemplazar-a-gustavo-petro-en-la-presidencia-de-colombia/",
+      "title": "ONPE aprobó pago adicional con tarifa 900 % mayor para repliegue de equipos tras la primera vuelta, según Contraloría",
+      "link": "https://www.infobae.com/peru/2026/05/26/onpe-aprobo-pago-adicional-con-tarifa-900-mayor-para-repliegue-de-equipos-tras-la-primera-vuelta-segun-contraloria/",
       "source": "Infobae",
-      "pubDate": "Tue, 26 May 2026 19:26:09 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Tue, 26 May 2026 23:12:55 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Así han torcido Petro y Cepeda las reglas de participación en política",
-      "link": "https://www.lasillavacia.com/silla-nacional/asi-han-torcido-petro-y-cepeda-las-reglas-de-participacion-en-politica/",
+      "title": "Paloma Valencia ‘destrozó’ a Abelardo de la Espriella al considerar que es una caricatura: “Su vida fue la defensa de criminales”",
+      "link": "https://www.infobae.com/colombia/2026/05/26/paloma-valencia-destrozo-a-abelardo-de-la-espriella-al-considerar-que-es-una-caricatura-su-vida-fue-la-defensa-de-criminales/",
+      "source": "Infobae",
+      "pubDate": "Tue, 26 May 2026 22:50:14 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Admirador de Trump, Milei y Bukele: así es Abelardo de la Espriella",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260526-abelardo-de-la-espriella-perfil-elecciones-colombia-derecha",
+      "source": "France 24",
+      "pubDate": "Tue, 26 May 2026 22:13:15 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Tras críticas a Fajardo, Paola Holguín hace apoyo público a Paloma",
+      "link": "https://www.lasillavacia.com/en-vivo/tras-criticas-a-fajardo-paola-holguin-hace-apoyo-publico-a-paloma/",
       "source": "La Silla Vacía",
-      "pubDate": "Tue, 26 May 2026 18:35:27 +0000",
+      "pubDate": "Tue, 26 May 2026 19:40:01 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -113,44 +129,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "“Voy a defender esta centroizquierda”: Claudia sobre su futuro político",
-      "link": "https://www.lasillavacia.com/en-vivo/voy-a-defender-esta-centroizquierda-claudia-sobre-su-futuro-politico/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 26 May 2026 18:10:55 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "#ElFiltro: Imagen viral de Paloma Valencia con Ciro Ramírez y Andrés Felipe Arias fue creada con inteligencia artificial",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-imagen-viral-de-paloma-valencia-con-ciro-ramirez-y-andres-felipe-arias-fue-creada-con-inteligencia-artificial-3558528",
       "source": "El Tiempo",
       "pubDate": "2026-05-26T13:04:27-05:00",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Referendo ‘Protejamos la Constitución’ le pide a Iván Cepeda que descarte una Asamblea Nacional Constituyente antes de las elecciones del 31 de mayo",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/referendo-protejamos-la-constitucion-le-pide-a-ivan-cepeda-que-descarte-una-asamblea-nacional-constituyente-antes-de-las-elecciones-del-31-de-mayo-3558516",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-26T12:36:06-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Paloma Valencia niega salida de Luis Duque, su estratega de campaña",
-      "link": "https://www.lasillavacia.com/en-vivo/paloma-valencia-niega-salida-de-luis-duque-su-estratega-de-campana/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 26 May 2026 16:51:53 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Elecciones 2026: estas son las cinco causales de exoneración como jurado de votación que contempla la ley; evite multas y sanciones",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-son-solo-cinco-las-causales-de-exoneracion-que-contempla-la-ley-no-se-exponga-a-multas-y-sanciones-3558489",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-26T11:37:57-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
