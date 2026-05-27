@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-27T12:40:07.188Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-05-27T21:17:36.902Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 73,
+      "trendsScore": 67,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 67,
+      "finalScore": 65,
       "momentum": {
-        "value": 0,
+        "value": -3,
         "direction": "flat"
       },
-      "probability": 28.5
+      "probability": 28.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 31.5
+      "probability": 32.6
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 66,
+      "trendsScore": 51,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 52,
+      "finalScore": 46,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -11.5,
+        "direction": "down"
       },
-      "probability": 22.1
+      "probability": 20.3
     },
     {
       "id": "sergio_fajardo",
@@ -84,105 +84,81 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 17.9
+      "probability": 18.5
     }
   ],
   "articles": [
     {
-      "title": "El Congreso suspendió los debates hasta que pase la primera vuelta presidencial: hay varios proyectos en riesgo ",
-      "link": "https://www.infobae.com/colombia/2026/05/27/el-congreso-suspendio-los-debates-hasta-que-pase-la-primera-vuelta-presidencial-hay-varios-proyectos-en-riesgo/",
-      "source": "Infobae",
-      "pubDate": "Wed, 27 May 2026 12:35:57 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Aida Victoria Merlano cuestionó al candidato presidencial Santiago Botero en un en vivo y el cruce fue tenso: “Tu forma de gobierno es irrealizable”",
-      "link": "https://www.infobae.com/colombia/2026/05/27/aida-victoria-merlano-cuestiono-al-candidato-presidencial-santiago-botero-en-un-en-vivo-y-el-cruce-fue-tenso-tu-forma-de-gobierno-es-irrealizable/",
-      "source": "Infobae",
-      "pubDate": "Wed, 27 May 2026 12:31:15 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Diana Ángel arremetió contra Sergio Fajardo: “Pensé que se podía unir, pero no puede ni renunciar”",
-      "link": "https://www.infobae.com/colombia/2026/05/27/diana-angel-arremetio-contra-sergio-fajardo-pense-que-se-podia-unir-pero-no-puede-ni-renunciar/",
-      "source": "Infobae",
-      "pubDate": "Wed, 27 May 2026 12:28:51 +0000",
-      "candidateId": "sergio_fajardo",
-      "candidateColor": "#2A9D8F"
-    },
-    {
-      "title": "Desayune informado con las claves de este 27 de mayo de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-27-de-mayo-de-2026/",
+      "title": "Ocho votantes cuentan cómo se informan antes de las elecciones",
+      "link": "https://www.lasillavacia.com/silla-nacional/ocho-votantes-cuentan-como-se-informan-antes-de-las-elecciones/",
       "source": "La Silla Vacía",
-      "pubDate": "Wed, 27 May 2026 12:21:00 +0000",
+      "pubDate": "Wed, 27 May 2026 21:00:30 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Lo que une y separa a Cepeda y a Petro",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/lo-que-une-y-separa-a-cepeda-y-a-petro/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 27 May 2026 12:00:00 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Sergio Fajardo: ‘Soy un presidente para toda Colombia, no para media’",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-soy-un-presidente-para-toda-colombia-no-para-media-3558650",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-27T06:54:24-05:00",
-      "candidateId": "sergio_fajardo",
-      "candidateColor": "#2A9D8F"
-    },
-    {
-      "title": "Cinco claves de las elecciones en América Latina para Colombia",
-      "link": "https://www.lasillavacia.com/silla-nacional/cinco-claves-de-las-elecciones-en-america-latina-para-colombia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 27 May 2026 06:00:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "José Manuel Restrepo, el exministro y académico que busca la Vicepresidencia de Colombia",
-      "link": "https://www.france24.com/es/video/20260527-jos%C3%A9-manuel-restrepo-el-exministro-y-acad%C3%A9mico-que-busca-la-vicepresidencia-de-colombia",
-      "source": "France 24",
-      "pubDate": "Wed, 27 May 2026 03:48:33 GMT",
+      "title": "Isabel Zuleta denunció la presunta promoción de grupos civiles armados para “contener” eventuales protestas tras las elecciones presidenciales ",
+      "link": "https://www.infobae.com/colombia/2026/05/27/isabel-zuleta-denuncio-la-presunta-promocion-de-grupos-civiles-armados-para-contener-eventuales-protestas-tras-las-elecciones-presidenciales/",
+      "source": "Infobae",
+      "pubDate": "Wed, 27 May 2026 20:51:55 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Colombia: este el mapa del conflicto armado en vísperas de las presidenciales",
-      "link": "https://www.france24.com/es/programas/en-contexto/20260527-colombia-este-el-mapa-del-conflicto-armado-en-v%C3%ADsperas-de-las-presidenciales",
-      "source": "France 24",
-      "pubDate": "Wed, 27 May 2026 02:20:03 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Álvaro Uribe lanzó ácido comentario contra quienes critican a Paloma Valencia: “¿Extrañados porque no les resultó...?\" ",
+      "link": "https://www.infobae.com/colombia/2026/05/27/alvaro-uribe-lanzo-un-sablazo-en-apoyo-a-paloma-valencia-extranados-porque-no-les-resulto-una-palomita-sino-una-palomota/",
+      "source": "Infobae",
+      "pubDate": "Wed, 27 May 2026 20:43:01 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
     },
     {
-      "title": "Iván Cepeda realiza un segundo acto de campaña 'privado' y el Ministerio del Interior defiende a la campaña de las críticas",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-realiza-un-segundo-acto-de-campana-privado-y-el-ministerio-del-interior-defiende-a-la-campana-de-las-criticas-3558654",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-26T19:58:12-05:00",
+      "title": "Petro salió en defensa de ‘Nany’ Pardo tras denuncias de presunto acoso judicial de Abelardo de la Espriella: “Trata de destripar una persona”",
+      "link": "https://www.infobae.com/colombia/2026/05/27/petro-salio-en-defensa-de-nany-pardo-tras-denuncias-de-presunto-acoso-judicial-de-abelardo-de-la-espriella-trata-de-destripar-una-persona/",
+      "source": "Infobae",
+      "pubDate": "Wed, 27 May 2026 20:39:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Aída Quilcué confía en que, si es vice, tendrá autonomía en su cargo",
+      "link": "https://www.lasillavacia.com/en-vivo/aida-quilcue-confia-en-que-si-es-vice-tendra-autonomia-en-su-cargo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 27 May 2026 18:08:16 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Flávio Bolsonaro se reúne con Trump en la Casa Blanca con las elecciones de Brasil en el horizonte",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260527-fl%C3%A1vio-bolsonaro-se-re%C3%BAne-con-trump-en-la-casa-blanca-con-las-elecciones-de-brasil-en-el-horizonte",
+      "title": "Las niñas esposas del Talibán, una violencia blindada por ley en Afganistán",
+      "link": "https://www.france24.com/es/programas/ellas-hoy/20260527-las-ni%C3%B1as-esposas-del-talib%C3%A1n-una-violencia-blindada-por-ley-en-afganist%C3%A1n",
       "source": "France 24",
-      "pubDate": "Wed, 27 May 2026 00:13:13 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Wed, 27 May 2026 17:18:23 GMT",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
     },
     {
-      "title": "Admirador de Trump, Milei y Bukele: así es Abelardo de la Espriella",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260526-abelardo-de-la-espriella-perfil-elecciones-colombia-derecha",
-      "source": "France 24",
-      "pubDate": "Tue, 26 May 2026 22:13:15 GMT",
+      "title": "Juan Daniel Oviedo, fórmula vicepresidencial de Paloma Valencia, retó a un debate a Abelardo de la Espriella a pocos días de las elecciones",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-formula-de-paloma-valencia-juan-daniel-oviedo-reta-a-un-debate-a-abelardo-de-la-espriella-a-pocos-dias-de-las-elecciones-presidenciales-3558744",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-27T11:30:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Actos de campaña de Iván Cepeda en el Caribe generan nuevos cuestionamientos por proselitismo en medio de veda para actos públicos",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/actos-de-campana-de-ivan-cepeda-en-el-caribe-generan-nuevos-cuestionamientos-por-proselitismo-en-medio-de-veda-para-actos-publicos-3558716",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-27T09:22:06-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Colombia: al menos 12 soldados heridos en un ataque del ELN a cuatro días de las presidenciales",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260527-colombia-al-menos-12-soldados-heridos-en-un-ataque-del-eln-a-cuatro-d%C3%ADas-de-las-presidenciales",
+      "source": "France 24",
+      "pubDate": "Wed, 27 May 2026 14:04:39 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
