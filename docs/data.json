@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-26T23:53:08.415Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-05-27T12:40:07.188Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -60,7 +60,7 @@
       "youtubeViews": 282459,
       "finalScore": 52,
       "momentum": {
-        "value": -1.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 22.1
@@ -89,20 +89,92 @@
   ],
   "articles": [
     {
-      "title": "ONPE aprobó pago adicional con tarifa 900 % mayor para repliegue de equipos tras la primera vuelta, según Contraloría",
-      "link": "https://www.infobae.com/peru/2026/05/26/onpe-aprobo-pago-adicional-con-tarifa-900-mayor-para-repliegue-de-equipos-tras-la-primera-vuelta-segun-contraloria/",
+      "title": "El Congreso suspendió los debates hasta que pase la primera vuelta presidencial: hay varios proyectos en riesgo ",
+      "link": "https://www.infobae.com/colombia/2026/05/27/el-congreso-suspendio-los-debates-hasta-que-pase-la-primera-vuelta-presidencial-hay-varios-proyectos-en-riesgo/",
       "source": "Infobae",
-      "pubDate": "Tue, 26 May 2026 23:12:55 +0000",
+      "pubDate": "Wed, 27 May 2026 12:35:57 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Paloma Valencia ‘destrozó’ a Abelardo de la Espriella al considerar que es una caricatura: “Su vida fue la defensa de criminales”",
-      "link": "https://www.infobae.com/colombia/2026/05/26/paloma-valencia-destrozo-a-abelardo-de-la-espriella-al-considerar-que-es-una-caricatura-su-vida-fue-la-defensa-de-criminales/",
+      "title": "Aida Victoria Merlano cuestionó al candidato presidencial Santiago Botero en un en vivo y el cruce fue tenso: “Tu forma de gobierno es irrealizable”",
+      "link": "https://www.infobae.com/colombia/2026/05/27/aida-victoria-merlano-cuestiono-al-candidato-presidencial-santiago-botero-en-un-en-vivo-y-el-cruce-fue-tenso-tu-forma-de-gobierno-es-irrealizable/",
       "source": "Infobae",
-      "pubDate": "Tue, 26 May 2026 22:50:14 +0000",
+      "pubDate": "Wed, 27 May 2026 12:31:15 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Diana Ángel arremetió contra Sergio Fajardo: “Pensé que se podía unir, pero no puede ni renunciar”",
+      "link": "https://www.infobae.com/colombia/2026/05/27/diana-angel-arremetio-contra-sergio-fajardo-pense-que-se-podia-unir-pero-no-puede-ni-renunciar/",
+      "source": "Infobae",
+      "pubDate": "Wed, 27 May 2026 12:28:51 +0000",
+      "candidateId": "sergio_fajardo",
+      "candidateColor": "#2A9D8F"
+    },
+    {
+      "title": "Desayune informado con las claves de este 27 de mayo de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-27-de-mayo-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 27 May 2026 12:21:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Lo que une y separa a Cepeda y a Petro",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/lo-que-une-y-separa-a-cepeda-y-a-petro/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 27 May 2026 12:00:00 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Sergio Fajardo: ‘Soy un presidente para toda Colombia, no para media’",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-soy-un-presidente-para-toda-colombia-no-para-media-3558650",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-27T06:54:24-05:00",
+      "candidateId": "sergio_fajardo",
+      "candidateColor": "#2A9D8F"
+    },
+    {
+      "title": "Cinco claves de las elecciones en América Latina para Colombia",
+      "link": "https://www.lasillavacia.com/silla-nacional/cinco-claves-de-las-elecciones-en-america-latina-para-colombia/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 27 May 2026 06:00:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "José Manuel Restrepo, el exministro y académico que busca la Vicepresidencia de Colombia",
+      "link": "https://www.france24.com/es/video/20260527-jos%C3%A9-manuel-restrepo-el-exministro-y-acad%C3%A9mico-que-busca-la-vicepresidencia-de-colombia",
+      "source": "France 24",
+      "pubDate": "Wed, 27 May 2026 03:48:33 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia: este el mapa del conflicto armado en vísperas de las presidenciales",
+      "link": "https://www.france24.com/es/programas/en-contexto/20260527-colombia-este-el-mapa-del-conflicto-armado-en-v%C3%ADsperas-de-las-presidenciales",
+      "source": "France 24",
+      "pubDate": "Wed, 27 May 2026 02:20:03 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iván Cepeda realiza un segundo acto de campaña 'privado' y el Ministerio del Interior defiende a la campaña de las críticas",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-realiza-un-segundo-acto-de-campana-privado-y-el-ministerio-del-interior-defiende-a-la-campana-de-las-criticas-3558654",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-26T19:58:12-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Flávio Bolsonaro se reúne con Trump en la Casa Blanca con las elecciones de Brasil en el horizonte",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260527-fl%C3%A1vio-bolsonaro-se-re%C3%BAne-con-trump-en-la-casa-blanca-con-las-elecciones-de-brasil-en-el-horizonte",
+      "source": "France 24",
+      "pubDate": "Wed, 27 May 2026 00:13:13 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Admirador de Trump, Milei y Bukele: así es Abelardo de la Espriella",
@@ -111,30 +183,6 @@
       "pubDate": "Tue, 26 May 2026 22:13:15 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Tras críticas a Fajardo, Paola Holguín hace apoyo público a Paloma",
-      "link": "https://www.lasillavacia.com/en-vivo/tras-criticas-a-fajardo-paola-holguin-hace-apoyo-publico-a-paloma/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 26 May 2026 19:40:01 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Estratos sociales y desigualdad: las brechas que definen el voto en Colombia (2/5)",
-      "link": "https://www.france24.com/es/video/20260526-estratos-sociales-y-desigualdad-las-brechas-que-definen-el-voto-en-colombia",
-      "source": "France 24",
-      "pubDate": "Tue, 26 May 2026 18:27:30 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "#ElFiltro: Imagen viral de Paloma Valencia con Ciro Ramírez y Andrés Felipe Arias fue creada con inteligencia artificial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-imagen-viral-de-paloma-valencia-con-ciro-ramirez-y-andres-felipe-arias-fue-creada-con-inteligencia-artificial-3558528",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-26T13:04:27-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
     }
   ]
 }
