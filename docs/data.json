@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T11:54:50.566Z",
+  "updatedAt": "2026-05-28T20:41:39.052Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 59,
+      "trendsScore": 61,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 62,
+      "finalScore": 63,
       "momentum": {
-        "value": -4.6,
-        "direction": "down"
+        "value": 1.6,
+        "direction": "flat"
       },
-      "probability": 28.4
+      "probability": 28.8
     },
     {
       "id": "abelardo_espriella",
@@ -42,7 +42,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 33.9
+      "probability": 33.8
     },
     {
       "id": "paloma_valencia",
@@ -60,10 +60,10 @@
       "youtubeViews": 282459,
       "finalScore": 41,
       "momentum": {
-        "value": -10.9,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 18.8
+      "probability": 18.7
     },
     {
       "id": "sergio_fajardo",
@@ -81,42 +81,82 @@
       "youtubeViews": 404432,
       "finalScore": 41,
       "momentum": {
-        "value": -2.4,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 18.8
+      "probability": 18.7
     }
   ],
   "articles": [
     {
-      "title": "Critican a Aida Quilcué, fórmula de Iván Cepeda, por decir que graduados de mejores universidades 'aprendieron a robarse la plata del pueblo'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/critican-a-aida-quilcue-candidata-vicepresidencial-por-decir-que-graduados-de-mejores-universidades-aprendieron-a-robarse-la-plata-del-pueblo-3558983",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-28T06:32:58-05:00",
+      "title": "Elecciones 2026: ONPE inicia envío de material electoral a regiones del sur del país",
+      "link": "https://www.infobae.com/peru/2026/05/28/elecciones-2026-onpe-inicia-envio-de-material-electoral-a-regiones-del-sur-del-pais/",
+      "source": "Infobae",
+      "pubDate": "Thu, 28 May 2026 20:38:35 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Lucas Arnau arremetió nuevamente contra Paloma Valencia: “Despierten de una vez”",
+      "link": "https://www.infobae.com/colombia/2026/05/28/lucas-arnau-arremetio-nuevamente-contra-paloma-valencia-despierten-de-una-vez/",
+      "source": "Infobae",
+      "pubDate": "Thu, 28 May 2026 20:18:19 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Revelan que a solo días de las elecciones, ningún candidato presidencial explicó su propuesta para cobrar impuestos y financiarse",
+      "link": "https://www.infobae.com/colombia/2026/05/28/revelan-que-a-solo-dias-de-las-elecciones-ningun-candidato-presidencial-explico-su-propuesta-para-cobrar-impuestos-y-financiarse/",
+      "source": "Infobae",
+      "pubDate": "Thu, 28 May 2026 20:11:18 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Juan Daniel Oviedo criticó al candidato Abelardo de la Espriella por no asistir al reto de debate en el Chorro de Quevedo: '¿Cuál es el miedo?'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/juan-daniel-oviedo-critico-al-candidato-abelardo-de-la-espriella-por-no-presentarse-a-debate-del-chorro-de-quevedo-al-que-lo-reto-no-tenga-excusas-3558958",
+      "title": "Elecciones 2026: fecha y horarios oficiales para el cierre de fronteras en Colombia por la primera vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-fecha-y-horarios-oficiales-para-el-cierre-de-fronteras-en-colombia-por-la-primera-vuelta-presidencial-3559101",
       "source": "El Tiempo",
-      "pubDate": "2026-05-27T23:15:19-05:00",
+      "pubDate": "2026-05-28T13:52:20-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Diario de Campaña: todos contra todos a 3 días de elecciones",
+      "link": "https://www.lasillavacia.com/en-vivo/diario-de-campana-todos-contra-todos-a-3-dias-de-elecciones/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 28 May 2026 18:31:39 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella: ‘Mi tarea será de cuatro años y, una vez concluya, me retiraré de la vida pública para siempre’",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-mi-tarea-sera-de-cuatro-anos-y-una-vez-concluya-me-retirare-de-la-vida-publica-para-siempre-3558910",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-27T23:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "¿Hay proselitismo armado en Putumayo en las presidenciales de 2026?",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-verde/hay-proselitismo-armado-en-putumayo-en-las-presidenciales-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 28 May 2026 18:09:13 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Iván Cepeda, el defensor de DD. HH. que promete profundizar el proyecto político de Petro",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260528-iv%C3%A1n-cepeda-elecciones-colombia-perfil-propuestas-pacto-hist%C3%B3rico",
+      "title": "Los recorridos y discursos paralelos de Petro y Cepeda en el Caribe en la última semana de la campaña presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-recorridos-y-discursos-paralelos-de-petro-y-cepeda-en-el-caribe-en-la-ultima-semana-de-la-campana-presidencial-3559058",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-28T11:30:49-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Directo Latam y el cierre de las campañas de los candidatos presidenciales en Colombia",
+      "link": "https://www.france24.com/es/video/20260528-directo-latam-y-el-cierre-de-las-campa%C3%B1as-de-los-candidatos-presidenciales-en-colombia",
       "source": "France 24",
-      "pubDate": "Thu, 28 May 2026 00:16:57 GMT",
+      "pubDate": "Thu, 28 May 2026 16:25:22 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Critican a Aida Quilcué, fórmula de Iván Cepeda, por decir que graduados de mejores universidades 'aprendieron a robarse la plata del pueblo'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/critican-a-aida-quilcue-candidata-vicepresidencial-por-decir-que-graduados-de-mejores-universidades-aprendieron-a-robarse-la-plata-del-pueblo-3558983",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-28T07:01:14-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
