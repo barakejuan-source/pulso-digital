@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T21:17:36.902Z",
+  "updatedAt": "2026-05-28T11:54:50.566Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 67,
+      "trendsScore": 59,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 65,
+      "finalScore": 62,
       "momentum": {
-        "value": -3,
-        "direction": "flat"
+        "value": -4.6,
+        "direction": "down"
       },
-      "probability": 28.6
+      "probability": 28.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 32.6
+      "probability": 33.9
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 51,
+      "trendsScore": 37,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 46,
+      "finalScore": 41,
       "momentum": {
-        "value": -11.5,
+        "value": -10.9,
         "direction": "down"
       },
-      "probability": 20.3
+      "probability": 18.8
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 16,
+      "trendsScore": 14,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -79,86 +79,46 @@
         "neutral": 29.2
       },
       "youtubeViews": 404432,
-      "finalScore": 42,
+      "finalScore": 41,
       "momentum": {
-        "value": 0,
+        "value": -2.4,
         "direction": "flat"
       },
-      "probability": 18.5
+      "probability": 18.8
     }
   ],
   "articles": [
     {
-      "title": "Ocho votantes cuentan cómo se informan antes de las elecciones",
-      "link": "https://www.lasillavacia.com/silla-nacional/ocho-votantes-cuentan-como-se-informan-antes-de-las-elecciones/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 27 May 2026 21:00:30 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Isabel Zuleta denunció la presunta promoción de grupos civiles armados para “contener” eventuales protestas tras las elecciones presidenciales ",
-      "link": "https://www.infobae.com/colombia/2026/05/27/isabel-zuleta-denuncio-la-presunta-promocion-de-grupos-civiles-armados-para-contener-eventuales-protestas-tras-las-elecciones-presidenciales/",
-      "source": "Infobae",
-      "pubDate": "Wed, 27 May 2026 20:51:55 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Álvaro Uribe lanzó ácido comentario contra quienes critican a Paloma Valencia: “¿Extrañados porque no les resultó...?\" ",
-      "link": "https://www.infobae.com/colombia/2026/05/27/alvaro-uribe-lanzo-un-sablazo-en-apoyo-a-paloma-valencia-extranados-porque-no-les-resulto-una-palomita-sino-una-palomota/",
-      "source": "Infobae",
-      "pubDate": "Wed, 27 May 2026 20:43:01 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Petro salió en defensa de ‘Nany’ Pardo tras denuncias de presunto acoso judicial de Abelardo de la Espriella: “Trata de destripar una persona”",
-      "link": "https://www.infobae.com/colombia/2026/05/27/petro-salio-en-defensa-de-nany-pardo-tras-denuncias-de-presunto-acoso-judicial-de-abelardo-de-la-espriella-trata-de-destripar-una-persona/",
-      "source": "Infobae",
-      "pubDate": "Wed, 27 May 2026 20:39:48 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Aída Quilcué confía en que, si es vice, tendrá autonomía en su cargo",
-      "link": "https://www.lasillavacia.com/en-vivo/aida-quilcue-confia-en-que-si-es-vice-tendra-autonomia-en-su-cargo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 27 May 2026 18:08:16 +0000",
+      "title": "Critican a Aida Quilcué, fórmula de Iván Cepeda, por decir que graduados de mejores universidades 'aprendieron a robarse la plata del pueblo'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/critican-a-aida-quilcue-candidata-vicepresidencial-por-decir-que-graduados-de-mejores-universidades-aprendieron-a-robarse-la-plata-del-pueblo-3558983",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-28T06:32:58-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Las niñas esposas del Talibán, una violencia blindada por ley en Afganistán",
-      "link": "https://www.france24.com/es/programas/ellas-hoy/20260527-las-ni%C3%B1as-esposas-del-talib%C3%A1n-una-violencia-blindada-por-ley-en-afganist%C3%A1n",
-      "source": "France 24",
-      "pubDate": "Wed, 27 May 2026 17:18:23 GMT",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Juan Daniel Oviedo, fórmula vicepresidencial de Paloma Valencia, retó a un debate a Abelardo de la Espriella a pocos días de las elecciones",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-formula-de-paloma-valencia-juan-daniel-oviedo-reta-a-un-debate-a-abelardo-de-la-espriella-a-pocos-dias-de-las-elecciones-presidenciales-3558744",
+      "title": "Juan Daniel Oviedo criticó al candidato Abelardo de la Espriella por no asistir al reto de debate en el Chorro de Quevedo: '¿Cuál es el miedo?'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/juan-daniel-oviedo-critico-al-candidato-abelardo-de-la-espriella-por-no-presentarse-a-debate-del-chorro-de-quevedo-al-que-lo-reto-no-tenga-excusas-3558958",
       "source": "El Tiempo",
-      "pubDate": "2026-05-27T11:30:34-05:00",
+      "pubDate": "2026-05-27T23:15:19-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Actos de campaña de Iván Cepeda en el Caribe generan nuevos cuestionamientos por proselitismo en medio de veda para actos públicos",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/actos-de-campana-de-ivan-cepeda-en-el-caribe-generan-nuevos-cuestionamientos-por-proselitismo-en-medio-de-veda-para-actos-publicos-3558716",
+      "title": "Abelardo de la Espriella: ‘Mi tarea será de cuatro años y, una vez concluya, me retiraré de la vida pública para siempre’",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-mi-tarea-sera-de-cuatro-anos-y-una-vez-concluya-me-retirare-de-la-vida-publica-para-siempre-3558910",
       "source": "El Tiempo",
-      "pubDate": "2026-05-27T09:22:06-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "2026-05-27T23:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Colombia: al menos 12 soldados heridos en un ataque del ELN a cuatro días de las presidenciales",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260527-colombia-al-menos-12-soldados-heridos-en-un-ataque-del-eln-a-cuatro-d%C3%ADas-de-las-presidenciales",
+      "title": "Iván Cepeda, el defensor de DD. HH. que promete profundizar el proyecto político de Petro",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260528-iv%C3%A1n-cepeda-elecciones-colombia-perfil-propuestas-pacto-hist%C3%B3rico",
       "source": "France 24",
-      "pubDate": "Wed, 27 May 2026 14:04:39 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Thu, 28 May 2026 00:16:57 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     }
   ]
 }
