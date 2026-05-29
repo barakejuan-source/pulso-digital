@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T20:41:39.052Z",
+  "updatedAt": "2026-05-29T10:59:50.000Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 61,
+      "trendsScore": 55,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 63,
+      "finalScore": 60,
       "momentum": {
-        "value": 1.6,
-        "direction": "flat"
+        "value": -4.8,
+        "direction": "down"
       },
-      "probability": 28.8
+      "probability": 27.9
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 33.8
+      "probability": 34.4
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 37,
+      "trendsScore": 36,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 41,
+      "finalScore": 40,
       "momentum": {
-        "value": 0,
+        "value": -2.4,
         "direction": "flat"
       },
-      "probability": 18.7
+      "probability": 18.6
     },
     {
       "id": "sergio_fajardo",
@@ -84,81 +84,81 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 18.7
+      "probability": 19.1
     }
   ],
   "articles": [
     {
-      "title": "Elecciones 2026: ONPE inicia envío de material electoral a regiones del sur del país",
-      "link": "https://www.infobae.com/peru/2026/05/28/elecciones-2026-onpe-inicia-envio-de-material-electoral-a-regiones-del-sur-del-pais/",
+      "title": "“Iván Cepeda no está preparado”: Sergio Fajardo asegura que el verdadero candidato es Gustavo Petro",
+      "link": "https://www.infobae.com/colombia/2026/05/29/ivan-cepeda-no-esta-preparado-sergio-fajardo-asegura-que-el-verdadero-candidato-es-gustavo-petro/",
       "source": "Infobae",
-      "pubDate": "Thu, 28 May 2026 20:38:35 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Lucas Arnau arremetió nuevamente contra Paloma Valencia: “Despierten de una vez”",
-      "link": "https://www.infobae.com/colombia/2026/05/28/lucas-arnau-arremetio-nuevamente-contra-paloma-valencia-despierten-de-una-vez/",
-      "source": "Infobae",
-      "pubDate": "Thu, 28 May 2026 20:18:19 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Revelan que a solo días de las elecciones, ningún candidato presidencial explicó su propuesta para cobrar impuestos y financiarse",
-      "link": "https://www.infobae.com/colombia/2026/05/28/revelan-que-a-solo-dias-de-las-elecciones-ningun-candidato-presidencial-explico-su-propuesta-para-cobrar-impuestos-y-financiarse/",
-      "source": "Infobae",
-      "pubDate": "Thu, 28 May 2026 20:11:18 +0000",
+      "pubDate": "Fri, 29 May 2026 10:05:00 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Elecciones 2026: fecha y horarios oficiales para el cierre de fronteras en Colombia por la primera vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-fecha-y-horarios-oficiales-para-el-cierre-de-fronteras-en-colombia-por-la-primera-vuelta-presidencial-3559101",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-28T13:52:20-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Petro pidió investigar al alcalde de Jericó por presunta censura contra publicidad de Iván Cepeda",
+      "link": "https://www.infobae.com/colombia/2026/05/29/petro-pidio-investigar-al-alcalde-de-jerico-por-presunta-censura-contra-publicidad-de-ivan-cepeda/",
+      "source": "Infobae",
+      "pubDate": "Fri, 29 May 2026 10:05:00 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "Diario de Campaña: todos contra todos a 3 días de elecciones",
-      "link": "https://www.lasillavacia.com/en-vivo/diario-de-campana-todos-contra-todos-a-3-dias-de-elecciones/",
+      "title": "Abelardo de la Espriella, una marca importada para la época",
+      "link": "https://www.lasillavacia.com/silla-nacional/abelardo-de-la-espriella-una-marca-importada-para-la-epoca/",
       "source": "La Silla Vacía",
-      "pubDate": "Thu, 28 May 2026 18:31:39 +0000",
+      "pubDate": "Fri, 29 May 2026 06:16:25 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "¿Hay proselitismo armado en Putumayo en las presidenciales de 2026?",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-verde/hay-proselitismo-armado-en-putumayo-en-las-presidenciales-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 28 May 2026 18:09:13 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Los recorridos y discursos paralelos de Petro y Cepeda en el Caribe en la última semana de la campaña presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-recorridos-y-discursos-paralelos-de-petro-y-cepeda-en-el-caribe-en-la-ultima-semana-de-la-campana-presidencial-3559058",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-28T11:30:49-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Directo Latam y el cierre de las campañas de los candidatos presidenciales en Colombia",
-      "link": "https://www.france24.com/es/video/20260528-directo-latam-y-el-cierre-de-las-campa%C3%B1as-de-los-candidatos-presidenciales-en-colombia",
+      "title": "Paloma Valencia: heredera política de Uribe que aspira a ser la primera mujer presidenta de Colombia",
+      "link": "https://www.france24.com/es/video/20260529-paloma-valencia-heredera-pol%C3%ADtica-de-uribe-que-aspira-a-ser-la-primera-mujer-presidenta-de-colombia",
       "source": "France 24",
-      "pubDate": "Thu, 28 May 2026 16:25:22 GMT",
+      "pubDate": "Fri, 29 May 2026 04:01:47 GMT",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Paloma: 'No ofrecemos espectáculos, sino certidumbre de gobernar bien, con experiencia, equipo y manos limpias' / entrevista de María Isabel Rueda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-no-ofrecemos-espectaculos-sino-certidumbre-de-gobernar-bien-con-experiencia-equipo-y-manos-limpias-entrevista-de-maria-isabel-rueda-3559245",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-28T23:01:00-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Miguel Uribe Londoño no renunció ni se unió a Iván Cepeda, imagen es IA",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/miguel-uribe-londono-no-renuncio-ni-se-unio-a-ivan-cepeda-imagen-es-ia/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 29 May 2026 00:26:23 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Critican a Aida Quilcué, fórmula de Iván Cepeda, por decir que graduados de mejores universidades 'aprendieron a robarse la plata del pueblo'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/critican-a-aida-quilcue-candidata-vicepresidencial-por-decir-que-graduados-de-mejores-universidades-aprendieron-a-robarse-la-plata-del-pueblo-3558983",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-28T07:01:14-05:00",
+      "title": "ELN se atribuyó el secuestro de hijo del exalcalde de Tame, Arauca",
+      "link": "https://www.lasillavacia.com/en-vivo/eln-se-atribuyo-el-secuestro-de-hijo-del-exalcalde-de-tame-arauca/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 28 May 2026 23:34:09 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Entre pujanza y violencia: ¿será Antioquia la región bisagra de las presidenciales en Colombia?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260528-entre-pujanza-y-violencia-ser%C3%A1-antioquia-la-regi%C3%B3n-bisagra-de-las-presidenciales-de-colombia",
+      "source": "France 24",
+      "pubDate": "Thu, 28 May 2026 23:25:37 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Uribe cuestiona que Cepeda quiera a Velásquez en su gabinete",
+      "link": "https://www.lasillavacia.com/en-vivo/uribe-cuestiona-que-cepeda-quiera-a-velasquez-en-su-gabinete/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 28 May 2026 21:42:37 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
