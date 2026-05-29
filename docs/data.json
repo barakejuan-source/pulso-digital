@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-29T10:59:50.000Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-05-29T20:42:35.747Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,8 +18,8 @@
       "youtubeViews": 393379,
       "finalScore": 60,
       "momentum": {
-        "value": -4.8,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 27.9
     },
@@ -60,7 +60,7 @@
       "youtubeViews": 282459,
       "finalScore": 40,
       "momentum": {
-        "value": -2.4,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 18.6
@@ -89,74 +89,66 @@
   ],
   "articles": [
     {
-      "title": "“Iván Cepeda no está preparado”: Sergio Fajardo asegura que el verdadero candidato es Gustavo Petro",
-      "link": "https://www.infobae.com/colombia/2026/05/29/ivan-cepeda-no-esta-preparado-sergio-fajardo-asegura-que-el-verdadero-candidato-es-gustavo-petro/",
-      "source": "Infobae",
-      "pubDate": "Fri, 29 May 2026 10:05:00 +0000",
+      "title": "Elecciones en Colombia: ¿qué proponen Iván Cepeda, Paloma Valencia y Abelardo de la Espriella?",
+      "link": "https://www.france24.com/es/programas/en-contexto/20260529-elecciones-en-colombia-qu%C3%A9-proponen-iv%C3%A1n-cepeda-paloma-valencia-y-abelardo-de-la-espriella",
+      "source": "France 24",
+      "pubDate": "Fri, 29 May 2026 20:29:22 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Petro pidió investigar al alcalde de Jericó por presunta censura contra publicidad de Iván Cepeda",
-      "link": "https://www.infobae.com/colombia/2026/05/29/petro-pidio-investigar-al-alcalde-de-jerico-por-presunta-censura-contra-publicidad-de-ivan-cepeda/",
-      "source": "Infobae",
-      "pubDate": "Fri, 29 May 2026 10:05:00 +0000",
+      "title": "Cepeda, Valencia y De la Espriella: tres candidatos con propuesta que dividen opiniones en Colombia",
+      "link": "https://www.france24.com/es/video/20260529-cepeda-valencia-y-de-la-espriella-tres-candidatos-con-propuesta-que-dividen-opiniones-en-colombia",
+      "source": "France 24",
+      "pubDate": "Fri, 29 May 2026 19:49:47 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Abelardo de la Espriella, una marca importada para la época",
-      "link": "https://www.lasillavacia.com/silla-nacional/abelardo-de-la-espriella-una-marca-importada-para-la-epoca/",
+      "title": "Diario de Campaña: la recta final hacia primera vuelta",
+      "link": "https://www.lasillavacia.com/en-vivo/diario-de-campana-asi-esta-la-recta-final-hacia-primera-vuelta/",
       "source": "La Silla Vacía",
-      "pubDate": "Fri, 29 May 2026 06:16:25 +0000",
+      "pubDate": "Fri, 29 May 2026 18:50:40 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "El Caquetá vota bajo presión armada y cansado de la extorsión ",
+      "link": "https://www.lasillavacia.com/silla-amazonia/el-caqueta-vota-bajo-presion-armada-y-cansado-de-la-extorsion/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 29 May 2026 17:16:19 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "La historia detrás de la pintura que está en la casa de Abelardo de la Espriella y el presidente Petro relacionó con la 'esclavitud'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-historia-detras-de-la-pintura-que-esta-en-la-casa-de-abelardo-de-la-espriella-y-el-presidente-petro-relaciono-con-la-esclavitud-3559310",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-29T11:52:45-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Paloma Valencia: heredera política de Uribe que aspira a ser la primera mujer presidenta de Colombia",
-      "link": "https://www.france24.com/es/video/20260529-paloma-valencia-heredera-pol%C3%ADtica-de-uribe-que-aspira-a-ser-la-primera-mujer-presidenta-de-colombia",
-      "source": "France 24",
-      "pubDate": "Fri, 29 May 2026 04:01:47 GMT",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Paloma: 'No ofrecemos espectáculos, sino certidumbre de gobernar bien, con experiencia, equipo y manos limpias' / entrevista de María Isabel Rueda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-no-ofrecemos-espectaculos-sino-certidumbre-de-gobernar-bien-con-experiencia-equipo-y-manos-limpias-entrevista-de-maria-isabel-rueda-3559245",
+      "title": "Excoordinador político de Paloma Valencia anuncia apoyo a Abelardo de la Espriella: campaña asegura que lo despidieron por maltrato hace tres meses",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/excoordinador-politico-de-paloma-valencia-anuncia-apoyo-a-abelardo-de-la-espriella-campana-asegura-que-lo-despidieron-por-maltrato-hace-tres-meses-3559356",
       "source": "El Tiempo",
-      "pubDate": "2026-05-28T23:01:00-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
+      "pubDate": "2026-05-29T10:28:12-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Miguel Uribe Londoño no renunció ni se unió a Iván Cepeda, imagen es IA",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/miguel-uribe-londono-no-renuncio-ni-se-unio-a-ivan-cepeda-imagen-es-ia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 29 May 2026 00:26:23 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "ELN se atribuyó el secuestro de hijo del exalcalde de Tame, Arauca",
-      "link": "https://www.lasillavacia.com/en-vivo/eln-se-atribuyo-el-secuestro-de-hijo-del-exalcalde-de-tame-arauca/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 28 May 2026 23:34:09 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Entre pujanza y violencia: ¿será Antioquia la región bisagra de las presidenciales en Colombia?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260528-entre-pujanza-y-violencia-ser%C3%A1-antioquia-la-regi%C3%B3n-bisagra-de-las-presidenciales-de-colombia",
+      "title": "¿Cuál es el panorama político en Colombia previo a la primera vuelta presidencial?",
+      "link": "https://www.france24.com/es/video/20260529-cu%C3%A1l-es-el-panorama-pol%C3%ADtico-en-colombia-previo-a-la-primera-vuelta-presidencial",
       "source": "France 24",
-      "pubDate": "Thu, 28 May 2026 23:25:37 GMT",
+      "pubDate": "Fri, 29 May 2026 14:54:49 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Uribe cuestiona que Cepeda quiera a Velásquez en su gabinete",
-      "link": "https://www.lasillavacia.com/en-vivo/uribe-cuestiona-que-cepeda-quiera-a-velasquez-en-su-gabinete/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 28 May 2026 21:42:37 +0000",
+      "title": "Quiénes son los principales candidatos para presidir Colombia y suceder a Petro ",
+      "link": "https://www.bbc.com/mundo/articles/cp8pp7m515jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Fri, 29 May 2026 11:07:08 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
