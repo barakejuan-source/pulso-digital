@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T12:06:23.842Z",
+  "updatedAt": "2026-05-30T17:47:48.320Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 53,
+      "trendsScore": 51,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -18,10 +18,10 @@
       "youtubeViews": 393379,
       "finalScore": 59,
       "momentum": {
-        "value": -1.7,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 27.4
+      "probability": 27.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 34.4
+      "probability": 34.3
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 38,
+      "trendsScore": 41,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 41,
+      "finalScore": 42,
       "momentum": {
-        "value": 2.5,
+        "value": 2.4,
         "direction": "flat"
       },
-      "probability": 19.1
+      "probability": 19.4
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 14,
+      "trendsScore": 13,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -84,10 +84,50 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 19.1
+      "probability": 19
     }
   ],
   "articles": [
+    {
+      "title": "Elecciones 2026: así puede consultar su puesto, barrio y mesa de votación",
+      "link": "https://www.infobae.com/tecno/2026/05/30/elecciones-2026-asi-puede-consultar-su-puesto-barrio-y-mesa-de-votacion/",
+      "source": "Infobae",
+      "pubDate": "Sat, 30 May 2026 17:13:35 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Denuncian a un candidato presidencial colombiano por presunta violencia intrafamiliar",
+      "link": "https://www.infobae.com/america/agencias/2026/05/30/denuncian-a-un-candidato-presidencial-colombiano-por-presunta-violencia-intrafamiliar/",
+      "source": "Infobae",
+      "pubDate": "Sat, 30 May 2026 17:01:31 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Exalcaldes de Antioquia anuncian respaldo a la candidatura de Paloma Valencia y Juan Daniel Oviedo a un día de las elecciones",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/exalcaldes-de-antioquia-anuncian-respaldo-a-la-candidatura-de-paloma-valencia-y-juan-daniel-oviedo-a-un-dia-de-las-elecciones-3559635",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-30T12:01:23-05:00",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "Qué hace un vocal de mesa en las elecciones presidenciales: estas son sus funciones y diferencias con el presidente y el vicepresidente del jurado",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-hace-un-vocal-de-mesa-en-las-elecciones-presidenciales-estas-son-sus-funciones-y-diferencias-con-el-presidente-y-el-vicepresidente-del-jurado-3559625",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-30T10:55:06-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones 2026 en Colombia: esto pasa si un jurado de votación abandona su mesa antes de terminar el conteo y el escrutinio",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-en-colombia-esto-pasa-si-un-jurado-de-votacion-abandona-su-mesa-antes-de-terminar-el-conteo-y-el-escrutinio-3559622",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-30T10:48:42-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "#ElFiltro: EL TIEMPO no publicó que Sofía Petro vaticinó 'estallido social' si gana Abelardo de la Espriella en elecciones 2026; es una imagen falsa",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-el-tiempo-no-publico-que-sofia-petro-vaticino-estallido-social-si-gana-abelardo-de-la-espriella-en-elecciones-2026-es-una-imagen-falsa-3559591",
@@ -129,30 +169,6 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Las últimas movidas de los candidatos presidenciales a horas de que se abran las urnas",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-ultimas-movidas-de-los-candidatos-presidenciales-a-horas-de-que-se-abran-las-urnas-3559546",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-29T19:44:43-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Noboa habla con Abelardo y anuncia que quitará aranceles el 1 de junio",
-      "link": "https://www.lasillavacia.com/en-vivo/noboa-habla-con-abelardo-y-anuncia-que-quitara-aranceles-el-1-de-junio/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 30 May 2026 00:40:25 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Colombia decide este domingo 31 de mayo: así llega el país a la cita en esta primera vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cepeda-paloma-abelardo-elecciones-colombia-decide-este-domingo-31-de-mayo-asi-llega-el-pais-a-la-cita-en-esta-primera-vuelta-3559432",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-29T19:16:59-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Clanes, poder y desigualdad: ¿puede el Caribe inclinar la balanza en las elecciones de Colombia?",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260530-clanes-poder-y-desigualdad-puede-el-caribe-inclinar-la-balanza-en-las-elecciones-de-colombia",
       "source": "France 24",
@@ -167,14 +183,6 @@
       "pubDate": "Fri, 29 May 2026 23:17:01 GMT",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Quiénes son los principales candidatos para presidir Colombia y suceder a Petro ",
-      "link": "https://www.bbc.com/mundo/articles/cp8pp7m515jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Fri, 29 May 2026 11:07:08 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
