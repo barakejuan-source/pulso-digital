@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T20:42:35.747Z",
+  "updatedAt": "2026-05-30T08:01:21.675Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -89,60 +89,84 @@
   ],
   "articles": [
     {
-      "title": "Elecciones en Colombia: ¿qué proponen Iván Cepeda, Paloma Valencia y Abelardo de la Espriella?",
-      "link": "https://www.france24.com/es/programas/en-contexto/20260529-elecciones-en-colombia-qu%C3%A9-proponen-iv%C3%A1n-cepeda-paloma-valencia-y-abelardo-de-la-espriella",
+      "title": "#ElFiltro: EL TIEMPO no publicó que Sofía Petro vaticinó 'estallido social' si gana Abelardo de la Espriella en elecciones 2026; es una imagen falsa",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-el-tiempo-no-publico-que-sofia-petro-vaticino-estallido-social-si-gana-abelardo-de-la-espriella-en-elecciones-2026-es-una-imagen-falsa-3559591",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-30T00:33:15-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "#ElFiltro: fórmula de Abelardo de la Espriella, José Manuel Restrepo, no estuvo a cargo de la venta de reservas de oro ni de deudas con el FMI",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-formula-de-abelardo-de-la-espriella-jose-manuel-restrepo-no-estuvo-a-cargo-de-la-venta-de-reservas-de-oro-ni-de-deudas-con-el-fmi-3559582",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-29T22:35:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Gustavo Petro cerró su gira de rendición de cuentas por el Caribe con ataques al candidato Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-cerro-su-gira-de-rendicion-de-cuentas-por-el-caribe-con-ataques-al-candidato-abelardo-de-la-espriella-3559567",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-29T21:34:13-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Paloma Valencia propuso sumar paramilitares a su posible Gobierno?: Esto es falso",
+      "link": "https://www.france24.com/es/programas/des-informando/20260530-paloma-valencia-propuso-sumar-paramilitares-a-su-posible-gobierno-esto-es-falso",
       "source": "France 24",
-      "pubDate": "Fri, 29 May 2026 20:29:22 GMT",
+      "pubDate": "Sat, 30 May 2026 02:29:19 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Cepeda, Valencia y De la Espriella: tres candidatos con propuesta que dividen opiniones en Colombia",
-      "link": "https://www.france24.com/es/video/20260529-cepeda-valencia-y-de-la-espriella-tres-candidatos-con-propuesta-que-dividen-opiniones-en-colombia",
+      "title": "¿Qué se juega Colombia en la primera vuelta de la elección presidencial?",
+      "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260530-qu%C3%A9-se-juega-colombia-en-la-primera-vuelta-de-la-elecci%C3%B3n-presidencial",
       "source": "France 24",
-      "pubDate": "Fri, 29 May 2026 19:49:47 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Diario de Campaña: la recta final hacia primera vuelta",
-      "link": "https://www.lasillavacia.com/en-vivo/diario-de-campana-asi-esta-la-recta-final-hacia-primera-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 29 May 2026 18:50:40 +0000",
+      "pubDate": "Sat, 30 May 2026 02:18:55 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "El Caquetá vota bajo presión armada y cansado de la extorsión ",
-      "link": "https://www.lasillavacia.com/silla-amazonia/el-caqueta-vota-bajo-presion-armada-y-cansado-de-la-extorsion/",
+      "title": "Las últimas movidas de los candidatos presidenciales a horas de que se abran las urnas",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-ultimas-movidas-de-los-candidatos-presidenciales-a-horas-de-que-se-abran-las-urnas-3559546",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-29T19:44:43-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Noboa habla con Abelardo y anuncia que quitará aranceles el 1 de junio",
+      "link": "https://www.lasillavacia.com/en-vivo/noboa-habla-con-abelardo-y-anuncia-que-quitara-aranceles-el-1-de-junio/",
       "source": "La Silla Vacía",
-      "pubDate": "Fri, 29 May 2026 17:16:19 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Sat, 30 May 2026 00:40:25 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "La historia detrás de la pintura que está en la casa de Abelardo de la Espriella y el presidente Petro relacionó con la 'esclavitud'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-historia-detras-de-la-pintura-que-esta-en-la-casa-de-abelardo-de-la-espriella-y-el-presidente-petro-relaciono-con-la-esclavitud-3559310",
+      "title": "Colombia decide este domingo 31 de mayo: así llega el país a la cita en esta primera vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cepeda-paloma-abelardo-elecciones-colombia-decide-este-domingo-31-de-mayo-asi-llega-el-pais-a-la-cita-en-esta-primera-vuelta-3559432",
       "source": "El Tiempo",
-      "pubDate": "2026-05-29T11:52:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "2026-05-29T19:16:59-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Excoordinador político de Paloma Valencia anuncia apoyo a Abelardo de la Espriella: campaña asegura que lo despidieron por maltrato hace tres meses",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/excoordinador-politico-de-paloma-valencia-anuncia-apoyo-a-abelardo-de-la-espriella-campana-asegura-que-lo-despidieron-por-maltrato-hace-tres-meses-3559356",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-29T10:28:12-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Cuál es el panorama político en Colombia previo a la primera vuelta presidencial?",
-      "link": "https://www.france24.com/es/video/20260529-cu%C3%A1l-es-el-panorama-pol%C3%ADtico-en-colombia-previo-a-la-primera-vuelta-presidencial",
+      "title": "Clanes, poder y desigualdad: ¿puede el Caribe inclinar la balanza en las elecciones de Colombia?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260530-clanes-poder-y-desigualdad-puede-el-caribe-inclinar-la-balanza-en-las-elecciones-de-colombia",
       "source": "France 24",
-      "pubDate": "Fri, 29 May 2026 14:54:49 GMT",
+      "pubDate": "Sat, 30 May 2026 00:08:49 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Juan Daniel Oviedo: del DANE a la carrera por la Vicepresidencia de Colombia",
+      "link": "https://www.france24.com/es/video/20260529-juan-daniel-oviedo-del-dane-a-la-carrera-por-la-vicepresidencia-de-colombia",
+      "source": "France 24",
+      "pubDate": "Fri, 29 May 2026 23:17:01 GMT",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
     },
     {
       "title": "Quiénes son los principales candidatos para presidir Colombia y suceder a Petro ",
