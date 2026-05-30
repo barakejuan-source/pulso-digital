@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T17:47:48.320Z",
+  "updatedAt": "2026-05-30T21:40:03.463Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 51,
+      "trendsScore": 52,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -21,7 +21,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 27.3
+      "probability": 27.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 34.3
+      "probability": 34.1
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 41,
+      "trendsScore": 43,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,12 +58,12 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 42,
+      "finalScore": 43,
       "momentum": {
         "value": 2.4,
         "direction": "flat"
       },
-      "probability": 19.4
+      "probability": 19.8
     },
     {
       "id": "sergio_fajardo",
@@ -84,25 +84,25 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 19
+      "probability": 18.9
     }
   ],
   "articles": [
     {
-      "title": "Elecciones 2026: así puede consultar su puesto, barrio y mesa de votación",
-      "link": "https://www.infobae.com/tecno/2026/05/30/elecciones-2026-asi-puede-consultar-su-puesto-barrio-y-mesa-de-votacion/",
+      "title": "Santiago Botero negó denuncias de violencia intrafamiliar y atribuyó el caso a un presunto ataque político: “Nos quieren frenar”",
+      "link": "https://www.infobae.com/colombia/2026/05/30/santiago-botero-nego-denuncias-de-violencia-intrafamiliar-y-atribuyo-el-caso-a-un-presunto-ataque-politico-nos-quieren-frenar/",
       "source": "Infobae",
-      "pubDate": "Sat, 30 May 2026 17:13:35 +0000",
+      "pubDate": "Sat, 30 May 2026 21:23:04 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Denuncian a un candidato presidencial colombiano por presunta violencia intrafamiliar",
-      "link": "https://www.infobae.com/america/agencias/2026/05/30/denuncian-a-un-candidato-presidencial-colombiano-por-presunta-violencia-intrafamiliar/",
-      "source": "Infobae",
-      "pubDate": "Sat, 30 May 2026 17:01:31 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "A horas de las elecciones presidenciales, Iván Cepeda dedicó buena parte de su discurso final a disipar dudas: 'Les reitero mi intención de diálogo'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/a-horas-de-las-elecciones-presidenciales-ivan-cepeda-dedico-buena-parte-de-su-discurso-final-a-disipar-dudas-les-reitero-mi-intencion-de-dialogo-3559662",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-30T15:38:58-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Exalcaldes de Antioquia anuncian respaldo a la candidatura de Paloma Valencia y Juan Daniel Oviedo a un día de las elecciones",
@@ -129,30 +129,6 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "#ElFiltro: EL TIEMPO no publicó que Sofía Petro vaticinó 'estallido social' si gana Abelardo de la Espriella en elecciones 2026; es una imagen falsa",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-el-tiempo-no-publico-que-sofia-petro-vaticino-estallido-social-si-gana-abelardo-de-la-espriella-en-elecciones-2026-es-una-imagen-falsa-3559591",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-30T00:33:15-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "#ElFiltro: fórmula de Abelardo de la Espriella, José Manuel Restrepo, no estuvo a cargo de la venta de reservas de oro ni de deudas con el FMI",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-formula-de-abelardo-de-la-espriella-jose-manuel-restrepo-no-estuvo-a-cargo-de-la-venta-de-reservas-de-oro-ni-de-deudas-con-el-fmi-3559582",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-29T22:35:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Gustavo Petro cerró su gira de rendición de cuentas por el Caribe con ataques al candidato Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-cerro-su-gira-de-rendicion-de-cuentas-por-el-caribe-con-ataques-al-candidato-abelardo-de-la-espriella-3559567",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-29T21:34:13-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "¿Paloma Valencia propuso sumar paramilitares a su posible Gobierno?: Esto es falso",
       "link": "https://www.france24.com/es/programas/des-informando/20260530-paloma-valencia-propuso-sumar-paramilitares-a-su-posible-gobierno-esto-es-falso",
       "source": "France 24",
@@ -169,20 +145,12 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Clanes, poder y desigualdad: ¿puede el Caribe inclinar la balanza en las elecciones de Colombia?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260530-clanes-poder-y-desigualdad-puede-el-caribe-inclinar-la-balanza-en-las-elecciones-de-colombia",
-      "source": "France 24",
-      "pubDate": "Sat, 30 May 2026 00:08:49 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Juan Daniel Oviedo: del DANE a la carrera por la Vicepresidencia de Colombia",
-      "link": "https://www.france24.com/es/video/20260529-juan-daniel-oviedo-del-dane-a-la-carrera-por-la-vicepresidencia-de-colombia",
-      "source": "France 24",
-      "pubDate": "Fri, 29 May 2026 23:17:01 GMT",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
+      "title": "Quiénes son los principales candidatos para presidir Colombia y suceder a Petro ",
+      "link": "https://www.bbc.com/mundo/articles/cp8pp7m515jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Fri, 29 May 2026 11:07:08 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
