@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T08:31:31.569Z",
+  "updatedAt": "2026-05-31T15:06:37.687Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 45,
+      "trendsScore": 47,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 56,
+      "finalScore": 57,
       "momentum": {
-        "value": -5.1,
-        "direction": "down"
+        "value": 1.8,
+        "direction": "flat"
       },
-      "probability": 26.3
+      "probability": 26.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 34.7
+      "probability": 34.6
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 41,
+      "trendsScore": 42,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 42,
+      "finalScore": 43,
       "momentum": {
-        "value": -2.3,
+        "value": 2.4,
         "direction": "flat"
       },
-      "probability": 19.7
+      "probability": 20.1
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 12,
+      "trendsScore": 11,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -79,28 +79,100 @@
         "neutral": 29.2
       },
       "youtubeViews": 404432,
-      "finalScore": 41,
+      "finalScore": 40,
       "momentum": {
-        "value": 0,
+        "value": -2.4,
         "direction": "flat"
       },
-      "probability": 19.2
+      "probability": 18.7
     }
   ],
   "articles": [
     {
-      "title": "Sergio Fajardo envía mensaje a sus contrincantes y exige más debates ante una eventual segunda vuelta a un día de las elecciones: 'Les deseo lo mejor'",
-      "link": "https://www.eltiempo.com/politica/gobierno/sergio-fajardo-envia-mensaje-a-sus-contrincantes-y-exige-mas-debates-ante-una-eventual-segunda-vuelta-a-un-dia-de-las-elecciones-les-deseo-lo-mejor-3559719",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-30T22:42:34-05:00",
-      "candidateId": "sergio_fajardo",
-      "candidateColor": "#2A9D8F"
+      "title": "Paloma Valencia pide elegir una mujer presidenta de Colombia al acompañar a Uribe a votar",
+      "link": "https://www.infobae.com/america/agencias/2026/05/31/paloma-valencia-pide-elegir-una-mujer-presidenta-de-colombia-al-acompanar-a-uribe-a-votar/",
+      "source": "Infobae",
+      "pubDate": "Sun, 31 May 2026 15:01:51 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
     },
     {
-      "title": "Colombia está lista para votar en unas elecciones trascendentales",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/colombia-esta-lista-para-votar-en-unas-elecciones-trascendentales-3559675",
+      "title": "Paloma Valencia pide elegir a una mujer como presidenta de Colombia al acompañar al expresidente Álvaro Uribe a votar",
+      "link": "https://www.infobae.com/america/agencias/2026/05/31/paloma-valencia-pide-elegir-a-una-mujer-como-presidenta-de-colombia-al-acompanar-al-expresidente-alvaro-uribe-a-votar/",
+      "source": "Infobae",
+      "pubDate": "Sun, 31 May 2026 15:00:24 +0000",
+      "candidateId": "paloma_valencia",
+      "candidateColor": "#457B9D"
+    },
+    {
+      "title": "La USO anunció que no apoyará a Iván Cepeda en la carrera presidencial: “Solo puede ser sostenible si se fortalece su negocio original” ",
+      "link": "https://www.infobae.com/colombia/2026/05/31/la-uso-anuncio-que-no-apoyara-a-ivan-cepeda-en-la-carrera-presidencial-solo-puede-ser-sostenible-si-se-fortalece-su-negocio-original/",
+      "source": "Infobae",
+      "pubDate": "Sun, 31 May 2026 14:53:37 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo vota en Barranquilla prometiendo ganar en primera vuelta ",
+      "link": "https://www.lasillavacia.com/en-vivo/abelardo-vota-en-barranquilla-prometiendo-ganar-en-primera-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 31 May 2026 14:51:34 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Andrés Cepeda habló de la confusión de su apellido con el de un candidato presidencial en redes sociales: “Mi postura es unir, no dividir” ",
+      "link": "https://www.infobae.com/colombia/2026/05/31/andres-cepeda-hablo-de-la-confusion-de-su-apellido-con-el-de-un-candidato-presidencial-en-redes-sociales-mi-postura-es-unir-no-dividir/",
+      "source": "Infobae",
+      "pubDate": "Sun, 31 May 2026 14:42:37 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "El Congreso que le esperaría a Iván Cepeda: fragmentado, con memoria y sin mayorías automáticas",
+      "link": "https://www.infobae.com/colombia/2026/05/31/el-congreso-que-le-esperaria-a-ivan-cepeda-fragmentado-con-memoria-y-sin-mayorias-automaticas/",
+      "source": "Infobae",
+      "pubDate": "Sun, 31 May 2026 14:41:48 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Bogotá: En Ciudad Bolívar, el Pacto busca sacar más de 170 mil votos",
+      "link": "https://www.lasillavacia.com/en-vivo/bogota-en-ciudad-bolivar-el-pacto-busca-sacar-mas-de-170-mil-votos/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 31 May 2026 14:40:37 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "‘Los colombianos quieren vivir sin miedo’: el mensaje de José Manuel Restrepo al inicio de las elecciones presidenciales",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-colombianos-quieren-vivir-sin-miedo-el-mensaje-de-jose-manuel-restrepo-al-inicio-de-las-elecciones-presidenciales-3559734",
       "source": "El Tiempo",
-      "pubDate": "2026-05-30T22:01:00-05:00",
+      "pubDate": "2026-05-31T09:28:30-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Quiénes son los principales candidatos para presidir Colombia y suceder a Petro ",
+      "link": "https://www.bbc.com/mundo/articles/cp8pp7m515jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Sun, 31 May 2026 14:11:53 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Informe desde Bogotá: abren las mesas de votación en Colombia para elegir nuevo presidente",
+      "link": "https://www.france24.com/es/video/20260531-informe-desde-bogot%C3%A1-abren-las-mesas-de-votaci%C3%B3n-en-colombia-para-elegir-nuevo-presidente",
+      "source": "France 24",
+      "pubDate": "Sun, 31 May 2026 13:38:17 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones en Colombia: los primeros candidatos comienzan a depositar su voto",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260531-colombia-va-a-las-urnas-para-consolidar-la-izquierda-o-devolver-el-poder-a-la-derecha",
+      "source": "France 24",
+      "pubDate": "Sun, 31 May 2026 12:18:17 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -109,46 +181,6 @@
       "link": "https://www.lasillavacia.com/silla-nacional/datos-clave-para-leer-la-primera-vuelta-presidencial-de-2026/",
       "source": "La Silla Vacía",
       "pubDate": "Sun, 31 May 2026 01:34:31 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Cepeda dará su última entrevista a Coronell",
-      "link": "https://www.lasillavacia.com/en-vivo/cepeda-dara-su-ultima-entrevista-a-coronell/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 31 May 2026 00:10:02 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "María Fernanda Cabal se distancia del uribismo",
-      "link": "https://www.lasillavacia.com/en-vivo/maria-fernanda-cabal-se-distancia-del-uribismo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 31 May 2026 00:04:40 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cepeda y Abelardo se disputan el primer lugar en Google Trends",
-      "link": "https://www.lasillavacia.com/en-vivo/cepeda-y-abelardo-se-disputan-el-primer-lugar-en-google-trends/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 30 May 2026 23:37:59 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Cepeda llega a primera vuelta sin revelar sus asesores económicos",
-      "link": "https://www.lasillavacia.com/en-vivo/cepeda-llega-a-primera-vuelta-sin-revelar-sus-asesores-economicos/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 30 May 2026 22:26:12 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Quiénes son los principales candidatos para presidir Colombia y suceder a Petro ",
-      "link": "https://www.bbc.com/mundo/articles/cp8pp7m515jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Fri, 29 May 2026 11:07:08 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
