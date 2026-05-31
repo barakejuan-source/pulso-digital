@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T21:40:03.463Z",
+  "updatedAt": "2026-05-31T08:31:31.569Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 52,
+      "trendsScore": 45,
       "youtubeScore": 97,
       "sentimentScore": 30,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 31.3
       },
       "youtubeViews": 393379,
-      "finalScore": 59,
+      "finalScore": 56,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -5.1,
+        "direction": "down"
       },
-      "probability": 27.2
+      "probability": 26.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,14 +42,14 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 34.1
+      "probability": 34.7
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 43,
+      "trendsScore": 41,
       "youtubeScore": 70,
       "sentimentScore": 16,
       "sentimentPct": {
@@ -58,19 +58,19 @@
         "neutral": 27.7
       },
       "youtubeViews": 282459,
-      "finalScore": 43,
+      "finalScore": 42,
       "momentum": {
-        "value": 2.4,
+        "value": -2.3,
         "direction": "flat"
       },
-      "probability": 19.8
+      "probability": 19.7
     },
     {
       "id": "sergio_fajardo",
       "name": "Sergio Fajardo",
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
-      "trendsScore": 13,
+      "trendsScore": 12,
       "youtubeScore": 100,
       "sentimentScore": 19,
       "sentimentPct": {
@@ -84,65 +84,65 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 18.9
+      "probability": 19.2
     }
   ],
   "articles": [
     {
-      "title": "Santiago Botero negó denuncias de violencia intrafamiliar y atribuyó el caso a un presunto ataque político: “Nos quieren frenar”",
-      "link": "https://www.infobae.com/colombia/2026/05/30/santiago-botero-nego-denuncias-de-violencia-intrafamiliar-y-atribuyo-el-caso-a-un-presunto-ataque-politico-nos-quieren-frenar/",
-      "source": "Infobae",
-      "pubDate": "Sat, 30 May 2026 21:23:04 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Sergio Fajardo envía mensaje a sus contrincantes y exige más debates ante una eventual segunda vuelta a un día de las elecciones: 'Les deseo lo mejor'",
+      "link": "https://www.eltiempo.com/politica/gobierno/sergio-fajardo-envia-mensaje-a-sus-contrincantes-y-exige-mas-debates-ante-una-eventual-segunda-vuelta-a-un-dia-de-las-elecciones-les-deseo-lo-mejor-3559719",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-30T22:42:34-05:00",
+      "candidateId": "sergio_fajardo",
+      "candidateColor": "#2A9D8F"
     },
     {
-      "title": "A horas de las elecciones presidenciales, Iván Cepeda dedicó buena parte de su discurso final a disipar dudas: 'Les reitero mi intención de diálogo'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/a-horas-de-las-elecciones-presidenciales-ivan-cepeda-dedico-buena-parte-de-su-discurso-final-a-disipar-dudas-les-reitero-mi-intencion-de-dialogo-3559662",
+      "title": "Colombia está lista para votar en unas elecciones trascendentales",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/colombia-esta-lista-para-votar-en-unas-elecciones-trascendentales-3559675",
       "source": "El Tiempo",
-      "pubDate": "2026-05-30T15:38:58-05:00",
+      "pubDate": "2026-05-30T22:01:00-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Exalcaldes de Antioquia anuncian respaldo a la candidatura de Paloma Valencia y Juan Daniel Oviedo a un día de las elecciones",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/exalcaldes-de-antioquia-anuncian-respaldo-a-la-candidatura-de-paloma-valencia-y-juan-daniel-oviedo-a-un-dia-de-las-elecciones-3559635",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-30T12:01:23-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Qué hace un vocal de mesa en las elecciones presidenciales: estas son sus funciones y diferencias con el presidente y el vicepresidente del jurado",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-hace-un-vocal-de-mesa-en-las-elecciones-presidenciales-estas-son-sus-funciones-y-diferencias-con-el-presidente-y-el-vicepresidente-del-jurado-3559625",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-30T10:55:06-05:00",
+      "title": "Datos clave para leer la primera vuelta presidencial de 2026",
+      "link": "https://www.lasillavacia.com/silla-nacional/datos-clave-para-leer-la-primera-vuelta-presidencial-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 31 May 2026 01:34:31 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones 2026 en Colombia: esto pasa si un jurado de votación abandona su mesa antes de terminar el conteo y el escrutinio",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-en-colombia-esto-pasa-si-un-jurado-de-votacion-abandona-su-mesa-antes-de-terminar-el-conteo-y-el-escrutinio-3559622",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-30T10:48:42-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Paloma Valencia propuso sumar paramilitares a su posible Gobierno?: Esto es falso",
-      "link": "https://www.france24.com/es/programas/des-informando/20260530-paloma-valencia-propuso-sumar-paramilitares-a-su-posible-gobierno-esto-es-falso",
-      "source": "France 24",
-      "pubDate": "Sat, 30 May 2026 02:29:19 GMT",
+      "title": "Cepeda dará su última entrevista a Coronell",
+      "link": "https://www.lasillavacia.com/en-vivo/cepeda-dara-su-ultima-entrevista-a-coronell/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 31 May 2026 00:10:02 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "¿Qué se juega Colombia en la primera vuelta de la elección presidencial?",
-      "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260530-qu%C3%A9-se-juega-colombia-en-la-primera-vuelta-de-la-elecci%C3%B3n-presidencial",
-      "source": "France 24",
-      "pubDate": "Sat, 30 May 2026 02:18:55 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "María Fernanda Cabal se distancia del uribismo",
+      "link": "https://www.lasillavacia.com/en-vivo/maria-fernanda-cabal-se-distancia-del-uribismo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 31 May 2026 00:04:40 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Cepeda y Abelardo se disputan el primer lugar en Google Trends",
+      "link": "https://www.lasillavacia.com/en-vivo/cepeda-y-abelardo-se-disputan-el-primer-lugar-en-google-trends/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 30 May 2026 23:37:59 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Cepeda llega a primera vuelta sin revelar sus asesores económicos",
+      "link": "https://www.lasillavacia.com/en-vivo/cepeda-llega-a-primera-vuelta-sin-revelar-sus-asesores-economicos/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 30 May 2026 22:26:12 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Quiénes son los principales candidatos para presidir Colombia y suceder a Petro ",
