@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T15:06:37.687Z",
+  "updatedAt": "2026-05-31T20:01:29.804Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -8,20 +8,20 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 47,
-      "youtubeScore": 97,
-      "sentimentScore": 30,
+      "youtubeScore": 100,
+      "sentimentScore": 26,
       "sentimentPct": {
-        "positive": 30.3,
-        "negative": 38.3,
-        "neutral": 31.3
+        "positive": 26,
+        "negative": 40,
+        "neutral": 34
       },
-      "youtubeViews": 393379,
+      "youtubeViews": 123852,
       "finalScore": 57,
       "momentum": {
-        "value": 1.8,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 26.6
+      "probability": 48.7
     },
     {
       "id": "abelardo_espriella",
@@ -29,41 +29,41 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 84,
-      "sentimentScore": 29,
+      "youtubeScore": 0,
+      "sentimentScore": 0,
       "sentimentPct": {
-        "positive": 29.2,
-        "negative": 41.6,
-        "neutral": 29.2
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
       },
-      "youtubeViews": 339490,
-      "finalScore": 74,
+      "youtubeViews": 0,
+      "finalScore": 40,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -45.9,
+        "direction": "down"
       },
-      "probability": 34.6
+      "probability": 34.2
     },
     {
       "id": "paloma_valencia",
       "name": "Paloma Valencia",
       "party": "Centro Democrático",
       "color": "#457B9D",
-      "trendsScore": 42,
-      "youtubeScore": 70,
-      "sentimentScore": 16,
+      "trendsScore": 40,
+      "youtubeScore": 0,
+      "sentimentScore": 0,
       "sentimentPct": {
-        "positive": 16.4,
-        "negative": 55.9,
-        "neutral": 27.7
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
       },
-      "youtubeViews": 282459,
-      "finalScore": 43,
+      "youtubeViews": 0,
+      "finalScore": 16,
       "momentum": {
-        "value": 2.4,
-        "direction": "flat"
+        "value": -62.8,
+        "direction": "down"
       },
-      "probability": 20.1
+      "probability": 13.7
     },
     {
       "id": "sergio_fajardo",
@@ -71,116 +71,116 @@
       "party": "Coalición Centro Esperanza",
       "color": "#2A9D8F",
       "trendsScore": 11,
-      "youtubeScore": 100,
-      "sentimentScore": 19,
+      "youtubeScore": 0,
+      "sentimentScore": 0,
       "sentimentPct": {
-        "positive": 18.8,
-        "negative": 52,
-        "neutral": 29.2
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
       },
-      "youtubeViews": 404432,
-      "finalScore": 40,
+      "youtubeViews": 0,
+      "finalScore": 4,
       "momentum": {
-        "value": -2.4,
-        "direction": "flat"
+        "value": -90,
+        "direction": "down"
       },
-      "probability": 18.7
+      "probability": 3.4
     }
   ],
   "articles": [
     {
-      "title": "Paloma Valencia pide elegir una mujer presidenta de Colombia al acompañar a Uribe a votar",
-      "link": "https://www.infobae.com/america/agencias/2026/05/31/paloma-valencia-pide-elegir-una-mujer-presidenta-de-colombia-al-acompanar-a-uribe-a-votar/",
+      "title": "Elecciones en Colombia 2026, EN VIVO: la candidata presidencial Paloma Valencia votó en Bogotá y criticó  “la política del show y las alianzas con criminales”    ",
+      "link": "https://www.infobae.com/colombia/2026/05/31/elecciones-en-colombia-2026-en-vivo-reporte-de-orden-publico-apertura-de-mesas-y-noticias-relevantes-hoy-31-de-mayo/",
       "source": "Infobae",
-      "pubDate": "Sun, 31 May 2026 15:01:51 +0000",
+      "pubDate": "Sun, 31 May 2026 20:00:09 +0000",
       "candidateId": "paloma_valencia",
       "candidateColor": "#457B9D"
     },
     {
-      "title": "Paloma Valencia pide elegir a una mujer como presidenta de Colombia al acompañar al expresidente Álvaro Uribe a votar",
-      "link": "https://www.infobae.com/america/agencias/2026/05/31/paloma-valencia-pide-elegir-a-una-mujer-como-presidenta-de-colombia-al-acompanar-al-expresidente-alvaro-uribe-a-votar/",
+      "title": "Elecciones presidenciales 2026: ya votaron los demás candidatos presidenciales; incluyendo a Iván Cepeda, Abelardo de la Espriella, Paloma Valencia",
+      "link": "https://www.infobae.com/colombia/2026/05/31/elecciones-presidenciales-2026-ya-votaron-los-demas-candidatos-presidenciales-incluyendo-a-ivan-cepeda-abelardo-de-la-espriella-paloma-valencia/",
       "source": "Infobae",
-      "pubDate": "Sun, 31 May 2026 15:00:24 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "La USO anunció que no apoyará a Iván Cepeda en la carrera presidencial: “Solo puede ser sostenible si se fortalece su negocio original” ",
-      "link": "https://www.infobae.com/colombia/2026/05/31/la-uso-anuncio-que-no-apoyara-a-ivan-cepeda-en-la-carrera-presidencial-solo-puede-ser-sostenible-si-se-fortalece-su-negocio-original/",
-      "source": "Infobae",
-      "pubDate": "Sun, 31 May 2026 14:53:37 +0000",
+      "pubDate": "Sun, 31 May 2026 19:57:59 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Abelardo vota en Barranquilla prometiendo ganar en primera vuelta ",
-      "link": "https://www.lasillavacia.com/en-vivo/abelardo-vota-en-barranquilla-prometiendo-ganar-en-primera-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 31 May 2026 14:51:34 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Andrés Cepeda habló de la confusión de su apellido con el de un candidato presidencial en redes sociales: “Mi postura es unir, no dividir” ",
-      "link": "https://www.infobae.com/colombia/2026/05/31/andres-cepeda-hablo-de-la-confusion-de-su-apellido-con-el-de-un-candidato-presidencial-en-redes-sociales-mi-postura-es-unir-no-dividir/",
+      "title": "Elecciones 2026: más de 6 millones de personas habilitadas para votar en Bogotá en primera vuelta presidencial",
+      "link": "https://www.infobae.com/colombia/2026/05/25/elecciones-2026-mas-de-6-millones-de-personas-habilitadas-para-votar-en-bogota-en-primera-vuelta-presidencial/",
       "source": "Infobae",
-      "pubDate": "Sun, 31 May 2026 14:42:37 +0000",
+      "pubDate": "Sun, 31 May 2026 19:41:43 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "El Congreso que le esperaría a Iván Cepeda: fragmentado, con memoria y sin mayorías automáticas",
-      "link": "https://www.infobae.com/colombia/2026/05/31/el-congreso-que-le-esperaria-a-ivan-cepeda-fragmentado-con-memoria-y-sin-mayorias-automaticas/",
+      "title": "Gobernabilidad en disputa: los retos diferenciados de Paloma Valencia y Abelardo de la Espriella para articular mayorías en un Congreso fragmentado",
+      "link": "https://www.infobae.com/colombia/2026/05/31/gobernabilidad-en-disputa-los-retos-diferenciados-de-paloma-valencia-y-abelardo-de-la-espriella-para-articular-mayorias-en-un-congreso-fragmentado/",
       "source": "Infobae",
-      "pubDate": "Sun, 31 May 2026 14:41:48 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Bogotá: En Ciudad Bolívar, el Pacto busca sacar más de 170 mil votos",
-      "link": "https://www.lasillavacia.com/en-vivo/bogota-en-ciudad-bolivar-el-pacto-busca-sacar-mas-de-170-mil-votos/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 31 May 2026 14:40:37 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "‘Los colombianos quieren vivir sin miedo’: el mensaje de José Manuel Restrepo al inicio de las elecciones presidenciales",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-colombianos-quieren-vivir-sin-miedo-el-mensaje-de-jose-manuel-restrepo-al-inicio-de-las-elecciones-presidenciales-3559734",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-31T09:28:30-05:00",
+      "pubDate": "Sun, 31 May 2026 19:33:20 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Quiénes son los principales candidatos para presidir Colombia y suceder a Petro ",
-      "link": "https://www.bbc.com/mundo/articles/cp8pp7m515jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Sun, 31 May 2026 14:11:53 GMT",
+      "title": "Elecciones 2026: prohibición de difusión de encuestas electorales y otras entran en efecto desde mañana",
+      "link": "https://www.infobae.com/peru/2026/05/31/elecciones-2026-prohibicion-de-difusion-de-encuestas-electorales-y-otras-entran-en-efecto-desde-manana/",
+      "source": "Infobae",
+      "pubDate": "Sun, 31 May 2026 19:13:31 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Informe desde Bogotá: abren las mesas de votación en Colombia para elegir nuevo presidente",
-      "link": "https://www.france24.com/es/video/20260531-informe-desde-bogot%C3%A1-abren-las-mesas-de-votaci%C3%B3n-en-colombia-para-elegir-nuevo-presidente",
-      "source": "France 24",
-      "pubDate": "Sun, 31 May 2026 13:38:17 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones en Colombia: los primeros candidatos comienzan a depositar su voto",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260531-colombia-va-a-las-urnas-para-consolidar-la-izquierda-o-devolver-el-poder-a-la-derecha",
-      "source": "France 24",
-      "pubDate": "Sun, 31 May 2026 12:18:17 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Datos clave para leer la primera vuelta presidencial de 2026",
-      "link": "https://www.lasillavacia.com/silla-nacional/datos-clave-para-leer-la-primera-vuelta-presidencial-de-2026/",
+      "title": "El Pacto está confiado y Cepeda le pide a sus rivales respetar los resultados",
+      "link": "https://www.lasillavacia.com/en-vivo/el-pacto-esta-confiado-y-cepeda-le-pide-a-sus-rivales-respetar-los-resultados/",
       "source": "La Silla Vacía",
-      "pubDate": "Sun, 31 May 2026 01:34:31 +0000",
+      "pubDate": "Sun, 31 May 2026 17:58:48 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella, candidato presidencial, ejerció su derecho al voto desde Barranquilla: 'La elección más importante en la historia del país'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-candidato-presidencial-ejercio-su-derecho-al-voto-desde-barranquilla-la-eleccion-mas-importante-en-la-historia-del-pais-3560545",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-31T12:10:59-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "En VIVO | Elecciones presidenciales 2026: siga la jornada de votación en LA PRIMAVERA, VICHADA últimas noticias",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/en-vivo-elecciones-presidenciales-2026-siga-la-jornada-de-votacion-en-la-primavera-vichada-ultimas-noticias-3560873",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-31T11:56:57-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "En VIVO | Elecciones presidenciales 2026: siga la jornada de votación en CUMARIBO, VICHADA últimas noticias",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/en-vivo-elecciones-presidenciales-2026-siga-la-jornada-de-votacion-en-cumaribo-vichada-ultimas-noticias-3560872",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-31T11:56:56-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "En VIVO | Elecciones presidenciales 2026: siga la jornada de votación en SANTA ROSALÍA, VICHADA últimas noticias",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/en-vivo-elecciones-presidenciales-2026-siga-la-jornada-de-votacion-en-santa-rosalia-vichada-ultimas-noticias-3560871",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-31T11:56:56-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "En VIVO | Elecciones presidenciales 2026: siga la jornada de votación en PUERTO CARREÑO, VICHADA últimas noticias",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/en-vivo-elecciones-presidenciales-2026-siga-la-jornada-de-votacion-en-puerto-carreno-vichada-ultimas-noticias-3560870",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-31T11:56:55-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "En VIVO | Elecciones presidenciales 2026: siga la jornada de votación en YAVARATÉ, VAUPÉS últimas noticias",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/en-vivo-elecciones-presidenciales-2026-siga-la-jornada-de-votacion-en-yavarate-vaupes-ultimas-noticias-3560869",
+      "source": "El Tiempo",
+      "pubDate": "2026-05-31T11:56:54-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
