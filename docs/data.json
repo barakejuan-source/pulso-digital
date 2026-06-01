@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-01T19:02:47.873Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-01T21:02:57.454Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -9,19 +9,19 @@
       "color": "#E63946",
       "trendsScore": 31,
       "youtubeScore": 100,
-      "sentimentScore": 15,
+      "sentimentScore": 13,
       "sentimentPct": {
-        "positive": 15.3,
-        "negative": 62,
-        "neutral": 22.7
+        "positive": 12.7,
+        "negative": 64.3,
+        "neutral": 23
       },
-      "youtubeViews": 520937,
-      "finalScore": 47,
+      "youtubeViews": 375057,
+      "finalScore": 46,
       "momentum": {
-        "value": 2.2,
+        "value": -2.1,
         "direction": "flat"
       },
-      "probability": 42.7
+      "probability": 46
     },
     {
       "id": "abelardo_espriella",
@@ -29,20 +29,20 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 54,
-      "sentimentScore": 21,
+      "youtubeScore": 28,
+      "sentimentScore": 20,
       "sentimentPct": {
-        "positive": 20.8,
-        "negative": 49.6,
-        "neutral": 29.6
+        "positive": 20.4,
+        "negative": 50.8,
+        "neutral": 28.8
       },
-      "youtubeViews": 270845,
-      "finalScore": 63,
+      "youtubeViews": 86671,
+      "finalScore": 54,
       "momentum": {
-        "value": 5,
-        "direction": "up"
+        "value": -14.3,
+        "direction": "down"
       },
-      "probability": 57.3
+      "probability": 54
     }
   ],
   "articles": [
@@ -50,95 +50,95 @@
       "title": "Así te lo contamos: De la Espriella y Cepeda pelearán por la presidencia de Colombia en segunda vuelta",
       "link": "https://www.bbc.co.uk/mundo/live/c62r12yy04xt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-06-01T19:02:47.766Z",
+      "pubDate": "2026-06-01T21:02:57.324Z",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "EN VIVO|Elecciones en Colombia 2026: Con llamado a debate y posibles amenazas de fraude, Iván Cepeda y Abelardo de la Espriella se vuelven a enfrentar",
-      "link": "https://www.infobae.com/colombia/2026/05/31/elecciones-en-colombia-2026-en-vivo-reporte-de-orden-publico-apertura-de-mesas-y-noticias-relevantes-hoy-31-de-mayo/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:57:16 +0000",
+      "title": "El Pacto no sabe qué hacer con la camiseta de la Selección Colombia",
+      "link": "https://www.lasillavacia.com/en-vivo/el-pacto-no-sabe-que-hacer-con-la-camiseta-de-la-seleccion-colombia/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 01 Jun 2026 21:00:42 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Álvaro Uribe confirmó que el Centro Democrático citó a su bancada para iniciar campaña por Abelardo de La Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/01/alvaro-uribe-confirmo-que-el-centro-democratico-cito-a-su-bancada-para-iniciar-campana-por-abelardo-de-la-espriella/",
+      "title": "Los resultados de las elecciones generan buenas noticias para la economía: así impactó la victoria de Abelardo de la Espriella a la deuda",
+      "link": "https://www.infobae.com/colombia/2026/06/01/los-resultados-de-las-elecciones-generan-buenas-noticias-para-la-economia-asi-impacto-la-victoria-de-abelardo-de-la-espriella-a-la-deuda/",
       "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:46:44 +0000",
+      "pubDate": "Mon, 01 Jun 2026 20:51:55 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Así se distribuirían los apoyos por partidos para Iván Cepeda y Abelardo de la Espriella de cara a la segunda vuelta: los del Pacto estarían en desventaja",
-      "link": "https://www.infobae.com/colombia/2026/06/01/asi-se-distribuirian-los-apoyos-por-partidos-para-ivan-cepeda-y-abelardo-de-la-espriella-de-cara-a-la-segunda-vuelta-los-del-pacto-estarian-en-desventaja/",
+      "title": "Exfiscal Francisco Barbosa habló de la “angustia” en la campaña de Iván Cepeda tras derrota: “Argumento absurdo y elemental”",
+      "link": "https://www.infobae.com/colombia/2026/06/01/exfiscal-francisco-barbosa-hablo-de-la-angustia-en-la-campana-de-ivan-cepeda-tras-derrota-argumento-absurdo-y-elemental/",
       "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:42:41 +0000",
+      "pubDate": "Mon, 01 Jun 2026 20:44:52 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Elecciones en Colombia 2026: estos son los perfiles de Aida Quilcué y José Manuel Restrepo, los candidatos a la vicepresidencia",
+      "title": "Habla Gabriel Becerra, uno de los compromisarios de Iván Cepeda para arreglar debate con Abelardo de la Espriella: 'Debe haber reglas claras'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/habla-gabriel-becerra-uno-de-los-compromisarios-de-ivan-cepeda-para-arreglar-debate-con-abelardo-de-la-espriella-debe-haber-reglas-claras-3561197",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-01T15:33:28-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones en Colombia 2026: estos son los perfiles de Aida Quilcué y José Manuel Restrepo, los candidatos a la Vicepresidencia",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-en-colombia-2026-estos-son-los-perfiles-de-aida-quilcue-y-jose-manuel-restrepo-los-candidatos-a-la-vicepresidencia-3561183",
       "source": "El Tiempo",
-      "pubDate": "2026-06-01T13:42:26-05:00",
+      "pubDate": "2026-06-01T15:30:08-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Esta fue la vez que Gustavo Petro usó la camiseta de la selección Colombia en su campaña del 2022",
-      "link": "https://www.infobae.com/colombia/2026/06/01/esta-fue-la-vez-que-gustavo-petro-uso-la-camiseta-de-la-seleccion-colombia-en-su-campana-del-2022/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:42:15 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Alfredo Saade envió polémico mensaje a Armando Benedetti pidiendo su renuncia al Gobierno y sumándose a Iván Cepeda: “Él sabe para qué”",
-      "link": "https://www.infobae.com/colombia/2026/06/01/alfredo-saade-envio-polemico-mensaje-a-armando-benedetti-pidiendo-su-renuncia-al-gobierno-y-sumandose-a-ivan-cepeda-el-sabe-para-que/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:40:02 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Petro se va contra Abelardo y asegura: “vamos a ganar”",
-      "link": "https://www.lasillavacia.com/en-vivo/petro-se-va-contra-abelardo-y-asegura-vamos-a-ganar/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 01 Jun 2026 18:37:45 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "El tablero de la segunda vuelta: Alianzas, disidencias y el dilema del centro",
-      "link": "https://www.infobae.com/colombia/2026/06/01/el-tablero-de-la-segunda-vuelta-alianzas-disidencias-y-el-dilema-del-centro/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:34:36 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "ONU y OEA se pronunciaron tras las elecciones presidenciales en Colombia: instaron a proteger la transparencia y la calma en segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/06/01/onu-y-oea-se-pronunciaron-tras-las-elecciones-presidenciales-en-colombia-instaron-a-proteger-la-transparencia-y-la-calma-en-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:34:16 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Fue jurado de votación? Conozca los beneficios, incentivos y compensaciones que reciben los ciudadanos tras elecciones 2026 en Colombia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fue-jurado-de-votacion-conozca-los-beneficios-incentivos-y-compensaciones-que-reciben-los-ciudadanos-tras-elecciones-2026-en-colombia-3561094",
+      "title": "Miguel Uribe Londoño anunció su respaldo a la campaña de Abelardo de la Espriella para segunda vuelta presidencial en Colombia: 'Momento decisivo'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/miguel-uribe-londono-anuncio-su-respaldo-a-la-campana-de-abelardo-de-la-espriella-para-segunda-vuelta-presidencial-en-colombia-momento-decisivo-3561230",
       "source": "El Tiempo",
-      "pubDate": "2026-06-01T13:32:17-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "2026-06-01T15:24:24-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Saade pide a Petro y Benedetti que renuncien para hacer campaña",
+      "link": "https://www.lasillavacia.com/en-vivo/saade-pide-a-petro-y-benedetti-que-renuncien-para-hacer-campana/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 01 Jun 2026 20:15:32 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Cuántos votos necesitan Abelardo de la Espriella o Iván Cepeda para ganar en segunda vuelta presidencial",
+      "link": "https://www.infobae.com/colombia/2026/06/01/estos-son-los-votos-que-necesitan-abelardo-de-la-espriella-o-ivan-cepeda-para-ganar-en-segunda-vuelta-presidencial/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 20:12:46 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Álvaro Uribe confirmó que la bancada del Centro Democrático comenzó la campaña por Abelardo de la Espriella: “Colombia no puede ser una sucursal chavista”",
+      "link": "https://www.infobae.com/colombia/2026/06/01/alvaro-uribe-confirmo-que-el-centro-democratico-cito-a-su-bancada-para-iniciar-campana-por-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 20:10:55 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Por qué el oficialismo en Colombia cuestiona el conteo rápido de la primera vuelta electoral?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260601-por-qu%C3%A9-el-oficialismo-en-colombia-cuestiona-el-conteo-r%C3%A1pido-de-la-primera-vuelta-electoral",
+      "source": "France 24",
+      "pubDate": "Mon, 01 Jun 2026 20:09:19 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "OEA avala transparencia en elecciones presidenciales y pide debate constructivo para la segunda vuelta; hubo supervisión de 96 observadores",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/oea-avala-transparencia-en-elecciones-presidenciales-y-pide-debate-constructivo-para-la-segunda-vuelta-hubo-supervision-de-96-observadores-3561192",
       "source": "El Tiempo",
-      "pubDate": "2026-06-01T13:27:05-05:00",
+      "pubDate": "2026-06-01T14:56:47-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
