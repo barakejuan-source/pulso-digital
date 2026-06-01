@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-31T23:49:23.664Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-01T13:14:07.981Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -8,20 +8,20 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 48,
-      "youtubeScore": 100,
-      "sentimentScore": 26,
+      "youtubeScore": 49,
+      "sentimentScore": 12,
       "sentimentPct": {
-        "positive": 26,
-        "negative": 40,
-        "neutral": 34
+        "positive": 12.4,
+        "negative": 59.6,
+        "neutral": 28
       },
-      "youtubeViews": 123852,
-      "finalScore": 57,
+      "youtubeViews": 441580,
+      "finalScore": 38,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -33.3,
+        "direction": "down"
       },
-      "probability": 48.3
+      "probability": 33.6
     },
     {
       "id": "abelardo_espriella",
@@ -29,160 +29,118 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 0,
-      "sentimentScore": 0,
+      "youtubeScore": 100,
+      "sentimentScore": 15,
       "sentimentPct": {
-        "positive": 0,
-        "negative": 0,
-        "neutral": 0
+        "positive": 15.2,
+        "negative": 49.8,
+        "neutral": 35
       },
-      "youtubeViews": 0,
-      "finalScore": 40,
+      "youtubeViews": 921675,
+      "finalScore": 75,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": 87.5,
+        "direction": "up"
       },
-      "probability": 33.9
-    },
-    {
-      "id": "paloma_valencia",
-      "name": "Paloma Valencia",
-      "party": "Centro Democrático",
-      "color": "#457B9D",
-      "trendsScore": 40,
-      "youtubeScore": 0,
-      "sentimentScore": 0,
-      "sentimentPct": {
-        "positive": 0,
-        "negative": 0,
-        "neutral": 0
-      },
-      "youtubeViews": 0,
-      "finalScore": 16,
-      "momentum": {
-        "value": 0,
-        "direction": "flat"
-      },
-      "probability": 13.6
-    },
-    {
-      "id": "sergio_fajardo",
-      "name": "Sergio Fajardo",
-      "party": "Coalición Centro Esperanza",
-      "color": "#2A9D8F",
-      "trendsScore": 12,
-      "youtubeScore": 0,
-      "sentimentScore": 0,
-      "sentimentPct": {
-        "positive": 0,
-        "negative": 0,
-        "neutral": 0
-      },
-      "youtubeViews": 0,
-      "finalScore": 5,
-      "momentum": {
-        "value": 25,
-        "direction": "flat"
-      },
-      "probability": 4.2
+      "probability": 66.4
     }
   ],
   "articles": [
     {
-      "title": "Elecciones en Colombia: De la Espriella y Cepeda pelearán por la presidencia en segunda vuelta",
+      "title": "Así te lo contamos: De la Espriella y Cepeda pelearán por la presidencia de Colombia en segunda vuelta",
       "link": "https://www.bbc.co.uk/mundo/live/c62r12yy04xt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-05-31T23:49:23.346Z",
+      "pubDate": "2026-06-01T13:14:07.887Z",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "María Fernanda Cabal anuncia apoyo a Abelardo de la Espriella en segunda vuelta: 'No podemos dejar que Petro y Cepeda sigan gobernando este país'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/maria-fernanda-cabal-anuncia-apoyo-a-abelardo-de-la-espriella-en-segunda-vuelta-no-podemos-dejar-que-petro-y-cepeda-sigan-gobernando-este-pais-3560944",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-31T18:48:24-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La sombra de Petro sobre Cepeda: continuidad, diferencias y efecto en el voto",
-      "link": "https://www.france24.com/es/video/20260531-la-sombra-de-petro-sobre-cepeda-continuidad-diferencias-y-efecto-en-el-voto",
-      "source": "France 24",
-      "pubDate": "Sun, 31 May 2026 23:48:14 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Juan Daniel Oviedo se pronunció tras derrota en elecciones presidenciales y descartó apoyo a Abelardo de la Espriella: 'Machista y homofóbico'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/juan-daniel-oviedo-se-pronuncio-tras-derrota-en-elecciones-presidenciales-y-descarto-apoyo-a-abelardo-de-la-espriella-machista-y-homofobico-3560956",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-31T18:48:13-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Paloma Valencia se pronunció frente a su derrota en primera vuelta presidencial en las elecciones; afirmó que apoyará a Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/paloma-valencia-se-pronuncio-frente-a-su-salida-de-la-segunda-vuelta-presidencial-en-las-elecciones-afirmo-que-apoyara-a-abelardo-de-la-espriella-3560950",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-31T18:46:42-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cambio Radical se la juega con Abelardo de la Espriella en segunda vuelta presidencial: “Las urnas hablaron”",
-      "link": "https://www.infobae.com/colombia/2026/05/31/cambio-radical-se-la-juega-con-abelardo-de-la-espriella-en-segunda-vuelta-presidencial-las-urnas-hablaron/",
+      "title": "Mafe Carrascal lanzó dura crítica a Abelardo de la Espriella por entrevista con Westcol y la cosificación de las mujeres: “Inaudito”",
+      "link": "https://www.infobae.com/colombia/2026/06/01/mafe-carrascal-lanzo-dura-critica-a-abelardo-de-la-espriella-por-entrevista-con-westcol-y-la-cosificacion-de-las-mujeres-inaudito/",
       "source": "Infobae",
-      "pubDate": "Sun, 31 May 2026 23:46:19 +0000",
+      "pubDate": "Mon, 01 Jun 2026 12:59:12 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Paloma Valencia confirmó que apoyará a Abelardo de la Espriella en segunda vuelta presidencial: esto dijo ",
-      "link": "https://www.infobae.com/colombia/2026/05/31/paloma-valencia-confirmo-que-apoyara-a-abelardo-de-la-espriella-en-segunda-vuelta-presidencial-esto-dijo/",
+      "title": "Dónde me toca votar este domingo 7 de junio: LINK para ver tu local para la segunda vuelta",
+      "link": "https://www.infobae.com/peru/2026/06/01/donde-me-toca-votar-este-domingo-7-de-junio-link-para-ver-tu-local-para-la-segunda-vuelta/",
       "source": "Infobae",
-      "pubDate": "Sun, 31 May 2026 23:45:51 +0000",
+      "pubDate": "Mon, 01 Jun 2026 12:59:05 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iván Cepeda retó a Abelardo de la Espriella a un ‘cara a cara’ antes de la segunda vuelta, pero bajo sus reglas: “Emplazo a debate político y electoral”",
+      "link": "https://www.infobae.com/colombia/2026/06/01/ivan-cepeda-reto-a-abelardo-de-la-espriella-a-un-cara-a-cara-antes-de-la-segunda-vuelta-pero-bajo-sus-reglas-emplazo-a-debate-politico-y-electoral/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 12:48:59 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Cómo votaron Bogotá, Medellín y otras capitales en Colombia? Así les fue a Abelardo de la Espriella e Iván Cepeda en primera vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/como-votaron-bogota-medellin-y-otras-capitales-en-colombia-asi-les-fue-a-abelardo-de-la-espriella-e-ivan-cepeda-en-primera-vuelta-presidencial-3561039",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-01T07:47:09-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "“No vamos a fusilar a nadie, ¡por Dios!”: Roberto Sánchez asegura no compartir las ideas de Antauro Humala",
+      "link": "https://www.infobae.com/peru/2026/06/01/no-vamos-a-fusilar-a-nadie-por-dios-roberto-sanchez-asegura-no-compartir-las-ideas-de-antauro-humala/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 12:44:44 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Cómo quedaron las votaciones presidenciales en primera vuelta? Abelardo de la Espriella le ganó a Iván Cepeda e irán juntos a segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/como-quedaron-las-votaciones-presidenciales-en-primera-vuelta-abelardo-de-la-espriella-le-gano-a-ivan-cepeda-e-iran-juntos-a-segunda-vuelta-3561040",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-01T07:38:52-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Agustín Laje analizó las elecciones en Colombia: “El petrismo ha quedado en un lugar de derrota absoluta”",
+      "link": "https://www.infobae.com/colombia/2026/06/01/agustin-laje-analizo-las-elecciones-en-colombia-el-petrismo-ha-quedado-en-un-lugar-de-derrota-absoluta/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 12:38:48 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones en Colombia 2026: solo dos presidentes han remontado en la segunda vuelta tras perder en primera ",
+      "link": "https://www.infobae.com/colombia/2026/06/01/elecciones-en-colombia-2026-solo-dos-presidentes-han-remontado-en-la-segunda-vuelta-tras-perder-en-primera/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 12:38:03 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo vs. Cepeda: la puja por la segunda vuelta",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/abelardo-vs-cepeda-la-puja-por-la-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 01 Jun 2026 12:36:03 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Por qué Iván Cepeda denuncia que el gobierno de Ecuador interfirió en las elecciones de Colombia",
+      "link": "https://www.bbc.com/mundo/articles/cn9pr3jl40eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 01 Jun 2026 12:27:05 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones 2026: las voces que rechazan las palabras del presidente Gustavo Petro al desconocer resultados y victoria de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/elecciones-2026-voces-que-rechazan-las-palabras-del-presidente-petro-al-desconocer-resultados-y-la-victoria-de-abelardo-de-la-espriella-3561038",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-01T07:17:42-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Elecciones en Colombia 2026, EN VIVO: Todos los resultados de la primera vuelta, se esperan los discursos de Cepeda, De la Espriella y Valencia",
-      "link": "https://www.infobae.com/colombia/2026/05/31/elecciones-en-colombia-2026-en-vivo-reporte-de-orden-publico-apertura-de-mesas-y-noticias-relevantes-hoy-31-de-mayo/",
-      "source": "Infobae",
-      "pubDate": "Sun, 31 May 2026 23:45:47 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "El resultado adverso apaga la fiesta de Paloma Valencia y el uribismo en Bogotá",
-      "link": "https://www.infobae.com/america/agencias/2026/05/31/el-resultado-adverso-apaga-la-fiesta-de-paloma-valencia-y-el-uribismo-en-bogota/",
-      "source": "Infobae",
-      "pubDate": "Sun, 31 May 2026 23:45:39 +0000",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Tras derrota de Paloma Valencia en primera vuelta, difunden videos de personas recogiendo sillas y confirman cancelación de evento en Bogotá",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/difunden-videos-de-integrantes-de-la-campana-de-paloma-valencia-recogiendo-sillas-tras-cancelacion-de-evento-en-la-plaza-del-jubileo-de-compensar-3560942",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-31T18:44:41-05:00",
-      "candidateId": "paloma_valencia",
-      "candidateColor": "#457B9D"
-    },
-    {
-      "title": "Abelardo de la Espriella se pronuncia tras ganar la primera vuelta de las presidenciales con más de 10 millones de votos: 'Haremos historia'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-se-pronuncia-tras-ganar-la-primera-vuelta-de-las-presidenciales-con-mas-de-10-millones-de-votos-haremos-historia-3560943",
-      "source": "El Tiempo",
-      "pubDate": "2026-05-31T18:43:59-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda, el izquierdista que busca ser el sucesor de Gustavo Petro en Colombia",
-      "link": "https://www.france24.com/es/video/20260531-iv%C3%A1n-cepeda-el-izquierdista-que-busca-ser-el-sucesor-de-gustavo-petro-en-colombia",
-      "source": "France 24",
-      "pubDate": "Sun, 31 May 2026 23:42:02 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }

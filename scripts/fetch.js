@@ -23,7 +23,7 @@ const CANDIDATES = [
     name: 'Iván Cepeda',
     party: 'Pacto Histórico',
     color: '#E63946',
-    keywords: ['Iván Cepeda', 'Cepeda candidato'],
+    keywords: ['Iván Cepeda', 'Cepeda candidato', 'Cepeda segunda vuelta'],
     exclude: ['Manuel Cepeda']
   },
   {
@@ -31,24 +31,8 @@ const CANDIDATES = [
     name: 'Abelardo de la Espriella',
     party: 'Defensores de la Patria',
     color: '#1D3557',
-    keywords: ['Abelardo de la Espriella', 'Abelardo Espriella'],
+    keywords: ['Abelardo de la Espriella', 'Abelardo Espriella', 'Espriella segunda vuelta'],
     exclude: []
-  },
-  {
-    id: 'paloma_valencia',
-    name: 'Paloma Valencia',
-    party: 'Centro Democrático',
-    color: '#457B9D',
-    keywords: ['Paloma Valencia', 'Senadora Paloma'],
-    exclude: []
-  },
-  {
-    id: 'sergio_fajardo',
-    name: 'Sergio Fajardo',
-    party: 'Coalición Centro Esperanza',
-    color: '#2A9D8F',
-    keywords: ['Sergio Fajardo', 'Fajardo candidato'],
-    exclude: ['Mafe Fajardo', 'Daniel Fajardo']
   }
 ];
 
@@ -80,7 +64,7 @@ async function fetchRSS() {
       }
     }
     // Also include general election articles
-    const electionTerms = ['elecciones 2026', 'candidato presidencial', 'primera vuelta', 'campaña presidencial'];
+    const electionTerms = ['segunda vuelta', 'balotaje', 'elecciones 2026', 'candidato presidencial', 'campaña presidencial'];
     if (!tagged.find(a => a.link === article.link) && electionTerms.some(t => text.includes(t))) {
       tagged.push({ ...article, candidateId: null, candidateColor: '#64748b' });
     }

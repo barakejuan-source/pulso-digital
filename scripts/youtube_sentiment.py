@@ -12,22 +12,12 @@ CANDIDATES = [
     {
         'id': 'ivan_cepeda',
         'name': 'Iván Cepeda',
-        'queries': ['Ivan Cepeda candidato 2026', 'Iván Cepeda presidente Colombia']
+        'queries': ['Ivan Cepeda segunda vuelta 2026', 'Iván Cepeda presidente Colombia']
     },
     {
         'id': 'abelardo_espriella',
         'name': 'Abelardo de la Espriella',
-        'queries': ['Abelardo de la Espriella candidato 2026', 'Abelardo Espriella presidente Colombia']
-    },
-    {
-        'id': 'paloma_valencia',
-        'name': 'Paloma Valencia',
-        'queries': ['Paloma Valencia candidata 2026', 'Paloma Valencia presidente Colombia']
-    },
-    {
-        'id': 'sergio_fajardo',
-        'name': 'Sergio Fajardo',
-        'queries': ['Sergio Fajardo candidato 2026', 'Sergio Fajardo presidente Colombia']
+        'queries': ['Abelardo de la Espriella segunda vuelta 2026', 'Abelardo Espriella presidente Colombia']
     }
 ]
 
