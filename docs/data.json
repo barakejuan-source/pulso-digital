@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-06-01T13:14:07.981Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-01T15:02:43.965Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 48,
-      "youtubeScore": 49,
-      "sentimentScore": 12,
+      "trendsScore": 30,
+      "youtubeScore": 100,
+      "sentimentScore": 14,
       "sentimentPct": {
-        "positive": 12.4,
-        "negative": 59.6,
-        "neutral": 28
+        "positive": 14,
+        "negative": 58.3,
+        "neutral": 27.7
       },
-      "youtubeViews": 441580,
-      "finalScore": 38,
+      "youtubeViews": 478774,
+      "finalScore": 46,
       "momentum": {
-        "value": -33.3,
-        "direction": "down"
+        "value": 21.1,
+        "direction": "up"
       },
-      "probability": 33.6
+      "probability": 44.2
     },
     {
       "id": "abelardo_espriella",
@@ -29,20 +29,20 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 100,
+      "youtubeScore": 46,
       "sentimentScore": 15,
       "sentimentPct": {
-        "positive": 15.2,
-        "negative": 49.8,
-        "neutral": 35
+        "positive": 15.1,
+        "negative": 56.9,
+        "neutral": 28
       },
-      "youtubeViews": 921675,
-      "finalScore": 75,
+      "youtubeViews": 211624,
+      "finalScore": 58,
       "momentum": {
-        "value": 87.5,
-        "direction": "up"
+        "value": -22.7,
+        "direction": "down"
       },
-      "probability": 66.4
+      "probability": 55.8
     }
   ],
   "articles": [
@@ -50,97 +50,97 @@
       "title": "Así te lo contamos: De la Espriella y Cepeda pelearán por la presidencia de Colombia en segunda vuelta",
       "link": "https://www.bbc.co.uk/mundo/live/c62r12yy04xt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-06-01T13:14:07.887Z",
+      "pubDate": "2026-06-01T15:02:43.871Z",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Mafe Carrascal lanzó dura crítica a Abelardo de la Espriella por entrevista con Westcol y la cosificación de las mujeres: “Inaudito”",
-      "link": "https://www.infobae.com/colombia/2026/06/01/mafe-carrascal-lanzo-dura-critica-a-abelardo-de-la-espriella-por-entrevista-con-westcol-y-la-cosificacion-de-las-mujeres-inaudito/",
+      "title": "Esto dice la Federación Colombiana de Fútbol sobre el uso de la camiseta de la selección Colombia en actividades políticas",
+      "link": "https://www.infobae.com/colombia/deportes/2026/06/01/esto-dice-la-federacion-colombiana-de-futbol-sobre-el-uso-de-la-camiseta-de-la-seleccion-colombia-en-actividades-politicas/",
       "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 12:59:12 +0000",
+      "pubDate": "Mon, 01 Jun 2026 14:55:49 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Dónde me toca votar este domingo 7 de junio: LINK para ver tu local para la segunda vuelta",
-      "link": "https://www.infobae.com/peru/2026/06/01/donde-me-toca-votar-este-domingo-7-de-junio-link-para-ver-tu-local-para-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 12:59:05 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Iván Cepeda retó a Abelardo de la Espriella a un ‘cara a cara’ antes de la segunda vuelta, pero bajo sus reglas: “Emplazo a debate político y electoral”",
-      "link": "https://www.infobae.com/colombia/2026/06/01/ivan-cepeda-reto-a-abelardo-de-la-espriella-a-un-cara-a-cara-antes-de-la-segunda-vuelta-pero-bajo-sus-reglas-emplazo-a-debate-politico-y-electoral/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 12:48:59 +0000",
+      "title": "¿Qué dejó en evidencia la primera vuelta presidencial en Colombia?",
+      "link": "https://www.france24.com/es/video/20260601-qu%C3%A9-dej%C3%B3-en-evidencia-la-primera-vuelta-presidencial-en-colombia",
+      "source": "France 24",
+      "pubDate": "Mon, 01 Jun 2026 14:51:20 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "¿Cómo votaron Bogotá, Medellín y otras capitales en Colombia? Así les fue a Abelardo de la Espriella e Iván Cepeda en primera vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/como-votaron-bogota-medellin-y-otras-capitales-en-colombia-asi-les-fue-a-abelardo-de-la-espriella-e-ivan-cepeda-en-primera-vuelta-presidencial-3561039",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-01T07:47:09-05:00",
+      "title": "Colombia: Cepeda reta a De la Espriella a un debate; el derechista lo desafía a reconocer los resultados",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260601-colombia-cepeda-reta-a-de-la-espriella-a-un-debate-el-derechista-lo-desaf%C3%ADa-a-reconocer-los-resultados",
+      "source": "France 24",
+      "pubDate": "Mon, 01 Jun 2026 14:44:04 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "“No vamos a fusilar a nadie, ¡por Dios!”: Roberto Sánchez asegura no compartir las ideas de Antauro Humala",
-      "link": "https://www.infobae.com/peru/2026/06/01/no-vamos-a-fusilar-a-nadie-por-dios-roberto-sanchez-asegura-no-compartir-las-ideas-de-antauro-humala/",
+      "title": "Congresista estadounidense María Elvira Salazar insistió en su apoyo a Abelardo de la Espriella: “Quieren recuperar la seguridad, la prosperidad y la libertad”",
+      "link": "https://www.infobae.com/colombia/2026/06/01/congresista-estadounidense-pidio-a-los-colombianos-seguir-apoyando-a-abelardo-de-la-espriella-rechazan-el-rumbo-de-gustavo-petro/",
       "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 12:44:44 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Cómo quedaron las votaciones presidenciales en primera vuelta? Abelardo de la Espriella le ganó a Iván Cepeda e irán juntos a segunda vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/como-quedaron-las-votaciones-presidenciales-en-primera-vuelta-abelardo-de-la-espriella-le-gano-a-ivan-cepeda-e-iran-juntos-a-segunda-vuelta-3561040",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-01T07:38:52-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Agustín Laje analizó las elecciones en Colombia: “El petrismo ha quedado en un lugar de derrota absoluta”",
-      "link": "https://www.infobae.com/colombia/2026/06/01/agustin-laje-analizo-las-elecciones-en-colombia-el-petrismo-ha-quedado-en-un-lugar-de-derrota-absoluta/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 12:38:48 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones en Colombia 2026: solo dos presidentes han remontado en la segunda vuelta tras perder en primera ",
-      "link": "https://www.infobae.com/colombia/2026/06/01/elecciones-en-colombia-2026-solo-dos-presidentes-han-remontado-en-la-segunda-vuelta-tras-perder-en-primera/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 12:38:03 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo vs. Cepeda: la puja por la segunda vuelta",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/abelardo-vs-cepeda-la-puja-por-la-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 01 Jun 2026 12:36:03 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Por qué Iván Cepeda denuncia que el gobierno de Ecuador interfirió en las elecciones de Colombia",
-      "link": "https://www.bbc.com/mundo/articles/cn9pr3jl40eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 01 Jun 2026 12:27:05 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Elecciones 2026: las voces que rechazan las palabras del presidente Gustavo Petro al desconocer resultados y victoria de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/elecciones-2026-voces-que-rechazan-las-palabras-del-presidente-petro-al-desconocer-resultados-y-la-victoria-de-abelardo-de-la-espriella-3561038",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-01T07:17:42-05:00",
+      "pubDate": "Mon, 01 Jun 2026 14:43:03 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda pidió a la Federación Colombiana de Fútbol pronunciarse por uso de la camiseta de la Selección en la campaña de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/06/01/ivan-cepeda-pidio-a-la-federacion-colombiana-de-futbol-pronunciarse-por-uso-de-la-camiseta-de-la-seleccion-en-la-campana-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 14:42:05 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Hijo del expresidente Álvaro Uribe votará por Abelardo en segunda vuelta, a pesar de los enfrentamientos entre las campañas: “Igual de delfín que los Santos”",
+      "link": "https://www.infobae.com/colombia/2026/06/01/hijo-del-expresidente-alvaro-uribe-revelo-que-votara-por-abelardo-de-la-espriella-en-segunda-vuelta-consolidar-un-triunfo/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 14:39:59 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Expresidente Álvaro Uribe se despacha contra Iván Cepeda por desconocer los resultados del preconteo de la primera vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/expresidente-alvaro-uribe-se-despacha-contra-ivan-cepeda-por-desconocer-los-resultados-del-preconteo-de-la-primera-vuelta-3561095",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-01T09:36:53-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Revelan el motivo por el que Gustavo Petro desconoció los resultados de la primera vuelta presidencial en Colombia",
+      "link": "https://www.infobae.com/colombia/2026/06/01/revelan-el-motivo-por-el-que-gustavo-petro-desconocio-los-resultados-de-la-primera-vuelta-presidencial-en-colombia/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 14:35:02 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia: Cepeda y Petro cuestionan preconteo de la primera vuelta electoral",
+      "link": "https://www.france24.com/es/video/20260601-colombia-cepeda-y-petro-cuestionan-resultados-de-la-primera-vuelta-electoral",
+      "source": "France 24",
+      "pubDate": "Mon, 01 Jun 2026 14:26:46 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "De la Espriella llamó a las Fuerzas Militares a “defender por la fuerza” los resultados electorales tras críticas del petrismo: “Recuerden su juramento” ",
+      "link": "https://www.infobae.com/colombia/2026/06/01/de-la-espriella-llamo-a-las-fuerzas-militares-a-defender-por-la-fuerza-los-resultados-electorales-tras-criticas-del-petrismo-recuerden-su-juramento/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 14:24:35 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Los colombianos en el extranjero pueden inscribir la cédula para la segunda vuelta presidencial entre Iván Cepeda y Abelardo de la Espriella?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-colombianos-en-el-extranjero-pueden-inscribir-la-cedula-para-la-segunda-vuelta-presidencial-entre-ivan-cepeda-y-abelardo-de-la-espriella-3561078",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-01T09:22:47-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     }
   ]
 }
