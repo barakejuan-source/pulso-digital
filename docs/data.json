@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-01T17:02:36.120Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-01T19:02:47.873Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -9,19 +9,19 @@
       "color": "#E63946",
       "trendsScore": 31,
       "youtubeScore": 100,
-      "sentimentScore": 11,
+      "sentimentScore": 15,
       "sentimentPct": {
-        "positive": 11.2,
-        "negative": 66,
-        "neutral": 22.8
+        "positive": 15.3,
+        "negative": 62,
+        "neutral": 22.7
       },
-      "youtubeViews": 432601,
-      "finalScore": 46,
+      "youtubeViews": 520937,
+      "finalScore": 47,
       "momentum": {
-        "value": 0,
+        "value": 2.2,
         "direction": "flat"
       },
-      "probability": 43.4
+      "probability": 42.7
     },
     {
       "id": "abelardo_espriella",
@@ -30,19 +30,19 @@
       "color": "#1D3557",
       "trendsScore": 100,
       "youtubeScore": 54,
-      "sentimentScore": 13,
+      "sentimentScore": 21,
       "sentimentPct": {
-        "positive": 13.3,
-        "negative": 58.7,
-        "neutral": 28
+        "positive": 20.8,
+        "negative": 49.6,
+        "neutral": 29.6
       },
-      "youtubeViews": 226591,
-      "finalScore": 60,
+      "youtubeViews": 270845,
+      "finalScore": 63,
       "momentum": {
-        "value": 3.4,
-        "direction": "flat"
+        "value": 5,
+        "direction": "up"
       },
-      "probability": 56.6
+      "probability": 57.3
     }
   ],
   "articles": [
@@ -50,97 +50,97 @@
       "title": "Así te lo contamos: De la Espriella y Cepeda pelearán por la presidencia de Colombia en segunda vuelta",
       "link": "https://www.bbc.co.uk/mundo/live/c62r12yy04xt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-06-01T17:02:36.026Z",
+      "pubDate": "2026-06-01T19:02:47.766Z",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Iván Cepeda no aceptó el debate con Abelardo de la Espriella para el 9 de junio: “Él está acostumbrado a jugar y actuar sin reglas” ",
-      "link": "https://www.infobae.com/colombia/2026/06/01/ivan-cepeda-no-acepto-el-debate-con-abelardo-de-la-espriella-para-el-9-de-junio-esta-fue-la-razon/",
+      "title": "EN VIVO|Elecciones en Colombia 2026: Con llamado a debate y posibles amenazas de fraude, Iván Cepeda y Abelardo de la Espriella se vuelven a enfrentar",
+      "link": "https://www.infobae.com/colombia/2026/05/31/elecciones-en-colombia-2026-en-vivo-reporte-de-orden-publico-apertura-de-mesas-y-noticias-relevantes-hoy-31-de-mayo/",
       "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 16:59:00 +0000",
+      "pubDate": "Mon, 01 Jun 2026 18:57:16 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Hijo del expresidente Álvaro Uribe votará por Abelardo en segunda vuelta, a pesar de los enfrentamientos entre las campañas: “Igual de delfín que los Santos”",
-      "link": "https://www.infobae.com/colombia/2026/06/01/hijo-del-expresidente-alvaro-uribe-revelo-que-votara-por-abelardo-de-la-espriella-en-segunda-vuelta-consolidar-un-triunfo/",
+      "title": "Álvaro Uribe confirmó que el Centro Democrático citó a su bancada para iniciar campaña por Abelardo de La Espriella",
+      "link": "https://www.infobae.com/colombia/2026/06/01/alvaro-uribe-confirmo-que-el-centro-democratico-cito-a-su-bancada-para-iniciar-campana-por-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 16:58:28 +0000",
+      "pubDate": "Mon, 01 Jun 2026 18:46:44 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así se distribuirían los apoyos por partidos para Iván Cepeda y Abelardo de la Espriella de cara a la segunda vuelta: los del Pacto estarían en desventaja",
+      "link": "https://www.infobae.com/colombia/2026/06/01/asi-se-distribuirian-los-apoyos-por-partidos-para-ivan-cepeda-y-abelardo-de-la-espriella-de-cara-a-la-segunda-vuelta-los-del-pacto-estarian-en-desventaja/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 18:42:41 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones en Colombia 2026: estos son los perfiles de Aida Quilcué y José Manuel Restrepo, los candidatos a la vicepresidencia",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-en-colombia-2026-estos-son-los-perfiles-de-aida-quilcue-y-jose-manuel-restrepo-los-candidatos-a-la-vicepresidencia-3561183",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-01T13:42:26-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Esta fue la vez que Gustavo Petro usó la camiseta de la selección Colombia en su campaña del 2022",
+      "link": "https://www.infobae.com/colombia/2026/06/01/esta-fue-la-vez-que-gustavo-petro-uso-la-camiseta-de-la-seleccion-colombia-en-su-campana-del-2022/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 18:42:15 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Alfredo Saade envió polémico mensaje a Armando Benedetti pidiendo su renuncia al Gobierno y sumándose a Iván Cepeda: “Él sabe para qué”",
+      "link": "https://www.infobae.com/colombia/2026/06/01/alfredo-saade-envio-polemico-mensaje-a-armando-benedetti-pidiendo-su-renuncia-al-gobierno-y-sumandose-a-ivan-cepeda-el-sabe-para-que/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 18:40:02 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Petro se va contra Abelardo y asegura: “vamos a ganar”",
+      "link": "https://www.lasillavacia.com/en-vivo/petro-se-va-contra-abelardo-y-asegura-vamos-a-ganar/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 01 Jun 2026 18:37:45 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Iván Cepeda le baja el tono a señalamientos sobre desconocimiento del preconteo: 'No hemos encontrado evidencia de irregularidades'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-le-baja-el-tono-a-senalamientos-sobre-desconocimiento-del-preconteo-no-hemos-encontrado-irregularidades-3561150",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-01T11:58:21-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda reconoció que no hay evidencia de fraude en las elecciones presidenciales de primera vuelta: “Seguiremos revisando la información”",
-      "link": "https://www.infobae.com/colombia/2026/06/01/ivan-cepeda-afirmo-que-no-hubo-fraude-en-las-elecciones-presidenciales-de-primera-vuelta-soy-una-persona-transparente/",
+      "title": "El tablero de la segunda vuelta: Alianzas, disidencias y el dilema del centro",
+      "link": "https://www.infobae.com/colombia/2026/06/01/el-tablero-de-la-segunda-vuelta-alianzas-disidencias-y-el-dilema-del-centro/",
       "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 16:57:39 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo de la Espriella confirmó fecha, hora y lugar para aceptar el debate presidencial con Iván Cepeda: “El país tiene que conocer”",
-      "link": "https://www.infobae.com/colombia/2026/06/01/abelardo-de-la-espriella-confirmo-fecha-hora-y-lugar-para-aceptar-el-debate-presidencial-a-ivan-cepeda-el-pais-tiene-que-conocer/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 16:56:03 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Así fue la caída del dólar en Colombia tras el triunfo de Abelardo de la Espriella en primera vuelta en las presidenciales",
-      "link": "https://www.infobae.com/colombia/2026/06/01/dolar-en-colombia-bajo-despues-de-la-primera-vuelta-presidencial-que-dio-como-ganador-a-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 16:55:50 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Elecciones presidenciales 2026: ¿qué partidos apoyan a Abelardo de la Espriella y cuáles a Iván Cepeda de cara a la segunda vuelta del 21 de junio?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-que-partidos-apoyan-a-abelardo-de-la-espriella-y-cuales-a-ivan-cepeda-3561061",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-01T11:49:32-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "ONU destaca jornada electoral en paz pero advierte riesgos de cara a la segunda vuelta: 'Llamo a respetar el compromiso por elecciones libres'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/onu-destaca-jornada-electoral-en-paz-pero-advierte-riesgos-de-cara-a-la-segunda-vuelta-llamo-a-respetar-el-compromiso-por-elecciones-libres-3561117",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-01T11:36:57-05:00",
+      "pubDate": "Mon, 01 Jun 2026 18:34:36 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Colombia y Ecuador eliminan aranceles mutuos en medio de renovadas tensiones políticas",
-      "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260601-colombia-y-ecuador-eliminan-aranceles-mutuos-en-medio-de-renovadas-tensiones-pol%C3%ADticas",
-      "source": "France 24",
-      "pubDate": "Mon, 01 Jun 2026 16:36:40 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "ONU y OEA se pronunciaron tras las elecciones presidenciales en Colombia: instaron a proteger la transparencia y la calma en segunda vuelta",
+      "link": "https://www.infobae.com/colombia/2026/06/01/onu-y-oea-se-pronunciaron-tras-las-elecciones-presidenciales-en-colombia-instaron-a-proteger-la-transparencia-y-la-calma-en-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 18:34:16 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Iván Cepeda designa dos compromisarios para que definan reglas de juego para debate con Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-designa-dos-compromisarios-para-que-definan-reglas-de-juego-para-debate-con-abelardo-de-la-espriella-3561145",
+      "title": "¿Fue jurado de votación? Conozca los beneficios, incentivos y compensaciones que reciben los ciudadanos tras elecciones 2026 en Colombia",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fue-jurado-de-votacion-conozca-los-beneficios-incentivos-y-compensaciones-que-reciben-los-ciudadanos-tras-elecciones-2026-en-colombia-3561094",
       "source": "El Tiempo",
-      "pubDate": "2026-06-01T11:12:12-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "2026-06-01T13:32:17-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Enrique Peñalosa apoyará a Abelardo de la Espriella: 'Aunque hemos tenido diferencias, tiene las condiciones para el cambio'",
-      "link": "https://www.eltiempo.com/politica/enrique-penalosa-apoyara-a-abelardo-de-la-espriella-aunque-hemos-tenido-diferencias-tiene-las-condiciones-para-el-cambio-3561129",
+      "title": "OEA avala transparencia en elecciones presidenciales y pide debate constructivo para la segunda vuelta; hubo supervisión de 96 observadores",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/oea-avala-transparencia-en-elecciones-presidenciales-y-pide-debate-constructivo-para-la-segunda-vuelta-hubo-supervision-de-96-observadores-3561192",
       "source": "El Tiempo",
-      "pubDate": "2026-06-01T11:06:08-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "2026-06-01T13:27:05-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
