@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-01T19:02:47.873Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-01T19:31:22.590Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 31,
+      "trendsScore": 33,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 22.7
       },
       "youtubeViews": 520937,
-      "finalScore": 47,
+      "finalScore": 48,
       "momentum": {
-        "value": 2.2,
+        "value": 2.1,
         "direction": "flat"
       },
-      "probability": 42.7
+      "probability": 43.6
     },
     {
       "id": "abelardo_espriella",
@@ -29,7 +29,7 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 54,
+      "youtubeScore": 52,
       "sentimentScore": 21,
       "sentimentPct": {
         "positive": 20.8,
@@ -37,12 +37,12 @@
         "neutral": 29.6
       },
       "youtubeViews": 270845,
-      "finalScore": 63,
+      "finalScore": 62,
       "momentum": {
-        "value": 5,
-        "direction": "up"
+        "value": -1.6,
+        "direction": "flat"
       },
-      "probability": 57.3
+      "probability": 56.4
     }
   ],
   "articles": [
@@ -50,9 +50,65 @@
       "title": "Así te lo contamos: De la Espriella y Cepeda pelearán por la presidencia de Colombia en segunda vuelta",
       "link": "https://www.bbc.co.uk/mundo/live/c62r12yy04xt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-06-01T19:02:47.766Z",
+      "pubDate": "2026-06-01T19:31:22.476Z",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "ONU y OEA se pronunciaron tras las elecciones presidenciales en Colombia: instaron a proteger la transparencia y la calma en segunda vuelta",
+      "link": "https://www.infobae.com/colombia/2026/06/01/onu-y-oea-se-pronunciaron-tras-las-elecciones-presidenciales-en-colombia-instaron-a-proteger-la-transparencia-y-la-calma-en-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 19:29:20 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Flash electoral 2026: ¿Cuándo se conocerán los resultados a boca de urna en la segunda vuelta?",
+      "link": "https://www.infobae.com/peru/2026/06/01/flash-electoral-2026-cuando-se-conoceran-los-resultados-a-boca-de-urna-en-la-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 19:24:31 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Cabal pidió al Centro Democrático dejar las diferencias y apoyar a De la Espriella: “Hoy la prioridad es defender el legado del presidente Uribe”",
+      "link": "https://www.infobae.com/colombia/2026/05/31/cabal-pidio-al-centro-democratico-dejar-las-diferencias-y-apoyar-a-de-la-espriella-hoy-la-prioridad-es-defender-el-legado-del-presidente-uribe/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 19:06:05 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Álvaro Uribe también adhirió a Abelardo de la Espriella: “Colombia no puede seguir en el camino de convertirse en la sucursal del chavismo”",
+      "link": "https://www.infobae.com/colombia/2026/05/31/alvaro-uribe-tambien-adhirio-a-abelardo-de-la-espriella-colombia-no-puede-seguir-en-el-camino-de-convertirse-en-la-sucursal-del-chavismo/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 19:05:41 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Bernie Moreno dio parte de tranquilidad en la primera vuelta y celebró victoria de Abelardo de la Espriella: “El trabajo no está terminado aún”",
+      "link": "https://www.infobae.com/colombia/2026/06/01/bernie-moreno-dio-parte-de-tranquilidad-en-la-primera-vuelta-y-celebro-victoria-de-abelardo-de-la-espriella-el-trabajo-no-esta-terminado-aun/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 19:05:03 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Segunda vuelta: cómo se repartirían los votos de Paloma Valencia y Sergio Fajardo tras derrota en la primera vuelta; expertos opinan",
+      "link": "https://www.infobae.com/colombia/2026/06/01/segunda-vuelta-como-se-repartirian-los-votos-de-paloma-valencia-y-sergio-fajardo-tras-derrota-en-la-primera-vuelta-expertos-opinan/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 19:04:28 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Miguel Uribe Londoño anunció su adhesión a la candidatura de Abelardo de la Espriella para la segunda vuelta presidencial",
+      "link": "https://www.infobae.com/colombia/2026/06/01/miguel-uribe-londono-anuncio-su-adhesion-a-la-candidatura-de-abelardo-de-la-espriella-para-la-segunda-vuelta-presidencial/",
+      "source": "Infobae",
+      "pubDate": "Mon, 01 Jun 2026 18:59:57 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "EN VIVO|Elecciones en Colombia 2026: Con llamado a debate y posibles amenazas de fraude, Iván Cepeda y Abelardo de la Espriella se vuelven a enfrentar",
@@ -85,62 +141,6 @@
       "pubDate": "2026-06-01T13:42:26-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Esta fue la vez que Gustavo Petro usó la camiseta de la selección Colombia en su campaña del 2022",
-      "link": "https://www.infobae.com/colombia/2026/06/01/esta-fue-la-vez-que-gustavo-petro-uso-la-camiseta-de-la-seleccion-colombia-en-su-campana-del-2022/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:42:15 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Alfredo Saade envió polémico mensaje a Armando Benedetti pidiendo su renuncia al Gobierno y sumándose a Iván Cepeda: “Él sabe para qué”",
-      "link": "https://www.infobae.com/colombia/2026/06/01/alfredo-saade-envio-polemico-mensaje-a-armando-benedetti-pidiendo-su-renuncia-al-gobierno-y-sumandose-a-ivan-cepeda-el-sabe-para-que/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:40:02 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Petro se va contra Abelardo y asegura: “vamos a ganar”",
-      "link": "https://www.lasillavacia.com/en-vivo/petro-se-va-contra-abelardo-y-asegura-vamos-a-ganar/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 01 Jun 2026 18:37:45 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "El tablero de la segunda vuelta: Alianzas, disidencias y el dilema del centro",
-      "link": "https://www.infobae.com/colombia/2026/06/01/el-tablero-de-la-segunda-vuelta-alianzas-disidencias-y-el-dilema-del-centro/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:34:36 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "ONU y OEA se pronunciaron tras las elecciones presidenciales en Colombia: instaron a proteger la transparencia y la calma en segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/06/01/onu-y-oea-se-pronunciaron-tras-las-elecciones-presidenciales-en-colombia-instaron-a-proteger-la-transparencia-y-la-calma-en-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:34:16 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Fue jurado de votación? Conozca los beneficios, incentivos y compensaciones que reciben los ciudadanos tras elecciones 2026 en Colombia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fue-jurado-de-votacion-conozca-los-beneficios-incentivos-y-compensaciones-que-reciben-los-ciudadanos-tras-elecciones-2026-en-colombia-3561094",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-01T13:32:17-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "OEA avala transparencia en elecciones presidenciales y pide debate constructivo para la segunda vuelta; hubo supervisión de 96 observadores",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/oea-avala-transparencia-en-elecciones-presidenciales-y-pide-debate-constructivo-para-la-segunda-vuelta-hubo-supervision-de-96-observadores-3561192",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-01T13:27:05-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
