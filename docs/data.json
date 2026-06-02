@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T11:55:02.102Z",
+  "updatedAt": "2026-06-02T22:08:14.443Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 520937,
       "finalScore": 47,
       "momentum": {
-        "value": -2.1,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 43.1
@@ -50,97 +50,97 @@
       "title": "Así te lo contamos: De la Espriella y Cepeda pelearán por la presidencia de Colombia en segunda vuelta",
       "link": "https://www.bbc.co.uk/mundo/live/c62r12yy04xt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-06-02T11:55:01.505Z",
+      "pubDate": "2026-06-02T22:08:14.372Z",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "MOE respondió al presidente Gustavo Petro tras anunciar que se pondrá al frente de campaña de Iván Cepeda: 'Excepto que tome la decisión de renunciar'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/moe-respondio-al-presidente-gustavo-petro-tras-anunciar-que-se-pondra-al-frente-de-campana-de-ivan-cepeda-la-decision-de-renunciar-3561367",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-02T05:43:28-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "‘Tuvimos una jornada electoral ejemplar’: registrador Hernán Penagos sobre elecciones presidenciales",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/tuvimos-una-jornada-electoral-ejemplar-registrador-hernan-penagos-sobre-elecciones-presidenciales-3561324",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-02T05:11:27-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Esta sería la nueva estrategia de Iván Cepeda para reunir tres millones de votos más para la segunda vuelta contra Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/esta-seria-la-nueva-estrategia-de-ivan-cepeda-para-reunir-tres-millones-de-votos-mas-para-la-segunda-vuelta-contra-abelardo-de-la-espriella-3561014",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-01T22:01:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Colombia: Iván Cepeda listo para ir a debates; De la Espriella exige reconocimiento de resultados",
-      "link": "https://www.france24.com/es/video/20260602-colombia-iv%C3%A1n-cepeda-listo-para-ir-a-debates-de-la-espriella-exige-reconocimiento-de-resultados",
-      "source": "France 24",
-      "pubDate": "Tue, 02 Jun 2026 02:22:29 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Registrador Nacional de Colombia defiende en France 24 la transparencia de las elecciones",
-      "link": "https://www.france24.com/es/programas/la-entrevista/20260602-registrador-nacional-de-colombia-defiende-en-france-24-la-transparencia-de-las-elecciones",
-      "source": "France 24",
-      "pubDate": "Tue, 02 Jun 2026 00:24:48 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Directo a... Lima y el debate entre Keiko Fujimori y Roberto Sánchez",
-      "link": "https://www.france24.com/es/video/20260602-directo-a-lima-y-el-debate-entre-keiko-fujimori-y-roberto-s%C3%A1nchez",
-      "source": "France 24",
-      "pubDate": "Tue, 02 Jun 2026 00:07:13 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Duerma informado con las claves de este 1 de junio de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-1-de-junio-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 02 Jun 2026 00:00:00 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Cepeda no tuvo ventaja en municipios con “riesgo de control criminal”",
-      "link": "https://www.lasillavacia.com/en-vivo/cepeda-no-tuvo-ventaja-en-municipios-con-riesgo-de-control-criminal/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 01 Jun 2026 23:40:52 +0000",
+      "title": "Antonio Sanguino alertó por la propuesta de Abelardo de la Espriella sobre extraditar a Gustavo Petro si llega a la Casa de Nariño",
+      "link": "https://www.infobae.com/colombia/2026/06/02/antonio-sanguino-alerto-por-la-propuesta-de-abelardo-de-la-espriella-sobre-extraditar-a-gustavo-petro-si-llega-a-la-casa-de-narino/",
+      "source": "Infobae",
+      "pubDate": "Tue, 02 Jun 2026 21:40:07 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "La primera vuelta en datos: así se dio la sorpresa de la derecha abelardista",
-      "link": "https://www.lasillavacia.com/silla-nacional/la-primera-vuelta-en-datos-asi-se-dio-la-sorpresa-de-la-derecha-abelardista/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 01 Jun 2026 23:24:51 +0000",
+      "title": "Reniec aclara que no se colocarán stickers en el DNI tras votar en la segunda vuelta electoral del 7 de junio",
+      "link": "https://www.infobae.com/peru/2026/06/02/reniec-aclara-que-no-se-colocaran-stickers-en-el-dni-tras-votar-en-la-segunda-vuelta-electoral-del-7-de-junio/",
+      "source": "Infobae",
+      "pubDate": "Tue, 02 Jun 2026 21:38:11 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "El primer tiempo de la segunda vuelta",
-      "link": "https://www.lasillavacia.com/opinion/el-primer-tiempo-de-la-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 01 Jun 2026 23:03:17 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Sergio Fajardo llama a Abelardo De la Espriella e Iván Cepeda a una campaña limpia y anuncia que presentará el 'decálogo del millón de votos'",
+      "link": "https://www.eltiempo.com/politica/sergio-fajardo-llama-a-de-la-espriella-y-cepeda-a-una-campana-limpia-y-anuncia-que-presentara-el-decalogo-del-millon-de-votos-3561561",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-02T16:34:13-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "Campaña de Cepeda ya busca cafés con el centro para segunda vuelta",
-      "link": "https://www.lasillavacia.com/en-vivo/campana-de-cepeda-ya-busca-cafes-con-el-centro-para-segunda-vuelta/",
+      "title": "Defensa de Abelardo de la Espriella denunció a Petro por desconocer los resultados de la primera vuelta: “Incita a una posible guerra civil”",
+      "link": "https://www.infobae.com/colombia/2026/06/02/defensa-de-abelardo-de-la-espriella-denuncio-a-petro-por-desconocer-los-resultados-de-la-primera-vuelta-incita-a-una-posible-guerra-civil/",
+      "source": "Infobae",
+      "pubDate": "Tue, 02 Jun 2026 21:22:30 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Jefe de Despacho del Gobierno de Gustavo Petro descarta la renuncia del presidente tras controversia por apoyo a campaña de Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/gobierno/jefe-de-despacho-del-gobierno-de-gustavo-petro-descarta-la-renuncia-del-presidente-tras-controversia-por-apoyo-a-campana-de-ivan-cepeda-3561508",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-02T14:37:19-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Paloma Valencia le compite a la campaña del petrismo y también invita a un café a Sergio Fajardo, Claudia López y Juan Daniel Oviedo",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-le-compite-a-la-campana-del-petrismo-y-tambien-invita-a-un-cafe-a-sergio-fajardo-claudia-lopez-y-juan-daniel-oviedo-3561496",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-02T14:05:50-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "'Ha creado un ambiente de desinformación': Abelardo de la Espriella critica que el presidente Petro ponga en duda los resultados electorales",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ha-creado-un-ambiente-de-desinformacion-abelardo-de-la-espriella-critica-que-el-presidente-petro-ponga-en-duda-los-resultados-electorales-3561509",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-02T13:42:26-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Equipo de Carlos Amaya rechaza la participación en política de Petro",
+      "link": "https://www.lasillavacia.com/en-vivo/equipo-de-carlos-amaya-rechaza-la-participacion-en-politica-de-petro/",
       "source": "La Silla Vacía",
-      "pubDate": "Mon, 01 Jun 2026 22:49:20 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Tue, 02 Jun 2026 18:40:55 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Renunció viceministro de las TIC Andrés López, quién en marzo habría hecho comentarios en grupos oficialistas en apoyo al candidato Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/gobierno/renuncio-viceministro-de-las-tic-andres-lopez-quien-en-marzo-habria-hecho-comentarios-en-grupos-oficialistas-de-apoyo-al-candidato-ivan-cepeda-3561489",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-02T12:53:10-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Señalamientos del presidente Gustavo Petro sobre resultados de las elecciones causan malestares en la campaña de Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/senalamientos-del-presidente-gustavo-petro-sobre-resultados-de-las-elecciones-causan-malestares-en-la-campana-de-ivan-cepeda-3561444",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-02T12:00:14-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Partido de la U anuncia su apoyo a Abelardo de la Espriella en la segunda vuelta de las presidenciales: 'es el que puede salvar la democracia'",
+      "link": "https://www.eltiempo.com/politica/partido-de-la-u-anuncia-su-apoyo-a-abelardo-de-la-espriella-en-la-segunda-vuelta-de-las-presidenciales-es-el-que-puede-salvar-la-democracia-3561438",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-02T11:42:36-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     }
   ]
 }
