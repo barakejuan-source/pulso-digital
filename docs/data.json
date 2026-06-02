@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T19:31:22.590Z",
+  "updatedAt": "2026-06-02T11:55:02.102Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 33,
+      "trendsScore": 31,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 22.7
       },
       "youtubeViews": 520937,
-      "finalScore": 48,
+      "finalScore": 47,
       "momentum": {
-        "value": 2.1,
+        "value": -2.1,
         "direction": "flat"
       },
-      "probability": 43.6
+      "probability": 43.1
     },
     {
       "id": "abelardo_espriella",
@@ -39,10 +39,10 @@
       "youtubeViews": 270845,
       "finalScore": 62,
       "momentum": {
-        "value": -1.6,
+        "value": 0,
         "direction": "flat"
       },
-      "probability": 56.4
+      "probability": 56.9
     }
   ],
   "articles": [
@@ -50,97 +50,97 @@
       "title": "Así te lo contamos: De la Espriella y Cepeda pelearán por la presidencia de Colombia en segunda vuelta",
       "link": "https://www.bbc.co.uk/mundo/live/c62r12yy04xt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-06-01T19:31:22.476Z",
+      "pubDate": "2026-06-02T11:55:01.505Z",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "ONU y OEA se pronunciaron tras las elecciones presidenciales en Colombia: instaron a proteger la transparencia y la calma en segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/06/01/onu-y-oea-se-pronunciaron-tras-las-elecciones-presidenciales-en-colombia-instaron-a-proteger-la-transparencia-y-la-calma-en-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 19:29:20 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Flash electoral 2026: ¿Cuándo se conocerán los resultados a boca de urna en la segunda vuelta?",
-      "link": "https://www.infobae.com/peru/2026/06/01/flash-electoral-2026-cuando-se-conoceran-los-resultados-a-boca-de-urna-en-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 19:24:31 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Cabal pidió al Centro Democrático dejar las diferencias y apoyar a De la Espriella: “Hoy la prioridad es defender el legado del presidente Uribe”",
-      "link": "https://www.infobae.com/colombia/2026/05/31/cabal-pidio-al-centro-democratico-dejar-las-diferencias-y-apoyar-a-de-la-espriella-hoy-la-prioridad-es-defender-el-legado-del-presidente-uribe/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 19:06:05 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Álvaro Uribe también adhirió a Abelardo de la Espriella: “Colombia no puede seguir en el camino de convertirse en la sucursal del chavismo”",
-      "link": "https://www.infobae.com/colombia/2026/05/31/alvaro-uribe-tambien-adhirio-a-abelardo-de-la-espriella-colombia-no-puede-seguir-en-el-camino-de-convertirse-en-la-sucursal-del-chavismo/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 19:05:41 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Bernie Moreno dio parte de tranquilidad en la primera vuelta y celebró victoria de Abelardo de la Espriella: “El trabajo no está terminado aún”",
-      "link": "https://www.infobae.com/colombia/2026/06/01/bernie-moreno-dio-parte-de-tranquilidad-en-la-primera-vuelta-y-celebro-victoria-de-abelardo-de-la-espriella-el-trabajo-no-esta-terminado-aun/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 19:05:03 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Segunda vuelta: cómo se repartirían los votos de Paloma Valencia y Sergio Fajardo tras derrota en la primera vuelta; expertos opinan",
-      "link": "https://www.infobae.com/colombia/2026/06/01/segunda-vuelta-como-se-repartirian-los-votos-de-paloma-valencia-y-sergio-fajardo-tras-derrota-en-la-primera-vuelta-expertos-opinan/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 19:04:28 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Miguel Uribe Londoño anunció su adhesión a la candidatura de Abelardo de la Espriella para la segunda vuelta presidencial",
-      "link": "https://www.infobae.com/colombia/2026/06/01/miguel-uribe-londono-anuncio-su-adhesion-a-la-candidatura-de-abelardo-de-la-espriella-para-la-segunda-vuelta-presidencial/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:59:57 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "EN VIVO|Elecciones en Colombia 2026: Con llamado a debate y posibles amenazas de fraude, Iván Cepeda y Abelardo de la Espriella se vuelven a enfrentar",
-      "link": "https://www.infobae.com/colombia/2026/05/31/elecciones-en-colombia-2026-en-vivo-reporte-de-orden-publico-apertura-de-mesas-y-noticias-relevantes-hoy-31-de-mayo/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:57:16 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Álvaro Uribe confirmó que el Centro Democrático citó a su bancada para iniciar campaña por Abelardo de La Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/01/alvaro-uribe-confirmo-que-el-centro-democratico-cito-a-su-bancada-para-iniciar-campana-por-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:46:44 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así se distribuirían los apoyos por partidos para Iván Cepeda y Abelardo de la Espriella de cara a la segunda vuelta: los del Pacto estarían en desventaja",
-      "link": "https://www.infobae.com/colombia/2026/06/01/asi-se-distribuirian-los-apoyos-por-partidos-para-ivan-cepeda-y-abelardo-de-la-espriella-de-cara-a-la-segunda-vuelta-los-del-pacto-estarian-en-desventaja/",
-      "source": "Infobae",
-      "pubDate": "Mon, 01 Jun 2026 18:42:41 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Elecciones en Colombia 2026: estos son los perfiles de Aida Quilcué y José Manuel Restrepo, los candidatos a la vicepresidencia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-en-colombia-2026-estos-son-los-perfiles-de-aida-quilcue-y-jose-manuel-restrepo-los-candidatos-a-la-vicepresidencia-3561183",
+      "title": "MOE respondió al presidente Gustavo Petro tras anunciar que se pondrá al frente de campaña de Iván Cepeda: 'Excepto que tome la decisión de renunciar'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/moe-respondio-al-presidente-gustavo-petro-tras-anunciar-que-se-pondra-al-frente-de-campana-de-ivan-cepeda-la-decision-de-renunciar-3561367",
       "source": "El Tiempo",
-      "pubDate": "2026-06-01T13:42:26-05:00",
+      "pubDate": "2026-06-02T05:43:28-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "‘Tuvimos una jornada electoral ejemplar’: registrador Hernán Penagos sobre elecciones presidenciales",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/tuvimos-una-jornada-electoral-ejemplar-registrador-hernan-penagos-sobre-elecciones-presidenciales-3561324",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-02T05:11:27-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Esta sería la nueva estrategia de Iván Cepeda para reunir tres millones de votos más para la segunda vuelta contra Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/esta-seria-la-nueva-estrategia-de-ivan-cepeda-para-reunir-tres-millones-de-votos-mas-para-la-segunda-vuelta-contra-abelardo-de-la-espriella-3561014",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-01T22:01:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Colombia: Iván Cepeda listo para ir a debates; De la Espriella exige reconocimiento de resultados",
+      "link": "https://www.france24.com/es/video/20260602-colombia-iv%C3%A1n-cepeda-listo-para-ir-a-debates-de-la-espriella-exige-reconocimiento-de-resultados",
+      "source": "France 24",
+      "pubDate": "Tue, 02 Jun 2026 02:22:29 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Registrador Nacional de Colombia defiende en France 24 la transparencia de las elecciones",
+      "link": "https://www.france24.com/es/programas/la-entrevista/20260602-registrador-nacional-de-colombia-defiende-en-france-24-la-transparencia-de-las-elecciones",
+      "source": "France 24",
+      "pubDate": "Tue, 02 Jun 2026 00:24:48 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Directo a... Lima y el debate entre Keiko Fujimori y Roberto Sánchez",
+      "link": "https://www.france24.com/es/video/20260602-directo-a-lima-y-el-debate-entre-keiko-fujimori-y-roberto-s%C3%A1nchez",
+      "source": "France 24",
+      "pubDate": "Tue, 02 Jun 2026 00:07:13 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Duerma informado con las claves de este 1 de junio de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-1-de-junio-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 02 Jun 2026 00:00:00 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Cepeda no tuvo ventaja en municipios con “riesgo de control criminal”",
+      "link": "https://www.lasillavacia.com/en-vivo/cepeda-no-tuvo-ventaja-en-municipios-con-riesgo-de-control-criminal/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 01 Jun 2026 23:40:52 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La primera vuelta en datos: así se dio la sorpresa de la derecha abelardista",
+      "link": "https://www.lasillavacia.com/silla-nacional/la-primera-vuelta-en-datos-asi-se-dio-la-sorpresa-de-la-derecha-abelardista/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 01 Jun 2026 23:24:51 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "El primer tiempo de la segunda vuelta",
+      "link": "https://www.lasillavacia.com/opinion/el-primer-tiempo-de-la-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 01 Jun 2026 23:03:17 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Campaña de Cepeda ya busca cafés con el centro para segunda vuelta",
+      "link": "https://www.lasillavacia.com/en-vivo/campana-de-cepeda-ya-busca-cafes-con-el-centro-para-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 01 Jun 2026 22:49:20 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
