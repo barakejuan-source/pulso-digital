@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T22:08:14.443Z",
+  "updatedAt": "2026-06-03T18:10:36.038Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 31,
+      "trendsScore": 28,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 22.7
       },
       "youtubeViews": 520937,
-      "finalScore": 47,
+      "finalScore": 46,
       "momentum": {
-        "value": 0,
+        "value": -2.1,
         "direction": "flat"
       },
-      "probability": 43.1
+      "probability": 42.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,103 +42,103 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 56.9
+      "probability": 57.4
     }
   ],
   "articles": [
     {
-      "title": "Así te lo contamos: De la Espriella y Cepeda pelearán por la presidencia de Colombia en segunda vuelta",
-      "link": "https://www.bbc.co.uk/mundo/live/c62r12yy04xt?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "2026-06-02T22:08:14.372Z",
+      "title": "Gustavo Petro le habría encomendado esta misión a Juliana Guerrero en el Cesar de cara a la segunda vuelta presidencial: más votos para Iván Cepeda",
+      "link": "https://www.infobae.com/colombia/2026/06/03/gustavo-petro-le-habria-encomendado-esta-mision-a-juliana-guerrero-en-el-cesar-de-cara-a-la-segunda-vuelta-presidencial-mas-votos-para-ivan-cepeda/",
+      "source": "Infobae",
+      "pubDate": "Wed, 03 Jun 2026 18:03:13 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Antonio Sanguino alertó por la propuesta de Abelardo de la Espriella sobre extraditar a Gustavo Petro si llega a la Casa de Nariño",
-      "link": "https://www.infobae.com/colombia/2026/06/02/antonio-sanguino-alerto-por-la-propuesta-de-abelardo-de-la-espriella-sobre-extraditar-a-gustavo-petro-si-llega-a-la-casa-de-narino/",
+      "title": "Bernie Moreno destacó el respaldo de Donald Trump a Abelardo de la Espriella: “El pueblo de Colombia tendrá la oportunidad de recuperar su país”",
+      "link": "https://www.infobae.com/colombia/2026/06/03/bernie-moreno-exalto-el-respaldo-de-donald-trump-a-abelardo-de-la-espriella-el-pueblo-de-colombia-tendra-la-oportunidad-de-recuperar-su-pais/",
       "source": "Infobae",
-      "pubDate": "Tue, 02 Jun 2026 21:40:07 +0000",
+      "pubDate": "Wed, 03 Jun 2026 18:01:10 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Reniec aclara que no se colocarán stickers en el DNI tras votar en la segunda vuelta electoral del 7 de junio",
-      "link": "https://www.infobae.com/peru/2026/06/02/reniec-aclara-que-no-se-colocaran-stickers-en-el-dni-tras-votar-en-la-segunda-vuelta-electoral-del-7-de-junio/",
+      "title": "Armando Benedetti dejó abierta la puerta para sumarse a la campaña de Iván Cepeda y lanzó una indirecta a Abelardo de la Espriella: “Salió la bestia”",
+      "link": "https://www.infobae.com/colombia/2026/06/03/armando-benedetti-no-descarto-sumarse-a-la-campana-de-ivan-cepeda-y-lanzo-una-indirecta-a-abelardo-de-la-espriella-sueltan-a-la-bestia/",
       "source": "Infobae",
-      "pubDate": "Tue, 02 Jun 2026 21:38:11 +0000",
+      "pubDate": "Wed, 03 Jun 2026 17:57:36 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones 2026: Los errores más comunes al votar en segunda vuelta y cómo evitarlos este 7 de junio",
+      "link": "https://www.infobae.com/peru/2026/06/03/eleciones-2026-los-errores-mas-comunes-al-votar-en-segunda-vuelta-y-como-evitarlos-este-7-de-junio/",
+      "source": "Infobae",
+      "pubDate": "Wed, 03 Jun 2026 17:56:11 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Sergio Fajardo llama a Abelardo De la Espriella e Iván Cepeda a una campaña limpia y anuncia que presentará el 'decálogo del millón de votos'",
-      "link": "https://www.eltiempo.com/politica/sergio-fajardo-llama-a-de-la-espriella-y-cepeda-a-una-campana-limpia-y-anuncia-que-presentara-el-decalogo-del-millon-de-votos-3561561",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-02T16:34:13-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Defensa de Abelardo de la Espriella denunció a Petro por desconocer los resultados de la primera vuelta: “Incita a una posible guerra civil”",
-      "link": "https://www.infobae.com/colombia/2026/06/02/defensa-de-abelardo-de-la-espriella-denuncio-a-petro-por-desconocer-los-resultados-de-la-primera-vuelta-incita-a-una-posible-guerra-civil/",
+      "title": "La fórmula vicepresidencial de Claudia López respaldará a Abelardo de la Espriella pese a las críticas de la exalcaldesa ",
+      "link": "https://www.infobae.com/colombia/2026/06/03/la-formula-vicepresidencial-de-claudia-lopez-respaldara-a-abelardo-de-la-espriella-pese-a-las-criticas-de-la-exalcaldesa/",
       "source": "Infobae",
-      "pubDate": "Tue, 02 Jun 2026 21:22:30 +0000",
+      "pubDate": "Wed, 03 Jun 2026 17:55:17 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Jefe de Despacho del Gobierno de Gustavo Petro descarta la renuncia del presidente tras controversia por apoyo a campaña de Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/gobierno/jefe-de-despacho-del-gobierno-de-gustavo-petro-descarta-la-renuncia-del-presidente-tras-controversia-por-apoyo-a-campana-de-ivan-cepeda-3561508",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-02T14:37:19-05:00",
+      "title": "Juan Daniel Oviedo definió si su apoyo en segunda vuelta será para Abelardo de la Espriella o Iván Cepeda: “No más cafés, más debates”",
+      "link": "https://www.infobae.com/colombia/2026/06/03/juan-daniel-oviedo-se-desmarco-y-no-apoyara-a-abelardo-de-la-espriella-e-ivan-cepeda-para-la-segunda-vuelta-presidencial-no-mas-cafes-mas-debates/",
+      "source": "Infobae",
+      "pubDate": "Wed, 03 Jun 2026 17:54:00 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Paloma Valencia le compite a la campaña del petrismo y también invita a un café a Sergio Fajardo, Claudia López y Juan Daniel Oviedo",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-le-compite-a-la-campana-del-petrismo-y-tambien-invita-a-un-cafe-a-sergio-fajardo-claudia-lopez-y-juan-daniel-oviedo-3561496",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-02T14:05:50-05:00",
+      "title": "Gustavo Bolívar lanzó fuerte advertencia de cara a la segunda vuelta presidencial: “Eso quiere decir matar”",
+      "link": "https://www.infobae.com/colombia/2026/06/03/gustavo-bolivar-lanzo-fuerte-advertencia-de-cara-a-la-segunda-vuelta-presidencial-eso-quiere-decir-matar/",
+      "source": "Infobae",
+      "pubDate": "Wed, 03 Jun 2026 17:47:58 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "'Ha creado un ambiente de desinformación': Abelardo de la Espriella critica que el presidente Petro ponga en duda los resultados electorales",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ha-creado-un-ambiente-de-desinformacion-abelardo-de-la-espriella-critica-que-el-presidente-petro-ponga-en-duda-los-resultados-electorales-3561509",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-02T13:42:26-05:00",
+      "title": "José Manuel Restrepo explicó qué pasará con los proyectos sociales en un eventual gobierno de Abelardo de la Espriella: “Ha habido una cantidad de subsidios innecesarios”",
+      "link": "https://www.infobae.com/colombia/2026/06/03/formula-vicepresidencial-de-abelardo-de-la-espriella-desmintio-acabar-con-proyectos-sociales-no-vamos-a-desmontar-los-subsidios-para-adultos-mayores/",
+      "source": "Infobae",
+      "pubDate": "Wed, 03 Jun 2026 17:47:48 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Equipo de Carlos Amaya rechaza la participación en política de Petro",
-      "link": "https://www.lasillavacia.com/en-vivo/equipo-de-carlos-amaya-rechaza-la-participacion-en-politica-de-petro/",
+      "title": "Leonardo Huerta, exfórmula vicepresidencial de Claudia López, anuncia su respaldo a Abelardo de la Espriella en segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/leonardo-huerta-exformula-vicepresidencial-de-claudia-lopez-anuncia-su-respaldo-a-abelardo-de-la-espriella-en-segunda-vuelta-3561791",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-03T12:47:02-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La paradoja de la pureza moral: reflexiones para la segunda vuelta presidencial",
+      "link": "https://www.lasillavacia.com/red-de-expertos/la-paradoja-de-la-pureza-moral-reflexiones-para-la-segunda-vuelta-presidencial/",
       "source": "La Silla Vacía",
-      "pubDate": "Tue, 02 Jun 2026 18:40:55 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Wed, 03 Jun 2026 17:32:12 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Renunció viceministro de las TIC Andrés López, quién en marzo habría hecho comentarios en grupos oficialistas en apoyo al candidato Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/gobierno/renuncio-viceministro-de-las-tic-andres-lopez-quien-en-marzo-habria-hecho-comentarios-en-grupos-oficialistas-de-apoyo-al-candidato-ivan-cepeda-3561489",
+      "title": "Los puntos claves del plan de gobierno de Abelardo de la Espriella para la segunda vuelta: Plan Colombia II, reducción del Estado y 7 megacárceles",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-anuncio-los-10-pilares-de-su-gobierno-plan-colombia-ii-reduccion-del-estado-en-40-7-megacarceles-y-otras-medidas-3561778",
       "source": "El Tiempo",
-      "pubDate": "2026-06-02T12:53:10-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "2026-06-03T12:31:21-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Señalamientos del presidente Gustavo Petro sobre resultados de las elecciones causan malestares en la campaña de Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/senalamientos-del-presidente-gustavo-petro-sobre-resultados-de-las-elecciones-causan-malestares-en-la-campana-de-ivan-cepeda-3561444",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-02T12:00:14-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Partido de la U anuncia su apoyo a Abelardo de la Espriella en la segunda vuelta de las presidenciales: 'es el que puede salvar la democracia'",
-      "link": "https://www.eltiempo.com/politica/partido-de-la-u-anuncia-su-apoyo-a-abelardo-de-la-espriella-en-la-segunda-vuelta-de-las-presidenciales-es-el-que-puede-salvar-la-democracia-3561438",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-02T11:42:36-05:00",
+      "title": "Intromisión electoral de Trump: apoyo a candidato colombiano reabre el debate sobre injerencia en comicios clave",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260603-intromisi%C3%B3n-electoral-de-trump-apoyo-a-candidato-colombiano-reabre-el-debate-sobre-injerencia-en-comicios-clave",
+      "source": "France 24",
+      "pubDate": "Wed, 03 Jun 2026 16:40:13 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
