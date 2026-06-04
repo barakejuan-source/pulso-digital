@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-04T04:24:43.355Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-04T10:02:40.464Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,6 +47,38 @@
   ],
   "articles": [
     {
+      "title": "Luis Gilberto Murillo rechaza injerencia extranjera y pide unidad nacional: “Nuestra soberanía, democracia y voto se respetan”",
+      "link": "https://www.infobae.com/colombia/2026/06/04/luis-gilberto-murillo-rechaza-injerencia-extranjera-y-pide-unidad-nacional-nuestra-soberania-democracia-y-voto-se-respetan/",
+      "source": "Infobae",
+      "pubDate": "Thu, 04 Jun 2026 09:35:27 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Aida Quilcué, fórmula vicepresidencial de Iván Cepeda, aceptó el stream de Westcol: 'Eres bienvenido a nuestra comunidad'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/aida-quilcue-formula-vicepresidencial-de-ivan-cepeda-acepto-el-stream-de-westcol-eres-bienvenido-a-nuestra-comunidad-3561952",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T01:07:02-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "El desconcierto de la campaña de Cepeda ahora tiene a Petro como lastre",
+      "link": "https://www.lasillavacia.com/silla-nacional/el-desconcierto-de-la-campana-de-cepeda-ahora-tiene-a-petro-como-lastre/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 04 Jun 2026 06:00:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Senadora María Elvira Salazar pidió sanciones para quien realice fraude en segunda vuelta presidencial de Colombia: lista OFAC y cancelación de visas",
+      "link": "https://www.eltiempo.com/mundo/eeuu-y-canada/senadora-maria-elvira-salazar-pidio-incluir-en-la-lista-ofac-a-quien-realice-fraude-electoral-en-la-segunda-vuelta-presidencial-de-colombia-3561985",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-03T23:54:01-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "‘Es falso que vamos a acabar con la matrícula cero, con los subsidios, con los programas sociales’: entrevista con José Manuel Restrepo",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/es-falso-que-vamos-a-acabar-con-la-matricula-cero-con-los-subsidios-con-los-programas-sociales-entrevista-con-jose-manuel-restrepo-3561927",
       "source": "El Tiempo",
@@ -69,14 +101,6 @@
       "pubDate": "2026-06-03T20:40:20-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Aida Quilcué, fórmula vicepresidencial de Iván Cepeda, aceptó el stream de Westcol: 'Eres bienvenido a nuestra comunidad'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/aida-quilcue-formula-vicepresidencial-de-ivan-cepeda-acepto-el-stream-de-westcol-eres-bienvenido-a-nuestra-comunidad-3561952",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-03T20:12:31-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Arranca el desafío logístico para la segunda vuelta: el Gobierno asignó recursos a la Registraduría",
@@ -117,30 +141,6 @@
       "pubDate": "Wed, 03 Jun 2026 22:30:20 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "EE.UU. promete garantizar una “elección justa y libre” en Colombia",
-      "link": "https://www.lasillavacia.com/en-vivo/ee-uu-promete-garantizar-una-eleccion-justa-y-libre-en-colombia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 03 Jun 2026 21:39:15 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Balotaje en Perú: ¿cuáles son las propuestas de Keiko Fujimori y de Roberto Sánchez?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260603-balotaje-en-per%C3%BA-cu%C3%A1les-son-las-propuestas-de-keiko-fujimori-y-de-roberto-s%C3%A1nchez",
-      "source": "France 24",
-      "pubDate": "Wed, 03 Jun 2026 20:29:03 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "\"Es un honor darle mi apoyo\": el polémico respaldo de Trump a Abelardo de la Espriella de cara a la segunda vuelta de las presidenciales en Colombia",
-      "link": "https://www.bbc.com/mundo/articles/c3d2gx7r3kyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Wed, 03 Jun 2026 02:39:50 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
