@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-04T15:24:48.604Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-04T18:23:33.348Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,42 +47,90 @@
   ],
   "articles": [
     {
-      "title": "La Universidad del Valle suspendió clases en Cali por “paro indefinido” hasta el 23 de junio: no habrá actividades hasta después de la segunda vuelta electoral",
-      "link": "https://www.infobae.com/colombia/2026/06/04/la-universidad-del-valle-suspendio-clases-por-paro-indefinido-hasta-el-23-de-junio-en-presunto-apoyo-a-ivan-cepeda-para-la-segunda-vuelta-electoral/",
+      "title": "Renzo Reggiardo dice que acatará “con dignidad” el fallo del PJ que rechaza suspender la segunda vuelta",
+      "link": "https://www.infobae.com/peru/2026/06/04/renzo-reggiardo-dice-que-acatara-con-dignidad-el-fallo-del-pj-que-rechaza-suspender-la-segunda-vuelta/",
       "source": "Infobae",
-      "pubDate": "Thu, 04 Jun 2026 15:03:55 +0000",
+      "pubDate": "Thu, 04 Jun 2026 18:21:53 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Comité promotor desistió de la convocatoria de una Asamblea Constituyente promovida por el Gobierno Petro",
-      "link": "https://www.infobae.com/colombia/2026/06/04/el-gobierno-petro-desistiria-de-impulsar-una-asamblea-nacional-constituyente-en-colombia/",
+      "title": "Por no votar por Abelardo de la Espriella, una mujer denunció mensajes de simpatizantes del “Tigre”: “Dios nos proteja” ",
+      "link": "https://www.infobae.com/colombia/2026/06/04/por-no-votar-por-abelardo-de-la-espriella-una-mujer-denuncio-mensajes-de-simpatizantes-del-tigre-dios-nos-proteja/",
       "source": "Infobae",
-      "pubDate": "Thu, 04 Jun 2026 14:58:34 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Thu, 04 Jun 2026 18:19:15 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Elecciones presidenciales en Colombia 2026: Iván Cepeda hará anuncio este 4 de junio; Álvaro Uribe explica su respaldo a Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562000",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T09:53:58-05:00",
+      "title": "CNE cerró el escrutinio: estos fueron los resultados finales de Abelardo de la Espriella e Iván Cepeda rumbo a la segunda vuelta ",
+      "link": "https://www.infobae.com/colombia/2026/06/04/cne-cerro-el-escrutinio-estos-fueron-los-resultados-finales-de-abelardo-de-la-espriella-e-ivan-cepeda-rumbo-a-la-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Thu, 04 Jun 2026 18:18:07 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "“Un apéndice de Petro y Cepeda”: Abelardo no aceptará apoyo del Liberal",
-      "link": "https://www.lasillavacia.com/en-vivo/un-apendice-de-petro-y-cepeda-abelardo-no-aceptara-apoyo-del-liberal/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 04 Jun 2026 14:51:03 +0000",
+      "title": "Juliana Guerrero y su hermana hicieron una ‘pijamatón’ en la Universidad Popular del Cesar en apoyo a Iván Cepeda: todo quedó en video",
+      "link": "https://www.infobae.com/colombia/2026/06/04/con-una-pijamada-juliana-guerrero-y-su-hermana-participaron-en-un-planton-en-la-universidad-popular-del-cesar-en-apoyo-a-ivan-cepeda/",
+      "source": "Infobae",
+      "pubDate": "Thu, 04 Jun 2026 18:15:22 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Aumenta la polarización a días de la segunda vuelta presidencial en Perú",
+      "link": "https://www.france24.com/es/video/20260604-aumenta-la-polarizaci%C3%B3n-a-d%C3%ADas-de-la-segunda-vuelta-presidencial-en-per%C3%BA",
+      "source": "France 24",
+      "pubDate": "Thu, 04 Jun 2026 18:08:25 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "María Fernanda Cabal cuestionó fallo judicial que obliga a Abelardo de la Espriella a pedir disculpas públicas a la periodista Laura Rodríguez: “¿Cuántos casos más así?\"",
-      "link": "https://www.infobae.com/colombia/2026/06/04/maria-fernanda-cabal-cuestiono-fallo-judicial-que-obliga-a-abelardo-de-la-espriella-a-pedir-disculpas-publicas-a-laura-rodriguez/",
-      "source": "Infobae",
-      "pubDate": "Thu, 04 Jun 2026 14:47:23 +0000",
+      "title": "Directo Latam y el apoyo de Trump a De la Espriella en la carrera por la presidencia de Colombia",
+      "link": "https://www.france24.com/es/video/20260604-directo-latam-y-el-apoyo-de-trump-a-de-la-espriella-en-la-carrera-por-la-presidencia-de-colombia",
+      "source": "France 24",
+      "pubDate": "Thu, 04 Jun 2026 18:02:11 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda respalda que se abandone la idea de una constituyente e insiste en un acuerdo nacional: 'Es el momento del encuentro con el centro'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-respalda-que-se-abandone-la-idea-de-una-constituyente-e-insiste-en-un-acuerdo-nacional-es-el-momento-del-encuentro-con-el-centro-3562095",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T12:58:44-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "CNE da por concluido el escrutinio: así quedaron las votaciones finales Abelardo de la Espriella, Iván Cepeda y los demás candidatos",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cne-da-por-concluido-el-escrutinio-asi-quedaron-las-votaciones-finales-de-ivan-cepeda-abelardo-de-la-espriella-y-los-demas-candidatos-3562082",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T12:53:07-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Candidato Abelardo de la Espriella comienza a estrechar lazos con Italia tras llamada con Giorgia Meloni: 'Compartimos la defensa de los valores'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-comienza-a-estrechar-lazos-con-italia-tras-llamada-con-giorgia-meloni-compartimos-la-defensa-de-los-valores-3562106",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T12:25:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Bogotá: Estudiantes de la Unal señalaron fraude electoral en manifestación",
+      "link": "https://www.lasillavacia.com/en-vivo/bogota-estudiantes-de-la-unal-senalaron-fraude-electoral-en-manifestacion/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 04 Jun 2026 16:20:16 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Petro confirma que resultados del domingo desmontaron la constituyente",
+      "link": "https://www.lasillavacia.com/en-vivo/petro-confirma-que-resultados-del-domingo-desmontaron-la-constituyente/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 04 Jun 2026 15:57:24 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -90,57 +138,9 @@
       "title": "Gobierno de Gustavo Petro e Iván Cepeda se bajan de la Constituyente: comité promotor retirará la iniciativa",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gobierno-de-gustavo-petro-e-ivan-cepeda-se-bajan-de-la-constituyente-comite-promotor-retiro-la-iniciativa-3562030",
       "source": "El Tiempo",
-      "pubDate": "2026-06-04T08:44:12-05:00",
+      "pubDate": "2026-06-04T10:34:01-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Petro ordenó bajar el comité promotor de la constituyente",
-      "link": "https://www.lasillavacia.com/en-vivo/petro-ordeno-bajar-el-comite-promotor-de-la-constituyente/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 04 Jun 2026 13:18:21 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Paloma Valencia denuncia 'plan de estallido social' y señala a campaña de Iván Cepeda de alentar vandalismo: 'No es protesta, es violencia'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-denuncia-plan-de-estallido-social-y-senala-a-campana-de-ivan-cepeda-de-alentar-vandalismo-no-es-protesta-es-violencia-3562010",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T08:10:33-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Claudia López y su duro mensaje al petrismo de cara a la segunda vuelta de Iván Cepeda: 'Dejen la arrogancia, el sicariato y la estigmatización'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/claudia-lopez-y-su-duro-mensaje-al-petrismo-de-cara-a-la-segunda-vuelta-de-ivan-cepeda-dejen-la-arrogancia-el-sicariato-y-la-estigmatizacion-3561995",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T07:46:40-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Registraduría advierte por mensaje falso sobre registro biométrico y supuesto cambio de mesas de votación: es mentira",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/registraduria-advierte-por-mensaje-falso-sobre-registro-biometrico-y-supuesto-cambio-de-mesas-de-votacion-es-mentira-3562011",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T07:20:40-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Desayune informado con las claves de este 4 de junio de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-4-de-junio-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 04 Jun 2026 12:16:39 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Donald Trump entró a la campaña presidencial de Colombia",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/donald-trump-entro-a-la-campana-presidencial-de-colombia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 04 Jun 2026 12:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
