@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-04T18:23:33.348Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-04T21:45:14.371Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 29,
+      "trendsScore": 30,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 22.7
       },
       "youtubeViews": 520937,
-      "finalScore": 46,
+      "finalScore": 47,
       "momentum": {
-        "value": 0,
+        "value": 2.2,
         "direction": "flat"
       },
-      "probability": 42.6
+      "probability": 43.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,41 +42,97 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 57.4
+      "probability": 56.9
     }
   ],
   "articles": [
     {
-      "title": "Renzo Reggiardo dice que acatará “con dignidad” el fallo del PJ que rechaza suspender la segunda vuelta",
-      "link": "https://www.infobae.com/peru/2026/06/04/renzo-reggiardo-dice-que-acatara-con-dignidad-el-fallo-del-pj-que-rechaza-suspender-la-segunda-vuelta/",
+      "title": "El voto de los indecisos: por qué puede definir la segunda vuelta",
+      "link": "https://www.infobae.com/peru/2026/06/04/el-voto-de-los-indecisos-por-que-puede-definir-la-segunda-vuelta/",
       "source": "Infobae",
-      "pubDate": "Thu, 04 Jun 2026 18:21:53 +0000",
+      "pubDate": "Thu, 04 Jun 2026 21:36:18 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Por no votar por Abelardo de la Espriella, una mujer denunció mensajes de simpatizantes del “Tigre”: “Dios nos proteja” ",
-      "link": "https://www.infobae.com/colombia/2026/06/04/por-no-votar-por-abelardo-de-la-espriella-una-mujer-denuncio-mensajes-de-simpatizantes-del-tigre-dios-nos-proteja/",
+      "title": "Reacciones políticas a la decisión de un juez que prohibió usar la camiseta de la selección Colombia en la campaña de Abelardo de la Espriella ",
+      "link": "https://www.infobae.com/colombia/2026/06/04/reacciones-politicas-a-la-decision-de-un-juez-que-prohibio-usar-la-camiseta-de-la-seleccion-colombia-en-la-campana-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Thu, 04 Jun 2026 18:19:15 +0000",
+      "pubDate": "Thu, 04 Jun 2026 21:28:22 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "CNE cerró el escrutinio: estos fueron los resultados finales de Abelardo de la Espriella e Iván Cepeda rumbo a la segunda vuelta ",
-      "link": "https://www.infobae.com/colombia/2026/06/04/cne-cerro-el-escrutinio-estos-fueron-los-resultados-finales-de-abelardo-de-la-espriella-e-ivan-cepeda-rumbo-a-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Thu, 04 Jun 2026 18:18:07 +0000",
+      "title": "'Voten por el que el corazón les diga': representante conservador Ape Cuello, cercano a Juliana Guerrero, sobre la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/voten-por-el-que-el-corazon-les-diga-representante-conservador-ape-cuello-cercano-a-juliana-guerrero-sobre-la-segunda-vuelta-presidencial-3562166",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T16:13:43-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Ministro Antonio Sanguino aseguró que suspensión del proceso de Asamblea Constituyente no tuvo que ver con campaña de Iván Cepeda: 'Hace varios meses'",
+      "link": "https://www.eltiempo.com/politica/gobierno/ministro-antonio-sanguino-aseguro-que-suspension-del-proceso-de-asamblea-constituyente-no-tuvo-que-ver-con-campana-de-ivan-cepeda-hace-varios-meses-3562132",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T16:10:25-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Juliana Guerrero y su hermana hicieron una ‘pijamatón’ en la Universidad Popular del Cesar en apoyo a Iván Cepeda: todo quedó en video",
-      "link": "https://www.infobae.com/colombia/2026/06/04/con-una-pijamada-juliana-guerrero-y-su-hermana-participaron-en-un-planton-en-la-universidad-popular-del-cesar-en-apoyo-a-ivan-cepeda/",
-      "source": "Infobae",
-      "pubDate": "Thu, 04 Jun 2026 18:15:22 +0000",
+      "title": "Las veces que el presidente Gustavo Petro ha incumplido su palabra de no convocar una asamblea nacional constituyente",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-veces-que-el-presidente-gustavo-petro-ha-incumplido-su-palabra-de-no-convocar-una-asamblea-nacional-constituyente-3562175",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T16:05:23-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Habló campaña de Abelardo de la Espriella tras orden de juzgado que le prohibió uso de la camiseta de la Selección Colombia: 'No se censura'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/hablo-campana-de-abelardo-de-la-espriella-tras-orden-de-juzgado-que-le-prohibio-uso-de-la-camiseta-de-la-seleccion-colombia-no-se-censura-3562138",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T15:55:25-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda 'agradece' porque constituyente de Petro se suspendió, pero en su plan de gobierno sí aparece la controvertida propuesta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-agradece-porque-constituyente-de-petro-se-suspendio-pero-en-su-plan-de-gobierno-si-aparece-la-controvertida-propuesta-3562114",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T15:52:57-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones en Perú: ¿Darán el voto en blanco y nulo la sorpresa en el balotaje?",
+      "link": "https://www.france24.com/es/video/20260604-elecciones-en-per%C3%BA-dar%C3%A1n-el-voto-en-blanco-y-nulo-la-sorpresa-en-el-balotaje",
+      "source": "France 24",
+      "pubDate": "Thu, 04 Jun 2026 20:27:06 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "José Manuel Restrepo, fórmula vicepresidencial de De la Espriella, se pronunció tras suspensión de Constituyente: 'Colombianos no comen cuento'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/jose-manuel-restrepo-formula-vicepresidencial-de-abelardo-de-la-espriella-se-pronuncio-tras-retiro-de-la-constituyente-resulta-sospechoso-3562134",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T15:24:47-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Balotaje en Perú: este es el mapa de inseguridad que recibirá el próximo presidente",
+      "link": "https://www.france24.com/es/programas/en-contexto/20260604-balotaje-en-per%C3%BA-este-es-el-mapa-de-inseguridad-que-recibir%C3%A1-el-pr%C3%B3ximo-presidente",
+      "source": "France 24",
+      "pubDate": "Thu, 04 Jun 2026 19:50:03 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "La foto: Petro entrega la bandera a la Selección antes de ir al Mundial",
+      "link": "https://www.lasillavacia.com/en-vivo/la-foto-petro-entrega-la-bandera-a-la-seleccion-antes-de-ir-al-mundial/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 04 Jun 2026 19:33:57 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Aumenta la polarización a días de la segunda vuelta presidencial en Perú",
@@ -85,62 +141,6 @@
       "pubDate": "Thu, 04 Jun 2026 18:08:25 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Directo Latam y el apoyo de Trump a De la Espriella en la carrera por la presidencia de Colombia",
-      "link": "https://www.france24.com/es/video/20260604-directo-latam-y-el-apoyo-de-trump-a-de-la-espriella-en-la-carrera-por-la-presidencia-de-colombia",
-      "source": "France 24",
-      "pubDate": "Thu, 04 Jun 2026 18:02:11 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda respalda que se abandone la idea de una constituyente e insiste en un acuerdo nacional: 'Es el momento del encuentro con el centro'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-respalda-que-se-abandone-la-idea-de-una-constituyente-e-insiste-en-un-acuerdo-nacional-es-el-momento-del-encuentro-con-el-centro-3562095",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T12:58:44-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "CNE da por concluido el escrutinio: así quedaron las votaciones finales Abelardo de la Espriella, Iván Cepeda y los demás candidatos",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cne-da-por-concluido-el-escrutinio-asi-quedaron-las-votaciones-finales-de-ivan-cepeda-abelardo-de-la-espriella-y-los-demas-candidatos-3562082",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T12:53:07-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Candidato Abelardo de la Espriella comienza a estrechar lazos con Italia tras llamada con Giorgia Meloni: 'Compartimos la defensa de los valores'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-comienza-a-estrechar-lazos-con-italia-tras-llamada-con-giorgia-meloni-compartimos-la-defensa-de-los-valores-3562106",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T12:25:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Bogotá: Estudiantes de la Unal señalaron fraude electoral en manifestación",
-      "link": "https://www.lasillavacia.com/en-vivo/bogota-estudiantes-de-la-unal-senalaron-fraude-electoral-en-manifestacion/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 04 Jun 2026 16:20:16 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Petro confirma que resultados del domingo desmontaron la constituyente",
-      "link": "https://www.lasillavacia.com/en-vivo/petro-confirma-que-resultados-del-domingo-desmontaron-la-constituyente/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 04 Jun 2026 15:57:24 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Gobierno de Gustavo Petro e Iván Cepeda se bajan de la Constituyente: comité promotor retirará la iniciativa",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gobierno-de-gustavo-petro-e-ivan-cepeda-se-bajan-de-la-constituyente-comite-promotor-retiro-la-iniciativa-3562030",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T10:34:01-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
