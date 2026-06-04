@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-04T10:02:40.464Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-04T15:24:48.604Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 28,
+      "trendsScore": 29,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,100 +47,100 @@
   ],
   "articles": [
     {
-      "title": "Luis Gilberto Murillo rechaza injerencia extranjera y pide unidad nacional: “Nuestra soberanía, democracia y voto se respetan”",
-      "link": "https://www.infobae.com/colombia/2026/06/04/luis-gilberto-murillo-rechaza-injerencia-extranjera-y-pide-unidad-nacional-nuestra-soberania-democracia-y-voto-se-respetan/",
+      "title": "La Universidad del Valle suspendió clases en Cali por “paro indefinido” hasta el 23 de junio: no habrá actividades hasta después de la segunda vuelta electoral",
+      "link": "https://www.infobae.com/colombia/2026/06/04/la-universidad-del-valle-suspendio-clases-por-paro-indefinido-hasta-el-23-de-junio-en-presunto-apoyo-a-ivan-cepeda-para-la-segunda-vuelta-electoral/",
       "source": "Infobae",
-      "pubDate": "Thu, 04 Jun 2026 09:35:27 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Thu, 04 Jun 2026 15:03:55 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Aida Quilcué, fórmula vicepresidencial de Iván Cepeda, aceptó el stream de Westcol: 'Eres bienvenido a nuestra comunidad'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/aida-quilcue-formula-vicepresidencial-de-ivan-cepeda-acepto-el-stream-de-westcol-eres-bienvenido-a-nuestra-comunidad-3561952",
+      "title": "Comité promotor desistió de la convocatoria de una Asamblea Constituyente promovida por el Gobierno Petro",
+      "link": "https://www.infobae.com/colombia/2026/06/04/el-gobierno-petro-desistiria-de-impulsar-una-asamblea-nacional-constituyente-en-colombia/",
+      "source": "Infobae",
+      "pubDate": "Thu, 04 Jun 2026 14:58:34 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones presidenciales en Colombia 2026: Iván Cepeda hará anuncio este 4 de junio; Álvaro Uribe explica su respaldo a Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562000",
       "source": "El Tiempo",
-      "pubDate": "2026-06-04T01:07:02-05:00",
+      "pubDate": "2026-06-04T09:53:58-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "El desconcierto de la campaña de Cepeda ahora tiene a Petro como lastre",
-      "link": "https://www.lasillavacia.com/silla-nacional/el-desconcierto-de-la-campana-de-cepeda-ahora-tiene-a-petro-como-lastre/",
+      "title": "“Un apéndice de Petro y Cepeda”: Abelardo no aceptará apoyo del Liberal",
+      "link": "https://www.lasillavacia.com/en-vivo/un-apendice-de-petro-y-cepeda-abelardo-no-aceptara-apoyo-del-liberal/",
       "source": "La Silla Vacía",
-      "pubDate": "Thu, 04 Jun 2026 06:00:00 +0000",
+      "pubDate": "Thu, 04 Jun 2026 14:51:03 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Senadora María Elvira Salazar pidió sanciones para quien realice fraude en segunda vuelta presidencial de Colombia: lista OFAC y cancelación de visas",
-      "link": "https://www.eltiempo.com/mundo/eeuu-y-canada/senadora-maria-elvira-salazar-pidio-incluir-en-la-lista-ofac-a-quien-realice-fraude-electoral-en-la-segunda-vuelta-presidencial-de-colombia-3561985",
+      "title": "María Fernanda Cabal cuestionó fallo judicial que obliga a Abelardo de la Espriella a pedir disculpas públicas a la periodista Laura Rodríguez: “¿Cuántos casos más así?\"",
+      "link": "https://www.infobae.com/colombia/2026/06/04/maria-fernanda-cabal-cuestiono-fallo-judicial-que-obliga-a-abelardo-de-la-espriella-a-pedir-disculpas-publicas-a-laura-rodriguez/",
+      "source": "Infobae",
+      "pubDate": "Thu, 04 Jun 2026 14:47:23 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Gobierno de Gustavo Petro e Iván Cepeda se bajan de la Constituyente: comité promotor retirará la iniciativa",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gobierno-de-gustavo-petro-e-ivan-cepeda-se-bajan-de-la-constituyente-comite-promotor-retiro-la-iniciativa-3562030",
       "source": "El Tiempo",
-      "pubDate": "2026-06-03T23:54:01-05:00",
+      "pubDate": "2026-06-04T08:44:12-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Petro ordenó bajar el comité promotor de la constituyente",
+      "link": "https://www.lasillavacia.com/en-vivo/petro-ordeno-bajar-el-comite-promotor-de-la-constituyente/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 04 Jun 2026 13:18:21 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Paloma Valencia denuncia 'plan de estallido social' y señala a campaña de Iván Cepeda de alentar vandalismo: 'No es protesta, es violencia'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/paloma-valencia-denuncia-plan-de-estallido-social-y-senala-a-campana-de-ivan-cepeda-de-alentar-vandalismo-no-es-protesta-es-violencia-3562010",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T08:10:33-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Claudia López y su duro mensaje al petrismo de cara a la segunda vuelta de Iván Cepeda: 'Dejen la arrogancia, el sicariato y la estigmatización'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/claudia-lopez-y-su-duro-mensaje-al-petrismo-de-cara-a-la-segunda-vuelta-de-ivan-cepeda-dejen-la-arrogancia-el-sicariato-y-la-estigmatizacion-3561995",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T07:46:40-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Registraduría advierte por mensaje falso sobre registro biométrico y supuesto cambio de mesas de votación: es mentira",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/registraduria-advierte-por-mensaje-falso-sobre-registro-biometrico-y-supuesto-cambio-de-mesas-de-votacion-es-mentira-3562011",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T07:20:40-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "‘Es falso que vamos a acabar con la matrícula cero, con los subsidios, con los programas sociales’: entrevista con José Manuel Restrepo",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/es-falso-que-vamos-a-acabar-con-la-matricula-cero-con-los-subsidios-con-los-programas-sociales-entrevista-con-jose-manuel-restrepo-3561927",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-03T22:55:39-05:00",
+      "title": "Desayune informado con las claves de este 4 de junio de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-4-de-junio-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 04 Jun 2026 12:16:39 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Donald Trump entró a la campaña presidencial de Colombia",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/donald-trump-entro-a-la-campana-presidencial-de-colombia/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 04 Jun 2026 12:00:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Keiko Fujimori, la heredera que busca romper la maldición de las segundas vueltas",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260604-keiko-fujimori-la-heredera-que-busca-romper-la-maldici%C3%B3n-de-las-segundas-vueltas",
-      "source": "France 24",
-      "pubDate": "Thu, 04 Jun 2026 03:05:20 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Claudia López, excandidata presidencial, reveló su postura para la segunda vuelta de las elecciones entre De la Espriella y Cepeda: 'Yo tengo mi voto'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/claudia-lopez-excandidata-presidencial-revelo-su-postura-para-la-segunda-vuelta-de-las-elecciones-entre-de-la-espriella-y-cepeda-yo-tengo-mi-voto-3561966",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-03T20:40:20-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Arranca el desafío logístico para la segunda vuelta: el Gobierno asignó recursos a la Registraduría",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/arranca-el-desafio-logistico-para-la-segunda-vuelta-el-gobierno-asigno-recursos-a-la-registraduria-3561937",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-03T19:00:10-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Claudia López reaccionó a la decisión de su exfórmula vicepresidencial, Leonardo Huerta, de respaldar a Abelardo de la Espriella: 'No la comparto'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/claudia-lopez-reacciono-a-la-decision-de-su-exformula-vicepresidencial-leonardo-huerta-de-respaldar-a-abelardo-de-la-espriella-no-la-comparto-3561941",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-03T18:59:40-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "'No podemos poner a responder a Iván Cepeda por las actitudes del presidente Gustavo Petro': Juan Fernando Cristo",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/no-podemos-poner-a-responder-a-ivan-cepeda-por-las-actitudes-del-presidente-gustavo-petro-juan-fernando-cristo-3561889",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-03T17:58:49-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Elecciones Perú 2026: un balotaje sin mayorías claras en un Perú agotado",
-      "link": "https://www.france24.com/es/video/20260603-elecciones-per%C3%BA-2026-un-balotaje-sin-mayor%C3%ADas-claras-en-un-per%C3%BA-agotado",
-      "source": "France 24",
-      "pubDate": "Wed, 03 Jun 2026 22:38:23 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Campaña 2022: dos congresistas piden llamar a Petro a indagatoria ",
-      "link": "https://www.lasillavacia.com/en-vivo/campana-2022-dos-congresistas-piden-llamar-a-petro-a-indagatoria/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 03 Jun 2026 22:30:20 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
