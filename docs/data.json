@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T20:01:28.790Z",
+  "updatedAt": "2026-06-05T21:42:32.589Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,66 @@
   ],
   "articles": [
     {
-      "title": "¿Tener multas electorales pendientes te puede impedir votar en la segunda vuelta? ONPE aclaró esto en un comunicado",
-      "link": "https://www.infobae.com/peru/2026/06/05/tener-multas-electorales-pendientes-te-puede-impedir-votar-en-la-segunda-vuelta-onpe-aclaro-esto-en-un-comunicado/",
+      "title": "“Deje el papelito”: Paloma Valencia le exigió a Iván Cepeda debatir con Abelardo de la Espriella en un espacio que no esté ‘amañado’",
+      "link": "https://www.infobae.com/colombia/2026/06/05/deje-el-papelito-paloma-valencia-le-exigio-a-ivan-cepeda-debatir-con-abelardo-de-la-espriella-en-un-espacio-que-no-este-amanado/",
       "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 19:41:04 +0000",
+      "pubDate": "Fri, 05 Jun 2026 21:19:22 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Segunda vuelta 2026: Fuerzas Armadas despliegan 45.000 efectivos para custodiar la jornada electoral",
+      "link": "https://www.infobae.com/peru/2026/06/05/segunda-vuelta-2026-fuerzas-armadas-despliegan-45000-efectivos-para-custodiar-la-jornada-electoral/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 21:17:49 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Por qué el presidente Gustavo Petro guarda silencio tras el escrutinio, que confirmó los resultados de primera vuelta?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/el-presidente-gustavo-petro-guarda-silencio-tras-el-escrutinio-que-confirmo-los-resultados-de-primera-vuelta-3562439",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T16:11:14-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Gustavo Petro aseguró que nunca ha pensado en reelegirse y dio detalles sobre el fin de su mandato: “Me alejaré de aquí”",
+      "link": "https://www.infobae.com/colombia/2026/06/05/gustavo-petro-aseguro-que-nunca-ha-pensado-en-reelegirse-y-dio-detalles-sobre-el-fin-de-su-mandato-me-alejare-de-aqui/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 21:08:05 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Cumpliste 18 años tras la primera vuelta? Revisa si puedes votar en la segunda vuelta electoral 2026",
+      "link": "https://www.infobae.com/peru/2026/06/05/cumpliste-18-anos-tras-la-primera-vuelta-revisa-si-puedes-votar-en-la-segunda-vuelta-electoral-2026/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 21:04:37 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Antiguo aliado de Petro anuncia apoyo condicionado a izquierdista Cepeda en segunda vuelta",
+      "link": "https://www.infobae.com/america/agencias/2026/06/05/antiguo-aliado-de-petro-anuncia-apoyo-condicionado-a-izquierdista-cepeda-en-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 21:01:44 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "El Partido Liberal deja en libertad a la militancia para la segunda vuelta pero insiste en votar por la defensa de la Constitución Política de 1991",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-partido-liberal-deja-en-libertad-a-la-militancia-para-la-segunda-vuelta-pero-insiste-en-votar-por-la-defensa-de-la-constitucion-politica-de-3562433",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T15:30:29-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Sector salud invita a Abelardo y Cepeda a dialogar sobre el futuro del sistema",
+      "link": "https://www.lasillavacia.com/en-vivo/sector-salud-invita-a-abelardo-y-cepeda-a-dialogar-sobre-el-futuro-del-sistema/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 05 Jun 2026 20:02:14 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -61,38 +117,6 @@
       "pubDate": "2026-06-05T14:39:27-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "El país decide: las claves de una segunda vuelta marcada por la polarización",
-      "link": "https://www.infobae.com/peru/2026/06/05/el-pais-decide-las-claves-de-una-segunda-vuelta-marcada-por-la-polarizacion/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 19:29:22 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones 2026 Perú, segunda vuelta EN VIVO: últimas noticias de Keiko Fujimori, Roberto Sánchez y todo sobre los comicios del 7 de junio",
-      "link": "https://www.infobae.com/peru/2026/06/05/elecciones-2026-peru-segunda-vuelta-en-vivo-ultimas-noticias-de-keiko-fujimori-roberto-sanchez-y-todo-sobre-los-comicios-del-7-de-junio/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 19:26:16 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Roberto Sánchez señala que a una Asamblea Constituyente solo se puede llegar por el “camino democrático del referéndum” ",
-      "link": "https://www.infobae.com/peru/2026/06/05/roberto-sanchez-senala-que-a-una-asamblea-constituyente-solo-se-puede-llegar-por-el-camino-democratico-del-referendum/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 19:26:09 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo de la Espriella promete recuperar programas de subsidios de vivienda bajo el lema ‘Colombia país de propietarios’ con un millón de casas",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-promete-recuperar-programas-de-subsidios-de-vivienda-bajo-el-lema-colombia-pais-de-propietarios-con-un-millon-de-casas-3562288",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T13:27:40-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Barras de fútbol le dan a Cepeda la camiseta de la Selección",
@@ -115,30 +139,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/registraduria-publico-oficialmente-el-tarjeton-de-la-segunda-vuelta-presidencial-se-mantiene-el-orden-de-las-casillas-por-la-ley-3562363",
       "source": "El Tiempo",
       "pubDate": "2026-06-05T12:38:54-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "'La desinformación representa el principal factor de riesgo': Procuraduría tras reunión sobre la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-desinformacion-representa-el-principal-factor-de-riesgo-procuraduria-tras-reunion-sobre-la-segunda-vuelta-presidencial-3562346",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T11:55:26-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "La foto: listo el tarjetón para la segunda vuelta presidencial",
-      "link": "https://www.lasillavacia.com/en-vivo/la-foto-listo-el-tarjeton-para-la-segunda-vuelta-presidencial/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 05 Jun 2026 16:29:05 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Petro llamó a Oviedo para hablar del resultado electoral",
-      "link": "https://www.lasillavacia.com/en-vivo/petro-llamo-a-oviedo-para-hablar-del-resultado-electoral/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 05 Jun 2026 16:18:16 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
