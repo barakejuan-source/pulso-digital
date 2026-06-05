@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T21:42:32.589Z",
+  "updatedAt": "2026-06-05T23:14:55.154Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 31,
+      "trendsScore": 33,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 22.7
       },
       "youtubeViews": 520937,
-      "finalScore": 47,
+      "finalScore": 48,
       "momentum": {
-        "value": 0,
+        "value": 2.1,
         "direction": "flat"
       },
-      "probability": 43.1
+      "probability": 43.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,25 +42,73 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 56.9
+      "probability": 56.4
     }
   ],
   "articles": [
     {
-      "title": "“Deje el papelito”: Paloma Valencia le exigió a Iván Cepeda debatir con Abelardo de la Espriella en un espacio que no esté ‘amañado’",
-      "link": "https://www.infobae.com/colombia/2026/06/05/deje-el-papelito-paloma-valencia-le-exigio-a-ivan-cepeda-debatir-con-abelardo-de-la-espriella-en-un-espacio-que-no-este-amanado/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 21:19:22 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Uribe y De la Espriella no se reunieron luego de primera vuelta, video es viejo",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/uribe-y-de-la-espriella-no-se-reunieron-luego-de-primera-vuelta-video-es-viejo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 05 Jun 2026 23:08:53 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Segunda vuelta 2026: Fuerzas Armadas despliegan 45.000 efectivos para custodiar la jornada electoral",
-      "link": "https://www.infobae.com/peru/2026/06/05/segunda-vuelta-2026-fuerzas-armadas-despliegan-45000-efectivos-para-custodiar-la-jornada-electoral/",
+      "title": "María Fernanda Cabal destapó su carta política con Abelardo de la Espriella: dijo estar “firme por la patria” y con la camiseta puesta",
+      "link": "https://www.infobae.com/colombia/2026/06/05/maria-fernanda-cabal-destapo-su-carta-politica-con-abelardo-de-la-espriella-dijo-estar-firme-por-la-patria-y-con-la-camiseta-puesta/",
       "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 21:17:49 +0000",
+      "pubDate": "Fri, 05 Jun 2026 22:56:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Antiguo aliado de Petro anuncia apoyo condicionado al izquierdista Cepeda en segunda vuelta",
+      "link": "https://www.infobae.com/america/agencias/2026/06/05/antiguo-aliado-de-petro-anuncia-apoyo-condicionado-al-izquierdista-cepeda-en-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 22:30:28 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "Ministro Pedro Sánchez está en la mira por presunta participación en política: defensa de Abelardo de la Espriella pidió suspenderlo",
+      "link": "https://www.infobae.com/colombia/2026/06/05/ministro-pedro-sanchez-esta-en-la-mira-por-presunta-participacion-en-politica-defensa-de-abelardo-de-la-espriella-pidio-suspenderlo/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 22:14:36 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Resultados oficiales de la segunda vuelta se proclamarán a mediados de julio, anuncia el JNE",
+      "link": "https://www.infobae.com/peru/2026/06/05/resultados-oficiales-de-la-segunda-vuelta-se-proclamaran-a-mediados-de-julio-anuncia-el-jne/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 22:07:35 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Fenalco anunció apoyo a candidatura de Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/en-vivo/fenalco-anuncio-apoyo-a-candidatura-de-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 05 Jun 2026 22:03:13 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Desde campaña de Abelardo de la Espriella aseguran que seguirán usando camiseta de la Selección: 'la libertad individual es un principio democrático'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/jose-manuel-restrepo-asegura-que-seguira-usando-la-camiseta-de-la-seleccion-las-libertades-individuales-son-principios-de-nuestra-democracia-3562460",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T16:57:08-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El Partido Liberal deja en libertad a la militancia para la segunda vuelta pero insiste en votar por la defensa de la Constitución Política de 1991",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-partido-liberal-deja-en-libertad-a-la-militancia-para-la-segunda-vuelta-pero-insiste-en-votar-por-la-defensa-de-la-constitucion-politica-de-3562433",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T16:34:46-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "¿Por qué el presidente Gustavo Petro guarda silencio tras el escrutinio, que confirmó los resultados de primera vuelta?",
@@ -69,38 +117,6 @@
       "pubDate": "2026-06-05T16:11:14-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Gustavo Petro aseguró que nunca ha pensado en reelegirse y dio detalles sobre el fin de su mandato: “Me alejaré de aquí”",
-      "link": "https://www.infobae.com/colombia/2026/06/05/gustavo-petro-aseguro-que-nunca-ha-pensado-en-reelegirse-y-dio-detalles-sobre-el-fin-de-su-mandato-me-alejare-de-aqui/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 21:08:05 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Cumpliste 18 años tras la primera vuelta? Revisa si puedes votar en la segunda vuelta electoral 2026",
-      "link": "https://www.infobae.com/peru/2026/06/05/cumpliste-18-anos-tras-la-primera-vuelta-revisa-si-puedes-votar-en-la-segunda-vuelta-electoral-2026/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 21:04:37 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Antiguo aliado de Petro anuncia apoyo condicionado a izquierdista Cepeda en segunda vuelta",
-      "link": "https://www.infobae.com/america/agencias/2026/06/05/antiguo-aliado-de-petro-anuncia-apoyo-condicionado-a-izquierdista-cepeda-en-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 21:01:44 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "El Partido Liberal deja en libertad a la militancia para la segunda vuelta pero insiste en votar por la defensa de la Constitución Política de 1991",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-partido-liberal-deja-en-libertad-a-la-militancia-para-la-segunda-vuelta-pero-insiste-en-votar-por-la-defensa-de-la-constitucion-politica-de-3562433",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T15:30:29-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Sector salud invita a Abelardo y Cepeda a dialogar sobre el futuro del sistema",
@@ -119,26 +135,10 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Barras de fútbol le dan a Cepeda la camiseta de la Selección",
-      "link": "https://www.lasillavacia.com/en-vivo/barras-de-futbol-le-dan-a-cepeda-la-camiseta-de-la-seleccion/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 05 Jun 2026 18:10:27 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Venezuela, la variable olvidada para la segunda vuelta",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/venezuela-la-variable-olvidada-para-la-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 05 Jun 2026 18:00:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Registraduría publicó oficialmente el tarjetón de la segunda vuelta presidencial: se mantiene el orden de las casillas por la ley",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/registraduria-publico-oficialmente-el-tarjeton-de-la-segunda-vuelta-presidencial-se-mantiene-el-orden-de-las-casillas-por-la-ley-3562363",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T12:38:54-05:00",
+      "title": "Fujimori y Sánchez cierran sus campañas mientras Perú se dirige a un balotaje con posible empate técnico",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260605-fujimori-y-s%C3%A1nchez-cierran-sus-campa%C3%B1as-mientras-per%C3%BA-se-dirige-a-un-balotaje-con-empate-t%C3%A9cnico",
+      "source": "France 24",
+      "pubDate": "Fri, 05 Jun 2026 15:23:00 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
