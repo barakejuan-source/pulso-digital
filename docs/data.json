@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T12:46:41.983Z",
+  "updatedAt": "2026-06-05T16:32:18.498Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,100 +47,100 @@
   ],
   "articles": [
     {
-      "title": "Elecciones 2026 Perú, segunda vuelta EN VIVO: últimas noticias de Keiko Fujimori, Roberto Sánchez y todo sobre los comicios del 7 de junio",
-      "link": "https://www.infobae.com/peru/2026/06/05/elecciones-2026-peru-segunda-vuelta-en-vivo-ultimas-noticias-de-keiko-fujimori-roberto-sanchez-y-todo-sobre-los-comicios-del-7-de-junio/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 12:42:24 +0000",
+      "title": "La foto: listo el tarjetón para la segunda vuelta presidencial",
+      "link": "https://www.lasillavacia.com/en-vivo/la-foto-listo-el-tarjeton-para-la-segunda-vuelta-presidencial/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 05 Jun 2026 16:29:05 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Registraduría publicó oficialmente el tarjetón de la segunda vuelta presidencial: se mantiene el orden de las casillas por la ley",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/registraduria-publico-oficialmente-el-tarjeton-de-la-segunda-vuelta-presidencial-se-mantiene-el-orden-de-las-casillas-por-la-ley-3562363",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T11:25:03-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Gustavo Petro pidió calmar la tensión en las campañas de Abelardo de la Espriella e Iván Cepeda y disminuir el discurso de odio: “Va a hacer matar a la ciudadanía”  ",
-      "link": "https://www.infobae.com/colombia/2026/06/05/gustavo-petro-pidio-calmar-la-tension-en-las-campanas-de-abelardo-de-la-espriella-e-ivan-cepeda-y-disminuir-el-discurso-de-odio-va-a-hacer-matar-a-la-ciudadania/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 12:33:29 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Estos son los detalles de la tensa reunión entre Gustavo Petro e Iván Cepeda tras los resultados de la primera vuelta presidencial: “Si usted renuncia, yo también”",
-      "link": "https://www.infobae.com/colombia/2026/06/05/estos-son-los-detalles-de-la-tensa-reunion-entre-gustavo-petro-e-ivan-cepeda-luego-de-los-resultados-de-la-primera-vuelta-presidencial/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 12:26:42 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Cepeda, la constituyente y los votos de centro",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/cepeda-la-constituyente-y-los-votos-de-centro/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 05 Jun 2026 11:57:52 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Elecciones presidenciales en Colombia 2026: candidato Abelardo de la Espriella se pronunció tras protestas frente a su sede de campaña en Bogotá",
+      "title": "Elecciones presidenciales en Colombia 2026: Registraduría definió tarjetón para la segunda vuelta entre Abelardo de la Espriella e Iván Cepeda",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
       "source": "El Tiempo",
-      "pubDate": "2026-06-05T06:38:52-05:00",
+      "pubDate": "2026-06-05T11:23:16-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Gustavo Petro solicitó capturar a hombre armado involucrado en incidente frente a sede de campaña de Abelardo de la Espriella en Bogotá",
+      "link": "https://www.infobae.com/colombia/2026/06/05/gustavo-petro-solicito-capturar-a-hombre-armado-involucrado-en-incidente-frente-a-sede-de-campana-de-abelardo-de-la-espriella-en-bogota/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 16:20:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Petro llamó a Oviedo para hablar del resultado electoral",
+      "link": "https://www.lasillavacia.com/en-vivo/petro-llamo-a-oviedo-para-hablar-del-resultado-electoral/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 05 Jun 2026 16:18:16 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Cómo es la trama jerárquica detrás del asesinato de Fernando Villavicencio que investiga la fiscalía de Ecuador",
+      "link": "https://www.infobae.com/america/america-latina/2026/06/05/como-es-la-trama-jerarquica-detras-del-asesinato-de-fernando-villavicencio-que-investiga-la-fiscalia-de-ecuador/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 16:13:16 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Fiscalía formaliza pedido de más de 5 años de prisión contra Roberto Sánchez por falsear aportes",
+      "link": "https://www.infobae.com/peru/2026/06/05/fiscalia-formaliza-pedido-de-mas-de-5-anos-de-prision-contra-roberto-sanchez-por-falsear-aportes/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 16:12:29 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Roy Barreras confirmó su apoyo al candidato presidencial Iván Cepeda para la segunda vuelta electoral  ",
+      "link": "https://www.infobae.com/colombia/2026/06/05/roy-barreras-confirmo-su-apoyo-al-candidato-presidencial-ivan-cepeda-para-la-segunda-vuelta-electoral/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 16:00:40 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella promete recuperar programas de subsidios de vivienda bajo el lema ‘Colombia país de propietarios’ con un millón de casas",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-promete-recuperar-programas-de-subsidios-de-vivienda-bajo-el-lema-colombia-pais-de-propietarios-con-un-millon-de-casas-3562288",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T10:57:57-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elecciones presidenciales 2026 en Colombia: ¿puede una mujer embarazada ser excusada de ser jurado de votación en la segunda vuelta del 21 de junio?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-puede-una-mujer-embarazada-ser-excusada-de-ser-jurado-de-votacion-en-la-segunda-vuelta-del-21-de-junio-3562306",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T10:51:06-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Fujimori y Sánchez cierran sus campañas mientras Perú se dirige a un balotaje con empate técnico",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260605-fujimori-y-s%C3%A1nchez-cierran-sus-campa%C3%B1as-mientras-per%C3%BA-se-dirige-a-un-balotaje-con-empate-t%C3%A9cnico",
+      "source": "France 24",
+      "pubDate": "Fri, 05 Jun 2026 15:23:00 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Abelardo de la Espriella afirma que considera sacar a Colombia de la ONU y la OEA de quedar electo: 'No es un sí rotundo, estoy muy inclinado a eso'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/abelardo-de-la-espriella-considera-sacar-a-colombia-de-la-onu-y-la-oea-en-su-eventual-gobierno-no-es-un-si-rotundo-estoy-muy-inclinado-a-eso-3562285",
       "source": "El Tiempo",
-      "pubDate": "2026-06-05T06:36:45-05:00",
+      "pubDate": "2026-06-05T08:55:27-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Qué sigue tras la finalización de los escrutinios de primera vuelta? Aún reclaman reconocimiento de resultados del presidente y de Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-sigue-tras-la-finalizacion-de-los-escrutinios-de-primera-vuelta-aun-reclaman-reconocimiento-de-resultados-del-presidente-y-de-cepeda-3562234",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T06:09:54-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "El círculo de poder de Abelardo de La Espriella",
-      "link": "https://www.lasillavacia.com/silla-nacional/el-circulo-de-poder-de-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 05 Jun 2026 05:46:39 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "#ElFiltro: circula imagen falsa con estilos de EL TIEMPO que difunde una supuesta propuesta de Abelardo de la Espriella sobre entidades sociales",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-circula-imagen-falsa-con-estilos-de-el-tiempo-que-difunde-una-supuesta-propuesta-de-abelardo-de-la-espriella-sobre-entidades-sociales-3562270",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T00:35:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "'Juan Daniel, ¿qué pasó el domingo?' / Entrevista de María Isabel Rueda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/juan-daniel-que-paso-el-domingo-entrevista-de-maria-isabel-rueda-3562243",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T23:32:40-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Gustavo Petro aseguró que 'Estados Unidos se alió con narcotraficantes' tras respaldo de Donald Trump a campaña de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/presidente-gustavo-petro-aseguro-que-estados-unidos-se-alio-con-narcotraficantes-tras-respaldo-de-donald-trump-a-campana-de-abelardo-de-la-espriella-3562265",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T23:24:54-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El cálculo electoral del petrismo detrás del anuncio de suspender constituyente",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-calculo-electoral-del-petrismo-detras-del-anuncio-de-suspender-constituyente-3562245",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T22:30:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
