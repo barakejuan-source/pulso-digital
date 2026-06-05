@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T04:08:14.082Z",
+  "updatedAt": "2026-06-05T09:59:44.485Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 32,
+      "trendsScore": 31,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,20 +47,44 @@
   ],
   "articles": [
     {
-      "title": "Cierre de campaña de Roberto Sánchez EN VIVO: minuto a minuto del último mitin de Juntos por el Perú en Lima",
-      "link": "https://www.infobae.com/peru/2026/06/04/cierre-de-campana-de-roberto-sanchez-en-vivo-minuto-a-minuto-del-ultimo-mitin-de-juntos-por-el-peru-en-lima/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 03:54:48 +0000",
+      "title": "Elecciones presidenciales en Colombia 2026: minuto a minuto, respaldos y noticias de la segunda vuelta entre Iván Cepeda y Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T04:51:30-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "El círculo de poder de Abelardo de La Espriella",
+      "link": "https://www.lasillavacia.com/silla-nacional/el-circulo-de-poder-de-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 05 Jun 2026 05:46:39 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "#ElFiltro: circula imagen falsa con estilos de EL TIEMPO que difunde una supuesta propuesta de Abelardo de la Espriella sobre entidades sociales",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-circula-imagen-falsa-con-estilos-de-el-tiempo-que-difunde-una-supuesta-propuesta-de-abelardo-de-la-espriella-sobre-entidades-sociales-3562270",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T00:35:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "'Juan Daniel, ¿qué pasó el domingo?' / Entrevista de María Isabel Rueda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/juan-daniel-que-paso-el-domingo-entrevista-de-maria-isabel-rueda-3562243",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T23:32:40-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Más de 1.900 personeros de Fuerza Popular y Juntos por el Perú fueron capacitados por la ONPE para la segunda vuelta electoral",
-      "link": "https://www.infobae.com/peru/2026/06/05/mas-de-1900-personeros-de-fuerza-popular-y-juntos-por-el-peru-fueron-capacitados-por-la-onpe-para-la-segunda-vuelta-electoral/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 03:33:54 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Presidente Gustavo Petro aseguró que 'Estados Unidos se alió con narcotraficantes' tras respaldo de Donald Trump a campaña de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/presidente-gustavo-petro-aseguro-que-estados-unidos-se-alio-con-narcotraficantes-tras-respaldo-de-donald-trump-a-campana-de-abelardo-de-la-espriella-3562265",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T23:24:54-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "El cálculo electoral del petrismo detrás del anuncio de suspender constituyente",
@@ -87,26 +111,10 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones presidenciales en Colombia 2026: ¿cuándo inician las votaciones de la segunda vuelta para los colombianos en el exterior?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-cuando-inician-las-votaciones-de-la-segunda-vuelta-para-los-colombianos-en-el-exterior-3562121",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T21:56:01-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "Petro acusa a EE. UU. de aliarse con \"narcotraficantes\" en Colombia tras apoyo de Trump a De la Espriella",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260605-petro-acusa-a-ee-uu-de-aliarse-con-narcotraficantes-en-colombia-tras-apoyo-de-trump-a-de-la-espriella",
       "source": "France 24",
       "pubDate": "Fri, 05 Jun 2026 01:11:35 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella aseguró que seguirá 'portando' camiseta de la Selección Colombia pese a orden de juzgado que prohibió su uso: 'Equivocados'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-aseguro-que-seguira-portando-camiseta-de-la-seleccion-colombia-pese-a-orden-de-juzgado-que-prohibio-su-uso-equivocados-3562214",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T19:05:46-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -131,14 +139,6 @@
       "link": "https://www.france24.com/es/video/20260604-elecciones-en-per%C3%BA-dar%C3%A1n-el-voto-en-blanco-y-nulo-la-sorpresa-en-el-balotaje",
       "source": "France 24",
       "pubDate": "Thu, 04 Jun 2026 20:27:06 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Balotaje en Perú: este es el mapa de inseguridad que recibirá el próximo presidente",
-      "link": "https://www.france24.com/es/programas/en-contexto/20260604-balotaje-en-per%C3%BA-este-es-el-mapa-de-inseguridad-que-recibir%C3%A1-el-pr%C3%B3ximo-presidente",
-      "source": "France 24",
-      "pubDate": "Thu, 04 Jun 2026 19:50:03 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
