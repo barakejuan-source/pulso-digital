@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T16:32:18.498Z",
+  "updatedAt": "2026-06-05T20:01:28.790Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,86 @@
   ],
   "articles": [
     {
+      "title": "¿Tener multas electorales pendientes te puede impedir votar en la segunda vuelta? ONPE aclaró esto en un comunicado",
+      "link": "https://www.infobae.com/peru/2026/06/05/tener-multas-electorales-pendientes-te-puede-impedir-votar-en-la-segunda-vuelta-onpe-aclaro-esto-en-un-comunicado/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 19:41:04 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Este es el equipo económico que viene trabajando con Iván Cepeda en su campaña",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/este-es-el-equipo-economico-que-viene-trabajando-con-ivan-cepeda-y-que-podria-acompanarlo-en-su-eventual-gobierno-3562377",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T14:39:27-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "El país decide: las claves de una segunda vuelta marcada por la polarización",
+      "link": "https://www.infobae.com/peru/2026/06/05/el-pais-decide-las-claves-de-una-segunda-vuelta-marcada-por-la-polarizacion/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 19:29:22 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones 2026 Perú, segunda vuelta EN VIVO: últimas noticias de Keiko Fujimori, Roberto Sánchez y todo sobre los comicios del 7 de junio",
+      "link": "https://www.infobae.com/peru/2026/06/05/elecciones-2026-peru-segunda-vuelta-en-vivo-ultimas-noticias-de-keiko-fujimori-roberto-sanchez-y-todo-sobre-los-comicios-del-7-de-junio/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 19:26:16 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Roberto Sánchez señala que a una Asamblea Constituyente solo se puede llegar por el “camino democrático del referéndum” ",
+      "link": "https://www.infobae.com/peru/2026/06/05/roberto-sanchez-senala-que-a-una-asamblea-constituyente-solo-se-puede-llegar-por-el-camino-democratico-del-referendum/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 19:26:09 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella promete recuperar programas de subsidios de vivienda bajo el lema ‘Colombia país de propietarios’ con un millón de casas",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-promete-recuperar-programas-de-subsidios-de-vivienda-bajo-el-lema-colombia-pais-de-propietarios-con-un-millon-de-casas-3562288",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T13:27:40-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Barras de fútbol le dan a Cepeda la camiseta de la Selección",
+      "link": "https://www.lasillavacia.com/en-vivo/barras-de-futbol-le-dan-a-cepeda-la-camiseta-de-la-seleccion/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 05 Jun 2026 18:10:27 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Venezuela, la variable olvidada para la segunda vuelta",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/venezuela-la-variable-olvidada-para-la-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 05 Jun 2026 18:00:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Registraduría publicó oficialmente el tarjetón de la segunda vuelta presidencial: se mantiene el orden de las casillas por la ley",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/registraduria-publico-oficialmente-el-tarjeton-de-la-segunda-vuelta-presidencial-se-mantiene-el-orden-de-las-casillas-por-la-ley-3562363",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T12:38:54-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "'La desinformación representa el principal factor de riesgo': Procuraduría tras reunión sobre la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-desinformacion-representa-el-principal-factor-de-riesgo-procuraduria-tras-reunion-sobre-la-segunda-vuelta-presidencial-3562346",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T11:55:26-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "La foto: listo el tarjetón para la segunda vuelta presidencial",
       "link": "https://www.lasillavacia.com/en-vivo/la-foto-listo-el-tarjeton-para-la-segunda-vuelta-presidencial/",
       "source": "La Silla Vacía",
@@ -55,92 +135,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Registraduría publicó oficialmente el tarjetón de la segunda vuelta presidencial: se mantiene el orden de las casillas por la ley",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/registraduria-publico-oficialmente-el-tarjeton-de-la-segunda-vuelta-presidencial-se-mantiene-el-orden-de-las-casillas-por-la-ley-3562363",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T11:25:03-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones presidenciales en Colombia 2026: Registraduría definió tarjetón para la segunda vuelta entre Abelardo de la Espriella e Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T11:23:16-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Gustavo Petro solicitó capturar a hombre armado involucrado en incidente frente a sede de campaña de Abelardo de la Espriella en Bogotá",
-      "link": "https://www.infobae.com/colombia/2026/06/05/gustavo-petro-solicito-capturar-a-hombre-armado-involucrado-en-incidente-frente-a-sede-de-campana-de-abelardo-de-la-espriella-en-bogota/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 16:20:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Petro llamó a Oviedo para hablar del resultado electoral",
       "link": "https://www.lasillavacia.com/en-vivo/petro-llamo-a-oviedo-para-hablar-del-resultado-electoral/",
       "source": "La Silla Vacía",
       "pubDate": "Fri, 05 Jun 2026 16:18:16 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Cómo es la trama jerárquica detrás del asesinato de Fernando Villavicencio que investiga la fiscalía de Ecuador",
-      "link": "https://www.infobae.com/america/america-latina/2026/06/05/como-es-la-trama-jerarquica-detras-del-asesinato-de-fernando-villavicencio-que-investiga-la-fiscalia-de-ecuador/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 16:13:16 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Fiscalía formaliza pedido de más de 5 años de prisión contra Roberto Sánchez por falsear aportes",
-      "link": "https://www.infobae.com/peru/2026/06/05/fiscalia-formaliza-pedido-de-mas-de-5-anos-de-prision-contra-roberto-sanchez-por-falsear-aportes/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 16:12:29 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Roy Barreras confirmó su apoyo al candidato presidencial Iván Cepeda para la segunda vuelta electoral  ",
-      "link": "https://www.infobae.com/colombia/2026/06/05/roy-barreras-confirmo-su-apoyo-al-candidato-presidencial-ivan-cepeda-para-la-segunda-vuelta-electoral/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 16:00:40 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo de la Espriella promete recuperar programas de subsidios de vivienda bajo el lema ‘Colombia país de propietarios’ con un millón de casas",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-promete-recuperar-programas-de-subsidios-de-vivienda-bajo-el-lema-colombia-pais-de-propietarios-con-un-millon-de-casas-3562288",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T10:57:57-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Elecciones presidenciales 2026 en Colombia: ¿puede una mujer embarazada ser excusada de ser jurado de votación en la segunda vuelta del 21 de junio?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-puede-una-mujer-embarazada-ser-excusada-de-ser-jurado-de-votacion-en-la-segunda-vuelta-del-21-de-junio-3562306",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T10:51:06-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Fujimori y Sánchez cierran sus campañas mientras Perú se dirige a un balotaje con empate técnico",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260605-fujimori-y-s%C3%A1nchez-cierran-sus-campa%C3%B1as-mientras-per%C3%BA-se-dirige-a-un-balotaje-con-empate-t%C3%A9cnico",
-      "source": "France 24",
-      "pubDate": "Fri, 05 Jun 2026 15:23:00 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo de la Espriella afirma que considera sacar a Colombia de la ONU y la OEA de quedar electo: 'No es un sí rotundo, estoy muy inclinado a eso'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/abelardo-de-la-espriella-considera-sacar-a-colombia-de-la-onu-y-la-oea-en-su-eventual-gobierno-no-es-un-si-rotundo-estoy-muy-inclinado-a-eso-3562285",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T08:55:27-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
