@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T23:13:21.929Z",
+  "updatedAt": "2026-06-05T04:08:14.082Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 30,
+      "trendsScore": 32,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,20 +47,76 @@
   ],
   "articles": [
     {
-      "title": "Iván Duque cuestionó fallo que prohibió a Abelardo de la Espriella usar la camiseta de la selección Colombia: “Nadie domina nuestra conciencia”",
-      "link": "https://www.infobae.com/colombia/2026/06/04/ivan-duque-cuestiono-fallo-que-prohibio-a-abelardo-de-la-espriella-usar-la-camiseta-de-la-seleccion-colombia-nadie-domina-nuestra-conciencia/",
+      "title": "Cierre de campaña de Roberto Sánchez EN VIVO: minuto a minuto del último mitin de Juntos por el Perú en Lima",
+      "link": "https://www.infobae.com/peru/2026/06/04/cierre-de-campana-de-roberto-sanchez-en-vivo-minuto-a-minuto-del-ultimo-mitin-de-juntos-por-el-peru-en-lima/",
       "source": "Infobae",
-      "pubDate": "Thu, 04 Jun 2026 23:02:01 +0000",
+      "pubDate": "Fri, 05 Jun 2026 03:54:48 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Más de 1.900 personeros de Fuerza Popular y Juntos por el Perú fueron capacitados por la ONPE para la segunda vuelta electoral",
+      "link": "https://www.infobae.com/peru/2026/06/05/mas-de-1900-personeros-de-fuerza-popular-y-juntos-por-el-peru-fueron-capacitados-por-la-onpe-para-la-segunda-vuelta-electoral/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 03:33:54 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "El cálculo electoral del petrismo detrás del anuncio de suspender constituyente",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-calculo-electoral-del-petrismo-detras-del-anuncio-de-suspender-constituyente-3562245",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T22:30:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Qué sigue tras la finalización de los escrutinios de primera vuelta? Aún reclaman reconocimiento de resultados del presidente y de Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-sigue-tras-la-finalizacion-de-los-escrutinios-de-primera-vuelta-aun-reclaman-reconocimiento-de-resultados-del-presidente-y-de-cepeda-3562234",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T22:25:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Roberto Sánchez, el heredero del sombrero que quiere terminar lo que Castillo no pudo",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260605-roberto-s%C3%A1nchez-el-heredero-del-sombrero-que-quiere-terminar-lo-que-castillo-no-pudo",
+      "source": "France 24",
+      "pubDate": "Fri, 05 Jun 2026 02:56:47 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones presidenciales en Colombia 2026: ¿cuándo inician las votaciones de la segunda vuelta para los colombianos en el exterior?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-cuando-inician-las-votaciones-de-la-segunda-vuelta-para-los-colombianos-en-el-exterior-3562121",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T21:56:01-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Petro acusa a EE. UU. de aliarse con \"narcotraficantes\" en Colombia tras apoyo de Trump a De la Espriella",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260605-petro-acusa-a-ee-uu-de-aliarse-con-narcotraficantes-en-colombia-tras-apoyo-de-trump-a-de-la-espriella",
+      "source": "France 24",
+      "pubDate": "Fri, 05 Jun 2026 01:11:35 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Procuraduría abrió investigación contra Hollman Morris por presunto favorecimiento de agendas afines al Gobierno y a Iván Cepeda ",
-      "link": "https://www.infobae.com/colombia/2026/06/04/procuraduria-abrio-investigacion-contra-hollman-morris-por-presunto-favorecimiento-de-agendas-afines-al-gobierno-y-a-ivan-cepeda/",
-      "source": "Infobae",
-      "pubDate": "Thu, 04 Jun 2026 23:01:54 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Abelardo de la Espriella aseguró que seguirá 'portando' camiseta de la Selección Colombia pese a orden de juzgado que prohibió su uso: 'Equivocados'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-aseguro-que-seguira-portando-camiseta-de-la-seleccion-colombia-pese-a-orden-de-juzgado-que-prohibio-su-uso-equivocados-3562214",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-04T19:05:46-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Otro de los Lara también votará por Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/en-vivo/otro-de-los-lara-tambien-votara-por-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 04 Jun 2026 23:51:05 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "¿Hasta qué punto puede Cepeda aprovechar el respaldo político de Petro en Colombia?",
@@ -71,62 +127,6 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Segunda vuelta 2026: Contraloría despliega operativo nacional para verificar material electoral en ODPE y locales de votación ",
-      "link": "https://www.infobae.com/peru/2026/06/04/segunda-vuelta-2026-contraloria-despliega-operativo-nacional-para-verificar-material-electoral-en-odpe-y-locales-de-votacion/",
-      "source": "Infobae",
-      "pubDate": "Thu, 04 Jun 2026 22:54:35 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Cierre de campaña de Roberto Sánchez EN VIVO: minuto a minuto del último mitin de Juntos por el Perú en Lima",
-      "link": "https://www.infobae.com/peru/2026/06/04/cierre-de-campana-de-roberto-sanchez-en-vivo-minuto-a-minuto-del-ultimo-mitin-de-juntos-por-el-peru-en-lima/",
-      "source": "Infobae",
-      "pubDate": "Thu, 04 Jun 2026 22:42:14 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Jean Ferrari, fichado por Fuerza Popular, responde si dejaría la FPF por un cargo en el Gobierno si Keiko Fujimori resulta electa",
-      "link": "https://www.infobae.com/peru/2026/06/04/jean-ferrari-fichado-por-fuerza-popular-responde-si-dejaria-la-fpf-por-un-cargo-en-el-gobierno-si-keiko-fujimori-resulta-electa/",
-      "source": "Infobae",
-      "pubDate": "Thu, 04 Jun 2026 22:32:14 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "'Voten por el que el corazón les diga': representante conservador Ape Cuello, cercano a Juliana Guerrero, sobre la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/voten-por-el-que-el-corazon-les-diga-representante-conservador-ape-cuello-cercano-a-juliana-guerrero-sobre-la-segunda-vuelta-presidencial-3562166",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T16:13:43-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Ministro Antonio Sanguino aseguró que suspensión del proceso de Asamblea Constituyente no tuvo que ver con campaña de Iván Cepeda: 'Hace varios meses'",
-      "link": "https://www.eltiempo.com/politica/gobierno/ministro-antonio-sanguino-aseguro-que-suspension-del-proceso-de-asamblea-constituyente-no-tuvo-que-ver-con-campana-de-ivan-cepeda-hace-varios-meses-3562132",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T16:10:25-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Las veces que el presidente Gustavo Petro ha incumplido su palabra de no convocar una asamblea nacional constituyente",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-veces-que-el-presidente-gustavo-petro-ha-incumplido-su-palabra-de-no-convocar-una-asamblea-nacional-constituyente-3562175",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T16:05:23-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Habló campaña de Abelardo de la Espriella tras orden de juzgado que le prohibió uso de la camiseta de la Selección Colombia: 'No se censura'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/hablo-campana-de-abelardo-de-la-espriella-tras-orden-de-juzgado-que-le-prohibio-uso-de-la-camiseta-de-la-seleccion-colombia-no-se-censura-3562138",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T15:55:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Elecciones en Perú: ¿Darán el voto en blanco y nulo la sorpresa en el balotaje?",
       "link": "https://www.france24.com/es/video/20260604-elecciones-en-per%C3%BA-dar%C3%A1n-el-voto-en-blanco-y-nulo-la-sorpresa-en-el-balotaje",
       "source": "France 24",
@@ -135,12 +135,12 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "José Manuel Restrepo, fórmula vicepresidencial de De la Espriella, se pronunció tras suspensión de Constituyente: 'Colombianos no comen cuento'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/jose-manuel-restrepo-formula-vicepresidencial-de-abelardo-de-la-espriella-se-pronuncio-tras-retiro-de-la-constituyente-resulta-sospechoso-3562134",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T15:24:47-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Balotaje en Perú: este es el mapa de inseguridad que recibirá el próximo presidente",
+      "link": "https://www.france24.com/es/programas/en-contexto/20260604-balotaje-en-per%C3%BA-este-es-el-mapa-de-inseguridad-que-recibir%C3%A1-el-pr%C3%B3ximo-presidente",
+      "source": "France 24",
+      "pubDate": "Thu, 04 Jun 2026 19:50:03 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
