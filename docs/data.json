@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T09:59:44.485Z",
+  "updatedAt": "2026-06-05T12:46:41.983Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,58 @@
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales en Colombia 2026: minuto a minuto, respaldos y noticias de la segunda vuelta entre Iván Cepeda y Abelardo de la Espriella",
+      "title": "Elecciones 2026 Perú, segunda vuelta EN VIVO: últimas noticias de Keiko Fujimori, Roberto Sánchez y todo sobre los comicios del 7 de junio",
+      "link": "https://www.infobae.com/peru/2026/06/05/elecciones-2026-peru-segunda-vuelta-en-vivo-ultimas-noticias-de-keiko-fujimori-roberto-sanchez-y-todo-sobre-los-comicios-del-7-de-junio/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 12:42:24 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Gustavo Petro pidió calmar la tensión en las campañas de Abelardo de la Espriella e Iván Cepeda y disminuir el discurso de odio: “Va a hacer matar a la ciudadanía”  ",
+      "link": "https://www.infobae.com/colombia/2026/06/05/gustavo-petro-pidio-calmar-la-tension-en-las-campanas-de-abelardo-de-la-espriella-e-ivan-cepeda-y-disminuir-el-discurso-de-odio-va-a-hacer-matar-a-la-ciudadania/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 12:33:29 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Estos son los detalles de la tensa reunión entre Gustavo Petro e Iván Cepeda tras los resultados de la primera vuelta presidencial: “Si usted renuncia, yo también”",
+      "link": "https://www.infobae.com/colombia/2026/06/05/estos-son-los-detalles-de-la-tensa-reunion-entre-gustavo-petro-e-ivan-cepeda-luego-de-los-resultados-de-la-primera-vuelta-presidencial/",
+      "source": "Infobae",
+      "pubDate": "Fri, 05 Jun 2026 12:26:42 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Cepeda, la constituyente y los votos de centro",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/cepeda-la-constituyente-y-los-votos-de-centro/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 05 Jun 2026 11:57:52 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones presidenciales en Colombia 2026: candidato Abelardo de la Espriella se pronunció tras protestas frente a su sede de campaña en Bogotá",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-minuto-a-minuto-respaldos-y-noticias-de-la-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-3562276",
       "source": "El Tiempo",
-      "pubDate": "2026-06-05T04:51:30-05:00",
+      "pubDate": "2026-06-05T06:38:52-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella afirma que considera sacar a Colombia de la ONU y la OEA de quedar electo: 'No es un sí rotundo, estoy muy inclinado a eso'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/abelardo-de-la-espriella-considera-sacar-a-colombia-de-la-onu-y-la-oea-en-su-eventual-gobierno-no-es-un-si-rotundo-estoy-muy-inclinado-a-eso-3562285",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T06:36:45-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Qué sigue tras la finalización de los escrutinios de primera vuelta? Aún reclaman reconocimiento de resultados del presidente y de Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-sigue-tras-la-finalizacion-de-los-escrutinios-de-primera-vuelta-aun-reclaman-reconocimiento-de-resultados-del-presidente-y-de-cepeda-3562234",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T06:09:54-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -93,54 +141,6 @@
       "pubDate": "2026-06-04T22:30:00-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Qué sigue tras la finalización de los escrutinios de primera vuelta? Aún reclaman reconocimiento de resultados del presidente y de Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-sigue-tras-la-finalizacion-de-los-escrutinios-de-primera-vuelta-aun-reclaman-reconocimiento-de-resultados-del-presidente-y-de-cepeda-3562234",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-04T22:25:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Roberto Sánchez, el heredero del sombrero que quiere terminar lo que Castillo no pudo",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260605-roberto-s%C3%A1nchez-el-heredero-del-sombrero-que-quiere-terminar-lo-que-castillo-no-pudo",
-      "source": "France 24",
-      "pubDate": "Fri, 05 Jun 2026 02:56:47 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Petro acusa a EE. UU. de aliarse con \"narcotraficantes\" en Colombia tras apoyo de Trump a De la Espriella",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260605-petro-acusa-a-ee-uu-de-aliarse-con-narcotraficantes-en-colombia-tras-apoyo-de-trump-a-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Fri, 05 Jun 2026 01:11:35 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Otro de los Lara también votará por Abelardo de la Espriella",
-      "link": "https://www.lasillavacia.com/en-vivo/otro-de-los-lara-tambien-votara-por-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 04 Jun 2026 23:51:05 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Hasta qué punto puede Cepeda aprovechar el respaldo político de Petro en Colombia?",
-      "link": "https://www.france24.com/es/video/20260604-hasta-qu%C3%A9-punto-puede-cepeda-aprovechar-el-respaldo-pol%C3%ADtico-de-petro-en-colombia",
-      "source": "France 24",
-      "pubDate": "Thu, 04 Jun 2026 22:55:01 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Elecciones en Perú: ¿Darán el voto en blanco y nulo la sorpresa en el balotaje?",
-      "link": "https://www.france24.com/es/video/20260604-elecciones-en-per%C3%BA-dar%C3%A1n-el-voto-en-blanco-y-nulo-la-sorpresa-en-el-balotaje",
-      "source": "France 24",
-      "pubDate": "Thu, 04 Jun 2026 20:27:06 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
