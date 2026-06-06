@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T23:14:55.154Z",
+  "updatedAt": "2026-06-06T03:53:00.275Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 520937,
       "finalScore": 48,
       "momentum": {
-        "value": 2.1,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 43.6
@@ -47,100 +47,100 @@
   ],
   "articles": [
     {
+      "title": "¿Por qué el presidente Gustavo Petro guarda silencio tras el escrutinio, que confirmó los resultados de primera vuelta?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/el-presidente-gustavo-petro-guarda-silencio-tras-el-escrutinio-que-confirmo-los-resultados-de-primera-vuelta-3562439",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T22:35:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Shakira rechazó el uso indebido de su imagen para promover la campaña de Iván Cepeda: “Mi compromiso es con Colombia”     ",
+      "link": "https://www.infobae.com/colombia/2026/06/05/shakira-rechazo-el-uso-indebido-de-su-imagen-para-promover-la-campana-de-ivan-cepeda-mi-compromiso-es-con-colombia/",
+      "source": "Infobae",
+      "pubDate": "Sat, 06 Jun 2026 02:58:01 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Keiko Fujimori convoca a Carlos Álvarez antes de segunda vuelta contra Roberto Sánchez",
+      "link": "https://www.infobae.com/peru/2026/06/06/keiko-fujimori-convoca-a-carlos-alvarez-antes-de-segunda-vuelta-contra-roberto-sanchez/",
+      "source": "Infobae",
+      "pubDate": "Sat, 06 Jun 2026 02:46:45 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iván Cepeda lanzó ‘explosiva’ acusación contra Abelardo de la Espriella y José Manuel Restrepo por presunta desinformación con IA",
+      "link": "https://www.infobae.com/colombia/2026/06/06/ivan-cepeda-lanzo-explosiva-acusacion-contra-abelardo-de-la-espriella-y-jose-manuel-restrepo-por-presunta-desinformacion-con-ia/",
+      "source": "Infobae",
+      "pubDate": "Sat, 06 Jun 2026 02:33:25 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "#ElFiltro: es falso que Iván Cepeda haya dicho que 'nadie debería ser dueño de más de una casa'; frase no figura en discursos, programa o entrevistas",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-es-falso-que-ivan-cepeda-haya-dicho-que-nadie-deberia-ser-dueno-de-mas-de-una-casa-frase-no-figura-en-discursos-programa-o-entrevistas-3562478",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T20:25:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Senador electo Santiago Montoya anuncia su voto por Abelardo De la Espriella y llama a las bases liberales a seguirlo",
+      "link": "https://www.eltiempo.com/politica/senador-electo-santiago-montoya-anuncia-su-voto-por-abelardo-de-la-espriella-y-llama-a-las-bases-liberales-a-seguirlo-3562508",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T20:03:10-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La inseguridad, una de las principales preocupaciones de los peruanos de cara al balotaje",
+      "link": "https://www.france24.com/es/video/20260606-la-inseguridad-una-de-las-principales-preocupaciones-de-los-peruanos-de-cara-al-balotaje",
+      "source": "France 24",
+      "pubDate": "Sat, 06 Jun 2026 00:43:45 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iván Cepeda recibió el respaldo de barras de fútbol y le hicieron entrega de la camiseta de la Selección Colombia",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-recibio-el-respaldo-de-barras-de-futbol-y-le-hicieron-entrega-de-la-camiseta-de-la-seleccion-colombia-3562488",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T18:58:40-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Enrique Gómez habla de la recta final de la campaña de Abelardo de la Espriella: ‘Esta es una causa de valores’",
+      "link": "https://www.eltiempo.com/politica/enrique-gomez-habla-de-la-recta-final-de-la-campana-de-abelardo-de-la-espriella-esta-es-una-causa-de-valores-3562493",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T18:55:14-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Perú se prepara para el balotaje tras el cierre de campañas de Fujimori y Sánchez",
+      "link": "https://www.france24.com/es/video/20260605-per%C3%BA-se-prepara-para-el-balotaje-tras-el-cierre-de-campa%C3%B1as-de-fujimori-y-s%C3%A1nchez",
+      "source": "France 24",
+      "pubDate": "Fri, 05 Jun 2026 23:32:09 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Directo a... Lima y el cierre de campañas de Fujimori y Sánchez para el balotaje",
+      "link": "https://www.france24.com/es/video/20260605-directo-a-lima-y-el-cierre-de-campa%C3%B1as-de-fujimori-y-s%C3%A1nchez-para-el-balotaje",
+      "source": "France 24",
+      "pubDate": "Fri, 05 Jun 2026 23:29:08 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "Uribe y De la Espriella no se reunieron luego de primera vuelta, video es viejo",
       "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/uribe-y-de-la-espriella-no-se-reunieron-luego-de-primera-vuelta-video-es-viejo/",
       "source": "La Silla Vacía",
       "pubDate": "Fri, 05 Jun 2026 23:08:53 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "María Fernanda Cabal destapó su carta política con Abelardo de la Espriella: dijo estar “firme por la patria” y con la camiseta puesta",
-      "link": "https://www.infobae.com/colombia/2026/06/05/maria-fernanda-cabal-destapo-su-carta-politica-con-abelardo-de-la-espriella-dijo-estar-firme-por-la-patria-y-con-la-camiseta-puesta/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 22:56:56 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Antiguo aliado de Petro anuncia apoyo condicionado al izquierdista Cepeda en segunda vuelta",
-      "link": "https://www.infobae.com/america/agencias/2026/06/05/antiguo-aliado-de-petro-anuncia-apoyo-condicionado-al-izquierdista-cepeda-en-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 22:30:28 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Ministro Pedro Sánchez está en la mira por presunta participación en política: defensa de Abelardo de la Espriella pidió suspenderlo",
-      "link": "https://www.infobae.com/colombia/2026/06/05/ministro-pedro-sanchez-esta-en-la-mira-por-presunta-participacion-en-politica-defensa-de-abelardo-de-la-espriella-pidio-suspenderlo/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 22:14:36 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Resultados oficiales de la segunda vuelta se proclamarán a mediados de julio, anuncia el JNE",
-      "link": "https://www.infobae.com/peru/2026/06/05/resultados-oficiales-de-la-segunda-vuelta-se-proclamaran-a-mediados-de-julio-anuncia-el-jne/",
-      "source": "Infobae",
-      "pubDate": "Fri, 05 Jun 2026 22:07:35 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Fenalco anunció apoyo a candidatura de Abelardo de la Espriella",
-      "link": "https://www.lasillavacia.com/en-vivo/fenalco-anuncio-apoyo-a-candidatura-de-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 05 Jun 2026 22:03:13 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desde campaña de Abelardo de la Espriella aseguran que seguirán usando camiseta de la Selección: 'la libertad individual es un principio democrático'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/jose-manuel-restrepo-asegura-que-seguira-usando-la-camiseta-de-la-seleccion-las-libertades-individuales-son-principios-de-nuestra-democracia-3562460",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T16:57:08-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El Partido Liberal deja en libertad a la militancia para la segunda vuelta pero insiste en votar por la defensa de la Constitución Política de 1991",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-partido-liberal-deja-en-libertad-a-la-militancia-para-la-segunda-vuelta-pero-insiste-en-votar-por-la-defensa-de-la-constitucion-politica-de-3562433",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T16:34:46-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Por qué el presidente Gustavo Petro guarda silencio tras el escrutinio, que confirmó los resultados de primera vuelta?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/el-presidente-gustavo-petro-guarda-silencio-tras-el-escrutinio-que-confirmo-los-resultados-de-primera-vuelta-3562439",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T16:11:14-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Sector salud invita a Abelardo y Cepeda a dialogar sobre el futuro del sistema",
-      "link": "https://www.lasillavacia.com/en-vivo/sector-salud-invita-a-abelardo-y-cepeda-a-dialogar-sobre-el-futuro-del-sistema/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 05 Jun 2026 20:02:14 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Este es el equipo económico que viene trabajando con Iván Cepeda en su campaña",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/este-es-el-equipo-economico-que-viene-trabajando-con-ivan-cepeda-y-que-podria-acompanarlo-en-su-eventual-gobierno-3562377",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T14:39:27-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Fujimori y Sánchez cierran sus campañas mientras Perú se dirige a un balotaje con posible empate técnico",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260605-fujimori-y-s%C3%A1nchez-cierran-sus-campa%C3%B1as-mientras-per%C3%BA-se-dirige-a-un-balotaje-con-empate-t%C3%A9cnico",
-      "source": "France 24",
-      "pubDate": "Fri, 05 Jun 2026 15:23:00 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
