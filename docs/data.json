@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T13:52:55.576Z",
+  "updatedAt": "2026-06-06T15:20:43.860Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 33,
+      "trendsScore": 32,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 22.7
       },
       "youtubeViews": 520937,
-      "finalScore": 48,
+      "finalScore": 47,
       "momentum": {
-        "value": 0,
+        "value": -2.1,
         "direction": "flat"
       },
-      "probability": 43.6
+      "probability": 43.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,33 +42,33 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 56.4
+      "probability": 56.9
     }
   ],
   "articles": [
     {
-      "title": "Johanna Fadul expresó preocupación por el futuro de Colombia y reveló su voto para la segunda vuelta: “Lo que necesita Colombia”   ",
-      "link": "https://www.infobae.com/colombia/2026/06/06/johanna-fadul-expreso-preocupacion-por-el-futuro-de-colombia-y-revelo-su-voto-para-la-segunda-vuelta-lo-que-necesita-colombia/",
+      "title": "Esta es la historia de la segunda vuelta electoral en Colombia: ¿Cómo se instauró y para qué sirve? ",
+      "link": "https://www.infobae.com/colombia/2026/06/06/esta-es-la-historia-de-la-segunda-vuelta-electoral-en-colombia-como-se-instauro-y-para-que-sirve/",
       "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 13:42:25 +0000",
+      "pubDate": "Sat, 06 Jun 2026 15:10:04 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones 2026: ¿Hasta qué hora puedo recoger mi DNI en Reniec hoy?",
-      "link": "https://www.infobae.com/peru/2026/06/06/elecciones-2026-hasta-que-hora-puedo-recoger-mi-dni-en-reniec-hoy/",
+      "title": "Jurados de votación remanentes: claves, obligaciones y reglas para la segunda vuelta presidencial en Colombia ",
+      "link": "https://www.infobae.com/colombia/2026/06/06/jurados-de-votacion-remanentes-claves-obligaciones-y-reglas-para-la-segunda-vuelta-presidencial-en-colombia/",
       "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 13:34:21 +0000",
+      "pubDate": "Sat, 06 Jun 2026 14:50:21 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Segunda vuelta en Perú: EN VIVO el minuto a minuto del desarrollo electoral y apertura de mesas en el extranjero",
-      "link": "https://www.infobae.com/peru/2026/06/06/segunda-vuelta-en-peru-en-vivo-el-minuto-a-minuto-del-desarrollo-electoral-y-apertura-de-mesas-en-el-extranjero/",
-      "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 13:10:38 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "No es clara la influencia armada en votos de la Amazonía y otras noticias",
+      "link": "https://www.lasillavacia.com/en-vivo/no-es-clara-la-influencia-armada-en-votos-de-la-amazonia-y-otras-noticias/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 06 Jun 2026 14:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "#ElFiltro: candidato Abelardo de la Espriella no aparece en video golpeando a su pareja; grabación corresponde a una denuncia de una mujer en México",
@@ -85,14 +85,6 @@
       "pubDate": "2026-06-05T23:01:00-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "#ElFiltro: es falso que Iván Cepeda haya dicho que 'nadie debería ser dueño de más de una casa'; frase no figura en discursos, programa o entrevistas",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-es-falso-que-ivan-cepeda-haya-dicho-que-nadie-deberia-ser-dueno-de-mas-de-una-casa-frase-no-figura-en-discursos-programa-o-entrevistas-3562478",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T20:25:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Senador electo Santiago Montoya anuncia su voto por Abelardo De la Espriella y llama a las bases liberales a seguirlo",
@@ -139,6 +131,14 @@
       "link": "https://www.france24.com/es/video/20260605-directo-a-lima-y-el-cierre-de-campa%C3%B1as-de-fujimori-y-s%C3%A1nchez-para-el-balotaje",
       "source": "France 24",
       "pubDate": "Fri, 05 Jun 2026 23:29:08 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Qué necesitan De la Espriella y Cepeda para ganar en segunda vuelta y convertirse en presidente de Colombia",
+      "link": "https://www.bbc.com/mundo/articles/cwy2r70lxjmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 01 Jun 2026 10:09:37 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
