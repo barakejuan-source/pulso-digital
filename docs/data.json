@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T03:53:00.275Z",
+  "updatedAt": "2026-06-06T06:57:33.597Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 33,
+      "trendsScore": 34,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,34 +47,34 @@
   ],
   "articles": [
     {
-      "title": "¿Por qué el presidente Gustavo Petro guarda silencio tras el escrutinio, que confirmó los resultados de primera vuelta?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/el-presidente-gustavo-petro-guarda-silencio-tras-el-escrutinio-que-confirmo-los-resultados-de-primera-vuelta-3562439",
+      "title": "Indígenas respaldan a Iván Cepeda y defienden la Constitución de 1991 frente a propuestas de cambio institucional",
+      "link": "https://www.infobae.com/colombia/2026/06/06/indigenas-respaldan-a-ivan-cepeda-y-defienden-la-constitucion-de-1991-frente-a-propuestas-de-cambio-institucional/",
+      "source": "Infobae",
+      "pubDate": "Sat, 06 Jun 2026 05:02:24 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "#ElFiltro: candidato Abelardo de la Espriella no aparece en video golpeando a su pareja; grabación corresponde a una denuncia de una mujer en México",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-candidato-abelardo-de-la-espriella-no-aparece-en-video-golpeando-a-su-pareja-grabacion-corresponde-a-una-denuncia-de-una-mujer-en-mexico-3562546",
       "source": "El Tiempo",
-      "pubDate": "2026-06-05T22:35:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "2026-06-05T23:56:36-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Shakira rechazó el uso indebido de su imagen para promover la campaña de Iván Cepeda: “Mi compromiso es con Colombia”     ",
-      "link": "https://www.infobae.com/colombia/2026/06/05/shakira-rechazo-el-uso-indebido-de-su-imagen-para-promover-la-campana-de-ivan-cepeda-mi-compromiso-es-con-colombia/",
-      "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 02:58:01 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Keiko Fujimori convoca a Carlos Álvarez antes de segunda vuelta contra Roberto Sánchez",
-      "link": "https://www.infobae.com/peru/2026/06/06/keiko-fujimori-convoca-a-carlos-alvarez-antes-de-segunda-vuelta-contra-roberto-sanchez/",
-      "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 02:46:45 +0000",
+      "title": "Procuraduría advierte que la desinformación en plena época electoral es una amenaza para la segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/procuraduria-advierte-que-la-desinformacion-en-plena-epoca-electoral-es-una-amenaza-para-la-segunda-vuelta-3562530",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T23:01:00-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Iván Cepeda lanzó ‘explosiva’ acusación contra Abelardo de la Espriella y José Manuel Restrepo por presunta desinformación con IA",
-      "link": "https://www.infobae.com/colombia/2026/06/06/ivan-cepeda-lanzo-explosiva-acusacion-contra-abelardo-de-la-espriella-y-jose-manuel-restrepo-por-presunta-desinformacion-con-ia/",
-      "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 02:33:25 +0000",
+      "title": "¿Por qué el presidente Gustavo Petro guarda silencio tras el escrutinio, que confirmó los resultados de primera vuelta?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/el-presidente-gustavo-petro-guarda-silencio-tras-el-escrutinio-que-confirmo-los-resultados-de-primera-vuelta-3562439",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-05T22:35:00-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
