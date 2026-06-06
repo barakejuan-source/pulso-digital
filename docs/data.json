@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T10:09:46.987Z",
+  "updatedAt": "2026-06-06T13:52:55.576Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,30 @@
   ],
   "articles": [
     {
+      "title": "Johanna Fadul expresó preocupación por el futuro de Colombia y reveló su voto para la segunda vuelta: “Lo que necesita Colombia”   ",
+      "link": "https://www.infobae.com/colombia/2026/06/06/johanna-fadul-expreso-preocupacion-por-el-futuro-de-colombia-y-revelo-su-voto-para-la-segunda-vuelta-lo-que-necesita-colombia/",
+      "source": "Infobae",
+      "pubDate": "Sat, 06 Jun 2026 13:42:25 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones 2026: ¿Hasta qué hora puedo recoger mi DNI en Reniec hoy?",
+      "link": "https://www.infobae.com/peru/2026/06/06/elecciones-2026-hasta-que-hora-puedo-recoger-mi-dni-en-reniec-hoy/",
+      "source": "Infobae",
+      "pubDate": "Sat, 06 Jun 2026 13:34:21 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Segunda vuelta en Perú: EN VIVO el minuto a minuto del desarrollo electoral y apertura de mesas en el extranjero",
+      "link": "https://www.infobae.com/peru/2026/06/06/segunda-vuelta-en-peru-en-vivo-el-minuto-a-minuto-del-desarrollo-electoral-y-apertura-de-mesas-en-el-extranjero/",
+      "source": "Infobae",
+      "pubDate": "Sat, 06 Jun 2026 13:10:38 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "#ElFiltro: candidato Abelardo de la Espriella no aparece en video golpeando a su pareja; grabación corresponde a una denuncia de una mujer en México",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-candidato-abelardo-de-la-espriella-no-aparece-en-video-golpeando-a-su-pareja-grabacion-corresponde-a-una-denuncia-de-una-mujer-en-mexico-3562546",
       "source": "El Tiempo",
@@ -61,14 +85,6 @@
       "pubDate": "2026-06-05T23:01:00-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Por qué el presidente Gustavo Petro guarda silencio tras el escrutinio, que confirmó los resultados de primera vuelta?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/el-presidente-gustavo-petro-guarda-silencio-tras-el-escrutinio-que-confirmo-los-resultados-de-primera-vuelta-3562439",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T22:35:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "#ElFiltro: es falso que Iván Cepeda haya dicho que 'nadie debería ser dueño de más de una casa'; frase no figura en discursos, programa o entrevistas",
@@ -125,22 +141,6 @@
       "pubDate": "Fri, 05 Jun 2026 23:29:08 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Uribe y De la Espriella no se reunieron luego de primera vuelta, video es viejo",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/uribe-y-de-la-espriella-no-se-reunieron-luego-de-primera-vuelta-video-es-viejo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 05 Jun 2026 23:08:53 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Fenalco anunció apoyo a candidatura de Abelardo de la Espriella",
-      "link": "https://www.lasillavacia.com/en-vivo/fenalco-anuncio-apoyo-a-candidatura-de-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 05 Jun 2026 22:03:13 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
