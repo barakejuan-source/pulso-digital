@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T19:38:51.458Z",
+  "updatedAt": "2026-06-06T21:09:55.066Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,12 +47,92 @@
   ],
   "articles": [
     {
-      "title": "JNE declara “inviable” pedido de Delia Espinoza para que se le permita votar en segunda vuelta",
-      "link": "https://www.infobae.com/peru/2026/06/06/jne-declara-inviable-pedido-de-delia-espinoza-para-que-se-le-permita-votar-en-segunda-vuelta/",
+      "title": "Westcol rechazó la invitación de Aída Quilcué para hacer una transmisión en vivo: “Quiero ser lo más transparente posible”",
+      "link": "https://www.infobae.com/colombia/2026/06/06/westcol-rechazo-la-invitacion-de-aida-quilcue-para-hacer-una-transmision-en-vivo-quiero-ser-lo-mas-transparente-posible/",
       "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 19:30:55 +0000",
+      "pubDate": "Sat, 06 Jun 2026 21:07:12 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Votantes de centro buscan reunirse con Abelardo de la Espriella de cara a la segunda vuelta presidencial: “Está primero el futuro del país”",
+      "link": "https://www.infobae.com/colombia/2026/06/06/votantes-de-centro-buscan-reunirse-con-abelardo-de-la-espriella-de-cara-a-la-segunda-vuelta-presidencial-esta-primero-el-futuro-del-pais/",
+      "source": "Infobae",
+      "pubDate": "Sat, 06 Jun 2026 21:03:59 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Feijóo pide a los peruanos en España que voten a Keiko Fujimori en la segunda vuelta de las elecciones de Perú",
+      "link": "https://www.infobae.com/america/agencias/2026/06/06/feijoo-pide-a-los-peruanos-en-espana-que-voten-a-keiko-fujimori-en-la-segunda-vuelta-de-las-elecciones-de-peru/",
+      "source": "Infobae",
+      "pubDate": "Sat, 06 Jun 2026 21:00:19 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "La inseguridad, una de las principales preocupaciones de los peruanos de cara al balotaje",
+      "link": "https://www.france24.com/es/video/20260606-la-inseguridad-una-de-las-principales-preocupaciones-de-los-peruanos-de-cara-al-balotaje-1",
+      "source": "France 24",
+      "pubDate": "Sat, 06 Jun 2026 20:41:15 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "“Con entusiasmo y sin ambages”: carta de apoyo de Timochenko a Iván Cepeda",
+      "link": "https://www.lasillavacia.com/en-vivo/con-entusiasmo-y-sin-ambages-carta-de-apoyo-de-timochenko-a-ivan-cepeda/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 06 Jun 2026 20:34:52 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Iván Cepeda exigió a Abelardo de la Espriella nombrar a dos compromisarios para hacer un debate: “Se le agotaron las artimañas”",
+      "link": "https://www.infobae.com/colombia/2026/06/06/ivan-cepeda-exigio-a-abelardo-de-la-espriella-nombrar-a-dos-compromisarios-para-hacer-un-debate-se-le-agotaron-las-artimanas/",
+      "source": "Infobae",
+      "pubDate": "Sat, 06 Jun 2026 20:25:39 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Santiago Botero anunció que presentará pruebas frente a denuncias por presunta violencia intrafamiliar: “Demostraré la verdad”",
+      "link": "https://www.infobae.com/colombia/2026/06/06/santiago-botero-anuncio-que-presentara-pruebas-frente-a-denuncias-por-presunta-violencia-intrafamiliar-demostrare-la-verdad/",
+      "source": "Infobae",
+      "pubDate": "Sat, 06 Jun 2026 20:22:28 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Stefano Peschiera exhorta a votar por Keiko Fujimori en la segunda vuelta de las Elecciones 2026: “Es por el Perú, dejemos nuestro ego de lado”",
+      "link": "https://www.infobae.com/peru/deportes/2026/06/06/stefano-peschiera-exhorta-a-votar-por-keiko-fujimori-en-la-segunda-vuelta-presidencial-es-votar-por-el-peru-dejemos-nuestro-ego-de-lado/",
+      "source": "Infobae",
+      "pubDate": "Sat, 06 Jun 2026 20:17:34 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "JNE insta a Fuerza Popular y Juntos por el Perú a esperar resultados de las Elecciones 2026 con paciencia y responsabilidad",
+      "link": "https://www.infobae.com/peru/2026/06/06/jne-insta-a-fuerza-popular-y-juntos-por-el-peru-a-esperar-resultados-de-las-elecciones-2026-con-paciencia-y-responsabilidad/",
+      "source": "Infobae",
+      "pubDate": "Sat, 06 Jun 2026 20:16:27 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iván Cepeda denunciará penalmente la campaña de Abelardo de la Espriella por presunta difamación con inteligencia artificial: “Con la verdad no pueden”",
+      "link": "https://www.infobae.com/colombia/2026/06/06/ivan-cepeda-denunciara-penalmente-la-campana-de-abelardo-de-la-espriella-por-presunta-difamacion-con-inteligencia-artificial-con-la-verdad-no-pueden/",
+      "source": "Infobae",
+      "pubDate": "Sat, 06 Jun 2026 20:15:37 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella responde a nuevo llamado de debates de Cepeda: ‘Reconoce primero los resultados y estaremos listos’",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-responde-a-nuevo-llamado-de-debates-de-cepeda-reconoce-primero-los-resultados-y-estaremos-listos-3562631",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-06T14:43:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Segunda vuelta de las elecciones presidenciales en Colombia 2026: Iván Cepeda les pide a Caracol, RCN y RTVC debates con Abelardo de la Espriella",
@@ -61,86 +141,6 @@
       "pubDate": "2026-06-06T14:19:14-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Retiro de AFP ya acumula nueve proyectos, pero queda ‘en el olvido’ en el Congreso",
-      "link": "https://www.infobae.com/peru/2026/06/06/retiro-de-afp-ya-acumula-nueve-proyectos-pero-queda-en-el-olvido-en-el-congreso/",
-      "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 19:14:20 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Por no leer bien, la Profe Mónica compartió una lección con dedicatoria especial para el caricaturista Matador: “Evitar conclusiones apresuradas”",
-      "link": "https://www.infobae.com/colombia/2026/06/06/por-no-leer-bien-la-profe-monica-compartio-una-leccion-con-dedicatoria-especial-para-el-caricaturista-matador-evitar-conclusiones-apresuradas/",
-      "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 18:48:10 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda le pide a Caracol, RCN y RTVC que organicen los debates presidenciales con Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-le-pide-a-caracol-rcn-y-rtvc-que-organicen-los-debates-presidenciales-con-abelardo-de-la-espriella-3562623",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-06T13:47:57-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Pilar Rueda, esposa del candidato presidencial Iván Cepeda, renunció a la UIA de la JEP un día después de elecciones",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/pilar-rueda-esposa-del-candidato-presidencial-ivan-cepeda-renuncio-a-la-uia-de-la-jep-un-dia-despues-de-elecciones-3562621",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-06T13:46:54-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda sigue sin aceptar resultados de primera vuelta, pero denuncia sin pruebas posible compra de votos por Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-sigue-sin-aceptar-resultados-de-primera-vuelta-pero-denuncia-posible-compra-de-votos-por-abelardo-de-la-espriella-3562619",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-06T13:44:45-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Perfil a Abelardo de la Espriella: una marca importada para la época",
-      "link": "https://www.lasillavacia.com/opinion/perfil-a-abelardo-de-la-espriella-una-marca-importada-para-la-epoca/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 06 Jun 2026 18:21:07 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo habló con Keiko Fujimori, candidata de la derecha en Perú",
-      "link": "https://www.lasillavacia.com/en-vivo/abelardo-hablo-con-keiko-fujimori-candidata-de-la-derecha-en-peru/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 06 Jun 2026 17:53:40 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "No es clara la influencia armada en votos de la Amazonía y otras noticias",
-      "link": "https://www.lasillavacia.com/en-vivo/no-es-clara-la-influencia-armada-en-votos-de-la-amazonia-y-otras-noticias/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 06 Jun 2026 14:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "#ElFiltro: candidato Abelardo de la Espriella no aparece en video golpeando a su pareja; grabación corresponde a una denuncia de una mujer en México",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-candidato-abelardo-de-la-espriella-no-aparece-en-video-golpeando-a-su-pareja-grabacion-corresponde-a-una-denuncia-de-una-mujer-en-mexico-3562546",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T23:56:36-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Procuraduría advierte que la desinformación en plena época electoral es una amenaza para la segunda vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/procuraduria-advierte-que-la-desinformacion-en-plena-epoca-electoral-es-una-amenaza-para-la-segunda-vuelta-3562530",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-05T23:01:00-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
