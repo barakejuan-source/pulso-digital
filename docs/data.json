@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T06:57:33.597Z",
+  "updatedAt": "2026-06-06T10:09:46.987Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 34,
+      "trendsScore": 33,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -46,14 +46,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Indígenas respaldan a Iván Cepeda y defienden la Constitución de 1991 frente a propuestas de cambio institucional",
-      "link": "https://www.infobae.com/colombia/2026/06/06/indigenas-respaldan-a-ivan-cepeda-y-defienden-la-constitucion-de-1991-frente-a-propuestas-de-cambio-institucional/",
-      "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 05:02:24 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
     {
       "title": "#ElFiltro: candidato Abelardo de la Espriella no aparece en video golpeando a su pareja; grabación corresponde a una denuncia de una mujer en México",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-candidato-abelardo-de-la-espriella-no-aparece-en-video-golpeando-a-su-pareja-grabacion-corresponde-a-una-denuncia-de-una-mujer-en-mexico-3562546",
@@ -139,6 +131,14 @@
       "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/uribe-y-de-la-espriella-no-se-reunieron-luego-de-primera-vuelta-video-es-viejo/",
       "source": "La Silla Vacía",
       "pubDate": "Fri, 05 Jun 2026 23:08:53 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Fenalco anunció apoyo a candidatura de Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/en-vivo/fenalco-anuncio-apoyo-a-candidatura-de-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 05 Jun 2026 22:03:13 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
