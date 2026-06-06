@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T15:20:43.860Z",
+  "updatedAt": "2026-06-06T17:19:56.661Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 32,
+      "trendsScore": 33,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 22.7
       },
       "youtubeViews": 520937,
-      "finalScore": 47,
+      "finalScore": 48,
       "momentum": {
-        "value": -2.1,
+        "value": 2.1,
         "direction": "flat"
       },
-      "probability": 43.1
+      "probability": 43.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 56.9
+      "probability": 56.4
     }
   ],
   "articles": [
     {
-      "title": "Esta es la historia de la segunda vuelta electoral en Colombia: ¿Cómo se instauró y para qué sirve? ",
-      "link": "https://www.infobae.com/colombia/2026/06/06/esta-es-la-historia-de-la-segunda-vuelta-electoral-en-colombia-como-se-instauro-y-para-que-sirve/",
+      "title": "Presidente Petro arremetió contra el exnarcotraficante Carlos Lehder y lo señaló indirectamente de apoyar a Abelardo de la Espriella ",
+      "link": "https://www.infobae.com/colombia/2026/06/06/presidente-petro-arremetio-contra-el-exnarcotraficante-carlos-lehder-y-lo-senalo-indirectamente-de-apoyar-a-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 15:10:04 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Sat, 06 Jun 2026 17:14:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Jurados de votación remanentes: claves, obligaciones y reglas para la segunda vuelta presidencial en Colombia ",
-      "link": "https://www.infobae.com/colombia/2026/06/06/jurados-de-votacion-remanentes-claves-obligaciones-y-reglas-para-la-segunda-vuelta-presidencial-en-colombia/",
+      "title": "Magnicidio de Miguel Uribe Turbay| María Carolina Hoyos pidió a la ciudadanía sacar la bandera de Colombia a un año del atentado",
+      "link": "https://www.infobae.com/colombia/2026/06/06/magnicidio-de-miguel-uribe-turbay-maria-carolina-hoyos-pidio-a-la-ciudadania-sacar-la-bandera-de-colombia-a-un-ano-del-atentado/",
       "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 14:50:21 +0000",
+      "pubDate": "Sat, 06 Jun 2026 16:49:37 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
