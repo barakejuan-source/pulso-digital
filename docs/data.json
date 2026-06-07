@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-03T21:02:52.650Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-07T07:34:17.998Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -8,7 +8,7 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 29,
-      "youtubeScore": 40,
+      "youtubeScore": 38,
       "sentimentScore": 17,
       "sentimentPct": {
         "positive": 17.2,
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 244777,
-      "finalScore": 29,
+      "finalScore": 28,
       "momentum": {
-        "value": -38.3,
-        "direction": "down"
+        "value": -3.4,
+        "direction": "flat"
       },
-      "probability": 27.4
+      "probability": 26.7
     },
     {
       "id": "abelardo_espriella",
@@ -39,108 +39,76 @@
       "youtubeViews": 647577,
       "finalScore": 77,
       "momentum": {
-        "value": 8.5,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 72.6
+      "probability": 73.3
     }
   ],
   "articles": [
     {
-      "title": "Elecciones 2026 domingo 7 de junio: ¿Hasta qué edad es obligatorio votar en la segunda vuelta?",
-      "link": "https://www.infobae.com/peru/2026/06/03/elecciones-2026-domingo-7-de-junio-hasta-que-edad-es-obligatorio-votar-en-la-segunda-vuelta/",
+      "title": "Elecciones 2026 EN VIVO HOY 7 de junio: minuto a minuto de la segunda vuelta entre Keiko Fujimori y Roberto Sánchez",
+      "link": "https://www.infobae.com/peru/2026/06/07/elecciones-2026-en-vivo-hoy-7-de-junio-minuto-a-minuto-de-la-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
       "source": "Infobae",
-      "pubDate": "Wed, 03 Jun 2026 20:57:11 +0000",
+      "pubDate": "Sun, 07 Jun 2026 07:24:23 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Radican investigación contra campaña Petro 2022 en Comisión de Acusaciones: dos de los tres investigadores piden llamar a indagatoria al Presidente",
-      "link": "https://www.eltiempo.com/politica/gobierno/radican-investigacion-contra-campana-petro-2022-en-comision-de-acusaciones-dos-de-los-tres-investigadores-piden-llamar-a-indagatoria-al-presidente-3561871",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-03T15:57:00-05:00",
+      "title": "La fractura nacional",
+      "link": "https://www.lasillavacia.com/red-de-expertos/la-fractura-nacional/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 07 Jun 2026 02:55:02 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Trabajar con Santofimio, la clave del rechazo de los Galán y el Nuevo Liberalismo a la campaña de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/03/trabajar-con-santofimio-la-clave-del-rechazo-de-los-galan-y-el-nuevo-liberalismo-a-la-campana-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Wed, 03 Jun 2026 20:51:34 +0000",
+      "title": "El candidato de la “IA”: Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/opinion/el-candidato-de-la-ia-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 06 Jun 2026 22:36:35 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Keiko Fujimori señala que “jamás” repetiría un Montesinos ni los “horrendos crímenes del grupo Colina” de la dictadura de su padre",
-      "link": "https://www.infobae.com/peru/2026/06/03/keiko-fujimori-senala-que-jamas-repetiria-un-vladimiro-montesinos-ni-los-horrendos-crimenes-del-grupo-colina-en-la-dictadura-de-su-padre/",
-      "source": "Infobae",
-      "pubDate": "Wed, 03 Jun 2026 20:39:42 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "La posibilidad de una asamblea nacional constituyente, lo que más podría restarle votantes a Iván Cepeda en segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/06/03/la-posibilidad-de-una-asamblea-nacional-constituyente-lo-que-mas-podria-restarle-votantes-a-ivan-cepeda-en-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Wed, 03 Jun 2026 20:39:35 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Al igual que Armys, influenciadores lanzaron la iniciativa ‘Creadores por la vida’ para apoyar a Iván Cepeda: de quiénes se trata",
-      "link": "https://www.infobae.com/colombia/2026/06/03/al-igual-que-armys-influenciadores-lanzaron-la-iniciativa-creadores-por-la-vida-para-apoyar-a-ivan-cepeda-de-quienes-se-trata/",
-      "source": "Infobae",
-      "pubDate": "Wed, 03 Jun 2026 20:39:05 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Balotaje en Perú: ¿cuáles son las propuestas de Keiko Fujimori y de Roberto Sánchez?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260603-balotaje-en-per%C3%BA-cu%C3%A1les-son-las-propuestas-de-keiko-fujimori-y-de-roberto-s%C3%A1nchez",
+      "title": "La inseguridad, una de las principales preocupaciones de los peruanos de cara al balotaje",
+      "link": "https://www.france24.com/es/video/20260606-la-inseguridad-una-de-las-principales-preocupaciones-de-los-peruanos-de-cara-al-balotaje-1",
       "source": "France 24",
-      "pubDate": "Wed, 03 Jun 2026 20:29:03 GMT",
+      "pubDate": "Sat, 06 Jun 2026 20:41:15 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Fenalco le cierra la puerta a reunión con Cepeda antes de segunda vuelta",
-      "link": "https://www.lasillavacia.com/en-vivo/fenalco-le-cierra-la-puerta-a-reunion-con-cepeda-antes-de-segunda-vuelta/",
+      "title": "“Con entusiasmo y sin ambages”: carta de apoyo de Timochenko a Iván Cepeda",
+      "link": "https://www.lasillavacia.com/en-vivo/con-entusiasmo-y-sin-ambages-carta-de-apoyo-de-timochenko-a-ivan-cepeda/",
       "source": "La Silla Vacía",
-      "pubDate": "Wed, 03 Jun 2026 20:29:00 +0000",
+      "pubDate": "Sat, 06 Jun 2026 20:34:52 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Perfil a Abelardo de la Espriella: una marca importada para la época",
+      "link": "https://www.lasillavacia.com/opinion/perfil-a-abelardo-de-la-espriella-una-marca-importada-para-la-epoca/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 06 Jun 2026 18:21:07 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo habló con Keiko Fujimori, candidata de la derecha en Perú",
+      "link": "https://www.lasillavacia.com/en-vivo/abelardo-hablo-con-keiko-fujimori-candidata-de-la-derecha-en-peru/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 06 Jun 2026 17:53:40 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Iván Cepeda agradeció a los colombianos que votaron por él en primera vuelta y criticó a De la Espriella: “Representa un peligro”",
-      "link": "https://www.infobae.com/colombia/2026/06/03/ivan-cepeda-agradecio-a-los-colombianos-que-votaron-por-el-en-primera-vuelta-y-critico-a-de-la-espriella-representa-un-peligro/",
-      "source": "Infobae",
-      "pubDate": "Wed, 03 Jun 2026 20:17:43 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda cuestiona apoyo de Donald Trump a Abelardo de la Espriella: ‘Es una actitud que burla nuestra soberanía y la destruye’",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-cuestiona-apoyo-de-donald-trump-a-abelardo-de-la-espriella-es-una-actitud-que-burla-nuestra-soberania-y-la-destruye-3561840",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-03T14:42:06-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Advierten sobre correos falsos que anuncian cambios inexistentes en puestos de votación: la inscripción de cédulas cerró en marzo",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/advierten-sobre-correos-falsos-que-anuncian-cambios-inexistentes-en-puestos-de-votacion-la-inscripcion-de-cedulas-cerro-en-marzo-3561830",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-03T14:27:59-05:00",
+      "title": "Qué necesitan De la Espriella y Cepeda para ganar en segunda vuelta y convertirse en presidente de Colombia",
+      "link": "https://www.bbc.com/mundo/articles/cwy2r70lxjmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 01 Jun 2026 10:09:37 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Iván Cepeda habló de declaraciones de Donald Trump y su apoyo al candidato Abelardo de la Espriella en segunda vuelta: 'Intervención de presidentes'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-hablo-de-declaraciones-de-donald-trump-y-su-apoyo-al-candidato-abelardo-de-la-espriella-en-segunda-vuelta-definamos-nuestra-contienda-3561833",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-03T14:25:40-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
