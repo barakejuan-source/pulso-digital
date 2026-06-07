@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T09:20:58.875Z",
+  "updatedAt": "2026-06-07T11:52:43.962Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,52 +47,92 @@
   ],
   "articles": [
     {
-      "title": "Keiko Fujimori y Roberto Sánchez: los perfiles de los dos candidatos que definen quién gobernará el Perú hasta 2031",
-      "link": "https://www.infobae.com/peru/2026/06/07/keiko-fujimori-y-roberto-sanchez-los-perfiles-de-los-dos-candidatos-que-definen-quien-gobernara-el-peru-hasta-2031/",
-      "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 09:05:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Perú elige entre Keiko Fujimori y Roberto Sánchez a su noveno presidente en diez años",
-      "link": "https://www.infobae.com/peru/2026/06/07/peru-elige-entre-keiko-fujimori-y-roberto-sanchez-a-su-noveno-presidente-en-diez-anos/",
-      "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 09:05:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Elecciones 2026 EN VIVO HOY 7 de junio: minuto a minuto de la segunda vuelta entre Keiko Fujimori y Roberto Sánchez",
       "link": "https://www.infobae.com/peru/2026/06/07/elecciones-2026-en-vivo-hoy-7-de-junio-minuto-a-minuto-de-la-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 08:56:42 +0000",
+      "pubDate": "Sun, 07 Jun 2026 11:49:03 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Segunda vuelta en Perú: el Jurado Nacional de Elecciones activa plan especial para evitar errores del 12 de abril",
-      "link": "https://www.infobae.com/peru/2026/06/07/segunda-vuelta-en-peru-el-jurado-nacional-de-elecciones-activa-plan-especial-para-evitar-errores-del-12-de-abril/",
+      "title": "En la segunda vuelta en Perú, la derecha busca ganar más fuerza en la región",
+      "link": "https://www.infobae.com/america/the-new-york-times/2026/06/07/en-la-segunda-vuelta-en-peru-la-derecha-busca-ganar-mas-fuerza-en-la-region/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 08:56:04 +0000",
+      "pubDate": "Sun, 07 Jun 2026 11:45:15 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Expertos alertan que “la transferencia pacífica del poder está en riesgo” mientras Petro sigue sin reconocer resultados electorales",
-      "link": "https://www.infobae.com/colombia/2026/06/07/expertos-alertan-que-la-transferencia-pacifica-del-poder-esta-en-riesgo-mientras-petro-sigue-sin-reconocer-resultados-electorales/",
+      "title": "¿A qué hora abren las mesas de votación hoy domingo 7 de junio? Horario oficial ONPE",
+      "link": "https://www.infobae.com/peru/2026/06/07/elecciones-2026-a-que-hora-abren-y-cierran-las-mesas-de-votacion-este-domingo-7-de-junio/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 08:36:08 +0000",
+      "pubDate": "Sun, 07 Jun 2026 11:44:37 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Boca de urna de segunda vuelta: ¿a qué hora se conocerán los primeros resultados no oficiales?",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-a-boca-de-urna-a-que-hora-se-conoceran-los-primeros-resultados-no-oficiales/",
+      "title": "¿A qué hora empieza y termina la votación de la segunda vuelta de Perú HOY 7 de junio?",
+      "link": "https://www.infobae.com/peru/2026/06/04/a-que-hora-empieza-y-termina-la-segunda-vuelta-de-peru-del-7-de-junio/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 08:35:33 +0000",
+      "pubDate": "Sun, 07 Jun 2026 11:38:10 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Dónde y cómo seguir HOY los resultados oficiales de la ONPE?",
+      "link": "https://www.infobae.com/peru/2026/06/07/donde-y-como-seguir-hoy-los-resultados-oficiales-de-la-onpe/",
+      "source": "Infobae",
+      "pubDate": "Sun, 07 Jun 2026 11:35:08 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Estos son los retos que tiene Iván Cepeda para ganar en la segunda vuelta presidencial, según expertos: “No se puede ignorar”",
+      "link": "https://www.infobae.com/colombia/2026/06/07/estos-son-los-retos-que-tiene-ivan-cepeda-para-ganar-en-la-segunda-vuelta-presidencial-segun-expertos-no-se-puede-ignorar/",
+      "source": "Infobae",
+      "pubDate": "Sun, 07 Jun 2026 11:27:41 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Neutralizar el voto de centro, consolidar el conservador y conquistar las capitales: los retos de Abelardo de la Espriella para ganar la presidencia ",
+      "link": "https://www.infobae.com/colombia/2026/06/07/neutralizar-el-voto-de-centro-consolidar-el-conservador-y-conquistar-las-capitales-los-retos-de-abelardo-de-la-espriella-para-ganar-la-presidencia/",
+      "source": "Infobae",
+      "pubDate": "Sun, 07 Jun 2026 11:26:04 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Keiko Fujimori supervisó local de personeros en Villa El Salvador antes que inicie la jornada de segunda vuelta",
+      "link": "https://www.infobae.com/peru/2026/06/07/keiko-fujimori-superviso-local-de-personeros-en-villa-el-salvador-antes-que-inicie-la-jornada-de-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Sun, 07 Jun 2026 11:21:27 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Un año del atentado de Miguel Uribe Turbay: el senador con destacada trayectoria política que estuvo cerca de la Presidencia",
+      "link": "https://www.infobae.com/colombia/2026/06/07/un-ano-del-atentado-de-miguel-uribe-turbay-el-senador-con-destacada-trayectoria-politica-que-estuvo-cerca-de-la-presidencia/",
+      "source": "Infobae",
+      "pubDate": "Sun, 07 Jun 2026 11:21:03 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Reniec hoy 7 de junio: horarios y agencias para recoger DNI durante la segunda vuelta",
+      "link": "https://www.infobae.com/peru/2026/06/07/reniec-hoy-7-de-junio-horarios-y-agencias-para-recoger-dni-durante-la-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Sun, 07 Jun 2026 11:09:05 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones presidenciales en Colombia 2026: Abelardo De La Espriella respondió a nuevo llamado de debates de Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-abelardo-de-la-espriella-respondio-a-nuevo-llamado-de-debates-de-ivan-cepeda-3562701",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-07T05:50:43-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Las estrategias y movidas de Abelardo de la Espriella e Iván Cepeda a dos semanas de la segunda vuelta presidencial",
@@ -101,46 +141,6 @@
       "pubDate": "2026-06-06T22:57:20-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Las ‘fake news’ crecen como la principal amenaza en la antesala de la segunda vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-fake-news-crecen-como-la-principal-amenaza-en-la-antesala-de-la-segunda-vuelta-3562646",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-06T22:56:03-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Los riesgos para la democracia de que el presidente Petro ni Iván Cepeda hayan reconocido los resultados tras escrutinios de primera vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-riesgos-para-la-democracia-de-que-el-presidente-petro-ni-ivan-cepeda-hayan-reconocido-los-resultados-tras-escrutinios-de-primera-vuelta-3562654",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-06T22:56:02-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "La fractura nacional",
-      "link": "https://www.lasillavacia.com/red-de-expertos/la-fractura-nacional/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 07 Jun 2026 02:55:02 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Dura crítica de José Manuel Restrepo, fórmula de Abelardo de la Espriella, contra presidente Gustavo Petro: 'Deje de hacer política'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/dura-critica-de-jose-manuel-restrepo-formula-de-abelardo-de-la-espriella-contra-presidente-gustavo-petro-deje-de-hacer-politica-3562664",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-06T19:38:18-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El candidato de la “IA”: Abelardo de la Espriella",
-      "link": "https://www.lasillavacia.com/opinion/el-candidato-de-la-ia-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 06 Jun 2026 22:36:35 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
