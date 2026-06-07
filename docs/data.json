@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T23:09:03.608Z",
+  "updatedAt": "2026-06-07T04:18:24.410Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,28 +47,60 @@
   ],
   "articles": [
     {
-      "title": "Petro lanzó indirectazo sobre Abelardo de la Espriella en un mensaje que envió a James: “Votan por un costeño que nació en Bogotá”",
-      "link": "https://www.infobae.com/colombia/2026/06/06/petro-lanzo-indirectazo-sobre-abelardo-de-la-espriella-en-un-mensaje-que-envio-a-james-votan-por-un-costeno-que-nacio-en-bogota/",
+      "title": "Las estrategias y movidas de Abelardo de la Espriella e Iván Cepeda a dos semanas de la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-estrategias-y-movidas-de-abelardo-de-la-espriella-e-ivan-cepeda-a-dos-semanas-de-la-segunda-vuelta-presidencial-3562649",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-06T22:57:20-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Las ‘fake news’ crecen como la principal amenaza en la antesala de la segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-fake-news-crecen-como-la-principal-amenaza-en-la-antesala-de-la-segunda-vuelta-3562646",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-06T22:56:03-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Los riesgos para la democracia de que el presidente Petro ni Iván Cepeda hayan reconocido los resultados tras escrutinios de primera vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-riesgos-para-la-democracia-de-que-el-presidente-petro-ni-ivan-cepeda-hayan-reconocido-los-resultados-tras-escrutinios-de-primera-vuelta-3562654",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-06T22:56:02-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "ONPE despliega el 100 % del material electoral en todo el Perú y todo queda listo para la segunda vuelta entre Keiko Fujimori y Roberto Sánchez",
+      "link": "https://www.infobae.com/peru/2026/06/06/segunda-vuelta-en-peru-en-vivo-el-minuto-a-minuto-del-desarrollo-electoral-y-apertura-de-mesas-en-el-extranjero/",
       "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 22:59:36 +0000",
+      "pubDate": "Sun, 07 Jun 2026 03:45:32 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Un juez ordena que se enjuicie oralmente al candidato presidencial Roberto Sánchez en Perú",
+      "link": "https://www.infobae.com/america/agencias/2026/06/07/un-juez-ordena-que-se-enjuicie-oralmente-al-candidato-presidencial-roberto-sanchez-en-peru/",
+      "source": "Infobae",
+      "pubDate": "Sun, 07 Jun 2026 03:00:21 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "La fractura nacional",
+      "link": "https://www.lasillavacia.com/red-de-expertos/la-fractura-nacional/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 07 Jun 2026 02:55:02 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Dura crítica de José Manuel Restrepo, fórmula de Abelardo de la Espriella, contra presidente Gustavo Petro: 'Deje de hacer política'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/dura-critica-de-jose-manuel-restrepo-formula-de-abelardo-de-la-espriella-contra-presidente-gustavo-petro-deje-de-hacer-politica-3562664",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-06T19:38:18-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cinco cosas que debes saber antes de ir a votar este domingo 7 de junio en la segunda vuelta",
-      "link": "https://www.infobae.com/peru/2026/06/06/cinco-cosas-que-debes-saber-antes-de-ir-a-votar-este-domingo-7-de-junio-en-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 22:56:05 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Ernesto Samper lanzó advertencia por supuesta injerencia de Estados Unidos en las elecciones presidenciales: “Desconocerán los resultados”",
-      "link": "https://www.infobae.com/colombia/2026/06/06/ernesto-samper-lanzo-advertencia-por-supuesta-injerencia-de-estados-unidos-en-las-elecciones-presidenciales-desconoceran-los-resultados/",
-      "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 22:50:11 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "El candidato de la “IA”: Abelardo de la Espriella",
@@ -77,46 +109,6 @@
       "pubDate": "Sat, 06 Jun 2026 22:36:35 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Segunda vuelta 2026: conoce que son las actas observadas y cómo pueden cambiar el resultado de las elecciones",
-      "link": "https://www.infobae.com/peru/2026/06/06/segunda-vuelta-2026-conoce-que-son-las-actas-observadas-y-como-pueden-cambiar-el-resultado-de-las-elecciones/",
-      "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 22:24:44 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Registro de personeros en plataforma del JNE puede variar durante la jornada: qué implica para las elecciones 2026",
-      "link": "https://www.infobae.com/peru/2026/06/06/registro-de-personeros-en-plataforma-del-jne-puede-variar-durante-la-jornada-que-implica-para-las-elecciones-2026/",
-      "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 22:13:06 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "La segunda vuelta entre Keiko Fujimori y Roberto Sánchez ya comenzó: Nueva Zelanda registró el primer voto peruano del mundo",
-      "link": "https://www.infobae.com/peru/2026/06/06/la-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez-ya-comenzo-nueva-zelanda-registro-el-primer-voto-peruano-del-mundo/",
-      "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 22:03:19 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "DNI vencido, deteriorado o en trámite: casos en los que sí y no puedes votar",
-      "link": "https://www.infobae.com/peru/2026/06/06/dni-vencido-deteriorado-o-en-tramite-casos-en-los-que-si-y-no-puedes-votar/",
-      "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 21:54:27 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abren juicio al candidato presidencial peruano Roberto Sánchez en vísperas de la segunda vuelta electoral",
-      "link": "https://www.infobae.com/america/agencias/2026/06/06/abren-juicio-al-candidato-presidencial-peruano-roberto-sanchez-en-visperas-de-la-segunda-vuelta-electoral/",
-      "source": "Infobae",
-      "pubDate": "Sat, 06 Jun 2026 21:45:37 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "La inseguridad, una de las principales preocupaciones de los peruanos de cara al balotaje",
@@ -141,6 +133,14 @@
       "pubDate": "2026-06-06T14:43:05-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Pilar Rueda, esposa del candidato presidencial Iván Cepeda, renunció a la UIA de la JEP un día después de elecciones",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/pilar-rueda-esposa-del-candidato-presidencial-ivan-cepeda-renuncio-a-la-uia-de-la-jep-un-dia-despues-de-elecciones-3562621",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-06T13:46:54-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     }
   ]
 }
