@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T17:24:11.049Z",
+  "updatedAt": "2026-06-07T19:39:29.940Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 33,
+      "trendsScore": 34,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,50 +47,58 @@
   ],
   "articles": [
     {
-      "title": "¿A qué hora cierrán las mesas de votación hoy domingo 7 de junio? Horario oficial ONPE",
-      "link": "https://www.infobae.com/peru/2026/06/07/elecciones-2026-a-que-hora-abren-y-cierran-las-mesas-de-votacion-este-domingo-7-de-junio/",
+      "title": "Iván Cepeda asegura que está 'listo para dialogar' con el centro político; Claudia López le responde: 'Asume el liderazgo de tu campaña'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-asegura-que-esta-listo-para-dialogar-con-el-centro-politico-claudia-lopez-le-responde-asume-el-liderazgo-de-tu-campana-3562748",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-07T14:06:15-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Resultados ONPE EN VIVO: conteo oficial de votos de Keiko Fujimori y Roberto Sánchez en la segunda vuelta de Elecciones 2026",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 17:19:08 +0000",
+      "pubDate": "Sun, 07 Jun 2026 19:04:25 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Boca de urna de segunda vuelta: Horario en el que se conocerán los primeros resultados no oficiales?",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-a-boca-de-urna-a-que-hora-se-conoceran-los-primeros-resultados-no-oficiales/",
+      "title": "El 100 % de las mesas de votación quedaron instaladas en la segunda vuelta de Perú",
+      "link": "https://www.infobae.com/america/agencias/2026/06/07/el-100-de-las-mesas-de-votacion-quedaron-instaladas-en-la-segunda-vuelta-de-peru/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 17:18:23 +0000",
+      "pubDate": "Sun, 07 Jun 2026 19:02:13 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones Perú 2026 EN VIVO HOY: minuto a minuto de la segunda vuelta electoral entre Keiko Fujimori y Roberto Sánchez ",
-      "link": "https://www.infobae.com/peru/2026/06/07/elecciones-2026-en-vivo-hoy-7-de-junio-minuto-a-minuto-de-la-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
+      "title": "Pese a retiro de la constituyente, Juan Fernando Cristo no ocultó su molestia con el Gobierno Petro: “Se demoraron en desmontarla” ",
+      "link": "https://www.infobae.com/colombia/2026/06/07/pese-a-retiro-de-la-constituyente-juan-fernando-cristo-no-oculto-su-molestia-con-el-gobierno-petro-se-demoraron-en-desmontarla/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 17:17:05 +0000",
+      "pubDate": "Sun, 07 Jun 2026 18:58:15 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Marbelle nuevamente respaldó a Abelardo de la Espriella con canción de Shakira: “Estoy loca con mi tigre”",
+      "link": "https://www.infobae.com/colombia/2026/06/07/marbelle-nuevamente-respaldo-a-abelardo-de-la-espriella-con-cancion-de-shakira-estoy-loca-con-mi-tigre/",
+      "source": "Infobae",
+      "pubDate": "Sun, 07 Jun 2026 18:56:52 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elecciones 2026: venció el plazo para la instalación de las mesas de sufragio en Perú",
+      "link": "https://www.infobae.com/peru/2026/06/07/elecciones-2026-vencio-el-plazo-para-la-instalacion-de-las-mesas-de-sufragio-en-peru-pero-mas-de-5-mil-quedaron-pendientes/",
+      "source": "Infobae",
+      "pubDate": "Sun, 07 Jun 2026 18:52:38 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones 2026: Así votó Keiko Fujimori en su mesa de sufragio en San Borja",
-      "link": "https://www.infobae.com/peru/2026/06/07/asi-fue-la-llegada-de-keiko-fujimori-a-su-local-de-votacion-en-san-borja/",
-      "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 17:15:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "La candidata Keiko Fujimori vota en la segunda vuelta de Perú entre vítores de seguidores",
-      "link": "https://www.infobae.com/america/agencias/2026/06/07/la-candidata-keiko-fujimori-vota-en-la-segunda-vuelta-de-peru-entre-vitores-de-seguidores/",
-      "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 17:00:24 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones 2026: Demoras en la instalación de mesas de sufragio por falta de material electoral y miembros de mesa",
-      "link": "https://www.infobae.com/peru/2026/06/07/elecciones-2026-demoras-en-la-instalacion-de-mesas-de-sufragio-por-falta-de-material-electoral-y-miembros-de-mesa/",
-      "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 16:58:24 +0000",
+      "title": "\"Las primarias han terminado\": Mélenchon presiona al resto de la izquierda en su primer gran mitin de campaña",
+      "link": "https://www.france24.com/es/francia/20260607-las-primarias-han-terminado-m%C3%A9lenchon-presiona-al-resto-de-la-izquierda-en-su-primer-gran-mitin-de-campa%C3%B1a",
+      "source": "France 24",
+      "pubDate": "Sun, 07 Jun 2026 18:38:32 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -101,14 +109,6 @@
       "pubDate": "2026-06-07T11:54:23-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Temblor en Ica de 5.0 en plena votación por la segunda vuelta entre Keiko Fujimori y Roberto Sánchez",
-      "link": "https://www.infobae.com/peru/2026/06/07/temblor-en-ica-de-50-en-plena-votacion-por-la-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
-      "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 16:32:01 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Elecciones presidenciales en Colombia 2026: imagen con IA muestra a Abelardo de la Espriella con Andrés Felipe Arias",
