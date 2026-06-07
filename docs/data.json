@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T21:19:12.940Z",
+  "updatedAt": "2026-06-07T23:11:29.209Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 520937,
       "finalScore": 49,
       "momentum": {
-        "value": 2.1,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 44.1
@@ -47,82 +47,82 @@
   ],
   "articles": [
     {
-      "title": "ONPE resultados EN VIVO por regiones: mapa electoral de segunda vuelta entre Keiko Fujimori y Roberto Sánchez",
-      "link": "https://www.infobae.com/peru/2026/06/07/onpe-resultados-en-vivo-por-regiones-mapa-electoral-de-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
-      "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 21:09:45 +0000",
+      "title": "Comienza el conteo de la segunda vuelta de las presidenciales en Perú: encuestas a boca de urna muestran empate técnico entre Fujimori y Sánchez",
+      "link": "https://www.bbc.com/mundo/articles/c3vyxggnyw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Sun, 07 Jun 2026 23:09:17 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones Perú 2026 EN VIVO HOY: minuto a minuto de la segunda vuelta electoral entre Keiko Fujimori y Roberto Sánchez ",
+      "title": "Flash electoral Datum: ¿Cómo votaron las regiones más pobres del Perú en la segunda vuelta 2026?",
+      "link": "https://www.infobae.com/peru/2026/06/07/flash-electoral-datum-como-votaron-las-regiones-mas-pobres-del-peru-en-la-segunda-vuelta-2026/",
+      "source": "Infobae",
+      "pubDate": "Sun, 07 Jun 2026 23:08:42 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿En qué regiones ganó Roberto Sánchez en la segunda vuelta?, según flash de Ipsos",
+      "link": "https://www.infobae.com/peru/2026/06/07/en-que-regiones-gano-roberto-sanchez-en-la-segunda-vuelta-segun-flash-de-ipsos/",
+      "source": "Infobae",
+      "pubDate": "Sun, 07 Jun 2026 23:06:34 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Resultados Elecciones 2026: Así votó Lima Metropolitana en la segunda vuelta entre Keiko Fujimori y Roberto Sánchez",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-elecciones-2026-asi-voto-lima-metropolitana-en-la-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
+      "source": "Infobae",
+      "pubDate": "Sun, 07 Jun 2026 23:06:08 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones en Perú EN VIVO: Cerraron las mesas de votación y candidatos esperan resultados oficiales para pronunciarse",
       "link": "https://www.infobae.com/peru/2026/06/07/elecciones-2026-en-vivo-hoy-7-de-junio-minuto-a-minuto-de-la-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 21:07:57 +0000",
+      "pubDate": "Sun, 07 Jun 2026 23:05:51 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "JNE rechaza cualquier tipo de fraude y asegura que las incidencias son puntuales",
-      "link": "https://www.infobae.com/peru/2026/06/07/jne-rechaza-cualquier-tipo-de-fraude-y-asegura-que-las-incidencias-son-puntuales/",
+      "title": "EN VIVO · Colombia se prepara para la segunda vuelta de las elecciones presidenciales: Claudia López pone condiciones al llamado de Iván Cepeda",
+      "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 21:00:09 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Todas las mesas de votación instaladas en la segunda vuelta, confirma la ONPE",
-      "link": "https://www.infobae.com/peru/2026/06/07/todas-las-mesas-de-votacion-instaladas-en-la-segunda-vuelta-confirma-la-onpe/",
-      "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 20:56:54 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Resultados oficiales de la ONPE: LINK para conocer si ganó Keiko Fujimori o Roberto Sánchez ",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-oficiales-de-la-onpe-link-para-conocer-si-gano-keiko-fujimori-o-roberto-sanchez/",
-      "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 20:56:18 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Boca de urna de segunda vuelta: Horario en el que se conocerán los primeros resultados no oficiales?",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-a-boca-de-urna-a-que-hora-se-conoceran-los-primeros-resultados-no-oficiales/",
-      "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 20:50:41 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Sun, 07 Jun 2026 23:02:13 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Flash Electoral Ipsos EN VIVO: resultados a boca de urna de las Elecciones 2026, segunda vuelta",
       "link": "https://www.infobae.com/peru/2026/06/07/flash-electoral-ipsos-en-vivo-resultados-a-boca-de-urna-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-las-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 20:49:58 +0000",
+      "pubDate": "Sun, 07 Jun 2026 23:01:56 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "EN VIVO · Colombia se prepara para la segunda vuelta de las elecciones presidenciales: Las votaciones en el exterior empezarán el 15 de junio",
-      "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
+      "title": "Esta es la fecha en que se proclamarán los resultados oficiales de la segunda vuelta en Perú",
+      "link": "https://www.infobae.com/peru/2026/06/05/resultados-oficiales-de-la-segunda-vuelta-se-proclamaran-a-mediados-de-julio-anuncia-el-jne/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 20:46:22 +0000",
+      "pubDate": "Sun, 07 Jun 2026 22:56:04 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Resultados ONPE EN VIVO: conteo oficial de votos de Keiko Fujimori y Roberto Sánchez en la segunda vuelta ",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
+      "title": "ONPE resultados EN VIVO por regiones: mapa electoral de segunda vuelta entre Keiko Fujimori y Roberto Sánchez",
+      "link": "https://www.infobae.com/peru/2026/06/07/onpe-resultados-en-vivo-por-regiones-mapa-electoral-de-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 20:35:55 +0000",
+      "pubDate": "Sun, 07 Jun 2026 22:56:01 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "María José Pizarro no acompañó en tarima a Iván Cepeda en eventos clave: crecen especulaciones por su ausencia en la recta final de campaña",
-      "link": "https://www.infobae.com/colombia/2026/06/07/maria-jose-pizarro-no-acompano-en-tarima-a-ivan-cepeda-en-eventos-clave-crecen-especulaciones-por-su-ausencia-en-la-recta-final-de-campana/",
-      "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 20:28:54 +0000",
+      "title": "Exfiscal Néstor Humberto Martínez denuncia 'coalición electoral' entre Iván Cepeda y grupos armados en primera vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/exfiscal-nestor-humberto-martinez-denuncia-coalicion-electoral-entre-ivan-cepeda-y-grupos-armados-en-primera-vuelta-3562706",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-07T17:55:41-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -130,15 +130,15 @@
       "title": "Iván Cepeda asegura que está 'listo para dialogar' con el centro político; Claudia López le responde: 'Asume el liderazgo de tu campaña'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-asegura-que-esta-listo-para-dialogar-con-el-centro-politico-claudia-lopez-le-responde-asume-el-liderazgo-de-tu-campana-3562748",
       "source": "El Tiempo",
-      "pubDate": "2026-06-07T14:06:15-05:00",
+      "pubDate": "2026-06-07T17:54:58-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "\"Las primarias han terminado\": Mélenchon presiona al resto de la izquierda en su primer gran mitin de campaña",
-      "link": "https://www.france24.com/es/francia/20260607-las-primarias-han-terminado-m%C3%A9lenchon-presiona-al-resto-de-la-izquierda-en-su-primer-gran-mitin-de-campa%C3%B1a",
-      "source": "France 24",
-      "pubDate": "Sun, 07 Jun 2026 18:38:32 GMT",
+      "title": "Resultados ONPE de Keiko Fujimori EN VIVO: conteo oficial de las votaciones de la segunda vuelta del 7 de junio",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-de-keiko-fujimori-en-vivo-conteo-oficial-de-las-votaciones-de-la-segunda-vuelta-del-7-de-junio/",
+      "source": "Infobae",
+      "pubDate": "Sun, 07 Jun 2026 22:54:53 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
