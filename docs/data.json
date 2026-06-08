@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T11:05:21.736Z",
+  "updatedAt": "2026-06-08T16:01:08.680Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,18 +47,74 @@
   ],
   "articles": [
     {
-      "title": "La segunda vuelta de las elecciones colombianas tendrá 27 observadores catalanes",
-      "link": "https://www.infobae.com/espana/agencias/2026/06/08/la-segunda-vuelta-de-las-elecciones-colombianas-tendra-27-observadores-catalanes/",
+      "title": "Resultados ONPE al 93.467% EN VIVO: Avanza conteo oficial de votos y Roberto Sánchez acorta distancias con Keiko Fujimori ",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Mon, 08 Jun 2026 10:49:06 +0000",
+      "pubDate": "Mon, 08 Jun 2026 15:53:29 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones presidenciales en Colombia 2026: el candidato por el Pacto Histórico, Iván Cepeda, reconoció los resultados de la primera vuelta",
+      "title": "Sin resultados oficiales, Gustavo Petro afirmó que el progresismo ganó la Presidencia en Perú: “Ha sido reivindicado Pedro Castillo”",
+      "link": "https://www.infobae.com/colombia/2026/06/08/sin-resultados-oficiales-gustavo-petro-afirmo-que-el-progresismo-gano-la-presidencia-en-peru-ha-sido-reivindicado-pedro-castillo/",
+      "source": "Infobae",
+      "pubDate": "Mon, 08 Jun 2026 15:47:37 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Resultados ONPE de Keiko Fujimori EN VIVO: conteo oficial de las votaciones de la segunda vuelta",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-de-keiko-fujimori-en-vivo-conteo-oficial-de-las-votaciones-de-la-segunda-vuelta-del-7-de-junio/",
+      "source": "Infobae",
+      "pubDate": "Mon, 08 Jun 2026 15:44:22 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "EN VIVO · Colombia se prepara para la segunda vuelta de las elecciones presidenciales: Estos son los pasos que debería seguir Abelardo de la Espriella para dolarizar a Colombia",
+      "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
+      "source": "Infobae",
+      "pubDate": "Mon, 08 Jun 2026 15:33:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Informe desde Lima: Fujimori y Sánchez protagonizan un empate técnico en balotaje en Perú",
+      "link": "https://www.france24.com/es/video/20260608-informe-desde-lima-fujimori-y-s%C3%A1nchez-protagonizan-un-empate-t%C3%A9cnico-en-balotaje-en-per%C3%BA",
+      "source": "France 24",
+      "pubDate": "Mon, 08 Jun 2026 15:28:55 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Humberto de la Calle critica publicidad de campaña de Iván Cepeda '¿Por qué no te vas del país?': 'Es contradictorio'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/humberto-de-la-calle-critica-publicidad-de-campana-de-ivan-cepeda-por-que-no-te-vas-del-pais-es-contradictorio-3562841",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-08T09:15:58-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Fraude en las elecciones de Colombia? Imagen de acta de conteo de votos fue adulterada",
+      "link": "https://www.france24.com/es/programas/des-informando/20260608-fraude-en-las-elecciones-de-colombia-imagen-de-acta-de-conteo-de-votos-fue-adulterada",
+      "source": "France 24",
+      "pubDate": "Mon, 08 Jun 2026 13:53:50 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Hay confianza en el proceso electoral de Perú tras un balotaje tan ajustado?",
+      "link": "https://www.france24.com/es/video/20260608-hay-confianza-en-el-proceso-electoral-de-per%C3%BA-tras-un-balotaje-tan-ajustado",
+      "source": "France 24",
+      "pubDate": "Mon, 08 Jun 2026 13:23:59 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones presidenciales en Colombia 2026: ¿habrá debate entre Abelardo de la Espriella e Iván Cepeda?",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-el-candidato-por-el-pacto-historico-ivan-cepeda-reconocio-los-resultados-de-la-primera-vuelta-3562830",
       "source": "El Tiempo",
-      "pubDate": "2026-06-08T05:45:19-05:00",
+      "pubDate": "2026-06-08T06:43:33-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -85,62 +141,6 @@
       "pubDate": "2026-06-07T23:02:22-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Crecen las alertas por posible constreñimiento electoral en segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/crecen-las-alertas-por-posible-constrenimiento-electoral-en-segunda-vuelta-presidencial-3562774",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-07T22:50:00-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Informe desde Lima: insatisfacción y desinterés en el balotaje en Perú",
-      "link": "https://www.france24.com/es/video/20260608-informe-desde-lima-insatisfacci%C3%B3n-y-desinter%C3%A9s-en-el-balotaje-en-per%C3%BA",
-      "source": "France 24",
-      "pubDate": "Mon, 08 Jun 2026 02:56:33 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Rodrigo Londoño, ‘Timochenko’, anuncia su respaldo a Iván Cepeda para la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/rodrigo-londono-timochenco-anuncia-su-respaldo-a-ivan-cepeda-para-la-segunda-vuelta-presidencial-3562798",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-07T19:34:37-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "El difícil panorama para la realización de debates en la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-dificil-panorama-para-la-realizacion-de-debates-en-la-segunda-vuelta-presidencial-3562792",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-07T19:04:21-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "El llamado a dialogar de Iván Cepeda al centro político: ¿logrará conseguir apoyos y adhesiones de dicho sector?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-llamado-a-dialogar-de-ivan-cepeda-al-centro-politico-lograra-conseguir-apoyos-y-adhesiones-de-dicho-sector-3562791",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-07T18:59:13-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "'Hay que estar alerta porque Petro ya desconoció los resultados del 31 de mayo’: Mauricio Gómez Amín",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/hay-que-estar-alerta-porque-petro-ya-desconocio-los-resultados-del-31-de-mayo-mauricio-gomez-amin-3562788",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-07T18:53:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Informe desde Lima: así avanza la segunda vuelta presidencial en Perú",
-      "link": "https://www.france24.com/es/video/20260607-informe-desde-lima-as%C3%AD-avanza-la-segunda-vuelta-presidencial-en-per%C3%BA",
-      "source": "France 24",
-      "pubDate": "Sun, 07 Jun 2026 21:41:18 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
