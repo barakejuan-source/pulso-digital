@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-07T09:48:01.801Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-08T15:05:34.792Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 29,
+      "trendsScore": 45,
       "youtubeScore": 38,
       "sentimentScore": 17,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 244777,
-      "finalScore": 28,
+      "finalScore": 35,
       "momentum": {
-        "value": -3.4,
-        "direction": "flat"
+        "value": 25,
+        "direction": "up"
       },
-      "probability": 26.7
+      "probability": 31.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,103 +42,103 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 73.3
+      "probability": 68.8
     }
   ],
   "articles": [
     {
-      "title": "Elecciones 2026: a qué hora abren y cierran las mesas de votación hoy domingo 7 de junio",
-      "link": "https://www.infobae.com/peru/2026/06/07/elecciones-2026-a-que-hora-abren-y-cierran-las-mesas-de-votacion-este-domingo-7-de-junio/",
+      "title": "Salió a ejercer su voto en la segunda vuelta electoral y sicario lo ejecuta de cuatro balazos en Chimbote",
+      "link": "https://www.infobae.com/peru/2026/06/08/salio-a-ejercer-su-voto-en-la-segunda-vuelta-electoral-y-sicario-lo-ejecuta-de-cuatro-balazos-en-chimbote/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 09:39:09 +0000",
+      "pubDate": "Mon, 08 Jun 2026 15:01:55 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones 2026 EN VIVO HOY 7 de junio: minuto a minuto de la segunda vuelta entre Keiko Fujimori y Roberto Sánchez",
-      "link": "https://www.infobae.com/peru/2026/06/07/elecciones-2026-en-vivo-hoy-7-de-junio-minuto-a-minuto-de-la-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
+      "title": "Resultados ONPE al 93.181% EN VIVO: Avanza el conteo oficial de votos de Keiko Fujimori y Roberto Sánchez",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 09:37:38 +0000",
+      "pubDate": "Mon, 08 Jun 2026 14:45:16 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Día de la Bandera se celebra hoy 7 de junio: peruanos celebran feriado acudiendo a las urnas por segunda vuelta",
-      "link": "https://www.infobae.com/peru/2026/06/07/dia-de-la-bandera-se-celebra-hoy-7-de-junio-peruanos-celebran-feriado-acudiendo-a-las-urnas-por-segunda-vuelta/",
+      "title": "Resultados ONPE de Roberto Sánchez EN VIVO: conteo oficial de las votaciones de segunda vuelta del 7 de junio",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-de-roberto-sanchez-en-vivo-conteo-oficial-de-las-votaciones-de-segunda-vuelta-del-7-de-junio/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 09:18:35 +0000",
+      "pubDate": "Mon, 08 Jun 2026 14:44:18 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Keiko Fujimori y Roberto Sánchez: los perfiles de los dos candidatos que definen quién gobernará el Perú hasta 2031",
-      "link": "https://www.infobae.com/peru/2026/06/07/keiko-fujimori-y-roberto-sanchez-los-perfiles-de-los-dos-candidatos-que-definen-quien-gobernara-el-peru-hasta-2031/",
+      "title": "Sin resultados oficiales, Gustavo Petro afirmó que el progresismo ganó la Presidencia en Perú: “Ha sido reivindicado Pedro Castillo”",
+      "link": "https://www.infobae.com/colombia/2026/06/08/sin-resultados-oficiales-gustavo-petro-afirmo-que-el-progresismo-gano-la-presidencia-en-peru-ha-sido-reivindicado-pedro-castillo/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 09:05:00 +0000",
+      "pubDate": "Mon, 08 Jun 2026 14:43:51 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Perú elige entre Keiko Fujimori y Roberto Sánchez a su noveno presidente en diez años",
-      "link": "https://www.infobae.com/peru/2026/06/07/peru-elige-entre-keiko-fujimori-y-roberto-sanchez-a-su-noveno-presidente-en-diez-anos/",
+      "title": "José Manuel Restrepo se despachó contra Gustavo Petro por polémica foto con Yerry Mina: “La gente está cansada de su cinismo”",
+      "link": "https://www.infobae.com/colombia/2026/06/08/jose-manuel-restrepo-se-despacho-contra-gustavo-petro-por-polemica-foto-con-yerry-mina-la-gente-esta-cansada-de-su-cinismo/",
       "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 09:05:00 +0000",
+      "pubDate": "Mon, 08 Jun 2026 14:37:47 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "EN VIVO · Colombia se prepara para la segunda vuelta de las elecciones presidenciales: Disidencias anuncian cese al fuego para las elecciones del 21 de junio",
+      "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
+      "source": "Infobae",
+      "pubDate": "Mon, 08 Jun 2026 14:26:44 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Segunda vuelta en Perú: el Jurado Nacional de Elecciones activa plan especial para evitar errores del 12 de abril",
-      "link": "https://www.infobae.com/peru/2026/06/07/segunda-vuelta-en-peru-el-jurado-nacional-de-elecciones-activa-plan-especial-para-evitar-errores-del-12-de-abril/",
-      "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 08:56:04 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Expertos alertan que “la transferencia pacífica del poder está en riesgo” mientras Petro sigue sin reconocer resultados electorales",
-      "link": "https://www.infobae.com/colombia/2026/06/07/expertos-alertan-que-la-transferencia-pacifica-del-poder-esta-en-riesgo-mientras-petro-sigue-sin-reconocer-resultados-electorales/",
-      "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 08:36:08 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Boca de urna de segunda vuelta: ¿a qué hora se conocerán los primeros resultados no oficiales?",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-a-boca-de-urna-a-que-hora-se-conoceran-los-primeros-resultados-no-oficiales/",
-      "source": "Infobae",
-      "pubDate": "Sun, 07 Jun 2026 08:35:33 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Las estrategias y movidas de Abelardo de la Espriella e Iván Cepeda a dos semanas de la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-estrategias-y-movidas-de-abelardo-de-la-espriella-e-ivan-cepeda-a-dos-semanas-de-la-segunda-vuelta-presidencial-3562649",
+      "title": "Humberto de la Calle critica publicidad de campaña de Iván Cepeda '¿Por qué no te vas del país?': 'Es contradictorio'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/humberto-de-la-calle-critica-publicidad-de-campana-de-ivan-cepeda-por-que-no-te-vas-del-pais-es-contradictorio-3562841",
       "source": "El Tiempo",
-      "pubDate": "2026-06-06T22:57:20-05:00",
+      "pubDate": "2026-06-08T09:15:58-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Las ‘fake news’ crecen como la principal amenaza en la antesala de la segunda vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-fake-news-crecen-como-la-principal-amenaza-en-la-antesala-de-la-segunda-vuelta-3562646",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-06T22:56:03-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Los riesgos para la democracia de que el presidente Petro ni Iván Cepeda hayan reconocido los resultados tras escrutinios de primera vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-riesgos-para-la-democracia-de-que-el-presidente-petro-ni-ivan-cepeda-hayan-reconocido-los-resultados-tras-escrutinios-de-primera-vuelta-3562654",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-06T22:56:02-05:00",
+      "title": "¿Fraude en las elecciones de Colombia? Imagen de acta de conteo de votos fue adulterada",
+      "link": "https://www.france24.com/es/programas/des-informando/20260608-fraude-en-las-elecciones-de-colombia-imagen-de-acta-de-conteo-de-votos-fue-adulterada",
+      "source": "France 24",
+      "pubDate": "Mon, 08 Jun 2026 13:53:50 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "La fractura nacional",
-      "link": "https://www.lasillavacia.com/red-de-expertos/la-fractura-nacional/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 07 Jun 2026 02:55:02 +0000",
+      "title": "¿Hay confianza en el proceso electoral de Perú tras un balotaje tan ajustado?",
+      "link": "https://www.france24.com/es/video/20260608-hay-confianza-en-el-proceso-electoral-de-per%C3%BA-tras-un-balotaje-tan-ajustado",
+      "source": "France 24",
+      "pubDate": "Mon, 08 Jun 2026 13:23:59 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones presidenciales en Colombia 2026: ¿habrá debate entre Abelardo de la Espriella e Iván Cepeda?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-el-candidato-por-el-pacto-historico-ivan-cepeda-reconocio-los-resultados-de-la-primera-vuelta-3562830",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-08T06:43:33-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones presidenciales 2026: el partido Colombia Renaciente anunció su respaldo a Abelardo De La Espriella; el aspirante rechazó el apoyo",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-el-partido-colombia-renaciente-anuncio-su-respaldo-a-abelardo-de-la-espriella-el-aspirante-rechazo-el-apoyo-3562828",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-08T05:19:32-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Definición voto a voto: el resultado del apretado balotaje entre Fujimori y Sánchez queda en suspenso",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260608-definici%C3%B3n-voto-a-voto-el-resultado-del-apretado-balotaje-entre-fujimori-y-s%C3%A1nchez-queda-en-suspenso",
+      "source": "France 24",
+      "pubDate": "Mon, 08 Jun 2026 04:26:25 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
