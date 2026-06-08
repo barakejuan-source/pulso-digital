@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T16:01:08.680Z",
+  "updatedAt": "2026-06-08T18:33:10.019Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Resultados ONPE al 93.467% EN VIVO: Avanza conteo oficial de votos y Roberto Sánchez acorta distancias con Keiko Fujimori ",
+      "title": "Histórica definición electoral en Perú EN VIVO: con el 94,029% de los votos escrutados, Roberto Sánchez supera a Keiko Fujimori",
       "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Mon, 08 Jun 2026 15:53:29 +0000",
+      "pubDate": "Mon, 08 Jun 2026 18:24:51 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Sin resultados oficiales, Gustavo Petro afirmó que el progresismo ganó la Presidencia en Perú: “Ha sido reivindicado Pedro Castillo”",
-      "link": "https://www.infobae.com/colombia/2026/06/08/sin-resultados-oficiales-gustavo-petro-afirmo-que-el-progresismo-gano-la-presidencia-en-peru-ha-sido-reivindicado-pedro-castillo/",
+      "title": "¿Qué son las actas observadas y cómo pueden cambiar el rumbo de la segunda vuelta entre Roberto Sánchez y Keiko Fujimori?",
+      "link": "https://www.infobae.com/peru/2026/06/08/que-son-las-actas-observadas-y-como-pueden-cambiar-el-rumbo-de-la-segunda-vuelta-entre-roberto-sanchez-y-keiko-fujimori/",
       "source": "Infobae",
-      "pubDate": "Mon, 08 Jun 2026 15:47:37 +0000",
+      "pubDate": "Mon, 08 Jun 2026 18:21:12 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -66,79 +66,79 @@
       "title": "Resultados ONPE de Keiko Fujimori EN VIVO: conteo oficial de las votaciones de la segunda vuelta",
       "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-de-keiko-fujimori-en-vivo-conteo-oficial-de-las-votaciones-de-la-segunda-vuelta-del-7-de-junio/",
       "source": "Infobae",
-      "pubDate": "Mon, 08 Jun 2026 15:44:22 +0000",
+      "pubDate": "Mon, 08 Jun 2026 18:09:36 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "EN VIVO · Colombia se prepara para la segunda vuelta de las elecciones presidenciales: Estos son los pasos que debería seguir Abelardo de la Espriella para dolarizar a Colombia",
+      "title": "Iván Cepeda provocó críticas al pedir que quienes no les gusta Colombia se vayan del país: “Fatal”",
+      "link": "https://www.infobae.com/colombia/2026/06/08/ivan-cepeda-provoco-criticas-al-pedir-que-quienes-no-les-gusta-colombia-se-vayan-del-pais-fatal/",
+      "source": "Infobae",
+      "pubDate": "Mon, 08 Jun 2026 18:08:10 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Centro Democrático desestimó denuncia de Iván Cepeda por supuesto autoatentado de Abelardo de la Espriella: “¡Mal perdedor!” ",
+      "link": "https://www.infobae.com/colombia/2026/06/08/centro-democratico-desestimo-denuncia-de-ivan-cepeda-por-supuesto-autoatentado-de-abelardo-de-la-espriella-mal-perdedor/",
+      "source": "Infobae",
+      "pubDate": "Mon, 08 Jun 2026 18:02:08 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones 2026: Llegan las primeras actas del voto extranjero que serán claves para los resultados  ",
+      "link": "https://www.infobae.com/peru/2026/06/08/elecciones-2026-llegan-las-primeras-actas-del-voto-extranjero-que-seran-claves-para-los-resultados/",
+      "source": "Infobae",
+      "pubDate": "Mon, 08 Jun 2026 17:56:10 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "María José Pizarro rechazó rumores de crisis interna tras ausencia en actos con Iván Cepeda: “Vienen noticias”",
+      "link": "https://www.infobae.com/colombia/2026/06/08/maria-jose-pizarro-rechazo-rumores-de-crisis-interna-tras-ausencia-en-actos-con-ivan-cepeda-vienen-noticias/",
+      "source": "Infobae",
+      "pubDate": "Mon, 08 Jun 2026 17:55:33 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Resultados oficiales de la ONPE: LINK para conocer si ganó Keiko Fujimori o Roberto Sánchez ",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-oficiales-de-la-onpe-link-para-conocer-si-gano-keiko-fujimori-o-roberto-sanchez/",
+      "source": "Infobae",
+      "pubDate": "Mon, 08 Jun 2026 17:54:02 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "EN VIVO · Colombia se prepara para la segunda vuelta de las elecciones presidenciales: Abelardo de la Espriella desmintió las acusaciones de Cepeda y lo llamó “desesperado” ",
       "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
       "source": "Infobae",
-      "pubDate": "Mon, 08 Jun 2026 15:33:00 +0000",
+      "pubDate": "Mon, 08 Jun 2026 17:47:10 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Informe desde Lima: Fujimori y Sánchez protagonizan un empate técnico en balotaje en Perú",
-      "link": "https://www.france24.com/es/video/20260608-informe-desde-lima-fujimori-y-s%C3%A1nchez-protagonizan-un-empate-t%C3%A9cnico-en-balotaje-en-per%C3%BA",
-      "source": "France 24",
-      "pubDate": "Mon, 08 Jun 2026 15:28:55 GMT",
+      "title": "La seguridad energética del país también se disputa en la segunda vuelta",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-verde/la-seguridad-energetica-del-pais-tambien-se-disputa-en-la-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 08 Jun 2026 17:30:00 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Humberto de la Calle critica publicidad de campaña de Iván Cepeda '¿Por qué no te vas del país?': 'Es contradictorio'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/humberto-de-la-calle-critica-publicidad-de-campana-de-ivan-cepeda-por-que-no-te-vas-del-pais-es-contradictorio-3562841",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-08T09:15:58-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Fraude en las elecciones de Colombia? Imagen de acta de conteo de votos fue adulterada",
-      "link": "https://www.france24.com/es/programas/des-informando/20260608-fraude-en-las-elecciones-de-colombia-imagen-de-acta-de-conteo-de-votos-fue-adulterada",
-      "source": "France 24",
-      "pubDate": "Mon, 08 Jun 2026 13:53:50 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "¿Hay confianza en el proceso electoral de Perú tras un balotaje tan ajustado?",
-      "link": "https://www.france24.com/es/video/20260608-hay-confianza-en-el-proceso-electoral-de-per%C3%BA-tras-un-balotaje-tan-ajustado",
+      "link": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260608-hay-confianza-en-el-proceso-electoral-de-per%C3%BA-tras-un-balotaje-tan-ajustado",
       "source": "France 24",
-      "pubDate": "Mon, 08 Jun 2026 13:23:59 GMT",
+      "pubDate": "Mon, 08 Jun 2026 16:57:30 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones presidenciales en Colombia 2026: ¿habrá debate entre Abelardo de la Espriella e Iván Cepeda?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-el-candidato-por-el-pacto-historico-ivan-cepeda-reconocio-los-resultados-de-la-primera-vuelta-3562830",
+      "title": "Iván Cepeda y Abelardo de la Espriella hacen señalamientos mutuos de autoatentados: autoridades no tienen información de las acusaciones",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-y-abelardo-de-la-espriella-hacen-senalamientos-mutuos-de-autoatentados-autoridades-no-tienen-informacion-de-las-acusaciones-3562867",
       "source": "El Tiempo",
-      "pubDate": "2026-06-08T06:43:33-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Elecciones presidenciales 2026: el partido Colombia Renaciente anunció su respaldo a Abelardo De La Espriella; el aspirante rechazó el apoyo",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-el-partido-colombia-renaciente-anuncio-su-respaldo-a-abelardo-de-la-espriella-el-aspirante-rechazo-el-apoyo-3562828",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-08T05:19:32-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Definición voto a voto: el resultado del apretado balotaje entre Fujimori y Sánchez queda en suspenso",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260608-definici%C3%B3n-voto-a-voto-el-resultado-del-apretado-balotaje-entre-fujimori-y-s%C3%A1nchez-queda-en-suspenso",
-      "source": "France 24",
-      "pubDate": "Mon, 08 Jun 2026 04:26:25 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Iván Cepeda reconoce resultados de la primera vuelta presidencial en Colombia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-reconoce-resultados-de-la-primera-vuelta-presidencial-en-colombia-3562805",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-07T23:02:22-05:00",
+      "pubDate": "2026-06-08T11:56:59-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
