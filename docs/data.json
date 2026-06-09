@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T21:51:14.943Z",
+  "updatedAt": "2026-06-09T23:20:20.801Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 46,
+      "trendsScore": 45,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 520937,
       "finalScore": 53,
       "momentum": {
-        "value": 1.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 46.1
@@ -47,60 +47,52 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella o Iván Cepeda: así se mueven las búsquedas en Google Trends a 12 días de las elecciones presidenciales",
-      "link": "https://www.infobae.com/colombia/2026/06/09/abelardo-de-la-espriella-o-ivan-cepeda-asi-se-mueven-las-busquedas-en-google-trends-a-12-dias-de-las-elecciones-presidenciales/",
+      "title": "El país político ‘estalló´ por orden de retirar la propaganda de Abelardo de la Espriella que tenga símbolos patrios: “Atropello”",
+      "link": "https://www.infobae.com/colombia/2026/06/09/el-pais-politico-estallo-por-orden-de-retirar-la-propaganda-de-abelardo-de-la-espriella-que-tenga-simbolos-patrios-atropello/",
       "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 21:47:27 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda elevó el tono contra Abelardo de la Espriella y lo tildó de “agresivo e irascible” tras polémica por el debate presidencial",
-      "link": "https://www.infobae.com/colombia/2026/06/09/ivan-cepeda-elevo-el-tono-contra-abelardo-de-la-espriella-y-lo-tildo-de-agresivo-e-irascible-tras-polemica-por-el-debate-presidencial/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 21:46:14 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 96,187% escrutado, Roberto Sánchez vuelve ampliar la ventaja con más de 33 mil votos",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 21:46:10 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "EN VIVO · Colombia se prepara para la segunda vuelta de las elecciones presidenciales: juez tomó medidas que impactan la campaña de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 21:35:56 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Ordenan a Abelardo de la Espriella retirar toda la propaganda de campaña que tenga símbolos patrios y la frase “firmes por la patria”",
-      "link": "https://www.infobae.com/colombia/2026/06/09/ordenan-a-abelardo-de-la-espriella-retirar-toda-la-propaganda-de-campana-que-tenga-simbolos-patrios-y-la-frase-firmes-por-la-patria/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 21:34:19 +0000",
+      "pubDate": "Tue, 09 Jun 2026 23:04:45 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella aceptó debatir con Iván Cepeda 'donde sea', pero puso como condición que participen los candidatos vicepresidenciales",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-acepto-debatir-con-ivan-cepeda-donde-sea-pero-puso-como-condicion-que-participen-los-candidatos-vicepresidenciales-3562985",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-09T16:27:19-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Katherine Miranda provocó una avalancha de críticas tras apoyar a Abelardo de la Espriella: “No se volvió de derecha, siempre lo fue”",
+      "link": "https://www.infobae.com/colombia/2026/06/09/katherine-miranda-provoco-una-avalancha-de-criticas-tras-apoyar-a-abelardo-de-la-espriella-no-se-volvio-de-derecha-siempre-lo-fue/",
+      "source": "Infobae",
+      "pubDate": "Tue, 09 Jun 2026 22:59:28 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Arequipa: personero sustrajo 261 cédulas de sufragio durante la segunda vuelta y ya fue condenado por la justicia",
-      "link": "https://www.infobae.com/peru/2026/06/09/arequipa-personero-sustrajo-261-cedulas-de-sufragio-durante-la-segunda-vuelta-y-ya-fue-condenado-por-la-justicia/",
+      "title": "Ministerio Público denuncia que dos fiscales fueron secuestrados por policías tras hallar cédulas de votación marcadas en Ucayali",
+      "link": "https://www.infobae.com/peru/2026/06/09/ministerio-publico-denuncia-que-dos-fiscales-fueron-secuestrados-por-policias-tras-hallar-cedulas-de-votacion-marcadas-en-ucayali/",
       "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 21:22:49 +0000",
+      "pubDate": "Tue, 09 Jun 2026 22:56:44 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "‘Voto en blanco porque no estoy de acuerdo con ninguna de las dos propuestas’: exministra Cecilia López",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/voto-en-blanco-porque-no-estoy-de-acuerdo-con-ninguna-de-las-dos-propuestas-exministra-cecilia-lopez-3563169",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-09T17:46:45-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Presidenta de la Corte hizo fuerte llamado a días de la segunda vuelta presidencial: “La verdadera fuerza no se demuestra desafiando los contrapesos”",
+      "link": "https://www.infobae.com/colombia/2026/06/09/presidenta-de-la-corte-hizo-fuerte-llamado-a-dias-de-la-segunda-vuelta-presidencial-la-verdadera-fuerza-no-se-demuestra-desafiando-los-contrapesos/",
+      "source": "Infobae",
+      "pubDate": "Tue, 09 Jun 2026 22:46:28 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Claudia López y Vicky Dávila se enfrentaron en redes sociales por posible apoyo de la exalcaldesa a la campaña de Iván Cepeda",
+      "link": "https://www.infobae.com/colombia/2026/06/09/claudia-lopez-y-vicky-davila-se-enfrentaron-en-redes-sociales-por-posible-apoyo-de-la-exalcaldesa-a-la-campana-de-ivan-cepeda/",
+      "source": "Infobae",
+      "pubDate": "Tue, 09 Jun 2026 22:41:38 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Denuncian que militante de campaña de Iván Cepeda estaría ofreciendo beneficios de cara a la segunda vuelta presidencial: señalado respondió acusación",
@@ -131,14 +123,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-insiste-en-que-debate-con-ivan-cepeda-debe-incluir-formulas-vicepresidenciales-que-los-medios-de-comunicacion-lo-organicen-3563096",
       "source": "El Tiempo",
       "pubDate": "2026-06-09T13:11:03-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda no accede a condición de Abelardo de la Espriella de debatir con las fórmulas vicepresidenciales: 'Es entre usted y yo'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-no-accede-a-condicion-de-abelardo-de-la-espriella-de-debatir-con-las-formulas-vicepresidenciales-es-entre-usted-y-yo-3563074",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-09T12:24:33-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
