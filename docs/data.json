@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T07:54:49.677Z",
+  "updatedAt": "2026-06-09T11:21:25.230Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,26 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Histórica definición electoral en Perú EN VIVO: con el 95.584% de los votos escrutados, Roberto Sánchez supera a Keiko Fujimori",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
+      "title": "Qué necesita Abelardo de la Espriella para dolarizar a Colombia: esto dice la ley ",
+      "link": "https://www.infobae.com/colombia/2026/06/08/que-necesita-abelardo-de-la-espriella-para-dolarizar-a-colombia-esto-dice-la-ley/",
       "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 07:39:09 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Tue, 09 Jun 2026 11:10:25 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cepeda arremete contra Abelardo de la Espriella por propuesta de fracking: “Es echar gasolina al incendio”",
-      "link": "https://www.infobae.com/colombia/2026/06/09/ivan-cepeda-arremete-contra-abelardo-de-la-espriella-por-propuesta-de-fracking-es-echar-gasolina-al-incendio/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 06:51:14 +0000",
+      "title": "Abelardo De La Espriella habla de compra de votos en la Costa y pide a Landau 'tener en el radar' a una veintena de políticos: esta es la lista",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/a-de-la-espriella-habla-de-compra-de-votos-en-la-costa-y-pide-a-christopher-landau-tener-en-el-radar-a-una-veintena-de-politicos-esta-es-la-lista-3562962",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-09T06:03:56-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elecciones en Colombia 2026: Cambio Radical denuncia que militante de campaña de Iván Cepeda 'ofrece beneficios' y afirma que 'la plata debe llegar'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-registrador-nacional-manifesto-preocupacion-por-violencia-derivada-de-la-desinformacion-en-segunda-vuelta-3562970",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-09T04:47:18-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Abelardo de la Espriella reveló nombres para el “quitavisas” de EE. UU.: estas fueron las figuras que mencionó",
-      "link": "https://www.infobae.com/colombia/2026/06/09/abelardo-de-la-espriella-revelo-nombres-para-el-quitavisas-de-ee-uu-estas-fueron-las-figuras-que-menciono/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 06:08:15 +0000",
+      "title": "Elecciones presidenciales 2026 en Colombia: Katherine Miranda anunció su voto por Abelardo De La Espriella y afirmó que no se debe a una 'ideología'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-en-colombia-katherine-miranda-anuncio-su-voto-para-abelardo-de-la-espriella-y-afirmo-que-no-lo-hace-por-ideologia-3562966",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-09T03:30:35-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,14 +83,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/para-la-segunda-vuelta-me-inquieta-que-pueda-generarse-violencia-por-desinformacion-hernan-penagos-la-entrevista-de-maria-isabel-rueda-3562933",
       "source": "El Tiempo",
       "pubDate": "2026-06-09T00:26:20-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "A. De La Espriella habla de compra de votos en la Costa y pide a Christopher Landau 'tener en el radar' a una veintena de políticos: esta es la lista",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/a-de-la-espriella-habla-de-compra-de-votos-en-la-costa-y-pide-a-christopher-landau-tener-en-el-radar-a-una-veintena-de-politicos-esta-es-la-lista-3562962",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-08T22:04:34-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
