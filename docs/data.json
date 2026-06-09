@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T15:16:43.597Z",
+  "updatedAt": "2026-06-09T18:11:27.310Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,98 +47,98 @@
   ],
   "articles": [
     {
-      "title": "Gamarra reporta caída de hasta 50% en ventas tras la segunda vuelta: pérdidas superarían los S/600 millones",
-      "link": "https://www.infobae.com/peru/2026/06/09/gamarra-reporta-caida-de-hasta-50-en-ventas-tras-la-segunda-vuelta-perdidas-superarian-los-s600-millones/",
+      "title": "Histórica definición electoral en Perú EN VIVO: Al 95% escrutado, Roberto Sánchez mantiene una leve ventaja sobre Keiko Fujimori",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 15:12:55 +0000",
+      "pubDate": "Tue, 09 Jun 2026 18:08:52 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Abelardo de la Espriella explicó si piensa privatizar el Fondo Nacional del Ahorro: “Ariel Ávila miente, como de costumbre”  ",
-      "link": "https://www.infobae.com/colombia/2026/06/09/abelardo-de-la-espriella-acuso-a-ariel-avila-de-mentir-sobre-una-supuesta-privatizacion-del-fondo-nacional-del-ahorro-en-un-eventual-gobierno-suyo/",
+      "title": "Registraduría desmintió ‘pico y placa’ para votar en la segunda vuelta presidencial: estos son los horarios",
+      "link": "https://www.infobae.com/colombia/2026/06/09/registraduria-desmintio-supuesto-horario-parecido-a-un-pico-y-placa-para-votar-en-la-segunda-vuelta-presidencial/",
       "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 15:10:31 +0000",
+      "pubDate": "Tue, 09 Jun 2026 18:06:41 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Extenista Alejandro Falla se puso la camiseta de la selección Colombia en apoyo a Abelardo de la Espriella: “Firme por la patria”",
+      "link": "https://www.infobae.com/colombia/2026/06/09/extenista-alejandro-falla-se-puso-la-camiseta-de-la-seleccion-colombia-en-apoyo-a-abelardo-de-la-espriella-firme-por-la-patria/",
+      "source": "Infobae",
+      "pubDate": "Tue, 09 Jun 2026 18:06:39 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella dijo que una “alta fuente” de EE. UU. le dio nombres de personas que podrían “torcer” las elecciones, incluido Daniel Quintero",
-      "link": "https://www.infobae.com/colombia/2026/06/09/abelardo-de-la-espriella-dijo-que-una-alta-fuente-de-ee-uu-le-dio-nombres-de-personas-que-podrian-torcer-las-elecciones-incluido-daniel-quintero/",
+      "title": "El voto del extranjero sí estuvo en la muestra del conteo rápido de Ipsos, aclara Transparencia: “Esperar con calma”",
+      "link": "https://www.infobae.com/peru/2026/06/09/el-voto-del-extranjero-si-estuvo-en-la-muestra-del-conteo-rapido-de-ipsos-aclara-transparencia-esperar-con-calma/",
       "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 15:05:26 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Tue, 09 Jun 2026 18:03:31 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Abelardo de la Espriella reveló nuevos nombres relacionados con la supuesta compra de votos en Antioquia: “La lista sigue creciendo”",
-      "link": "https://www.infobae.com/colombia/2026/06/09/abelardo-de-la-espriella-revelo-nuevos-nombres-relacionados-con-la-supuesta-compra-de-votos-en-antioquia-la-lista-sigue-creciendo/",
+      "title": "Paloma Valencia criticó a Iván Cepeda por decir que a quienes no les gusta Colombia se vayan del país: “Ya vimos lo que ha pasado en Venezuela y Cuba”",
+      "link": "https://www.infobae.com/colombia/2026/06/09/paloma-valencia-critico-a-ivan-cepeda-por-decir-que-a-quienes-no-les-gusta-colombia-se-vayan-del-pais-ya-vimos-lo-que-ha-pasado-en-venezuela-y-cuba/",
       "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 15:05:15 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella hizo promesa a los miembros de la fuerza pública que desacaten lo que llamó “órdenes inconstitucionales”: “Si los botan...”",
-      "link": "https://www.infobae.com/colombia/2026/06/09/abelardo-de-la-espriella-hizo-promesa-a-los-miembros-de-la-fuerza-publica-que-desacaten-ordenes-inconstitucionales-si-los-botan/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 15:00:49 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "José Manuel Restrepo respondió críticas a su propuesta de “fracking sostenible”: “Claro que se puede”",
-      "link": "https://www.infobae.com/colombia/2026/06/09/jose-manuel-restrepo-criticas-a-su-propuesta-de-fracking-sostenible-claro-que-se-puede/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 14:59:20 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "EN VIVO · Colombia se prepara para la segunda vuelta de las elecciones presidenciales: Aida Quilcué respondió a críticas por su perfil educativo ",
-      "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 14:54:17 +0000",
+      "pubDate": "Tue, 09 Jun 2026 18:00:51 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Alejandra Baigorria recibe críticas tras cuestionar a votantes de Roberto Sánchez en la segunda vuelta: “La que tiene que abrir los ojos eres tú”",
-      "link": "https://www.infobae.com/peru/2026/06/09/alejandra-baigorria-recibe-criticas-tras-cuestionar-a-votantes-de-roberto-sanchez-en-la-segunda-vuelta-la-que-tiene-que-abrir-los-ojos-eres-tu/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 14:53:27 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Abelardo de la Espriella aceptó debatir con Iván Cepeda 'donde sea', pero puso como condición que participen los candidatos vicepresidenciales",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-acepto-debatir-con-ivan-cepeda-donde-sea-pero-puso-como-condicion-que-participen-los-candidatos-vicepresidenciales-3562985",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-09T12:54:07-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "La CUT convocó movilización el 11 de junio: protestarán contra el plan de Abelardo de la Espriella sobre empleo público  ",
-      "link": "https://www.infobae.com/colombia/2026/06/09/la-cut-convoco-a-movilizacion-el-11-de-junio-contra-el-plan-de-abelardo-de-la-espriella-sobre-empleo-publico/",
+      "title": "Por respaldo a Abelardo de la Espriella, congresistas demócratas acusan a Donald Trump de intentar influir en las elecciones de Colombia",
+      "link": "https://www.infobae.com/colombia/2026/06/09/tras-el-respaldo-a-abelardo-de-la-espriella-congresistas-democratas-acusan-a-donald-trump-de-intentar-influir-en-las-elecciones-de-colombia/",
       "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 14:52:44 +0000",
+      "pubDate": "Tue, 09 Jun 2026 17:49:03 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 95% escrutado, Roberto Sánchez mantiene una leve ventaja sobre Keiko Fujimori",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
+      "title": "Mafe Carrascal cuestionó el rol profesional de Abelardo de la Espriella:  “Abogado de mafiosos y estafadores que a su vez los estafa”",
+      "link": "https://www.infobae.com/colombia/2026/06/09/mafe-carrascal-cuestiono-el-rol-de-abelardo-de-la-espriella-como-abogado-y-lo-acuso-de-ser-el-estafador-de-estafadores/",
       "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 14:44:54 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Tue, 09 Jun 2026 17:48:45 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda no accede a condición de Abelardo de la Espriella de debatir con las fórmulas vicepresidenciales: 'Es entre usted y yo'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-no-accede-a-condicion-de-abelardo-de-la-espriella-de-debatir-con-las-formulas-vicepresidenciales-es-entre-usted-y-yo-3563074",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-09T12:24:33-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Claudia López mantiene distancia con Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/en-vivo/claudia-lopez-mantiene-distancia-con-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 09 Jun 2026 16:02:15 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella nombra los compromisarios para acordar reglas de juego para realizar debates con Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-nombra-los-compromisarios-para-acordar-reglas-de-juego-para-realizar-debates-con-ivan-cepeda-3563041",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-09T10:37:40-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Respuestas a denuncia de Abelardo de la Espriella tras pedir a Estados Unidos y a Landau vigilar políticos por presunta compra de votos en elecciones",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/reacciones-a-denuncia-de-abelardo-de-la-espriella-tras-pedir-a-estados-unidos-y-a-landau-vigilar-politicos-por-presunta-compra-de-votos-en-elecciones-3562986",
       "source": "El Tiempo",
       "pubDate": "2026-06-09T09:05:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Carlos Caicedo rechaza denuncia de compra de votos hecha por Abelardo De la Espriella: 'Es una acusación mentirosa, un perfilamiento'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/carlos-caicedo-rechaza-denuncia-de-compra-de-votos-de-abelardo-de-la-espriella-es-una-acusacion-mentirosa-un-perfilamiento-3562996",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-09T08:09:48-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
