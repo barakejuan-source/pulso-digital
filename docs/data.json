@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-08T23:15:12.349Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-09T03:54:06.209Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,68 +47,44 @@
   ],
   "articles": [
     {
+      "title": "¿La presidencia del Perú puede definirse por una ‘moneda al aire’ si empatan en votos? Esto dice la Ley de Elecciones",
+      "link": "https://www.infobae.com/peru/2026/06/08/la-presidencial-del-peru-puede-definirse-por-una-moneda-al-aire-si-empatan-en-votos-lo-que-dice-y-no-dice-la-ley/",
+      "source": "Infobae",
+      "pubDate": "Tue, 09 Jun 2026 03:19:03 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "Resultados ONPE de Keiko Fujimori EN VIVO: conteo oficial de las votaciones de la segunda vuelta",
       "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-de-keiko-fujimori-en-vivo-conteo-oficial-de-las-votaciones-de-la-segunda-vuelta-del-7-de-junio/",
       "source": "Infobae",
-      "pubDate": "Mon, 08 Jun 2026 23:08:32 +0000",
+      "pubDate": "Tue, 09 Jun 2026 03:12:04 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Roberto Sánchez afirma que se reuniría con Keiko Fujimori “con tal de derrotar la pobreza y la corrupción”",
-      "link": "https://www.infobae.com/peru/2026/06/08/roberto-sanchez-afirma-que-se-reuniria-con-keiko-fujimori-con-tal-de-derrotar-la-pobreza-y-la-corrupcion/",
-      "source": "Infobae",
-      "pubDate": "Mon, 08 Jun 2026 23:08:30 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Petro denuncia ‘ola de amenazas masivas’ en plena carrera a la Presidencia: “Blinden a los candidatos, es mi orden”",
-      "link": "https://www.infobae.com/colombia/2026/06/08/petro-denuncia-ola-de-amenazas-masivas-en-plena-carrera-a-la-presidencia-blinden-a-los-candidatos-es-mi-orden/",
-      "source": "Infobae",
-      "pubDate": "Mon, 08 Jun 2026 23:06:25 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Histórica definición electoral en Perú EN VIVO: con el 94,859% de los votos escrutados, Roberto Sánchez supera a Keiko Fujimori",
+      "title": "Histórica definición electoral en Perú EN VIVO: con el 95,181% de los votos escrutados, Roberto Sánchez supera a Keiko Fujimori",
       "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Mon, 08 Jun 2026 23:03:07 +0000",
+      "pubDate": "Tue, 09 Jun 2026 03:05:43 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "María José Pizarro acusó a Abelardo de la Espriella de no querer debatir con Iván Cepeda, pese a su rechazo a estos encuentros en primera vuelta ",
-      "link": "https://www.infobae.com/colombia/2026/06/08/maria-jose-pizarro-acuso-a-abelardo-de-la-espriella-de-no-querer-debatir-con-ivan-cepeda-pese-a-su-rechazo-a-estos-encuentros-en-primera-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Mon, 08 Jun 2026 22:53:09 +0000",
+      "title": "A. De La Espriella habla de compra de votos en la Costa y pide a Christopher Landau 'tener en el radar' a una veintena de políticos: esta es la lista",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/a-de-la-espriella-habla-de-compra-de-votos-en-la-costa-y-pide-a-christopher-landau-tener-en-el-radar-a-una-veintena-de-politicos-esta-es-la-lista-3562962",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-08T22:04:34-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones presidenciales en Colombia 2026: ¿habrá debate entre Abelardo de la Espriella e Iván Cepeda?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-el-candidato-por-el-pacto-historico-ivan-cepeda-reconocio-los-resultados-de-la-primera-vuelta-3562830",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-08T21:29:21-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "EN VIVO · Colombia se prepara para la segunda vuelta de las elecciones presidenciales: Abelardo De La Espriella hará un anuncio clave para la segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
-      "source": "Infobae",
-      "pubDate": "Mon, 08 Jun 2026 22:34:42 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El video que hace referencia Gustavo Petro sobre Keiko Fujimori es de hace tres años: este es el contexto de las imágenes",
-      "link": "https://www.infobae.com/peru/2026/06/08/el-video-que-hace-referencia-gustavo-petro-sobre-keiko-fujimori-es-de-hace-tres-anos-este-es-el-contexto-de-las-imagenes/",
-      "source": "Infobae",
-      "pubDate": "Mon, 08 Jun 2026 22:18:42 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Cepeda denuncia un plan de De la Espriella para un autoatentado antes de la segunda vuelta electoral",
-      "link": "https://www.infobae.com/america/agencias/2026/06/08/cepeda-denuncia-un-plan-de-de-la-espriella-para-un-autoatentado-antes-de-la-segunda-vuelta-electoral/",
-      "source": "Infobae",
-      "pubDate": "Mon, 08 Jun 2026 22:15:19 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Disidencias de “Mordisco” amplían cese al fuego para segunda vuelta",
@@ -139,6 +115,30 @@
       "link": "https://www.lasillavacia.com/red-de-expertos/red-verde/la-seguridad-energetica-del-pais-tambien-se-disputa-en-la-segunda-vuelta/",
       "source": "La Silla Vacía",
       "pubDate": "Mon, 08 Jun 2026 17:30:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Humberto de la Calle critica publicidad de campaña de Iván Cepeda '¿Por qué no te vas del país?': 'Es contradictorio'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/humberto-de-la-calle-critica-publicidad-de-campana-de-ivan-cepeda-por-que-no-te-vas-del-pais-es-contradictorio-3562841",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-08T09:15:58-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones presidenciales 2026: el partido Colombia Renaciente anunció su respaldo a Abelardo De La Espriella; el aspirante rechazó el apoyo",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-el-partido-colombia-renaciente-anuncio-su-respaldo-a-abelardo-de-la-espriella-el-aspirante-rechazo-el-apoyo-3562828",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-08T05:19:32-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Crecen las alertas por posible constreñimiento electoral en segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/crecen-las-alertas-por-posible-constrenimiento-electoral-en-segunda-vuelta-presidencial-3562774",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-07T22:50:00-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
