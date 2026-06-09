@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T03:54:06.209Z",
+  "updatedAt": "2026-06-09T07:54:49.677Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,26 +47,34 @@
   ],
   "articles": [
     {
-      "title": "¿La presidencia del Perú puede definirse por una ‘moneda al aire’ si empatan en votos? Esto dice la Ley de Elecciones",
-      "link": "https://www.infobae.com/peru/2026/06/08/la-presidencial-del-peru-puede-definirse-por-una-moneda-al-aire-si-empatan-en-votos-lo-que-dice-y-no-dice-la-ley/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 03:19:03 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Resultados ONPE de Keiko Fujimori EN VIVO: conteo oficial de las votaciones de la segunda vuelta",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-de-keiko-fujimori-en-vivo-conteo-oficial-de-las-votaciones-de-la-segunda-vuelta-del-7-de-junio/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 03:12:04 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Histórica definición electoral en Perú EN VIVO: con el 95,181% de los votos escrutados, Roberto Sánchez supera a Keiko Fujimori",
+      "title": "Histórica definición electoral en Perú EN VIVO: con el 95.584% de los votos escrutados, Roberto Sánchez supera a Keiko Fujimori",
       "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 03:05:43 +0000",
+      "pubDate": "Tue, 09 Jun 2026 07:39:09 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iván Cepeda arremete contra Abelardo de la Espriella por propuesta de fracking: “Es echar gasolina al incendio”",
+      "link": "https://www.infobae.com/colombia/2026/06/09/ivan-cepeda-arremete-contra-abelardo-de-la-espriella-por-propuesta-de-fracking-es-echar-gasolina-al-incendio/",
+      "source": "Infobae",
+      "pubDate": "Tue, 09 Jun 2026 06:51:14 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella reveló nombres para el “quitavisas” de EE. UU.: estas fueron las figuras que mencionó",
+      "link": "https://www.infobae.com/colombia/2026/06/09/abelardo-de-la-espriella-revelo-nombres-para-el-quitavisas-de-ee-uu-estas-fueron-las-figuras-que-menciono/",
+      "source": "Infobae",
+      "pubDate": "Tue, 09 Jun 2026 06:08:15 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "‘Para la segunda vuelta, me inquieta que pueda generarse violencia por desinformación’: Hernán Penagos / La entrevista de María Isabel Rueda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/para-la-segunda-vuelta-me-inquieta-que-pueda-generarse-violencia-por-desinformacion-hernan-penagos-la-entrevista-de-maria-isabel-rueda-3562933",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-09T00:26:20-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -83,6 +91,14 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-el-candidato-por-el-pacto-historico-ivan-cepeda-reconocio-los-resultados-de-la-primera-vuelta-3562830",
       "source": "El Tiempo",
       "pubDate": "2026-06-08T21:29:21-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Disidencia de Iván Mordisco, el guerrillero más buscado de Colombia, anuncia tregua antes del balotaje presidencial",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260608-disidencia-de-iv%C3%A1n-mordisco-el-guerrillero-m%C3%A1s-buscado-de-colombia-anuncia-tregua-antes-del-balotaje-presidencial",
+      "source": "France 24",
+      "pubDate": "Mon, 08 Jun 2026 23:45:14 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -125,22 +141,6 @@
       "pubDate": "2026-06-08T09:15:58-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Elecciones presidenciales 2026: el partido Colombia Renaciente anunció su respaldo a Abelardo De La Espriella; el aspirante rechazó el apoyo",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-2026-el-partido-colombia-renaciente-anuncio-su-respaldo-a-abelardo-de-la-espriella-el-aspirante-rechazo-el-apoyo-3562828",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-08T05:19:32-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Crecen las alertas por posible constreñimiento electoral en segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/crecen-las-alertas-por-posible-constrenimiento-electoral-en-segunda-vuelta-presidencial-3562774",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-07T22:50:00-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
