@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T10:10:09.932Z",
+  "updatedAt": "2026-06-10T15:45:11.301Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,28 +47,68 @@
   ],
   "articles": [
     {
-      "title": "Movimiento de Francia Márquez se suma a Cepeda: Soy Porque Somos anuncia respaldo para segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/06/10/movimiento-de-francia-marquez-se-suma-a-cepeda-soy-porque-somos-anuncia-respaldo-para-segunda-vuelta/",
+      "title": "La congresista Marelen Castillo criticó presunto comunicado del ELN en respaldo a la campaña del candidato presidencial Iván Cepeda ",
+      "link": "https://www.infobae.com/colombia/2026/06/10/la-congresista-marelen-castillo-critico-a-ivan-cepeda-por-difundir-un-presunto-comunicado-del-eln-sobre-su-respaldo-al-candidato-del-pacto-historico/",
       "source": "Infobae",
-      "pubDate": "Wed, 10 Jun 2026 10:05:00 +0000",
+      "pubDate": "Wed, 10 Jun 2026 15:36:37 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "EN VIVO · Colombia se prepara para la segunda vuelta de las elecciones presidenciales: Abelardo de la Espriella desafió orden de retiro de su propaganda con símbolos patrios",
-      "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
+      "title": "Histórica definición electoral en Perú EN VIVO: Al 97.710% Keiko Fujimori y Roberto Sánchez pelean voto a voto la elección",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Wed, 10 Jun 2026 09:35:34 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Wed, 10 Jun 2026 15:28:59 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Con compromisarios, pero sin acuerdo para realización de debate entre Abelardo de la Espriella e Iván Cepeda: estas son las condiciones de cada uno",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/con-compromisarios-pero-sin-acuerdo-para-realizacion-de-debate-entre-abelardo-de-la-espriella-e-ivan-cepeda-estas-son-las-condiciones-de-cada-uno-3563182",
+      "title": "Gustavo Petro fue ‘suspendido’ por la Comisión de Acusaciones: el Gobierno, líderes políticos y congresistas reaccionaron a la decisión ",
+      "link": "https://www.infobae.com/colombia/2026/06/10/gustavo-petro-fue-suspendido-por-la-comision-de-acusaciones-el-gobierno-lideres-politicos-y-congresistas-reaccionaron-a-la-decision/",
+      "source": "Infobae",
+      "pubDate": "Wed, 10 Jun 2026 15:25:53 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Petro puede ser suspendido antes de la segunda vuelta presidencial? Lo que realmente dice la Constitución",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/petro-puede-ser-suspendido-antes-de-la-segunda-vuelta-presidencial-lo-que-realmente-dice-la-constitucion-3563320",
       "source": "El Tiempo",
-      "pubDate": "2026-06-10T00:01:03-05:00",
+      "pubDate": "2026-06-10T10:16:17-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "'No hemos considerado esa posibilidad': Iván Cepeda dice que no ha contemplado incluir a Armando Benedetti o Roy Barreras en un eventual gobierno",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/no-hemos-considerado-esa-posibilidad-ivan-cepeda-dice-que-no-ha-contemplado-incluir-a-armando-benedetti-o-roy-barreras-en-un-eventual-gobierno-3563267",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-10T09:52:27-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Colegio Colombiano de Juristas se pronunció tras fallo que le ordenó a Abelardo de la Espriella eliminar símbolos patrios en campaña: 'Preocupante'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/colegio-colombiano-de-juristas-se-pronuncio-tras-fallo-que-le-ordeno-a-abelardo-de-la-espriella-eliminar-simbolos-patrios-en-campana-preocupante-3563253",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-10T07:55:54-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Desayune informado con las movidas de este 10 de junio de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-10-de-junio-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 10 Jun 2026 12:36:53 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Kpopers, Westcol y la segunda vuelta",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/kpopers-westcol-y-la-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 10 Jun 2026 12:31:13 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Milei, Kast y Noboa: el guion de los populistas de derecha para la segunda vuelta",
@@ -79,50 +119,10 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Primer mensaje de Abelardo de la Espriella tras fallo judicial que le ordena eliminar símbolos patrios en campaña: 'Hoy necesito de ustedes'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/primer-mensaje-de-abelardo-de-la-espriella-tras-fallo-judicial-que-le-ordena-eliminar-simbolos-patrios-en-campana-hoy-necesito-de-ustedes-3563216",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-09T23:01:19-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "'Vamos a defender la democracia': procurador Gregorio Eljach ante segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/vamos-a-defender-la-democracia-procurador-gregorio-eljach-ante-segunda-vuelta-presidencial-3563193",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-09T22:25:00-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Así se ha movido la estrategia digital de los candidatos luego de una semana de la primera vuelta: videos, anuncios y mensajes en redes",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-se-ha-movido-la-estrategia-digital-de-los-candidatos-luego-de-una-semana-de-la-primera-vuelta-videos-anuncios-y-mensajes-en-redes-3563197",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-09T20:48:01-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Balotaje en Perú: Sánchez supera a Fujimori por unos 41.000 votos con el más del 96% escrutado",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260610-balotaje-en-per%C3%BA-s%C3%A1nchez-supera-a-fujimori-por-unos-41-000-votos-con-el-m%C3%A1s-del-96-escrutado",
       "source": "France 24",
       "pubDate": "Wed, 10 Jun 2026 00:59:43 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Salvación Nacional, que coavaló a Abelardo de la Espriella, rechazó prohibición del Tribunal de Bogotá de usar símbolos patrios en campaña",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/salvacion-nacional-que-coavalo-a-abelardo-de-la-espriella-rechazo-prohibicion-del-tribunal-de-cundinamarca-de-usar-simbolos-patrios-en-campana-3563179",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-09T19:19:57-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "María Elena Tilit, gerente del ONPE en Perú, habla sobre el escrutinio del balotaje",
-      "link": "https://www.france24.com/es/video/20260609-mar%C3%ADa-elena-tilit-gerente-del-onpe-en-per%C3%BA-habla-sobre-el-escrutinio-del-balotaje",
-      "source": "France 24",
-      "pubDate": "Tue, 09 Jun 2026 20:43:42 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
