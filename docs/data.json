@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-09T23:20:20.801Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-10T04:05:17.686Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,58 +47,66 @@
   ],
   "articles": [
     {
-      "title": "El país político ‘estalló´ por orden de retirar la propaganda de Abelardo de la Espriella que tenga símbolos patrios: “Atropello”",
-      "link": "https://www.infobae.com/colombia/2026/06/09/el-pais-politico-estallo-por-orden-de-retirar-la-propaganda-de-abelardo-de-la-espriella-que-tenga-simbolos-patrios-atropello/",
+      "title": "Resultados ONPE de Keiko Fujimori EN VIVO: conteo oficial de las votaciones de la segunda vuelta",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-de-keiko-fujimori-en-vivo-conteo-oficial-de-las-votaciones-de-la-segunda-vuelta-del-7-de-junio/",
       "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 23:04:45 +0000",
+      "pubDate": "Wed, 10 Jun 2026 03:35:21 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Histórica definición electoral en Perú EN VIVO: Al 96,598% escrutado, el conteo avanza a paso lento",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
+      "source": "Infobae",
+      "pubDate": "Wed, 10 Jun 2026 03:30:06 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "'Vamos a defender la democracia': procurador Gregorio Eljach ante segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/vamos-a-defender-la-democracia-procurador-gregorio-eljach-ante-segunda-vuelta-presidencial-3563193",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-09T22:25:00-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Primer mensaje de Abelardo de la Espriella tras fallo judicial que le ordena eliminar símbolos patrios en campaña: 'Hoy necesito de ustedes'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/primer-mensaje-de-abelardo-de-la-espriella-tras-fallo-judicial-que-le-ordena-eliminar-simbolos-patrios-en-campana-hoy-necesito-de-ustedes-3563216",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-09T21:35:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Katherine Miranda provocó una avalancha de críticas tras apoyar a Abelardo de la Espriella: “No se volvió de derecha, siempre lo fue”",
-      "link": "https://www.infobae.com/colombia/2026/06/09/katherine-miranda-provoco-una-avalancha-de-criticas-tras-apoyar-a-abelardo-de-la-espriella-no-se-volvio-de-derecha-siempre-lo-fue/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 22:59:28 +0000",
+      "title": "Así se ha movido la estrategia digital de los candidatos luego de una semana de la primera vuelta: videos, anuncios y mensajes en redes",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-se-ha-movido-la-estrategia-digital-de-los-candidatos-luego-de-una-semana-de-la-primera-vuelta-videos-anuncios-y-mensajes-en-redes-3563197",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-09T20:48:01-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Balotaje en Perú: Sánchez supera a Fujimori por unos 41.000 votos con el más del 96% escrutado",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260610-balotaje-en-per%C3%BA-s%C3%A1nchez-supera-a-fujimori-por-unos-41-000-votos-con-el-m%C3%A1s-del-96-escrutado",
+      "source": "France 24",
+      "pubDate": "Wed, 10 Jun 2026 00:59:43 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Salvación Nacional, que coavaló a Abelardo de la Espriella, rechazó prohibición del Tribunal de Bogotá de usar símbolos patrios en campaña",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/salvacion-nacional-que-coavalo-a-abelardo-de-la-espriella-rechazo-prohibicion-del-tribunal-de-cundinamarca-de-usar-simbolos-patrios-en-campana-3563179",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-09T19:19:57-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Ministerio Público denuncia que dos fiscales fueron secuestrados por policías tras hallar cédulas de votación marcadas en Ucayali",
-      "link": "https://www.infobae.com/peru/2026/06/09/ministerio-publico-denuncia-que-dos-fiscales-fueron-secuestrados-por-policias-tras-hallar-cedulas-de-votacion-marcadas-en-ucayali/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 22:56:44 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "‘Voto en blanco porque no estoy de acuerdo con ninguna de las dos propuestas’: exministra Cecilia López",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/voto-en-blanco-porque-no-estoy-de-acuerdo-con-ninguna-de-las-dos-propuestas-exministra-cecilia-lopez-3563169",
+      "title": "Con compromisarios, pero sin acuerdo para realización de debate entre Abelardo de la Espriella e Iván Cepeda: estas son las condiciones de cada uno",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/con-compromisarios-pero-sin-acuerdo-para-realizacion-de-debate-entre-abelardo-de-la-espriella-e-ivan-cepeda-estas-son-las-condiciones-de-cada-uno-3563182",
       "source": "El Tiempo",
-      "pubDate": "2026-06-09T17:46:45-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidenta de la Corte hizo fuerte llamado a días de la segunda vuelta presidencial: “La verdadera fuerza no se demuestra desafiando los contrapesos”",
-      "link": "https://www.infobae.com/colombia/2026/06/09/presidenta-de-la-corte-hizo-fuerte-llamado-a-dias-de-la-segunda-vuelta-presidencial-la-verdadera-fuerza-no-se-demuestra-desafiando-los-contrapesos/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 22:46:28 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Claudia López y Vicky Dávila se enfrentaron en redes sociales por posible apoyo de la exalcaldesa a la campaña de Iván Cepeda",
-      "link": "https://www.infobae.com/colombia/2026/06/09/claudia-lopez-y-vicky-davila-se-enfrentaron-en-redes-sociales-por-posible-apoyo-de-la-exalcaldesa-a-la-campana-de-ivan-cepeda/",
-      "source": "Infobae",
-      "pubDate": "Tue, 09 Jun 2026 22:41:38 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Denuncian que militante de campaña de Iván Cepeda estaría ofreciendo beneficios de cara a la segunda vuelta presidencial: señalado respondió acusación",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/denuncian-que-militante-de-campana-de-ivan-cepeda-estaria-ofreciendo-beneficios-de-cara-a-la-segunda-vuelta-presidencial-senalado-respondio-acusacion-3563138",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-09T15:59:41-05:00",
+      "pubDate": "2026-06-09T18:55:15-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -109,22 +117,6 @@
       "pubDate": "Tue, 09 Jun 2026 20:43:42 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Movimiento político de Francia Márquez anunciará su apoyo a la candidatura de Iván Cepeda para la segunda vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/movimiento-politico-de-francia-marquez-anunciara-su-apoyo-a-la-candidatura-de-ivan-cepeda-para-la-segunda-vuelta-3563116",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-09T15:27:15-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo de la Espriella insiste en que debate con Iván Cepeda debe incluir fórmulas vicepresidenciales: ‘Que los medios de comunicación lo organicen’",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-insiste-en-que-debate-con-ivan-cepeda-debe-incluir-formulas-vicepresidenciales-que-los-medios-de-comunicacion-lo-organicen-3563096",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-09T13:11:03-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
