@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-10T04:05:17.686Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-10T10:10:09.932Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 45,
+      "trendsScore": 46,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,20 +47,44 @@
   ],
   "articles": [
     {
-      "title": "Resultados ONPE de Keiko Fujimori EN VIVO: conteo oficial de las votaciones de la segunda vuelta",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-de-keiko-fujimori-en-vivo-conteo-oficial-de-las-votaciones-de-la-segunda-vuelta-del-7-de-junio/",
+      "title": "Movimiento de Francia Márquez se suma a Cepeda: Soy Porque Somos anuncia respaldo para segunda vuelta",
+      "link": "https://www.infobae.com/colombia/2026/06/10/movimiento-de-francia-marquez-se-suma-a-cepeda-soy-porque-somos-anuncia-respaldo-para-segunda-vuelta/",
       "source": "Infobae",
-      "pubDate": "Wed, 10 Jun 2026 03:35:21 +0000",
+      "pubDate": "Wed, 10 Jun 2026 10:05:00 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "EN VIVO · Colombia se prepara para la segunda vuelta de las elecciones presidenciales: Abelardo de la Espriella desafió orden de retiro de su propaganda con símbolos patrios",
+      "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
+      "source": "Infobae",
+      "pubDate": "Wed, 10 Jun 2026 09:35:34 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Con compromisarios, pero sin acuerdo para realización de debate entre Abelardo de la Espriella e Iván Cepeda: estas son las condiciones de cada uno",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/con-compromisarios-pero-sin-acuerdo-para-realizacion-de-debate-entre-abelardo-de-la-espriella-e-ivan-cepeda-estas-son-las-condiciones-de-cada-uno-3563182",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-10T00:01:03-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Milei, Kast y Noboa: el guion de los populistas de derecha para la segunda vuelta",
+      "link": "https://www.lasillavacia.com/silla-nacional/milei-kast-y-noboa-el-guion-de-los-populistas-de-derecha-para-la-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 10 Jun 2026 04:50:00 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 96,598% escrutado, el conteo avanza a paso lento",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
-      "source": "Infobae",
-      "pubDate": "Wed, 10 Jun 2026 03:30:06 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Primer mensaje de Abelardo de la Espriella tras fallo judicial que le ordena eliminar símbolos patrios en campaña: 'Hoy necesito de ustedes'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/primer-mensaje-de-abelardo-de-la-espriella-tras-fallo-judicial-que-le-ordena-eliminar-simbolos-patrios-en-campana-hoy-necesito-de-ustedes-3563216",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-09T23:01:19-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "'Vamos a defender la democracia': procurador Gregorio Eljach ante segunda vuelta presidencial",
@@ -69,14 +93,6 @@
       "pubDate": "2026-06-09T22:25:00-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Primer mensaje de Abelardo de la Espriella tras fallo judicial que le ordena eliminar símbolos patrios en campaña: 'Hoy necesito de ustedes'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/primer-mensaje-de-abelardo-de-la-espriella-tras-fallo-judicial-que-le-ordena-eliminar-simbolos-patrios-en-campana-hoy-necesito-de-ustedes-3563216",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-09T21:35:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Así se ha movido la estrategia digital de los candidatos luego de una semana de la primera vuelta: videos, anuncios y mensajes en redes",
@@ -101,14 +117,6 @@
       "pubDate": "2026-06-09T19:19:57-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Con compromisarios, pero sin acuerdo para realización de debate entre Abelardo de la Espriella e Iván Cepeda: estas son las condiciones de cada uno",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/con-compromisarios-pero-sin-acuerdo-para-realizacion-de-debate-entre-abelardo-de-la-espriella-e-ivan-cepeda-estas-son-las-condiciones-de-cada-uno-3563182",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-09T18:55:15-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "María Elena Tilit, gerente del ONPE en Perú, habla sobre el escrutinio del balotaje",
