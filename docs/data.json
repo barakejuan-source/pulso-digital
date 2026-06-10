@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T15:45:11.301Z",
+  "updatedAt": "2026-06-10T18:34:24.932Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 46,
+      "trendsScore": 45,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,82 +47,98 @@
   ],
   "articles": [
     {
-      "title": "La congresista Marelen Castillo criticó presunto comunicado del ELN en respaldo a la campaña del candidato presidencial Iván Cepeda ",
-      "link": "https://www.infobae.com/colombia/2026/06/10/la-congresista-marelen-castillo-critico-a-ivan-cepeda-por-difundir-un-presunto-comunicado-del-eln-sobre-su-respaldo-al-candidato-del-pacto-historico/",
+      "title": "Video de José Manuel Restrepo en un páramo generó críticas: denuncian afectación a frailejones mientras defendía el fracking en Colombia",
+      "link": "https://www.infobae.com/colombia/2026/06/10/video-de-jose-manuel-restrepo-en-un-paramo-genero-criticas-denuncian-afectacion-a-frailejones-mientras-defendia-el-fracking-en-colombia/",
       "source": "Infobae",
-      "pubDate": "Wed, 10 Jun 2026 15:36:37 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 97.710% Keiko Fujimori y Roberto Sánchez pelean voto a voto la elección",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
-      "source": "Infobae",
-      "pubDate": "Wed, 10 Jun 2026 15:28:59 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Gustavo Petro fue ‘suspendido’ por la Comisión de Acusaciones: el Gobierno, líderes políticos y congresistas reaccionaron a la decisión ",
-      "link": "https://www.infobae.com/colombia/2026/06/10/gustavo-petro-fue-suspendido-por-la-comision-de-acusaciones-el-gobierno-lideres-politicos-y-congresistas-reaccionaron-a-la-decision/",
-      "source": "Infobae",
-      "pubDate": "Wed, 10 Jun 2026 15:25:53 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Petro puede ser suspendido antes de la segunda vuelta presidencial? Lo que realmente dice la Constitución",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/petro-puede-ser-suspendido-antes-de-la-segunda-vuelta-presidencial-lo-que-realmente-dice-la-constitucion-3563320",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-10T10:16:17-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "'No hemos considerado esa posibilidad': Iván Cepeda dice que no ha contemplado incluir a Armando Benedetti o Roy Barreras en un eventual gobierno",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/no-hemos-considerado-esa-posibilidad-ivan-cepeda-dice-que-no-ha-contemplado-incluir-a-armando-benedetti-o-roy-barreras-en-un-eventual-gobierno-3563267",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-10T09:52:27-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Colegio Colombiano de Juristas se pronunció tras fallo que le ordenó a Abelardo de la Espriella eliminar símbolos patrios en campaña: 'Preocupante'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/colegio-colombiano-de-juristas-se-pronuncio-tras-fallo-que-le-ordeno-a-abelardo-de-la-espriella-eliminar-simbolos-patrios-en-campana-preocupante-3563253",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-10T07:55:54-05:00",
+      "pubDate": "Wed, 10 Jun 2026 18:32:17 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Desayune informado con las movidas de este 10 de junio de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-10-de-junio-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 10 Jun 2026 12:36:53 +0000",
+      "title": "EN VIVO · Colombia se prepara para la segunda vuelta de las elecciones presidenciales: El presidente Petro cuestionó a Donald Trump por apoyar al candidato Abelardo de la Espriella ",
+      "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
+      "source": "Infobae",
+      "pubDate": "Wed, 10 Jun 2026 18:31:34 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Mario Hart arremete contra peruanos que no votaron en la segunda vuelta de las Elecciones 2026: “Gracias coju***”",
+      "link": "https://www.infobae.com/peru/2026/06/10/mario-hart-arremete-contra-peruanos-que-no-votaron-en-la-segunda-vuelta-de-las-elecciones-2026-gracias-coju/",
+      "source": "Infobae",
+      "pubDate": "Wed, 10 Jun 2026 18:30:26 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Kpopers, Westcol y la segunda vuelta",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/kpopers-westcol-y-la-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 10 Jun 2026 12:31:13 +0000",
+      "title": "Iván Cepeda habló de la posibilidad de una nueva reforma tributaria si llega a la Presidencia: “Concertar un pacto fiscal”",
+      "link": "https://www.infobae.com/colombia/2026/06/10/ivan-cepeda-no-descartaria-presentar-una-nueva-reforma-tributaria-de-llegar-a-la-casa-de-narino-ojala/",
+      "source": "Infobae",
+      "pubDate": "Wed, 10 Jun 2026 18:30:14 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Gustavo Petro habló sobre el apoyo de Donald Trump al candidato Abelardo de la Espriella: “Es una violación a la Constitución”",
+      "link": "https://www.infobae.com/colombia/2026/06/10/gustavo-petro-hablo-sobre-el-apoyo-de-donald-trump-al-candidato-abelardo-de-la-espriella-es-una-violacion-a-la-constitucion/",
+      "source": "Infobae",
+      "pubDate": "Wed, 10 Jun 2026 18:15:21 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Estos serían los cambios que traería la ‘contrarreforma pensional\" propuesta por Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/06/10/estos-serian-los-cambios-que-traeria-la-contrarreforma-pensional-propuesta-por-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Wed, 10 Jun 2026 18:14:07 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda cuestionó al Consejo Gremial por aplazar encuentro en el que aclararía su propuesta económica: “Han escuchado a todos, excepto a mí”",
+      "link": "https://www.infobae.com/colombia/2026/06/10/ivan-cepeda-cuestiono-al-consejo-gremial-por-aplazar-su-encuentro-en-el-que-aclararia-su-propuesta-economica-ha-escuchado-a-todos-excepto-a-mi/",
+      "source": "Infobae",
+      "pubDate": "Wed, 10 Jun 2026 18:10:00 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella calificó medida de suspensión contra presidente Gustavo Petro como 'autoatentado': 'Campaña a favor de su heredero'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-califico-medida-de-suspension-contra-presidente-gustavo-petro-como-auto-atentado-campana-a-favor-de-su-heredero-3563348",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-10T11:38:59-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El partido Cambio Radical cuestiona la supuesta suspensión del presidente Gustavo Petro y la califica como un 'espectáculo electoral'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/el-partido-cambio-radical-cuestiona-la-supuesta-suspension-del-presidente-gustavo-petro-y-la-califica-como-un-espectaculo-electoral-3563333",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-10T11:19:46-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Milei, Kast y Noboa: el guion de los populistas de derecha para la segunda vuelta",
-      "link": "https://www.lasillavacia.com/silla-nacional/milei-kast-y-noboa-el-guion-de-los-populistas-de-derecha-para-la-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 10 Jun 2026 04:50:00 +0000",
+      "title": "Las decisiones previas del Tribunal de Bogotá y del CNE que chocan con el fallo que prohibe a Abelardo de la Espriella usar símbolos patrios y eslogan",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-decisiones-previas-del-tribunal-de-bogota-y-del-cne-que-chocan-con-el-fallo-que-prohibe-a-abelardo-de-la-espriella-usar-simbolos-patrios-y-eslogan-3563261",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-10T11:11:56-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Le van a pagar transporte y almuerzo por ser jurado de votación en las elecciones de segunda vuelta de 2026? Esto es lo que dice la ley",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/le-van-a-pagar-transporte-y-almuerzo-por-ser-jurado-de-votacion-en-las-elecciones-de-segunda-vuelta-de-2026-esto-es-lo-que-dice-la-ley-3563276",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-10T10:41:41-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Balotaje en Perú: Sánchez supera a Fujimori por unos 41.000 votos con el más del 96% escrutado",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260610-balotaje-en-per%C3%BA-s%C3%A1nchez-supera-a-fujimori-por-unos-41-000-votos-con-el-m%C3%A1s-del-96-escrutado",
-      "source": "France 24",
-      "pubDate": "Wed, 10 Jun 2026 00:59:43 GMT",
+      "title": "Roy Barreras rechaza la orden de suspensión al presidente Gustavo Petro hecha por la representante Gloria Arizabaleta, quien es su exesposa",
+      "link": "https://www.eltiempo.com/politica/roy-barreras-rechaza-la-orden-de-suspension-al-presidente-gustavo-petro-hecha-por-la-representante-gloria-arizabaleta-quien-es-su-exesposa-3563307",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-10T10:29:04-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
