@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-06-11T21:02:28.620Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-11T23:02:40.214Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 46,
+      "trendsScore": 49,
       "youtubeScore": 100,
-      "sentimentScore": 21,
+      "sentimentScore": 24,
       "sentimentPct": {
-        "positive": 21.3,
-        "negative": 56.3,
-        "neutral": 22.3
+        "positive": 24,
+        "negative": 54.3,
+        "neutral": 21.7
       },
-      "youtubeViews": 520302,
-      "finalScore": 55,
+      "youtubeViews": 592342,
+      "finalScore": 57,
       "momentum": {
-        "value": 1.9,
+        "value": 3.6,
         "direction": "flat"
       },
-      "probability": 50.5
+      "probability": 48.7
     },
     {
       "id": "abelardo_espriella",
@@ -29,60 +29,84 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 30,
-      "sentimentScore": 18,
+      "youtubeScore": 46,
+      "sentimentScore": 20,
       "sentimentPct": {
-        "positive": 18,
-        "negative": 44,
-        "neutral": 38
+        "positive": 20,
+        "negative": 45.2,
+        "neutral": 34.8
       },
-      "youtubeViews": 142910,
-      "finalScore": 54,
+      "youtubeViews": 260247,
+      "finalScore": 60,
       "momentum": {
-        "value": -12.9,
-        "direction": "down"
+        "value": 11.1,
+        "direction": "up"
       },
-      "probability": 49.5
+      "probability": 51.3
     }
   ],
   "articles": [
     {
-      "title": "Debate por doble nacionalidad de Abelardo de la Espriella: abogado radicado en Estados Unidos sostiene que la ley respalda su aspiración presidencial",
-      "link": "https://www.infobae.com/colombia/2026/06/11/debate-por-doble-nacionalidad-de-abelardo-de-la-espriella-abogado-radicado-en-estados-unidos-sostiene-que-la-ley-respalda-su-aspiracion-presidencial/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 21:00:42 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Álvaro Uribe acusó a Iván Cepeda de comprar testigos para manipular la justicia y minimizó su campaña: “Ha sido tan mala”",
-      "link": "https://www.infobae.com/colombia/2026/06/11/alvaro-uribe-acuso-a-ivan-cepeda-de-comprar-testigos-para-manipular-la-justicia-y-minimizo-su-campana-ha-sido-tan-mala/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 20:59:26 +0000",
+      "title": "Juan Daniel Oviedo, exfórmula vicepresidencial de Paloma Valencia, se reunió con el expresidente Álvaro Uribe",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/juan-daniel-oviedo-exformula-vicepresidencial-de-paloma-valencia-se-reunio-con-el-expresidente-alvaro-uribe-3563749",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T17:50:58-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Resultados oficiales de la ONPE: LINK para conocer si ganó Keiko Fujimori o Roberto Sánchez ",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-oficiales-de-la-onpe-link-para-conocer-si-gano-keiko-fujimori-o-roberto-sanchez/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 20:56:39 +0000",
+      "title": "A diez días para la segunda vuelta, Cepeda publica su plan de gobierno",
+      "link": "https://www.lasillavacia.com/en-vivo/a-diez-dias-para-la-segunda-vuelta-cepeda-publica-su-plan-de-gobierno/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 11 Jun 2026 22:42:40 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Segunda vuelta en Perú: el ausentismo electoral predominó en Miraflores y San Isidro, los distritos limeños más exclusivos ",
-      "link": "https://www.infobae.com/peru/2026/06/11/segunda-vuelta-en-peru-el-ausentismo-electoral-predomino-en-miraflores-y-san-isidro-los-distritos-limenos-mas-exclusivos/",
+      "title": "De la Espriella y Cepeda no han reportado “ni un peso” de gastos e ingresos de campaña, pese a que faltan 10 días para las elecciones",
+      "link": "https://www.infobae.com/colombia/2026/06/11/de-la-espriella-y-cepeda-no-han-reportado-ni-un-peso-de-gastos-e-ingresos-de-campana-pese-a-que-faltan-10-dias-para-las-elecciones/",
       "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 20:50:28 +0000",
+      "pubDate": "Thu, 11 Jun 2026 22:39:57 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "La revisión de actas observadas y el recuento de votos retrasan el desenlace electoral en Perú",
-      "link": "https://www.infobae.com/peru/2026/06/11/la-revision-de-actas-observadas-y-el-recuento-de-votos-retrasan-el-desenlace-electoral-en-peru/",
+      "title": "¿Se puede cambiar el puesto de votación para la segunda vuelta presidencial de 2026? Esto es lo que dice la Registraduría Nacional",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/se-puede-cambiar-el-puesto-de-votacion-para-la-segunda-vuelta-presidencial-de-2026-esto-es-lo-que-dice-la-registraduria-nacional-3563658",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T17:39:12-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iván Cepeda se defendió de las denuncias de De la Espriella sobre la presunta compra de votos: “No hacemos ninguna clase de ofrecimientos”",
+      "link": "https://www.infobae.com/colombia/2026/06/11/ivan-cepeda-se-defendio-de-las-denuncias-de-de-la-espriella-sobre-la-presunta-compra-de-votos-no-hacemos-ninguna-clase-de-ofrecimientos/",
       "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 20:50:03 +0000",
+      "pubDate": "Thu, 11 Jun 2026 22:38:42 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Clara López asumió el control económico de la campaña de Iván Cepeda y reveló su plan fiscal: “Hay que hacer es un recorte con bisturí”",
+      "link": "https://www.infobae.com/colombia/2026/06/11/clara-lopez-asumio-el-control-economico-de-la-campana-de-ivan-cepeda-y-revelo-su-plan-fiscal-hay-que-hacer-es-un-recorte-con-bisturi/",
+      "source": "Infobae",
+      "pubDate": "Thu, 11 Jun 2026 22:38:04 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Consejo de Estado resolvió debate judicial sobre presunta inhabilidad de Abelardo de la Espriella para aspirar a la Presidencia",
+      "link": "https://www.infobae.com/colombia/2026/06/11/consejo-de-estado-resolvio-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella-para-aspirar-a-la-presidencia/",
+      "source": "Infobae",
+      "pubDate": "Thu, 11 Jun 2026 22:37:27 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.239% Keiko Fujimori supera por muy poco Roberto Sánchez ",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
+      "source": "Infobae",
+      "pubDate": "Thu, 11 Jun 2026 22:22:41 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -90,17 +114,25 @@
       "title": "EN VIVO · Colombia se prepara para la segunda vuelta: Iván Cepeda denunció a Abelardo de la Espriella por presunta financiación a las AUC ",
       "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
       "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 20:43:43 +0000",
+      "pubDate": "Thu, 11 Jun 2026 22:04:05 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.239% Keiko Fujimori supera por muy poco Roberto Sánchez ",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 20:39:36 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Este es José Manuel Restrepo, la fórmula de Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/quien-es-quien/este-es-jose-manuel-restrepo-la-formula-de-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 11 Jun 2026 21:24:40 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "#ElFiltro: Aída Quilcué, fórmula vicepresidencial de Iván Cepeda, no tiene un hijo llamado Juan Quilcué; videos virales son del ‘streamer’ El Chanty",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-la-formula-vicepresidencial-aida-quilcue-no-tiene-un-hijo-llamado-juan-quilcue-fotos-y-videos-virales-corresponden-al-streamer-el-chanty-3563709",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T16:03:49-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Iván Cepeda denunciará penalmente a Abelardo de la Espriella; 'Cortinas de humo', responde el candidato de Defensores de la Patria",
@@ -109,38 +141,6 @@
       "pubDate": "2026-06-11T14:58:13-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Diario de Campaña: Abelardo podrá usar la camiseta de la Selección",
-      "link": "https://www.lasillavacia.com/en-vivo/diario-de-campana-abelardo-podra-usar-la-camiseta-de-la-seleccion/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 11 Jun 2026 18:35:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Ponderador de encuestas en segunda vuelta: Abelardo 51% y Cepeda 43%",
-      "link": "https://www.lasillavacia.com/en-vivo/ponderador-de-encuestas-en-segunda-vuelta-abelardo-51-y-cepeda-43/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 11 Jun 2026 18:30:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Directo Latam y la solicitud de suspender a Petro hasta la segunda vuelta electoral",
-      "link": "https://www.france24.com/es/video/20260611-directo-latam-y-la-solicitud-de-suspender-a-petro-hasta-la-segunda-vuelta-electoral",
-      "source": "France 24",
-      "pubDate": "Thu, 11 Jun 2026 16:44:13 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Tomar una foto dentro del cubículo de votación podría traerle problemas: conozca por qué",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/tomar-una-foto-dentro-del-cubiculo-de-votacion-podria-traerle-problemas-conozca-por-que-3563613",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T11:22:48-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
