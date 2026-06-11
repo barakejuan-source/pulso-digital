@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T20:31:03.098Z",
+  "updatedAt": "2026-06-11T23:28:06.924Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 48,
+      "trendsScore": 49,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 520937,
       "finalScore": 54,
       "momentum": {
-        "value": 1.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 46.6
@@ -47,100 +47,100 @@
   ],
   "articles": [
     {
-      "title": "Centro Democrático acusó a Iván Cepeda de repetir contra Abelardo de la Espriella la estrategia que utilizó contra Uribe: “¡Mal perdedor!”",
-      "link": "https://www.infobae.com/colombia/2026/06/11/centro-democratico-acuso-a-ivan-cepeda-de-repetir-contra-abelardo-de-la-espriella-la-estrategia-que-utilizo-contra-uribe-mal-perdedor/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 20:07:39 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "El debate por la doble nacionalidad de Abelardo de la Espriella: lo que opinan los expertos",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-debate-por-la-doble-nacionalidad-de-abelardo-de-la-espriella-lo-que-opinan-los-expertos-3563763",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T18:12:46-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "El Gobierno Petro suspenderá los pagos de programas sociales de Prosperidad Social durante la segunda vuelta electoral del 21 de junio",
-      "link": "https://www.infobae.com/colombia/2026/06/11/el-gobierno-petro-suspendera-los-pagos-de-programas-sociales-de-prosperidad-social-durante-la-segunda-vuelta-electoral-del-21-de-junio/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 20:03:28 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Los votos en Montería y Kennedy, lugares donde crecieron Abelardo de la Espriella e Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-votos-en-monteria-y-kennedy-lugares-donde-crecieron-abelardo-de-la-espriella-e-ivan-cepeda-3563292",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T18:08:19-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "EN VIVO · Colombia se prepara para la segunda vuelta: Iván Cepeda denunció a Abelardo de la Espriella por presunta financiación a las AUC ",
       "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
       "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 20:01:59 +0000",
+      "pubDate": "Thu, 11 Jun 2026 23:07:47 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Mónica Sánchez denuncia ataques racistas y clasistas contra votantes de Roberto Sánchez: “La hipocresía no es patriotismo”",
-      "link": "https://www.infobae.com/peru/2026/06/11/monica-sanchez-denuncia-ataques-racistas-y-clasistas-contra-votantes-de-roberto-sanchez-en-las-elecciones-2026-la-hipocresia-no-es-patriotismo/",
+      "title": "Abelardo de la Espriella y las AUC: todo sobre el rol del abogado en el acuerdo de paz con los paramilitares",
+      "link": "https://www.infobae.com/colombia/2026/06/11/abelardo-de-la-espriella-y-las-auc-todo-sobre-el-rol-del-abogado-en-el-acuerdo-de-paz-con-los-paramilitares/",
       "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 20:00:54 +0000",
+      "pubDate": "Thu, 11 Jun 2026 22:58:16 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Sondra Macollins anticipó cuál cree que será el nuevo presidente de Colombia: “Tendrá que enfrentar cuatro años de ira e intenso dolor”",
+      "link": "https://www.infobae.com/colombia/2026/06/11/sondra-macollins-anticipo-cual-cree-que-sera-el-nuevo-presidente-de-colombia-tendra-que-enfrentar-cuatro-anos-de-ira-e-intenso-dolor/",
+      "source": "Infobae",
+      "pubDate": "Thu, 11 Jun 2026 22:58:13 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Juan Daniel Oviedo, exfórmula vicepresidencial de Paloma Valencia, se reunió con el expresidente Álvaro Uribe",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/juan-daniel-oviedo-exformula-vicepresidencial-de-paloma-valencia-se-reunio-con-el-expresidente-alvaro-uribe-3563749",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T17:50:58-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "A diez días de la segunda vuelta, Cepeda publica su plan de gobierno",
+      "link": "https://www.lasillavacia.com/en-vivo/a-diez-dias-para-la-segunda-vuelta-cepeda-publica-su-plan-de-gobierno/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 11 Jun 2026 22:42:40 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Sindicato de la UNP anunció su apoyo a Abelardo de la Espriella en la segunda vuelta presidencial",
-      "link": "https://www.infobae.com/colombia/2026/06/11/sindicato-de-la-unp-anuncio-su-apoyo-a-abelardo-de-la-espriella-en-la-segunda-vuelta-presidencial/",
+      "title": "De la Espriella y Cepeda no han reportado “ni un peso” de gastos e ingresos de campaña, pese a que faltan 10 días para las elecciones",
+      "link": "https://www.infobae.com/colombia/2026/06/11/de-la-espriella-y-cepeda-no-han-reportado-ni-un-peso-de-gastos-e-ingresos-de-campana-pese-a-que-faltan-10-dias-para-las-elecciones/",
       "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 19:58:33 +0000",
+      "pubDate": "Thu, 11 Jun 2026 22:39:57 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Se puede cambiar el puesto de votación para la segunda vuelta presidencial de 2026? Esto es lo que dice la Registraduría Nacional",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/se-puede-cambiar-el-puesto-de-votacion-para-la-segunda-vuelta-presidencial-de-2026-esto-es-lo-que-dice-la-registraduria-nacional-3563658",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T17:39:12-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iván Cepeda se defendió de las denuncias de De la Espriella sobre la presunta compra de votos: “No hacemos ninguna clase de ofrecimientos”",
+      "link": "https://www.infobae.com/colombia/2026/06/11/ivan-cepeda-se-defendio-de-las-denuncias-de-de-la-espriella-sobre-la-presunta-compra-de-votos-no-hacemos-ninguna-clase-de-ofrecimientos/",
+      "source": "Infobae",
+      "pubDate": "Thu, 11 Jun 2026 22:38:42 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Clara López asumió el control económico de la campaña de Iván Cepeda y reveló su plan fiscal: “Hay que hacer es un recorte con bisturí”",
+      "link": "https://www.infobae.com/colombia/2026/06/11/clara-lopez-asumio-el-control-economico-de-la-campana-de-ivan-cepeda-y-revelo-su-plan-fiscal-hay-que-hacer-es-un-recorte-con-bisturi/",
+      "source": "Infobae",
+      "pubDate": "Thu, 11 Jun 2026 22:38:04 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Consejo de Estado resolvió debate judicial sobre presunta inhabilidad de Abelardo de la Espriella para aspirar a la Presidencia",
+      "link": "https://www.infobae.com/colombia/2026/06/11/consejo-de-estado-resolvio-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella-para-aspirar-a-la-presidencia/",
+      "source": "Infobae",
+      "pubDate": "Thu, 11 Jun 2026 22:37:27 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda denunciará penalmente a Abelardo de la Espriella; 'Cortinas de humo', responde el candidato de Defensores de la Patria",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-denunciara-penalmente-a-abelardo-de-la-espriella-cortinas-de-humo-responde-el-candidato-de-defensores-de-la-patria-3563661",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T14:58:13-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Diario de Campaña: Abelardo podrá usar la camiseta de la Selección",
-      "link": "https://www.lasillavacia.com/en-vivo/diario-de-campana-abelardo-podra-usar-la-camiseta-de-la-seleccion/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 11 Jun 2026 18:35:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Ponderador de encuestas en segunda vuelta: Abelardo 51% y Cepeda 43%",
-      "link": "https://www.lasillavacia.com/en-vivo/ponderador-de-encuestas-en-segunda-vuelta-abelardo-51-y-cepeda-43/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 11 Jun 2026 18:30:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones presidenciales Colombia: hay cambio de última hora en sede de votación para segunda vuelta en Miami, Estados Unidos; negaron permiso",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-hay-cambio-de-ultima-hora-en-sede-de-votacion-para-segunda-vuelta-en-miami-estados-unidos-negaron-permiso-3563576",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T12:01:00-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Directo Latam y la solicitud de suspender a Petro hasta la segunda vuelta electoral",
-      "link": "https://www.france24.com/es/video/20260611-directo-latam-y-la-solicitud-de-suspender-a-petro-hasta-la-segunda-vuelta-electoral",
-      "source": "France 24",
-      "pubDate": "Thu, 11 Jun 2026 16:44:13 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Tomar una foto dentro del cubículo de votación podría traerle problemas: conozca por qué",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/tomar-una-foto-dentro-del-cubiculo-de-votacion-podria-traerle-problemas-conozca-por-que-3563613",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T11:22:48-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Choque entre vices por los debates de segunda vuelta",
-      "link": "https://www.lasillavacia.com/en-vivo/choque-entre-vices-por-los-debates-de-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 11 Jun 2026 16:02:52 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
