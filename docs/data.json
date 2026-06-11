@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T10:44:11.947Z",
+  "updatedAt": "2026-06-11T16:10:40.657Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 48,
+      "trendsScore": 46,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 22.7
       },
       "youtubeViews": 520937,
-      "finalScore": 54,
+      "finalScore": 53,
       "momentum": {
-        "value": 1.9,
+        "value": -1.9,
         "direction": "flat"
       },
-      "probability": 46.6
+      "probability": 46.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,97 +42,105 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 53.4
+      "probability": 53.9
     }
   ],
   "articles": [
     {
-      "title": "EN VIVO · Colombia se prepara para la segunda vuelta: nacionalidad de Abelardo De la Espriella pondría en riesgo su candidatura a la Presidencia",
-      "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
+      "title": "Web oficial del JNE presentó a Keiko Fujimori como presidenta electa y luego borró el contenido",
+      "link": "https://www.infobae.com/peru/2026/06/11/web-oficial-del-jne-presento-a-keiko-fujimori-como-presidenta-electa-y-luego-borro-el-contenido/",
       "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 10:12:35 +0000",
+      "pubDate": "Thu, 11 Jun 2026 16:06:49 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella podrá usar la camiseta de la selección Colombia durante la campaña presidencial: jueza tumbó la decisión",
+      "link": "https://www.infobae.com/colombia/2026/06/11/abelardo-de-la-espriella-podra-usar-la-camiseta-de-la-seleccion-colombia-durante-la-campana-presidencial-jueza-tumbo-la-decision/",
+      "source": "Infobae",
+      "pubDate": "Thu, 11 Jun 2026 16:05:45 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Líder comunitario de Rocha aclara polémico video en campaña de Iván Cepeda: “Nunca hablé de compra de votos”",
-      "link": "https://www.infobae.com/colombia/2026/06/11/lider-comunitario-de-rocha-aclara-polemico-video-en-campana-de-ivan-cepeda-nunca-hable-de-compra-de-votos/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 10:10:46 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "“Hay unos métodos que está utilizando comprando votos”: Cepeda promete revelar hallazgos contra De la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/11/hay-unos-metodos-que-esta-utilizando-comprando-votos-cepeda-promete-revelar-hallazgos-contra-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 10:05:00 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Fujimori arrebata la delantera a Sánchez con apenas 650 votos en el recuento presidencial de Perú, aún sin concluir",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260611-fujimori-a-un-paso-de-la-presidencia-en-su-cuarto-intento-lidera-por-650-votos-con-el-conteo-sin-cerrar",
-      "source": "France 24",
-      "pubDate": "Thu, 11 Jun 2026 09:02:03 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones presidenciales de Colombia 2026: fecha, candidatos, fórmulas vicepresidenciales y todo sobre la segunda vuelta electoral",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-de-colombia-2026-fecha-candidatos-formulas-vicepresidenciales-y-todo-sobre-la-segunda-vuelta-electoral-3563537",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T03:30:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Alcaldía de Bogotá anuncia horarios de ley seca para el fin de semana de la segunda vuelta presidencial: comenzará en la tarde del viernes 19 de junio",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/alcaldia-de-bogota-anuncia-horarios-de-ley-seca-para-el-fin-de-semana-de-la-segunda-vuelta-presidencial-comenzara-en-la-tarde-del-viernes-19-de-junio-3563523",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-10T23:19:54-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Balotaje en Perú: el recuento se ralentiza y la atención se vuelca en los votos impugnados",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260611-balotaje-en-per%C3%BA-el-recuento-se-ralentiza-y-la-atenci%C3%B3n-se-vuelca-en-los-votos-impugnados",
-      "source": "France 24",
-      "pubDate": "Thu, 11 Jun 2026 01:54:39 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Iván Cepeda se impuso en tres municipios de Arauca en los que ganó la derecha en 2022: el voto por la izquierda aumentó 47,2 % en el departamento",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-se-impuso-en-tres-municipios-de-arauca-en-los-que-gano-la-derecha-en-2022-el-voto-por-la-izquierda-aumento-47-2-en-el-departamento-3563191",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-10T20:44:21-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Atlas Intel para segunda vuelta: Abelardo le lleva casi 8 puntos a Cepeda ",
-      "link": "https://www.lasillavacia.com/en-vivo/atlas-intel-para-segunda-vuelta-abelardo-le-lleva-casi-8-puntos-a-cepeda/",
+      "title": "Choque entre vices por los debates de segunda vuelta",
+      "link": "https://www.lasillavacia.com/en-vivo/choque-entre-vices-por-los-debates-de-segunda-vuelta/",
       "source": "La Silla Vacía",
-      "pubDate": "Thu, 11 Jun 2026 00:33:19 +0000",
+      "pubDate": "Thu, 11 Jun 2026 16:02:52 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Estas son las iniciativas que están a un paso de ser ley en la recta final de una legislatura atravesada por la campaña presidencial",
-      "link": "https://www.eltiempo.com/politica/estas-son-las-iniciativas-que-estan-a-un-paso-de-ser-ley-en-la-recta-final-de-una-legislatura-atravesada-por-la-campana-presidencial-3563479",
+      "title": "Atención: juez anula orden que le prohibía a Abelardo de la Espriella usar la camiseta de la Selección Colombia",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/atencion-juez-anula-orden-que-le-prohibia-a-abelardo-de-la-espriella-usar-la-camiseta-de-la-seleccion-colombia-3563617",
       "source": "El Tiempo",
-      "pubDate": "2026-06-10T19:01:24-05:00",
+      "pubDate": "2026-06-11T10:59:13-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Cancillería de Colombia abrió convocatoria para cargos diplomáticos: buscarían proteger plazas clave antes de la segunda vuelta presidencial",
+      "link": "https://www.infobae.com/colombia/2026/06/11/la-cancilleria-de-colombia-anticipa-nombramientos-diplomaticos-presuntamente-para-proteger-plazas-clave-antes-de-la-segunda-vuelta-presidencial/",
+      "source": "Infobae",
+      "pubDate": "Thu, 11 Jun 2026 15:56:34 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "#ElFiltro: El Eln no anunció su apoyo al candidato presidencial Iván Cepeda, comunicado viral en redes sociales es falso",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-el-eln-no-anuncio-su-apoyo-al-candidato-presidencial-ivan-cepeda-comunicado-viral-en-redes-sociales-es-falso-3563434",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-10T17:47:21-05:00",
+      "title": "Gustavo Bolívar reveló el ‘gran error’ que le costó las elecciones a Iván Cepeda y lanzó advertencia para la segunda vuelta: “No podemos pensar como los monjes” ",
+      "link": "https://www.infobae.com/colombia/2026/06/11/gustavo-bolivar-revelo-el-gran-error-que-le-costo-las-elecciones-a-ivan-cepeda-y-lanzo-advertencia-para-la-segunda-vuelta-no-podemos-pensar-como-los-monjes/",
+      "source": "Infobae",
+      "pubDate": "Thu, 11 Jun 2026 15:54:17 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Denuncian entrega de panfletos para presionar a funcionarios públicos de cara a la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/denuncian-entrega-de-panfletos-para-presionar-a-funcionarios-publicos-de-cara-a-la-segunda-vuelta-presidencial-3563609",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T10:52:36-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Procuraduría suspendió a Agmeth Escaf por expresiones en contra de Abelardo de la Espriella: “La perra de Estados Unidos”",
+      "link": "https://www.infobae.com/colombia/2026/06/11/suspenden-a-agmeth-escaf-por-expresiones-contra-abelardo-de-la-espriella-sera-investigado-por-la-procuraduria/",
+      "source": "Infobae",
+      "pubDate": "Thu, 11 Jun 2026 15:49:44 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Procuraduría suspende a congresista que solicitó suspensión de Petro",
+      "link": "https://www.lasillavacia.com/en-vivo/procuraduria-suspende-a-congresista-que-solicito-suspension-de-petro/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 11 Jun 2026 14:58:59 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Las polémicas de Agmeth Escaf, el congresista del Pacto suspendido por la Procuraduría por frase ofensiva contra el candidato Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-polemicas-de-agmeth-escaf-el-congresista-del-pacto-suspendido-por-la-procuraduria-por-frase-ofensiva-contra-el-candidato-abelardo-de-la-espriella-3563590",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T09:58:42-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Procuraduría suspende al congresista Agmeth Escaf hasta después de la segunda vuelta presidencial por presuntos comentarios agresivos",
+      "link": "https://www.eltiempo.com/politica/congreso/procuraduria-suspende-al-congresista-agmeth-escaf-hasta-despues-de-la-segunda-vuelta-presidencial-por-presuntos-comentarios-agresivos-3563579",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T09:57:20-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "La digitalidad de los afectos en la segunda vuelta",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-digitalidad-de-los-afectos-en-la-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 11 Jun 2026 13:58:10 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
