@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-11T19:02:55.488Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-11T21:02:28.620Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -9,19 +9,19 @@
       "color": "#E63946",
       "trendsScore": 46,
       "youtubeScore": 100,
-      "sentimentScore": 19,
+      "sentimentScore": 21,
       "sentimentPct": {
-        "positive": 19.3,
-        "negative": 55,
-        "neutral": 25.7
+        "positive": 21.3,
+        "negative": 56.3,
+        "neutral": 22.3
       },
-      "youtubeViews": 508108,
-      "finalScore": 54,
+      "youtubeViews": 520302,
+      "finalScore": 55,
       "momentum": {
-        "value": -3.6,
+        "value": 1.9,
         "direction": "flat"
       },
-      "probability": 46.6
+      "probability": 50.5
     },
     {
       "id": "abelardo_espriella",
@@ -29,84 +29,84 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 54,
+      "youtubeScore": 30,
       "sentimentScore": 18,
       "sentimentPct": {
-        "positive": 18.4,
-        "negative": 45.6,
-        "neutral": 36
+        "positive": 18,
+        "negative": 44,
+        "neutral": 38
       },
-      "youtubeViews": 265149,
-      "finalScore": 62,
+      "youtubeViews": 142910,
+      "finalScore": 54,
       "momentum": {
-        "value": 26.5,
-        "direction": "up"
+        "value": -12.9,
+        "direction": "down"
       },
-      "probability": 53.4
+      "probability": 49.5
     }
   ],
   "articles": [
     {
-      "title": "Miguel Ángel del Río anunció que interpondrá acciones legales por comunicado falso del ELN apoyando a Iván Cepeda: “Una infamia”",
-      "link": "https://www.infobae.com/colombia/2026/06/11/miguel-angel-del-rio-anuncio-que-interpondra-acciones-legales-por-comunicado-falso-del-eln-apoyando-a-ivan-cepeda-una-infamia/",
+      "title": "Debate por doble nacionalidad de Abelardo de la Espriella: abogado radicado en Estados Unidos sostiene que la ley respalda su aspiración presidencial",
+      "link": "https://www.infobae.com/colombia/2026/06/11/debate-por-doble-nacionalidad-de-abelardo-de-la-espriella-abogado-radicado-en-estados-unidos-sostiene-que-la-ley-respalda-su-aspiracion-presidencial/",
       "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 18:54:59 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Agmeth Escaf aseguró que no se retractará de llamar “perra de Estados Unidos” a Abelardo de la Espriella: la Procuraduría lo suspendió",
-      "link": "https://www.infobae.com/colombia/2026/06/11/agmeth-escaf-revelo-que-no-se-retractara-de-llamar-perra-de-estados-unidos-a-abelardo-de-la-espriella-la-procuraduria-lo-suspendio/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 18:53:18 +0000",
+      "pubDate": "Thu, 11 Jun 2026 21:00:42 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella respondió a denuncia de Iván Cepeda en su contra por supuesta financiación a paramilitares: “Cortinas de humo”",
-      "link": "https://www.infobae.com/colombia/2026/06/11/abelardo-de-la-espriella-respondio-a-la-reciente-denuncia-en-su-contra-por-parte-de-ivan-cepeda-cortinas-de-humo/",
+      "title": "Álvaro Uribe acusó a Iván Cepeda de comprar testigos para manipular la justicia y minimizó su campaña: “Ha sido tan mala”",
+      "link": "https://www.infobae.com/colombia/2026/06/11/alvaro-uribe-acuso-a-ivan-cepeda-de-comprar-testigos-para-manipular-la-justicia-y-minimizo-su-campana-ha-sido-tan-mala/",
       "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 18:49:09 +0000",
+      "pubDate": "Thu, 11 Jun 2026 20:59:26 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Exboxeador Miguel ‘Happy’ Lora anunció que votará por Abelardo de la Espriella en segunda vuelta: “Es el presidente que Colombia necesita”",
-      "link": "https://www.infobae.com/colombia/2026/06/11/exboxeador-happy-lora-sobre-la-segunda-vuelta-electoral-votare-por-abelardo-porque-es-el-presidente-que-colombia-necesita/",
+      "title": "Resultados oficiales de la ONPE: LINK para conocer si ganó Keiko Fujimori o Roberto Sánchez ",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-oficiales-de-la-onpe-link-para-conocer-si-gano-keiko-fujimori-o-roberto-sanchez/",
       "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 18:45:48 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Thu, 11 Jun 2026 20:56:39 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "En redes sociales armaron concurso en Bogotá para encontrar al doble de la versión juvenil de Iván Cepeda que se hizo viral: “Papasito”",
-      "link": "https://www.infobae.com/colombia/2026/06/11/en-redes-sociales-armaron-concurso-en-bogota-para-encontrar-al-doble-de-la-version-juvenil-de-ivan-cepeda-que-se-hizo-viral-papasito/",
+      "title": "Segunda vuelta en Perú: el ausentismo electoral predominó en Miraflores y San Isidro, los distritos limeños más exclusivos ",
+      "link": "https://www.infobae.com/peru/2026/06/11/segunda-vuelta-en-peru-el-ausentismo-electoral-predomino-en-miraflores-y-san-isidro-los-distritos-limenos-mas-exclusivos/",
       "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 18:42:42 +0000",
+      "pubDate": "Thu, 11 Jun 2026 20:50:28 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "La revisión de actas observadas y el recuento de votos retrasan el desenlace electoral en Perú",
+      "link": "https://www.infobae.com/peru/2026/06/11/la-revision-de-actas-observadas-y-el-recuento-de-votos-retrasan-el-desenlace-electoral-en-peru/",
+      "source": "Infobae",
+      "pubDate": "Thu, 11 Jun 2026 20:50:03 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "EN VIVO · Colombia se prepara para la segunda vuelta: Iván Cepeda denunció a Abelardo de la Espriella por presunta financiación a las AUC ",
+      "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
+      "source": "Infobae",
+      "pubDate": "Thu, 11 Jun 2026 20:43:43 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Defensores de la Patria se refirió a la doble nacionalidad de Abelardo de la Espriella y confirmó que estará en el tarjetón: “Cumple los requisitos”",
-      "link": "https://www.infobae.com/colombia/2026/06/11/defensores-de-la-patria-asegura-que-abelardo-de-la-espriella-estara-en-el-tarjeton-pese-a-polemica-por-su-doble-nacionalidad-cumple-los-requisitos/",
+      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.239% Keiko Fujimori supera por muy poco Roberto Sánchez ",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 18:40:03 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Thu, 11 Jun 2026 20:39:36 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Iván Cepeda denunció a Abelardo de la Espriella ante la Fiscalía y la Corte Penal Internacional por presunta financiación a paramilitares",
-      "link": "https://www.infobae.com/colombia/2026/06/11/ivan-cepeda-denuncio-a-abelardo-de-la-espriella-ante-la-fiscalia-y-la-corte-penal-internacional-por-presunta-financiacion-a-paramilitares/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 18:37:23 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Prosperidad Social anunció que suspenderá los pagos de subsidios: cuál es la razón",
-      "link": "https://www.infobae.com/colombia/2026/06/11/prosperidad-social-anuncio-que-suspendera-los-pagos-de-subsidios-por-tres-dias-cual-es-la-razon/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 18:36:42 +0000",
+      "title": "Iván Cepeda denunciará penalmente a Abelardo de la Espriella; 'Cortinas de humo', responde el candidato de Defensores de la Patria",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-denunciara-penalmente-a-abelardo-de-la-espriella-cortinas-de-humo-responde-el-candidato-de-defensores-de-la-patria-3563661",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T14:58:13-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -114,7 +114,7 @@
       "title": "Diario de Campaña: Abelardo podrá usar la camiseta de la Selección",
       "link": "https://www.lasillavacia.com/en-vivo/diario-de-campana-abelardo-podra-usar-la-camiseta-de-la-seleccion/",
       "source": "La Silla Vacía",
-      "pubDate": "Thu, 11 Jun 2026 18:30:00 +0000",
+      "pubDate": "Thu, 11 Jun 2026 18:35:00 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -127,20 +127,20 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones presidenciales Colombia: hay cambio de última hora en sede de votación para segunda vuelta en Miami, Estados Unidos; negaron permiso",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-hay-cambio-de-ultima-hora-en-sede-de-votacion-para-segunda-vuelta-en-miami-estados-unidos-negaron-permiso-3563576",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T12:01:00-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Directo Latam y la solicitud de suspender a Petro hasta la segunda vuelta electoral",
       "link": "https://www.france24.com/es/video/20260611-directo-latam-y-la-solicitud-de-suspender-a-petro-hasta-la-segunda-vuelta-electoral",
       "source": "France 24",
       "pubDate": "Thu, 11 Jun 2026 16:44:13 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Tomar una foto dentro del cubículo de votación podría traerle problemas: conozca por qué",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/tomar-una-foto-dentro-del-cubiculo-de-votacion-podria-traerle-problemas-conozca-por-que-3563613",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T11:22:48-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
