@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-06-11T15:03:16.488Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-11T17:03:14.419Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 43,
+      "trendsScore": 46,
       "youtubeScore": 100,
-      "sentimentScore": 26,
+      "sentimentScore": 24,
       "sentimentPct": {
-        "positive": 26,
-        "negative": 50.7,
-        "neutral": 23.3
+        "positive": 24,
+        "negative": 50,
+        "neutral": 26
       },
-      "youtubeViews": 561230,
-      "finalScore": 55,
+      "youtubeViews": 2322514,
+      "finalScore": 56,
       "momentum": {
-        "value": 61.8,
-        "direction": "up"
+        "value": 1.8,
+        "direction": "flat"
       },
-      "probability": 47.8
+      "probability": 53.3
     },
     {
       "id": "abelardo_espriella",
@@ -29,118 +29,38 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 49,
-      "sentimentScore": 19,
+      "youtubeScore": 12,
+      "sentimentScore": 18,
       "sentimentPct": {
-        "positive": 18.8,
-        "negative": 45.2,
+        "positive": 18.4,
+        "negative": 45.6,
         "neutral": 36
       },
-      "youtubeViews": 264163,
-      "finalScore": 60,
+      "youtubeViews": 264648,
+      "finalScore": 49,
       "momentum": {
-        "value": -22.1,
+        "value": -18.3,
         "direction": "down"
       },
-      "probability": 52.2
+      "probability": 46.7
     }
   ],
   "articles": [
     {
-      "title": "Suspenden a Agmeth Escaf por expresiones contra Abelardo de la Espriella: será investigado por la Procuraduría",
-      "link": "https://www.infobae.com/colombia/2026/06/11/suspenden-a-agmeth-escaf-por-expresiones-contra-abelardo-de-la-espriella-sera-investigado-por-la-procuraduria/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 15:01:30 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Procuraduría suspende a congresista que solicitó suspensión de Petro",
-      "link": "https://www.lasillavacia.com/en-vivo/procuraduria-suspende-a-congresista-que-solicito-suspension-de-petro/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 11 Jun 2026 14:58:59 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Johanna Fadul respondió fuertes declaraciones de Mafe Carrascal en su contra con indirecta a los petristas: “Piensa en el futuro”",
-      "link": "https://www.infobae.com/colombia/2026/06/11/johanna-fadul-lanzo-indirecta-a-los-petristas-despues-de-las-fuertes-declaraciones-que-hizo-mafe-carrascal-en-su-contra-piensa-en-el-futuro/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 14:56:46 +0000",
+      "title": "Directo Latam y la solicitud de suspender a Petro hasta la segunda vuelta electoral",
+      "link": "https://www.france24.com/es/video/20260611-directo-latam-y-la-solicitud-de-suspender-a-petro-hasta-la-segunda-vuelta-electoral",
+      "source": "France 24",
+      "pubDate": "Thu, 11 Jun 2026 16:44:13 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Problemas para votar en segunda vuelta en el consulado de Colombia en Miami: Policía de Coral Gables asegura que la sede diplomática no es segura y negó el permiso",
-      "link": "https://www.infobae.com/colombia/2026/06/11/ciudad-en-estados-unidos-nego-permiso-para-realizar-la-segunda-vuelta-presidencial-colombiana-en-el-consulado-de-colombia-en-miami-las-razones/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 14:55:19 +0000",
+      "title": "Fujimori arrebata la delantera a Sánchez con apenas 650 votos en el recuento presidencial de Perú, aún sin concluir",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260611-fujimori-a-un-paso-de-la-presidencia-en-su-cuarto-intento-lidera-por-650-votos-con-el-conteo-sin-cerrar",
+      "source": "France 24",
+      "pubDate": "Thu, 11 Jun 2026 09:02:03 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "La Cancillería de Colombia anticipa nombramientos diplomáticos, presuntamente, para proteger plazas clave antes de la segunda vuelta presidencial",
-      "link": "https://www.infobae.com/colombia/2026/06/11/la-cancilleria-de-colombia-anticipa-nombramientos-diplomaticos-presuntamente-para-proteger-plazas-clave-antes-de-la-segunda-vuelta-presidencial/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 14:53:41 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Procuraduría suspende al congresista Agmeth Escaf hasta después de la segunda vuelta presidencial por presuntos comentarios agresivos",
-      "link": "https://www.eltiempo.com/politica/congreso/procuraduria-suspende-al-congresista-agmeth-escaf-hasta-despues-de-la-segunda-vuelta-presidencial-por-presuntos-comentarios-agresivos-3563579",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T09:49:51-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Juristas y exmagistrados criticaron medida que prohibió a Abelardo de la Espriella usar el lema “Firmes por la patria” y símbolos patrios en su campaña presidencial",
-      "link": "https://www.infobae.com/colombia/2026/06/11/grupo-de-los-38-critico-medida-que-prohibio-a-abelardo-de-la-espriella-usar-el-lema-firmes-por-la-patria-y-simbolos-patrios-en-su-campana-presidencial/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 14:48:36 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella planteó un acuerdo con el Banco de la República para fijar en 2% la tasa hipotecaria a 30 años",
-      "link": "https://www.infobae.com/colombia/2026/06/11/la-campana-de-de-la-espriella-y-restrepo-planteo-un-acuerdo-con-el-banco-de-la-republica-para-fijar-al-2-la-tasa-hipotecaria-a-30-anos/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 14:48:07 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "PNP y FFAA buscan evitar protestas en Lima por resultados de la segunda vuelta: “vamos a actuar en el uso gradual de la fuerza”",
-      "link": "https://www.infobae.com/peru/2026/06/11/pnp-y-ffaa-buscan-evitar-protestas-en-lima-por-resultados-de-la-segunda-vuelta-vamos-a-actuar-en-el-uso-gradual-de-la-fuerza/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 14:34:18 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "La digitalidad de los afectos en la segunda vuelta",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-de-democracia-y-tecnologia/la-digitalidad-de-los-afectos-en-la-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 11 Jun 2026 13:58:10 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones presidenciales Colombia: hay cambio de última hora en sede de votación para segunda vuelta en Miami, Estados Unidos; negaron permiso",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-hay-cambio-de-ultima-hora-en-sede-de-votacion-para-segunda-vuelta-en-miami-estados-unidos-negaron-permiso-3563576",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T08:50:00-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones presidenciales de Colombia 2026: Procuraduría suspende a dos congresistas antes de la segunda vuelta; esto se sabe",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-de-colombia-2026-fecha-candidatos-formulas-vicepresidenciales-y-todo-sobre-la-segunda-vuelta-electoral-3563537",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T08:31:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
