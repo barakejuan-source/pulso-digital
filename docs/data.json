@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-10T22:07:54.020Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-11T04:18:56.915Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,68 +47,84 @@
   ],
   "articles": [
     {
-      "title": "EN VIVO · Colombia se prepara para la segunda vuelta de las elecciones presidenciales: Petro cuestionó a Trump por apoyar a De la Espriella ",
-      "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
+      "title": "Resultados ONPE de Keiko Fujimori EN VIVO: conteo oficial de las votaciones de la segunda vuelta",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-de-keiko-fujimori-en-vivo-conteo-oficial-de-las-votaciones-de-la-segunda-vuelta-del-7-de-junio/",
       "source": "Infobae",
-      "pubDate": "Wed, 10 Jun 2026 22:00:38 +0000",
+      "pubDate": "Thu, 11 Jun 2026 04:16:04 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Abelardo de la Espriella agradeció el apoyo que le reiteró Donald Trump a su campaña presidencial: “Juntos libraremos una guerra frontal”",
-      "link": "https://www.infobae.com/colombia/2026/06/10/abelardo-de-la-espriella-agradecio-el-apoyo-que-le-reitero-donald-trump-a-su-campana-presidencial-juntos-libraremos-una-guerra-frontal/",
+      "title": "ONPE al 98%, región por región: Así va el voto de Keiko Fujimori y Roberto Sánchez en esta segunda vuelta",
+      "link": "https://www.infobae.com/peru/2026/06/07/onpe-resultados-en-vivo-por-regiones-mapa-electoral-de-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
       "source": "Infobae",
-      "pubDate": "Wed, 10 Jun 2026 21:51:58 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Thu, 11 Jun 2026 04:15:37 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 97.910% Keiko Fujimori y Roberto Sánchez pelean voto a voto la elección",
+      "title": "Alcaldía de Bogotá anuncia horarios de ley seca para el fin de semana de la segunda vuelta presidencial: comenzará en la tarde del viernes 19 de junio",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/alcaldia-de-bogota-anuncia-horarios-de-ley-seca-para-el-fin-de-semana-de-la-segunda-vuelta-presidencial-comenzara-en-la-tarde-del-viernes-19-de-junio-3563523",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-10T23:12:27-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.209% Keiko Fujimori supera en votos a Roberto Sánchez ",
       "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Wed, 10 Jun 2026 21:51:57 +0000",
+      "pubDate": "Thu, 11 Jun 2026 03:56:37 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Presidente Gustavo Petro pide a Donald Trump no intervenir en la campaña tras mensaje en el que reiteró apoyo a Abelardo de la Espriella: 'No usted'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/presidente-gustavo-petro-pide-a-donald-trump-no-intervenir-en-la-campana-tras-mensaje-en-el-que-reitero-apoyo-a-abelardo-de-la-espriella-no-usted-3563432",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-10T16:48:17-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Tarjetones para la segunda vuelta se deben reimprimir por fallo contra campaña de Abelardo De La Espriella? El registrador nacional respondió la duda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/tarjetones-para-la-segunda-vuelta-se-deben-reimprimir-por-fallo-contra-campana-de-abelardo-de-la-espriella-el-registrador-nacional-respondio-3563338",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-10T16:26:10-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Embajada de Colombia en Estados Unidos se pronuncia tras primera orden y nuevo documento sobre suspensión del presidente Gustavo Petro",
-      "link": "https://www.eltiempo.com/politica/gobierno/embajada-de-colombia-en-estados-unidos-se-pronuncia-tras-primera-orden-y-nuevo-documento-sobre-suspension-del-presidente-gustavo-petro-3563408",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-10T15:45:54-05:00",
+      "title": "Segunda vuelta: ¿Cuánto es la mínima diferencia de votos entre Roberto Sánchez y Keiko Fujimori según ONPE?",
+      "link": "https://www.infobae.com/peru/2026/06/11/segunda-vuelta-cuanto-es-la-minima-diferencia-de-votos-entre-roberto-sanchez-y-keiko-fujimori-segun-onpe/",
+      "source": "Infobae",
+      "pubDate": "Thu, 11 Jun 2026 03:40:07 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Segunda vuelta en Perú: Fujimori se llevó el 73% de los votos en Colombia",
-      "link": "https://www.lasillavacia.com/en-vivo/segunda-vuelta-en-peru-fujimori-se-llevo-el-73-de-los-votos-en-colombia/",
+      "title": "Balotaje en Perú: el recuento se ralentiza y la atención se vuelca en los votos impugnados",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260611-balotaje-en-per%C3%BA-el-recuento-se-ralentiza-y-la-atenci%C3%B3n-se-vuelca-en-los-votos-impugnados",
+      "source": "France 24",
+      "pubDate": "Thu, 11 Jun 2026 01:54:39 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iván Cepeda se impuso en tres municipios de Arauca en los que ganó la derecha en 2022: el voto por la izquierda aumentó 47,2 % en el departamento",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-se-impuso-en-tres-municipios-de-arauca-en-los-que-gano-la-derecha-en-2022-el-voto-por-la-izquierda-aumento-47-2-en-el-departamento-3563191",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-10T20:44:21-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Atlas Intel para segunda vuelta: Abelardo le lleva casi 8 puntos a Cepeda ",
+      "link": "https://www.lasillavacia.com/en-vivo/atlas-intel-para-segunda-vuelta-abelardo-le-lleva-casi-8-puntos-a-cepeda/",
       "source": "La Silla Vacía",
-      "pubDate": "Wed, 10 Jun 2026 20:32:44 +0000",
+      "pubDate": "Thu, 11 Jun 2026 00:33:19 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Las tres alertas de la MOE sobre la campaña digital de cara a la segunda vuelta presidencial: amenazas, IA y plata sin rastrear",
-      "link": "https://www.eltiempo.com/politica/las-tres-alertas-de-la-moe-sobre-la-campana-digital-de-cara-a-la-segunda-vuelta-presidencial-amenazas-ia-y-plata-sin-rastrear-3563360",
+      "title": "Estas son las iniciativas que están a un paso de ser ley en la recta final de una legislatura atravesada por la campaña presidencial",
+      "link": "https://www.eltiempo.com/politica/estas-son-las-iniciativas-que-estan-a-un-paso-de-ser-ley-en-la-recta-final-de-una-legislatura-atravesada-por-la-campana-presidencial-3563479",
       "source": "El Tiempo",
-      "pubDate": "2026-06-10T15:14:27-05:00",
+      "pubDate": "2026-06-10T19:01:24-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "#ElFiltro: El Eln no anunció su apoyo al candidato presidencial Iván Cepeda, comunicado viral en redes sociales es falso",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-el-eln-no-anuncio-su-apoyo-al-candidato-presidencial-ivan-cepeda-comunicado-viral-en-redes-sociales-es-falso-3563434",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-10T17:47:21-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     }
   ]
 }
