@@ -2598,6 +2598,312 @@
           "sentiment": 15
         }
       ]
+    },
+    {
+      "date": "2026-06-01T10",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 30,
+          "youtube": 100,
+          "sentiment": 14
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 46,
+          "sentiment": 15
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01T12",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 31,
+          "youtube": 100,
+          "sentiment": 11
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 54,
+          "sentiment": 13
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01T14",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 31,
+          "youtube": 100,
+          "sentiment": 15
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 54,
+          "sentiment": 21
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01T16",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 31,
+          "youtube": 100,
+          "sentiment": 13
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 28,
+          "sentiment": 20
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01T18",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 32,
+          "youtube": 100,
+          "sentiment": 13
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 31,
+          "sentiment": 19
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02T20",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 28,
+          "youtube": 100,
+          "sentiment": 11
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 26,
+          "sentiment": 22
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03T12",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 29,
+          "youtube": 39,
+          "sentiment": 10
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 100,
+          "sentiment": 21
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03T14",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 30,
+          "youtube": 100,
+          "sentiment": 15
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 86,
+          "sentiment": 17
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03T16",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 29,
+          "youtube": 40,
+          "sentiment": 17
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 100,
+          "sentiment": 24
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07T02",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 29,
+          "youtube": 38,
+          "sentiment": 17
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 100,
+          "sentiment": 24
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07T04",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 29,
+          "youtube": 38,
+          "sentiment": 17
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 100,
+          "sentiment": 24
+        }
+      ]
+    },
+    {
+      "date": "2026-06-08T10",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 45,
+          "youtube": 38,
+          "sentiment": 17
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 100,
+          "sentiment": 24
+        }
+      ]
+    },
+    {
+      "date": "2026-06-08T14",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 43,
+          "youtube": 38,
+          "sentiment": 17
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 100,
+          "sentiment": 24
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11T10",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 43,
+          "youtube": 100,
+          "sentiment": 26
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 49,
+          "sentiment": 19
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11T12",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 46,
+          "youtube": 100,
+          "sentiment": 24
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 12,
+          "sentiment": 18
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11T14",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 46,
+          "youtube": 100,
+          "sentiment": 19
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 54,
+          "sentiment": 18
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11T16",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 46,
+          "youtube": 100,
+          "sentiment": 21
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 30,
+          "sentiment": 18
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11T18",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 49,
+          "youtube": 100,
+          "sentiment": 24
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 46,
+          "sentiment": 20
+        }
+      ]
     }
   ]
 }
