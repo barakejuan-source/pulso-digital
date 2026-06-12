@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T18:11:41.676Z",
+  "updatedAt": "2026-06-12T21:51:54.950Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 48,
+      "trendsScore": 47,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -47,50 +47,66 @@
   ],
   "articles": [
     {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.27 % Keiko Fujimori amplía su ventaja sobre Roberto Sánchez ",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
+      "title": "Agmeth Escaf respondió a la suspensión de la Procuraduría tras fuertes señalamientos contra Abelardo de la Espriella: “No me retracto”",
+      "link": "https://www.infobae.com/colombia/2026/06/12/agmeth-escaf-respondio-a-la-suspension-de-la-procuraduria-tras-fuertes-senalamientos-contra-abelardo-de-la-espriella-no-me-retracto/",
       "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 18:00:23 +0000",
+      "pubDate": "Fri, 12 Jun 2026 21:48:02 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Demócratas acusan a Trump de intentar influir en el balotaje presidencial en Colombia",
+      "link": "https://www.infobae.com/america/agencias/2026/06/12/democratas-acusan-a-trump-de-intentar-influir-en-el-balotaje-presidencial-en-colombia/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 21:45:19 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Álvaro Uribe hizo grave denuncia de cara a la segunda vuelta electoral entre De la Espriella y Cepeda: “El ELN decomisó cédulas”",
-      "link": "https://www.infobae.com/colombia/2026/06/12/alvaro-uribe-hizo-grave-denuncia-de-cara-a-la-segunda-vuelta-electoral-entre-de-la-espriella-y-cepeda-el-eln-decomiso-cedulas/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 17:57:10 +0000",
+      "title": "En el Catatumbo se votó igual que en la primera vuelta presidencial de 2022: la derecha ganó nueve municipios y la izquierda cuatro",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/en-el-catatumbo-se-voto-igual-que-en-la-primera-vuelta-presidencial-de-2022-la-derecha-gano-nueve-municipios-y-la-izquierda-cuatro-3563960",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T16:41:12-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "José Manuel Restrepo celebró decisión de la Corte Suprema de suspender restricciones a la campaña de Abelardo de la Espriella: “La justicia está frenando los abusos”",
+      "link": "https://www.infobae.com/colombia/2026/06/12/jose-manuel-restrepo-celebro-decision-de-la-corte-suprema-de-suspender-restricciones-a-la-campana-de-abelardo-de-la-espriella-la-justicia-esta-frenando-los-abusos/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 21:18:40 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Elecciones presidenciales de Colombia 2026 en VIVO: continúa la polémica alrededor de la campaña de Abelardo de la Espriella, Corte Suprema se pronunció",
       "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 17:54:56 +0000",
+      "pubDate": "Fri, 12 Jun 2026 21:17:24 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Mindefensa advierte posibles disturbios violentos tras segunda vuelta",
+      "link": "https://www.lasillavacia.com/en-vivo/mindefensa-advierte-posibles-disturbios-violentos-tras-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 12 Jun 2026 19:33:26 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Perú: Fujimori mantiene leve ventaja sobre Sánchez; candidato izquierdista pide revisión total de las votaciones",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260612-per%C3%BA-fujimori-mantiene-leve-ventaja-sobre-s%C3%A1nchez-candidato-izquierdista-pide-revisi%C3%B3n-total-de-las-votaciones",
+      "source": "France 24",
+      "pubDate": "Fri, 12 Jun 2026 18:32:11 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "#ElFiltro: José Manuel Restrepo, fórmula vicepresidencial de Abelardo de la Espriella, no propuso el cobro de peajes a motos en Colombia",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-jose-manuel-restrepo-formula-vicepresidencial-de-abelardo-de-la-espriella-no-propuso-el-cobro-de-peajes-a-motos-en-colombia-3563928",
       "source": "El Tiempo",
       "pubDate": "2026-06-12T12:48:14-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Keiko Fujimori prevé una semana más para definir al ganador de la segunda vuelta en Perú",
-      "link": "https://www.infobae.com/america/agencias/2026/06/12/keiko-fujimori-preve-una-semana-mas-para-definir-al-ganador-de-la-segunda-vuelta-en-peru/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 17:47:49 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones en Colombia 2026: suspenden decisión del Tribunal de Bogotá que ordenaba a Abelardo de la Espriella no usar símbolos patrios",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-siga-el-minuto-a-minuto-de-la-segunda-vuelta-presidencial-en-colombia-3563823",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T12:38:06-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -103,44 +119,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "‘Fractura es étnico-racial y también de edades’: Andrés Felipe Arias / La entrevista de María Isabel Rueda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fractura-es-etnico-racial-y-tambien-de-edades-andres-felipe-arias-la-entrevista-de-maria-isabel-rueda-3563809",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T10:25:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "ELN no publicó comunicado respaldando a Iván Cepeda, imagen es falsa ",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/eln-no-publico-comunicado-respaldando-a-ivan-cepeda-imagen-es-falsa/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 12 Jun 2026 15:20:28 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "Iván Cepeda hizo cambios 'extremos' en su plan de gobierno: ¿por qué tuvo que borrar la palabra 'constituyente'?",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-hizo-cambios-extremos-en-su-plan-de-gobierno-por-que-tuvo-que-borrar-la-palabra-constituyente-3563812",
       "source": "El Tiempo",
       "pubDate": "2026-06-12T10:11:38-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Invamer no publicará encuestas presidenciales para segunda vuelta",
-      "link": "https://www.lasillavacia.com/en-vivo/invamer-no-publicara-encuestas-presidenciales-para-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 12 Jun 2026 14:21:01 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Consejo de Estado deja en firme candidatura de Abelardo de la Espriella",
-      "link": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-deja-en-firme-candidatura-de-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 12 Jun 2026 13:18:30 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
