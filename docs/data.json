@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T23:02:40.214Z",
+  "updatedAt": "2026-06-12T04:21:15.009Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 49,
+      "trendsScore": 47,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,9 +16,9 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 57,
+      "finalScore": 56,
       "momentum": {
-        "value": 3.6,
+        "value": -1.8,
         "direction": "flat"
       },
       "probability": 48.7
@@ -29,7 +29,7 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 46,
+      "youtubeScore": 44,
       "sentimentScore": 20,
       "sentimentPct": {
         "positive": 20,
@@ -37,36 +37,68 @@
         "neutral": 34.8
       },
       "youtubeViews": 260247,
-      "finalScore": 60,
+      "finalScore": 59,
       "momentum": {
-        "value": 11.1,
-        "direction": "up"
+        "value": -1.7,
+        "direction": "flat"
       },
       "probability": 51.3
     }
   ],
   "articles": [
     {
-      "title": "Juan Daniel Oviedo, exfórmula vicepresidencial de Paloma Valencia, se reunió con el expresidente Álvaro Uribe",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/juan-daniel-oviedo-exformula-vicepresidencial-de-paloma-valencia-se-reunio-con-el-expresidente-alvaro-uribe-3563749",
+      "title": "‘Fractura es étnico-racial y también de edades’: Andrés Felipe Arias / La entrevista de María Isabel Rueda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fractura-es-etnico-racial-y-tambien-de-edades-andres-felipe-arias-la-entrevista-de-maria-isabel-rueda-3563809",
       "source": "El Tiempo",
-      "pubDate": "2026-06-11T17:50:58-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "2026-06-11T23:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "A diez días para la segunda vuelta, Cepeda publica su plan de gobierno",
-      "link": "https://www.lasillavacia.com/en-vivo/a-diez-dias-para-la-segunda-vuelta-cepeda-publica-su-plan-de-gobierno/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 11 Jun 2026 22:42:40 +0000",
+      "title": "El debate por la doble nacionalidad de Abelardo de la Espriella: lo que opinan los expertos",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-debate-por-la-doble-nacionalidad-de-abelardo-de-la-espriella-lo-que-opinan-los-expertos-3563763",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T20:33:23-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Doble nacionalidad de Abelardo de la Espriella no lo inhabilita para ser presidente, dice abogado Mauricio Gaona: 'La Constitución está escrita'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/doble-nacionalidad-de-abelardo-de-la-espriella-no-lo-inhabilita-para-ser-presidente-dice-abogado-mauricio-gaona-la-constitucion-esta-escrita-3563784",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T20:23:30-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así funcionarán las mesas de justicia en la segunda vuelta: reciben denuncias el día de las elecciones y hacen seguimiento en tiempo real",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-funcionaran-las-mesas-de-justicia-en-la-segunda-vuelta-reciben-denuncias-el-dia-de-las-elecciones-y-hacen-seguimiento-en-tiempo-real-3563775",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T19:36:21-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "De la Espriella y Cepeda no han reportado “ni un peso” de gastos e ingresos de campaña, pese a que faltan 10 días para las elecciones",
-      "link": "https://www.infobae.com/colombia/2026/06/11/de-la-espriella-y-cepeda-no-han-reportado-ni-un-peso-de-gastos-e-ingresos-de-campana-pese-a-que-faltan-10-dias-para-las-elecciones/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 22:39:57 +0000",
+      "title": "Juan Daniel Oviedo, exfórmula vicepresidencial de Paloma Valencia, se reunió con el expresidente Álvaro Uribe",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/juan-daniel-oviedo-exformula-vicepresidencial-de-paloma-valencia-se-reunio-con-el-expresidente-alvaro-uribe-3563749",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T18:26:51-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Los votos en Montería y Kennedy, lugares donde crecieron Abelardo de la Espriella e Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-votos-en-monteria-y-kennedy-lugares-donde-crecieron-abelardo-de-la-espriella-e-ivan-cepeda-3563292",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-11T18:08:19-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "A diez días de la segunda vuelta, Cepeda publica su plan de gobierno",
+      "link": "https://www.lasillavacia.com/en-vivo/a-diez-dias-para-la-segunda-vuelta-cepeda-publica-su-plan-de-gobierno/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 11 Jun 2026 22:42:40 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -77,70 +109,6 @@
       "pubDate": "2026-06-11T17:39:12-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Iván Cepeda se defendió de las denuncias de De la Espriella sobre la presunta compra de votos: “No hacemos ninguna clase de ofrecimientos”",
-      "link": "https://www.infobae.com/colombia/2026/06/11/ivan-cepeda-se-defendio-de-las-denuncias-de-de-la-espriella-sobre-la-presunta-compra-de-votos-no-hacemos-ninguna-clase-de-ofrecimientos/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 22:38:42 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Clara López asumió el control económico de la campaña de Iván Cepeda y reveló su plan fiscal: “Hay que hacer es un recorte con bisturí”",
-      "link": "https://www.infobae.com/colombia/2026/06/11/clara-lopez-asumio-el-control-economico-de-la-campana-de-ivan-cepeda-y-revelo-su-plan-fiscal-hay-que-hacer-es-un-recorte-con-bisturi/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 22:38:04 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Consejo de Estado resolvió debate judicial sobre presunta inhabilidad de Abelardo de la Espriella para aspirar a la Presidencia",
-      "link": "https://www.infobae.com/colombia/2026/06/11/consejo-de-estado-resolvio-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella-para-aspirar-a-la-presidencia/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 22:37:27 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.239% Keiko Fujimori supera por muy poco Roberto Sánchez ",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 22:22:41 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "EN VIVO · Colombia se prepara para la segunda vuelta: Iván Cepeda denunció a Abelardo de la Espriella por presunta financiación a las AUC ",
-      "link": "https://www.infobae.com/colombia/2026/06/07/en-vivo-colombia-se-prepara-para-la-segunda-vuelta-de-las-elecciones-presidenciales-aun-no-se-ha-definido-si-habra-debates/",
-      "source": "Infobae",
-      "pubDate": "Thu, 11 Jun 2026 22:04:05 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Este es José Manuel Restrepo, la fórmula de Abelardo de la Espriella",
-      "link": "https://www.lasillavacia.com/quien-es-quien/este-es-jose-manuel-restrepo-la-formula-de-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 11 Jun 2026 21:24:40 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "#ElFiltro: Aída Quilcué, fórmula vicepresidencial de Iván Cepeda, no tiene un hijo llamado Juan Quilcué; videos virales son del ‘streamer’ El Chanty",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-la-formula-vicepresidencial-aida-quilcue-no-tiene-un-hijo-llamado-juan-quilcue-fotos-y-videos-virales-corresponden-al-streamer-el-chanty-3563709",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T16:03:49-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda denunciará penalmente a Abelardo de la Espriella; 'Cortinas de humo', responde el candidato de Defensores de la Patria",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-denunciara-penalmente-a-abelardo-de-la-espriella-cortinas-de-humo-responde-el-candidato-de-defensores-de-la-patria-3563661",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T14:58:13-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
