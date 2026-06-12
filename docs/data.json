@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T10:21:03.102Z",
+  "updatedAt": "2026-06-12T15:24:26.705Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,76 +47,100 @@
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: el Consejo de Estado resolvió el debate judicial sobre presunta inhabilidad de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 10:04:33 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Elecciones presidenciales en Colombia 2026: siga el minuto a minuto de la segunda vuelta presidencial en el país",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-siga-el-minuto-a-minuto-de-la-segunda-vuelta-presidencial-en-colombia-3563823",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T04:20:15-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "‘Fractura es étnico-racial y también de edades’: Andrés Felipe Arias / La entrevista de María Isabel Rueda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fractura-es-etnico-racial-y-tambien-de-edades-andres-felipe-arias-la-entrevista-de-maria-isabel-rueda-3563809",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T23:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El debate por la doble nacionalidad de Abelardo de la Espriella: lo que opinan los expertos",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-debate-por-la-doble-nacionalidad-de-abelardo-de-la-espriella-lo-que-opinan-los-expertos-3563763",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T20:33:23-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Doble nacionalidad de Abelardo de la Espriella no lo inhabilita para ser presidente, dice abogado Mauricio Gaona: 'La Constitución está escrita'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/doble-nacionalidad-de-abelardo-de-la-espriella-no-lo-inhabilita-para-ser-presidente-dice-abogado-mauricio-gaona-la-constitucion-esta-escrita-3563784",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T20:23:30-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así funcionarán las mesas de justicia en la segunda vuelta: reciben denuncias el día de las elecciones y hacen seguimiento en tiempo real",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-funcionaran-las-mesas-de-justicia-en-la-segunda-vuelta-reciben-denuncias-el-dia-de-las-elecciones-y-hacen-seguimiento-en-tiempo-real-3563775",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T19:36:21-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Juan Daniel Oviedo, exfórmula vicepresidencial de Paloma Valencia, se reunió con el expresidente Álvaro Uribe",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/juan-daniel-oviedo-exformula-vicepresidencial-de-paloma-valencia-se-reunio-con-el-expresidente-alvaro-uribe-3563749",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T18:26:51-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Los votos en Montería y Kennedy, lugares donde crecieron Abelardo de la Espriella e Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-votos-en-monteria-y-kennedy-lugares-donde-crecieron-abelardo-de-la-espriella-e-ivan-cepeda-3563292",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T18:08:19-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "A diez días de la segunda vuelta, Cepeda publica su plan de gobierno",
-      "link": "https://www.lasillavacia.com/en-vivo/a-diez-dias-para-la-segunda-vuelta-cepeda-publica-su-plan-de-gobierno/",
+      "title": "ELN no publicó comunicado respaldando a Iván Cepeda, imagen es falsa ",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/eln-no-publico-comunicado-respaldando-a-ivan-cepeda-imagen-es-falsa/",
       "source": "La Silla Vacía",
-      "pubDate": "Thu, 11 Jun 2026 22:42:40 +0000",
+      "pubDate": "Fri, 12 Jun 2026 15:20:28 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.258% Keiko Fujimori amplía su ventaja sobre Roberto Sánchez ",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 15:17:36 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "La Registraduría aclaró si quienes fueron jurados de votación tendrán que repetir su función en la segunda vuelta",
+      "link": "https://www.infobae.com/colombia/2026/06/12/la-registraduria-aclaro-si-quienes-fueron-jurados-de-votacion-tendran-que-repetir-su-funcion-en-la-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 15:00:34 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Gustavo Petro e Iván Cepeda dejarán al país sin energía, aseguró Álvaro Uribe, ante la llegada del fenómeno de El Niño: “Pero no les importa”",
+      "link": "https://www.infobae.com/colombia/2026/06/12/alvaro-uribe-apunto-contra-gustavo-petro-e-ivan-cepeda-ante-posibles-apagones-por-el-fenomeno-de-el-nino-no-les-importa/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 15:00:02 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "La campaña presidencial de Iván Cepeda anuncia transformaciones sociales y económicas en un nuevo plan de gobierno",
+      "link": "https://www.infobae.com/colombia/2026/06/12/la-campana-presidencial-de-ivan-cepeda-anuncia-transformaciones-sociales-y-economicas-en-un-nuevo-plan-de-gobierno/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 14:55:09 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Invamer no realizará encuestas para la segunda vuelta presidencial: habría sido ‘víctima’ de nueva ley ",
+      "link": "https://www.infobae.com/colombia/2026/06/12/la-segunda-vuelta-de-elecciones-presidenciales-en-colombia-no-tendra-encuesta-realizada-por-invamer-como-era-costumbre/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 14:51:24 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Así se procesan las actas observadas de las Elecciones 2026: el mecanismo que puede definir al próximo presidente del Perú",
+      "link": "https://www.infobae.com/peru/2026/06/12/asi-se-procesan-las-actas-observadas-de-las-elecciones-2026-el-mecanismo-que-puede-definir-al-proximo-presidente-del-peru/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 14:49:45 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Fujimori mantiene ventaja de 1.303 votos sobre Sánchez en el balotaje presidencial en Perú",
+      "link": "https://www.infobae.com/america/agencias/2026/06/12/fujimori-mantiene-ventaja-de-1303-votos-sobre-sanchez-en-el-balotaje-presidencial-en-peru/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 14:45:58 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iván Cepeda hizo cambios 'extremos' en su plan de gobierno: ¿por qué tuvo que borrar la palabra 'constituyente'?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-hizo-cambios-extremos-en-su-plan-de-gobierno-por-que-tuvo-que-borrar-la-palabra-constituyente-3563812",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T09:44:34-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Expresidente de Bolivia expresó su apoyo a Abelardo de la Espriella a pocos días de la segunda vuelta presidencial en Colombia     ",
+      "link": "https://www.infobae.com/colombia/2026/06/12/expresidente-de-bolivia-expreso-su-apoyo-a-abelardo-de-la-espriella-de-cara-a-la-segunda-vuelta-presidencial-en-colombia/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 14:43:03 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Invamer no publicará encuestas presidenciales para segunda vuelta",
+      "link": "https://www.lasillavacia.com/en-vivo/invamer-no-publicara-encuestas-presidenciales-para-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 12 Jun 2026 14:21:01 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Consejo de Estado deja en firme candidatura de Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-deja-en-firme-candidatura-de-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 12 Jun 2026 13:18:30 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     }
   ]
 }
