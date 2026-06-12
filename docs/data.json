@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T04:21:15.009Z",
+  "updatedAt": "2026-06-12T10:21:03.102Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 47,
+      "trendsScore": 48,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 592342,
       "finalScore": 56,
       "momentum": {
-        "value": -1.8,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.7
@@ -39,13 +39,29 @@
       "youtubeViews": 260247,
       "finalScore": 59,
       "momentum": {
-        "value": -1.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 51.3
     }
   ],
   "articles": [
+    {
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: el Consejo de Estado resolvió el debate judicial sobre presunta inhabilidad de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 10:04:33 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elecciones presidenciales en Colombia 2026: siga el minuto a minuto de la segunda vuelta presidencial en el país",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-siga-el-minuto-a-minuto-de-la-segunda-vuelta-presidencial-en-colombia-3563823",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T04:20:15-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "‘Fractura es étnico-racial y también de edades’: Andrés Felipe Arias / La entrevista de María Isabel Rueda",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fractura-es-etnico-racial-y-tambien-de-edades-andres-felipe-arias-la-entrevista-de-maria-isabel-rueda-3563809",
@@ -99,14 +115,6 @@
       "link": "https://www.lasillavacia.com/en-vivo/a-diez-dias-para-la-segunda-vuelta-cepeda-publica-su-plan-de-gobierno/",
       "source": "La Silla Vacía",
       "pubDate": "Thu, 11 Jun 2026 22:42:40 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Se puede cambiar el puesto de votación para la segunda vuelta presidencial de 2026? Esto es lo que dice la Registraduría Nacional",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/se-puede-cambiar-el-puesto-de-votacion-para-la-segunda-vuelta-presidencial-de-2026-esto-es-lo-que-dice-la-registraduria-nacional-3563658",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-11T17:39:12-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
