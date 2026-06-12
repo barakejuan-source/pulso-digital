@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T21:51:54.950Z",
+  "updatedAt": "2026-06-12T23:22:38.382Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 47,
+      "trendsScore": 48,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -47,18 +47,58 @@
   ],
   "articles": [
     {
-      "title": "Agmeth Escaf respondió a la suspensión de la Procuraduría tras fuertes señalamientos contra Abelardo de la Espriella: “No me retracto”",
-      "link": "https://www.infobae.com/colombia/2026/06/12/agmeth-escaf-respondio-a-la-suspension-de-la-procuraduria-tras-fuertes-senalamientos-contra-abelardo-de-la-espriella-no-me-retracto/",
+      "title": "Senador Carlos Fernando Motoa anunció seguimiento a ministros por presunto favorecimiento a campaña de Iván Cepeda: “La democracia se respeta”",
+      "link": "https://www.infobae.com/colombia/2026/06/12/senador-carlos-fernando-motoa-anuncio-seguimiento-a-ministros-por-presunto-favorecimiento-a-campana-de-ivan-cepeda-la-democracia-se-respeta/",
       "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 21:48:02 +0000",
+      "pubDate": "Fri, 12 Jun 2026 23:17:24 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Agmeth Escaf, congresista del Pacto Histórico, reaccionó a la suspensión de la Procuraduría por frase sobre Abelardo de la Espriella: 'Sorprendente'",
+      "link": "https://www.eltiempo.com/politica/congreso/agmeth-escaf-congresista-del-pacto-historico-reacciono-a-la-suspension-de-la-procuraduria-por-frase-sobre-abelardo-de-la-espriella-sorprendente-3564030",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T17:58:04-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Demócratas acusan a Trump de intentar influir en el balotaje presidencial en Colombia",
-      "link": "https://www.infobae.com/america/agencias/2026/06/12/democratas-acusan-a-trump-de-intentar-influir-en-el-balotaje-presidencial-en-colombia/",
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: continúa la polémica alrededor de la campaña de Abelardo de la Espriella, Corte Suprema se pronunció",
+      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 21:45:19 +0000",
+      "pubDate": "Fri, 12 Jun 2026 22:49:51 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Voto extranjero 2026: país por país, dónde ganó Keiko Fujimori y dónde se impuso Roberto Sánchez en segunda vuelta",
+      "link": "https://www.infobae.com/peru/2026/06/12/voto-extranjero-2026-pais-por-pais-donde-gano-keiko-fujimori-y-donde-se-impuso-roberto-sanchez-en-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 22:40:57 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Ministro de Defensa colombiano alerta sobre disturbios tras resultados de segunda vuelta",
+      "link": "https://www.infobae.com/america/agencias/2026/06/12/ministro-de-defensa-colombiano-alerta-sobre-disturbios-tras-resultados-de-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 22:31:21 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.295 % Keiko Fujimori amplía su ventaja sobre Roberto Sánchez ",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 22:20:45 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Senador Carlos Fernando Motoa solicita agenda del ministro Armando Benedetti para vigilar posible intervención en política",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/senador-carlos-fernando-motoa-solicita-agenda-del-ministro-armando-benedetti-para-vigilar-posible-intervencion-en-politica-3564021",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T16:57:31-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -69,22 +109,6 @@
       "pubDate": "2026-06-12T16:41:12-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "José Manuel Restrepo celebró decisión de la Corte Suprema de suspender restricciones a la campaña de Abelardo de la Espriella: “La justicia está frenando los abusos”",
-      "link": "https://www.infobae.com/colombia/2026/06/12/jose-manuel-restrepo-celebro-decision-de-la-corte-suprema-de-suspender-restricciones-a-la-campana-de-abelardo-de-la-espriella-la-justicia-esta-frenando-los-abusos/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 21:18:40 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: continúa la polémica alrededor de la campaña de Abelardo de la Espriella, Corte Suprema se pronunció",
-      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 21:17:24 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Mindefensa advierte posibles disturbios violentos tras segunda vuelta",
@@ -115,14 +139,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-cerrara-su-campana-presidencial-de-segunda-vuelta-en-la-plaza-la-santamaria-en-bogota-3563912",
       "source": "El Tiempo",
       "pubDate": "2026-06-12T11:36:38-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda hizo cambios 'extremos' en su plan de gobierno: ¿por qué tuvo que borrar la palabra 'constituyente'?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-hizo-cambios-extremos-en-su-plan-de-gobierno-por-que-tuvo-que-borrar-la-palabra-constituyente-3563812",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T10:11:38-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
