@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T15:24:26.705Z",
+  "updatedAt": "2026-06-12T18:11:41.676Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,70 @@
   ],
   "articles": [
     {
+      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.27 % Keiko Fujimori amplía su ventaja sobre Roberto Sánchez ",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 18:00:23 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Álvaro Uribe hizo grave denuncia de cara a la segunda vuelta electoral entre De la Espriella y Cepeda: “El ELN decomisó cédulas”",
+      "link": "https://www.infobae.com/colombia/2026/06/12/alvaro-uribe-hizo-grave-denuncia-de-cara-a-la-segunda-vuelta-electoral-entre-de-la-espriella-y-cepeda-el-eln-decomiso-cedulas/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 17:57:10 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: continúa la polémica alrededor de la campaña de Abelardo de la Espriella, Corte Suprema se pronunció",
+      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 17:54:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "#ElFiltro: José Manuel Restrepo, fórmula vicepresidencial de Abelardo de la Espriella, no propuso el cobro de peajes a motos en Colombia",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-jose-manuel-restrepo-formula-vicepresidencial-de-abelardo-de-la-espriella-no-propuso-el-cobro-de-peajes-a-motos-en-colombia-3563928",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T12:48:14-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Keiko Fujimori prevé una semana más para definir al ganador de la segunda vuelta en Perú",
+      "link": "https://www.infobae.com/america/agencias/2026/06/12/keiko-fujimori-preve-una-semana-mas-para-definir-al-ganador-de-la-segunda-vuelta-en-peru/",
+      "source": "Infobae",
+      "pubDate": "Fri, 12 Jun 2026 17:47:49 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones en Colombia 2026: suspenden decisión del Tribunal de Bogotá que ordenaba a Abelardo de la Espriella no usar símbolos patrios",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-2026-siga-el-minuto-a-minuto-de-la-segunda-vuelta-presidencial-en-colombia-3563823",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T12:38:06-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda cerrará su campaña presidencial de segunda vuelta en la Plaza La Santamaría, en Bogotá",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-cerrara-su-campana-presidencial-de-segunda-vuelta-en-la-plaza-la-santamaria-en-bogota-3563912",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T11:36:38-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "‘Fractura es étnico-racial y también de edades’: Andrés Felipe Arias / La entrevista de María Isabel Rueda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fractura-es-etnico-racial-y-tambien-de-edades-andres-felipe-arias-la-entrevista-de-maria-isabel-rueda-3563809",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T10:25:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "ELN no publicó comunicado respaldando a Iván Cepeda, imagen es falsa ",
       "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/eln-no-publico-comunicado-respaldando-a-ivan-cepeda-imagen-es-falsa/",
       "source": "La Silla Vacía",
@@ -55,76 +119,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.258% Keiko Fujimori amplía su ventaja sobre Roberto Sánchez ",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 15:17:36 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "La Registraduría aclaró si quienes fueron jurados de votación tendrán que repetir su función en la segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/06/12/la-registraduria-aclaro-si-quienes-fueron-jurados-de-votacion-tendran-que-repetir-su-funcion-en-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 15:00:34 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Gustavo Petro e Iván Cepeda dejarán al país sin energía, aseguró Álvaro Uribe, ante la llegada del fenómeno de El Niño: “Pero no les importa”",
-      "link": "https://www.infobae.com/colombia/2026/06/12/alvaro-uribe-apunto-contra-gustavo-petro-e-ivan-cepeda-ante-posibles-apagones-por-el-fenomeno-de-el-nino-no-les-importa/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 15:00:02 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "La campaña presidencial de Iván Cepeda anuncia transformaciones sociales y económicas en un nuevo plan de gobierno",
-      "link": "https://www.infobae.com/colombia/2026/06/12/la-campana-presidencial-de-ivan-cepeda-anuncia-transformaciones-sociales-y-economicas-en-un-nuevo-plan-de-gobierno/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 14:55:09 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Invamer no realizará encuestas para la segunda vuelta presidencial: habría sido ‘víctima’ de nueva ley ",
-      "link": "https://www.infobae.com/colombia/2026/06/12/la-segunda-vuelta-de-elecciones-presidenciales-en-colombia-no-tendra-encuesta-realizada-por-invamer-como-era-costumbre/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 14:51:24 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Así se procesan las actas observadas de las Elecciones 2026: el mecanismo que puede definir al próximo presidente del Perú",
-      "link": "https://www.infobae.com/peru/2026/06/12/asi-se-procesan-las-actas-observadas-de-las-elecciones-2026-el-mecanismo-que-puede-definir-al-proximo-presidente-del-peru/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 14:49:45 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Fujimori mantiene ventaja de 1.303 votos sobre Sánchez en el balotaje presidencial en Perú",
-      "link": "https://www.infobae.com/america/agencias/2026/06/12/fujimori-mantiene-ventaja-de-1303-votos-sobre-sanchez-en-el-balotaje-presidencial-en-peru/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 14:45:58 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Iván Cepeda hizo cambios 'extremos' en su plan de gobierno: ¿por qué tuvo que borrar la palabra 'constituyente'?",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-hizo-cambios-extremos-en-su-plan-de-gobierno-por-que-tuvo-que-borrar-la-palabra-constituyente-3563812",
       "source": "El Tiempo",
-      "pubDate": "2026-06-12T09:44:34-05:00",
+      "pubDate": "2026-06-12T10:11:38-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Expresidente de Bolivia expresó su apoyo a Abelardo de la Espriella a pocos días de la segunda vuelta presidencial en Colombia     ",
-      "link": "https://www.infobae.com/colombia/2026/06/12/expresidente-de-bolivia-expreso-su-apoyo-a-abelardo-de-la-espriella-de-cara-a-la-segunda-vuelta-presidencial-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 14:43:03 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Invamer no publicará encuestas presidenciales para segunda vuelta",
