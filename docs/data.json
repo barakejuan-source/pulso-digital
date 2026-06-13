@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T11:57:32.229Z",
+  "updatedAt": "2026-06-13T14:12:52.429Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 592342,
       "finalScore": 54,
       "momentum": {
-        "value": -1.8,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 47.8
@@ -47,12 +47,60 @@
   ],
   "articles": [
     {
-      "title": "Abelardo De la Espriella supera a Iván Cepeda en la recta final de la segunda vuelta presidencial, según encuesta de Guarumo y Ecoanalítica ",
-      "link": "https://www.infobae.com/colombia/2026/06/13/abelardo-de-la-espriella-supera-a-ivan-cepeda-en-la-recta-final-de-la-segunda-vuelta-presidencial-segun-encuesta-de-guarumo-y-ecoanalitica/",
+      "title": "Atlas Intel de segunda vuelta: Sigue ventaja de 8 puntos, pero con más indecisos",
+      "link": "https://www.lasillavacia.com/en-vivo/atlas-intel-de-segunda-vuelta-sigue-ventaja-de-8-puntos-pero-con-mas-indecisos/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 13 Jun 2026 14:03:55 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Campaña del candidato presidencial Abelardo de la Espriella emitió alerta por existencia de estafas a su nombre: 'Ninguna persona'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/campana-presidencial-de-abelardo-de-la-espriella-emitio-una-alerta-urgente-en-la-que-denuncia-la-existencia-de-estafas-a-su-nombre-ninguna-persona-3564085",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-13T08:48:57-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: continúa la polémica alrededor de la campaña de Abelardo de la Espriella, Corte Suprema se pronunció ",
+      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 11:29:13 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Sat, 13 Jun 2026 13:46:59 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Aumentó el índice de aprobación de Gustavo Petro a falta de una semana para la segunda vuelta presidencial, según Guarumo",
+      "link": "https://www.infobae.com/colombia/2026/06/13/aumento-el-indice-de-aprobacion-de-gustavo-petro-a-falta-de-una-semana-para-la-segunda-vuelta-presidencial-segiun-guarumo/",
+      "source": "Infobae",
+      "pubDate": "Sat, 13 Jun 2026 13:31:35 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.327 % ONPE termina el conteo de actas quedando pendientes las enviadas al JEE ",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
+      "source": "Infobae",
+      "pubDate": "Sat, 13 Jun 2026 13:28:52 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Alfredo Torres confirma que hay data que asegura que Keiko Fujimori ganaría las elecciones 2026 y envía mensaje a Roberto Sánchez: “Yo no soy ONPE ni JNE”",
+      "link": "https://www.infobae.com/peru/2026/06/13/alfredo-torres-confirma-que-hay-data-que-asegura-que-keiko-fujimori-ganaria-las-elecciones-2026-y-envia-mensaje-a-roberto-sanchez-yo-no-soy-onpe-ni-jne/",
+      "source": "Infobae",
+      "pubDate": "Sat, 13 Jun 2026 13:11:18 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "ONPE 100% de actas procesadas: ¿Qué falta para la confirmación de los resultados electorales?",
+      "link": "https://www.infobae.com/peru/2026/06/13/onpe-100-de-actas-procesadas-que-falta-para-la-confirmacion-de-los-resultados-electorales/",
+      "source": "Infobae",
+      "pubDate": "Sat, 13 Jun 2026 13:09:30 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Encuesta final de Guarumo y Ecoanalítica para segunda vuelta presidencial: Abelardo De la Espriella, 52,6 %; Iván Cepeda, 45 %",
@@ -69,14 +117,6 @@
       "pubDate": "2026-06-13T03:11:19-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Campaña del candidato presidencial Abelardo de la Espriella emitió alerta por existencia de estafas a su nombre: 'Ninguna persona'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/campana-presidencial-de-abelardo-de-la-espriella-emitio-una-alerta-urgente-en-la-que-denuncia-la-existencia-de-estafas-a-su-nombre-ninguna-persona-3564085",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T23:45:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Balotaje en Perú: ¿en qué va el conteo, qué falta definir y hacia dónde se inclina la balanza?",
@@ -101,38 +141,6 @@
       "pubDate": "2026-06-12T21:34:26-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El registrador Hernán Penagos llama a los candidatos presidenciales a respetar los resultados de la segunda vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/el-registrador-hernan-penagos-llama-a-los-candidatos-presidenciales-a-respetar-los-resultados-de-la-segunda-vuelta-3564045",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T19:12:13-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "#ElFiltro: Foto de futbolistas de la Selección Colombia haciendo gesto de apoyo a Abelardo de la Espriella se hizo con Inteligencia Artificial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-foto-de-futbolistas-de-la-seleccion-colombia-haciendo-gesto-de-apoyo-a-abelardo-de-la-espriella-se-hizo-con-inteligencia-artificial-3564039",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T18:28:01-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Agmeth Escaf, congresista del Pacto Histórico, reaccionó a la suspensión de la Procuraduría por frase sobre Abelardo de la Espriella: 'Sorprendente'",
-      "link": "https://www.eltiempo.com/politica/congreso/agmeth-escaf-congresista-del-pacto-historico-reacciono-a-la-suspension-de-la-procuraduria-por-frase-sobre-abelardo-de-la-espriella-sorprendente-3564030",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T18:25:05-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Senador Carlos Fernando Motoa solicita agenda del ministro Armando Benedetti para vigilar posible intervención en política",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/senador-carlos-fernando-motoa-solicita-agenda-del-ministro-armando-benedetti-para-vigilar-posible-intervencion-en-politica-3564021",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T16:57:31-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
