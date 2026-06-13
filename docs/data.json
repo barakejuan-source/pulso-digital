@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T17:27:42.269Z",
+  "updatedAt": "2026-06-13T19:43:34.011Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 44,
+      "trendsScore": 45,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 592342,
       "finalScore": 55,
       "momentum": {
-        "value": 1.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.2
@@ -47,26 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Actriz Karen Lizardi denunció amenazas por no apoyar a Abelardo de la Espriella: “Tengo que votar por el candidato que dice ‘Firme por la Patria’”",
-      "link": "https://www.infobae.com/colombia/2026/06/13/actriz-karen-lizardi-denuncio-amenazas-por-no-apoyar-a-abelardo-de-la-espriella-tengo-que-votar-por-el-candidato-que-dice-firme-por-la-patria/",
+      "title": "Iván Cepeda cierra su campaña presidencial en Bogotá y pide aumentar el respaldo para segunda vuelta: 'Estamos muy orgullosos de lo que hemos hecho'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-cierra-su-campana-presidencial-en-bogota-y-pide-aumentar-el-respaldo-para-segunda-vuelta-estamos-muy-orgullosos-de-lo-que-hemos-hecho-3564141",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-13T13:47:21-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella se realizó exámenes médicos antes de la segunda vuelta presidencial: el candidato propuso que debería ser ley de la República",
+      "link": "https://www.infobae.com/colombia/2026/06/13/abelardo-de-la-espriella-se-realizo-examenes-medicos-antes-de-la-segunda-vuelta-presidencial-el-candidato-propuso-que-deberia-ser-ley-de-la-republica/",
       "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 17:21:16 +0000",
+      "pubDate": "Sat, 13 Jun 2026 18:37:29 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.335 % ONPE termina el conteo de actas quedando pendientes las enviadas al JEE ",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
-      "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 17:20:32 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Iván Cepeda fue recibido con abucheos en el aeropuerto de Bucaramanga: viajó para dar un discurso en contra del ‘fracking’",
-      "link": "https://www.infobae.com/colombia/2026/06/13/ivan-cepeda-fue-recibido-con-abucheos-en-el-aeropuerto-de-bucaramanga-viajo-para-dar-un-discurso-en-contra-del-fracking/",
-      "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 16:17:52 +0000",
+      "title": "Elecciones Colombia 2026: última hora de la segunda vuelta entre Abelardo de la Espriella e Iván Cepeda este 21 de junio",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-ultima-hora-de-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-este-21-de-junio-3564098",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-13T13:32:40-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -103,14 +103,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Elecciones Colombia 2026: última hora de la segunda vuelta entre Abelardo de la Espriella e Iván Cepeda este 21 de junio",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-ultima-hora-de-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-este-21-de-junio-3564098",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-13T03:11:19-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "Balotaje en Perú: ¿en qué va el conteo, qué falta definir y hacia dónde se inclina la balanza?",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260613-balotaje-en-per%C3%BA-en-qu%C3%A9-va-el-conteo-qu%C3%A9-falta-definir-y-hacia-d%C3%B3nde-se-inclina-la-balanza",
       "source": "France 24",
@@ -141,6 +133,14 @@
       "pubDate": "2026-06-12T19:12:13-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "#ElFiltro: Foto de futbolistas de la Selección Colombia haciendo gesto de apoyo a Abelardo de la Espriella se hizo con Inteligencia Artificial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-foto-de-futbolistas-de-la-seleccion-colombia-haciendo-gesto-de-apoyo-a-abelardo-de-la-espriella-se-hizo-con-inteligencia-artificial-3564039",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T18:28:01-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     }
   ]
 }
