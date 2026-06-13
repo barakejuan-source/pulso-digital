@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-13T21:21:47.519Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-13T23:11:16.358Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,26 +47,42 @@
   ],
   "articles": [
     {
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Iván Cepeda realizó su cierre de campaña en Bogotá         ",
+      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Sat, 13 Jun 2026 22:40:50 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
       "title": "Histórica definición electoral en Perú EN VIVO: Al 98.350 % ONPE termina el conteo de actas quedando pendientes las enviadas al JEE ",
       "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 21:05:24 +0000",
+      "pubDate": "Sat, 13 Jun 2026 22:29:44 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Ernesto Samper arremetió contra Trump y rechazó supuestas presiones para apoyar a Abelardo de la Espriella: “No necesito visa para ir a Chaparral”",
-      "link": "https://www.infobae.com/colombia/2026/06/13/ernesto-samper-arremetio-contra-trump-y-rechazo-supuestas-presiones-para-apoyar-a-abelardo-de-la-espriella-no-necesito-visa-para-ir-a-chaparral/",
+      "title": "Colectivo de abogados calificaron de “regresiva” la propuesta de la campaña de Abelardo de la Espriella de eliminar impuestos saludables",
+      "link": "https://www.infobae.com/colombia/2026/06/13/colectivo-de-abogados-calificaron-de-regresiva-la-propuesta-de-la-campana-de-abelardo-de-la-espriella-de-eliminar-impuestos-saludables/",
       "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 20:49:28 +0000",
+      "pubDate": "Sat, 13 Jun 2026 22:15:16 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Iván Cepeda realizó su cierre de campaña en Bogotá      ",
-      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
+      "title": "Perfil a Iván Cepeda, la verdad como poder",
+      "link": "https://www.lasillavacia.com/opinion/perfil-a-ivan-cepeda-la-verdad-como-poder/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 13 Jun 2026 22:00:00 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Críticas a Iván Cepeda por regalar prendas de la Selección Colombia tras criticar a De la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/06/13/criticas-a-ivan-cepeda-por-regalar-prendas-de-la-seleccion-colombia-tras-criticar-a-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 20:38:53 +0000",
+      "pubDate": "Sat, 13 Jun 2026 21:49:24 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -125,22 +141,6 @@
       "pubDate": "2026-06-13T08:48:57-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Balotaje en Perú: ¿en qué va el conteo, qué falta definir y hacia dónde se inclina la balanza?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260613-balotaje-en-per%C3%BA-en-qu%C3%A9-va-el-conteo-qu%C3%A9-falta-definir-y-hacia-d%C3%B3nde-se-inclina-la-balanza",
-      "source": "France 24",
-      "pubDate": "Sat, 13 Jun 2026 04:00:06 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "El giro de la clase media en Bogotá: así se votó en la ciudad",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/el-giro-de-la-clase-media-en-bogota-asi-se-voto-en-la-ciudad-3564081",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T21:58:06-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
