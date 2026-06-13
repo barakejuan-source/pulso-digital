@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T09:22:55.844Z",
+  "updatedAt": "2026-06-13T11:57:32.229Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 44,
+      "trendsScore": 43,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 55,
+      "finalScore": 54,
       "momentum": {
         "value": -1.8,
         "direction": "flat"
       },
-      "probability": 48.2
+      "probability": 47.8
     },
     {
       "id": "abelardo_espriella",
@@ -42,41 +42,25 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.8
+      "probability": 52.2
     }
   ],
   "articles": [
     {
-      "title": "ONPE al 98.327%, región por región: Así va el voto de Keiko Fujimori y Roberto Sánchez en esta segunda vuelta",
-      "link": "https://www.infobae.com/peru/2026/06/07/onpe-resultados-en-vivo-por-regiones-mapa-electoral-de-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
+      "title": "Abelardo De la Espriella supera a Iván Cepeda en la recta final de la segunda vuelta presidencial, según encuesta de Guarumo y Ecoanalítica ",
+      "link": "https://www.infobae.com/colombia/2026/06/13/abelardo-de-la-espriella-supera-a-ivan-cepeda-en-la-recta-final-de-la-segunda-vuelta-presidencial-segun-encuesta-de-guarumo-y-ecoanalitica/",
       "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 08:34:39 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Sat, 13 Jun 2026 11:29:13 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "Keiko Fujimori incrementa su ventaja sobre Roberto Sánchez en la fase final del escrutinio, reporta la ONPE",
-      "link": "https://www.infobae.com/peru/2026/06/11/segunda-vuelta-cuanto-es-la-minima-diferencia-de-votos-entre-roberto-sanchez-y-keiko-fujimori-segun-onpe/",
-      "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 08:31:04 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.327 % ONPE termina el conteo de actas quedando pendientes las enviadas al JEE ",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
-      "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 08:27:45 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Resultados ONPE de Keiko Fujimori EN VIVO: lideresa de Fuerza Popular mantiene ventaja al 98% del conteo oficial",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-de-keiko-fujimori-en-vivo-conteo-oficial-de-las-votaciones-de-la-segunda-vuelta-del-7-de-junio/",
-      "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 08:22:01 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Encuesta final de Guarumo y Ecoanalítica para segunda vuelta presidencial: Abelardo De la Espriella, 52,6 %; Iván Cepeda, 45 %",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/encuesta-final-de-guarumo-y-ecoanalitica-para-segunda-vuelta-presidencial-abelardo-de-la-espriella-52-6-ivan-cepeda-3564095",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-13T05:13:19-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Elecciones Colombia 2026: última hora de la segunda vuelta entre Abelardo de la Espriella e Iván Cepeda este 21 de junio",
@@ -85,14 +69,6 @@
       "pubDate": "2026-06-13T03:11:19-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Mindefensa alerta por posibles disturbios tras la segunda vuelta y anticipa medidas por información de inteligencia",
-      "link": "https://www.infobae.com/colombia/2026/06/13/mindefensa-alerta-por-posibles-disturbios-tras-la-segunda-vuelta-y-anticipa-medidas-por-informacion-de-inteligencia/",
-      "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 07:40:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Campaña del candidato presidencial Abelardo de la Espriella emitió alerta por existencia de estafas a su nombre: 'Ninguna persona'",
@@ -141,6 +117,22 @@
       "pubDate": "2026-06-12T18:28:01-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Agmeth Escaf, congresista del Pacto Histórico, reaccionó a la suspensión de la Procuraduría por frase sobre Abelardo de la Espriella: 'Sorprendente'",
+      "link": "https://www.eltiempo.com/politica/congreso/agmeth-escaf-congresista-del-pacto-historico-reacciono-a-la-suspension-de-la-procuraduria-por-frase-sobre-abelardo-de-la-espriella-sorprendente-3564030",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T18:25:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Senador Carlos Fernando Motoa solicita agenda del ministro Armando Benedetti para vigilar posible intervención en política",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/senador-carlos-fernando-motoa-solicita-agenda-del-ministro-armando-benedetti-para-vigilar-posible-intervencion-en-politica-3564021",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T16:57:31-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
