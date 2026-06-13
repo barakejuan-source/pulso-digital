@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-12T23:22:38.382Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-13T04:09:33.865Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Senador Carlos Fernando Motoa anunció seguimiento a ministros por presunto favorecimiento a campaña de Iván Cepeda: “La democracia se respeta”",
-      "link": "https://www.infobae.com/colombia/2026/06/12/senador-carlos-fernando-motoa-anuncio-seguimiento-a-ministros-por-presunto-favorecimiento-a-campana-de-ivan-cepeda-la-democracia-se-respeta/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 23:17:24 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Balotaje en Perú: ¿en qué va el conteo, qué falta definir y hacia dónde se inclina la balanza?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260613-balotaje-en-per%C3%BA-en-qu%C3%A9-va-el-conteo-qu%C3%A9-falta-definir-y-hacia-d%C3%B3nde-se-inclina-la-balanza",
+      "source": "France 24",
+      "pubDate": "Sat, 13 Jun 2026 04:00:06 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Agmeth Escaf, congresista del Pacto Histórico, reaccionó a la suspensión de la Procuraduría por frase sobre Abelardo de la Espriella: 'Sorprendente'",
-      "link": "https://www.eltiempo.com/politica/congreso/agmeth-escaf-congresista-del-pacto-historico-reacciono-a-la-suspension-de-la-procuraduria-por-frase-sobre-abelardo-de-la-espriella-sorprendente-3564030",
+      "title": "Campaña presidencial de Abelardo de la Espriella emitió una alerta urgente en la que denuncia la existencia de estafas a su nombre: 'Ninguna persona'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/campana-presidencial-de-abelardo-de-la-espriella-emitio-una-alerta-urgente-en-la-que-denuncia-la-existencia-de-estafas-a-su-nombre-ninguna-persona-3564085",
       "source": "El Tiempo",
-      "pubDate": "2026-06-12T17:58:04-05:00",
+      "pubDate": "2026-06-12T22:37:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,33 +66,49 @@
       "title": "Elecciones presidenciales de Colombia 2026 en VIVO: continúa la polémica alrededor de la campaña de Abelardo de la Espriella, Corte Suprema se pronunció",
       "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 22:49:51 +0000",
+      "pubDate": "Sat, 13 Jun 2026 03:02:25 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Voto extranjero 2026: país por país, dónde ganó Keiko Fujimori y dónde se impuso Roberto Sánchez en segunda vuelta",
-      "link": "https://www.infobae.com/peru/2026/06/12/voto-extranjero-2026-pais-por-pais-donde-gano-keiko-fujimori-y-donde-se-impuso-roberto-sanchez-en-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 22:40:57 +0000",
+      "title": "El giro de la clase media en Bogotá: así se votó en la ciudad",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/el-giro-de-la-clase-media-en-bogota-asi-se-voto-en-la-ciudad-3564081",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T21:58:06-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Ministro de Defensa colombiano alerta sobre disturbios tras resultados de segunda vuelta",
-      "link": "https://www.infobae.com/america/agencias/2026/06/12/ministro-de-defensa-colombiano-alerta-sobre-disturbios-tras-resultados-de-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 22:31:21 +0000",
+      "title": "Colectivo de abogados cuestiona propuesta de candidatura de Abelardo de la Espriella de eliminar impuestos saludables",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cajar-rechaza-propuesta-de-candidatura-de-abelardo-de-la-espriella-de-eliminar-impuestos-saludables-pone-en-riesgo-la-salud-publica-3564046",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T21:34:26-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El registrador Hernán Penagos llama a los candidatos presidenciales a respetar los resultados de la segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/el-registrador-hernan-penagos-llama-a-los-candidatos-presidenciales-a-respetar-los-resultados-de-la-segunda-vuelta-3564045",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T19:12:13-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.295 % Keiko Fujimori amplía su ventaja sobre Roberto Sánchez ",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
-      "source": "Infobae",
-      "pubDate": "Fri, 12 Jun 2026 22:20:45 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "#ElFiltro: Foto de futbolistas de la Selección Colombia haciendo gesto de apoyo a Abelardo de la Espriella se hizo con Inteligencia Artificial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-foto-de-futbolistas-de-la-seleccion-colombia-haciendo-gesto-de-apoyo-a-abelardo-de-la-espriella-se-hizo-con-inteligencia-artificial-3564039",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T18:28:01-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Agmeth Escaf, congresista del Pacto Histórico, reaccionó a la suspensión de la Procuraduría por frase sobre Abelardo de la Espriella: 'Sorprendente'",
+      "link": "https://www.eltiempo.com/politica/congreso/agmeth-escaf-congresista-del-pacto-historico-reacciono-a-la-suspension-de-la-procuraduria-por-frase-sobre-abelardo-de-la-espriella-sorprendente-3564030",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-12T18:25:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Senador Carlos Fernando Motoa solicita agenda del ministro Armando Benedetti para vigilar posible intervención en política",
@@ -107,38 +123,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/en-el-catatumbo-se-voto-igual-que-en-la-primera-vuelta-presidencial-de-2022-la-derecha-gano-nueve-municipios-y-la-izquierda-cuatro-3563960",
       "source": "El Tiempo",
       "pubDate": "2026-06-12T16:41:12-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Mindefensa advierte posibles disturbios violentos tras segunda vuelta",
-      "link": "https://www.lasillavacia.com/en-vivo/mindefensa-advierte-posibles-disturbios-violentos-tras-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 12 Jun 2026 19:33:26 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Perú: Fujimori mantiene leve ventaja sobre Sánchez; candidato izquierdista pide revisión total de las votaciones",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260612-per%C3%BA-fujimori-mantiene-leve-ventaja-sobre-s%C3%A1nchez-candidato-izquierdista-pide-revisi%C3%B3n-total-de-las-votaciones",
-      "source": "France 24",
-      "pubDate": "Fri, 12 Jun 2026 18:32:11 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "#ElFiltro: José Manuel Restrepo, fórmula vicepresidencial de Abelardo de la Espriella, no propuso el cobro de peajes a motos en Colombia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-jose-manuel-restrepo-formula-vicepresidencial-de-abelardo-de-la-espriella-no-propuso-el-cobro-de-peajes-a-motos-en-colombia-3563928",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T12:48:14-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda cerrará su campaña presidencial de segunda vuelta en la Plaza La Santamaría, en Bogotá",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-cerrara-su-campana-presidencial-de-segunda-vuelta-en-la-plaza-la-santamaria-en-bogota-3563912",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T11:36:38-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
