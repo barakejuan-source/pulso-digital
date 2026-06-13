@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-13T19:43:34.011Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-13T21:21:47.519Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,20 +47,44 @@
   ],
   "articles": [
     {
+      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.350 % ONPE termina el conteo de actas quedando pendientes las enviadas al JEE ",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
+      "source": "Infobae",
+      "pubDate": "Sat, 13 Jun 2026 21:05:24 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Ernesto Samper arremetió contra Trump y rechazó supuestas presiones para apoyar a Abelardo de la Espriella: “No necesito visa para ir a Chaparral”",
+      "link": "https://www.infobae.com/colombia/2026/06/13/ernesto-samper-arremetio-contra-trump-y-rechazo-supuestas-presiones-para-apoyar-a-abelardo-de-la-espriella-no-necesito-visa-para-ir-a-chaparral/",
+      "source": "Infobae",
+      "pubDate": "Sat, 13 Jun 2026 20:49:28 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Iván Cepeda realizó su cierre de campaña en Bogotá      ",
+      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Sat, 13 Jun 2026 20:38:53 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Fue elegido jurado para la segunda vuelta? Guía de horarios y duración de las capacitaciones",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fue-elegido-jurado-para-la-segunda-vuelta-guia-de-horarios-y-duracion-de-las-capacitaciones-3564154",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-13T14:44:59-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "Iván Cepeda cierra su campaña presidencial en Bogotá y pide aumentar el respaldo para segunda vuelta: 'Estamos muy orgullosos de lo que hemos hecho'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-cierra-su-campana-presidencial-en-bogota-y-pide-aumentar-el-respaldo-para-segunda-vuelta-estamos-muy-orgullosos-de-lo-que-hemos-hecho-3564141",
       "source": "El Tiempo",
       "pubDate": "2026-06-13T13:47:21-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo de la Espriella se realizó exámenes médicos antes de la segunda vuelta presidencial: el candidato propuso que debería ser ley de la República",
-      "link": "https://www.infobae.com/colombia/2026/06/13/abelardo-de-la-espriella-se-realizo-examenes-medicos-antes-de-la-segunda-vuelta-presidencial-el-candidato-propuso-que-deberia-ser-ley-de-la-republica/",
-      "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 18:37:29 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Elecciones Colombia 2026: última hora de la segunda vuelta entre Abelardo de la Espriella e Iván Cepeda este 21 de junio",
@@ -117,30 +141,6 @@
       "pubDate": "2026-06-12T21:58:06-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Colectivo de abogados cuestiona propuesta de candidatura de Abelardo de la Espriella de eliminar impuestos saludables",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cajar-rechaza-propuesta-de-candidatura-de-abelardo-de-la-espriella-de-eliminar-impuestos-saludables-pone-en-riesgo-la-salud-publica-3564046",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T21:34:26-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El registrador Hernán Penagos llama a los candidatos presidenciales a respetar los resultados de la segunda vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/el-registrador-hernan-penagos-llama-a-los-candidatos-presidenciales-a-respetar-los-resultados-de-la-segunda-vuelta-3564045",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T19:12:13-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "#ElFiltro: Foto de futbolistas de la Selección Colombia haciendo gesto de apoyo a Abelardo de la Espriella se hizo con Inteligencia Artificial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-foto-de-futbolistas-de-la-seleccion-colombia-haciendo-gesto-de-apoyo-a-abelardo-de-la-espriella-se-hizo-con-inteligencia-artificial-3564039",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-12T18:28:01-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
