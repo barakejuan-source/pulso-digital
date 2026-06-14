@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T19:43:09.434Z",
+  "updatedAt": "2026-06-14T21:18:07.219Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 45,
+      "trendsScore": 44,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -47,28 +47,36 @@
   ],
   "articles": [
     {
+      "title": "Prófugo Vladimir Cerrón señala que “fracaso de Roberto Sánchez” ante Keiko Fujimori fue por aliarse con “caviares”",
+      "link": "https://www.infobae.com/peru/2026/06/14/profugo-vladimir-cerron-atribuye-el-fracaso-de-roberto-sanchez-ante-keiko-fujimori-a-su-alianza-con-caviares/",
+      "source": "Infobae",
+      "pubDate": "Sun, 14 Jun 2026 21:03:13 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "José Balcázar reclama a la ONPE por trabajar “muy lento” y le exige acabar “incertidumbre” en conteo e impugnaciones de votos",
       "link": "https://www.infobae.com/peru/2026/06/14/jose-balcazar-reclama-a-la-onpe-por-trabajar-muy-lento-y-le-exige-acabar-incertidumbre-en-conteo-e-impugnaciones-de-votos/",
       "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 19:37:54 +0000",
+      "pubDate": "Sun, 14 Jun 2026 20:23:24 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Registraduría informó que a partir del 15 de junio los colombianos en el exterior podrán votar en los consulados habilitados ",
-      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 18:55:46 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Gustavo Petro reaccionó a encuesta que da empate técnico entre Iván Cepeda y De la Espriella y pidió un millón de testigos electorales",
-      "link": "https://www.infobae.com/colombia/2026/06/14/gustavo-petro-reacciono-a-encuesta-que-da-empate-tecnico-entre-ivan-cepeda-y-de-la-espriella-y-pidio-un-millon-de-testigos-electorales/",
-      "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 18:42:08 +0000",
+      "title": "Ponderador de encuestas actualizado: De la Espriella 51% y Cepeda 44%",
+      "link": "https://www.lasillavacia.com/en-vivo/ponderador-de-encuestas-actualizado-de-la-espriella-51-y-cepeda-44/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 14 Jun 2026 20:12:43 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Solo un candidato presidencial ha logrado ganar en primera vuelta en dos ocasiones",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/solo-un-candidato-presidencial-ha-logrado-ganar-en-primera-vuelta-en-dos-ocasiones-3564278",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-14T14:58:39-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Interpondrán queja contra gobernador Erasmo Zuleta por propaganda electoral a favor de Abelardo de la Espriella en la Feria de la Ganadería",
