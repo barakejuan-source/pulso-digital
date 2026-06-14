@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T09:42:05.976Z",
+  "updatedAt": "2026-06-14T12:01:45.605Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 46,
+      "trendsScore": 45,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 56,
+      "finalScore": 55,
       "momentum": {
-        "value": 0,
+        "value": -1.8,
         "direction": "flat"
       },
-      "probability": 48.7
+      "probability": 48.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,34 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.3
+      "probability": 51.8
     }
   ],
   "articles": [
+    {
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: CNC reveló cómo está la imagen de Gustavo Petro y la intención de voto por Abelardo de la Espriella           ",
+      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Sun, 14 Jun 2026 11:51:41 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella lidera intención de voto frente a Iván Cepeda a una semana de la segunda vuelta, según el CNC",
+      "link": "https://www.infobae.com/colombia/2026/06/14/abelardo-de-la-espriella-lidera-la-intencion-de-voto-frente-a-ivan-cepeda-segun-encuesta-del-cnc/",
+      "source": "Infobae",
+      "pubDate": "Sun, 14 Jun 2026 11:44:50 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Fujimori se ausenta de Perú unos días en medio del recuento de la segunda vuelta de las elecciones presidenciales",
+      "link": "https://www.infobae.com/america/agencias/2026/06/14/fujimori-se-ausenta-de-peru-unos-dias-en-medio-del-recuento-de-la-segunda-vuelta-de-las-elecciones-presidenciales/",
+      "source": "Infobae",
+      "pubDate": "Sun, 14 Jun 2026 11:31:03 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "Con ventaja de Abelardo de la Espriella frente a Iván Cepeda en encuestas y con riesgos de disturbios: así llega el país a la segunda vuelta",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/con-ventaja-de-abelardo-de-la-espriella-frente-a-ivan-cepeda-en-encuestas-y-con-riesgos-de-disturbios-asi-llega-el-pais-a-la-segunda-vuelta-3564169",
