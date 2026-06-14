@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T04:26:55.267Z",
+  "updatedAt": "2026-06-14T09:42:05.976Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 592342,
       "finalScore": 56,
       "momentum": {
-        "value": 1.8,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.7
@@ -46,14 +46,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.552 % ONPE termina el conteo de actas quedando pendientes las enviadas al JEE ",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
-      "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 04:02:17 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
     {
       "title": "Con ventaja de Abelardo de la Espriella frente a Iván Cepeda en encuestas y con riesgos de disturbios: así llega el país a la segunda vuelta",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/con-ventaja-de-abelardo-de-la-espriella-frente-a-ivan-cepeda-en-encuestas-y-con-riesgos-de-disturbios-asi-llega-el-pais-a-la-segunda-vuelta-3564169",
@@ -85,14 +77,6 @@
       "pubDate": "Sat, 13 Jun 2026 14:33:24 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Atlas Intel de segunda vuelta: Sigue ventaja de 8 puntos, pero con más indecisos",
-      "link": "https://www.lasillavacia.com/en-vivo/atlas-intel-de-segunda-vuelta-sigue-ventaja-de-8-puntos-pero-con-mas-indecisos/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 13 Jun 2026 14:03:55 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
