@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T17:24:36.135Z",
+  "updatedAt": "2026-06-14T19:43:09.434Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 44,
+      "trendsScore": 45,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -47,20 +47,36 @@
   ],
   "articles": [
     {
-      "title": "Juan Manuel Santos enumeró los desafíos que tendrán Abelardo de la Espriella e Iván Cepeda si llegan a la Presidencia: “Quemaron los puentes” ",
-      "link": "https://www.infobae.com/colombia/2026/06/14/juan-manuel-santos-enumero-los-desafios-que-tendran-abelardo-de-la-espriella-e-ivan-cepeda-si-llegan-a-la-presidencia-quemaron-los-puentes/",
+      "title": "José Balcázar reclama a la ONPE por trabajar “muy lento” y le exige acabar “incertidumbre” en conteo e impugnaciones de votos",
+      "link": "https://www.infobae.com/peru/2026/06/14/jose-balcazar-reclama-a-la-onpe-por-trabajar-muy-lento-y-le-exige-acabar-incertidumbre-en-conteo-e-impugnaciones-de-votos/",
       "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 17:18:43 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Sun, 14 Jun 2026 19:37:54 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Registraduría informó que a partir del 15 de junio los colombianos en el exterior podrán votar en los consulados habilitados ",
       "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 17:06:02 +0000",
+      "pubDate": "Sun, 14 Jun 2026 18:55:46 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "Gustavo Petro reaccionó a encuesta que da empate técnico entre Iván Cepeda y De la Espriella y pidió un millón de testigos electorales",
+      "link": "https://www.infobae.com/colombia/2026/06/14/gustavo-petro-reacciono-a-encuesta-que-da-empate-tecnico-entre-ivan-cepeda-y-de-la-espriella-y-pidio-un-millon-de-testigos-electorales/",
+      "source": "Infobae",
+      "pubDate": "Sun, 14 Jun 2026 18:42:08 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Interpondrán queja contra gobernador Erasmo Zuleta por propaganda electoral a favor de Abelardo de la Espriella en la Feria de la Ganadería",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/interpondran-queja-contra-gobernador-erasmo-zuleta-por-propaganda-electoral-a-favor-de-abelardo-de-la-espriella-en-la-feria-de-la-ganaderia-3564273",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-14T13:06:22-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Desinformación y ataques marcan la recta final de la campaña presidencial, alerta la Defensoría del Pueblo",
@@ -99,14 +115,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/nestor-humberto-martinez-denuncia-en-su-columna-turbios-contactos-de-ivan-cepeda-con-el-clan-del-golfo-en-visperas-del-plebiscito-de-3564234",
       "source": "El Tiempo",
       "pubDate": "2026-06-14T07:01:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Perfil a Iván Cepeda, la verdad como poder",
-      "link": "https://www.lasillavacia.com/opinion/perfil-a-ivan-cepeda-la-verdad-como-poder/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 13 Jun 2026 22:00:00 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
