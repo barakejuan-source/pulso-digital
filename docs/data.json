@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T12:01:45.605Z",
+  "updatedAt": "2026-06-14T14:25:09.101Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 592342,
       "finalScore": 55,
       "momentum": {
-        "value": -1.8,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.2
@@ -47,28 +47,76 @@
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: CNC reveló cómo está la imagen de Gustavo Petro y la intención de voto por Abelardo de la Espriella           ",
-      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 11:51:41 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella lidera intención de voto frente a Iván Cepeda a una semana de la segunda vuelta, según el CNC",
-      "link": "https://www.infobae.com/colombia/2026/06/14/abelardo-de-la-espriella-lidera-la-intencion-de-voto-frente-a-ivan-cepeda-segun-encuesta-del-cnc/",
-      "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 11:44:50 +0000",
+      "title": "¡Sí, sí, Colombia!",
+      "link": "https://www.lasillavacia.com/opinion/si-si-colombia-2/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 14 Jun 2026 13:52:36 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Fujimori se ausenta de Perú unos días en medio del recuento de la segunda vuelta de las elecciones presidenciales",
-      "link": "https://www.infobae.com/america/agencias/2026/06/14/fujimori-se-ausenta-de-peru-unos-dias-en-medio-del-recuento-de-la-segunda-vuelta-de-las-elecciones-presidenciales/",
+      "title": "Elecciones en Colombia 2026: Nueva encuesta asegura empate técnico entre Iván Cepeda y Abelardo de la Espriella ",
+      "link": "https://www.infobae.com/colombia/2026/06/14/elecciones-en-colombia-2026-nueva-encuesta-asegura-empate-tecnico-entre-ivan-cepeda-y-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 11:31:03 +0000",
+      "pubDate": "Sun, 14 Jun 2026 13:50:27 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella: el Tigre del Sinú",
+      "link": "https://www.lasillavacia.com/podcasts/abelardo-de-la-espriella-el-tigre-del-sinu/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 14 Jun 2026 13:42:09 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: nueva encuesta revela un posible emplate técnico en la segunda vuelta  ",
+      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Sun, 14 Jun 2026 13:42:02 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "Roberto Sánchez se reunió con diputados y senadores de Juntos por el Perú y piden al JNE “verdad y transparencia”",
+      "link": "https://www.infobae.com/peru/2026/06/14/roberto-sanchez-se-reunio-con-diputados-y-senadores-de-juntos-por-el-peru-y-piden-al-jne-verdad-y-transparencia/",
+      "source": "Infobae",
+      "pubDate": "Sun, 14 Jun 2026 13:38:25 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "De la Espriella le saca ventaja a Cepeda en encuesta del CNC",
+      "link": "https://www.lasillavacia.com/en-vivo/de-la-espriella-le-saca-ventaja-a-cepeda-en-encuesta-del-cnc/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 14 Jun 2026 13:38:22 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Álvaro Uribe acusa a Iván Cepeda de ocultar su programa presidencial ante una posible derrota en segunda vuelta: “La intención de atraer electores”",
+      "link": "https://www.infobae.com/colombia/2026/06/14/alvaro-uribe-acusa-a-ivan-cepeda-de-ocultar-su-programa-presidencial-ante-una-posible-derrota-en-segunda-vuelta-la-intencion-de-atraer-electores/",
+      "source": "Infobae",
+      "pubDate": "Sun, 14 Jun 2026 13:30:14 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Por qué Keiko Fujimori se va del Perú en medio del proceso de segunda vuelta que aún no concluye y que mantiene en vilo a todo un país?",
+      "link": "https://www.infobae.com/peru/2026/06/14/por-que-keiko-fujimori-se-va-del-peru-en-medio-del-proceso-de-segunda-vuelta-que-aun-no-concluye-y-que-mantiene-en-vilo-a-todo-un-pais/",
+      "source": "Infobae",
+      "pubDate": "Sun, 14 Jun 2026 13:22:17 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Néstor Humberto Martínez denuncia en su columna 'turbios contactos' de Iván Cepeda con el ‘Clan del Golfo’ en vísperas del plebiscito de 2016",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/nestor-humberto-martinez-denuncia-en-su-columna-turbios-contactos-de-ivan-cepeda-con-el-clan-del-golfo-en-visperas-del-plebiscito-de-3564234",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-14T07:01:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Con ventaja de Abelardo de la Espriella frente a Iván Cepeda en encuestas y con riesgos de disturbios: así llega el país a la segunda vuelta",
@@ -79,26 +127,10 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Simpatizantes de Abelardo de la Espriella en Londres señalan posible 'desigualdad en la selección de jurados' para la segunda vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/simpatizantes-de-abelardo-de-la-espriella-en-londres-senalan-posible-desigualdad-en-la-seleccion-de-jurados-para-la-segunda-vuelta-3564205",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-13T20:29:04-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Perfil a Iván Cepeda, la verdad como poder",
       "link": "https://www.lasillavacia.com/opinion/perfil-a-ivan-cepeda-la-verdad-como-poder/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 13 Jun 2026 22:00:00 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": " Iván Cepeda: un príncipe rojo – Déjà Vu",
-      "link": "https://www.lasillavacia.com/podcasts/ivan-cepeda-un-principe-rojo-deja-vu/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 13 Jun 2026 14:33:24 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
