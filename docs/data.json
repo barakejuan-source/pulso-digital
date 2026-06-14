@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T23:11:16.358Z",
+  "updatedAt": "2026-06-14T04:26:55.267Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 45,
+      "trendsScore": 46,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 55,
+      "finalScore": 56,
       "momentum": {
-        "value": 0,
+        "value": 1.8,
         "direction": "flat"
       },
-      "probability": 48.2
+      "probability": 48.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,31 +42,31 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.8
+      "probability": 51.3
     }
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Iván Cepeda realizó su cierre de campaña en Bogotá         ",
-      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 22:40:50 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.350 % ONPE termina el conteo de actas quedando pendientes las enviadas al JEE ",
+      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.552 % ONPE termina el conteo de actas quedando pendientes las enviadas al JEE ",
       "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 22:29:44 +0000",
+      "pubDate": "Sun, 14 Jun 2026 04:02:17 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Colectivo de abogados calificaron de “regresiva” la propuesta de la campaña de Abelardo de la Espriella de eliminar impuestos saludables",
-      "link": "https://www.infobae.com/colombia/2026/06/13/colectivo-de-abogados-calificaron-de-regresiva-la-propuesta-de-la-campana-de-abelardo-de-la-espriella-de-eliminar-impuestos-saludables/",
-      "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 22:15:16 +0000",
+      "title": "Con ventaja de Abelardo de la Espriella frente a Iván Cepeda en encuestas y con riesgos de disturbios: así llega el país a la segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/con-ventaja-de-abelardo-de-la-espriella-frente-a-ivan-cepeda-en-encuestas-y-con-riesgos-de-disturbios-asi-llega-el-pais-a-la-segunda-vuelta-3564169",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-13T22:01:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Simpatizantes de Abelardo de la Espriella en Londres señalan posible 'desigualdad en la selección de jurados' para la segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/simpatizantes-de-abelardo-de-la-espriella-en-londres-senalan-posible-desigualdad-en-la-seleccion-de-jurados-para-la-segunda-vuelta-3564205",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-13T20:29:04-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -79,50 +79,10 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Críticas a Iván Cepeda por regalar prendas de la Selección Colombia tras criticar a De la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/13/criticas-a-ivan-cepeda-por-regalar-prendas-de-la-seleccion-colombia-tras-criticar-a-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Sat, 13 Jun 2026 21:49:24 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Fue elegido jurado para la segunda vuelta? Guía de horarios y duración de las capacitaciones",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fue-elegido-jurado-para-la-segunda-vuelta-guia-de-horarios-y-duracion-de-las-capacitaciones-3564154",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-13T14:44:59-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Iván Cepeda cierra su campaña presidencial en Bogotá y pide aumentar el respaldo para segunda vuelta: 'Estamos muy orgullosos de lo que hemos hecho'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-cierra-su-campana-presidencial-en-bogota-y-pide-aumentar-el-respaldo-para-segunda-vuelta-estamos-muy-orgullosos-de-lo-que-hemos-hecho-3564141",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-13T13:47:21-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Elecciones Colombia 2026: última hora de la segunda vuelta entre Abelardo de la Espriella e Iván Cepeda este 21 de junio",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-ultima-hora-de-la-segunda-vuelta-entre-abelardo-de-la-espriella-e-ivan-cepeda-este-21-de-junio-3564098",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-13T13:32:40-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": " Iván Cepeda: un príncipe rojo – Déjà Vu",
       "link": "https://www.lasillavacia.com/podcasts/ivan-cepeda-un-principe-rojo-deja-vu/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 13 Jun 2026 14:33:24 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Encuesta final de Guarumo y Ecoanalítica para segunda vuelta presidencial: Abelardo De la Espriella, 52,6 %; Iván Cepeda, 45 %",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/encuesta-final-de-guarumo-y-ecoanalitica-para-segunda-vuelta-presidencial-abelardo-de-la-espriella-52-6-ivan-cepeda-3564095",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-13T09:09:50-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -133,14 +93,6 @@
       "pubDate": "Sat, 13 Jun 2026 14:03:55 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Campaña del candidato presidencial Abelardo de la Espriella emitió alerta por existencia de estafas a su nombre: 'Ninguna persona'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/campana-presidencial-de-abelardo-de-la-espriella-emitio-una-alerta-urgente-en-la-que-denuncia-la-existencia-de-estafas-a-su-nombre-ninguna-persona-3564085",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-13T08:48:57-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
