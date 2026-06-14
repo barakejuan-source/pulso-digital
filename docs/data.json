@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T21:18:07.219Z",
+  "updatedAt": "2026-06-14T23:13:26.733Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 44,
+      "trendsScore": 41,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 55,
+      "finalScore": 54,
       "momentum": {
-        "value": 0,
+        "value": -1.8,
         "direction": "flat"
       },
-      "probability": 48.2
+      "probability": 47.8
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,39 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.8
+      "probability": 52.2
     }
   ],
   "articles": [
     {
-      "title": "Prófugo Vladimir Cerrón señala que “fracaso de Roberto Sánchez” ante Keiko Fujimori fue por aliarse con “caviares”",
-      "link": "https://www.infobae.com/peru/2026/06/14/profugo-vladimir-cerron-atribuye-el-fracaso-de-roberto-sanchez-ante-keiko-fujimori-a-su-alianza-con-caviares/",
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: colombianos en 67 países ya podrán ejercer su voto de la segunda vuelta ",
+      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 21:03:13 +0000",
+      "pubDate": "Sun, 14 Jun 2026 23:04:19 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "José Balcázar reclama a la ONPE por trabajar “muy lento” y le exige acabar “incertidumbre” en conteo e impugnaciones de votos",
-      "link": "https://www.infobae.com/peru/2026/06/14/jose-balcazar-reclama-a-la-onpe-por-trabajar-muy-lento-y-le-exige-acabar-incertidumbre-en-conteo-e-impugnaciones-de-votos/",
+      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.590 % ONPE termina el conteo de actas quedando pendientes las enviadas al JEE ",
+      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 20:23:24 +0000",
+      "pubDate": "Sun, 14 Jun 2026 23:01:39 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Lina María Garrido instó a Iván Cepeda a que le cuente al país cómo está de salud, a una semana de la segunda vuelta: “¿Qué oculta?”",
+      "link": "https://www.infobae.com/colombia/2026/06/14/lina-maria-garrido-insto-a-ivan-cepeda-a-que-le-cuente-al-pais-como-esta-de-salud-a-una-semana-de-la-segunda-vuelta-que-oculta/",
+      "source": "Infobae",
+      "pubDate": "Sun, 14 Jun 2026 22:44:39 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Gustavo Petro aseguró que Colombia vive un buen momento económico y lanzó una alerta electoral: “Dimos en el clavo”",
+      "link": "https://www.infobae.com/colombia/2026/06/14/gustavo-petro-aseguro-que-colombia-vive-un-buen-momento-economico-y-lanzo-una-alerta-electoral-dimos-en-el-clavo/",
+      "source": "Infobae",
+      "pubDate": "Sun, 14 Jun 2026 22:16:07 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -109,14 +125,6 @@
       "pubDate": "Sun, 14 Jun 2026 13:42:09 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "De la Espriella le saca ventaja a Cepeda en encuesta del CNC",
-      "link": "https://www.lasillavacia.com/en-vivo/de-la-espriella-le-saca-ventaja-a-cepeda-en-encuesta-del-cnc/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 14 Jun 2026 13:38:22 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Néstor Humberto Martínez denuncia en su columna 'turbios contactos' de Iván Cepeda con el ‘Clan del Golfo’ en vísperas del plebiscito de 2016",
