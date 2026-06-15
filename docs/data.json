@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-15T04:50:21.093Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-15T12:24:33.763Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 592342,
       "finalScore": 53,
       "momentum": {
-        "value": -1.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 47.3
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Histórica definición electoral en Perú EN VIVO: Al 98.590 % ONPE termina el conteo de actas quedando pendientes las enviadas al JEE ",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
+      "title": "ELN anunció cese unilateral de fuego durante la segunda vuelta presidencial en Colombia ",
+      "link": "https://www.infobae.com/colombia/2026/06/15/eln-anuncio-cese-unilateral-de-fuego-durante-la-segunda-vuelta-presidencial-en-colombia/",
       "source": "Infobae",
-      "pubDate": "Mon, 15 Jun 2026 04:38:57 +0000",
+      "pubDate": "Mon, 15 Jun 2026 12:16:35 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Roberto Sánchez se reunió con diputados y senadores de Juntos por el Perú: piden al JNE “verdad y transparencia”",
+      "link": "https://www.infobae.com/peru/2026/06/14/roberto-sanchez-se-reunio-con-diputados-y-senadores-de-juntos-por-el-peru-y-piden-al-jne-verdad-y-transparencia/",
+      "source": "Infobae",
+      "pubDate": "Mon, 15 Jun 2026 12:01:26 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Calculadora de votos para segunda vuelta: estos son los votos decisivos",
+      "link": "https://www.lasillavacia.com/silla-nacional/calculadora-de-votos-para-segunda-vuelta-estos-son-los-votos-decisivos/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 15 Jun 2026 06:00:00 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -117,14 +133,6 @@
       "pubDate": "Sun, 14 Jun 2026 13:52:36 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo de la Espriella: el Tigre del Sinú",
-      "link": "https://www.lasillavacia.com/podcasts/abelardo-de-la-espriella-el-tigre-del-sinu/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 14 Jun 2026 13:42:09 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Néstor Humberto Martínez denuncia en su columna 'turbios contactos' de Iván Cepeda con el ‘Clan del Golfo’ en vísperas del plebiscito de 2016",
