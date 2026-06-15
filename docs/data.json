@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-15T12:24:33.763Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-15T18:43:16.727Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,20 +47,92 @@
   ],
   "articles": [
     {
-      "title": "ELN anunció cese unilateral de fuego durante la segunda vuelta presidencial en Colombia ",
-      "link": "https://www.infobae.com/colombia/2026/06/15/eln-anuncio-cese-unilateral-de-fuego-durante-la-segunda-vuelta-presidencial-en-colombia/",
+      "title": "Falso: los votantes con foto de menor en su DNI ya eran mayores de edad el 7 de junio",
+      "link": "https://www.infobae.com/peru/2026/06/15/falso-los-votantes-con-foto-de-menor-en-su-dni-ya-eran-mayores-de-edad-el-7-de-junio/",
       "source": "Infobae",
-      "pubDate": "Mon, 15 Jun 2026 12:16:35 +0000",
+      "pubDate": "Mon, 15 Jun 2026 18:32:32 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Superintendente Daniel Quintero inició investigación por supuestas irregularidades entre EPS y firma de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/06/15/superintendente-daniel-quintero-inicio-investigacion-por-supuestas-irregularidades-entre-eps-y-firma-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Mon, 15 Jun 2026 18:31:17 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Roberto Sánchez se reunió con diputados y senadores de Juntos por el Perú: piden al JNE “verdad y transparencia”",
-      "link": "https://www.infobae.com/peru/2026/06/14/roberto-sanchez-se-reunio-con-diputados-y-senadores-de-juntos-por-el-peru-y-piden-al-jne-verdad-y-transparencia/",
+      "title": "Francisco Barbosa le contestó a Iván Cepeda por anunciar que presentará otra denuncia en contra de Abelardo de la Espriella: “Desesperante”",
+      "link": "https://www.infobae.com/colombia/2026/06/15/francisco-barbosa-le-contesto-a-ivan-cepeda-por-anunciar-que-presentara-otra-denuncia-en-contra-de-abelardo-de-la-espriella-desesperante/",
       "source": "Infobae",
-      "pubDate": "Mon, 15 Jun 2026 12:01:26 +0000",
+      "pubDate": "Mon, 15 Jun 2026 18:17:28 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Álvaro Uribe llamó al candidato Abelardo de la Espriella, estos son los temas que trataron",
+      "link": "https://www.infobae.com/colombia/2026/06/15/elecciones-presidenciales-de-colombia-2026-en-vivo-arranca-la-semana-decisiva-para-cepeda-y-de-la-espriella-antes-del-21-de-junio/",
+      "source": "Infobae",
+      "pubDate": "Mon, 15 Jun 2026 18:07:42 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Afiche publicitario de Iván Cepeda en la alcaldía de San Gil causa polémica: administración local se pronunció ",
+      "link": "https://www.infobae.com/colombia/2026/06/15/afiche-publicitario-de-ivan-cepeda-en-la-alcaldia-de-san-gil-causa-polemica-administracion-local-se-pronuncio/",
+      "source": "Infobae",
+      "pubDate": "Mon, 15 Jun 2026 18:06:25 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Invamer desmintió imagen falsa que circula en redes sobre una encuesta de la segunda vuelta presidencial de 2026",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/invamer-desmintio-imagen-falsa-que-circula-en-redes-sobre-una-encuesta-de-la-segunda-vuelta-presidencial-de-3564369",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-15T12:20:00-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "Cepeda vincula a De La Espriella con supuestos delitos en sector salud",
+      "link": "https://www.lasillavacia.com/en-vivo/cepeda-vincula-a-de-la-espriella-con-supuestos-delitos-en-sector-salud/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 15 Jun 2026 15:47:57 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La ficción de los dos extremos",
+      "link": "https://www.lasillavacia.com/red-de-expertos/la-ficcion-de-los-dos-extremos/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 15 Jun 2026 15:30:41 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "De la Espriella vs. Cepeda: un balotaje de máxima tensión en Colombia",
+      "link": "https://www.france24.com/es/programas/en-primera-plana/20260615-de-la-espriella-vs-cepeda-un-balotaje-de-m%C3%A1xima-tensi%C3%B3n-en-colombia",
+      "source": "France 24",
+      "pubDate": "Mon, 15 Jun 2026 15:30:21 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Se abrieron las urnas en el exterior para que los colombianos ejerzan su derecho al voto en la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/se-abrieron-las-urnas-en-el-exterior-para-que-los-colombianos-ejerzan-su-derecho-al-voto-en-la-segunda-vuelta-presidencial-3564357",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-15T09:10:06-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Así fueron los cierres de campaña de Abelardo De la Espriella en Buga, Valle del Cauca, e Iván Cepeda en Soledad y Bogotá",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fueron-los-cierres-de-campana-de-abelardo-de-la-espriella-en-buga-valle-del-cauca-e-ivan-cepeda-en-soledad-y-bogota-3564321",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-15T08:08:16-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Calculadora de votos para segunda vuelta: estos son los votos decisivos",
@@ -69,78 +141,6 @@
       "pubDate": "Mon, 15 Jun 2026 06:00:00 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Así fueron los cierres de campaña de Abelardo De la Espriella en Buga, Valle del Cauca, e Iván Cepeda en Soledad y Bogotá",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fueron-los-cierres-de-campana-de-abelardo-de-la-espriella-en-buga-valle-del-cauca-e-ivan-cepeda-en-soledad-y-bogota-3564321",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-14T20:14:15-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Elecciones en Colombia: las propuestas claves de Iván Cepeda y Abelardo de la Espriella",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260615-elecciones-en-colombia-las-propuestas-claves-de-iv%C3%A1n-cepeda-y-abelardo-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Mon, 15 Jun 2026 00:08:05 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo de la Espriella denuncia que grupos ilegales estarían presionando a comunidades de Cauca y Nariño para que no voten por el abogado",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-denuncia-que-grupos-ilegales-estarian-presionando-a-comunidades-de-cauca-y-narino-para-que-no-voten-por-el-abogado-3564313",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-14T18:36:49-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ponderador de encuestas actualizado: De la Espriella 51% y Cepeda 44%",
-      "link": "https://www.lasillavacia.com/en-vivo/ponderador-de-encuestas-actualizado-de-la-espriella-51-y-cepeda-44/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 14 Jun 2026 20:12:43 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Solo un candidato presidencial ha logrado ganar en primera vuelta en dos ocasiones",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/solo-un-candidato-presidencial-ha-logrado-ganar-en-primera-vuelta-en-dos-ocasiones-3564278",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-14T14:58:39-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Interpondrán queja contra gobernador Erasmo Zuleta por propaganda electoral a favor de Abelardo de la Espriella en la Feria de la Ganadería",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/interpondran-queja-contra-gobernador-erasmo-zuleta-por-propaganda-electoral-a-favor-de-abelardo-de-la-espriella-en-la-feria-de-la-ganaderia-3564273",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-14T13:06:22-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desinformación y ataques marcan la recta final de la campaña presidencial, alerta la Defensoría del Pueblo",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/desinformacion-y-ataques-marcan-la-recta-final-de-la-campana-presidencial-alerta-la-defensoria-del-pueblo-3564268",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-14T12:05:16-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¡Sí, sí, Colombia!",
-      "link": "https://www.lasillavacia.com/opinion/si-si-colombia-2/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 14 Jun 2026 13:52:36 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Néstor Humberto Martínez denuncia en su columna 'turbios contactos' de Iván Cepeda con el ‘Clan del Golfo’ en vísperas del plebiscito de 2016",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/nestor-humberto-martinez-denuncia-en-su-columna-turbios-contactos-de-ivan-cepeda-con-el-clan-del-golfo-en-visperas-del-plebiscito-de-3564234",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-14T07:01:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
