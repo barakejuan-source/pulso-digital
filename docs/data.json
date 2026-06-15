@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T23:13:26.733Z",
+  "updatedAt": "2026-06-15T04:50:21.093Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 41,
+      "trendsScore": 39,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 54,
+      "finalScore": 53,
       "momentum": {
-        "value": -1.8,
+        "value": -1.9,
         "direction": "flat"
       },
-      "probability": 47.8
+      "probability": 47.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,41 +42,41 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.2
+      "probability": 52.7
     }
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: colombianos en 67 países ya podrán ejercer su voto de la segunda vuelta ",
-      "link": "https://www.infobae.com/colombia/2026/06/12/elecciones-presidenciales-de-colombia-2026-en-vivo-el-consejo-de-estado-resolvio-el-debate-judicial-sobre-presunta-inhabilidad-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 23:04:19 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Histórica definición electoral en Perú EN VIVO: Al 98.590 % ONPE termina el conteo de actas quedando pendientes las enviadas al JEE ",
       "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-en-vivo-conteo-oficial-de-votos-de-keiko-fujimori-y-roberto-sanchez-en-la-segunda-vuelta-de-elecciones-2026/",
       "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 23:01:39 +0000",
+      "pubDate": "Mon, 15 Jun 2026 04:38:57 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Lina María Garrido instó a Iván Cepeda a que le cuente al país cómo está de salud, a una semana de la segunda vuelta: “¿Qué oculta?”",
-      "link": "https://www.infobae.com/colombia/2026/06/14/lina-maria-garrido-insto-a-ivan-cepeda-a-que-le-cuente-al-pais-como-esta-de-salud-a-una-semana-de-la-segunda-vuelta-que-oculta/",
-      "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 22:44:39 +0000",
+      "title": "Así fueron los cierres de campaña de Abelardo De la Espriella en Buga, Valle del Cauca, e Iván Cepeda en Soledad y Bogotá",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fueron-los-cierres-de-campana-de-abelardo-de-la-espriella-en-buga-valle-del-cauca-e-ivan-cepeda-en-soledad-y-bogota-3564321",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-14T20:14:15-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Gustavo Petro aseguró que Colombia vive un buen momento económico y lanzó una alerta electoral: “Dimos en el clavo”",
-      "link": "https://www.infobae.com/colombia/2026/06/14/gustavo-petro-aseguro-que-colombia-vive-un-buen-momento-economico-y-lanzo-una-alerta-electoral-dimos-en-el-clavo/",
-      "source": "Infobae",
-      "pubDate": "Sun, 14 Jun 2026 22:16:07 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Elecciones en Colombia: las propuestas claves de Iván Cepeda y Abelardo de la Espriella",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260615-elecciones-en-colombia-las-propuestas-claves-de-iv%C3%A1n-cepeda-y-abelardo-de-la-espriella",
+      "source": "France 24",
+      "pubDate": "Mon, 15 Jun 2026 00:08:05 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella denuncia que grupos ilegales estarían presionando a comunidades de Cauca y Nariño para que no voten por el abogado",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-denuncia-que-grupos-ilegales-estarian-presionando-a-comunidades-de-cauca-y-narino-para-que-no-voten-por-el-abogado-3564313",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-14T18:36:49-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Ponderador de encuestas actualizado: De la Espriella 51% y Cepeda 44%",
