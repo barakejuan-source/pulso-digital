@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T18:43:16.727Z",
+  "updatedAt": "2026-06-15T22:23:36.895Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 39,
+      "trendsScore": 38,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 53,
+      "finalScore": 52,
       "momentum": {
-        "value": 0,
+        "value": -1.9,
         "direction": "flat"
       },
-      "probability": 47.3
+      "probability": 46.8
     },
     {
       "id": "abelardo_espriella",
@@ -42,49 +42,65 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.7
+      "probability": 53.2
     }
   ],
   "articles": [
     {
-      "title": "Falso: los votantes con foto de menor en su DNI ya eran mayores de edad el 7 de junio",
-      "link": "https://www.infobae.com/peru/2026/06/15/falso-los-votantes-con-foto-de-menor-en-su-dni-ya-eran-mayores-de-edad-el-7-de-junio/",
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: campañas de Abelardo de la Espriella e Iván Cepeda se tomaron vías principales de Bogotá ",
+      "link": "https://www.infobae.com/colombia/2026/06/15/elecciones-presidenciales-de-colombia-2026-en-vivo-arranca-la-semana-decisiva-para-cepeda-y-de-la-espriella-antes-del-21-de-junio/",
       "source": "Infobae",
-      "pubDate": "Mon, 15 Jun 2026 18:32:32 +0000",
+      "pubDate": "Mon, 15 Jun 2026 22:17:17 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "ONPE completa el conteo al 100 % de actas en Amazonas, Junín y Moquegua: así quedó el respaldo a Roberto Sánchez y Keiko Fujimori",
+      "link": "https://www.infobae.com/peru/2026/06/15/onpe-completa-el-conteo-al-100-de-actas-en-amazonas-y-junin-asi-quedo-el-respaldo-a-roberto-sanchez-y-keiko-fujimori-en-ambas-regiones/",
+      "source": "Infobae",
+      "pubDate": "Mon, 15 Jun 2026 22:16:29 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Superintendente Daniel Quintero inició investigación por supuestas irregularidades entre EPS y firma de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/15/superintendente-daniel-quintero-inicio-investigacion-por-supuestas-irregularidades-entre-eps-y-firma-de-abelardo-de-la-espriella/",
+      "title": "Ricardo Belmont expresa temor ante promesa de Keiko Fujimori de emular a su padre: “Estoy sintiendo los tanques”",
+      "link": "https://www.infobae.com/peru/2026/06/15/ricardo-belmont-expresa-temor-ante-promesa-de-keiko-fujimori-de-gobernar-como-su-padre-estoy-sintiendo-los-tanques/",
       "source": "Infobae",
-      "pubDate": "Mon, 15 Jun 2026 18:31:17 +0000",
+      "pubDate": "Mon, 15 Jun 2026 22:03:33 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Youtubers, la selección y su esposa: así va la reinvención de Cepeda",
+      "link": "https://www.lasillavacia.com/en-vivo/youtubers-la-seleccion-y-su-esposa-asi-va-la-reinvencion-de-cepeda/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 15 Jun 2026 22:01:56 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Francisco Barbosa le contestó a Iván Cepeda por anunciar que presentará otra denuncia en contra de Abelardo de la Espriella: “Desesperante”",
-      "link": "https://www.infobae.com/colombia/2026/06/15/francisco-barbosa-le-contesto-a-ivan-cepeda-por-anunciar-que-presentara-otra-denuncia-en-contra-de-abelardo-de-la-espriella-desesperante/",
+      "title": "Camilo Romero arremete contra Abelardo de la Espriella y lo acusa de “populismo punitivo” en la recta final presidencial",
+      "link": "https://www.infobae.com/colombia/2026/06/15/camilo-romero-arremete-contra-abelardo-de-la-espriella-y-lo-acusa-de-populismo-punitivo-en-la-recta-final-presidencial/",
       "source": "Infobae",
-      "pubDate": "Mon, 15 Jun 2026 18:17:28 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Álvaro Uribe llamó al candidato Abelardo de la Espriella, estos son los temas que trataron",
-      "link": "https://www.infobae.com/colombia/2026/06/15/elecciones-presidenciales-de-colombia-2026-en-vivo-arranca-la-semana-decisiva-para-cepeda-y-de-la-espriella-antes-del-21-de-junio/",
-      "source": "Infobae",
-      "pubDate": "Mon, 15 Jun 2026 18:07:42 +0000",
+      "pubDate": "Mon, 15 Jun 2026 21:57:49 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Afiche publicitario de Iván Cepeda en la alcaldía de San Gil causa polémica: administración local se pronunció ",
-      "link": "https://www.infobae.com/colombia/2026/06/15/afiche-publicitario-de-ivan-cepeda-en-la-alcaldia-de-san-gil-causa-polemica-administracion-local-se-pronuncio/",
+      "title": "Mauricio Gaona envió mensaje a las Fuerzas Armadas de cara a la segunda vuelta: “El deber supremo no pertenece a una persona o a un Gobierno”",
+      "link": "https://www.infobae.com/colombia/2026/06/15/mauricio-gaona-envio-mensaje-a-las-fuerzas-armadas-de-cara-a-la-segunda-vuelta-el-deber-supremo-no-pertenece-a-una-persona-o-a-un-gobierno/",
       "source": "Infobae",
-      "pubDate": "Mon, 15 Jun 2026 18:06:25 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Mon, 15 Jun 2026 21:38:44 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Ricardo Belmont sobre Jorge Nieto: “Nunca pensé que fuera fujimorista encubierto, quisiera saber por qué ha estado preso”",
+      "link": "https://www.infobae.com/peru/2026/06/15/ricardo-belmont-sobre-jorge-nieto-nunca-pense-que-fuera-fujimorista-encubierto-quisiera-saber-por-que-ha-estado-preso/",
+      "source": "Infobae",
+      "pubDate": "Mon, 15 Jun 2026 21:20:13 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Invamer desmintió imagen falsa que circula en redes sobre una encuesta de la segunda vuelta presidencial de 2026",
@@ -111,14 +127,6 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "De la Espriella vs. Cepeda: un balotaje de máxima tensión en Colombia",
-      "link": "https://www.france24.com/es/programas/en-primera-plana/20260615-de-la-espriella-vs-cepeda-un-balotaje-de-m%C3%A1xima-tensi%C3%B3n-en-colombia",
-      "source": "France 24",
-      "pubDate": "Mon, 15 Jun 2026 15:30:21 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "Se abrieron las urnas en el exterior para que los colombianos ejerzan su derecho al voto en la segunda vuelta presidencial",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/se-abrieron-las-urnas-en-el-exterior-para-que-los-colombianos-ejerzan-su-derecho-al-voto-en-la-segunda-vuelta-presidencial-3564357",
       "source": "El Tiempo",
@@ -133,14 +141,6 @@
       "pubDate": "2026-06-15T08:08:16-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Calculadora de votos para segunda vuelta: estos son los votos decisivos",
-      "link": "https://www.lasillavacia.com/silla-nacional/calculadora-de-votos-para-segunda-vuelta-estos-son-los-votos-decisivos/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 15 Jun 2026 06:00:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
