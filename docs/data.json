@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T22:23:36.895Z",
+  "updatedAt": "2026-06-16T04:47:27.747Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 38,
+      "trendsScore": 33,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 52,
+      "finalScore": 50,
       "momentum": {
-        "value": -1.9,
+        "value": -3.8,
         "direction": "flat"
       },
-      "probability": 46.8
+      "probability": 45.9
     },
     {
       "id": "abelardo_espriella",
@@ -42,31 +42,55 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 53.2
+      "probability": 54.1
     }
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: campañas de Abelardo de la Espriella e Iván Cepeda se tomaron vías principales de Bogotá ",
-      "link": "https://www.infobae.com/colombia/2026/06/15/elecciones-presidenciales-de-colombia-2026-en-vivo-arranca-la-semana-decisiva-para-cepeda-y-de-la-espriella-antes-del-21-de-junio/",
+      "title": "Registraduría abrió capacitaciones gratuitas para la segunda vuelta presidencial 2026: cómo es el acceso y cuáles son los contenidos",
+      "link": "https://www.infobae.com/colombia/2026/06/16/registraduria-abrio-capacitaciones-gratuitas-para-la-segunda-vuelta-presidencial-2026-como-es-el-acceso-y-cuales-son-los-contenidos/",
       "source": "Infobae",
-      "pubDate": "Mon, 15 Jun 2026 22:17:17 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "ONPE completa el conteo al 100 % de actas en Amazonas, Junín y Moquegua: así quedó el respaldo a Roberto Sánchez y Keiko Fujimori",
-      "link": "https://www.infobae.com/peru/2026/06/15/onpe-completa-el-conteo-al-100-de-actas-en-amazonas-y-junin-asi-quedo-el-respaldo-a-roberto-sanchez-y-keiko-fujimori-en-ambas-regiones/",
-      "source": "Infobae",
-      "pubDate": "Mon, 15 Jun 2026 22:16:29 +0000",
+      "pubDate": "Tue, 16 Jun 2026 04:44:18 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Ricardo Belmont expresa temor ante promesa de Keiko Fujimori de emular a su padre: “Estoy sintiendo los tanques”",
-      "link": "https://www.infobae.com/peru/2026/06/15/ricardo-belmont-expresa-temor-ante-promesa-de-keiko-fujimori-de-gobernar-como-su-padre-estoy-sintiendo-los-tanques/",
+      "title": "“Quieren un genocidio del pueblo colombiano”: Petro arremete contra Abelardo de la Espriella por comparación con la ofensiva de Israel en Gaza",
+      "link": "https://www.infobae.com/colombia/2026/06/16/quieren-un-genocidio-del-pueblo-colombiano-petro-arremete-contra-abelardo-de-la-espriella-por-comparacion-con-la-ofensiva-de-israel-en-gaza/",
       "source": "Infobae",
-      "pubDate": "Mon, 15 Jun 2026 22:03:33 +0000",
+      "pubDate": "Tue, 16 Jun 2026 04:27:11 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El Caribe, el voto urbano y los abstencionistas: fichas decisivas del balotaje en Colombia",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260616-el-caribe-el-voto-urbano-y-los-abstencionistas-las-fichas-decisivas-del-balotaje-en-colombia",
+      "source": "France 24",
+      "pubDate": "Tue, 16 Jun 2026 00:53:51 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "El candidato Iván Cepeda respondió qué 'no le ha gustado' del Gobierno de Gustavo Petro en el programa ‘F*ck News’: 'La corrupción'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-candidato-ivan-cepeda-respondio-que-no-le-ha-gustado-del-gobierno-de-gustavo-petro-en-el-programa-f-ck-news-la-corrupcion-3564419",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-15T18:54:27-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Iván Cepeda no ha consolidado alianzas con el centro a pocos días de la segunda vuelta: así han sido los acercamientos con Fajardo, López y Oviedo",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-no-ha-consolidado-alianzas-con-el-centro-a-pocos-dias-de-la-segunda-vuelta-asi-han-sido-los-acercamientos-con-fajardo-lopez-y-oviedo-3564414",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-15T18:04:58-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "La segunda vuelta comenzó en el exterior. De La Espriella es el favorito",
+      "link": "https://www.lasillavacia.com/en-vivo/la-segunda-vuelta-comenzo-en-el-exterior-de-la-espriella-es-el-favorito/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 15 Jun 2026 22:52:38 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -77,30 +101,6 @@
       "pubDate": "Mon, 15 Jun 2026 22:01:56 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Camilo Romero arremete contra Abelardo de la Espriella y lo acusa de “populismo punitivo” en la recta final presidencial",
-      "link": "https://www.infobae.com/colombia/2026/06/15/camilo-romero-arremete-contra-abelardo-de-la-espriella-y-lo-acusa-de-populismo-punitivo-en-la-recta-final-presidencial/",
-      "source": "Infobae",
-      "pubDate": "Mon, 15 Jun 2026 21:57:49 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Mauricio Gaona envió mensaje a las Fuerzas Armadas de cara a la segunda vuelta: “El deber supremo no pertenece a una persona o a un Gobierno”",
-      "link": "https://www.infobae.com/colombia/2026/06/15/mauricio-gaona-envio-mensaje-a-las-fuerzas-armadas-de-cara-a-la-segunda-vuelta-el-deber-supremo-no-pertenece-a-una-persona-o-a-un-gobierno/",
-      "source": "Infobae",
-      "pubDate": "Mon, 15 Jun 2026 21:38:44 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Ricardo Belmont sobre Jorge Nieto: “Nunca pensé que fuera fujimorista encubierto, quisiera saber por qué ha estado preso”",
-      "link": "https://www.infobae.com/peru/2026/06/15/ricardo-belmont-sobre-jorge-nieto-nunca-pense-que-fuera-fujimorista-encubierto-quisiera-saber-por-que-ha-estado-preso/",
-      "source": "Infobae",
-      "pubDate": "Mon, 15 Jun 2026 21:20:13 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Invamer desmintió imagen falsa que circula en redes sobre una encuesta de la segunda vuelta presidencial de 2026",
@@ -127,20 +127,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Se abrieron las urnas en el exterior para que los colombianos ejerzan su derecho al voto en la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/se-abrieron-las-urnas-en-el-exterior-para-que-los-colombianos-ejerzan-su-derecho-al-voto-en-la-segunda-vuelta-presidencial-3564357",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-15T09:10:06-05:00",
+      "title": "Calculadora de votos para segunda vuelta: estos son los votos decisivos",
+      "link": "https://www.lasillavacia.com/silla-nacional/calculadora-de-votos-para-segunda-vuelta-estos-son-los-votos-decisivos/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 15 Jun 2026 06:00:00 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Así fueron los cierres de campaña de Abelardo De la Espriella en Buga, Valle del Cauca, e Iván Cepeda en Soledad y Bogotá",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fueron-los-cierres-de-campana-de-abelardo-de-la-espriella-en-buga-valle-del-cauca-e-ivan-cepeda-en-soledad-y-bogota-3564321",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-15T08:08:16-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
