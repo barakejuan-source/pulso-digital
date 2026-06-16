@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T20:57:25.205Z",
+  "updatedAt": "2026-06-16T23:27:30.569Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 35,
+      "trendsScore": 34,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 592342,
       "finalScore": 51,
       "momentum": {
-        "value": 2,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 46.4
@@ -47,26 +47,82 @@
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: El máximo comandante del ELN cuestionó a Abelardo de la Espriella por su doble nacionalidad ",
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Iván Cepeda responde a la campaña de Abelardo de la Espriella tras difamaciones sobre su estado de salud ",
       "link": "https://www.infobae.com/colombia/2026/06/15/elecciones-presidenciales-de-colombia-2026-en-vivo-arranca-la-semana-decisiva-para-cepeda-y-de-la-espriella-antes-del-21-de-junio/",
       "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 20:38:20 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Tue, 16 Jun 2026 23:17:25 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "Bogotá modificó el horario de la ley seca para la segunda vuelta de las elecciones del 21 de junio: conozca los detalles",
-      "link": "https://www.infobae.com/colombia/2026/06/16/bogota-modifico-el-horario-de-la-ley-seca-para-la-segunda-vuelta-de-las-elecciones-del-21-de-junio-conozca-los-detalles/",
+      "title": "Iván Cepeda reveló certificado médico que evidencia que está en buen estado de salud: “Estoy en las mejores condiciones para ejercer”",
+      "link": "https://www.infobae.com/colombia/2026/06/16/ivan-cepeda-revelo-certificado-medico-que-evidencia-que-esta-en-buen-estado-de-salud-estoy-en-las-mejores-condiciones-para-ejercer/",
       "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 20:27:45 +0000",
+      "pubDate": "Tue, 16 Jun 2026 23:17:20 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "La OEA despliega una misión de observación para la segunda vuelta de las elecciones presidenciales de Colombia",
+      "link": "https://www.infobae.com/america/agencias/2026/06/16/la-oea-despliega-una-mision-de-observacion-para-la-segunda-vuelta-de-las-elecciones-presidenciales-de-colombia/",
+      "source": "Infobae",
+      "pubDate": "Tue, 16 Jun 2026 23:15:32 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Abelardo de la Espriella respondió denuncia de Iván Cepeda por supuesto saqueo al sistema de salud: “Denuncie a miembros del Gobierno”",
-      "link": "https://www.infobae.com/colombia/2026/06/16/abelardo-de-la-espriella-respondio-a-la-denuncia-de-ivan-cepeda-por-supuesto-saqueo-en-el-sistema-de-salud-denuncie-a-miembros-del-gobierno/",
+      "title": "Iván Cepeda desmiente rumores sobre problemas de salud y comparte certificado médico a días de las elecciones presidenciales: 'Facultado y capacitado'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-desmiente-rumores-sobre-problemas-de-salud-y-comparte-certificado-medico-a-dias-de-las-elecciones-presidenciales-facultado-y-capacitado-3564698",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-16T18:03:03-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Iván Cepeda copió estrategia de Rodolfo Hernández para la recta final de las elecciones presidenciales: esta fue la contratación que hizo",
+      "link": "https://www.infobae.com/colombia/2026/06/16/ivan-cepeda-copio-estrategia-de-rodolfo-hernandez-para-la-recta-final-de-las-elecciones-presidenciales-esta-fue-la-contratacion-que-hizo/",
       "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 20:16:36 +0000",
+      "pubDate": "Tue, 16 Jun 2026 22:58:40 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Así van los gastos de campaña de Abelardo de la Espriella e Iván Cepeda durante la segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-van-los-gastos-de-campana-de-abelardo-de-la-espriella-e-ivan-cepeda-durante-la-segunda-vuelta-3564684",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-16T17:56:20-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Campaña de Abelardo de la Espriella negó señalamientos sobre millonarios pagos a una “empresa fantasma”: “Ultrajante e infamante”",
+      "link": "https://www.infobae.com/colombia/2026/06/16/campana-de-abelardo-de-la-espriella-nego-senalamientos-sobre-millonarios-pagos-a-una-empresa-fantasma-ultrajante-e-infamante/",
+      "source": "Infobae",
+      "pubDate": "Tue, 16 Jun 2026 22:50:52 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Jorge Nieto propone a Keiko Fujimori indultar a Pedro Castillo: “Tiene que decir al país que es otra”",
+      "link": "https://www.infobae.com/peru/2026/06/16/jorge-nieto-propone-a-keiko-fujimori-indultar-a-pedro-castillo-tiene-que-decir-al-pais-que-es-otra/",
+      "source": "Infobae",
+      "pubDate": "Tue, 16 Jun 2026 22:40:07 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Paloma Valencia lanzó dura advertencia al petrismo de cara a la segunda vuelta: “No empiecen con sus discursos de ‘incendiar el país’ si pierden”",
+      "link": "https://www.infobae.com/colombia/2026/06/16/paloma-valencia-lanzo-dura-advertencia-al-petrismo-de-cara-a-la-segunda-vuelta-no-empiecen-con-sus-discursos-de-incendiar-el-pais-si-pierden/",
+      "source": "Infobae",
+      "pubDate": "Tue, 16 Jun 2026 22:38:42 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Catherine Juvinao y Claudia López esperan un acuerdo programático con el candidato Iván Cepeda: “No hemos llegado a eso”",
+      "link": "https://www.infobae.com/colombia/2026/06/16/catherine-juvinao-y-claudia-lopez-esperan-un-acuerdo-programatico-con-el-candidato-ivan-cepeda-no-hemos-llegado-a-eso/",
+      "source": "Infobae",
+      "pubDate": "Tue, 16 Jun 2026 22:35:26 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -83,30 +139,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/seguridad-y-paz-los-principales-temas-de-conversacion-digital-de-cara-a-la-segunda-vuelta-presidencial-3564597",
       "source": "El Tiempo",
       "pubDate": "2026-06-16T12:27:19-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Conocerá Perú pronto a su nuevo presidente?: Fujimori amplía su ventaja sobre Sánchez",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260616-conocer%C3%A1-per%C3%BA-pronto-a-su-nuevo-presidente-fujimori-ampl%C3%ADa-su-ventaja-sobre-s%C3%A1nchez",
-      "source": "France 24",
-      "pubDate": "Tue, 16 Jun 2026 17:23:22 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "MinTIC desplegará monitoreo de deepfakes y desinformación durante la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/mintic-desplegara-monitoreo-de-deepfakes-y-desinformacion-durante-la-segunda-vuelta-presidencial-3564552",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-16T10:21:12-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo de la Espriella e Iván Cepeda: cómo se comparan las propuestas de los rivales en las elecciones a la presidencia de Colombia",
-      "link": "https://www.bbc.com/mundo/articles/cevlx1y9zr1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Tue, 16 Jun 2026 10:56:15 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
