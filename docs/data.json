@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T17:03:10.567Z",
+  "updatedAt": "2026-06-16T20:57:25.205Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 33,
+      "trendsScore": 35,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 50,
+      "finalScore": 51,
       "momentum": {
-        "value": 0,
+        "value": 2,
         "direction": "flat"
       },
-      "probability": 45.9
+      "probability": 46.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,49 +42,57 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 54.1
+      "probability": 53.6
     }
   ],
   "articles": [
     {
-      "title": "¿Por qué Keiko Fujimori se va del Perú en medio del proceso de segunda vuelta que aún no concluye y que mantiene en vilo a todo un país?",
-      "link": "https://www.infobae.com/peru/2026/06/14/por-que-keiko-fujimori-se-va-del-peru-en-medio-del-proceso-de-segunda-vuelta-que-aun-no-concluye-y-que-mantiene-en-vilo-a-todo-un-pais/",
-      "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 16:59:44 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Abelardo de la Espriella tiene un 89% de probabilidad de ser el nuevo presidente de Colombia, según plataforma de apuestas",
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: El máximo comandante del ELN cuestionó a Abelardo de la Espriella por su doble nacionalidad ",
       "link": "https://www.infobae.com/colombia/2026/06/15/elecciones-presidenciales-de-colombia-2026-en-vivo-arranca-la-semana-decisiva-para-cepeda-y-de-la-espriella-antes-del-21-de-junio/",
       "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 16:56:12 +0000",
+      "pubDate": "Tue, 16 Jun 2026 20:38:20 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Autoridades identifican 99 municipios con riesgos electorales y refuerzan seguridad para la segunda vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/autoridades-identifican-99-municipios-con-riesgos-electorales-y-refuerzan-seguridad-para-la-segunda-vuelta-3564575",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-16T11:51:26-05:00",
+      "title": "Bogotá modificó el horario de la ley seca para la segunda vuelta de las elecciones del 21 de junio: conozca los detalles",
+      "link": "https://www.infobae.com/colombia/2026/06/16/bogota-modifico-el-horario-de-la-ley-seca-para-la-segunda-vuelta-de-las-elecciones-del-21-de-junio-conozca-los-detalles/",
+      "source": "Infobae",
+      "pubDate": "Tue, 16 Jun 2026 20:27:45 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Coronel (r) Luis Alfonso Plazas Vega, coordinador de la retoma del Palacio de Justicia, anunció su apoyo a Abelardo de la Espriella: “Va a salvar a Colombia”",
-      "link": "https://www.infobae.com/colombia/2026/06/16/coronel-r-luis-alfonso-plazas-vega-anuncio-su-apoyo-a-abelardo-de-la-espriella-para-la-segunda-vuelta-presidencial-va-a-salvar-a-colombia/",
+      "title": "Abelardo de la Espriella respondió denuncia de Iván Cepeda por supuesto saqueo al sistema de salud: “Denuncie a miembros del Gobierno”",
+      "link": "https://www.infobae.com/colombia/2026/06/16/abelardo-de-la-espriella-respondio-a-la-denuncia-de-ivan-cepeda-por-supuesto-saqueo-en-el-sistema-de-salud-denuncie-a-miembros-del-gobierno/",
       "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 16:48:36 +0000",
+      "pubDate": "Tue, 16 Jun 2026 20:16:36 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Abelardo de la Espriella sigue sacándole ventaja a Iván Cepeda: tiene 89% de probabilidad de ser el próximo presidente de Colombia según Polymarket",
-      "link": "https://www.infobae.com/colombia/2026/06/16/abelardo-de-la-espriella-sigue-sacandole-ventaja-a-ivan-cepeda-en-polymarket-tiene-89-de-probabilidad-de-ser-el-proximo-presidente-de-colombia/",
-      "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 16:41:23 +0000",
+      "title": "Aumenta la vigilancia electoral: CNE registra más testigos para la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/aumenta-la-vigilancia-electoral-cne-registra-mas-testigos-para-la-segunda-vuelta-presidencial-3564610",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-16T12:58:48-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Seguridad y paz, los principales temas de conversación digital de cara a la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/seguridad-y-paz-los-principales-temas-de-conversacion-digital-de-cara-a-la-segunda-vuelta-presidencial-3564597",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-16T12:27:19-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Conocerá Perú pronto a su nuevo presidente?: Fujimori amplía su ventaja sobre Sánchez",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260616-conocer%C3%A1-per%C3%BA-pronto-a-su-nuevo-presidente-fujimori-ampl%C3%ADa-su-ventaja-sobre-s%C3%A1nchez",
+      "source": "France 24",
+      "pubDate": "Tue, 16 Jun 2026 17:23:22 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "MinTIC desplegará monitoreo de deepfakes y desinformación durante la segunda vuelta presidencial",
@@ -95,52 +103,12 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "'El material electoral está absolutamente protegido': registrador Hernán Penagos en instalación del PMU por elecciones del 21 de junio",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-material-electoral-esta-absolutamente-protegido-registrador-hernan-penagos-en-instalacion-del-pmu-por-elecciones-del-21-de-junio-3564528",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-16T09:22:49-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Mindefensa, Registraduría y Fuerza Pública instalan PMU para seguimiento de la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/mindefensa-registraduria-y-fuerza-publica-instalan-pmu-para-seguimiento-de-la-segunda-vuelta-presidencial-3564523",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-16T09:10:14-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo incluye a Carlos Amaya en supuesta operación de compra de votos",
-      "link": "https://www.lasillavacia.com/en-vivo/abelardo-incluye-a-carlos-amaya-en-supuesta-operacion-de-compra-de-votos/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 16 Jun 2026 13:15:34 +0000",
+      "title": "Abelardo de la Espriella e Iván Cepeda: cómo se comparan las propuestas de los rivales en las elecciones a la presidencia de Colombia",
+      "link": "https://www.bbc.com/mundo/articles/cevlx1y9zr1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Tue, 16 Jun 2026 10:56:15 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo de la Espriella señala a los gobernadores de Boyacá y Nariño por supuestas presiones electorales; esto responden los mandatarios locales",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-senala-a-los-gobernadores-de-boyaca-y-narino-por-supuestas-presiones-electorales-esto-responden-los-mandatarios-locales-3564481",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-16T08:03:47-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desayune informado con las claves de este 16 de junio de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-16-de-junio-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 16 Jun 2026 12:20:35 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones presidenciales en Colombia 2026: instalan Puesto de Mando Unificado de cara a la segunda vuelta del 21 de junio",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-transcurren-con-normalidad-las-elecciones-en-el-exterior-antes-de-la-segunda-vuelta-del-21-de-junio-3564470",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-16T06:01:00-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
