@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-16T04:47:27.747Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-16T11:20:00.682Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 592342,
       "finalScore": 50,
       "momentum": {
-        "value": -3.8,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 45.9
@@ -47,20 +47,36 @@
   ],
   "articles": [
     {
-      "title": "Registraduría abrió capacitaciones gratuitas para la segunda vuelta presidencial 2026: cómo es el acceso y cuáles son los contenidos",
-      "link": "https://www.infobae.com/colombia/2026/06/16/registraduria-abrio-capacitaciones-gratuitas-para-la-segunda-vuelta-presidencial-2026-como-es-el-acceso-y-cuales-son-los-contenidos/",
-      "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 04:44:18 +0000",
+      "title": "Abelardo de la Espriella e Iván Cepeda: cómo se comparan las propuestas de los rivales en las elecciones a la presidencia de Colombia",
+      "link": "https://www.bbc.com/mundo/articles/cevlx1y9zr1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Tue, 16 Jun 2026 10:56:15 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones presidenciales en Colombia 2026: transcurren con normalidad las elecciones en el exterior antes de la segunda vuelta del 21 de junio",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-transcurren-con-normalidad-las-elecciones-en-el-exterior-antes-de-la-segunda-vuelta-del-21-de-junio-3564470",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-16T04:55:00-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "“Quieren un genocidio del pueblo colombiano”: Petro arremete contra Abelardo de la Espriella por comparación con la ofensiva de Israel en Gaza",
-      "link": "https://www.infobae.com/colombia/2026/06/16/quieren-un-genocidio-del-pueblo-colombiano-petro-arremete-contra-abelardo-de-la-espriella-por-comparacion-con-la-ofensiva-de-israel-en-gaza/",
-      "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 04:27:11 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Cepeda y Abelardo en Bogotá: la puja está en el voto de la clase media",
+      "link": "https://www.lasillavacia.com/silla-nacional/cepeda-y-abelardo-en-bogota-la-puja-esta-en-el-voto-de-la-clase-media/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 16 Jun 2026 06:00:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Seguridad, principal preocupación en suroccidente previo a segunda vuelta presidencial en Colombia",
+      "link": "https://www.france24.com/es/video/20260616-seguridad-principal-preocupaci%C3%B3n-en-suroccidente-previo-a-segunda-vuelta-presidencial-en-colombia",
+      "source": "France 24",
+      "pubDate": "Tue, 16 Jun 2026 04:38:21 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "El Caribe, el voto urbano y los abstencionistas: fichas decisivas del balotaje en Colombia",
@@ -101,14 +117,6 @@
       "pubDate": "Mon, 15 Jun 2026 22:01:56 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Invamer desmintió imagen falsa que circula en redes sobre una encuesta de la segunda vuelta presidencial de 2026",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/invamer-desmintio-imagen-falsa-que-circula-en-redes-sobre-una-encuesta-de-la-segunda-vuelta-presidencial-de-3564369",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-15T12:20:00-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Cepeda vincula a De La Espriella con supuestos delitos en sector salud",
