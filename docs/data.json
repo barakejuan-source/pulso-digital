@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T15:43:39.867Z",
+  "updatedAt": "2026-06-17T18:25:04.617Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,36 +47,84 @@
   ],
   "articles": [
     {
-      "title": "Políticos reaccionaron a las declaraciones de Gustavo Bolívar donde afirmó que si gana Abelardo de la Espriella se incendia el país: “Tienen que madurar”",
-      "link": "https://www.infobae.com/colombia/2026/06/17/politicos-reaccionaron-a-las-declaraciones-de-gustavo-bolivar-donde-afirmo-que-si-gana-abelardo-de-la-espriella-se-incendia-el-pais-tienen-que-madurar/",
+      "title": "Exalcaldesa Claudia López se suma a Cepeda para la segunda vuelta presidencial en Colombia",
+      "link": "https://www.infobae.com/america/agencias/2026/06/17/exalcaldesa-claudia-lopez-se-suma-a-cepeda-para-la-segunda-vuelta-presidencial-en-colombia/",
       "source": "Infobae",
-      "pubDate": "Wed, 17 Jun 2026 15:31:48 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Gustavo Bolívar dijo que lo sacaron de contexto cuando dijo que ‘se incendiaba’ el país con una victoria de De la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/15/elecciones-presidenciales-de-colombia-2026-en-vivo-arranca-la-semana-decisiva-para-cepeda-y-de-la-espriella-antes-del-21-de-junio/",
-      "source": "Infobae",
-      "pubDate": "Wed, 17 Jun 2026 15:24:18 +0000",
+      "pubDate": "Wed, 17 Jun 2026 18:17:36 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones presidenciales en Colombia 2026: este 17 de junio se desplegarán en el país observadores de la Unión Europea de cara a la segunda vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-anuncios-de-los-candidatos-y-noticias-antes-de-la-segunda-vuelta-del-proximo-domingo-21-de-junio-3564787",
+      "title": "Ministro de Defensa anunció decreto para segunda vuelta de las elecciones presidenciales en Colombia: 'Está prohibido tomarle foto al voto'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ministro-de-defensa-anuncio-decreto-para-segunda-vuelta-de-las-elecciones-presidenciales-en-colombia-esta-prohibido-tomarle-foto-al-voto-3564907",
       "source": "El Tiempo",
-      "pubDate": "2026-06-17T10:18:47-05:00",
+      "pubDate": "2026-06-17T13:14:07-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Gustavo Bolívar aclaró por qué dijo que si ganaba Abelardo de la Espriella ‘se incendiaba’ el país: “Me están sacando de contexto” ",
-      "link": "https://www.infobae.com/colombia/2026/06/17/gustavo-bolivar-aclaro-por-que-dijo-que-si-ganaba-abelardo-de-la-espriella-se-incendiaba-el-pais-me-estan-sacando-de-contexto/",
+      "title": "Adriana Lucía desmintió que se iría de Colombia si Abelardo de la Espriella gana la Presidencia: “Jamás diría algo así” ",
+      "link": "https://www.infobae.com/colombia/2026/06/17/adriana-lucia-desmintio-que-se-iria-de-colombia-si-abelardo-de-la-espriella-gana-la-presidencia-jamas-diria-algo-asi/",
       "source": "Infobae",
-      "pubDate": "Wed, 17 Jun 2026 15:14:21 +0000",
+      "pubDate": "Wed, 17 Jun 2026 18:12:12 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Procuraduría abrió investigación contra siete embajadores de Colombia por presunta participación en política electoral durante la campaña presidencial",
+      "link": "https://www.infobae.com/colombia/2026/06/17/procuraduria-abrio-investigacion-contra-siete-embajadores-de-colombia-por-presunta-participacion-en-politica-electoral-durante-la-campana-presidencial/",
+      "source": "Infobae",
+      "pubDate": "Wed, 17 Jun 2026 18:00:05 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Claudia López anunció su apoyo a Iván Cepeda: 'Reconozco su talante serio y conciliador'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/claudia-lopez-anuncio-su-apoyo-a-ivan-cepeda-reconozco-su-talante-serio-y-conciliador-3564899",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-17T12:21:04-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Segunda vuelta: Pacto ha postulado 129 mil testigos y abelardismo 97 mil",
+      "link": "https://www.lasillavacia.com/en-vivo/segunda-vuelta-pacto-ha-postulado-129-mil-testigos-y-abelardismo-97-mil/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 17 Jun 2026 17:18:19 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Gobernador de Boyacá, Carlos Amaya, le responde al candidato Abelardo de la Espriella, quien lo acusó de presionar alcaldes: 'Mi tarea es gobernar'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gobernador-de-boyaca-carlos-amaya-le-responde-al-candidato-abelardo-de-la-espriella-quien-lo-acuso-de-presionar-alcaldes-mi-tarea-es-gobernar-3564916",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-17T12:03:35-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Restricciones a celulares, entre las medidas del decreto que blinda la segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/restricciones-a-celulares-entre-las-medidas-del-decreto-que-blinda-la-segunda-vuelta-3564914",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-17T12:00:32-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Claudia López anuncia su apoyo a Iván Cepeda",
+      "link": "https://www.lasillavacia.com/en-vivo/claudia-lopez-anuncia-su-apoyo-a-ivan-cepeda/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 17 Jun 2026 16:32:04 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Directo Latam y el lento avance del conteo de votos del balotaje en Perú",
+      "link": "https://www.france24.com/es/video/20260617-directo-latam-y-el-lento-avance-del-conteo-de-votos-del-balotaje-en-per%C3%BA",
+      "source": "France 24",
+      "pubDate": "Wed, 17 Jun 2026 16:28:06 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "No hay horarios de votación por candidato en segunda vuelta, imagen es un montaje",
@@ -91,54 +139,6 @@
       "link": "https://www.lasillavacia.com/red-de-expertos/red-social/por-que-el-pacifico-voto-masivamente-por-ivan-cepeda/",
       "source": "La Silla Vacía",
       "pubDate": "Wed, 17 Jun 2026 14:05:59 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Así será la Colombia de Abelardo de la Espriella",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/asi-sera-la-colombia-de-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 17 Jun 2026 12:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El \"apoyo total\" de Trump a De la Espriella: ¿qué suma y qué resta a la campaña del balotaje en Colombia?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260617-el-apoyo-total-de-trump-a-de-la-espriella-qu%C3%A9-suma-y-qu%C3%A9-resta-a-la-campa%C3%B1a-del-balotaje-en-colombia",
-      "source": "France 24",
-      "pubDate": "Wed, 17 Jun 2026 03:39:29 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Qué cambios han presentado las campañas de Cepeda y De la Espriella de cara a la segunda vuelta??",
-      "link": "https://www.france24.com/es/video/20260617-qu%C3%A9-cambios-han-presentado-las-campa%C3%B1as-de-cepeda-y-de-la-espriella-de-cara-a-la-segunda-vuelta",
-      "source": "France 24",
-      "pubDate": "Wed, 17 Jun 2026 02:57:09 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Senador Efraín Cepeda se suma al llamado a respetar los resultados de la segunda vuelta y propone que sea el 'primer pacto electoral'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/senador-efrain-cepeda-se-une-al-llamado-a-respetar-los-resultados-de-la-segunda-vuelta-y-propone-que-sea-el-primer-acto-electoral-3564742",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-16T21:07:10-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Mauricio Gaona desmiente rumores sobre acercamientos con un eventual gobierno del candidato Abelardo De la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/mauricio-gaona-desmiente-rumores-sobre-acercamientos-con-un-eventual-gobierno-del-candidato-abelardo-de-la-espriella-3564736",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-16T19:51:46-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda intensifica esfuerzos para acercarse al centro, ¿Claudia López llegará a su campaña?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-intensifica-esfuerzos-para-acercarse-al-centro-claudia-lopez-llegara-a-su-campana-3564669",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-16T18:50:34-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
