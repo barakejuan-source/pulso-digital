@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T23:27:30.569Z",
+  "updatedAt": "2026-06-17T04:27:40.677Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 34,
+      "trendsScore": 37,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 51,
+      "finalScore": 52,
       "momentum": {
-        "value": 0,
+        "value": 2,
         "direction": "flat"
       },
-      "probability": 46.4
+      "probability": 46.8
     },
     {
       "id": "abelardo_espriella",
@@ -42,47 +42,87 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 53.6
+      "probability": 53.2
     }
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Iván Cepeda responde a la campaña de Abelardo de la Espriella tras difamaciones sobre su estado de salud ",
-      "link": "https://www.infobae.com/colombia/2026/06/15/elecciones-presidenciales-de-colombia-2026-en-vivo-arranca-la-semana-decisiva-para-cepeda-y-de-la-espriella-antes-del-21-de-junio/",
+      "title": "Rafael López Aliaga amenaza con desaparecer la ONPE y el JNE: “Somos vergüenza mundial, se han equivocado de enemigo”",
+      "link": "https://www.infobae.com/peru/2026/06/17/rafael-lopez-aliaga-amenaza-con-desaparecer-la-onpe-y-el-jne-somos-verguenza-mundial-se-han-equivocado-de-enemigo/",
       "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 23:17:25 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda reveló certificado médico que evidencia que está en buen estado de salud: “Estoy en las mejores condiciones para ejercer”",
-      "link": "https://www.infobae.com/colombia/2026/06/16/ivan-cepeda-revelo-certificado-medico-que-evidencia-que-esta-en-buen-estado-de-salud-estoy-en-las-mejores-condiciones-para-ejercer/",
-      "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 23:17:20 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "La OEA despliega una misión de observación para la segunda vuelta de las elecciones presidenciales de Colombia",
-      "link": "https://www.infobae.com/america/agencias/2026/06/16/la-oea-despliega-una-mision-de-observacion-para-la-segunda-vuelta-de-las-elecciones-presidenciales-de-colombia/",
-      "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 23:15:32 +0000",
+      "pubDate": "Wed, 17 Jun 2026 03:53:05 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "El \"apoyo total\" de Trump a De la Espriella: ¿qué suma y qué resta a la campaña del balotaje en Colombia?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260617-el-apoyo-total-de-trump-a-de-la-espriella-qu%C3%A9-suma-y-qu%C3%A9-resta-a-la-campa%C3%B1a-del-balotaje-en-colombia",
+      "source": "France 24",
+      "pubDate": "Wed, 17 Jun 2026 03:39:29 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Qué cambios han presentado las campañas de Cepeda y De la Espriella de cara a la segunda vuelta??",
+      "link": "https://www.france24.com/es/video/20260617-qu%C3%A9-cambios-han-presentado-las-campa%C3%B1as-de-cepeda-y-de-la-espriella-de-cara-a-la-segunda-vuelta",
+      "source": "France 24",
+      "pubDate": "Wed, 17 Jun 2026 02:57:09 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Senador Efraín Cepeda se suma al llamado a respetar los resultados de la segunda vuelta y propone que sea el 'primer pacto electoral'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/senador-efrain-cepeda-se-une-al-llamado-a-respetar-los-resultados-de-la-segunda-vuelta-y-propone-que-sea-el-primer-acto-electoral-3564742",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-16T21:07:10-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Mauricio Gaona desmiente rumores sobre acercamientos con un eventual gobierno del candidato Abelardo De la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-presidenciales-2026-primera-vuelta/mauricio-gaona-desmiente-rumores-sobre-acercamientos-con-un-eventual-gobierno-del-candidato-abelardo-de-la-espriella-3564736",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-16T19:51:46-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El círculo de poder de Iván Cepeda",
+      "link": "https://www.lasillavacia.com/silla-nacional/el-circulo-de-poder-de-ivan-cepeda/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 17 Jun 2026 00:27:11 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Duerma informado con las movidas de este 16 de junio de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-16-de-junio-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 17 Jun 2026 00:15:00 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Bogotá cambia horario de ley seca: será del sábado al lunes al mediodía",
+      "link": "https://www.lasillavacia.com/en-vivo/bogota-cambia-horario-de-ley-seca-sera-del-sabado-al-lunes-al-mediodia/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 17 Jun 2026 00:10:25 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iván Cepeda intensifica esfuerzos para acercarse al centro, ¿Claudia López llegará a su campaña?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-intensifica-esfuerzos-para-acercarse-al-centro-claudia-lopez-llegara-a-su-campana-3564669",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-16T18:50:34-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Iván Cepeda desmiente rumores sobre problemas de salud y comparte certificado médico a días de las elecciones presidenciales: 'Facultado y capacitado'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-desmiente-rumores-sobre-problemas-de-salud-y-comparte-certificado-medico-a-dias-de-las-elecciones-presidenciales-facultado-y-capacitado-3564698",
       "source": "El Tiempo",
-      "pubDate": "2026-06-16T18:03:03-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda copió estrategia de Rodolfo Hernández para la recta final de las elecciones presidenciales: esta fue la contratación que hizo",
-      "link": "https://www.infobae.com/colombia/2026/06/16/ivan-cepeda-copio-estrategia-de-rodolfo-hernandez-para-la-recta-final-de-las-elecciones-presidenciales-esta-fue-la-contratacion-que-hizo/",
-      "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 22:58:40 +0000",
+      "pubDate": "2026-06-16T18:38:03-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -95,52 +135,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Campaña de Abelardo de la Espriella negó señalamientos sobre millonarios pagos a una “empresa fantasma”: “Ultrajante e infamante”",
-      "link": "https://www.infobae.com/colombia/2026/06/16/campana-de-abelardo-de-la-espriella-nego-senalamientos-sobre-millonarios-pagos-a-una-empresa-fantasma-ultrajante-e-infamante/",
-      "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 22:50:52 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Jorge Nieto propone a Keiko Fujimori indultar a Pedro Castillo: “Tiene que decir al país que es otra”",
-      "link": "https://www.infobae.com/peru/2026/06/16/jorge-nieto-propone-a-keiko-fujimori-indultar-a-pedro-castillo-tiene-que-decir-al-pais-que-es-otra/",
-      "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 22:40:07 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Paloma Valencia lanzó dura advertencia al petrismo de cara a la segunda vuelta: “No empiecen con sus discursos de ‘incendiar el país’ si pierden”",
-      "link": "https://www.infobae.com/colombia/2026/06/16/paloma-valencia-lanzo-dura-advertencia-al-petrismo-de-cara-a-la-segunda-vuelta-no-empiecen-con-sus-discursos-de-incendiar-el-pais-si-pierden/",
-      "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 22:38:42 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Catherine Juvinao y Claudia López esperan un acuerdo programático con el candidato Iván Cepeda: “No hemos llegado a eso”",
-      "link": "https://www.infobae.com/colombia/2026/06/16/catherine-juvinao-y-claudia-lopez-esperan-un-acuerdo-programatico-con-el-candidato-ivan-cepeda-no-hemos-llegado-a-eso/",
-      "source": "Infobae",
-      "pubDate": "Tue, 16 Jun 2026 22:35:26 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "Aumenta la vigilancia electoral: CNE registra más testigos para la segunda vuelta presidencial",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/aumenta-la-vigilancia-electoral-cne-registra-mas-testigos-para-la-segunda-vuelta-presidencial-3564610",
       "source": "El Tiempo",
       "pubDate": "2026-06-16T12:58:48-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Seguridad y paz, los principales temas de conversación digital de cara a la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/seguridad-y-paz-los-principales-temas-de-conversacion-digital-de-cara-a-la-segunda-vuelta-presidencial-3564597",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-16T12:27:19-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
