@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T11:04:58.570Z",
+  "updatedAt": "2026-06-17T15:43:39.867Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,20 +47,60 @@
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Iván Cepeda responde a la campaña de Abelardo de la Espriella tras difamaciones sobre su estado de salud ",
+      "title": "Políticos reaccionaron a las declaraciones de Gustavo Bolívar donde afirmó que si gana Abelardo de la Espriella se incendia el país: “Tienen que madurar”",
+      "link": "https://www.infobae.com/colombia/2026/06/17/politicos-reaccionaron-a-las-declaraciones-de-gustavo-bolivar-donde-afirmo-que-si-gana-abelardo-de-la-espriella-se-incendia-el-pais-tienen-que-madurar/",
+      "source": "Infobae",
+      "pubDate": "Wed, 17 Jun 2026 15:31:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Gustavo Bolívar dijo que lo sacaron de contexto cuando dijo que ‘se incendiaba’ el país con una victoria de De la Espriella",
       "link": "https://www.infobae.com/colombia/2026/06/15/elecciones-presidenciales-de-colombia-2026-en-vivo-arranca-la-semana-decisiva-para-cepeda-y-de-la-espriella-antes-del-21-de-junio/",
       "source": "Infobae",
-      "pubDate": "Wed, 17 Jun 2026 10:27:32 +0000",
+      "pubDate": "Wed, 17 Jun 2026 15:24:18 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones presidenciales en Colombia 2026: este 17 de junio se desplegarán en el país observadores de la Unión Europea de cara a la segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-anuncios-de-los-candidatos-y-noticias-antes-de-la-segunda-vuelta-del-proximo-domingo-21-de-junio-3564787",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-17T10:18:47-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Gustavo Bolívar aclaró por qué dijo que si ganaba Abelardo de la Espriella ‘se incendiaba’ el país: “Me están sacando de contexto” ",
+      "link": "https://www.infobae.com/colombia/2026/06/17/gustavo-bolivar-aclaro-por-que-dijo-que-si-ganaba-abelardo-de-la-espriella-se-incendiaba-el-pais-me-estan-sacando-de-contexto/",
+      "source": "Infobae",
+      "pubDate": "Wed, 17 Jun 2026 15:14:21 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "No hay horarios de votación por candidato en segunda vuelta, imagen es un montaje",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/no-hay-horarios-de-votacion-por-candidato-en-segunda-vuelta-imagen-es-un-montaje/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 17 Jun 2026 14:39:57 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Por qué el Pacífico votó masivamente por Iván Cepeda?",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/por-que-el-pacifico-voto-masivamente-por-ivan-cepeda/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 17 Jun 2026 14:05:59 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Elecciones presidenciales en Colombia 2026: anuncios de los candidatos y noticias antes de la segunda vuelta del próximo domingo 21 de junio",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-anuncios-de-los-candidatos-y-noticias-antes-de-la-segunda-vuelta-del-proximo-domingo-21-de-junio-3564787",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-17T02:41:46-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Así será la Colombia de Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/asi-sera-la-colombia-de-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 17 Jun 2026 12:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "El \"apoyo total\" de Trump a De la Espriella: ¿qué suma y qué resta a la campaña del balotaje en Colombia?",
@@ -95,50 +135,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El círculo de poder de Iván Cepeda",
-      "link": "https://www.lasillavacia.com/silla-nacional/el-circulo-de-poder-de-ivan-cepeda/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 17 Jun 2026 00:27:11 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Duerma informado con las movidas de este 16 de junio de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-16-de-junio-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 17 Jun 2026 00:15:00 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Bogotá cambia horario de ley seca: será del sábado al lunes al mediodía",
-      "link": "https://www.lasillavacia.com/en-vivo/bogota-cambia-horario-de-ley-seca-sera-del-sabado-al-lunes-al-mediodia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 17 Jun 2026 00:10:25 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Iván Cepeda intensifica esfuerzos para acercarse al centro, ¿Claudia López llegará a su campaña?",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-intensifica-esfuerzos-para-acercarse-al-centro-claudia-lopez-llegara-a-su-campana-3564669",
       "source": "El Tiempo",
       "pubDate": "2026-06-16T18:50:34-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda desmiente rumores sobre problemas de salud y comparte certificado médico a días de las elecciones presidenciales: 'Facultado y capacitado'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-desmiente-rumores-sobre-problemas-de-salud-y-comparte-certificado-medico-a-dias-de-las-elecciones-presidenciales-facultado-y-capacitado-3564698",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-16T18:38:03-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Así van los gastos de campaña de Abelardo de la Espriella e Iván Cepeda durante la segunda vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-van-los-gastos-de-campana-de-abelardo-de-la-espriella-e-ivan-cepeda-durante-la-segunda-vuelta-3564684",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-16T17:56:20-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
