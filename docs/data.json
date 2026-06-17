@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-17T04:27:40.677Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-17T11:04:58.570Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 592342,
       "finalScore": 52,
       "momentum": {
-        "value": 2,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 46.8
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Rafael López Aliaga amenaza con desaparecer la ONPE y el JNE: “Somos vergüenza mundial, se han equivocado de enemigo”",
-      "link": "https://www.infobae.com/peru/2026/06/17/rafael-lopez-aliaga-amenaza-con-desaparecer-la-onpe-y-el-jne-somos-verguenza-mundial-se-han-equivocado-de-enemigo/",
+      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Iván Cepeda responde a la campaña de Abelardo de la Espriella tras difamaciones sobre su estado de salud ",
+      "link": "https://www.infobae.com/colombia/2026/06/15/elecciones-presidenciales-de-colombia-2026-en-vivo-arranca-la-semana-decisiva-para-cepeda-y-de-la-espriella-antes-del-21-de-junio/",
       "source": "Infobae",
-      "pubDate": "Wed, 17 Jun 2026 03:53:05 +0000",
+      "pubDate": "Wed, 17 Jun 2026 10:27:32 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones presidenciales en Colombia 2026: anuncios de los candidatos y noticias antes de la segunda vuelta del próximo domingo 21 de junio",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-anuncios-de-los-candidatos-y-noticias-antes-de-la-segunda-vuelta-del-proximo-domingo-21-de-junio-3564787",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-17T02:41:46-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -133,14 +141,6 @@
       "pubDate": "2026-06-16T17:56:20-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Aumenta la vigilancia electoral: CNE registra más testigos para la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/aumenta-la-vigilancia-electoral-cne-registra-mas-testigos-para-la-segunda-vuelta-presidencial-3564610",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-16T12:58:48-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
