@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-18T15:34:47.868Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-18T18:29:24.694Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 36,
+      "trendsScore": 37,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -47,18 +47,74 @@
   ],
   "articles": [
     {
-      "title": "Exciclista de BMX y medallista olímpico Carlos Oquendo anunció que votará por Abelardo de la Espriella y explicó sus razones: “Hablo como deportista”",
-      "link": "https://www.infobae.com/colombia/2026/06/18/exciclista-de-bmx-y-medallista-olimpico-carlos-oquendo-anuncio-que-votara-por-abelardo-de-la-espriella-y-explico-sus-razones-hablo-como-deportista/",
+      "title": "Marcela Reyes reveló su voto para la segunda vuelta presidencial, pero confesó que aún tiene dudas de ambos candidatos: “Me han explicado cosas” ",
+      "link": "https://www.infobae.com/colombia/2026/06/18/marcela-reyes-revelo-su-voto-para-la-segunda-vuelta-presidencial-pero-confeso-que-aun-tiene-dudas-de-ambos-candidatos-me-han-explicado-cosas/",
       "source": "Infobae",
-      "pubDate": "Thu, 18 Jun 2026 15:18:52 +0000",
+      "pubDate": "Thu, 18 Jun 2026 18:07:21 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Qué ha pasado con el escrutinio nacional de Senado, que lleva el CNE, dos meses después de las elecciones legislativas y a días de la segunda vuelta?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-ha-pasado-con-el-escrutinio-nacional-de-senado-que-lleva-el-cne-dos-meses-despues-de-las-elecciones-legislativas-y-a-dias-de-la-segunda-vuelta-3565238",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-18T13:06:28-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "‘Influencer’ denunció que Laura Gallego, ‘Miss bala’, crea contenido a favor de Abelardo de la Espriella a pesar de que estaría trabajando en el CNE",
+      "link": "https://www.infobae.com/colombia/2026/06/18/influencer-denuncio-que-laura-gallego-miss-bala-crea-contenido-a-favor-de-abelardo-de-la-espriella-a-pesar-de-que-estaria-trabajando-en-el-cne/",
+      "source": "Infobae",
+      "pubDate": "Thu, 18 Jun 2026 18:06:14 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Sea Abelardo de la Espriella o Iván Cepeda, el ELN estará dispuesto a un diálogo de paz o para la guerra, señaló líder guerrillero",
-      "link": "https://www.infobae.com/colombia/2026/06/18/sea-abelardo-de-la-espriella-o-ivan-cepeda-el-eln-estara-dispuesto-a-un-dialogo-de-paz-o-para-la-guerra-senalo-lider-guerrillero/",
+      "title": "María Fernanda Cabal denució que las disidencias en Huila estan citando a ciudadanos para dar instrucciones de la votación del 21 de junio",
+      "link": "https://www.infobae.com/colombia/2026/06/18/maria-fernanda-cabal-denucio-que-las-disidencias-en-huila-estan-citando-a-ciudadanos-para-dar-instrucciones-de-la-votacion-del-21-de-junio/",
       "source": "Infobae",
-      "pubDate": "Thu, 18 Jun 2026 15:09:12 +0000",
+      "pubDate": "Thu, 18 Jun 2026 18:04:26 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Carlos Carrillo calificó las publicaciones del presidente Petro como problemáticas y le aconsejó desinstalar X: “Que vuelva a leer”",
+      "link": "https://www.infobae.com/colombia/2026/06/18/carlos-carrillo-califico-las-publicaciones-del-presidente-petro-como-problematicas-y-le-aconsejo-desinstalar-x-que-vuelva-a-leer/",
+      "source": "Infobae",
+      "pubDate": "Thu, 18 Jun 2026 18:00:59 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "El amor y el gobierno Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/opinion/el-amor-y-el-gobierno-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 18 Jun 2026 17:00:44 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elecciones presidenciales Colombia 2026: Consejo Nacional Electoral hizo llamado a personas en condición de discapacidad de participar en votaciones",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-todo-sobre-la-segunda-vuelta-presidencial-que-definira-al-proximo-presidente-3565112",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-18T11:14:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Colombia: ¿cómo las relaciones diplomáticas impactan en lo económico?",
+      "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260618-colombia-c%C3%B3mo-las-relaciones-diplom%C3%A1ticas-impactan-en-lo-econ%C3%B3mico",
+      "source": "France 24",
+      "pubDate": "Thu, 18 Jun 2026 16:05:42 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Candidato presidencial Iván Cepeda no descarta una constituyente, pese a haber retirado la propuesta de su plan de gobierno: 'Es una posibilidad'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/candidato-presidencial-ivan-cepeda-no-descarta-una-constituyente-pese-a-haber-retirado-la-propuesta-de-su-plan-de-gobierno-es-una-posibilidad-3565171",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-18T10:45:07-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -71,14 +127,6 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Elecciones presidenciales Colombia 2026: Claudia López explicó su apoyo a Iván Cepeda de cara a segunda vuelta: 'Ambas candidaturas implican riesgos'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-todo-sobre-la-segunda-vuelta-presidencial-que-definira-al-proximo-presidente-3565112",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-18T07:30:30-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "Fracking, glifosato, páramos y agua: Colombia mira su agenda verde de cara a un balotaje determinante",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260618-fracking-glifosato-p%C3%A1ramos-y-agua-colombia-mira-su-agenda-verde-de-cara-a-un-balotaje-determinante",
       "source": "France 24",
@@ -87,58 +135,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Así sería la Colombia de Iván Cepeda",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/asi-seria-la-colombia-de-ivan-cepeda/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 18 Jun 2026 12:00:00 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "Órganos de control llaman a la calma y a respetar los resultados de la segunda vuelta presidencial",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/organos-de-control-llaman-a-la-calma-y-a-respetar-los-resultados-de-la-segunda-vuelta-presidencial-3565049",
       "source": "El Tiempo",
       "pubDate": "2026-06-18T06:18:43-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "‘Sin lugar a dudas Colombia tiene la democracia más fuerte en América Latina’: Cristian Quiroz, presidente del CNE",
-      "link": "https://www.eltiempo.com/politica/sin-lugar-a-dudas-colombia-tiene-la-democracia-mas-fuerte-en-america-latina-entrevista-con-cristian-quiroz-presidente-del-cne-3565054",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-18T06:17:58-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "La “no adhesión” de Claudia logra nuevas concesiones de Iván Cepeda",
-      "link": "https://www.lasillavacia.com/silla-nacional/la-no-adhesion-de-claudia-logra-nuevas-concesiones-de-ivan-cepeda/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 18 Jun 2026 06:18:07 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Así votarán los líderes de opinión en la segunda vuelta",
-      "link": "https://www.lasillavacia.com/silla-nacional/asi-votaran-los-lideres-de-opinion-en-la-segunda-vuelta-2/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 18 Jun 2026 02:21:41 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Consejo Gremial rechaza amenazas de estallido social y pide respetar el resultado electoral de la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/consejo-gremial-rechaza-amenazas-de-estallido-social-y-pide-respetar-el-resultado-electoral-de-la-segunda-vuelta-presidencial-3565051",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-17T18:56:26-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "La polémica en Colombia por la detención en EE.UU. del activista Beto Coral, seguidor del presidente Petro",
-      "link": "https://www.bbc.com/mundo/articles/cd6ejp7e179o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Wed, 17 Jun 2026 21:41:04 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
