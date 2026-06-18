@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-18T04:21:06.994Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-18T10:26:30.539Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,20 +47,20 @@
   ],
   "articles": [
     {
-      "title": "“Con votos, no con amenazas”: Consejo Gremial pide respetar resultado de segunda vuelta electoral en Colombia ",
-      "link": "https://www.infobae.com/colombia/2026/06/18/con-votos-no-con-amenazas-consejo-gremial-pide-respetar-resultado-de-segunda-vuelta-electoral-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Thu, 18 Jun 2026 04:07:38 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Elecciones presidenciales Colombia 2026: todo sobre la segunda vuelta presidencial que definirá al próximo presidente",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-todo-sobre-la-segunda-vuelta-presidencial-que-definira-al-proximo-presidente-3565112",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-18T02:44:53-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "Respaldo completo y total”: Trump vuelve a apoya a Abelardo de la Espriella para segunda vuelta en Colombia ",
-      "link": "https://www.infobae.com/colombia/2026/06/18/respaldo-completo-y-total-trump-vuelve-a-apoya-a-abelardo-de-la-espriella-para-segunda-vuelta-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Thu, 18 Jun 2026 03:57:01 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "La “no adhesión” de Claudia logra nuevas concesiones de Iván Cepeda",
+      "link": "https://www.lasillavacia.com/silla-nacional/la-no-adhesion-de-claudia-logra-nuevas-concesiones-de-ivan-cepeda/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 18 Jun 2026 06:18:07 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Órganos de control llaman a la calma y a respetar los resultados de la segunda vuelta presidencial",
@@ -127,20 +127,20 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Javier Milei, presidente de Argentina, anuncia apoyo a Abelardo de la Espriella para segunda vuelta de las elecciones en Colombia: 'Camino es claro'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/javier-milei-presidente-de-argentina-expreso-su-apoyo-al-candidato-abelardo-de-la-espriella-de-cara-a-la-segunda-vuelta-el-camino-es-claro-3564993",
+      "title": "Abelardo de la Espriella cuestiona al gobierno Petro por iniciar proceso de zonas de ubicación temporal con disidencias en plena época electoral",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-cuestiona-al-gobierno-petro-por-iniciar-proceso-de-zonas-de-ubicacion-temporal-con-disidencias-en-plena-epoca-electoral-3565013",
       "source": "El Tiempo",
-      "pubDate": "2026-06-17T16:40:18-05:00",
+      "pubDate": "2026-06-17T16:27:02-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Milei habla con Abelardo y lo respalda para la segunda vuelta",
-      "link": "https://www.lasillavacia.com/en-vivo/milei-habla-con-abelardo-y-lo-respalda-para-la-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 17 Jun 2026 21:39:56 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Abelardo de la Espriella e Iván Cepeda: cómo se comparan las propuestas de los rivales en las elecciones a la presidencia de Colombia",
+      "link": "https://www.bbc.com/mundo/articles/cevlx1y9zr1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Tue, 16 Jun 2026 10:56:15 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     }
   ]
 }
