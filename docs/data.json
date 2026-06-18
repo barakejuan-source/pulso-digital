@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T10:26:30.539Z",
+  "updatedAt": "2026-06-18T15:34:47.868Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,12 +47,68 @@
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales Colombia 2026: todo sobre la segunda vuelta presidencial que definirá al próximo presidente",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-todo-sobre-la-segunda-vuelta-presidencial-que-definira-al-proximo-presidente-3565112",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-18T02:44:53-05:00",
+      "title": "Exciclista de BMX y medallista olímpico Carlos Oquendo anunció que votará por Abelardo de la Espriella y explicó sus razones: “Hablo como deportista”",
+      "link": "https://www.infobae.com/colombia/2026/06/18/exciclista-de-bmx-y-medallista-olimpico-carlos-oquendo-anuncio-que-votara-por-abelardo-de-la-espriella-y-explico-sus-razones-hablo-como-deportista/",
+      "source": "Infobae",
+      "pubDate": "Thu, 18 Jun 2026 15:18:52 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Sea Abelardo de la Espriella o Iván Cepeda, el ELN estará dispuesto a un diálogo de paz o para la guerra, señaló líder guerrillero",
+      "link": "https://www.infobae.com/colombia/2026/06/18/sea-abelardo-de-la-espriella-o-ivan-cepeda-el-eln-estara-dispuesto-a-un-dialogo-de-paz-o-para-la-guerra-senalo-lider-guerrillero/",
+      "source": "Infobae",
+      "pubDate": "Thu, 18 Jun 2026 15:09:12 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones Colombia: ¿Cómo Cepeda y De la Espriella están tratando de convencer a los indecisos?",
+      "link": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260618-elecciones-colombia-c%C3%B3mo-cepeda-y-de-la-espriella-est%C3%A1n-tratando-de-convencer-a-los-indecisos",
+      "source": "France 24",
+      "pubDate": "Thu, 18 Jun 2026 13:37:55 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones presidenciales Colombia 2026: Claudia López explicó su apoyo a Iván Cepeda de cara a segunda vuelta: 'Ambas candidaturas implican riesgos'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-todo-sobre-la-segunda-vuelta-presidencial-que-definira-al-proximo-presidente-3565112",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-18T07:30:30-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Fracking, glifosato, páramos y agua: Colombia mira su agenda verde de cara a un balotaje determinante",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260618-fracking-glifosato-p%C3%A1ramos-y-agua-colombia-mira-su-agenda-verde-de-cara-a-un-balotaje-determinante",
+      "source": "France 24",
+      "pubDate": "Thu, 18 Jun 2026 12:05:03 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así sería la Colombia de Iván Cepeda",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/asi-seria-la-colombia-de-ivan-cepeda/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 18 Jun 2026 12:00:00 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Órganos de control llaman a la calma y a respetar los resultados de la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/organos-de-control-llaman-a-la-calma-y-a-respetar-los-resultados-de-la-segunda-vuelta-presidencial-3565049",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-18T06:18:43-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "‘Sin lugar a dudas Colombia tiene la democracia más fuerte en América Latina’: Cristian Quiroz, presidente del CNE",
+      "link": "https://www.eltiempo.com/politica/sin-lugar-a-dudas-colombia-tiene-la-democracia-mas-fuerte-en-america-latina-entrevista-con-cristian-quiroz-presidente-del-cne-3565054",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-18T06:17:58-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "La “no adhesión” de Claudia logra nuevas concesiones de Iván Cepeda",
@@ -63,42 +119,10 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Órganos de control llaman a la calma y a respetar los resultados de la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/organos-de-control-llaman-a-la-calma-y-a-respetar-los-resultados-de-la-segunda-vuelta-presidencial-3565049",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-17T22:40:00-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Así votarán los líderes de opinión en la segunda vuelta",
       "link": "https://www.lasillavacia.com/silla-nacional/asi-votaran-los-lideres-de-opinion-en-la-segunda-vuelta-2/",
       "source": "La Silla Vacía",
       "pubDate": "Thu, 18 Jun 2026 02:21:41 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Economistas y políticos progresistas dan apoyo al modelo económico Petro-Cepeda",
-      "link": "https://www.lasillavacia.com/en-vivo/economistas-y-politicos-de-izquierda-dan-apoyo-al-modelo-economico-petro-cepeda/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 18 Jun 2026 00:51:01 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Congresistas gringos piden a Trump “no interferir” en las elecciones",
-      "link": "https://www.lasillavacia.com/en-vivo/congresistas-gringos-piden-a-trump-no-interferir-en-las-elecciones/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 18 Jun 2026 00:33:22 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "‘Sin lugar a dudas Colombia tiene la democracia más fuerte en América Latina’: Entrevista con Cristian Quiroz, presidente del CNE",
-      "link": "https://www.eltiempo.com/politica/sin-lugar-a-dudas-colombia-tiene-la-democracia-mas-fuerte-en-america-latina-entrevista-con-cristian-quiroz-presidente-del-cne-3565054",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-17T19:06:39-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -111,36 +135,12 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Eso no se hace: Benedetti a Carrillo por advertencia de protestas",
-      "link": "https://www.lasillavacia.com/en-vivo/eso-no-se-hace-benedetti-a-carrillo-por-advertencia-de-protestas/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 17 Jun 2026 21:51:15 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "La polémica en Colombia por la detención en EE.UU. del activista Beto Coral, seguidor del presidente Petro",
       "link": "https://www.bbc.com/mundo/articles/cd6ejp7e179o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
       "pubDate": "Wed, 17 Jun 2026 21:41:04 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo de la Espriella cuestiona al gobierno Petro por iniciar proceso de zonas de ubicación temporal con disidencias en plena época electoral",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-cuestiona-al-gobierno-petro-por-iniciar-proceso-de-zonas-de-ubicacion-temporal-con-disidencias-en-plena-epoca-electoral-3565013",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-17T16:27:02-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella e Iván Cepeda: cómo se comparan las propuestas de los rivales en las elecciones a la presidencia de Colombia",
-      "link": "https://www.bbc.com/mundo/articles/cevlx1y9zr1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Tue, 16 Jun 2026 10:56:15 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
