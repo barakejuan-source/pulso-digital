@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T22:05:09.881Z",
+  "updatedAt": "2026-06-18T04:21:06.994Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 37,
+      "trendsScore": 36,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -47,28 +47,68 @@
   ],
   "articles": [
     {
-      "title": "Segunda vuelta: este viernes el JNE decidirá si anula 1.761 mesas en Lima tras pedido de Juntos por el Perú",
-      "link": "https://www.infobae.com/peru/2026/06/17/segunda-vuelta-este-viernes-el-jne-decidira-si-anula-1761-mesas-en-lima-tras-pedido-de-juntos-por-el-peru/",
+      "title": "“Con votos, no con amenazas”: Consejo Gremial pide respetar resultado de segunda vuelta electoral en Colombia ",
+      "link": "https://www.infobae.com/colombia/2026/06/18/con-votos-no-con-amenazas-consejo-gremial-pide-respetar-resultado-de-segunda-vuelta-electoral-en-colombia/",
       "source": "Infobae",
-      "pubDate": "Wed, 17 Jun 2026 21:58:44 +0000",
+      "pubDate": "Thu, 18 Jun 2026 04:07:38 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Respaldo completo y total”: Trump vuelve a apoya a Abelardo de la Espriella para segunda vuelta en Colombia ",
+      "link": "https://www.infobae.com/colombia/2026/06/18/respaldo-completo-y-total-trump-vuelve-a-apoya-a-abelardo-de-la-espriella-para-segunda-vuelta-en-colombia/",
+      "source": "Infobae",
+      "pubDate": "Thu, 18 Jun 2026 03:57:01 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Órganos de control llaman a la calma y a respetar los resultados de la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/organos-de-control-llaman-a-la-calma-y-a-respetar-los-resultados-de-la-segunda-vuelta-presidencial-3565049",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-17T22:40:00-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Planes de gobierno: las propuestas definitivas de Abelardo de la Espriella e Iván Cepeda para la segunda vuelta presidencial del 21 de junio",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/planes-de-gobierno-las-propuestas-definitivas-de-abelardo-de-la-espriella-e-ivan-cepeda-para-la-segunda-vuelta-presidencial-del-21-de-junio-3564975",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-17T16:54:34-05:00",
+      "title": "Así votarán los líderes de opinión en la segunda vuelta",
+      "link": "https://www.lasillavacia.com/silla-nacional/asi-votaran-los-lideres-de-opinion-en-la-segunda-vuelta-2/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 18 Jun 2026 02:21:41 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Economistas y políticos progresistas dan apoyo al modelo económico Petro-Cepeda",
+      "link": "https://www.lasillavacia.com/en-vivo/economistas-y-politicos-de-izquierda-dan-apoyo-al-modelo-economico-petro-cepeda/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 18 Jun 2026 00:51:01 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Centro Democrático reveló la polémica ‘herencia de Petro’ en salud y educación: señaló que es lo mismo que busca Iván Cepeda",
-      "link": "https://www.infobae.com/colombia/2026/06/17/centro-democratico-revelo-la-polemica-herencia-de-petro-en-salud-y-educacion-senalo-que-es-lo-mismo-que-busca-ivan-cepeda/",
-      "source": "Infobae",
-      "pubDate": "Wed, 17 Jun 2026 21:52:06 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Congresistas gringos piden a Trump “no interferir” en las elecciones",
+      "link": "https://www.lasillavacia.com/en-vivo/congresistas-gringos-piden-a-trump-no-interferir-en-las-elecciones/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 18 Jun 2026 00:33:22 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "‘Sin lugar a dudas Colombia tiene la democracia más fuerte en América Latina’: Entrevista con Cristian Quiroz, presidente del CNE",
+      "link": "https://www.eltiempo.com/politica/sin-lugar-a-dudas-colombia-tiene-la-democracia-mas-fuerte-en-america-latina-entrevista-con-cristian-quiroz-presidente-del-cne-3565054",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-17T19:06:39-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Consejo Gremial rechaza amenazas de estallido social y pide respetar el resultado electoral de la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/consejo-gremial-rechaza-amenazas-de-estallido-social-y-pide-respetar-el-resultado-electoral-de-la-segunda-vuelta-presidencial-3565051",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-17T18:56:26-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Eso no se hace: Benedetti a Carrillo por advertencia de protestas",
@@ -77,14 +117,6 @@
       "pubDate": "Wed, 17 Jun 2026 21:51:15 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Alcalde de Lima advierte a Juntos por el Perú frente a nueva movilización: “No vamos a darle ninguna tregua a los violentos”",
-      "link": "https://www.infobae.com/peru/2026/06/17/alcalde-de-lima-adviete-a-juntos-por-el-peru-frente-a-nueva-movilizacion-no-vamos-a-darle-ninguna-tregua-a-los-violentos/",
-      "source": "Infobae",
-      "pubDate": "Wed, 17 Jun 2026 21:48:23 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "La polémica en Colombia por la detención en EE.UU. del activista Beto Coral, seguidor del presidente Petro",
@@ -109,38 +141,6 @@
       "pubDate": "Wed, 17 Jun 2026 21:39:56 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones presidenciales de Colombia 2026 en VIVO: Gustavo Bolívar dijo que lo sacaron de contexto cuando dijo que ‘se incendiaba’ el país con una victoria de De la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/15/elecciones-presidenciales-de-colombia-2026-en-vivo-arranca-la-semana-decisiva-para-cepeda-y-de-la-espriella-antes-del-21-de-junio/",
-      "source": "Infobae",
-      "pubDate": "Wed, 17 Jun 2026 21:39:19 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Javier Milei reafirmó su apoyo a Abelardo de la Espriella tras haber hablado por teléfono: “Se juega mucho más que una elección”",
-      "link": "https://www.infobae.com/colombia/2026/06/17/javier-milei-reafirmo-su-apoyo-a-abelardo-de-la-espriella-tras-haber-hablado-por-telefono-se-juega-mucho-mas-que-una-eleccion/",
-      "source": "Infobae",
-      "pubDate": "Wed, 17 Jun 2026 21:39:18 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella cuestiona al gobierno Petro por iniciar proceso de zonas de ubicación temporal con disidencias en plena época electoral",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-cuestiona-al-gobierno-petro-por-iniciar-proceso-de-zonas-de-ubicacion-temporal-con-disidencias-en-plena-epoca-electoral-3565013",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-17T16:27:02-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Salud en Colombia en ‘cuidados intensivos’: esto es lo que harían Iván Cepeda y Abelardo de la Espriella si llegan a la presidencia",
-      "link": "https://www.infobae.com/colombia/2026/06/17/salud-en-colombia-en-cuidados-intensivos-esto-es-lo-que-harian-ivan-cepeda-y-abelardo-de-la-espriella-si-llegan-a-la-presidencia/",
-      "source": "Infobae",
-      "pubDate": "Wed, 17 Jun 2026 21:25:43 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
