@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-19T10:44:50.048Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-19T15:29:21.214Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 39,
+      "trendsScore": 37,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 53,
+      "finalScore": 52,
       "momentum": {
-        "value": 0,
+        "value": -1.9,
         "direction": "flat"
       },
-      "probability": 47.3
+      "probability": 46.8
     },
     {
       "id": "abelardo_espriella",
@@ -42,105 +42,89 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.7
+      "probability": 53.2
     }
   ],
   "articles": [
     {
-      "title": "Resultados ONPE de Keiko Fujimori EN VIVO: lideresa de Fuerza Popular mantiene ventaja al 99.506% del conteo oficial",
-      "link": "https://www.infobae.com/peru/2026/06/07/resultados-onpe-de-keiko-fujimori-en-vivo-conteo-oficial-de-las-votaciones-de-la-segunda-vuelta-del-7-de-junio/",
-      "source": "Infobae",
-      "pubDate": "Fri, 19 Jun 2026 10:30:32 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "ONPE al 99.506%, región por región: Así va el voto de Keiko Fujimori y Roberto Sánchez en esta segunda vuelta",
-      "link": "https://www.infobae.com/peru/2026/06/07/onpe-resultados-en-vivo-por-regiones-mapa-electoral-de-segunda-vuelta-entre-keiko-fujimori-y-roberto-sanchez/",
-      "source": "Infobae",
-      "pubDate": "Fri, 19 Jun 2026 10:27:24 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Keiko Fujimori acrecienta su ventaja sobre Roberto Sánchez en la fase final del escrutinio, reporta la ONPE",
-      "link": "https://www.infobae.com/peru/2026/06/11/segunda-vuelta-cuanto-es-la-minima-diferencia-de-votos-entre-roberto-sanchez-y-keiko-fujimori-segun-onpe/",
-      "source": "Infobae",
-      "pubDate": "Fri, 19 Jun 2026 10:25:50 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "“Voy a votar por quién defienda el proceso de Paz”: Santos deja pista sobre segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/06/19/voy-a-votar-por-quien-defienda-el-proceso-de-paz-santos-deja-pista-sobre-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Fri, 19 Jun 2026 10:18:49 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones presidenciales Colombia 2026: últimas noticias de la segunda vuelta presidencial entre Iván Cepeda y Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-ultimas-noticias-de-la-segunda-vuelta-presidencial-entre-ivan-cepeda-y-abelardo-de-la-espriella-3565410",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-19T01:48:35-05:00",
+      "title": "Encuesta Invamer no registró a De la Espriella perdiendo en segunda vuelta ",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/encuesta-invamer-no-registro-a-de-la-espriella-perdiendo-en-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 19 Jun 2026 15:16:06 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones presidenciales de Colombia 2026, EN VIVO: Embajada de EE. UU. alerta por posibles protestas y Petro pide que dejen de “asustar”",
+      "link": "https://www.infobae.com/colombia/2026/06/18/elecciones-presidenciales-de-colombia-2026-en-vivo-ivan-cepeda-insiste-en-debatir-con-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Fri, 19 Jun 2026 15:16:06 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "La rapera Kei Linch anunció que votará por Iván Cepeda en segunda vuelta y lanzó pullas a Abelardo de la Espriella: “Se parece a mí”",
+      "link": "https://www.infobae.com/colombia/2026/06/19/elecciones-2026-la-rapera-kei-linch-anuncio-que-votara-por-ivan-cepeda-y-lanzo-pullas-a-abelardo-de-la-espriella-se-parece-a-mi/",
+      "source": "Infobae",
+      "pubDate": "Fri, 19 Jun 2026 15:08:03 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Sergio Fajardo rechaza la campaña que adelantaron De la Espriella y Cepeda: 'Llegamos a las urnas con una Colombia llena de miedos y rabias'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-rechaza-la-campana-que-adelantaron-de-la-espriella-y-cepeda-llegamos-a-las-urnas-con-una-colombia-llena-de-miedos-y-rabias-3565472",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-19T10:04:33-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Qué pasará con Iván Cepeda o Abelardo de la Espriella si pierden las elecciones: el segundo lugar también gobierna",
+      "link": "https://www.infobae.com/colombia/2026/06/19/que-pasara-con-ivan-cepeda-o-abelardo-de-la-espriella-si-pierden-las-elecciones-el-segundo-lugar-tambien-gobierna/",
+      "source": "Infobae",
+      "pubDate": "Fri, 19 Jun 2026 14:57:15 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Cuál candidato pone en mayor riesgo la Constitución? ",
+      "link": "https://www.lasillavacia.com/opinion/cual-candidato-pone-en-mayor-riesgo-la-constitucion/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 19 Jun 2026 14:49:21 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "AMI cuestiona intentos de desacreditar a medios de comunicación en recta final de la campaña presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ami-cuestiona-intentos-de-desacreditar-a-medios-de-comunicacion-en-recta-final-de-la-campana-presidencial-3565428",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-19T07:12:55-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "La propuesta del candidato Abelardo de la Espriella para estabilizar el sistema de salud en Colombia con una inversión de 10 billones en 90 días",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-propuesta-de-abelardo-de-la-espriella-para-estabilizar-el-sistema-de-salud-en-colombia-con-una-inversion-de-10-billones-en-90-dias-3565391",
       "source": "El Tiempo",
-      "pubDate": "2026-06-18T22:48:15-05:00",
+      "pubDate": "2026-06-19T06:34:18-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella y José Manuel Restrepo descartan alza de impuestos y responden cuál es su propuesta para financiar al Estado: 'En el límite'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-y-jose-manuel-restrepo-descartan-alza-de-impuestos-y-responden-cual-es-su-propuesta-para-financiar-al-estado-en-el-limite-3565388",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-18T22:30:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De la Espriella revela qué hará como eventual presidente si la oposición impulsa una Asamblea Constituyente",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-revela-que-haria-como-eventual-presidente-si-la-oposicion-impulsa-una-asamblea-constituyente-3565394",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-18T22:17:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿De qué se tratarían los 90 decretos que Abelardo de la Espriella firmaría desde el 7 de agosto si gana las elecciones? Esto dijo el candidato",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/de-que-se-tratarian-los-90-decretos-que-abelardo-de-la-espriella-firmaria-desde-el-7-de-agosto-si-gana-las-elecciones-esto-dijo-el-candidato-3565390",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-18T21:28:32-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella dice que daría garantías a la oposición si gana la Presidencia y habla de cómo sería su relación con el Congreso",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-dice-que-daria-garantias-a-la-oposicion-si-gana-la-presidencia-y-habla-de-como-seria-su-relacion-con-el-congreso-3565389",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-18T21:12:07-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia: los factores que podrían definir el resultado de las elecciones",
-      "link": "https://www.france24.com/es/video/20260618-colombia-los-factores-que-podri%CC%81an-definir-el-resultado-de-las-elecciones",
-      "source": "France 24",
-      "pubDate": "Thu, 18 Jun 2026 21:01:24 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "La polémica en Colombia por la detención en EE.UU. del activista Beto Coral, seguidor del presidente Petro",
-      "link": "https://www.bbc.com/mundo/articles/cd6ejp7e179o?at_medium=RSS&at_campaign=rss",
+      "title": "Qué tipo de país representan De la Espriella y Cepeda, los antagónicos aspirantes a presidir Colombia",
+      "link": "https://www.bbc.com/mundo/articles/cz6v19e9dyvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "Wed, 17 Jun 2026 21:41:04 GMT",
+      "pubDate": "Fri, 19 Jun 2026 11:20:56 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella e Iván Cepeda: cómo se comparan las propuestas de los rivales en las elecciones a la presidencia de Colombia",
+      "link": "https://www.bbc.com/mundo/articles/cevlx1y9zr1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Tue, 16 Jun 2026 10:56:15 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     }
   ]
 }
