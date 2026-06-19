@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T15:29:21.214Z",
+  "updatedAt": "2026-06-19T18:02:46.107Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 592342,
       "finalScore": 52,
       "momentum": {
-        "value": -1.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 46.8
@@ -47,10 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Encuesta Invamer no registró a De la Espriella perdiendo en segunda vuelta ",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/encuesta-invamer-no-registro-a-de-la-espriella-perdiendo-en-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 19 Jun 2026 15:16:06 +0000",
+      "title": "BCRP no cambió la proyección del PBI para el primer año del nuevo gobierno: Julio Velarde responde por qué",
+      "link": "https://www.infobae.com/peru/2026/06/19/bcrp-no-cambio-la-proyeccion-del-pbi-para-el-primer-ano-del-nuevo-gobierno-julio-velarde-responde-por-que/",
+      "source": "Infobae",
+      "pubDate": "Fri, 19 Jun 2026 17:57:53 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "De qué estaba hablando Iván Cepeda en ‘Por la ventana’, cuando se interrumpió la transmisión: “El juzgado donde a Álvaro Uribe le tocó el juicio”",
+      "link": "https://www.infobae.com/colombia/2026/06/19/de-que-estaba-hablando-ivan-cepeda-en-por-la-ventana-cuando-se-interrumpio-la-transmision-en-vivo-el-juzgado-donde-a-alvaro-uribe-le-toco-el-juicio/",
+      "source": "Infobae",
+      "pubDate": "Fri, 19 Jun 2026 17:56:18 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "De derecha a izquierda: Abelardo de la Espriella e Iván Cepeda, dos visiones opuestas de la justicia, la política y el poder que buscan llegar a la Casa de Nariño",
+      "link": "https://www.infobae.com/colombia/2026/06/19/de-extremo-a-extremo-abelardo-de-la-espriella-e-ivan-cepeda-dos-visiones-de-la-justicia-la-politica-y-el-poder-que-buscan-llegar-a-la-casa-de-narino/",
+      "source": "Infobae",
+      "pubDate": "Fri, 19 Jun 2026 17:51:23 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Ley seca por segunda vuelta de elecciones presidenciales en Colombia 2026: ¿Lo pueden sancionar por tomar licor en su casa?",
+      "link": "https://www.infobae.com/colombia/2026/06/17/ley-seca-por-segunda-vuelta-de-elecciones-presidenciales-en-colombia-2026-lo-pueden-sancionar-por-tomar-licor-en-su-casa/",
+      "source": "Infobae",
+      "pubDate": "Fri, 19 Jun 2026 17:43:03 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -58,71 +82,63 @@
       "title": "Elecciones presidenciales de Colombia 2026, EN VIVO: Embajada de EE. UU. alerta por posibles protestas y Petro pide que dejen de “asustar”",
       "link": "https://www.infobae.com/colombia/2026/06/18/elecciones-presidenciales-de-colombia-2026-en-vivo-ivan-cepeda-insiste-en-debatir-con-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Fri, 19 Jun 2026 15:16:06 +0000",
+      "pubDate": "Fri, 19 Jun 2026 17:36:31 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "La rapera Kei Linch anunció que votará por Iván Cepeda en segunda vuelta y lanzó pullas a Abelardo de la Espriella: “Se parece a mí”",
-      "link": "https://www.infobae.com/colombia/2026/06/19/elecciones-2026-la-rapera-kei-linch-anuncio-que-votara-por-ivan-cepeda-y-lanzo-pullas-a-abelardo-de-la-espriella-se-parece-a-mi/",
+      "title": "Colombia instala la mayor misión de observadores a dos días de segunda vuelta presidencial",
+      "link": "https://www.infobae.com/america/agencias/2026/06/19/colombia-instala-la-mayor-mision-de-observadores-a-dos-dias-de-segunda-vuelta-presidencial/",
       "source": "Infobae",
-      "pubDate": "Fri, 19 Jun 2026 15:08:03 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Sergio Fajardo rechaza la campaña que adelantaron De la Espriella y Cepeda: 'Llegamos a las urnas con una Colombia llena de miedos y rabias'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/sergio-fajardo-rechaza-la-campana-que-adelantaron-de-la-espriella-y-cepeda-llegamos-a-las-urnas-con-una-colombia-llena-de-miedos-y-rabias-3565472",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-19T10:04:33-05:00",
+      "pubDate": "Fri, 19 Jun 2026 17:32:36 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Qué pasará con Iván Cepeda o Abelardo de la Espriella si pierden las elecciones: el segundo lugar también gobierna",
-      "link": "https://www.infobae.com/colombia/2026/06/19/que-pasara-con-ivan-cepeda-o-abelardo-de-la-espriella-si-pierden-las-elecciones-el-segundo-lugar-tambien-gobierna/",
+      "title": "Senador Paulino Riascos denunció que ha recibido amenazas de muerte tras manifestar su respaldo a Abelardo de la Espriella: “No me han matado esperando que pasen las elecciones”",
+      "link": "https://www.infobae.com/colombia/2026/06/19/senador-paulino-riascos-denuncio-que-ha-recibido-amenazas-de-muerte-tras-manifestar-su-respaldo-a-abelardo-de-la-espriella-no-me-han-matado-esperando-que-pasen-las-elecciones/",
       "source": "Infobae",
-      "pubDate": "Fri, 19 Jun 2026 14:57:15 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Cuál candidato pone en mayor riesgo la Constitución? ",
-      "link": "https://www.lasillavacia.com/opinion/cual-candidato-pone-en-mayor-riesgo-la-constitucion/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 19 Jun 2026 14:49:21 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "AMI cuestiona intentos de desacreditar a medios de comunicación en recta final de la campaña presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ami-cuestiona-intentos-de-desacreditar-a-medios-de-comunicacion-en-recta-final-de-la-campana-presidencial-3565428",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-19T07:12:55-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "La propuesta del candidato Abelardo de la Espriella para estabilizar el sistema de salud en Colombia con una inversión de 10 billones en 90 días",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-propuesta-de-abelardo-de-la-espriella-para-estabilizar-el-sistema-de-salud-en-colombia-con-una-inversion-de-10-billones-en-90-dias-3565391",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-19T06:34:18-05:00",
+      "pubDate": "Fri, 19 Jun 2026 17:24:44 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Qué tipo de país representan De la Espriella y Cepeda, los antagónicos aspirantes a presidir Colombia",
-      "link": "https://www.bbc.com/mundo/articles/cz6v19e9dyvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Fri, 19 Jun 2026 11:20:56 GMT",
+      "title": "Elecciones Colombia 2026, lluvia de críticas a Sergio Fajardo por no precisar por quién votará: “Escribir tanto para decir nada”",
+      "link": "https://www.infobae.com/colombia/2026/06/19/elecciones-colombia-2026-lluvia-de-criticas-a-sergio-fajardo-por-no-precisar-por-quien-votara-escribir-tanto-para-decir-nada/",
+      "source": "Infobae",
+      "pubDate": "Fri, 19 Jun 2026 17:21:23 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Defensores de la Patria denuncia ataque con disparos contra tres testigos electorales del candidato Abelardo de la Espriella: Policía entregó informe",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/defensores-de-la-patria-denuncia-ataque-con-disparos-contra-tres-testigos-electorales-del-candidato-abelardo-de-la-espriella-policia-entrego-informe-3565490",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-19T12:13:16-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "'Confiar en las instituciones electorales es confiar en los ciudadanos': el llamado de la MOE de cara a la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/confiar-en-las-instituciones-electorales-es-confiar-en-los-ciudadanos-el-llamado-de-la-moe-de-cara-a-la-segunda-vuelta-presidencial-3565497",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-19T12:12:22-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Abelardo de la Espriella e Iván Cepeda: cómo se comparan las propuestas de los rivales en las elecciones a la presidencia de Colombia",
-      "link": "https://www.bbc.com/mundo/articles/cevlx1y9zr1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Tue, 16 Jun 2026 10:56:15 GMT",
+      "title": "Google Trends: Abelardo sigue arriba, pero el Mundial barre la elección",
+      "link": "https://www.lasillavacia.com/en-vivo/google-trends-abelardo-sigue-arriba-pero-el-mundial-barre-la-eleccion/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 19 Jun 2026 16:44:47 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Narcotráfico en Colombia: ¿mano dura o regulación?",
+      "link": "https://www.france24.com/es/programas/el-debate/20260619-narcotr%C3%A1fico-en-colombia-mano-dura-o-regulaci%C3%B3n",
+      "source": "France 24",
+      "pubDate": "Fri, 19 Jun 2026 16:28:21 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
