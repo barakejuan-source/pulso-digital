@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-20T09:23:35.779Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-20T12:00:59.939Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,28 +47,44 @@
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales de Colombia 2026, EN VIVO: Estas son las últimas movidas políticas de cara a la segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/06/20/elecciones-presidenciales-de-colombia-2026-en-vivo-estas-son-las-ultimas-movidas-politicas-de-cara-a-la-segunda-vuelta/",
+      "title": "Elecciones presidenciales de Colombia 2026: Embajada de EE. UU. alerta por posibles protestas y Petro pide que dejen de “asustar”",
+      "link": "https://www.infobae.com/colombia/2026/06/18/elecciones-presidenciales-de-colombia-2026-en-vivo-ivan-cepeda-insiste-en-debatir-con-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 08:56:27 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Constreñimiento electoral en Angostura, Antioquia: desmontan publicidad de disidencias antes de segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/06/20/constrenimiento-electoral-en-angostura-antioquia-desmontan-publicidad-de-disidencias-antes-de-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 08:54:51 +0000",
+      "pubDate": "Sat, 20 Jun 2026 11:53:23 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones Colombia 2026: siga la jornada de segunda vuelta entre Iván Cepeda y Abelardo de la Espriella para este próximo domingo 21 de junio",
+      "title": "Experto explicó cómo votaron los colombianos en el exterior en primera vuelta: los lugares donde ganaron Cepeda y De la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/06/20/experto-explico-como-votaron-los-colombianos-en-el-exterior-en-primera-vuelta-los-lugares-donde-ganaron-cepeda-y-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Sat, 20 Jun 2026 11:43:26 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones 2026: pagarán a miembros de mesa de la  segunda vuelta a partir del lunes 22 de junio",
+      "link": "https://www.infobae.com/peru/2026/06/20/elecciones-2026-pagaran-a-miembros-de-mesa-de-la-segunda-vuelta-a-partir-del-lunes-22-de-junio/",
+      "source": "Infobae",
+      "pubDate": "Sat, 20 Jun 2026 11:40:06 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones Colombia 2026: siga la jornada previa a la segunda vuelta entre Iván Cepeda y Abelardo de la Espriella este domingo 21 de junio",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-siga-la-jornada-de-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-para-este-proximo-domingo-21-de-junio-3565703",
       "source": "El Tiempo",
-      "pubDate": "2026-06-20T03:30:00-05:00",
+      "pubDate": "2026-06-20T06:21:06-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Colombia llega al día definitivo para elegir a su próximo presidente: así está el ambiente",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/colombia-llega-al-dia-definitivo-para-elegir-a-su-proximo-presidente-asi-esta-el-ambiente-3565672",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-20T06:06:07-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Sin el centro como fiel de la balanza, esta campaña fue inédita",
@@ -111,14 +127,6 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Colombia llega al día definitivo para elegir a su próximo presidente: así está el ambiente",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/colombia-llega-al-dia-definitivo-para-elegir-a-su-proximo-presidente-asi-esta-el-ambiente-3565672",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-19T21:27:43-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Colombia decide en un mapa político latinoamericano cada vez más inclinado hacia la derecha",
       "link": "https://www.france24.com/es/video/20260620-colombia-decide-en-un-mapa-pol%C3%ADtico-latinoamericano-cada-vez-m%C3%A1s-inclinado-hacia-la-derecha",
       "source": "France 24",
@@ -131,14 +139,6 @@
       "link": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/en-segunda-vuelta-un-voto-feminista-no-apoyaria-liderazgos-patriarcales/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 20 Jun 2026 00:14:27 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "En esta segunda vuelta electoral, los votantes podrán reclamar un tinto de Juan Valdez®",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/en-esta-segunda-vuelta-electoral-los-votantes-podran-reclamar-un-tinto-de-juan-valdez-3565613",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-19T18:21:16-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
