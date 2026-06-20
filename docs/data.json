@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T04:02:56.117Z",
+  "updatedAt": "2026-06-20T09:23:35.779Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 39,
+      "trendsScore": 40,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 592342,
       "finalScore": 53,
       "momentum": {
-        "value": 1.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 47.3
@@ -47,6 +47,54 @@
   ],
   "articles": [
     {
+      "title": "Elecciones presidenciales de Colombia 2026, EN VIVO: Estas son las últimas movidas políticas de cara a la segunda vuelta",
+      "link": "https://www.infobae.com/colombia/2026/06/20/elecciones-presidenciales-de-colombia-2026-en-vivo-estas-son-las-ultimas-movidas-politicas-de-cara-a-la-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Sat, 20 Jun 2026 08:56:27 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Constreñimiento electoral en Angostura, Antioquia: desmontan publicidad de disidencias antes de segunda vuelta",
+      "link": "https://www.infobae.com/colombia/2026/06/20/constrenimiento-electoral-en-angostura-antioquia-desmontan-publicidad-de-disidencias-antes-de-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Sat, 20 Jun 2026 08:54:51 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones Colombia 2026: siga la jornada de segunda vuelta entre Iván Cepeda y Abelardo de la Espriella para este próximo domingo 21 de junio",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-siga-la-jornada-de-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-para-este-proximo-domingo-21-de-junio-3565703",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-20T03:30:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Sin el centro como fiel de la balanza, esta campaña fue inédita",
+      "link": "https://www.lasillavacia.com/silla-nacional/sin-el-centro-como-fiel-de-la-balanza-esta-campana-fue-inedita/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 20 Jun 2026 06:34:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones presidenciales Colombia 2026: conozca los cierres viales en el centro de Bogotá, Corferias y otros puntos por la segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-conozca-los-cierres-en-el-centro-de-bogota-corferias-y-otros-puntos-por-la-segunda-vuelta-del-21-de-junio-3565644",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-20T00:32:30-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "‘Con nosotros va a haber respeto a la institucionalidad y a la Constitución’: Entrevista con Abelardo De la Espriella y José Manuel Restrepo",
+      "link": "https://www.eltiempo.com/politica/con-nosotros-va-a-haber-respeto-a-la-institucionalidad-y-a-la-constitucion-entrevista-con-abelardo-de-la-espriella-y-jose-manuel-restrepo-3565650",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-19T23:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "¿Iván Cepeda prometió venganza contra dos regiones de Colombia?",
       "link": "https://www.france24.com/es/programas/des-informando/20260620-iv%C3%A1n-cepeda-prometi%C3%B3-venganza-contra-dos-regiones-de-colombia",
       "source": "France 24",
@@ -59,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-los-candidatos-pueden-cambiar-su-formula-vicepresidencial-para-la-segunda-vuelta-3565558",
       "source": "El Tiempo",
       "pubDate": "2026-06-19T21:45:47-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Lanzan código QR para que la ciudadanía reporte irregularidades durante la segunda vuelta de las  elecciones presidenciales",
-      "link": "https://www.infobae.com/colombia/2026/06/20/lanzan-codigo-qr-para-que-la-ciudadania-reporte-irregularidades-durante-la-segunda-vuelta-de-las-elecciones-presidenciales/",
-      "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 02:34:50 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -99,30 +139,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/en-esta-segunda-vuelta-electoral-los-votantes-podran-reclamar-un-tinto-de-juan-valdez-3565613",
       "source": "El Tiempo",
       "pubDate": "2026-06-19T18:21:16-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "#ElFiltro: candidato presidencial Iván Cepeda no dijo que promoverá las iglesias satánicas en Colombia; un video fue manipulado con IA",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-candidato-presidencial-ivan-cepeda-no-dijo-que-promovera-las-iglesias-satanicas-en-colombia-un-video-fue-manipulado-con-ia-3565568",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-19T17:21:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Aeronáutica Civil prohíbe el vuelo de drones en el país para la segunda vuelta presidencial de este domingo 21 de junio de 2026: vea las restricciones",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/aeronautica-civil-prohibe-el-vuelo-de-drones-en-el-pais-para-la-segunda-vuelta-presidencial-de-este-domingo-21-de-junio-de-2026-vea-las-restricciones-3565584",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-19T17:00:20-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Qué tipo de país representan De la Espriella y Cepeda, los antagónicos aspirantes a presidir Colombia",
-      "link": "https://www.bbc.com/mundo/articles/cz6v19e9dyvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Fri, 19 Jun 2026 11:20:56 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
