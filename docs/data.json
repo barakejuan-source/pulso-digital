@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T23:02:51.908Z",
+  "updatedAt": "2026-06-20T04:02:56.117Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 37,
+      "trendsScore": 39,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 52,
+      "finalScore": 53,
       "momentum": {
-        "value": 0,
+        "value": 1.9,
         "direction": "flat"
       },
-      "probability": 46.8
+      "probability": 47.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,47 +42,63 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 53.2
+      "probability": 52.7
     }
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales de Colombia 2026, EN VIVO: Embajada de EE. UU. alerta por posibles protestas y Petro pide que dejen de “asustar”",
-      "link": "https://www.infobae.com/colombia/2026/06/18/elecciones-presidenciales-de-colombia-2026-en-vivo-ivan-cepeda-insiste-en-debatir-con-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Fri, 19 Jun 2026 23:00:01 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Boris Johnson anunció su respaldo a Abelardo de la Espriella para la segunda vuelta: “¡Ha llegado el momento de poner un tigre en el tanque!”",
-      "link": "https://www.infobae.com/colombia/2026/06/19/boris-johnson-anuncio-su-respaldo-a-abelardo-de-la-espriella-para-la-segunda-vuelta-ha-llegado-el-momento-de-poner-un-tigre-en-el-tanque/",
-      "source": "Infobae",
-      "pubDate": "Fri, 19 Jun 2026 22:55:29 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Jennifer Pedraza anunció que votará por Iván Cepeda",
-      "link": "https://www.lasillavacia.com/en-vivo/jennifer-pedraza-anuncio-que-votara-por-ivan-cepeda/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 19 Jun 2026 22:53:57 +0000",
+      "title": "¿Iván Cepeda prometió venganza contra dos regiones de Colombia?",
+      "link": "https://www.france24.com/es/programas/des-informando/20260620-iv%C3%A1n-cepeda-prometi%C3%B3-venganza-contra-dos-regiones-de-colombia",
+      "source": "France 24",
+      "pubDate": "Sat, 20 Jun 2026 03:17:44 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Petro pide reforzar los mecanismos de transparencia electoral antes de la segunda vuelta",
-      "link": "https://www.infobae.com/america/agencias/2026/06/19/petro-pide-reforzar-los-mecanismos-de-transparencia-electoral-antes-de-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Fri, 19 Jun 2026 22:45:42 +0000",
+      "title": "Elecciones presidenciales en Colombia 2026: ¿los candidatos pueden cambiar su fórmula vicepresidencial para la segunda vuelta?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-los-candidatos-pueden-cambiar-su-formula-vicepresidencial-para-la-segunda-vuelta-3565558",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-19T21:45:47-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Fuerza Aérea inició el despliegue de fuerza pública desde Bogotá con toneladas de carga estratégica por segunda vuelta   ",
-      "link": "https://www.infobae.com/colombia/2026/06/19/fuerza-aerea-inicio-el-despliegue-de-fuerza-publica-desde-bogota-con-toneladas-de-carga-estrategica-por-segunda-vuelta/",
+      "title": "Lanzan código QR para que la ciudadanía reporte irregularidades durante la segunda vuelta de las  elecciones presidenciales",
+      "link": "https://www.infobae.com/colombia/2026/06/20/lanzan-codigo-qr-para-que-la-ciudadania-reporte-irregularidades-durante-la-segunda-vuelta-de-las-elecciones-presidenciales/",
       "source": "Infobae",
-      "pubDate": "Fri, 19 Jun 2026 22:42:30 +0000",
+      "pubDate": "Sat, 20 Jun 2026 02:34:50 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Colombia llega al día definitivo para elegir a su próximo presidente: así está el ambiente",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/colombia-llega-al-dia-definitivo-para-elegir-a-su-proximo-presidente-asi-esta-el-ambiente-3565672",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-19T21:27:43-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Colombia decide en un mapa político latinoamericano cada vez más inclinado hacia la derecha",
+      "link": "https://www.france24.com/es/video/20260620-colombia-decide-en-un-mapa-pol%C3%ADtico-latinoamericano-cada-vez-m%C3%A1s-inclinado-hacia-la-derecha",
+      "source": "France 24",
+      "pubDate": "Sat, 20 Jun 2026 01:02:51 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "En segunda vuelta, un voto feminista no apoyaría liderazgos patriarcales",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/en-segunda-vuelta-un-voto-feminista-no-apoyaria-liderazgos-patriarcales/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 20 Jun 2026 00:14:27 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "En esta segunda vuelta electoral, los votantes podrán reclamar un tinto de Juan Valdez®",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/en-esta-segunda-vuelta-electoral-los-votantes-podran-reclamar-un-tinto-de-juan-valdez-3565613",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-19T18:21:16-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -103,44 +119,12 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "El fracking pone en tensión una posible nueva política energética",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-verde/el-fracking-pone-en-tension-una-posible-nueva-politica-energetica/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 19 Jun 2026 21:43:00 +0000",
+      "title": "Qué tipo de país representan De la Espriella y Cepeda, los antagónicos aspirantes a presidir Colombia",
+      "link": "https://www.bbc.com/mundo/articles/cz6v19e9dyvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Fri, 19 Jun 2026 11:20:56 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Perú: Fujimori aventaja a Sánchez, que convoca manifestaciones y denuncia irregularidades",
-      "link": "https://www.france24.com/es/video/20260619-per%C3%BA-fujimori-aventaja-a-s%C3%A1nchez-que-convoca-manifestaciones-y-denuncia-irregularidades",
-      "source": "France 24",
-      "pubDate": "Fri, 19 Jun 2026 21:18:51 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Procuraduría investiga a Carlos Amaya por presunta participación en política",
-      "link": "https://www.lasillavacia.com/en-vivo/procuraduria-investiga-a-carlos-amaya-por-presunta-participacion-en-politica/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 19 Jun 2026 19:59:18 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Hay riesgos electorales en la segunda vuelta presidencial en Colombia?",
-      "link": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260619-hay-riesgos-electorales-en-la-segunda-vuelta-presidencial-en-colombia",
-      "source": "France 24",
-      "pubDate": "Fri, 19 Jun 2026 18:51:02 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Defensores de la Patria denuncia ataque con disparos contra tres testigos electorales del candidato Abelardo de la Espriella: Policía entregó informe",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/defensores-de-la-patria-denuncia-ataque-con-disparos-contra-tres-testigos-electorales-del-candidato-abelardo-de-la-espriella-policia-entrego-informe-3565490",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-19T12:13:16-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
