@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-20T12:00:59.939Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-20T14:27:09.969Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 40,
+      "trendsScore": 41,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 53,
+      "finalScore": 54,
       "momentum": {
-        "value": 0,
+        "value": 1.9,
         "direction": "flat"
       },
-      "probability": 47.3
+      "probability": 47.8
     },
     {
       "id": "abelardo_espriella",
@@ -42,41 +42,57 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.7
+      "probability": 52.2
     }
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales de Colombia 2026: Embajada de EE. UU. alerta por posibles protestas y Petro pide que dejen de “asustar”",
-      "link": "https://www.infobae.com/colombia/2026/06/18/elecciones-presidenciales-de-colombia-2026-en-vivo-ivan-cepeda-insiste-en-debatir-con-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 11:53:23 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "De la Espriella y la prensa: un centenar de denuncias y una red señalada de hostigar a periodistas",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260620-de-la-espriella-y-la-prensa-un-centenar-de-denuncias-y-una-red-se%C3%B1alada-de-hostigar-a-periodistas",
+      "source": "France 24",
+      "pubDate": "Sat, 20 Jun 2026 14:02:15 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Experto explicó cómo votaron los colombianos en el exterior en primera vuelta: los lugares donde ganaron Cepeda y De la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/20/experto-explico-como-votaron-los-colombianos-en-el-exterior-en-primera-vuelta-los-lugares-donde-ganaron-cepeda-y-de-la-espriella/",
+      "title": "Elecciones presidenciales de Colombia 2026, EN VIVO: Estas son las últimas movidas políticas de cara a la segunda vuelta",
+      "link": "https://www.infobae.com/colombia/2026/06/20/elecciones-presidenciales-de-colombia-2026-en-vivo-estas-son-las-ultimas-movidas-politicas-de-cara-a-la-segunda-vuelta/",
       "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 11:43:26 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones 2026: pagarán a miembros de mesa de la  segunda vuelta a partir del lunes 22 de junio",
-      "link": "https://www.infobae.com/peru/2026/06/20/elecciones-2026-pagaran-a-miembros-de-mesa-de-la-segunda-vuelta-a-partir-del-lunes-22-de-junio/",
-      "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 11:40:06 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones Colombia 2026: siga la jornada previa a la segunda vuelta entre Iván Cepeda y Abelardo de la Espriella este domingo 21 de junio",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-siga-la-jornada-de-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-para-este-proximo-domingo-21-de-junio-3565703",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-20T06:21:06-05:00",
+      "pubDate": "Sat, 20 Jun 2026 14:00:55 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Así votó el Caribe en primera vuelta: dejó a Abelardo de la Espriella con el reto de remontar una región donde Iván Cepeda ganó los siete departamentos",
+      "link": "https://www.infobae.com/colombia/2026/06/17/el-mapa-de-la-primera-vuelta-en-el-caribe-dejo-a-abelardo-de-la-espriella-con-el-reto-de-remontar-una-region-donde-ivan-cepeda-gano-los-siete-departamentos/",
+      "source": "Infobae",
+      "pubDate": "Sat, 20 Jun 2026 13:53:33 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones presidenciales 2026, el progresismo de Iván Cepeda ¿Hay izquierda después de Petro?",
+      "link": "https://www.infobae.com/colombia/2026/06/20/elecciones-presidenciales-2026-el-progresismo-de-ivan-cepeda-hay-izquierda-despues-de-petro/",
+      "source": "Infobae",
+      "pubDate": "Sat, 20 Jun 2026 13:33:32 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Elecciones presidenciales Colombia 2026: Registraduría descarta afectaciones o riesgos en mesas de votación previo a jornada del domingo 21 de junio",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-siga-la-jornada-de-segunda-vuelta-entre-ivan-cepeda-y-abelardo-de-la-espriella-para-este-proximo-domingo-21-de-junio-3565703",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-20T08:03:18-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "La economía de Colombia sigue en incertidumbre para estas elecciones",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/la-economia-de-colombia-sigue-en-incertidumbre-para-estas-elecciones/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 20 Jun 2026 12:00:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Colombia llega al día definitivo para elegir a su próximo presidente: así está el ambiente",
@@ -123,22 +139,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-en-colombia-2026-los-candidatos-pueden-cambiar-su-formula-vicepresidencial-para-la-segunda-vuelta-3565558",
       "source": "El Tiempo",
       "pubDate": "2026-06-19T21:45:47-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Colombia decide en un mapa político latinoamericano cada vez más inclinado hacia la derecha",
-      "link": "https://www.france24.com/es/video/20260620-colombia-decide-en-un-mapa-pol%C3%ADtico-latinoamericano-cada-vez-m%C3%A1s-inclinado-hacia-la-derecha",
-      "source": "France 24",
-      "pubDate": "Sat, 20 Jun 2026 01:02:51 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "En segunda vuelta, un voto feminista no apoyaría liderazgos patriarcales",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/en-segunda-vuelta-un-voto-feminista-no-apoyaria-liderazgos-patriarcales/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 20 Jun 2026 00:14:27 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
