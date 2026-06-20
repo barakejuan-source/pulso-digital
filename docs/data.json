@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-20T17:39:17.485Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-20T19:43:14.872Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 41,
+      "trendsScore": 40,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 54,
+      "finalScore": 53,
       "momentum": {
-        "value": 0,
+        "value": -1.9,
         "direction": "flat"
       },
-      "probability": 47.8
+      "probability": 47.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.2
+      "probability": 52.7
     }
   ],
   "articles": [
     {
-      "title": "Cali restringe la venta de combustible durante la segunda vuelta presidencial: así funcionará la medida y los dispositivos de seguridad ",
-      "link": "https://www.infobae.com/colombia/2026/06/20/cali-restringe-la-venta-de-combustible-durante-la-segunda-vuelta-presidencial-asi-funcionara-la-medida-y-los-dispositivos-de-seguridad/",
+      "title": "¿Qué moviliza a los nueve millones de jóvenes que podrían decidir el balotaje en Colombia?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260620-qu%C3%A9-moviliza-a-los-nueve-millones-de-j%C3%B3venes-que-podr%C3%ADan-decidir-el-balotaje-en-colombia",
+      "source": "France 24",
+      "pubDate": "Sat, 20 Jun 2026 19:12:13 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iris Marín Ortiz: \"Contienda electoral en Colombia ha estado marcada por violencia en los discursos\"",
+      "link": "https://www.france24.com/es/video/20260620-iris-mar%C3%ADn-ortiz-contienda-electoral-en-colombia-ha-estado-marcada-por-violencia-en-los-discursos",
+      "source": "France 24",
+      "pubDate": "Sat, 20 Jun 2026 18:50:40 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Karen Sevillano y Neider García hacen público su apoyo al candidato presidencial Iván Cepeda: participación en contenido de campaña y gesto simbólico desatan reacciones",
+      "link": "https://www.infobae.com/colombia/2026/06/20/karen-sevillano-y-neider-garcia-hacen-publico-su-apoyo-al-candidato-presidencial-ivan-cepeda-participacion-en-contenido-de-campana-y-gesto-simbolico-desatan-reacciones/",
       "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 17:31:39 +0000",
+      "pubDate": "Sat, 20 Jun 2026 18:43:43 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Procurador Eljach entrega parte de tranquilidad para la segunda vuelta presidencial: 'Están dadas las condiciones'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/procurador-eljach-entrega-parte-de-tranquilidad-para-la-segunda-vuelta-presidencial-estan-dadas-las-condiciones-3565752",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-20T12:49:32-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Dónde seguir los resultados del preconteo de la segunda vuelta de este domingo? Estos son los canales que habilitará la Registraduría",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/donde-seguir-los-resultados-del-preconteo-de-la-segunda-vuelta-de-este-domingo-estos-son-los-canales-que-habilitara-la-registraduria-3565754",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-20T12:37:16-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -63,36 +95,12 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Jessica Cediel se defendió de comentarios tras demostrar su apoyo a Abelardo de la Espriella: “Se le subieron los biopolímeros a la cabeza” ",
-      "link": "https://www.infobae.com/colombia/2026/06/20/jessica-cediel-se-defendio-de-comentarios-tras-demostrar-su-apoyo-a-abelardo-de-la-espriella-se-le-subieron-los-biopolimeros-a-la-cabeza/",
-      "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 17:00:25 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Propuestas de Cepeda y Abelardo bajo lupa",
       "link": "https://www.lasillavacia.com/silla-nacional/propuestas-de-cepeda-y-abelardo-bajo-lupa/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 20 Jun 2026 17:00:00 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones presidenciales de Colombia 2026, EN VIVO: Estas son las últimas movidas políticas de cara a la segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/06/20/elecciones-presidenciales-de-colombia-2026-en-vivo-estas-son-las-ultimas-movidas-politicas-de-cara-a-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 16:45:50 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Él es Abelardo de la Espriella, el candidato que busca evitar otro gobierno de izquierda en Colombia ",
-      "link": "https://www.infobae.com/colombia/2026/06/20/el-es-abelardo-de-la-espriella-el-candidato-que-busca-evitar-otro-gobierno-de-izquierda-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 16:42:53 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Detector: Juan Manuel Santos no se unió a la campaña de Iván Cepeda",
@@ -111,14 +119,6 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "‘Con nosotros va a haber respeto a la institucionalidad y a la Constitución’: Entrevista con Abelardo De la Espriella y José Manuel Restrepo",
-      "link": "https://www.eltiempo.com/politica/con-nosotros-va-a-haber-respeto-a-la-institucionalidad-y-a-la-constitucion-entrevista-con-abelardo-de-la-espriella-y-jose-manuel-restrepo-3565650",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-20T10:08:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "#ElFiltro: 'Lucho' Díaz y Daniel Muñoz no celebraron gol contra Uzbekistán apoyando a Abelardo de la Espriella; video viral fue alterado con IA",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-lucho-diaz-y-daniel-munoz-no-celebraron-gol-contra-uzbekistan-apoyando-a-abelardo-de-la-espriella-video-viral-fue-alterado-con-ia-3565721",
       "source": "El Tiempo",
@@ -135,12 +135,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "La economía de Colombia sigue en incertidumbre para estas elecciones",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/la-economia-de-colombia-sigue-en-incertidumbre-para-estas-elecciones/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 20 Jun 2026 12:00:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "¿Iván Cepeda prometió venganza contra dos regiones de Colombia?",
+      "link": "https://www.france24.com/es/programas/des-informando/20260620-iv%C3%A1n-cepeda-prometi%C3%B3-venganza-contra-dos-regiones-de-colombia",
+      "source": "France 24",
+      "pubDate": "Sat, 20 Jun 2026 03:17:44 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     }
   ]
 }
