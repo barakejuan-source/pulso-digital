@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T23:13:37.486Z",
+  "updatedAt": "2026-06-21T04:44:29.147Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 40,
+      "trendsScore": 45,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 53,
+      "finalScore": 55,
       "momentum": {
-        "value": -1.9,
+        "value": 3.8,
         "direction": "flat"
       },
-      "probability": 47.3
+      "probability": 48.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,47 +42,71 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.7
+      "probability": 51.8
     }
   ],
   "articles": [
     {
-      "title": "Senador estadounidense Bernie Moreno ya está en Colombia para ser observador de las elecciones de segunda vuelta presidencial: 'Esta es su decisión'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/senador-estadounidense-bernie-moreno-ya-esta-en-colombia-para-ser-observador-de-las-elecciones-de-segunda-vuelta-presidencial-esta-es-su-decision-3565800",
+      "title": "Con un sistema electoral blindado: así llega el país a la cita definitiva en las urnas",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/con-un-sistema-electoral-blindado-asi-llega-el-pais-a-la-cita-definitiva-en-las-urnas-3565781",
       "source": "El Tiempo",
-      "pubDate": "2026-06-20T17:53:24-05:00",
+      "pubDate": "2026-06-20T23:01:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Fuerzas Militares activan rastreo a posibles bloqueos y movilizaciones por resultados de la segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fuerzas-militares-activan-rastreo-a-posibles-bloqueos-y-movilizaciones-por-resultados-de-la-segunda-vuelta-3565778",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-20T23:01:00-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Abelardo de la Espriella llamó a “no bajar la guardia” y pidió voto masivo en la recta final de la segunda vuelta presidencial: “Nada de triunfalismos”",
-      "link": "https://www.infobae.com/colombia/2026/06/20/abelardo-de-la-espriella-llamo-a-no-bajar-la-guardia-y-pidio-voto-masivo-en-la-recta-final-de-la-segunda-vuelta-presidencial-nada-de-triunfalismos/",
+      "title": "‘Es un deber respetar y reconocer los resultados’: el llamado del registrador Hernán Penagos en la antesala de la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/es-un-deber-respetar-y-reconocer-los-resultados-el-llamado-del-registrador-hernan-penagos-en-la-antesala-de-la-segunda-vuelta-presidencial-3565773",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-20T23:01:00-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Segunda vuelta presidencial: Qué pasa si hay empate entre De la Espriella y Cepeda",
+      "link": "https://www.infobae.com/colombia/2026/06/02/elecciones-en-colombia-2026-que-pasa-si-abelardo-de-la-espriella-e-ivan-cepeda-empatan-en-la-segunda-vuelta/",
       "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 22:52:52 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Sun, 21 Jun 2026 03:03:43 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Estas son las familias de Abelardo de la Espriella e Iván Cepeda, quienes este domingo se disputan la Casa de Nariño",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/estas-son-las-familias-de-abelardo-de-la-espriella-e-ivan-cepeda-quienes-este-domingo-se-disputan-la-casa-de-narino-3565765",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-20T22:01:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "De la Espriella o Cepeda: Colombia elige si vira a la extrema derecha o da continuidad a la izquierda",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260621-de-la-espriella-o-cepeda-colombia-elige-si-vira-a-la-extrema-derecha-o-da-continuidad-a-la-izquierda",
+      "source": "France 24",
+      "pubDate": "Sun, 21 Jun 2026 02:12:53 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "América Latina: Colombia elige en un continente cada vez más inclinado hacia la derecha",
+      "link": "https://www.france24.com/es/video/20260620-am%C3%A9rica-latina-colombia-elige-en-un-continente-cada-vez-m%C3%A1s-inclinado-hacia-la-derecha",
+      "source": "France 24",
+      "pubDate": "Sat, 20 Jun 2026 22:58:23 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Abelardo con Vicky y Cepeda con Cossio: las entrevistas que cierran la campaña",
       "link": "https://www.lasillavacia.com/en-vivo/abelardo-con-vicky-y-cepeda-con-cossio-las-entrevistas-que-cierran-la-campana/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 20 Jun 2026 22:41:54 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Gabriel Becerra, compromisario de Iván Cepeda, denunció amenazas en su contra: el abogado Miguel Ángel del Río se pronunció",
-      "link": "https://www.infobae.com/colombia/2026/06/20/gabriel-becerra-compromisario-de-ivan-cepeda-denuncio-amenazas-en-su-contra-el-abogado-miguel-angel-del-rio-se-pronuncio/",
-      "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 22:32:12 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Autoridades electorales y organizaciones alertan poe escalada de mensajes hostiles y violentos en redes previo a la segunda vuelta presidencial",
-      "link": "https://www.infobae.com/colombia/2026/06/20/autoridades-electorales-y-organizaciones-alertan-poe-escalada-de-mensajes-hostiles-y-violentos-en-redes-previo-a-la-segunda-vuelta-presidencial/",
-      "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 22:21:36 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -95,26 +119,10 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones presidenciales de Colombia 2026, EN VIVO: campaña de Iván Cepeda expuso su preocupación por posible constreñimiento al elector",
-      "link": "https://www.infobae.com/colombia/2026/06/20/elecciones-presidenciales-de-colombia-2026-en-vivo-estas-son-las-ultimas-movidas-politicas-de-cara-a-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 22:19:17 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Informe ante la Cidh alerta sobre presiones armadas y presunta participación política de Petro de cara a la segunda vuelta presidencial en Colombia",
-      "link": "https://www.infobae.com/colombia/2026/06/20/informe-ante-la-cidh-alerta-sobre-presiones-armadas-y-presunta-participacion-politica-de-petro-de-cara-a-la-segunda-vuelta-presidencial-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Sat, 20 Jun 2026 22:01:44 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Procurador Eljach entrega parte de tranquilidad para la segunda vuelta presidencial: 'Están dadas las condiciones'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/procurador-eljach-entrega-parte-de-tranquilidad-para-la-segunda-vuelta-presidencial-estan-dadas-las-condiciones-3565752",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-20T15:44:12-05:00",
+      "title": "“Un presidente amigo”: el guiño de Char a Abelardo previo a segunda vuelta",
+      "link": "https://www.lasillavacia.com/en-vivo/un-presidente-amigo-el-guino-de-char-a-abelardo-a-horas-de-elecciones/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 20 Jun 2026 19:30:22 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -133,14 +141,6 @@
       "pubDate": "Sat, 20 Jun 2026 18:50:40 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Dónde seguir los resultados del preconteo de la segunda vuelta de este domingo? Estos son los canales que habilitará la Registraduría",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/donde-seguir-los-resultados-del-preconteo-de-la-segunda-vuelta-de-este-domingo-estos-son-los-canales-que-habilitara-la-registraduria-3565754",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-20T12:37:16-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
