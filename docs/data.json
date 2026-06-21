@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T09:56:40.086Z",
+  "updatedAt": "2026-06-21T12:14:17.247Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,52 +47,44 @@
   ],
   "articles": [
     {
-      "title": "Iván Cepeda | Elecciones 2026 en VIVO: Apertura de mesas y reporte de orden público en Colombia",
-      "link": "https://www.infobae.com/colombia/2026/06/21/ivan-cepeda-elecciones-2026-en-vivo-apertura-de-mesas-y-reporte-de-orden-publico-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Sun, 21 Jun 2026 09:20:50 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo de la Espriella | Elecciones 2026 en VIVO: Apertura de mesas y reporte de orden público en Colombia",
-      "link": "https://www.infobae.com/colombia/2026/06/21/abelardo-de-la-espriella-elecciones-2026-en-vivo-apertura-de-mesas-y-reporte-de-orden-publico-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Sun, 21 Jun 2026 09:20:40 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Elecciones Presidenciales EN VIVO desde Antioquia, hoy 21 de junio: siga el minuto a minuto de las votaciones",
-      "link": "https://www.infobae.com/colombia/2026/06/21/elecciones-presidenciales-en-vivo-desde-antioquia-hoy-21-de-junio-siga-el-minuto-a-minuto-de-las-votaciones/",
-      "source": "Infobae",
-      "pubDate": "Sun, 21 Jun 2026 09:20:17 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones presidenciales en Colombia, en VIVO: reporte de orden público, apertura de mesas y noticias relevantes hoy 21 de junio",
+      "title": "Elecciones presidenciales en Colombia, en VIVO: más de 228.000 uniformados serán desplegados para garantizar la seguridad durante el proceso electoral",
       "link": "https://www.infobae.com/colombia/2026/06/20/elecciones-presidenciales-de-colombia-2026-en-vivo-estas-son-las-ultimas-movidas-politicas-de-cara-a-la-segunda-vuelta/",
       "source": "Infobae",
-      "pubDate": "Sun, 21 Jun 2026 09:20:10 +0000",
+      "pubDate": "Sun, 21 Jun 2026 12:06:35 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Resultados de la segunda vuelta presidencial en Colombia: así funciona la ‘app’ que habilitó la Registraduría para consultarlos en línea",
+      "link": "https://www.infobae.com/colombia/2026/06/21/resultados-de-la-segunda-vuelta-presidencial-en-colombia-asi-funciona-la-app-que-habilito-la-registraduria-para-consultarlos-en-linea/",
+      "source": "Infobae",
+      "pubDate": "Sun, 21 Jun 2026 12:02:34 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Resultado elecciones presidenciales en segunda vuelta Colombia 2026: desde las 8 de la mañana se abren urnas, siga la jornada de votación",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultado-elecciones-presidenciales-en-segunda-vuelta-colombia-2026-desde-las-8-de-la-manana-se-abren-urnas-siga-la-jornada-de-votacion-3565831",
       "source": "El Tiempo",
-      "pubDate": "2026-06-21T04:17:00-05:00",
+      "pubDate": "2026-06-21T06:45:00-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "VÍDEO: Colombia llega este domingo a la segunda vuelta de sus elecciones más polarizadas de su historia reciente",
-      "link": "https://www.infobae.com/america/agencias/2026/06/21/video-colombia-llega-este-domingo-a-la-segunda-vuelta-de-sus-elecciones-mas-polarizadas-de-su-historia-reciente/",
+      "title": "Qué se vota hoy en Colombia: claves para entender la segunda vuelta presidencial del 21 de junio de 2026",
+      "link": "https://www.infobae.com/colombia/2026/06/21/que-se-vota-hoy-en-colombia-claves-para-entender-la-segunda-vuelta-presidencial-del-21-de-junio-de-2026/",
       "source": "Infobae",
-      "pubDate": "Sun, 21 Jun 2026 09:01:06 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Sun, 21 Jun 2026 11:28:45 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Iván Cepeda | Elecciones 2026 en VIVO: Apertura de mesas y reporte de orden público en Colombia",
+      "link": "https://www.infobae.com/colombia/2026/06/21/ivan-cepeda-elecciones-2026-en-vivo-apertura-de-mesas-y-reporte-de-orden-publico-en-colombia/",
+      "source": "Infobae",
+      "pubDate": "Sun, 21 Jun 2026 11:20:23 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Con un sistema electoral blindado: así llega el país a la cita definitiva en las urnas",
@@ -141,6 +133,14 @@
       "pubDate": "Sat, 20 Jun 2026 22:58:23 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo con Vicky y Cepeda con Cossio: las entrevistas que cierran la campaña",
+      "link": "https://www.lasillavacia.com/en-vivo/abelardo-con-vicky-y-cepeda-con-cossio-las-entrevistas-que-cierran-la-campana/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 20 Jun 2026 22:41:54 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
