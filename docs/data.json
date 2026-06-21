@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T17:45:06.350Z",
+  "updatedAt": "2026-06-21T19:49:40.246Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 47,
+      "trendsScore": 45,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 56,
+      "finalScore": 55,
       "momentum": {
-        "value": 1.8,
+        "value": -1.8,
         "direction": "flat"
       },
-      "probability": 48.7
+      "probability": 48.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.3
+      "probability": 51.8
     }
   ],
   "articles": [
     {
-      "title": "Informe desde Bogotá: los enfoques de las propuestas de Cepeda y De la Espriella",
-      "link": "https://www.france24.com/es/video/20260621-informe-desde-bogot%C3%A1-los-enfoques-de-las-propuestas-de-cepeda-y-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Sun, 21 Jun 2026 17:33:27 GMT",
+      "title": "Elecciones 2026: Autoridades frustraron cruce irregular de un grupo de personas desde Venezuela hacia Colombia, se intensificaron los controles en la zona",
+      "link": "https://www.infobae.com/colombia/2026/06/21/elecciones-2026-autoridades-frustraron-cruce-irregular-de-un-grupo-de-personas-desde-venezuela-hacia-colombia-se-intensificaron-los-controles-en-la-zona/",
+      "source": "Infobae",
+      "pubDate": "Sun, 21 Jun 2026 19:38:56 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones presidenciales EN VIVO desde Medellín, hoy 21 de junio: autoridades restablecen servicio del metro para garantizar la movilidad durante la jornada",
+      "link": "https://www.infobae.com/colombia/2026/06/21/elecciones-presidenciales-en-vivo-desde-antioquia-hoy-21-de-junio-siga-el-minuto-a-minuto-de-las-votaciones/",
+      "source": "Infobae",
+      "pubDate": "Sun, 21 Jun 2026 19:37:13 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones presidenciales en Colombia, en VIVO: la Registraduría explicó qué hacer si recibe una tarjeta electoral ya marcada",
+      "link": "https://www.infobae.com/colombia/2026/06/20/elecciones-presidenciales-de-colombia-2026-en-vivo-estas-son-las-ultimas-movidas-politicas-de-cara-a-la-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Sun, 21 Jun 2026 19:35:29 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Elecciones Perú: Sánchez pedirá la anulación del voto extranjero por irregularidades",
-      "link": "https://www.france24.com/es/video/20260621-elecciones-per%C3%BA-s%C3%A1nchez-pedir%C3%A1-la-anulaci%C3%B3n-del-voto-extranjero-por-irregularidades",
-      "source": "France 24",
-      "pubDate": "Sun, 21 Jun 2026 17:32:55 GMT",
+      "title": "Iván Cepeda | Elecciones 2026 en VIVO: tras acudir a las urnas, el candidato del Pacto Histórico invitó “a votar con tranquilidad, que triunfe la democracia”",
+      "link": "https://www.infobae.com/colombia/2026/06/21/ivan-cepeda-elecciones-2026-en-vivo-apertura-de-mesas-y-reporte-de-orden-publico-en-colombia/",
+      "source": "Infobae",
+      "pubDate": "Sun, 21 Jun 2026 19:34:44 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Rafael Belaúnde afirma que “pensaría” ser ministro durante un eventual gobierno de Keiko Fujimori",
+      "link": "https://www.infobae.com/peru/2026/06/21/rafael-belaunde-afirma-que-pensaria-ser-ministro-durante-un-eventual-gobierno-de-keiko-fujimori/",
+      "source": "Infobae",
+      "pubDate": "Sun, 21 Jun 2026 19:18:49 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -66,79 +90,55 @@
       "title": "Abelardo de la Espriella | Elecciones 2026 en VIVO: el candidato ya ejerció su derecho al voto en Barranquilla, acompañado de su familia",
       "link": "https://www.infobae.com/colombia/2026/06/21/abelardo-de-la-espriella-elecciones-2026-en-vivo-apertura-de-mesas-y-reporte-de-orden-publico-en-colombia/",
       "source": "Infobae",
-      "pubDate": "Sun, 21 Jun 2026 17:31:22 +0000",
+      "pubDate": "Sun, 21 Jun 2026 19:08:32 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Elecciones presidenciales 2026, análisis de los retos económicos que tendrá que enfrentar Abelardo de la Espriella o Iván Cepeda: una situación complicada",
-      "link": "https://www.infobae.com/colombia/2026/06/21/elecciones-presidenciales-2026-analisis-de-los-retos-economicos-que-tendra-que-enfrentar-abelardo-de-la-espriella-o-ivan-cepeda-una-situacion-complicada/",
+      "title": "Los candidatos votan en la segunda vuelta de las presidenciales colombianas",
+      "link": "https://www.infobae.com/america/agencias/2026/06/21/los-candidatos-votan-en-la-segunda-vuelta-de-las-presidenciales-colombianas/",
       "source": "Infobae",
-      "pubDate": "Sun, 21 Jun 2026 17:29:18 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "🔴 En directo: De la Espriella y Cepeda ya votaron, el balotaje en Colombia transcurre con normalidad",
-      "link": "https://f24.my/C0LA",
-      "source": "France 24",
-      "pubDate": "Sun, 21 Jun 2026 17:26:55 GMT",
+      "pubDate": "Sun, 21 Jun 2026 19:01:29 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Iván Cepeda | Elecciones 2026 en VIVO: el candidato del Pacto Histórico, Iván Cepda, ya votó ",
-      "link": "https://www.infobae.com/colombia/2026/06/21/ivan-cepeda-elecciones-2026-en-vivo-apertura-de-mesas-y-reporte-de-orden-publico-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Sun, 21 Jun 2026 17:23:58 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Elecciones presidenciales EN VIVO desde Antioquia, hoy 21 de junio: denuncian fallas en el servicio de metrocable en La Aurora, Medellín",
-      "link": "https://www.infobae.com/colombia/2026/06/21/elecciones-presidenciales-en-vivo-desde-antioquia-hoy-21-de-junio-siga-el-minuto-a-minuto-de-las-votaciones/",
-      "source": "Infobae",
-      "pubDate": "Sun, 21 Jun 2026 17:17:38 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones presidenciales en Colombia, en VIVO: Iván Cepeda votó en el colegio San Lucas de Kennedy y afirmó que reconocerá los resultados",
-      "link": "https://www.infobae.com/colombia/2026/06/20/elecciones-presidenciales-de-colombia-2026-en-vivo-estas-son-las-ultimas-movidas-politicas-de-cara-a-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Sun, 21 Jun 2026 17:03:22 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "María Corina Machado instó a los colombianos a votar con “plena consciencia” por el futuro de la democracia y la libertad del país",
-      "link": "https://www.infobae.com/colombia/2026/06/21/maria-corina-machado-insto-a-los-colombianos-a-votar-con-plena-consciencia-por-el-futuro-de-la-democracia-y-la-libertad-del-pais/",
-      "source": "Infobae",
-      "pubDate": "Sun, 21 Jun 2026 16:57:56 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Detector: Abelardo no dijo que los profesores “son un gasto innecesario”",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-abelardo-no-dijo-que-los-profesores-son-un-gasto-innecesario/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 21 Jun 2026 16:38:52 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Elecciones Colombia 2026: ¿cómo estará el clima durante la tarde de este domingo 21 de junio en su ciudad?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-como-estara-el-clima-durante-la-tarde-de-este-domingo-21-de-junio-en-su-ciudad-3565862",
+      "title": "Fiscalía entrega primer reporte de la jornada electoral de segunda vuelta: van 34 capturados en todo el país",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fiscalia-entrega-primer-reporte-de-la-jornada-electoral-de-segunda-vuelta-van-34-capturados-en-todo-el-pais-3565885",
       "source": "El Tiempo",
-      "pubDate": "2026-06-21T11:33:23-05:00",
+      "pubDate": "2026-06-21T13:57:09-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Voto en el exterior: Londres termina su jornada en la Iglesia de San Pablo",
-      "link": "https://www.lasillavacia.com/en-vivo/voto-en-el-exterior-londres-termina-su-jornada-en-iglesia-de-san-pablo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 21 Jun 2026 16:16:16 +0000",
+      "title": "Laura Sarabia habla del proceso electoral y su llamado a reconocer los resultados de las votaciones de segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/laura-sarabia-se-desmarca-de-gustavo-petro-y-rechaza-cualquier-narrativa-de-fraude-electoral-3565871",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-21T13:53:24-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "La viuda de Miguel Uribe Turbay pidió honrar su memoria durante la jornada electoral: “Hoy todos tenemos que estar unidos por el país que soñamos”",
+      "link": "https://www.infobae.com/colombia/2026/06/21/la-viuda-de-miguel-uribe-turbay-pidio-honrar-su-memoria-durante-la-jornada-electoral-hoy-todos-tenemos-que-estar-unidos-por-el-pais-que-sonamos/",
+      "source": "Infobae",
+      "pubDate": "Sun, 21 Jun 2026 18:52:46 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Cómo van las elecciones presidenciales de 2026 hoy en Colombia y desde qué hora comienza el preconteo de votos? Así avanza la segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/como-van-las-elecciones-presidenciales-de-2026-hoy-en-colombia-y-desde-que-hora-comienza-el-preconteo-de-votos-asi-avanza-la-segunda-vuelta-3565875",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-21T13:40:34-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Denuncias por compra de votos en La Guajira y dos capturas en Cesar y Guainía, marcan incidencias de la segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/denuncias-por-compra-de-votos-en-la-guajira-y-dos-capturas-en-cesar-y-guainia-marcan-incidencias-de-la-segunda-vuelta-3565882",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-21T13:25:27-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
