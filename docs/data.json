@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-22T04:50:22.714Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-22T12:12:19.712Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,8 +18,8 @@
       "youtubeViews": 592342,
       "finalScore": 51,
       "momentum": {
-        "value": -7.3,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 46.4
     },
@@ -47,100 +47,100 @@
   ],
   "articles": [
     {
-      "title": "Elecciones en Colombia: De la Espriella celebra la victoria mientras Cepeda dice que reconocerá el resultado oficial del escrutinio",
+      "title": "De la Espriella celebra la victoria electoral en Colombia pero Cepeda espera el escrutinio oficial; la reacción de Trump y otros líderes ",
       "link": "https://www.bbc.co.uk/mundo/live/c6219kqq9r7t?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-06-22T04:50:22.433Z",
+      "pubDate": "2026-06-22T12:12:19.635Z",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "EN VIVO: Protestas en Colombia tras la victoria de Abelardo de la Espriella afectan el orden público en Bogotá, Medellín y Cali hoy 21 de junio",
-      "link": "https://www.infobae.com/colombia/2026/06/21/caos-en-la-movilidad-de-bogota-por-manifestaciones-tras-victoria-de-abelardo-de-la-espriella-en-las-elecciones-presidenciales/",
+      "title": "Abelardo de la Espriella sigue recibiendo felicitaciones del exterior tras preconteo electoral: primera ministra de Italia y El Salvador enviaron sus mensajes",
+      "link": "https://www.infobae.com/colombia/2026/06/22/abelardo-de-la-espriella-sigue-recibiendo-felicitaciones-del-exterior-tras-preconteo-electoral-primera-ministra-de-italia-y-el-salvador-enviaron-sus-mensajes/",
       "source": "Infobae",
-      "pubDate": "Mon, 22 Jun 2026 04:47:44 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Mon, 22 Jun 2026 12:06:26 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "Resultados Elecciones Colombia EN VIVO: Abelardo de la Espriella aseguró que gobernará para todos en su discurso después de la victoria en el preconteo",
-      "link": "https://www.infobae.com/colombia/2026/06/20/elecciones-presidenciales-de-colombia-2026-en-vivo-estas-son-las-ultimas-movidas-politicas-de-cara-a-la-segunda-vuelta/",
+      "title": "Segunda vuelta presidencial 2026: video captó grupo de personas frente a la casa de Gustavo Petro en Chía tras la victoria de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/06/22/segunda-vuelta-presidencial-2026-video-capto-grupo-de-personas-frente-a-la-casa-de-gustavo-petro-en-chia-tras-la-victoria-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Mon, 22 Jun 2026 04:47:30 +0000",
+      "pubDate": "Mon, 22 Jun 2026 12:05:39 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Así ganó la presidencia Abelardo de la Espriella: esta es la radiografía del voto de las regiones en la segunda vuelta, ante Iván Cepeda ",
-      "link": "https://www.infobae.com/colombia/2026/06/22/asi-gano-la-presidencia-abelardo-de-la-espriella-esta-es-la-radiografia-del-voto-de-las-regiones-en-la-segunda-vuelta-ante-ivan-cepeda/",
+      "title": "Jorge Cárdenas desató diversas reacciones con una teoría sobre las mesas de votación y una posible maniobra irregular en la segunda vuelta electoral",
+      "link": "https://www.infobae.com/colombia/2026/06/22/jorge-cardenas-desato-diversas-reacciones-con-una-teoria-sobre-las-mesas-de-votacion-y-una-posible-maniobra-irregular-en-la-segunda-vuelta-electoral/",
       "source": "Infobae",
-      "pubDate": "Mon, 22 Jun 2026 04:39:30 +0000",
+      "pubDate": "Mon, 22 Jun 2026 12:02:17 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Cómo votaron Bogotá, Medellín y otras ciudades en Colombia? Así les fue a Abelardo de la Espriella e Iván Cepeda en la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/como-votaron-bogota-medellin-y-otras-ciudades-en-colombia-asi-les-fue-a-abelardo-de-la-espriella-e-ivan-cepeda-en-la-segunda-vuelta-presidencial-3566040",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-22T07:01:11-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Así fue la celebración de Abelardo de la Espriella Barranquilla tras imponerse en el preconteo",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fue-la-celebracion-de-abelardo-de-la-espriella-barranquilla-tras-imponerse-en-el-preconteo-3566026",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-21T23:27:35-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Quién es Abelardo De la Espriella, el ‘outsider’ que gobernará Colombia?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/quien-es-abelardo-de-la-espriella-el-outsider-que-gobernara-colombia-3566014",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-21T23:25:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De la Espriella, presidente electo de Colombia tras el preconteo: se impone por 247.000 votos",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-de-colombia-tras-el-preconteo-se-impone-por-247-000-votos-3566015",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-21T23:20:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los nombres que suenan para el próximo gabinete de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-nombres-que-suenan-para-el-proximo-gabinete-de-abelardo-de-la-espriella-3565969",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-21T23:18:29-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "'El preconteo lo reconocemos como un dato que aún no es oficial ni vinculante': Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-preconteo-lo-reconocemos-como-un-dato-que-aun-no-es-oficial-ni-vinculante-ivan-cepeda-3566018",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-21T23:11:06-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Las 10 frases más fuertes del discurso de Abelardo De la Espriella tras ganar las elecciones: “Soy tu presidente”",
-      "link": "https://www.infobae.com/colombia/2026/06/22/las-10-frases-mas-fuertes-del-discurso-de-abelardo-de-la-espriella-tras-ganar-las-elecciones-soy-tu-presidente/",
+      "title": "Iván Cepeda perdió la Presidencia de Colombia, pero tendrá importante cargo en el país: de cuál se trata ",
+      "link": "https://www.infobae.com/colombia/2026/06/22/ivan-cepeda-perdio-la-presidencia-de-colombia-pero-tendra-importante-cargo-en-el-pais-de-cual-se-trata/",
       "source": "Infobae",
-      "pubDate": "Mon, 22 Jun 2026 04:10:45 +0000",
+      "pubDate": "Mon, 22 Jun 2026 11:54:39 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "La ‘influencer’ Queenjuandy reaccionó al resultado de las elecciones presidenciales: “Tengo decepción”",
+      "link": "https://www.infobae.com/colombia/2026/06/22/la-influencer-queenjuandy-reacciono-al-resultado-de-las-elecciones-presidenciales-tengo-decepcion/",
+      "source": "Infobae",
+      "pubDate": "Mon, 22 Jun 2026 11:53:40 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Giorgia Meloni, primera ministra de Italia, felicita a Abelardo de la Espriella tras triunfo en elecciones presidenciales: 'Lista para colaborar'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/giorgia-meloni-primera-ministra-de-italia-felicita-a-abelardo-de-la-espriella-tras-triunfo-en-elecciones-presidenciales-lista-para-colaborar-3566039",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-22T06:50:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "De la Espriella celebra, pero Cepeda pide esperar el escrutinio: ¿qué viene tras el reñido balotaje en Colombia?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260622-de-la-espriella-celebra-pero-cepeda-pide-esperar-el-escrutinio-qu%C3%A9-viene-tras-el-ajustado-balotaje-en-colombia",
-      "source": "France 24",
-      "pubDate": "Mon, 22 Jun 2026 04:09:27 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Westcol se pronunció tras los disturbios en Cali por resultados electorales: “Qué estupidez salir a volver mierda una ciudad”",
+      "link": "https://www.infobae.com/colombia/2026/06/22/westcol-se-pronuncio-tras-los-disturbios-en-cali-por-resultados-electorales-que-estupidez-salir-a-volver-mierda-una-ciudad/",
+      "source": "Infobae",
+      "pubDate": "Mon, 22 Jun 2026 11:48:38 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Encuestas acertaron que Abelardo de la Espriella sería el ganador, pero no la estrecha diferencia con Iván Cepeda en la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/encuestas-acertaron-que-abelardo-de-la-espriella-seria-el-ganador-pero-no-la-estrecha-diferencia-con-ivan-cepeda-en-la-segunda-vuelta-presidencial-3566021",
+      "title": "Elecciones Colombia 2026: escrutinio avanza tras triunfo de Abelardo de la Espriella y esperan resultado esta semana; se pronuncian otros países",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-colombia-2026-escrutinio-avanza-tras-triunfo-de-abelardo-de-la-espriella-y-esperan-resultado-oficial-esta-semana-3566030",
       "source": "El Tiempo",
-      "pubDate": "2026-06-21T23:00:50-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "2026-06-22T06:42:44-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Donald Trump habría invitado a Abelardo de la Espriella, presidente electo de Colombia, a la Casa Blanca tras ganar las elecciones: lo que hablaron",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/donald-trump-habria-invitado-a-abelardo-de-la-espriella-presidente-electo-de-colombia-a-la-casa-blanca-tras-ganar-las-elecciones-lo-que-hablaron-3566038",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-22T06:40:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El estrecho vínculo de Abelardo de la Espriella con EE.UU. (y las dudas que despierta que un estadounidense sea el presidente de Colombia)",
+      "link": "https://www.bbc.com/mundo/articles/c932982wq71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 22 Jun 2026 11:36:28 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     }
   ]
 }
