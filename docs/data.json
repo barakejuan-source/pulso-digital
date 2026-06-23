@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T11:22:52.558Z",
+  "updatedAt": "2026-06-23T14:58:09.211Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,12 +47,60 @@
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales Colombia 2026: avanza escrutinio tras triunfo de Abelardo de la Espriella; ministro de Defensa habló del 'Plan Democracia'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-escrutinio-avanza-tras-triunfo-de-abelardo-de-la-espriella-y-se-espera-el-resultado-esta-semana-3566304",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-23T05:39:40-05:00",
+      "title": "Sigue el rifirrafe entre Diana Ángel y cuenta de seguidores de Abelardo de la Espriella: “Toda su campaña ha sido hacernos llenar de temor y miedo”",
+      "link": "https://www.infobae.com/colombia/2026/06/23/sigue-el-rifirrafe-entre-diana-angel-y-cuenta-de-seguidores-de-abelardo-de-la-espriella-toda-su-campana-ha-sido-hacernos-llenar-de-temor-y-miedo/",
+      "source": "Infobae",
+      "pubDate": "Tue, 23 Jun 2026 14:21:57 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Cómo gobernará De la Espriella la Colombia dividida?",
+      "link": "https://www.france24.com/es/programas/el-debate/20260623-c%C3%B3mo-gobernar%C3%A1-de-la-espriella-la-colombia-dividida",
+      "source": "France 24",
+      "pubDate": "Tue, 23 Jun 2026 14:03:51 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Campaña de De la Espriella concentra sus reclamos en el “voto fusil”",
+      "link": "https://www.lasillavacia.com/en-vivo/campana-de-de-la-espriella-concentra-sus-reclamos-en-el-voto-fusil/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 23 Jun 2026 13:48:20 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Los 'pecados' de la campaña de Iván Cepeda que fueron determinantes en su derrota ante Abelardo de la Espriella en segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-pecados-de-la-campana-de-ivan-cepeda-que-fueron-determinantes-en-su-derrota-ante-abelardo-de-la-espriella-en-segunda-vuelta-3566258",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-23T08:30:52-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "🇨🇴Análisis: ¿cuál es la diferencia entre preconteo y escrutinio en Colombia y por qué el oficialismo pide esperar?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260622-cepeda-insiste-en-esperar-al-escrutinio-y-responde-a-de-la-espriella-que-no-nos-amenace-no-nos-asustan-sus-alaridos",
+      "source": "France 24",
+      "pubDate": "Tue, 23 Jun 2026 12:26:38 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Cómo va el escrutinio presidencial hoy martes 23 de junio? Estos son los datos de la revisión de votos de Abelardo de la Espriella e Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/como-va-el-escrutinio-presidencial-hoy-martes-23-de-junio-estos-son-los-datos-de-la-revision-de-votos-de-abelardo-de-la-espriella-e-ivan-cepeda-3566313",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-23T07:26:07-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Contar voto a voto: adentro del escrutinio en Corferias",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/contar-voto-a-voto-adentro-del-escrutinio-en-corferias/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 23 Jun 2026 12:24:48 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Donald Trump, presidente de EE.UU., se refirió al triunfo de Abelardo De La Espriella: 'Estaba en el décimo lugar; lo apoyé y ganó las elecciones'",
@@ -93,54 +141,6 @@
       "pubDate": "Tue, 23 Jun 2026 00:28:54 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Qué rol podría tener Estados Unidos en un eventual gobierno en Colombia de De la Espriella?",
-      "link": "https://www.france24.com/es/video/20260623-qu%C3%A9-rol-podr%C3%ADa-tener-estados-unidos-en-un-eventual-gobierno-en-colombia-de-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Tue, 23 Jun 2026 00:26:42 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Protestas en Colombia tras el preconteo electoral que da la victoria a Abelardo de la Espriella",
-      "link": "https://www.france24.com/es/video/20260623-protestas-en-colombia-tras-el-preconteo-electoral-que-da-la-victoria-a-abelardo-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Tue, 23 Jun 2026 00:25:52 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Ariel Ávila: \"No hay intenciones de desconocer el resultado electoral en Colombia\"",
-      "link": "https://www.france24.com/es/video/20260623-ariel-%C3%A1vila-no-hay-intenciones-de-desconocer-el-resultado-electoral-en-colombia",
-      "source": "France 24",
-      "pubDate": "Tue, 23 Jun 2026 00:21:40 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Qué sigue después del preconteo que da ventaja a De la Espriella en las elecciones en Colombia?",
-      "link": "https://www.france24.com/es/video/20260623-qu%C3%A9-sigue-despu%C3%A9s-del-preconteo-que-da-ventaja-a-de-la-espriella-en-las-elecciones-en-colombia",
-      "source": "France 24",
-      "pubDate": "Tue, 23 Jun 2026 00:19:22 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Los 'pecados' de la campaña de Iván Cepeda que fueron determinantes en su derrota ante Abelardo de la Espriella en segunda vuelta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-pecados-de-la-campana-de-ivan-cepeda-que-fueron-determinantes-en-su-derrota-ante-abelardo-de-la-espriella-en-segunda-vuelta-3566258",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-22T19:10:45-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Respuestas a las preguntas más frecuentes sobre los escrutinios hechas a la SillaIA",
-      "link": "https://www.lasillavacia.com/silla-nacional/respuestas-a-las-preguntas-mas-frecuentes-sobre-los-escrutinios-hechas-a-la-sillaia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 22 Jun 2026 23:48:43 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
