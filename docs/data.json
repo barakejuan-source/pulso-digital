@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T21:46:15.102Z",
+  "updatedAt": "2026-06-23T23:11:56.305Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 51,
+      "trendsScore": 52,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 592342,
       "finalScore": 58,
       "momentum": {
-        "value": -1.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 49.6
@@ -47,20 +47,84 @@
   ],
   "articles": [
     {
-      "title": "Paloma Valencia entregó propuesta programática al Gobierno de Abelardo de la Espriella y José Manuel Restrepo: “Es nuestro aporte para grandes soluciones”",
-      "link": "https://www.infobae.com/colombia/2026/06/23/paloma-valencia-entrego-propuesta-programatica-al-gobierno-de-abelardo-de-la-espriella-y-jose-manuel-restrepo-es-nuestro-aporte-para-grandes-soluciones/",
+      "title": "Desde El Salvador, Abelardo de la Espriella recibió apoyo tras ganar las elecciones presidenciales: “Deseamos éxitos”",
+      "link": "https://www.infobae.com/colombia/2026/06/23/desde-el-salvador-abelardo-de-la-espriella-recibio-apoyo-tras-ganar-las-elecciones-presidenciales-deseamos-exitos/",
       "source": "Infobae",
-      "pubDate": "Tue, 23 Jun 2026 21:38:44 +0000",
+      "pubDate": "Tue, 23 Jun 2026 23:05:01 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Aida Quilcué rechazó la narrativa de “voto fusil” a favor de Iván Cepeda: “No permitiremos que se promuevan persecuciones”",
-      "link": "https://www.infobae.com/colombia/2026/06/23/aida-quilcue-rechazo-la-narrativa-de-voto-fusil-a-favor-de-ivan-cepeda-no-permitiremos-que-se-promuevan-persecuciones/",
+      "title": "Edmundo González reaccionó al triunfo de Abelardo de la Espriella y le hizo un llamado especial: “La verdadera prueba comienza después de las urnas”",
+      "link": "https://www.infobae.com/colombia/2026/06/23/edmundo-gonzalez-reacciono-al-triunfo-de-abelardo-de-la-espriella-y-le-hizo-un-llamado-especial-la-verdadera-prueba-comienza-despues-de-las-urnas/",
       "source": "Infobae",
-      "pubDate": "Tue, 23 Jun 2026 21:37:46 +0000",
+      "pubDate": "Tue, 23 Jun 2026 23:01:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Excanciller Manuel Rodríguez Cuadros abandona el partido de Roberto Sánchez tras denuncia de fraude y rechazo de resultados",
+      "link": "https://www.infobae.com/peru/2026/06/23/excanciller-manuel-rodriguez-cuadros-abandona-el-partido-de-roberto-sanchez-tras-denuncia-de-fraude-y-rechazar-resultados/",
+      "source": "Infobae",
+      "pubDate": "Tue, 23 Jun 2026 22:51:42 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Juan Fernando Cristo, integrante de la campaña de Iván Cepeda, reconoce el triunfo de Abelardo de la Espriella: 'Los colombianos decidieron'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/juan-fernando-cristo-integrante-de-la-campana-de-ivan-cepeda-reconoce-el-triunfo-de-abelardo-de-la-espriella-los-colombianos-decidieron-3566476",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-23T17:49:44-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Figuras del progresismo y de la campaña de Iván Cepeda empiezan a reconocer triunfo de Abelardo de la Espriella en las urnas",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/figuras-del-progresismo-y-de-la-campana-de-ivan-cepeda-empiezan-a-reconocer-triunfo-de-abelardo-de-la-espriella-en-las-urnas-3566521",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-23T17:48:24-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella llegará a la Casa de Nariño con una numerosa familia perruna: “Les presento a mi manada”",
+      "link": "https://www.infobae.com/colombia/2026/06/23/abelardo-de-la-espriella-llegara-a-la-casa-de-narino-con-una-numerosa-familia-perruna-les-presento-a-mi-manada/",
+      "source": "Infobae",
+      "pubDate": "Tue, 23 Jun 2026 22:34:50 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella agradeció a Benjamín Netanyahu por su mensaje de felicitación tras ganar las elecciones: “Estoy convencido”",
+      "link": "https://www.infobae.com/colombia/2026/06/23/abelardo-de-la-espriella-agradecio-a-benjamin-netanyahu-por-su-mensaje-de-felicitacion-tras-ganar-las-elecciones-estoy-convencido/",
+      "source": "Infobae",
+      "pubDate": "Tue, 23 Jun 2026 22:32:41 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Las empresas colombianas tendrán grandes retos con Abelardo de la Espriella: “La mayor ventaja competitiva no la tienen los más grandes”",
+      "link": "https://www.infobae.com/colombia/2026/06/23/las-empresas-colombianas-tendran-grandes-retos-con-abelardo-de-la-espriella-la-mayor-ventaja-competitiva-no-la-tienen-los-mas-grandes/",
+      "source": "Infobae",
+      "pubDate": "Tue, 23 Jun 2026 22:19:41 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Saade, primer funcionario de Petro en reconocer victoria de Abelardo",
+      "link": "https://www.lasillavacia.com/en-vivo/saade-primer-funcionario-de-petro-en-reconocer-victoria-de-abelardo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 23 Jun 2026 22:01:45 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Las cinco frases de la Misión de Observación de la Unión Europea sobre los puntos que marcaron la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-cinco-frases-de-la-mision-de-observacion-de-la-union-europea-sobre-los-puntos-que-marcaron-la-segunda-vuelta-presidencial-3566507",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-23T16:47:33-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "El mapa, municipio por municipio, de la segunda vuelta presidencial: Abelardo de la Espriella ganó en 758, más de seis de cada diez en el país",
@@ -71,76 +135,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Andrés Forero y Mafe Carrascal protagonizaron un acalorado choque por el polémico “voto fusil” tras las elecciones: “¿Cuál es la mentira?\"",
-      "link": "https://www.infobae.com/colombia/2026/06/23/andres-forero-y-mafe-carrascal-protagonizaron-un-acalorado-choque-por-el-polemico-voto-fusil-tras-las-elecciones-cual-es-la-mentira/",
-      "source": "Infobae",
-      "pubDate": "Tue, 23 Jun 2026 21:27:48 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "La Registraduría respondió a Gustavo Petro y negó alteración en la seguridad de los formularios E-14 de la segunda vuelta presidencial",
-      "link": "https://www.infobae.com/colombia/2026/06/23/la-registraduria-respondio-a-gustavo-petro-y-nego-alteracion-en-la-seguridad-de-los-formularios-e-14-de-la-segunda-vuelta-presidencial/",
-      "source": "Infobae",
-      "pubDate": "Tue, 23 Jun 2026 21:22:17 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Centro Democrático se declara partido de Gobierno y le comparte a Abelardo de la Espriella sus prioridades de trabajo en Congreso",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/centro-democratico-se-declara-partido-de-gobierno-y-le-comparte-a-abelardo-de-la-espriella-sus-prioridades-de-trabajo-en-congreso-3566498",
       "source": "El Tiempo",
       "pubDate": "2026-06-23T16:19:14-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los roces del expresidente Álvaro Uribe con una de las fichas clave de la campaña de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-roces-del-expresidente-alvaro-uribe-con-una-de-las-fichas-clave-de-la-campana-de-abelardo-de-la-espriella-3566508",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-23T15:49:58-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿El triunfo de Abelardo de la Espriella significaría el fin de la JEP en Colombia?",
-      "link": "https://www.france24.com/es/video/20260623-el-triunfo-de-abelardo-de-la-espriella-significar%C3%ADa-el-fin-de-la-jep-en-colombia",
-      "source": "France 24",
-      "pubDate": "Tue, 23 Jun 2026 20:34:13 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Juan Fernando Cristo, integrante de la campaña de Iván Cepeda, reconoce el 'triunfo' de Abelardo de la Espriella: 'Los colombianos decidieron'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/juan-fernando-cristo-integrante-de-la-campana-de-ivan-cepeda-reconoce-el-triunfo-de-abelardo-de-la-espriella-los-colombianos-decidieron-3566476",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-23T15:14:57-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Centro Carter destacó la labor de las autoridades electorales por unas elecciones 'bien organizadas' y con una 'alta participación'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/centro-carter-destaco-la-labor-de-las-autoridades-electorales-por-unas-elecciones-bien-organizadas-y-con-una-alta-participacion-3566472",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-23T14:51:18-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones Perú: Sánchez denuncia \"fraude\" y anuncia que no reconocerá eventual presidencia de Fujimori",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260623-elecciones-per%C3%BA-s%C3%A1nchez-denuncia-fraude-y-anuncia-que-no-reconocer%C3%A1-eventual-presidencia-de-fujimori",
-      "source": "France 24",
-      "pubDate": "Tue, 23 Jun 2026 19:04:46 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Colombia: el escrutinio de primer nivel coincide con el preconteo que dio la victoria a De la Espriella",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260623-colombia-con-99-997-el-escrutinio-de-las-capitales-coincide-con-el-preconteo-que-dio-la-victoria-a-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Tue, 23 Jun 2026 18:43:23 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
