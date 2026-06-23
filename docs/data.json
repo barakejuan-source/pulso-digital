@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T07:54:20.752Z",
+  "updatedAt": "2026-06-23T11:22:52.558Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,12 +47,20 @@
   ],
   "articles": [
     {
-      "title": "Así te lo contamos: De la Espriella celebra la victoria electoral en Colombia pero Cepeda espera el escrutinio oficial",
-      "link": "https://www.bbc.co.uk/mundo/live/c6219kqq9r7t?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "2026-06-23T07:54:20.195Z",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Elecciones presidenciales Colombia 2026: avanza escrutinio tras triunfo de Abelardo de la Espriella; ministro de Defensa habló del 'Plan Democracia'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-escrutinio-avanza-tras-triunfo-de-abelardo-de-la-espriella-y-se-espera-el-resultado-esta-semana-3566304",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-23T05:39:40-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Donald Trump, presidente de EE.UU., se refirió al triunfo de Abelardo De La Espriella: 'Estaba en el décimo lugar; lo apoyé y ganó las elecciones'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/donald-trump-presidente-de-ee-uu-se-refirio-al-triunfo-de-abelardo-de-la-espriella-estaba-en-el-decimo-lugar-lo-apoye-y-gano-las-elecciones-3566303",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-23T04:16:35-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Iván Cepeda ganó en 102 de los 139 municipios en riesgo extremo electoral en segunda vuelta: en 15 lo hizo con más del 90 por ciento de los votos",
@@ -133,14 +141,6 @@
       "pubDate": "Mon, 22 Jun 2026 23:48:43 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "#ElFiltro: video viral en redes no muestra una disidencia guerrillera apoyando a Abelardo de la Espriella; son militares retirados",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-video-viral-en-redes-no-muestra-una-disidencia-guerrillera-apoyando-a-abelardo-de-la-espriella-son-militares-retirados-3566247",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-22T18:20:57-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
