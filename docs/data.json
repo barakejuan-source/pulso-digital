@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-22T22:07:44.119Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-23T03:54:51.649Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 34,
+      "trendsScore": 55,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 21.7
       },
       "youtubeViews": 592342,
-      "finalScore": 51,
+      "finalScore": 59,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": 15.7,
+        "direction": "up"
       },
-      "probability": 46.4
+      "probability": 50
     },
     {
       "id": "abelardo_espriella",
@@ -42,7 +42,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 53.6
+      "probability": 50
     }
   ],
   "articles": [
@@ -50,97 +50,97 @@
       "title": "Así te lo contamos: De la Espriella celebra la victoria electoral en Colombia pero Cepeda espera el escrutinio oficial",
       "link": "https://www.bbc.co.uk/mundo/live/c6219kqq9r7t?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-06-22T22:07:43.820Z",
+      "pubDate": "2026-06-23T03:54:51.592Z",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Donald Trump contó detalles de las llamadas con Abelardo de la Espriella, tras ser elegido presidente: “Dijo cosas buenas sobre mí”",
-      "link": "https://www.infobae.com/colombia/2026/06/22/donald-trump-conto-detalles-de-las-llamadas-con-abelardo-de-la-espriella-tras-ser-elegido-presidente-dijo-cosas-buenas-sobre-mi/",
-      "source": "Infobae",
-      "pubDate": "Mon, 22 Jun 2026 21:56:23 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Informe desde Miami: De la Espriella arrasó en EE. UU.; Trump lo felicitó por su victoria",
-      "link": "https://www.france24.com/es/video/20260622-informe-desde-miami-de-la-espriella-arras%C3%B3-en-ee-uu-trump-lo-felicit%C3%B3-por-su-victoria",
-      "source": "France 24",
-      "pubDate": "Mon, 22 Jun 2026 21:47:12 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Centro Democrático abre la puerta a construir una coalición en el Congreso con gobierno electo de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/centro-democratico-abre-la-puerta-a-construir-una-coalicion-en-el-congreso-con-gobierno-electo-de-abelardo-de-la-espriella-3566216",
+      "title": "Iván Cepeda ganó en 102 de los 139 municipios en riesgo extremo electoral en segunda vuelta: en 15 lo hizo con más del 90 por ciento de los votos",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-gano-en-102-de-los-139-municipios-en-riesgo-extremo-electoral-en-segunda-vuelta-en-15-lo-hizo-con-mas-del-90-por-ciento-de-los-votos-3566209",
       "source": "El Tiempo",
-      "pubDate": "2026-06-22T16:28:24-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Victoria de Abelardo de la Espriella en las elecciones presidenciales frente a Iván Cepeda sacudió la acción de Ecopetrol",
-      "link": "https://www.infobae.com/colombia/2026/06/22/victoria-de-abelardo-de-la-espriella-en-las-elecciones-presidenciales-frente-a-ivan-cepeda-sacudio-la-accion-de-ecopetrol/",
-      "source": "Infobae",
-      "pubDate": "Mon, 22 Jun 2026 21:26:04 +0000",
+      "pubDate": "2026-06-22T22:30:00-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Informe desde Bogotá: mapa político de Colombia se mantiene estable en segunda vuelta presidencial",
-      "link": "https://www.france24.com/es/video/20260622-informe-desde-bogot%C3%A1-mapa-pol%C3%ADtico-de-colombia-se-mantiene-estable-en-segunda-vuelta-presidencial",
+      "title": "La derecha en América felicita a De la Espriella por su triunfo en Colombia, según el preconteo",
+      "link": "https://www.france24.com/es/video/20260623-la-derecha-en-am%C3%A9rica-felicita-a-de-la-espriella-por-su-triunfo-en-colombia-seg%C3%BAn-el-preconteo",
       "source": "France 24",
-      "pubDate": "Mon, 22 Jun 2026 21:20:26 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Tue, 23 Jun 2026 02:38:26 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "El Caribe, la región clave para el descuento de Cepeda frente a Abelardo",
-      "link": "https://www.lasillavacia.com/en-vivo/el-caribe-la-region-clave-para-el-descuento-de-cepeda-frente-a-abelardo/",
+      "title": "Álvaro Uribe se despachó contra estratega de Abelardo de la Espriella, pese a victoria del ‘Tigre’: este es el motivo de la polémica ",
+      "link": "https://www.infobae.com/colombia/2026/06/23/alvaro-uribe-se-despacho-contra-estratega-de-abelardo-de-la-espriella-pese-a-victoria-del-tigre-este-es-el-motivo-de-la-polemica/",
+      "source": "Infobae",
+      "pubDate": "Tue, 23 Jun 2026 02:38:01 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Qué margen de maniobra podría tener De la Espriella como presidente de Colombia?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260623-de-la-espriella-en-colombia-como-presidente-qu%C3%A9-margen-de-maniobra-podr%C3%ADa-tener",
+      "source": "France 24",
+      "pubDate": "Tue, 23 Jun 2026 02:29:44 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Felipe Harman vuelve a la ANT: Presidencia publicó su hoja de vida",
+      "link": "https://www.lasillavacia.com/en-vivo/felipe-harman-vuelve-a-la-ant-presidencia-publico-su-hoja-de-vida/",
       "source": "La Silla Vacía",
-      "pubDate": "Mon, 22 Jun 2026 21:02:29 +0000",
+      "pubDate": "Tue, 23 Jun 2026 00:28:54 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Los mapas y gráficos que muestran cómo se repartieron los votos en las elecciones en Colombia, según el preconteo",
-      "link": "https://www.bbc.com/mundo/articles/ckg4j88d17mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 22 Jun 2026 20:52:45 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Presidente Gustavo Petro viajó a Panamá luego de la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-viajo-a-panama-luego-de-la-segunda-vuelta-presidencial-3566186",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-22T15:14:31-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Registrador Nacional de Colombia: \"No hay razón para dudar del sistema electoral”",
-      "link": "https://www.france24.com/es/programas/la-entrevista/20260622-registrador-nacional-de-colombia-no-hay-raz%C3%B3n-para-dudar-del-sistema-electoral",
+      "title": "¿Qué rol podría tener Estados Unidos en un eventual gobierno en Colombia de De la Espriella?",
+      "link": "https://www.france24.com/es/video/20260623-qu%C3%A9-rol-podr%C3%ADa-tener-estados-unidos-en-un-eventual-gobierno-en-colombia-de-de-la-espriella",
       "source": "France 24",
-      "pubDate": "Mon, 22 Jun 2026 20:10:35 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "\"Victoria de De la Espriella: giro radical hacia una nueva derecha\": 'La Silla Vacía'",
-      "link": "https://www.france24.com/es/programas/revista-de-prensa/20260622-victoria-de-de-la-espriella-giro-radical-hacia-una-nueva-derecha-la-silla-vac%C3%ADa",
-      "source": "France 24",
-      "pubDate": "Mon, 22 Jun 2026 19:27:55 GMT",
+      "pubDate": "Tue, 23 Jun 2026 00:26:42 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Cepeda insiste en esperar al escrutinio y responde a De la Espriella: \"Que no nos amenace, no nos asustan sus alaridos\"",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260622-cepeda-insiste-en-esperar-al-escrutinio-y-responde-a-de-la-espriella-que-no-nos-amenace-no-nos-asustan-sus-alaridos",
+      "title": "Protestas en Colombia tras el preconteo electoral que da la victoria a Abelardo de la Espriella",
+      "link": "https://www.france24.com/es/video/20260623-protestas-en-colombia-tras-el-preconteo-electoral-que-da-la-victoria-a-abelardo-de-la-espriella",
       "source": "France 24",
-      "pubDate": "Mon, 22 Jun 2026 19:06:09 GMT",
+      "pubDate": "Tue, 23 Jun 2026 00:25:52 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Ariel Ávila: \"No hay intenciones de desconocer el resultado electoral en Colombia\"",
+      "link": "https://www.france24.com/es/video/20260623-ariel-%C3%A1vila-no-hay-intenciones-de-desconocer-el-resultado-electoral-en-colombia",
+      "source": "France 24",
+      "pubDate": "Tue, 23 Jun 2026 00:21:40 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Qué sigue después del preconteo que da ventaja a De la Espriella en las elecciones en Colombia?",
+      "link": "https://www.france24.com/es/video/20260623-qu%C3%A9-sigue-despu%C3%A9s-del-preconteo-que-da-ventaja-a-de-la-espriella-en-las-elecciones-en-colombia",
+      "source": "France 24",
+      "pubDate": "Tue, 23 Jun 2026 00:19:22 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Los 'pecados' de la campaña de Iván Cepeda que fueron determinantes en su derrota ante Abelardo de la Espriella en segunda vuelta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-pecados-de-la-campana-de-ivan-cepeda-que-fueron-determinantes-en-su-derrota-ante-abelardo-de-la-espriella-en-segunda-vuelta-3566258",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-22T19:10:45-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Respuestas a las preguntas más frecuentes sobre los escrutinios hechas a la SillaIA",
+      "link": "https://www.lasillavacia.com/silla-nacional/respuestas-a-las-preguntas-mas-frecuentes-sobre-los-escrutinios-hechas-a-la-sillaia/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 22 Jun 2026 23:48:43 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
