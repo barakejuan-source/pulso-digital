@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-23T03:54:51.649Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-23T07:54:20.752Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,8 +18,8 @@
       "youtubeViews": 592342,
       "finalScore": 59,
       "momentum": {
-        "value": 15.7,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 50
     },
@@ -50,7 +50,7 @@
       "title": "Así te lo contamos: De la Espriella celebra la victoria electoral en Colombia pero Cepeda espera el escrutinio oficial",
       "link": "https://www.bbc.co.uk/mundo/live/c6219kqq9r7t?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-06-23T03:54:51.592Z",
+      "pubDate": "2026-06-23T07:54:20.195Z",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -69,14 +69,6 @@
       "pubDate": "Tue, 23 Jun 2026 02:38:26 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Álvaro Uribe se despachó contra estratega de Abelardo de la Espriella, pese a victoria del ‘Tigre’: este es el motivo de la polémica ",
-      "link": "https://www.infobae.com/colombia/2026/06/23/alvaro-uribe-se-despacho-contra-estratega-de-abelardo-de-la-espriella-pese-a-victoria-del-tigre-este-es-el-motivo-de-la-polemica/",
-      "source": "Infobae",
-      "pubDate": "Tue, 23 Jun 2026 02:38:01 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "¿Qué margen de maniobra podría tener De la Espriella como presidente de Colombia?",
@@ -141,6 +133,14 @@
       "pubDate": "Mon, 22 Jun 2026 23:48:43 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "#ElFiltro: video viral en redes no muestra una disidencia guerrillera apoyando a Abelardo de la Espriella; son militares retirados",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-video-viral-en-redes-no-muestra-una-disidencia-guerrillera-apoyando-a-abelardo-de-la-espriella-son-militares-retirados-3566247",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-22T18:20:57-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     }
   ]
 }
