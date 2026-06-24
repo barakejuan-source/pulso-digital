@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T23:11:56.305Z",
+  "updatedAt": "2026-06-24T03:56:30.399Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 52,
+      "trendsScore": 53,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -47,28 +47,68 @@
   ],
   "articles": [
     {
-      "title": "Desde El Salvador, Abelardo de la Espriella recibió apoyo tras ganar las elecciones presidenciales: “Deseamos éxitos”",
-      "link": "https://www.infobae.com/colombia/2026/06/23/desde-el-salvador-abelardo-de-la-espriella-recibio-apoyo-tras-ganar-las-elecciones-presidenciales-deseamos-exitos/",
+      "title": "Escrutinio elecciones presidenciales 2026 En Vivo: Consejo Nacional Electoral reanuda el 24 de junio la audiencia de la segunda vuelta",
+      "link": "https://www.infobae.com/colombia/2026/06/23/escrutinio-elecciones-presidenciales-2026-en-vivo-el-cne-continua-con-el-proceso-de-revision-verificacion-y-consolidacion-de-los-resultados/",
       "source": "Infobae",
-      "pubDate": "Tue, 23 Jun 2026 23:05:01 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Edmundo González reaccionó al triunfo de Abelardo de la Espriella y le hizo un llamado especial: “La verdadera prueba comienza después de las urnas”",
-      "link": "https://www.infobae.com/colombia/2026/06/23/edmundo-gonzalez-reacciono-al-triunfo-de-abelardo-de-la-espriella-y-le-hizo-un-llamado-especial-la-verdadera-prueba-comienza-despues-de-las-urnas/",
-      "source": "Infobae",
-      "pubDate": "Tue, 23 Jun 2026 23:01:48 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Excanciller Manuel Rodríguez Cuadros abandona el partido de Roberto Sánchez tras denuncia de fraude y rechazo de resultados",
-      "link": "https://www.infobae.com/peru/2026/06/23/excanciller-manuel-rodriguez-cuadros-abandona-el-partido-de-roberto-sanchez-tras-denuncia-de-fraude-y-rechazar-resultados/",
-      "source": "Infobae",
-      "pubDate": "Tue, 23 Jun 2026 22:51:42 +0000",
+      "pubDate": "Wed, 24 Jun 2026 03:33:25 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "El emotivo mensaje que le dedicó Abelardo de la Espriella a su esposa, Ana Lucía Pineda, en redes: “Te amo, amore mío”   ",
+      "link": "https://www.infobae.com/colombia/2026/06/24/el-emotivo-mensaje-que-le-dedico-abelardo-de-la-espriella-a-su-esposa-ana-lucia-pineda-en-redes-te-amo-amore-mio/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 03:06:16 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Carlos Alonso Lucio, exguerrillero del M-19, sería parte del empalme entre Gustavo Petro y Abelardo de la Espriella ",
+      "link": "https://www.infobae.com/colombia/2026/06/24/carlos-alonso-lucio-ex-guerrillero-del-m-19-seria-parte-del-empalme-entre-gustavo-petro-y-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 03:03:39 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La Asociación Nacional de Movilidad Sostenible felicitó a Abelardo de la Espriella por su triunfo: 'trabajaremos en el desarrollo económico del país'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-asociacion-nacional-de-movilidad-sostenible-felicito-a-abelardo-de-la-espriella-por-su-triunfo-trabajaremos-en-el-desarrollo-economico-del-pais-3566592",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-23T20:38:50-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "CNE desmintió imagen falsa sobre supuestos resultados definitivos de segunda vuelta presidencial: advierten que proceso de escrutinio no ha finalizado",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cne-desmintio-imagen-falsa-sobre-supuestos-resultados-definitivos-de-segunda-vuelta-presidencial-advierten-que-proceso-de-escrutinio-no-ha-finalizado-3566573",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-23T19:24:21-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Duerma informado con las claves de este 23 de junio de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-23-de-junio-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 24 Jun 2026 00:10:42 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Petro lanza nuevas denuncias de fraude sin sustento tras segunda vuelta",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/petro-lanza-nuevas-denuncias-de-fraude-sin-sustento-tras-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 24 Jun 2026 00:06:49 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Las dos Colombias del mapa electoral",
+      "link": "https://www.lasillavacia.com/red-de-expertos/las-dos-colombias-del-mapa-electoral/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 23 Jun 2026 23:59:41 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Juan Fernando Cristo, integrante de la campaña de Iván Cepeda, reconoce el triunfo de Abelardo de la Espriella: 'Los colombianos decidieron'",
@@ -87,52 +127,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Abelardo de la Espriella llegará a la Casa de Nariño con una numerosa familia perruna: “Les presento a mi manada”",
-      "link": "https://www.infobae.com/colombia/2026/06/23/abelardo-de-la-espriella-llegara-a-la-casa-de-narino-con-una-numerosa-familia-perruna-les-presento-a-mi-manada/",
-      "source": "Infobae",
-      "pubDate": "Tue, 23 Jun 2026 22:34:50 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella agradeció a Benjamín Netanyahu por su mensaje de felicitación tras ganar las elecciones: “Estoy convencido”",
-      "link": "https://www.infobae.com/colombia/2026/06/23/abelardo-de-la-espriella-agradecio-a-benjamin-netanyahu-por-su-mensaje-de-felicitacion-tras-ganar-las-elecciones-estoy-convencido/",
-      "source": "Infobae",
-      "pubDate": "Tue, 23 Jun 2026 22:32:41 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Las empresas colombianas tendrán grandes retos con Abelardo de la Espriella: “La mayor ventaja competitiva no la tienen los más grandes”",
-      "link": "https://www.infobae.com/colombia/2026/06/23/las-empresas-colombianas-tendran-grandes-retos-con-abelardo-de-la-espriella-la-mayor-ventaja-competitiva-no-la-tienen-los-mas-grandes/",
-      "source": "Infobae",
-      "pubDate": "Tue, 23 Jun 2026 22:19:41 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Saade, primer funcionario de Petro en reconocer victoria de Abelardo",
-      "link": "https://www.lasillavacia.com/en-vivo/saade-primer-funcionario-de-petro-en-reconocer-victoria-de-abelardo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 23 Jun 2026 22:01:45 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "Las cinco frases de la Misión de Observación de la Unión Europea sobre los puntos que marcaron la segunda vuelta presidencial",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-cinco-frases-de-la-mision-de-observacion-de-la-union-europea-sobre-los-puntos-que-marcaron-la-segunda-vuelta-presidencial-3566507",
       "source": "El Tiempo",
       "pubDate": "2026-06-23T16:47:33-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "El mapa, municipio por municipio, de la segunda vuelta presidencial: Abelardo de la Espriella ganó en 758, más de seis de cada diez en el país",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-mapa-municipio-por-municipio-de-la-segunda-vuelta-presidencial-abelardo-de-la-espriella-gano-en-758-mas-de-seis-de-cada-diez-en-el-pais-3566255",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-23T16:34:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Centro Democrático se declara partido de Gobierno y le comparte a Abelardo de la Espriella sus prioridades de trabajo en Congreso",
