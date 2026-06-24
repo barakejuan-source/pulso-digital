@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T21:42:06.090Z",
+  "updatedAt": "2026-06-24T23:09:33.922Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 5169,
       "finalScore": 50,
       "momentum": {
-        "value": 2,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 55.6
@@ -47,58 +47,66 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella heredará persistentes problemas de caja en su gobierno: confirman que necesita hacer “una labor titánica”",
-      "link": "https://www.infobae.com/colombia/2026/06/24/abelardo-de-la-espriella-heredara-persistentes-problemas-de-caja-en-su-gobierno-confirman-que-necesita-hacer-una-labor-titanica/",
+      "title": "Escrutinio elecciones presidenciales 2026 EN VIVO: Abelardo de la Espriella es proclamado presidente de Colombia, CNE oficializó su mandato para el periodo 2026-2030",
+      "link": "https://www.infobae.com/colombia/2026/06/23/escrutinio-elecciones-presidenciales-2026-en-vivo-el-cne-continua-con-el-proceso-de-revision-verificacion-y-consolidacion-de-los-resultados/",
       "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 21:28:59 +0000",
+      "pubDate": "Wed, 24 Jun 2026 23:05:37 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Rafael López Aliaga: “¿Querían joderme? Pues ahí tienen a Keiko Fujimori. Esa es la peor pesadilla para un rojo”",
-      "link": "https://www.infobae.com/peru/2026/06/24/rafael-lopez-aliaga-querian-joderme-pues-ahi-tienen-a-keiko-fujimori-esa-es-la-peor-pesadilla-para-un-rojo/",
+      "title": "Las tarifas de energía subirían en medio del fenómeno de El Niño en Colombia y las empresas dieron soluciones a Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/06/24/las-tarifas-de-energia-subirian-en-medio-del-fenomeno-de-el-nino-en-colombia-y-las-empresas-dieron-soluciones-a-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 21:28:50 +0000",
+      "pubDate": "Wed, 24 Jun 2026 22:46:06 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Formularios E-14 no prueban fraude a favor de De la Espriella en segunda vuelta",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/formularios-e-14-no-prueban-fraude-a-favor-de-de-la-espriella-en-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 24 Jun 2026 22:28:56 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Escrutinio elecciones presidenciales 2026 EN VIVO: Iván Cepeda y Aida Quilcué asumen curules y anuncian férrea oposición al gobierno de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/23/escrutinio-elecciones-presidenciales-2026-en-vivo-el-cne-continua-con-el-proceso-de-revision-verificacion-y-consolidacion-de-los-resultados/",
-      "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 21:27:52 +0000",
+      "title": "Segunda vuelta: gobierno recibió 274 denuncias por constreñimiento",
+      "link": "https://www.lasillavacia.com/en-vivo/segunda-vuelta-gobierno-recibio-274-denuncias-por-constrenimiento/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 24 Jun 2026 22:17:31 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella es oficialmente el presidente electo: CNE oficializa los escrutinios y promulga su elección",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-es-oficialmente-el-presidente-electo-cne-oficializa-los-escrutinios-y-promulga-su-eleccion-3566824",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-24T17:05:29-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El ultraderechista Abelardo de la Espriella es proclamado presidente electo de Colombia",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260624-colombia-abelardo-de-la-espriella-presidente-electo",
+      "source": "France 24",
+      "pubDate": "Wed, 24 Jun 2026 21:43:50 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "El ultraderechista Abelardo de la Espriella es proclamado presidente electo de Colombia",
+      "link": "https://www.france24.com/es/minuto-a-minuto/20260624-el-ultraderechista-abelardo-de-la-espriella-es-proclamado-presidente-electo-de-colombia",
+      "source": "France 24",
+      "pubDate": "Wed, 24 Jun 2026 21:41:13 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Consejo Nacional Electoral terminó el escrutinio y reveló los votos totales de Abelardo de la Espriella e Iván Cepeda: ¿cuánto obtuvo cada uno?",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/consejo-nacional-electoral-termino-el-escrutinio-y-revelo-los-votos-totales-de-abelardo-de-la-espriella-e-ivan-cepeda-cuanto-obtuvo-cada-uno-3566803",
       "source": "El Tiempo",
-      "pubDate": "2026-06-24T16:25:33-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Trump volvió a destacar el triunfo de Abelardo de la Espriella en Colombia: “Lo llaman ‘El Tigre’ porque es fuerte y un luchador”",
-      "link": "https://www.infobae.com/colombia/2026/06/24/trump-volvio-a-destacar-el-triunfo-de-abelardo-de-la-espriella-en-colombia-lo-llaman-el-tigre-porque-es-fuerte-y-un-luchador/",
-      "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 21:17:10 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Voceros de la paz urbana en Antioquia piden que Abelardo de la Espriella siga con los diálogos de paz",
-      "link": "https://www.infobae.com/colombia/2026/06/24/voceros-de-la-paz-urbana-en-antioquia-piden-que-abelardo-de-la-espriella-siga-con-los-dialogos-de-paz/",
-      "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 21:14:48 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "CNE entregó los números finales tras el cierre del escrutinio de la segunda vuelta: Abelardo de la Espriella aumentó la diferencia frente a Iván Cepeda ",
-      "link": "https://www.infobae.com/colombia/2026/06/24/cne-entrego-los-numeros-finales-tras-el-cierre-del-escrutinio-de-la-segunda-vuelta-abelardo-de-la-espriella-aumento-la-diferencia-frente-a-ivan-cepeda/",
-      "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 21:10:24 +0000",
+      "pubDate": "2026-06-24T16:34:18-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -131,14 +139,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/consejo-nacional-electoral-cne-termina-oficialmente-los-escrutinios-anunciara-a-abelardo-de-la-espriella-como-presidente-electo-en-la-tarde-3566754",
       "source": "El Tiempo",
       "pubDate": "2026-06-24T14:24:35-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "“Este es nuestro hemisferio”: Colombia amplía el mapa de influencia de Trump en América Latina",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260624-este-es-nuestro-hemisferio-colombia-ampl%C3%ADa-el-mapa-de-influencia-de-trump-en-am%C3%A9rica-latina",
-      "source": "France 24",
-      "pubDate": "Wed, 24 Jun 2026 18:54:47 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
