@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T03:56:30.399Z",
+  "updatedAt": "2026-06-24T07:46:18.559Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,21 +7,21 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 53,
+      "trendsScore": 52,
       "youtubeScore": 100,
-      "sentimentScore": 24,
+      "sentimentScore": 30,
       "sentimentPct": {
-        "positive": 24,
-        "negative": 54.3,
-        "neutral": 21.7
+        "positive": 30,
+        "negative": 32,
+        "neutral": 38
       },
-      "youtubeViews": 592342,
-      "finalScore": 58,
+      "youtubeViews": 195923,
+      "finalScore": 60,
       "momentum": {
-        "value": 0,
+        "value": 3.4,
         "direction": "flat"
       },
-      "probability": 49.6
+      "probability": 60
     },
     {
       "id": "abelardo_espriella",
@@ -29,20 +29,20 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 44,
-      "sentimentScore": 20,
+      "youtubeScore": 0,
+      "sentimentScore": 0,
       "sentimentPct": {
-        "positive": 20,
-        "negative": 45.2,
-        "neutral": 34.8
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
       },
-      "youtubeViews": 260247,
-      "finalScore": 59,
+      "youtubeViews": 0,
+      "finalScore": 40,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -32.2,
+        "direction": "down"
       },
-      "probability": 50.4
+      "probability": 40
     }
   ],
   "articles": [
@@ -50,23 +50,31 @@
       "title": "Escrutinio elecciones presidenciales 2026 En Vivo: Consejo Nacional Electoral reanuda el 24 de junio la audiencia de la segunda vuelta",
       "link": "https://www.infobae.com/colombia/2026/06/23/escrutinio-elecciones-presidenciales-2026-en-vivo-el-cne-continua-con-el-proceso-de-revision-verificacion-y-consolidacion-de-los-resultados/",
       "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 03:33:25 +0000",
+      "pubDate": "Wed, 24 Jun 2026 07:21:16 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "El emotivo mensaje que le dedicó Abelardo de la Espriella a su esposa, Ana Lucía Pineda, en redes: “Te amo, amore mío”   ",
-      "link": "https://www.infobae.com/colombia/2026/06/24/el-emotivo-mensaje-que-le-dedico-abelardo-de-la-espriella-a-su-esposa-ana-lucia-pineda-en-redes-te-amo-amore-mio/",
+      "title": "“Muy productiva”: De La Espriella y presidente de Panamá hablan de seguridad e inversión",
+      "link": "https://www.infobae.com/colombia/2026/06/24/muy-productiva-de-la-espriella-y-presidente-de-panama-hablan-de-seguridad-e-inversion/",
       "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 03:06:16 +0000",
+      "pubDate": "Wed, 24 Jun 2026 06:30:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Carlos Alonso Lucio, exguerrillero del M-19, sería parte del empalme entre Gustavo Petro y Abelardo de la Espriella ",
-      "link": "https://www.infobae.com/colombia/2026/06/24/carlos-alonso-lucio-ex-guerrillero-del-m-19-seria-parte-del-empalme-entre-gustavo-petro-y-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 03:03:39 +0000",
+      "title": "La clase popular que le ganó la elección a De la Espriella",
+      "link": "https://www.lasillavacia.com/silla-nacional/la-clase-popular-que-le-gano-la-eleccion-a-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 24 Jun 2026 06:27:12 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Doctrina Donroe a lo que dé? Qué esperar de la relación Colombia - EE. UU. con De la Espriella en el poder",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260624-colombia-trump-de-la-espriella-doctrina-donroe-a-lo-que-d%C3%A9-qu%C3%A9-esperar-de-la-relaci%C3%B3n",
+      "source": "France 24",
+      "pubDate": "Wed, 24 Jun 2026 04:04:07 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -133,14 +141,6 @@
       "pubDate": "2026-06-23T16:47:33-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Centro Democrático se declara partido de Gobierno y le comparte a Abelardo de la Espriella sus prioridades de trabajo en Congreso",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/centro-democratico-se-declara-partido-de-gobierno-y-le-comparte-a-abelardo-de-la-espriella-sus-prioridades-de-trabajo-en-congreso-3566498",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-23T16:19:14-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
