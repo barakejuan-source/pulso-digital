@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-24T14:39:58.900Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-24T18:00:31.172Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 52,
+      "trendsScore": 50,
       "youtubeScore": 100,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 5169,
-      "finalScore": 51,
+      "finalScore": 50,
       "momentum": {
-        "value": -15,
-        "direction": "down"
+        "value": -2,
+        "direction": "flat"
       },
-      "probability": 56
+      "probability": 55.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,105 +42,105 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 44
+      "probability": 44.4
     }
   ],
   "articles": [
     {
-      "title": "Álvaro Uribe se despachó contra estratega de Abelardo de la Espriella, pese a victoria del ‘Tigre’: este es el motivo de la polémica ",
-      "link": "https://www.infobae.com/colombia/2026/06/23/alvaro-uribe-se-despacho-contra-estratega-de-abelardo-de-la-espriella-pese-a-victoria-del-tigre-este-es-el-motivo-de-la-polemica/",
-      "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 14:38:03 +0000",
+      "title": "Consejo Nacional Electoral (CNE) termina oficialmente los escrutinios: anunciará a Abelardo de la Espriella como presidente electo en la tarde",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/consejo-nacional-electoral-cne-termina-oficialmente-los-escrutinios-anunciara-a-abelardo-de-la-espriella-como-presidente-electo-en-la-tarde-3566754",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-24T12:59:45-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Escrutinio elecciones presidenciales 2026 En Vivo: Consejo Nacional Electoral reanuda el 24 de junio la audiencia de la segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/06/23/escrutinio-elecciones-presidenciales-2026-en-vivo-el-cne-continua-con-el-proceso-de-revision-verificacion-y-consolidacion-de-los-resultados/",
+      "title": "Carlos Carrillo respaldó a Petro, llamó “agente extranjero” a De la Espriella y pidió reconocer los resultados de la segunda vuelta",
+      "link": "https://www.infobae.com/colombia/2026/06/24/carlos-carrillo-respaldo-a-petro-llamo-agente-extranjero-a-de-la-espriella-y-pidio-reconocer-los-resultados-de-la-segunda-vuelta/",
       "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 14:36:15 +0000",
+      "pubDate": "Wed, 24 Jun 2026 17:53:23 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones presidenciales Colombia 2026: Iván Cepeda aceptó resultados y victoria de Abelardo de la Espriella; 'No significa renunciar a la verdad'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-escrutinio-avanza-tras-triunfo-de-abelardo-de-la-espriella-el-proceso-se-reanudara-hoy-a-las-9-a-m-3566620",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-24T09:34:44-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda reconoció los resultados de la segunda vuelta presidencial, que dieron como ganador a Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/24/ivan-cepeda-reconocio-los-resultados-de-la-segunda-vuelta-presidencial-que-dieron-como-ganador-a-abelardo-de-la-espriella/",
+      "title": "Escrutinio elecciones presidenciales 2026 EN VIVO: Terminó audiencia de escrutinios del CNE",
+      "link": "https://www.infobae.com/colombia/2026/06/23/escrutinio-elecciones-presidenciales-2026-en-vivo-el-cne-continua-con-el-proceso-de-revision-verificacion-y-consolidacion-de-los-resultados/",
       "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 14:34:27 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Wed, 24 Jun 2026 17:51:57 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cepeda aceptó los resultados presidenciales y reconoció a Abelardo de la Espriella como el ganador",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-acepto-los-resultados-presidenciales-y-reconocio-a-abelardo-de-la-espriella-como-el-ganador-3566660",
+      "title": "El Cric se refirió a una supuesta movilización masiva indígena hacia Bogotá tras el triunfo de Abelardo de la Espriella en las presidenciales",
+      "link": "https://www.infobae.com/colombia/2026/06/24/el-cric-se-refirio-a-una-supuesta-movilizacion-masiva-indigena-hacia-bogota-tras-el-triunfo-de-abelardo-de-la-espriella-en-las-presidenciales/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 17:46:01 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente electo Abelardo de la Espriella anuncia que 'restaurará y fortalecerá' relaciones con Israel: 'Un amigo leal y un aliado firme'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-restaurara-y-fortalecera-relaciones-con-israel-un-amigo-leal-y-un-aliado-firme-3566743",
       "source": "El Tiempo",
-      "pubDate": "2026-06-24T09:33:10-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "2026-06-24T12:44:43-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Acemi pidió al presidente electo Abelardo de la Espriella un plan de choque para salvar el sistema de salud",
+      "link": "https://www.infobae.com/colombia/2026/06/24/acemi-pidio-al-presidente-electo-abelardo-de-la-espriella-un-plan-de-choque-para-salvar-el-sistema-de-salud/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 17:43:35 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Escrutinio en Antioquia confirmó triunfo de Abelardo de la Espriella y sumó 992 votos a su resultado",
+      "link": "https://www.infobae.com/colombia/2026/06/24/escrutinio-en-antioquia-confirmo-triunfo-de-abelardo-de-la-espriella-y-sumo-992-votos-a-su-resultado/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 17:42:59 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Alfredo Saade afirmó que no se irá de Colombia tras la victoria de Abelardo de la Espriella: “Bodegueros, sigan insultando y amenazando”",
       "link": "https://www.infobae.com/colombia/2026/06/24/alfredo-saade-afirmo-que-no-se-ira-de-colombia-tras-la-victoria-de-abelardo-de-la-espriella-bodegueros-sigan-insultando-y-amenazando/",
       "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 14:31:31 +0000",
+      "pubDate": "Wed, 24 Jun 2026 17:42:32 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Izquierdista Iván Cepeda acepta derrota y reconoce triunfo de De la Espriella en Colombia",
-      "link": "https://www.infobae.com/america/agencias/2026/06/24/izquierdista-ivan-cepeda-acepta-derrota-y-reconoce-triunfo-de-de-la-espriella-en-colombia/",
+      "title": "Alfredo Saade aceptó el triunfo de Abelardo de la Espriella y propuso una constituyente: “Las urnas han hablado”",
+      "link": "https://www.infobae.com/colombia/2026/06/24/alfredo-saade-acepto-el-triunfo-de-abelardo-de-la-espriella-y-propuso-una-constituyente-las-urnas-han-hablado/",
       "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 14:31:16 +0000",
+      "pubDate": "Wed, 24 Jun 2026 17:39:25 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El Pacto Histórico renunció a presentar nuevas reclamaciones tras reconocer la victoria de Abelardo de la Espriella en segunda vuelta presidencial",
+      "link": "https://www.infobae.com/colombia/2026/06/24/el-pacto-historico-renuncio-a-presentar-nuevas-reclamaciones-tras-reconocer-la-victoria-de-abelardo-de-la-espriella-en-segunda-vuelta-presidencial/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 17:38:20 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "#ElFiltro: un video viral en redes no muestra 'votos marcados' irregularmente a favor de Iván Cepeda en segunda vuelta; es publicidad electoral",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-un-video-viral-en-redes-no-muestra-votos-marcados-irregularmente-a-favor-de-ivan-cepeda-en-segunda-vuelta-es-publicidad-electoral-3566750",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-24T12:35:42-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "El gobierno de Abelardo de la Espriella deberá prepararse para un posible ‘SuperNiño’, afirmó organización ambiental internacional",
-      "link": "https://www.infobae.com/colombia/2026/06/24/el-gobierno-de-abelardo-de-la-espriella-debera-prepararse-para-un-posible-supernino-afirmo-organizacion-ambiental-internacional/",
-      "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 14:15:58 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente electo Abelardo de la Espriella avanza en la definición de su gabinete y del empalme con el Gobierno de Gustavo Petro",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/presidente-electo-abelardo-de-la-espriella-avanza-en-la-definicion-de-su-gabinete-y-del-empalme-con-el-gobierno-de-gustavo-petro-3566629",
+      "title": "Pacto Histórico retiró reclamaciones sobre segunda vuelta y anuncia que no presentará más observaciones tras reconocer triunfo de De la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/pacto-historico-retiro-reclamaciones-sobre-segunda-vuelta-y-anuncia-que-no-presentara-mas-observaciones-tras-reconocer-triunfo-de-de-la-espriella-3566734",
       "source": "El Tiempo",
-      "pubDate": "2026-06-24T08:31:48-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Qué falta para que culmine el escrutinio y se declare oficialmente al próximo presidente?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-falta-para-que-culmine-el-escrutinio-y-se-declare-oficialmente-al-proximo-presidente-3566635",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-24T08:05:04-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo: el marketing electoral a la presidencia",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/abelardo-el-marketing-electoral-a-la-presidencia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 24 Jun 2026 12:34:07 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desayune informado con las movidas de este 24 de junio de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-24-de-junio-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 24 Jun 2026 12:30:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "2026-06-24T12:29:14-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
