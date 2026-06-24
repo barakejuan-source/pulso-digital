@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-24T10:55:13.341Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-24T14:39:58.900Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -9,19 +9,19 @@
       "color": "#E63946",
       "trendsScore": 52,
       "youtubeScore": 100,
-      "sentimentScore": 30,
+      "sentimentScore": 0,
       "sentimentPct": {
-        "positive": 30,
-        "negative": 32,
-        "neutral": 38
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
       },
-      "youtubeViews": 195923,
-      "finalScore": 60,
+      "youtubeViews": 5169,
+      "finalScore": 51,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -15,
+        "direction": "down"
       },
-      "probability": 60
+      "probability": 56
     },
     {
       "id": "abelardo_espriella",
@@ -42,103 +42,103 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 40
+      "probability": 44
     }
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales Colombia 2026: escrutinio avanza tras triunfo de Abelardo de la Espriella en preconteo; proceso se reanudará a las 9 a. m.",
+      "title": "Álvaro Uribe se despachó contra estratega de Abelardo de la Espriella, pese a victoria del ‘Tigre’: este es el motivo de la polémica ",
+      "link": "https://www.infobae.com/colombia/2026/06/23/alvaro-uribe-se-despacho-contra-estratega-de-abelardo-de-la-espriella-pese-a-victoria-del-tigre-este-es-el-motivo-de-la-polemica/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 14:38:03 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Escrutinio elecciones presidenciales 2026 En Vivo: Consejo Nacional Electoral reanuda el 24 de junio la audiencia de la segunda vuelta",
+      "link": "https://www.infobae.com/colombia/2026/06/23/escrutinio-elecciones-presidenciales-2026-en-vivo-el-cne-continua-con-el-proceso-de-revision-verificacion-y-consolidacion-de-los-resultados/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 14:36:15 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones presidenciales Colombia 2026: Iván Cepeda aceptó resultados y victoria de Abelardo de la Espriella; 'No significa renunciar a la verdad'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-escrutinio-avanza-tras-triunfo-de-abelardo-de-la-espriella-el-proceso-se-reanudara-hoy-a-las-9-a-m-3566620",
       "source": "El Tiempo",
-      "pubDate": "2026-06-24T05:36:48-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La clase popular que le ganó la elección a De la Espriella",
-      "link": "https://www.lasillavacia.com/silla-nacional/la-clase-popular-que-le-gano-la-eleccion-a-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 24 Jun 2026 06:27:12 +0000",
+      "pubDate": "2026-06-24T09:34:44-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "¿Doctrina Donroe a lo que dé? Qué esperar de la relación Colombia - EE. UU. con De la Espriella en el poder",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260624-colombia-trump-de-la-espriella-doctrina-donroe-a-lo-que-d%C3%A9-qu%C3%A9-esperar-de-la-relaci%C3%B3n",
-      "source": "France 24",
-      "pubDate": "Wed, 24 Jun 2026 04:04:07 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La Asociación Nacional de Movilidad Sostenible felicitó a Abelardo de la Espriella por su triunfo: 'trabajaremos en el desarrollo económico del país'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-asociacion-nacional-de-movilidad-sostenible-felicito-a-abelardo-de-la-espriella-por-su-triunfo-trabajaremos-en-el-desarrollo-economico-del-pais-3566592",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-23T20:38:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "CNE desmintió imagen falsa sobre supuestos resultados definitivos de segunda vuelta presidencial: advierten que proceso de escrutinio no ha finalizado",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cne-desmintio-imagen-falsa-sobre-supuestos-resultados-definitivos-de-segunda-vuelta-presidencial-advierten-que-proceso-de-escrutinio-no-ha-finalizado-3566573",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-23T19:24:21-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Duerma informado con las claves de este 23 de junio de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-23-de-junio-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 24 Jun 2026 00:10:42 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Petro lanza nuevas denuncias de fraude sin sustento tras segunda vuelta",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/petro-lanza-nuevas-denuncias-de-fraude-sin-sustento-tras-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 24 Jun 2026 00:06:49 +0000",
+      "title": "Iván Cepeda reconoció los resultados de la segunda vuelta presidencial, que dieron como ganador a Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/06/24/ivan-cepeda-reconocio-los-resultados-de-la-segunda-vuelta-presidencial-que-dieron-como-ganador-a-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 14:34:27 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Las dos Colombias del mapa electoral",
-      "link": "https://www.lasillavacia.com/red-de-expertos/las-dos-colombias-del-mapa-electoral/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 23 Jun 2026 23:59:41 +0000",
+      "title": "Iván Cepeda aceptó los resultados presidenciales y reconoció a Abelardo de la Espriella como el ganador",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-acepto-los-resultados-presidenciales-y-reconocio-a-abelardo-de-la-espriella-como-el-ganador-3566660",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-24T09:33:10-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Figuras del progresismo y de la campaña de Iván Cepeda empiezan a reconocer triunfo de Abelardo de la Espriella en las urnas",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/figuras-del-progresismo-y-de-la-campana-de-ivan-cepeda-empiezan-a-reconocer-triunfo-de-abelardo-de-la-espriella-en-las-urnas-3566521",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-23T17:48:24-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Las cinco frases de la Misión de Observación de la Unión Europea sobre los puntos que marcaron la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-cinco-frases-de-la-mision-de-observacion-de-la-union-europea-sobre-los-puntos-que-marcaron-la-segunda-vuelta-presidencial-3566507",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-23T16:47:33-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Centro Democrático se declara partido de Gobierno y le comparte a Abelardo de la Espriella sus prioridades de trabajo en Congreso",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/centro-democratico-se-declara-partido-de-gobierno-y-le-comparte-a-abelardo-de-la-espriella-sus-prioridades-de-trabajo-en-congreso-3566498",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-23T16:19:14-05:00",
+      "title": "Alfredo Saade afirmó que no se irá de Colombia tras la victoria de Abelardo de la Espriella: “Bodegueros, sigan insultando y amenazando”",
+      "link": "https://www.infobae.com/colombia/2026/06/24/alfredo-saade-afirmo-que-no-se-ira-de-colombia-tras-la-victoria-de-abelardo-de-la-espriella-bodegueros-sigan-insultando-y-amenazando/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 14:31:31 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Los roces del expresidente Álvaro Uribe con una de las fichas clave de la campaña de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-roces-del-expresidente-alvaro-uribe-con-una-de-las-fichas-clave-de-la-campana-de-abelardo-de-la-espriella-3566508",
+      "title": "Izquierdista Iván Cepeda acepta derrota y reconoce triunfo de De la Espriella en Colombia",
+      "link": "https://www.infobae.com/america/agencias/2026/06/24/izquierdista-ivan-cepeda-acepta-derrota-y-reconoce-triunfo-de-de-la-espriella-en-colombia/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 14:31:16 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "El gobierno de Abelardo de la Espriella deberá prepararse para un posible ‘SuperNiño’, afirmó organización ambiental internacional",
+      "link": "https://www.infobae.com/colombia/2026/06/24/el-gobierno-de-abelardo-de-la-espriella-debera-prepararse-para-un-posible-supernino-afirmo-organizacion-ambiental-internacional/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 14:15:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente electo Abelardo de la Espriella avanza en la definición de su gabinete y del empalme con el Gobierno de Gustavo Petro",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/presidente-electo-abelardo-de-la-espriella-avanza-en-la-definicion-de-su-gabinete-y-del-empalme-con-el-gobierno-de-gustavo-petro-3566629",
       "source": "El Tiempo",
-      "pubDate": "2026-06-23T15:49:58-05:00",
+      "pubDate": "2026-06-24T08:31:48-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Qué falta para que culmine el escrutinio y se declare oficialmente al próximo presidente?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-falta-para-que-culmine-el-escrutinio-y-se-declare-oficialmente-al-proximo-presidente-3566635",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-24T08:05:04-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo: el marketing electoral a la presidencia",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/abelardo-el-marketing-electoral-a-la-presidencia/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 24 Jun 2026 12:34:07 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Desayune informado con las movidas de este 24 de junio de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-24-de-junio-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 24 Jun 2026 12:30:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
