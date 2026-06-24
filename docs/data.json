@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T20:01:35.118Z",
+  "updatedAt": "2026-06-24T21:42:06.090Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 48,
+      "trendsScore": 49,
       "youtubeScore": 100,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 5169,
-      "finalScore": 49,
+      "finalScore": 50,
       "momentum": {
-        "value": -2,
+        "value": 2,
         "direction": "flat"
       },
-      "probability": 55.1
+      "probability": 55.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,25 +42,81 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 44.9
+      "probability": 44.4
     }
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella reaccionó al reconocimiento de Iván Cepeda de los resultados electorales y “tomó nota” de las propuestas formuladas ",
-      "link": "https://www.infobae.com/colombia/2026/06/24/abelardo-de-la-espriella-reacciono-al-reconocimiento-de-ivan-cepeda-de-los-resultados-electorales-y-tomo-nota-de-las-propuestas-formuladas/",
+      "title": "Abelardo de la Espriella heredará persistentes problemas de caja en su gobierno: confirman que necesita hacer “una labor titánica”",
+      "link": "https://www.infobae.com/colombia/2026/06/24/abelardo-de-la-espriella-heredara-persistentes-problemas-de-caja-en-su-gobierno-confirman-que-necesita-hacer-una-labor-titanica/",
       "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 19:57:52 +0000",
+      "pubDate": "Wed, 24 Jun 2026 21:28:59 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Rafael López Aliaga: “¿Querían joderme? Pues ahí tienen a Keiko Fujimori. Esa es la peor pesadilla para un rojo”",
+      "link": "https://www.infobae.com/peru/2026/06/24/rafael-lopez-aliaga-querian-joderme-pues-ahi-tienen-a-keiko-fujimori-esa-es-la-peor-pesadilla-para-un-rojo/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 21:28:50 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Escrutinio elecciones presidenciales 2026 EN VIVO: Iván Cepeda y Aida Quilcué asumen curules y anuncian férrea oposición al gobierno de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/06/23/escrutinio-elecciones-presidenciales-2026-en-vivo-el-cne-continua-con-el-proceso-de-revision-verificacion-y-consolidacion-de-los-resultados/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 21:27:52 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Escrutinio elecciones presidenciales 2026 EN VIVO: partidarios del Pacto Histórico reconocen victoria de Abelardo de la Espriella tras cierre de la audiencia del CNE",
-      "link": "https://www.infobae.com/colombia/2026/06/23/escrutinio-elecciones-presidenciales-2026-en-vivo-el-cne-continua-con-el-proceso-de-revision-verificacion-y-consolidacion-de-los-resultados/",
+      "title": "Consejo Nacional Electoral terminó el escrutinio y reveló los votos totales de Abelardo de la Espriella e Iván Cepeda: ¿cuánto obtuvo cada uno?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/consejo-nacional-electoral-termino-el-escrutinio-y-revelo-los-votos-totales-de-abelardo-de-la-espriella-e-ivan-cepeda-cuanto-obtuvo-cada-uno-3566803",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-24T16:25:33-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Trump volvió a destacar el triunfo de Abelardo de la Espriella en Colombia: “Lo llaman ‘El Tigre’ porque es fuerte y un luchador”",
+      "link": "https://www.infobae.com/colombia/2026/06/24/trump-volvio-a-destacar-el-triunfo-de-abelardo-de-la-espriella-en-colombia-lo-llaman-el-tigre-porque-es-fuerte-y-un-luchador/",
       "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 19:40:44 +0000",
+      "pubDate": "Wed, 24 Jun 2026 21:17:10 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Voceros de la paz urbana en Antioquia piden que Abelardo de la Espriella siga con los diálogos de paz",
+      "link": "https://www.infobae.com/colombia/2026/06/24/voceros-de-la-paz-urbana-en-antioquia-piden-que-abelardo-de-la-espriella-siga-con-los-dialogos-de-paz/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 21:14:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "CNE entregó los números finales tras el cierre del escrutinio de la segunda vuelta: Abelardo de la Espriella aumentó la diferencia frente a Iván Cepeda ",
+      "link": "https://www.infobae.com/colombia/2026/06/24/cne-entrego-los-numeros-finales-tras-el-cierre-del-escrutinio-de-la-segunda-vuelta-abelardo-de-la-espriella-aumento-la-diferencia-frente-a-ivan-cepeda/",
+      "source": "Infobae",
+      "pubDate": "Wed, 24 Jun 2026 21:10:24 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Iván Cepeda y Aída Quilcué aceptan oficialmente las curules de la oposición ante el CNE: envían carta para reconocer la derrota",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-y-aida-quilcue-aceptan-oficialmente-las-curules-de-la-oposicion-ante-el-cne-envian-carta-para-reconocer-la-derrota-3566798",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-24T15:44:24-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Presidente electo Abelardo de la Espriella califica como 'positivo' aceptación de resultados por parte de Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/presidente-electo-abelardo-de-la-espriella-califica-como-positivo-aceptacion-de-resultados-por-parte-de-ivan-cepeda-3566782",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-24T15:02:31-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Elecciones Colombia: Cepeda reconoce resultados y denuncia la \"injerencia extranjera\"",
@@ -85,62 +141,6 @@
       "pubDate": "Wed, 24 Jun 2026 18:54:47 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente electo Abelardo de la Espriella anuncia que 'restaurará y fortalecerá' relaciones con Israel: 'Un amigo leal y un aliado firme'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-restaurara-y-fortalecera-relaciones-con-israel-un-amigo-leal-y-un-aliado-firme-3566743",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-24T13:01:17-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "#ElFiltro: un video viral en redes no muestra 'votos marcados' irregularmente a favor de Iván Cepeda en segunda vuelta; es publicidad electoral",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-un-video-viral-en-redes-no-muestra-votos-marcados-irregularmente-a-favor-de-ivan-cepeda-en-segunda-vuelta-es-publicidad-electoral-3566750",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-24T12:35:42-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Pacto Histórico retiró reclamaciones sobre segunda vuelta y anuncia que no presentará más observaciones tras reconocer triunfo de De la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/pacto-historico-retiro-reclamaciones-sobre-segunda-vuelta-y-anuncia-que-no-presentara-mas-observaciones-tras-reconocer-triunfo-de-de-la-espriella-3566734",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-24T12:29:14-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "#ElFiltro: actas usadas para denunciar fraude en segunda vuelta de elecciones presidenciales sí tienen firmas de jurados de votación",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elfiltro-actas-usadas-para-denunciar-fraude-en-segunda-vuelta-de-elecciones-presidenciales-si-tienen-firmas-de-jurados-de-votacion-3566727",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-24T11:59:35-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Estas son las frases clave que dijo Iván Cepeda tras reconocer el triunfo de Abelardo de la Espriella, ¿asumirá la oposición?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/estas-son-las-frases-clave-que-dijo-ivan-cepeda-tras-reconocer-el-triunfo-de-abelardo-de-la-espriella-asumira-la-oposicion-3566718",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-24T11:44:08-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿La ultraderecha amenaza los derechos de las mujeres en América Latina?",
-      "link": "https://www.france24.com/es/presidenciales-en-colombia-la-marea-de-ultraderecha-que-amenaza-los-derechos-de-las-mujeres",
-      "source": "France 24",
-      "pubDate": "Wed, 24 Jun 2026 16:32:41 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Reconocimiento de Iván Cepeda a la victoria de Abelardo de la Espriella desata reacciones en el país político",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/reconocimiento-de-cepeda-a-la-victoria-de-de-la-espriella-desata-reacciones-en-el-pais-politico-3566682",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-24T11:01:51-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
