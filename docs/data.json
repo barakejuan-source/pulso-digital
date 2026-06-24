@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T07:46:18.559Z",
+  "updatedAt": "2026-06-24T10:55:13.341Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 195923,
       "finalScore": 60,
       "momentum": {
-        "value": 3.4,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 60
@@ -39,26 +39,18 @@
       "youtubeViews": 0,
       "finalScore": 40,
       "momentum": {
-        "value": -32.2,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 40
     }
   ],
   "articles": [
     {
-      "title": "Escrutinio elecciones presidenciales 2026 En Vivo: Consejo Nacional Electoral reanuda el 24 de junio la audiencia de la segunda vuelta",
-      "link": "https://www.infobae.com/colombia/2026/06/23/escrutinio-elecciones-presidenciales-2026-en-vivo-el-cne-continua-con-el-proceso-de-revision-verificacion-y-consolidacion-de-los-resultados/",
-      "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 07:21:16 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "“Muy productiva”: De La Espriella y presidente de Panamá hablan de seguridad e inversión",
-      "link": "https://www.infobae.com/colombia/2026/06/24/muy-productiva-de-la-espriella-y-presidente-de-panama-hablan-de-seguridad-e-inversion/",
-      "source": "Infobae",
-      "pubDate": "Wed, 24 Jun 2026 06:30:00 +0000",
+      "title": "Elecciones presidenciales Colombia 2026: escrutinio avanza tras triunfo de Abelardo de la Espriella en preconteo; proceso se reanudará a las 9 a. m.",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-escrutinio-avanza-tras-triunfo-de-abelardo-de-la-espriella-el-proceso-se-reanudara-hoy-a-las-9-a-m-3566620",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-24T05:36:48-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -119,14 +111,6 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Juan Fernando Cristo, integrante de la campaña de Iván Cepeda, reconoce el triunfo de Abelardo de la Espriella: 'Los colombianos decidieron'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/juan-fernando-cristo-integrante-de-la-campana-de-ivan-cepeda-reconoce-el-triunfo-de-abelardo-de-la-espriella-los-colombianos-decidieron-3566476",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-23T17:49:44-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "Figuras del progresismo y de la campaña de Iván Cepeda empiezan a reconocer triunfo de Abelardo de la Espriella en las urnas",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/figuras-del-progresismo-y-de-la-campana-de-ivan-cepeda-empiezan-a-reconocer-triunfo-de-abelardo-de-la-espriella-en-las-urnas-3566521",
       "source": "El Tiempo",
@@ -141,6 +125,22 @@
       "pubDate": "2026-06-23T16:47:33-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "Centro Democrático se declara partido de Gobierno y le comparte a Abelardo de la Espriella sus prioridades de trabajo en Congreso",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/centro-democratico-se-declara-partido-de-gobierno-y-le-comparte-a-abelardo-de-la-espriella-sus-prioridades-de-trabajo-en-congreso-3566498",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-23T16:19:14-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Los roces del expresidente Álvaro Uribe con una de las fichas clave de la campaña de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-roces-del-expresidente-alvaro-uribe-con-una-de-las-fichas-clave-de-la-campana-de-abelardo-de-la-espriella-3566508",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-23T15:49:58-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     }
   ]
 }
