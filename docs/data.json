@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T18:14:29.298Z",
+  "updatedAt": "2026-06-25T21:49:10.715Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 45,
+      "trendsScore": 46,
       "youtubeScore": 100,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,20 +47,68 @@
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales Colombia 2026: Abelardo de la Espriella recibe credencial como Presidente de la República este jueves 25 de junio",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-consejo-nacional-electoral-oficializo-a-abelardo-de-la-espriella-como-presidente-electo-del-pais-3566926",
+      "title": "Volodimir Zelenski, presidente de Ucrania, felicitó a Abelardo de la Espriella por su victoria en elección presidencial: 'Listos para cooperar'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/volodimir-zelenski-felicito-a-abelardo-de-la-espriella-tras-su-victoria-en-la-segunda-vuelta-presidencial-del-21-de-junio-una-fuerte-cooperacion-3567065",
       "source": "El Tiempo",
-      "pubDate": "2026-06-25T13:06:40-05:00",
+      "pubDate": "2026-06-25T16:31:44-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Elecciones Colombia 2026, EN VIVO: tras recibir su credencial, Abelardo de la Espriella le dio plazo de un mes a los grupos armados para someterse a la justicia",
-      "link": "https://www.infobae.com/colombia/2026/06/25/elecciones-colombia-2026-en-vivo-abelardo-de-la-espriella-recibio-su-credencial-como-presidente-electo/",
+      "title": "Colombia empieza a ver esbozos del Gobierno de ultraderecha de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/america/agencias/2026/06/25/colombia-empieza-a-ver-esbozos-del-gobierno-de-ultraderecha-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Thu, 25 Jun 2026 18:05:21 +0000",
+      "pubDate": "Thu, 25 Jun 2026 21:31:44 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Cambio Radical también se declaró partido de Gobierno: Abelardo de la Espriella sigue sumando mayorías en el órgano legislativo ",
+      "link": "https://www.infobae.com/colombia/2026/06/25/cambio-radical-tambien-se-declaro-partido-de-gobierno-abelardo-de-la-espriella-sigue-sumando-mayorias-en-el-organo-legislativo/",
+      "source": "Infobae",
+      "pubDate": "Thu, 25 Jun 2026 21:29:57 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente de Ucrania felicitó a Abelardo de la Espriella por su triunfo en las elecciones presidenciales: “Todo el éxito”",
+      "link": "https://www.infobae.com/colombia/2026/06/25/presidente-de-ucrania-felicito-a-abelardo-de-la-espriella-por-su-triunfo-en-las-elecciones-presidenciales-todo-el-exito/",
+      "source": "Infobae",
+      "pubDate": "Thu, 25 Jun 2026 21:23:20 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Las claves del primer discurso de Abelardo de la Espriella: ultimátum a los grupos armados, empalme con auditoría y 'reconstrucción' nacional",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-claves-del-primer-discurso-de-abelardo-de-la-espriella-ultimatum-a-los-grupos-armados-empalme-con-auditoria-y-reconstruccion-nacional-3567069",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-25T16:20:41-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Cambio Radical se declara partido de Gobierno y anuncia agenda legislativa para el cuatrienio de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cambio-radical-se-declara-partido-de-gobierno-y-anuncia-agenda-legislativa-para-el-cuatrenio-de-abelardo-de-la-espriella-3567073",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-25T16:15:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Sin la ZUT lista, el Clan del Golfo no llegará hoy a Córdoba",
+      "link": "https://www.lasillavacia.com/en-vivo/sin-la-zut-lista-el-clan-del-golfo-no-llegara-hoy-a-cordoba/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 25 Jun 2026 19:50:11 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda anunció que iniciará una gira nacional desde Chocó para agradecer el apoyo que recibió en la segunda vuelta presidencial",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-anuncio-que-iniciara-una-gira-nacional-desde-choco-para-agradecer-el-apoyo-que-recibio-y-fortalecer-su-movimiento-politico-3567055",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-25T14:29:55-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Iván Cepeda desmiente diferencias con el presidente Gustavo Petro: 'Nada ni nadie podrá fisurar nuestra relación'",
@@ -71,68 +119,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Abelardo de la Espriella recibe la credencial que oficializa su elección como presidente de Colombia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-recibe-la-credencial-que-oficializa-su-eleccion-como-presidente-de-colombia-3566982",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-25T12:55:23-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Congresista Andrea Padilla le hizo una petición al presidente electo Abelardo de la Espriella: “Programas de protección animal que se requieren”",
-      "link": "https://www.infobae.com/colombia/2026/06/25/congresista-andrea-padilla-le-hizo-una-peticion-al-presidente-electo-abelardo-de-la-espriella-programas-de-proteccion-animal-que-se-requieren/",
-      "source": "Infobae",
-      "pubDate": "Thu, 25 Jun 2026 17:50:17 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Giro a la derecha en América Latina: ¿cambio de ciclo o voto castigo?",
       "link": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260625-giro-a-la-derecha-en-am%C3%A9rica-latina-cambio-de-ciclo-o-voto-castigo",
       "source": "France 24",
       "pubDate": "Thu, 25 Jun 2026 17:34:38 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Obispos colombianos felicitan a Abelardo de la Espriella y llaman a la unidad tras las elecciones presidenciales",
-      "link": "https://www.infobae.com/colombia/2026/06/25/obispos-colombianos-felicitan-a-abelardo-de-la-espriella-y-llaman-a-la-unidad-tras-las-elecciones-presidenciales/",
-      "source": "Infobae",
-      "pubDate": "Thu, 25 Jun 2026 17:33:15 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Alianza por la Democracia respalda resultados electorales y pide un empalme institucional entre Abelardo De la Espriella y Gustavo Petro",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/alianza-por-la-democracia-respalda-resultados-electorales-y-pide-un-empalme-institucional-entre-abelardo-de-la-espriella-y-gustavo-petro-3567012",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-25T11:47:47-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Directo Latam y el reconocimiento de la victoria de De la Espriella por parte de Cepeda en Colombia",
-      "link": "https://www.france24.com/es/video/20260625-directo-latam-y-el-reconocimiento-de-la-victoria-de-de-la-espriella-por-parte-de-cepeda-en-colombia",
-      "source": "France 24",
-      "pubDate": "Thu, 25 Jun 2026 16:29:21 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "El rey Mohammed VI de Marruecos felicitó a Abelardo De la Espriella y propuso abrir una 'nueva dinámica' en las relaciones entre ambos países",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-rey-mohammed-vi-de-marruecos-felicito-a-abelardo-de-la-espriella-y-propuso-abrir-una-nueva-dinamica-en-las-relaciones-entre-ambos-paises-3567002",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-25T11:10:47-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Pacto Histórico se declara partido de oposición al gobierno del presidente electo Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/pacto-historico-se-declara-partido-de-oposicion-al-gobierno-del-presidente-electo-abelardo-de-la-espriella-3566944",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-25T07:59:50-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Iván Cepeda reconoce la derrota en las elecciones de Colombia y De la Espriella será el nuevo presidente",
