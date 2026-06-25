@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T10:47:37.625Z",
+  "updatedAt": "2026-06-25T14:40:44.337Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,10 +47,58 @@
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales Colombia 2026: Consejo Nacional Electoral oficializó a Abelardo de la Espriella como presidente electo del país",
+      "title": "Pacto Histórico propuso un acuerdo nacional y confirmó su papel como oposición al gobierno de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/06/25/pacto-historico-propuso-un-acuerdo-nacional-y-confirmo-su-papel-como-oposicion-al-gobierno-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Thu, 25 Jun 2026 14:36:20 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elecciones presidenciales Colombia 2026: Pacto Histórico se definió como partido de oposición al gobierno de Abelardo de la Espriella",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-consejo-nacional-electoral-oficializo-a-abelardo-de-la-espriella-como-presidente-electo-del-pais-3566926",
       "source": "El Tiempo",
-      "pubDate": "2026-06-25T05:11:08-05:00",
+      "pubDate": "2026-06-25T09:33:25-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda cuestionó a quienes señalan que hubo “voto fusil” en regiones donde él ganó en la segunda vuelta: “Irresponsables”",
+      "link": "https://www.infobae.com/colombia/2026/06/25/ivan-cepeda-cuestiono-a-quienes-senalan-que-hubo-voto-fusil-en-regiones-donde-el-gano-en-la-segunda-vuelta-irresponsables/",
+      "source": "Infobae",
+      "pubDate": "Thu, 25 Jun 2026 14:24:24 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Pacto Histórico se declara partido de oposición al gobierno del presidente electo Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/pacto-historico-se-declara-partido-de-oposicion-al-gobierno-del-presidente-electo-abelardo-de-la-espriella-3566944",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-25T07:59:50-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Desayune informado con las claves de este 25 de junio de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-25-de-junio-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 25 Jun 2026 12:23:16 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Las mesas atípicas en las que el 100% de los votos fue para Iván Cepeda o Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/las-mesas-atipicas-en-las-que-el-100-de-los-votos-fue-para-ivan-cepeda-o-abelardo-de-la-espriella-3566840",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-25T06:10:40-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Estos son los nombres que suenan para conformar el primer gabinete de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/estos-son-los-nombres-que-suenan-para-conformar-el-primer-gabinete-de-abelardo-de-la-espriella-3566879",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-25T06:01:20-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,14 +107,6 @@
       "link": "https://www.lasillavacia.com/silla-nacional/asi-perdieron-las-elecciones-presidenciales-ivan-cepeda-petro-y-el-pacto/",
       "source": "La Silla Vacía",
       "pubDate": "Thu, 25 Jun 2026 06:00:00 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Las mesas atípicas en las que el 100% de los votos fue para Iván Cepeda o Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/las-mesas-atipicas-en-las-que-el-100-de-los-votos-fue-para-ivan-cepeda-o-abelardo-de-la-espriella-3566840",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-24T22:53:35-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -87,22 +127,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El impacto de que Iván Cepeda haya aceptado el resultado de las elecciones: ¿Qué viene para el país?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-es-declarado-presidente-electo-e-ivan-cepeda-reconoce-la-derrota-3566868",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-24T21:01:59-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Estos son los nombres que suenan para conformar el primer gabinete de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/estos-son-los-nombres-que-suenan-para-conformar-el-primer-gabinete-de-abelardo-de-la-espriella-3566879",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-24T20:44:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Estos son los primeros pasos para el empalme de la administración de Gustavo Petro con el presidente electo, Abelardo de la Espriella",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/estos-son-los-primeros-pasos-para-el-empalme-de-la-administracion-de-gustavo-petro-con-el-presidente-electo-abelardo-de-la-espriella-3566876",
       "source": "El Tiempo",
@@ -117,30 +141,6 @@
       "pubDate": "Thu, 25 Jun 2026 00:06:48 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así se votó la segunda vuelta presidencial en las cárceles del país según el escrutinio: hubo tres empates",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-se-voto-la-segunda-vuelta-presidencial-en-las-carceles-del-pais-segun-el-escrutinio-hubo-tres-empates-3566812",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-24T18:34:10-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Formularios E-14 no prueban fraude a favor de De la Espriella en segunda vuelta",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/formularios-e-14-no-prueban-fraude-a-favor-de-de-la-espriella-en-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 24 Jun 2026 22:28:56 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Segunda vuelta: gobierno recibió 274 denuncias por constreñimiento",
-      "link": "https://www.lasillavacia.com/en-vivo/segunda-vuelta-gobierno-recibio-274-denuncias-por-constrenimiento/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 24 Jun 2026 22:17:31 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
