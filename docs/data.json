@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-25T07:51:37.293Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-25T10:47:37.625Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Elecciones presidenciales Colombia 2026: Consejo Nacional Electoral oficializó a Abelardo de la Espriella como presidente electo del país",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-consejo-nacional-electoral-oficializo-a-abelardo-de-la-espriella-como-presidente-electo-del-pais-3566926",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-25T05:11:08-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Así perdieron las elecciones presidenciales Iván Cepeda, Petro y el Pacto",
       "link": "https://www.lasillavacia.com/silla-nacional/asi-perdieron-las-elecciones-presidenciales-ivan-cepeda-petro-y-el-pacto/",
@@ -117,14 +125,6 @@
       "pubDate": "2026-06-24T18:34:10-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo de la Espriella es oficialmente el presidente electo de Colombia: CNE oficializa los escrutinios y promulga su elección",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-es-oficialmente-el-presidente-electo-cne-oficializa-los-escrutinios-y-promulga-su-eleccion-3566824",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-24T18:13:41-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Formularios E-14 no prueban fraude a favor de De la Espriella en segunda vuelta",
