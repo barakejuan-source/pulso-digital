@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T03:57:12.561Z",
+  "updatedAt": "2026-06-25T07:51:37.293Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 5169,
       "finalScore": 48,
       "momentum": {
-        "value": -4,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 54.5
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Tras derrota de Iván Cepeda, Daniel Rojas propone reorganizar el Pacto Histórico y que Petro asuma la presidencia",
-      "link": "https://www.infobae.com/colombia/2026/06/25/tras-derrota-de-ivan-cepeda-daniel-rojas-propone-reorganizar-el-pacto-historico-y-que-petro-asuma-la-presidencia/",
-      "source": "Infobae",
-      "pubDate": "Thu, 25 Jun 2026 03:40:58 +0000",
+      "title": "Así perdieron las elecciones presidenciales Iván Cepeda, Petro y el Pacto",
+      "link": "https://www.lasillavacia.com/silla-nacional/asi-perdieron-las-elecciones-presidenciales-ivan-cepeda-petro-y-el-pacto/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 25 Jun 2026 06:00:00 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Consejo Nacional Electoral terminó el escrutinio y reveló los votos totales de Abelardo de la Espriella e Iván Cepeda: ¿cuánto obtuvo cada uno?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/consejo-nacional-electoral-termino-el-escrutinio-y-revelo-los-votos-totales-de-abelardo-de-la-espriella-e-ivan-cepeda-cuanto-obtuvo-cada-uno-3566803",
+      "title": "Las mesas atípicas en las que el 100% de los votos fue para Iván Cepeda o Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/las-mesas-atipicas-en-las-que-el-100-de-los-votos-fue-para-ivan-cepeda-o-abelardo-de-la-espriella-3566840",
       "source": "El Tiempo",
-      "pubDate": "2026-06-24T22:36:35-05:00",
+      "pubDate": "2026-06-24T22:53:35-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -127,18 +127,18 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cepeda y Aída Quilcué aceptan oficialmente las curules de la oposición ante el CNE: envían carta para reconocer la derrota",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-y-aida-quilcue-aceptan-oficialmente-las-curules-de-la-oposicion-ante-el-cne-envian-carta-para-reconocer-la-derrota-3566798",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-24T18:02:53-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "Formularios E-14 no prueban fraude a favor de De la Espriella en segunda vuelta",
       "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/formularios-e-14-no-prueban-fraude-a-favor-de-de-la-espriella-en-segunda-vuelta/",
       "source": "La Silla Vacía",
       "pubDate": "Wed, 24 Jun 2026 22:28:56 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Segunda vuelta: gobierno recibió 274 denuncias por constreñimiento",
+      "link": "https://www.lasillavacia.com/en-vivo/segunda-vuelta-gobierno-recibio-274-denuncias-por-constrenimiento/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 24 Jun 2026 22:17:31 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
