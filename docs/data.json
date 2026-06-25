@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T21:49:10.715Z",
+  "updatedAt": "2026-06-25T23:23:27.198Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,42 +47,50 @@
   ],
   "articles": [
     {
-      "title": "Volodimir Zelenski, presidente de Ucrania, felicitó a Abelardo de la Espriella por su victoria en elección presidencial: 'Listos para cooperar'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/volodimir-zelenski-felicito-a-abelardo-de-la-espriella-tras-su-victoria-en-la-segunda-vuelta-presidencial-del-21-de-junio-una-fuerte-cooperacion-3567065",
+      "title": "Rodrigo Lara se perfila como ministro de Justicia, cargo que ocupaba su padre cuando fue asesinado por Pablo Escobar",
+      "link": "https://www.infobae.com/colombia/2026/06/25/rodrigo-lara-se-perfila-como-ministro-de-justicia-cargo-que-ocupaba-su-padre-cuando-fue-asesinado-por-pablo-escobar/",
+      "source": "Infobae",
+      "pubDate": "Thu, 25 Jun 2026 23:05:19 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Petro ‘estalló’ por comentario publicado en una cuenta no oficial de X de Abelardo de la Espriella: “Diciendo mentiras”",
+      "link": "https://www.infobae.com/colombia/2026/06/25/petro-estallo-por-comentario-publicado-en-una-cuenta-no-oficial-de-x-de-abelardo-de-la-espriella-diciendo-mentiras/",
+      "source": "Infobae",
+      "pubDate": "Thu, 25 Jun 2026 22:52:28 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Francia Márquez, vicepresidenta de Colombia, reconoció resultados de las elecciones y le envió un mensaje a Abelardo de la Espriella: 'Todo el éxito'",
+      "link": "https://www.eltiempo.com/politica/gobierno/francia-marquez-vicepresidenta-de-colombia-reconocio-resultados-de-las-elecciones-y-le-envio-un-mensaje-a-abelardo-de-la-espriella-todo-el-exito-3567103",
       "source": "El Tiempo",
-      "pubDate": "2026-06-25T16:31:44-05:00",
+      "pubDate": "2026-06-25T17:40:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Colombia empieza a ver esbozos del Gobierno de ultraderecha de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/america/agencias/2026/06/25/colombia-empieza-a-ver-esbozos-del-gobierno-de-ultraderecha-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Thu, 25 Jun 2026 21:31:44 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cambio Radical también se declaró partido de Gobierno: Abelardo de la Espriella sigue sumando mayorías en el órgano legislativo ",
-      "link": "https://www.infobae.com/colombia/2026/06/25/cambio-radical-tambien-se-declaro-partido-de-gobierno-abelardo-de-la-espriella-sigue-sumando-mayorias-en-el-organo-legislativo/",
-      "source": "Infobae",
-      "pubDate": "Thu, 25 Jun 2026 21:29:57 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente de Ucrania felicitó a Abelardo de la Espriella por su triunfo en las elecciones presidenciales: “Todo el éxito”",
-      "link": "https://www.infobae.com/colombia/2026/06/25/presidente-de-ucrania-felicito-a-abelardo-de-la-espriella-por-su-triunfo-en-las-elecciones-presidenciales-todo-el-exito/",
-      "source": "Infobae",
-      "pubDate": "Thu, 25 Jun 2026 21:23:20 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Corrección: Así les fue a las encuestas en segunda vuelta",
+      "link": "https://www.lasillavacia.com/en-vivo/correccion-asi-les-fue-a-las-encuestas-en-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 25 Jun 2026 22:32:58 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Las claves del primer discurso de Abelardo de la Espriella: ultimátum a los grupos armados, empalme con auditoría y 'reconstrucción' nacional",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-claves-del-primer-discurso-de-abelardo-de-la-espriella-ultimatum-a-los-grupos-armados-empalme-con-auditoria-y-reconstruccion-nacional-3567069",
       "source": "El Tiempo",
-      "pubDate": "2026-06-25T16:20:41-05:00",
+      "pubDate": "2026-06-25T17:20:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Volodimir Zelenski, presidente de Ucrania, felicitó a Abelardo de la Espriella por su victoria en elección presidencial: 'Listos para cooperar'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/volodimir-zelenski-felicito-a-abelardo-de-la-espriella-tras-su-victoria-en-la-segunda-vuelta-presidencial-del-21-de-junio-una-fuerte-cooperacion-3567065",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-25T16:31:44-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -95,8 +103,8 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Sin la ZUT lista, el Clan del Golfo no llegará hoy a Córdoba",
-      "link": "https://www.lasillavacia.com/en-vivo/sin-la-zut-lista-el-clan-del-golfo-no-llegara-hoy-a-cordoba/",
+      "title": "Sin ZUT lista, se aplaza la llegada del Clan del Golfo a Córdoba",
+      "link": "https://www.lasillavacia.com/en-vivo/sin-zut-lista-se-aplaza-la-llegada-del-clan-del-golfo-a-cordoba/",
       "source": "La Silla Vacía",
       "pubDate": "Thu, 25 Jun 2026 19:50:11 +0000",
       "candidateId": "abelardo_espriella",
@@ -117,14 +125,6 @@
       "pubDate": "2026-06-25T12:56:00-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Giro a la derecha en América Latina: ¿cambio de ciclo o voto castigo?",
-      "link": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260625-giro-a-la-derecha-en-am%C3%A9rica-latina-cambio-de-ciclo-o-voto-castigo",
-      "source": "France 24",
-      "pubDate": "Thu, 25 Jun 2026 17:34:38 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Iván Cepeda reconoce la derrota en las elecciones de Colombia y De la Espriella será el nuevo presidente",
