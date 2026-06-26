@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T21:23:54.295Z",
+  "updatedAt": "2026-06-26T23:12:06.946Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 43,
+      "trendsScore": 42,
       "youtubeScore": 100,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 5169,
       "finalScore": 47,
       "momentum": {
-        "value": -2.1,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 54
@@ -47,12 +47,44 @@
   ],
   "articles": [
     {
-      "title": "Antonella Petro le deseó suerte a Abelardo de la Espriella en la presidencia de Colombia: “La causa es la vida”",
-      "link": "https://www.infobae.com/colombia/2026/06/26/antonella-petro-le-deseo-suerte-a-abelardo-de-la-espriella-en-la-presidencia-de-colombia-la-causa-es-la-vida/",
+      "title": "Rodrigo Lara Restrepo llegará al Ministerio del Interior con una esposa e hijos que lo apoyan en su camino político: así es su familia",
+      "link": "https://www.infobae.com/colombia/2026/06/26/rodrigo-lara-restrepo-llegara-al-ministerio-del-interior-con-una-esposa-e-hijos-que-lo-apoyan-en-su-camino-politico-asi-es-su-familia/",
       "source": "Infobae",
-      "pubDate": "Fri, 26 Jun 2026 21:07:47 +0000",
+      "pubDate": "Fri, 26 Jun 2026 22:59:24 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El influenciador petrista Daniel Mendoza arremetió contra Iván Cepeda tras su derrota en las elecciones: “Usted nos escupió en la cara. Nos vendió”",
+      "link": "https://www.infobae.com/colombia/2026/06/26/el-influenciador-petrista-daniel-mendoza-arremetio-contra-ivan-cepeda-tras-su-derrota-en-las-elecciones-usted-nos-escupio-en-la-cara-nos-vendio/",
+      "source": "Infobae",
+      "pubDate": "Fri, 26 Jun 2026 22:57:49 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "“Disfruto esa cara de fracaso”: el mensaje de Jota Pe Hernández tras reunión de Gustavo Petro con Iván Cepeda  ",
+      "link": "https://www.infobae.com/colombia/2026/06/26/disfruto-esa-cara-de-fracaso-el-mensaje-de-jota-pe-hernandez-tras-reunion-de-gustavo-petro-con-ivan-cepeda/",
+      "source": "Infobae",
+      "pubDate": "Fri, 26 Jun 2026 22:28:47 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Qué busca el gobierno de Abelardo de la Espriella con la designación de Rodrigo Lara en el Ministerio del Interior?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-busca-el-gobierno-de-abelardo-de-la-espriella-con-la-designacion-de-rodrigo-lara-en-el-ministerio-del-interior-3567290",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-26T16:58:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así logró Iván Cepeda remontar en el Caribe",
+      "link": "https://www.lasillavacia.com/silla-nacional/asi-logro-ivan-cepeda-remontar-en-el-caribe/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 26 Jun 2026 21:28:25 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "La izquierda retoma la oposición y ya le apunta a las elecciones regionales: esta es la nueva estrategia del Pacto Histórico e Iván Cepeda",
@@ -95,14 +127,6 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Elecciones presidenciales Colombia 2026: reacciones tras anuncio de Rodrigo Lara como ministro del Interior en Gobierno de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-cambio-radical-se-declaro-partido-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-3567207",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-26T12:50:58-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Alcalde Carlos Fernando Galán felicita a Rodrigo Lara tras designación como ministro del Interior de Abelardo de la Espriella: 'Bogotá nos necesita'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/alcalde-carlos-fernando-galan-felicita-a-rodrigo-lara-tras-su-cargo-como-ministro-del-interior-bogota-nos-necesita-3567295",
       "source": "El Tiempo",
@@ -115,30 +139,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-electo-abelardo-de-la-espriella-anuncia-a-rodrigo-lara-restrepo-como-ministro-del-interior-de-su-gobierno-3567235",
       "source": "El Tiempo",
       "pubDate": "2026-06-26T11:32:58-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Qué busca el gobierno de Abelardo de la Espriella con la designación de Rodrigo Lara en el Ministerio del Interior?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-busca-el-gobierno-de-abelardo-de-la-espriella-con-la-designacion-de-rodrigo-lara-en-el-ministerio-del-interior-3567290",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-26T10:51:48-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cambio Radical pide vigilancia especial a Procuraduría y Contraloría sobre la contratación pública durante la transición del gobierno",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cambio-radical-pide-vigilancia-especial-a-procuraduria-y-contraloria-sobre-la-contratacion-publica-durante-la-transicion-del-gobierno-3567242",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-26T08:35:41-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella, presidente electo de Colombia, dijo que garantizará 'el respeto absoluto por la crítica y el disenso de todos' en su mandato",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-de-colombia-dijo-que-garantizara-el-respeto-absoluto-por-la-critica-y-el-disenso-de-todos-en-su-mandato-3567195",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-26T00:17:04-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
