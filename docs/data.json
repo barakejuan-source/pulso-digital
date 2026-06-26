@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T04:04:33.785Z",
+  "updatedAt": "2026-06-26T09:34:48.426Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,6 +47,30 @@
   ],
   "articles": [
     {
+      "title": "Abelardo de la Espriella, presidente electo de Colombia, dijo que garantizará 'el respeto absoluto por la crítica y el disenso de todos' en su mandato",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-de-colombia-dijo-que-garantizara-el-respeto-absoluto-por-la-critica-y-el-disenso-de-todos-en-su-mandato-3567195",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-26T00:17:04-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El “voto fusil” no explica las mesas 100% de Cepeda, el voto resguardo sí",
+      "link": "https://www.lasillavacia.com/silla-nacional/el-voto-fusil-no-explica-las-mesas-100-de-cepeda-el-voto-resguardo-si/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 26 Jun 2026 05:02:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Francia Márquez, vicepresidenta de Colombia, reconoció resultados de las elecciones y le envió un mensaje a Abelardo de la Espriella: 'Todo el éxito'",
+      "link": "https://www.eltiempo.com/politica/gobierno/francia-marquez-vicepresidenta-de-colombia-reconocio-resultados-de-las-elecciones-y-le-envio-un-mensaje-a-abelardo-de-la-espriella-todo-el-exito-3567103",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-25T23:56:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "¿Cómo sería la agenda con China en el gobierno de Abelardo de la Espriella?",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-agenda-con-china-en-el-gobierno-de-de-la-espriella-3567127",
       "source": "El Tiempo",
@@ -79,28 +103,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Francia Márquez, vicepresidenta de Colombia, reconoció resultados de las elecciones y le envió un mensaje a Abelardo de la Espriella: 'Todo el éxito'",
-      "link": "https://www.eltiempo.com/politica/gobierno/francia-marquez-vicepresidenta-de-colombia-reconocio-resultados-de-las-elecciones-y-le-envio-un-mensaje-a-abelardo-de-la-espriella-todo-el-exito-3567103",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-25T17:40:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Corrección: Así les fue a las encuestas en segunda vuelta",
       "link": "https://www.lasillavacia.com/en-vivo/correccion-asi-les-fue-a-las-encuestas-en-segunda-vuelta/",
       "source": "La Silla Vacía",
       "pubDate": "Thu, 25 Jun 2026 22:32:58 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Las claves del primer discurso de Abelardo de la Espriella: ultimátum a los grupos armados, empalme con auditoría y 'reconstrucción' nacional",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-claves-del-primer-discurso-de-abelardo-de-la-espriella-ultimatum-a-los-grupos-armados-empalme-con-auditoria-y-reconstruccion-nacional-3567069",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-25T17:20:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Volodimir Zelenski, presidente de Ucrania, felicitó a Abelardo de la Espriella por su victoria en elección presidencial: 'Listos para cooperar'",
