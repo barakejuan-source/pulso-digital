@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T12:14:44.727Z",
+  "updatedAt": "2026-06-26T16:21:39.885Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 44,
+      "trendsScore": 42,
       "youtubeScore": 100,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 5169,
-      "finalScore": 48,
+      "finalScore": 47,
       "momentum": {
-        "value": 0,
+        "value": -2.1,
         "direction": "flat"
       },
-      "probability": 54.5
+      "probability": 54
     },
     {
       "id": "abelardo_espriella",
@@ -42,17 +42,89 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 45.5
+      "probability": 46
     }
   ],
   "articles": [
     {
-      "title": "Elecciones presidenciales Colombia 2026: Abelardo de la Espriella avanzará en relación bilateral con Israel para 'luchar contra el crimen organizado'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-cambio-radical-se-declaro-partido-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-3567207",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-26T06:49:25-05:00",
+      "title": "Rodrigo Lara se perfila como ministro, cargo que ocupaba su padre cuando fue asesinado por Pablo Escobar",
+      "link": "https://www.infobae.com/colombia/2026/06/25/rodrigo-lara-se-perfila-como-ministro-de-justicia-cargo-que-ocupaba-su-padre-cuando-fue-asesinado-por-pablo-escobar/",
+      "source": "Infobae",
+      "pubDate": "Fri, 26 Jun 2026 16:15:17 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente electo Abelardo de la Espriella anuncia a Rodrigo Lara Restrepo como ministro del Interior de su gobierno",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-electo-abelardo-de-la-espriella-anuncia-a-rodrigo-lara-restrepo-como-ministro-del-interior-de-su-gobierno-3567235",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-26T11:15:09-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así reaccionan diferentes sectores al nombramiento de Rodrigo Lara Restrepo como ministro del Interior del gobierno de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-designa-a-rodrigo-lara-restrepo-como-ministro-del-interior-de-su-proximo-gobierno-3567258",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-26T11:06:34-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Jurados electorales empiezan a proclamar resultados de segunda vuelta presidencial en Perú",
+      "link": "https://www.infobae.com/america/agencias/2026/06/26/jurados-electorales-empiezan-a-proclamar-resultados-de-segunda-vuelta-presidencial-en-peru/",
+      "source": "Infobae",
+      "pubDate": "Fri, 26 Jun 2026 16:01:43 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Rodrigo Lara Restrepo, próximo ministro del Interior de Abelardo de la Espriella: 'Seré defensor incansable de la Constitución y el Estado de Derecho'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/rodrigo-lara-restrepo-proximo-ministro-del-interior-promete-lealtad-al-gobierno-de-abelardo-de-la-espriella-y-defensa-de-la-constitucion-3567274",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-26T11:01:28-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Qué busca el gobierno de Abelardo de la Espriella con la designación de Rodrigo Lara en el Ministerio del Interior?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-busca-el-gobierno-de-abelardo-de-la-espriella-con-la-designacion-de-rodrigo-lara-en-el-ministerio-del-interior-3567290",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-26T10:51:48-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elecciones presidenciales Colombia 2026: reacciones tras anuncio de Rodrigo Lara como ministro del Interior en Gobierno de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-cambio-radical-se-declaro-partido-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-3567207",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-26T10:26:17-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Rodrigo Lara será el Ministro del Interior de Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/en-vivo/rodrigo-lara-sera-el-ministro-del-interior-de-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 26 Jun 2026 14:04:45 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Cambio Radical pide vigilancia especial a Procuraduría y Contraloría sobre la contratación pública durante la transición del gobierno",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cambio-radical-pide-vigilancia-especial-a-procuraduria-y-contraloria-sobre-la-contratacion-publica-durante-la-transicion-del-gobierno-3567242",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-26T08:35:41-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Expectativas y discusiones: la conversación sobre el presidente Abelardo",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/expectativas-y-discusiones-la-conversacion-sobre-el-presidente-abelardo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 26 Jun 2026 12:40:26 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Abelardo de la Espriella, presidente electo de Colombia, dijo que garantizará 'el respeto absoluto por la crítica y el disenso de todos' en su mandato",
@@ -63,84 +135,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El “voto fusil” no explica las mesas 100% de Cepeda, el voto resguardo sí",
-      "link": "https://www.lasillavacia.com/silla-nacional/el-voto-fusil-no-explica-las-mesas-100-de-cepeda-el-voto-resguardo-si/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 26 Jun 2026 05:02:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Francia Márquez, vicepresidenta de Colombia, reconoció resultados de las elecciones y le envió un mensaje a Abelardo de la Espriella: 'Todo el éxito'",
-      "link": "https://www.eltiempo.com/politica/gobierno/francia-marquez-vicepresidenta-de-colombia-reconocio-resultados-de-las-elecciones-y-le-envio-un-mensaje-a-abelardo-de-la-espriella-todo-el-exito-3567103",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-25T23:56:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Cómo sería la agenda con China en el gobierno de Abelardo de la Espriella?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-agenda-con-china-en-el-gobierno-de-de-la-espriella-3567127",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-25T22:25:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "El ultimátum de De la Espriella: un mes de plazo a los grupos armados para someterse a la justicia",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260626-el-ultim%C3%A1tum-de-de-la-espriella-un-mes-de-plazo-a-los-grupos-armados-para-someterse-a-la-justicia",
       "source": "France 24",
       "pubDate": "Fri, 26 Jun 2026 02:19:53 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Las movidas de los partidos para buscar las presidencias de Senado y Cámara en el gobierno de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-movidas-de-los-partidos-para-buscar-las-dignidades-del-congreso-y-las-presidencias-de-senado-y-camara-en-el-gobierno-de-abelardo-de-la-espriella-3567179",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-25T21:00:41-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella responde a Lula da Silva y plantea una relación basada en 'trabajo conjunto, respetuoso y soberano' entre Colombia y Brasil",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-responde-a-lula-da-silva-y-plantea-una-relacion-basada-en-trabajo-conjunto-respetuoso-y-soberano-entre-colombia-y-brasil-3567163",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-25T20:19:16-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Corrección: Así les fue a las encuestas en segunda vuelta",
-      "link": "https://www.lasillavacia.com/en-vivo/correccion-asi-les-fue-a-las-encuestas-en-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 25 Jun 2026 22:32:58 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Volodimir Zelenski, presidente de Ucrania, felicitó a Abelardo de la Espriella por su victoria en elección presidencial: 'Listos para cooperar'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/volodimir-zelenski-felicito-a-abelardo-de-la-espriella-tras-su-victoria-en-la-segunda-vuelta-presidencial-del-21-de-junio-una-fuerte-cooperacion-3567065",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-25T16:31:44-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cambio Radical se declara partido de Gobierno y anuncia agenda legislativa para el cuatrienio de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/cambio-radical-se-declara-partido-de-gobierno-y-anuncia-agenda-legislativa-para-el-cuatrenio-de-abelardo-de-la-espriella-3567073",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-25T16:15:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda reconoce la derrota en las elecciones de Colombia y De la Espriella será el nuevo presidente",
-      "link": "https://www.bbc.com/mundo/articles/cn756p401zvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Wed, 24 Jun 2026 15:41:10 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
