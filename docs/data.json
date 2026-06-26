@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-26T09:34:48.426Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-26T12:14:44.727Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 46,
+      "trendsScore": 44,
       "youtubeScore": 100,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Elecciones presidenciales Colombia 2026: Abelardo de la Espriella avanzará en relación bilateral con Israel para 'luchar contra el crimen organizado'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-cambio-radical-se-declaro-partido-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-3567207",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-26T06:49:25-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Abelardo de la Espriella, presidente electo de Colombia, dijo que garantizará 'el respeto absoluto por la crítica y el disenso de todos' en su mandato",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-de-colombia-dijo-que-garantizara-el-respeto-absoluto-por-la-critica-y-el-disenso-de-todos-en-su-mandato-3567195",
