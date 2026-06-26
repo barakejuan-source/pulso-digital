@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-25T23:23:27.198Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-26T04:04:33.785Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Rodrigo Lara se perfila como ministro de Justicia, cargo que ocupaba su padre cuando fue asesinado por Pablo Escobar",
-      "link": "https://www.infobae.com/colombia/2026/06/25/rodrigo-lara-se-perfila-como-ministro-de-justicia-cargo-que-ocupaba-su-padre-cuando-fue-asesinado-por-pablo-escobar/",
-      "source": "Infobae",
-      "pubDate": "Thu, 25 Jun 2026 23:05:19 +0000",
+      "title": "¿Cómo sería la agenda con China en el gobierno de Abelardo de la Espriella?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-agenda-con-china-en-el-gobierno-de-de-la-espriella-3567127",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-25T22:25:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Petro ‘estalló’ por comentario publicado en una cuenta no oficial de X de Abelardo de la Espriella: “Diciendo mentiras”",
-      "link": "https://www.infobae.com/colombia/2026/06/25/petro-estallo-por-comentario-publicado-en-una-cuenta-no-oficial-de-x-de-abelardo-de-la-espriella-diciendo-mentiras/",
-      "source": "Infobae",
-      "pubDate": "Thu, 25 Jun 2026 22:52:28 +0000",
+      "title": "El ultimátum de De la Espriella: un mes de plazo a los grupos armados para someterse a la justicia",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260626-el-ultim%C3%A1tum-de-de-la-espriella-un-mes-de-plazo-a-los-grupos-armados-para-someterse-a-la-justicia",
+      "source": "France 24",
+      "pubDate": "Fri, 26 Jun 2026 02:19:53 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Las movidas de los partidos para buscar las presidencias de Senado y Cámara en el gobierno de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-movidas-de-los-partidos-para-buscar-las-dignidades-del-congreso-y-las-presidencias-de-senado-y-camara-en-el-gobierno-de-abelardo-de-la-espriella-3567179",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-25T21:00:41-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella responde a Lula da Silva y plantea una relación basada en 'trabajo conjunto, respetuoso y soberano' entre Colombia y Brasil",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-responde-a-lula-da-silva-y-plantea-una-relacion-basada-en-trabajo-conjunto-respetuoso-y-soberano-entre-colombia-y-brasil-3567163",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-25T20:19:16-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -101,30 +117,6 @@
       "pubDate": "2026-06-25T16:15:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Sin ZUT lista, se aplaza la llegada del Clan del Golfo a Córdoba",
-      "link": "https://www.lasillavacia.com/en-vivo/sin-zut-lista-se-aplaza-la-llegada-del-clan-del-golfo-a-cordoba/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 25 Jun 2026 19:50:11 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda anunció que iniciará una gira nacional desde Chocó para agradecer el apoyo que recibió en la segunda vuelta presidencial",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-anuncio-que-iniciara-una-gira-nacional-desde-choco-para-agradecer-el-apoyo-que-recibio-y-fortalecer-su-movimiento-politico-3567055",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-25T14:29:55-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda desmiente diferencias con el presidente Gustavo Petro: 'Nada ni nadie podrá fisurar nuestra relación'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-desmiente-diferencias-con-el-presidente-gustavo-petro-nada-ni-nadie-podra-fisurar-nuestra-relacion-3567030",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-25T12:56:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Iván Cepeda reconoce la derrota en las elecciones de Colombia y De la Espriella será el nuevo presidente",
