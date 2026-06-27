@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T21:10:15.731Z",
+  "updatedAt": "2026-06-27T23:07:11.431Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 41,
+      "trendsScore": 40,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 48,
+      "finalScore": 47,
       "momentum": {
-        "value": 2.1,
+        "value": -2.1,
         "direction": "flat"
       },
-      "probability": 54.5
+      "probability": 54
     },
     {
       "id": "abelardo_espriella",
@@ -42,25 +42,25 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 45.5
+      "probability": 46
     }
   ],
   "articles": [
     {
-      "title": "ExFarc pidieron garantías a Abelardo de la Espriella tras balance negativo de la Paz Total de Petro: “Le corresponde hacer cumplir la palabra”",
-      "link": "https://www.infobae.com/colombia/2026/06/27/exfarc-pidieron-garantias-a-abelardo-de-la-espriella-tras-balance-negativo-de-la-paz-total-de-petro-le-corresponde-hacer-cumplir-la-palabra/",
-      "source": "Infobae",
-      "pubDate": "Sat, 27 Jun 2026 21:04:33 +0000",
+      "title": "Rechazo a mensaje de dirigente de la Juco quien dice que la tarea es 'hacer invivible este país' durante el gobierno de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/rechazo-a-mensaje-de-dirigente-de-la-juco-que-dice-que-la-tarea-es-hacer-invivible-este-pais-durante-el-gobierno-de-abelardo-de-la-espriella-3567588",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-27T17:44:58-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "JEE Lima Centro 1 proclamó resultados de la segunda vuelta presidencial",
-      "link": "https://www.infobae.com/peru/2026/06/27/jee-lima-centro-1-proclamo-resultados-de-la-segunda-vuelta-presidencial/",
+      "title": "Rechazan montajes hechos con IA contra Germán Ávila que lo señalan como “guerrillero”: “La vida debe respetarse siempre”  ",
+      "link": "https://www.infobae.com/colombia/2026/06/27/rechazan-montajes-hechos-con-ia-contra-german-avila-que-lo-senalan-como-guerrillero-la-vida-debe-respetarse-siempre/",
       "source": "Infobae",
-      "pubDate": "Sat, 27 Jun 2026 20:38:37 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Sat, 27 Jun 2026 21:55:38 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Germán Ávila, ministro de Hacienda, fue designado por el presidente Gustavo Petro como coordinador del equipo de empalme",
@@ -109,14 +109,6 @@
       "pubDate": "Sat, 27 Jun 2026 02:19:59 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La izquierda retoma la oposición y ya le apunta a las elecciones regionales: esta es la nueva estrategia del Pacto Histórico e Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/la-izquierda-retoma-la-oposicion-y-ya-le-apunta-a-las-elecciones-regionales-esta-es-la-nueva-estrategia-del-pacto-historico-e-ivan-cepeda-3567275",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-26T15:13:16-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
