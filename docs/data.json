@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T15:19:50.518Z",
+  "updatedAt": "2026-06-27T17:15:57.522Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 43,
+      "trendsScore": 40,
       "youtubeScore": 100,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 5169,
-      "finalScore": 47,
+      "finalScore": 46,
       "momentum": {
-        "value": 0,
+        "value": -2.1,
         "direction": "flat"
       },
-      "probability": 54
+      "probability": 53.5
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,31 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 46
+      "probability": 46.5
     }
   ],
   "articles": [
     {
-      "title": "José Manuel Restrepo liderará el empalme anticorrupción del gobierno de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/27/jose-manuel-restrepo-liderara-el-empalme-anticorrupcion-del-gobierno-de-abelardo-de-la-espriella/",
+      "title": "Germán Ávila, ministro de Hacienda, fue designado por el presidente Gustavo Petro como coordinador del equipo de empalme",
+      "link": "https://www.eltiempo.com/politica/gobierno/german-avila-ministro-de-hacienda-fue-designado-por-el-presidente-gustavo-petro-como-coordinador-del-equipo-de-empalme-3567544",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-27T12:02:07-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Asociación de consumidores se suma al fraudismo de Roberto Sánchez y pide al JNE anular votos del extranjero",
+      "link": "https://www.infobae.com/peru/2026/06/27/asociacion-de-consumidores-se-suma-al-fraudismo-de-roberto-sanchez-y-pide-al-jne-anular-votos-del-extranjero/",
       "source": "Infobae",
-      "pubDate": "Sat, 27 Jun 2026 15:07:08 +0000",
+      "pubDate": "Sat, 27 Jun 2026 16:48:15 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "El presidente electo Abelardo de la Espriella no asistirá a la Casa de Nariño antes de su posesión",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-presidente-electo-abelardo-de-la-espriella-no-asistira-a-la-casa-de-narino-antes-de-su-posesion-3567533",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-27T11:33:44-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -61,14 +77,6 @@
       "pubDate": "Sat, 27 Jun 2026 14:44:28 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Gobierno de Abelardo de La Espriella deberá defender en el Congreso el Presupuesto de 2027 que será presentado por el de Petro",
-      "link": "https://www.infobae.com/colombia/2026/06/27/gobierno-de-abelardo-de-la-espriella-debera-defender-en-el-congreso-el-presupuesto-de-2027-que-sera-presentado-por-el-de-petro/",
-      "source": "Infobae",
-      "pubDate": "Sat, 27 Jun 2026 14:20:59 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Elecciones presidenciales Colombia 2026: la primera dama, Verónica Alcocer, envió un mensaje al presidente electo del país, Abelardo de la Espriella",
@@ -103,22 +111,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Semana publicó 133 videos de campaña de Abelardo entre primera y segunda vuelta",
-      "link": "https://www.lasillavacia.com/silla-nacional/semana-publico-133-videos-de-campana-de-abelardo-entre-primera-y-segunda-vuelta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 27 Jun 2026 01:44:35 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Qué busca el gobierno de Abelardo de la Espriella con la designación de Rodrigo Lara en el Ministerio del Interior?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/que-busca-el-gobierno-de-abelardo-de-la-espriella-con-la-designacion-de-rodrigo-lara-en-el-ministerio-del-interior-3567290",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-26T16:58:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "La izquierda retoma la oposición y ya le apunta a las elecciones regionales: esta es la nueva estrategia del Pacto Histórico e Iván Cepeda",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/la-izquierda-retoma-la-oposicion-y-ya-le-apunta-a-las-elecciones-regionales-esta-es-la-nueva-estrategia-del-pacto-historico-e-ivan-cepeda-3567275",
       "source": "El Tiempo",
@@ -127,18 +119,18 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Rodrigo Lara Restrepo, próximo ministro del Interior de Abelardo de la Espriella: 'Seré defensor incansable de la Constitución y el Estado de Derecho'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/rodrigo-lara-restrepo-proximo-ministro-del-interior-promete-lealtad-al-gobierno-de-abelardo-de-la-espriella-y-defensa-de-la-constitucion-3567274",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-26T15:07:59-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Gustavo Petro será el líder de la oposición: así se decidió tras reunión entre el Presidente y el senador Iván Cepeda",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gustavo-petro-sera-el-lider-de-la-oposicion-asi-se-decidio-tras-reunion-entre-el-presidente-y-el-senador-ivan-cepeda-3567341",
       "source": "El Tiempo",
       "pubDate": "2026-06-26T14:16:25-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Iván Cepeda reconoce la derrota en las elecciones de Colombia y De la Espriella será el nuevo presidente",
+      "link": "https://www.bbc.com/mundo/articles/cn756p401zvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Wed, 24 Jun 2026 15:41:10 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
