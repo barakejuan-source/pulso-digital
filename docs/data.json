@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T03:49:01.280Z",
+  "updatedAt": "2026-06-27T06:56:57.980Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 43,
+      "trendsScore": 44,
       "youtubeScore": 100,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 5169,
-      "finalScore": 47,
+      "finalScore": 48,
       "momentum": {
-        "value": 0,
+        "value": 2.1,
         "direction": "flat"
       },
-      "probability": 54
+      "probability": 54.5
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,26 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 46
+      "probability": 45.5
     }
   ],
   "articles": [
+    {
+      "title": "Lo que está preparando la izquierda para hacerle oposición a Abelardo de la Espriella: así será el tono paa el cuatrenio",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/lo-que-esta-preparando-la-izquierda-para-hacerle-oposicion-a-abelardo-de-la-espriella-asi-sera-el-tono-paa-el-cuatrenio-3567493",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-27T01:25:22-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella gobernará desde La Guajira en su primera semana como presidente",
+      "link": "https://www.infobae.com/colombia/2026/06/27/abelardo-de-la-espriella-gobernara-desde-la-guajira-en-su-primera-semana-como-presidente/",
+      "source": "Infobae",
+      "pubDate": "Sat, 27 Jun 2026 05:24:45 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Presidente Gustavo Petro se pronunció sobre empalme con el gobierno del mandatario electo, Abelardo de la Espriella: 'Acato las decisiones'",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-se-pronuncio-sobre-empalme-con-el-gobierno-del-mandatario-electo-abelardo-de-la-espriella-acato-las-decisiones-3567448",
@@ -123,14 +139,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/alcalde-carlos-fernando-galan-felicita-a-rodrigo-lara-tras-su-cargo-como-ministro-del-interior-bogota-nos-necesita-3567295",
       "source": "El Tiempo",
       "pubDate": "2026-06-26T11:58:58-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente electo Abelardo de la Espriella anuncia a Rodrigo Lara Restrepo como ministro del Interior de su gobierno",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-electo-abelardo-de-la-espriella-anuncia-a-rodrigo-lara-restrepo-como-ministro-del-interior-de-su-gobierno-3567235",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-26T11:32:58-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
