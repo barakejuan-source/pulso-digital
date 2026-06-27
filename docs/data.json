@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T23:12:06.946Z",
+  "updatedAt": "2026-06-27T03:49:01.280Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 42,
+      "trendsScore": 43,
       "youtubeScore": 100,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,28 +47,28 @@
   ],
   "articles": [
     {
-      "title": "Rodrigo Lara Restrepo llegará al Ministerio del Interior con una esposa e hijos que lo apoyan en su camino político: así es su familia",
-      "link": "https://www.infobae.com/colombia/2026/06/26/rodrigo-lara-restrepo-llegara-al-ministerio-del-interior-con-una-esposa-e-hijos-que-lo-apoyan-en-su-camino-politico-asi-es-su-familia/",
-      "source": "Infobae",
-      "pubDate": "Fri, 26 Jun 2026 22:59:24 +0000",
+      "title": "Presidente Gustavo Petro se pronunció sobre empalme con el gobierno del mandatario electo, Abelardo de la Espriella: 'Acato las decisiones'",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-se-pronuncio-sobre-empalme-con-el-gobierno-del-mandatario-electo-abelardo-de-la-espriella-acato-las-decisiones-3567448",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-26T22:43:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El influenciador petrista Daniel Mendoza arremetió contra Iván Cepeda tras su derrota en las elecciones: “Usted nos escupió en la cara. Nos vendió”",
-      "link": "https://www.infobae.com/colombia/2026/06/26/el-influenciador-petrista-daniel-mendoza-arremetio-contra-ivan-cepeda-tras-su-derrota-en-las-elecciones-usted-nos-escupio-en-la-cara-nos-vendio/",
-      "source": "Infobae",
-      "pubDate": "Fri, 26 Jun 2026 22:57:49 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "¿Cómo va a salir adelante Venezuela tras la devastación de los terremotos?",
+      "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260627-c%C3%B3mo-va-a-salir-adelante-venezuela-tras-la-devastaci%C3%B3n-de-los-terremotos",
+      "source": "France 24",
+      "pubDate": "Sat, 27 Jun 2026 02:19:59 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "“Disfruto esa cara de fracaso”: el mensaje de Jota Pe Hernández tras reunión de Gustavo Petro con Iván Cepeda  ",
-      "link": "https://www.infobae.com/colombia/2026/06/26/disfruto-esa-cara-de-fracaso-el-mensaje-de-jota-pe-hernandez-tras-reunion-de-gustavo-petro-con-ivan-cepeda/",
-      "source": "Infobae",
-      "pubDate": "Fri, 26 Jun 2026 22:28:47 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Semana publicó 133 videos de campaña de Abelardo entre primera y segunda vuelta",
+      "link": "https://www.lasillavacia.com/silla-nacional/semana-publico-133-videos-de-campana-de-abelardo-entre-primera-y-segunda-vuelta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 27 Jun 2026 01:44:35 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "¿Qué busca el gobierno de Abelardo de la Espriella con la designación de Rodrigo Lara en el Ministerio del Interior?",
@@ -115,14 +115,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gustavo-petro-sera-el-lider-de-la-oposicion-asi-se-decidio-tras-reunion-entre-el-presidente-y-el-senador-ivan-cepeda-3567341",
       "source": "El Tiempo",
       "pubDate": "2026-06-26T14:16:25-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Colombia: ¿cómo se reconfigura el tablero político tras la derrota de la izquierda?",
-      "link": "https://www.france24.com/es/programas/escala-en-par%C3%ADs/20260626-colombia-c%C3%B3mo-se-reconfigura-el-tablero-pol%C3%ADtico-tras-la-derrota-de-la-izquierda",
-      "source": "France 24",
-      "pubDate": "Fri, 26 Jun 2026 18:31:21 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
