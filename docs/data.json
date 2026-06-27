@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T17:15:57.522Z",
+  "updatedAt": "2026-06-27T19:27:27.726Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -9,19 +9,19 @@
       "color": "#E63946",
       "trendsScore": 40,
       "youtubeScore": 100,
-      "sentimentScore": 0,
+      "sentimentScore": 4,
       "sentimentPct": {
-        "positive": 0,
-        "negative": 0,
-        "neutral": 0
+        "positive": 4,
+        "negative": 70,
+        "neutral": 26
       },
-      "youtubeViews": 5169,
-      "finalScore": 46,
+      "youtubeViews": 15903,
+      "finalScore": 47,
       "momentum": {
-        "value": -2.1,
+        "value": 2.2,
         "direction": "flat"
       },
-      "probability": 53.5
+      "probability": 54
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,34 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 46.5
+      "probability": 46
     }
   ],
   "articles": [
+    {
+      "title": "Roberto Sánchez dice desconocer denuncia penal por “fraude”: “Un afiliado de Juntos por el Perú ha hecho eso”",
+      "link": "https://www.infobae.com/peru/2026/06/27/roberto-sanchez-dice-desconocer-denuncia-penal-por-fraude-un-afiliado-de-juntos-por-el-peru-ha-hecho-eso/",
+      "source": "Infobae",
+      "pubDate": "Sat, 27 Jun 2026 18:53:17 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Las palabras de Abelardo de la Espriella luego de su reunión con el gobernador Andrés Julián Rendón: “Antioquia resistió”",
+      "link": "https://www.infobae.com/colombia/2026/06/27/las-palabras-de-abelardo-de-la-espriella-luego-de-su-reunion-con-el-gobernador-andres-julian-rendon-antioquia-resistio/",
+      "source": "Infobae",
+      "pubDate": "Sat, 27 Jun 2026 18:29:28 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La inédita agenda digital de Abelardo De la Espriella: usaría sus redes para compartir sus actividades semanales como presidente",
+      "link": "https://www.infobae.com/colombia/2026/06/27/la-inedita-agenda-digital-de-abelardo-de-la-espriella-usaria-sus-redes-para-compartir-sus-actividades-semanales-como-presidente/",
+      "source": "Infobae",
+      "pubDate": "Sat, 27 Jun 2026 18:20:36 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Germán Ávila, ministro de Hacienda, fue designado por el presidente Gustavo Petro como coordinador del equipo de empalme",
       "link": "https://www.eltiempo.com/politica/gobierno/german-avila-ministro-de-hacienda-fue-designado-por-el-presidente-gustavo-petro-como-coordinador-del-equipo-de-empalme-3567544",
@@ -53,14 +77,6 @@
       "pubDate": "2026-06-27T12:02:07-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Asociación de consumidores se suma al fraudismo de Roberto Sánchez y pide al JNE anular votos del extranjero",
-      "link": "https://www.infobae.com/peru/2026/06/27/asociacion-de-consumidores-se-suma-al-fraudismo-de-roberto-sanchez-y-pide-al-jne-anular-votos-del-extranjero/",
-      "source": "Infobae",
-      "pubDate": "Sat, 27 Jun 2026 16:48:15 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "El presidente electo Abelardo de la Espriella no asistirá a la Casa de Nariño antes de su posesión",
@@ -115,14 +131,6 @@
       "link": "https://www.eltiempo.com/politica/partidos-politicos/la-izquierda-retoma-la-oposicion-y-ya-le-apunta-a-las-elecciones-regionales-esta-es-la-nueva-estrategia-del-pacto-historico-e-ivan-cepeda-3567275",
       "source": "El Tiempo",
       "pubDate": "2026-06-26T15:13:16-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Gustavo Petro será el líder de la oposición: así se decidió tras reunión entre el Presidente y el senador Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gustavo-petro-sera-el-lider-de-la-oposicion-asi-se-decidio-tras-reunion-entre-el-presidente-y-el-senador-ivan-cepeda-3567341",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-26T14:16:25-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
