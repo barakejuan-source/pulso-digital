@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T10:13:53.853Z",
+  "updatedAt": "2026-06-27T13:51:48.183Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 42,
+      "trendsScore": 43,
       "youtubeScore": 100,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 5169,
       "finalScore": 47,
       "momentum": {
-        "value": -2.1,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 54
@@ -46,6 +46,22 @@
     }
   ],
   "articles": [
+    {
+      "title": "Abelardo De La Espriella llegaría al Congreso con mayorías iniciales para impulsar sus reformas desde el arranque del gobierno",
+      "link": "https://www.infobae.com/colombia/2026/06/27/abelardo-de-la-espriella-llegaria-al-congreso-con-mayorias-iniciales-para-impulsar-sus-reformas-desde-el-arranque-del-gobierno/",
+      "source": "Infobae",
+      "pubDate": "Sat, 27 Jun 2026 13:38:54 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elecciones presidenciales Colombia 2026: la primera dama, Verónica Alcocer, envió un mensaje al presidente electo del país, Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-la-primera-dama-veronica-alcocer-envio-un-mensaje-al-presidente-electo-del-pais-abelardo-de-la-espriella-3567498",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-27T05:55:06-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Lo que está preparando la izquierda para hacerle oposición a Abelardo de la Espriella: así será el tono paa el cuatrenio",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/lo-que-esta-preparando-la-izquierda-para-hacerle-oposicion-a-abelardo-de-la-espriella-asi-sera-el-tono-paa-el-cuatrenio-3567493",
@@ -87,14 +103,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Así logró Iván Cepeda remontar en el Caribe",
-      "link": "https://www.lasillavacia.com/silla-nacional/asi-logro-ivan-cepeda-remontar-en-el-caribe/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 26 Jun 2026 21:28:25 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "La izquierda retoma la oposición y ya le apunta a las elecciones regionales: esta es la nueva estrategia del Pacto Histórico e Iván Cepeda",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/la-izquierda-retoma-la-oposicion-y-ya-le-apunta-a-las-elecciones-regionales-esta-es-la-nueva-estrategia-del-pacto-historico-e-ivan-cepeda-3567275",
       "source": "El Tiempo",
@@ -107,14 +115,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/rodrigo-lara-restrepo-proximo-ministro-del-interior-promete-lealtad-al-gobierno-de-abelardo-de-la-espriella-y-defensa-de-la-constitucion-3567274",
       "source": "El Tiempo",
       "pubDate": "2026-06-26T15:07:59-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así reaccionan diferentes sectores al nombramiento de Rodrigo Lara Restrepo como ministro del Interior del gobierno de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-designa-a-rodrigo-lara-restrepo-como-ministro-del-interior-de-su-proximo-gobierno-3567258",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-26T15:01:59-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
