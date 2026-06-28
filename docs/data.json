@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T23:07:11.431Z",
+  "updatedAt": "2026-06-28T04:11:31.218Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 40,
+      "trendsScore": 35,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 47,
+      "finalScore": 45,
       "momentum": {
-        "value": -2.1,
+        "value": -4.3,
         "direction": "flat"
       },
-      "probability": 54
+      "probability": 52.9
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,55 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 46
+      "probability": 47.1
     }
   ],
   "articles": [
+    {
+      "title": "Iván Cepeda pidió a la ciudadanía hacer un “homenaje” a Petro el 6 de agosto, un día antes de la posesión de De la Espriella: “Por su labor”",
+      "link": "https://www.infobae.com/colombia/2026/06/28/ivan-cepeda-pidio-a-la-ciudadania-hacer-un-homenaje-a-petro-el-6-de-agosto-un-dia-antes-de-la-posesion-de-de-la-espriella-por-su-labor/",
+      "source": "Infobae",
+      "pubDate": "Sun, 28 Jun 2026 03:23:36 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "La relación que le espera al gobierno de Abelardo de la Espriella con el nuevo Congreso",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-relacion-que-le-espera-al-gobierno-de-abelardo-de-la-espriella-con-el-nuevo-congreso-3567573",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-27T22:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Los cambios que vienen con Abelardo De la Espriella como presidente y los mensajes detrás de sus primeras decisiones",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-cambios-que-vienen-con-abelardo-de-la-espriella-como-presidente-y-los-mensajes-detras-de-sus-primeras-decisiones-3567570",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-27T22:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "‘No habrá transacciones ocultas; relación con el Congreso será por encima de la mesa’: Rodrigo Lara, ministro del Interior del nuevo gobierno",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/no-habra-transacciones-ocultas-relacion-con-el-congreso-sera-por-encima-de-la-mesa-rodrigo-lara-ministro-del-interior-del-nuevo-gobierno-3567566",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-27T22:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así fue la llamada entre el presidente electo, Abelardo de la Espriella, y el expresidente Álvaro Uribe / En Secreto",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fue-la-llamada-entre-el-presidente-electo-abelardo-de-la-espriella-y-el-expresidente-alvaro-uribe-en-secreto-3567564",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-27T22:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Rechazo a mensaje de dirigente de la Juco quien dice que la tarea es 'hacer invivible este país' durante el gobierno de Abelardo de la Espriella",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/rechazo-a-mensaje-de-dirigente-de-la-juco-que-dice-que-la-tarea-es-hacer-invivible-este-pais-durante-el-gobierno-de-abelardo-de-la-espriella-3567588",
       "source": "El Tiempo",
       "pubDate": "2026-06-27T17:44:58-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Rechazan montajes hechos con IA contra Germán Ávila que lo señalan como “guerrillero”: “La vida debe respetarse siempre”  ",
-      "link": "https://www.infobae.com/colombia/2026/06/27/rechazan-montajes-hechos-con-ia-contra-german-avila-que-lo-senalan-como-guerrillero-la-vida-debe-respetarse-siempre/",
-      "source": "Infobae",
-      "pubDate": "Sat, 27 Jun 2026 21:55:38 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -83,30 +115,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-la-primera-dama-veronica-alcocer-envio-un-mensaje-al-presidente-electo-del-pais-abelardo-de-la-espriella-3567498",
       "source": "El Tiempo",
       "pubDate": "2026-06-27T05:55:06-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Lo que está preparando la izquierda para hacerle oposición a Abelardo de la Espriella: así será el tono paa el cuatrenio",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/lo-que-esta-preparando-la-izquierda-para-hacerle-oposicion-a-abelardo-de-la-espriella-asi-sera-el-tono-paa-el-cuatrenio-3567493",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-27T01:25:22-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Gustavo Petro se pronunció sobre empalme con el gobierno del mandatario electo, Abelardo de la Espriella: 'Acato las decisiones'",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-se-pronuncio-sobre-empalme-con-el-gobierno-del-mandatario-electo-abelardo-de-la-espriella-acato-las-decisiones-3567448",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-26T22:43:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Cómo va a salir adelante Venezuela tras la devastación de los terremotos?",
-      "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260627-c%C3%B3mo-va-a-salir-adelante-venezuela-tras-la-devastaci%C3%B3n-de-los-terremotos",
-      "source": "France 24",
-      "pubDate": "Sat, 27 Jun 2026 02:19:59 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
