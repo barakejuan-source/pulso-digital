@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T04:11:31.218Z",
+  "updatedAt": "2026-06-28T08:58:52.662Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 15903,
       "finalScore": 45,
       "momentum": {
-        "value": -4.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 52.9
@@ -47,12 +47,12 @@
   ],
   "articles": [
     {
-      "title": "Iván Cepeda pidió a la ciudadanía hacer un “homenaje” a Petro el 6 de agosto, un día antes de la posesión de De la Espriella: “Por su labor”",
-      "link": "https://www.infobae.com/colombia/2026/06/28/ivan-cepeda-pidio-a-la-ciudadania-hacer-un-homenaje-a-petro-el-6-de-agosto-un-dia-antes-de-la-posesion-de-de-la-espriella-por-su-labor/",
+      "title": "Rechazan declaraciones de dirigente de la Juco que pidió “hacer invivible” el gobierno de Abelardo De la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/06/28/rechazan-declaraciones-de-dirigente-de-la-juco-que-pidio-hacer-invivible-el-gobierno-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Sun, 28 Jun 2026 03:23:36 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Sun, 28 Jun 2026 07:25:46 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "La relación que le espera al gobierno de Abelardo de la Espriella con el nuevo Congreso",
@@ -107,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-presidente-electo-abelardo-de-la-espriella-no-asistira-a-la-casa-de-narino-antes-de-su-posesion-3567533",
       "source": "El Tiempo",
       "pubDate": "2026-06-27T11:33:44-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Elecciones presidenciales Colombia 2026: la primera dama, Verónica Alcocer, envió un mensaje al presidente electo del país, Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/elecciones-presidenciales-colombia-2026-la-primera-dama-veronica-alcocer-envio-un-mensaje-al-presidente-electo-del-pais-abelardo-de-la-espriella-3567498",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-27T05:55:06-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
