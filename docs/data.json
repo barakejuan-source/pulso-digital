@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T11:49:41.425Z",
+  "updatedAt": "2026-06-28T13:55:36.943Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 35,
+      "trendsScore": 34,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Roberto Sánchez rechaza derrota frente a Keiko y denuncia “autoritarismo fujimorista” por cambios en las reglas de la segunda vuelta",
+      "link": "https://www.infobae.com/peru/2026/06/28/roberto-sanchez-rechaza-derrota-frente-a-keiko-y-denuncia-autoritarismo-fujimorista-por-cambios-en-las-reglas-de-la-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Sun, 28 Jun 2026 13:39:11 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "La relación que le espera al gobierno de Abelardo de la Espriella con el nuevo Congreso",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-relacion-que-le-espera-al-gobierno-de-abelardo-de-la-espriella-con-el-nuevo-congreso-3567573",
