@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T21:07:24.665Z",
+  "updatedAt": "2026-06-28T23:08:51.435Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 35,
+      "trendsScore": 34,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Karol G publicó una carta dirigida a Abelardo de la Espriella: “Un presidente gana cuando gana su pueblo”",
+      "link": "https://www.infobae.com/colombia/2026/06/28/karol-g-publico-una-carta-dirigida-a-abelardo-de-la-espriella-un-presidente-gana-cuando-gana-su-pueblo/",
+      "source": "Infobae",
+      "pubDate": "Sun, 28 Jun 2026 22:09:46 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
     {
       "title": "Rechazo a mensaje de dirigente de la Juco quien dice que la tarea es 'hacer invivible este país' durante el gobierno de Abelardo de la Espriella",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/rechazo-a-mensaje-de-dirigente-de-la-juco-que-dice-que-la-tarea-es-hacer-invivible-este-pais-durante-el-gobierno-de-abelardo-de-la-espriella-3567588",
