@@ -4757,6 +4757,23 @@
           "sentiment": 0
         }
       ]
+    },
+    {
+      "date": "2026-06-28T15",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 35,
+          "youtube": 100,
+          "sentiment": 4
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 0,
+          "sentiment": 0
+        }
+      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T13:55:36.943Z",
+  "updatedAt": "2026-06-28T15:22:00.641Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 34,
+      "trendsScore": 35,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Roberto Sánchez rechaza derrota frente a Keiko y denuncia “autoritarismo fujimorista” por cambios en las reglas de la segunda vuelta",
-      "link": "https://www.infobae.com/peru/2026/06/28/roberto-sanchez-rechaza-derrota-frente-a-keiko-y-denuncia-autoritarismo-fujimorista-por-cambios-en-las-reglas-de-la-segunda-vuelta/",
+      "title": "José Manuel Restrepo se refirió a su designación como coordinador del empalme anticorrupción: “No habrá complacencias”",
+      "link": "https://www.infobae.com/colombia/2026/06/28/jose-manuel-restrepo-se-refirio-a-su-designacion-como-coordinador-del-empalme-anticorrupcion-no-habra-complacencias/",
       "source": "Infobae",
-      "pubDate": "Sun, 28 Jun 2026 13:39:11 +0000",
+      "pubDate": "Sun, 28 Jun 2026 15:00:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "JEE Lima Centro 1 ya proclamó resultados de la segunda vuelta presidencial",
+      "link": "https://www.infobae.com/peru/2026/06/27/jee-lima-centro-1-proclamo-resultados-de-la-segunda-vuelta-presidencial/",
+      "source": "Infobae",
+      "pubDate": "Sun, 28 Jun 2026 14:24:13 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
