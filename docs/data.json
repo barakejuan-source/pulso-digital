@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-28T17:18:30.787Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-28T19:27:32.028Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,10 @@
   ],
   "articles": [
     {
-      "title": "José Manuel Restrepo se refirió a su designación como coordinador del empalme anticorrupción: “No habrá complacencias”",
-      "link": "https://www.infobae.com/colombia/2026/06/28/jose-manuel-restrepo-se-refirio-a-su-designacion-como-coordinador-del-empalme-anticorrupcion-no-habra-complacencias/",
+      "title": "Pillaron a Abelardo de la Espriella tomando aguardiente en Medellín: “Hay trabajo, pero también nos divertimos”",
+      "link": "https://www.infobae.com/colombia/2026/06/28/pillaron-a-abelardo-de-la-espriella-tomando-aguardiente-en-medellin-hay-trabajo-pero-tambien-nos-divertimos/",
       "source": "Infobae",
-      "pubDate": "Sun, 28 Jun 2026 16:55:09 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella pidió investigar presuntos acuerdos entre el Clan del Golfo y Gobierno Petro: “Nadie estará por encima de la ley”",
-      "link": "https://www.infobae.com/colombia/2026/06/28/abelardo-de-la-espriella-pidio-investigar-presuntos-acuerdos-entre-el-clan-del-golfo-y-gobierno-petro-nadie-estara-por-encima-de-la-ley/",
-      "source": "Infobae",
-      "pubDate": "Sun, 28 Jun 2026 16:51:43 +0000",
+      "pubDate": "Sun, 28 Jun 2026 18:44:12 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -115,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/german-avila-ministro-de-hacienda-fue-designado-por-el-presidente-gustavo-petro-como-coordinador-del-equipo-de-empalme-3567544",
       "source": "El Tiempo",
       "pubDate": "2026-06-27T12:02:07-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El presidente electo Abelardo de la Espriella no asistirá a la Casa de Nariño antes de su posesión",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-presidente-electo-abelardo-de-la-espriella-no-asistira-a-la-casa-de-narino-antes-de-su-posesion-3567533",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-27T11:33:44-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
