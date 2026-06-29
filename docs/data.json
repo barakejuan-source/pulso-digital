@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-29T21:39:34.805Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-29T23:03:04.577Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,26 +47,18 @@
   ],
   "articles": [
     {
-      "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
-      "link": "https://www.bbc.com/mundo/articles/ckg7n0r4evpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 29 Jun 2026 21:26:31 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Las 3 opciones que tiene Abelardo de la Espriella para no subir los impuestos en Colombia con una nueva reforma: una es un acuerdo con EE. UU.",
+      "link": "https://www.infobae.com/colombia/2026/06/29/las-3-opciones-que-tiene-abelardo-de-la-espriella-para-no-subir-los-impuestos-en-colombia-con-una-nueva-reforma-una-es-un-acuerdo-con-ee-uu/",
+      "source": "Infobae",
+      "pubDate": "Mon, 29 Jun 2026 22:49:05 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Así votaron las regiones y el extranjero en la segunda vuelta 2026: el voto fuera del Perú terminó inclinando el triunfo de Keiko Fujimori",
-      "link": "https://www.infobae.com/peru/2026/06/29/asi-votaron-las-regiones-y-el-extranjero-en-la-segunda-vuelta-2026-el-voto-fuera-del-peru-termino-inclinando-el-triunfo-de-keiko-fujimori/",
+      "title": "Las empresas más pequeñas de Colombia hacen  llamado a Abelardo de la Espriella para que les dé prioridad: “Oportunidades perdidas”",
+      "link": "https://www.infobae.com/colombia/2026/06/29/las-empresas-mas-pequenas-de-colombia-hacen-llamado-a-abelardo-de-la-espriella-para-que-les-de-prioridad-oportunidades-perdidas/",
       "source": "Infobae",
-      "pubDate": "Mon, 29 Jun 2026 21:04:20 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "A Abelardo De la Espriella le tocará solucionar los malos cálculos que hizo Gustavo Petro con nueva reforma: “Como La estrategia del caracol”",
-      "link": "https://www.infobae.com/colombia/2026/06/29/a-abelardo-de-la-espriella-le-tocara-solucionar-los-malos-calculos-que-hizo-gustavo-petro-con-nueva-reforma-como-la-estrategia-del-caracol/",
-      "source": "Infobae",
-      "pubDate": "Mon, 29 Jun 2026 20:49:45 +0000",
+      "pubDate": "Mon, 29 Jun 2026 22:23:38 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -74,7 +66,31 @@
       "title": "ONPE al 100%: Voto a voto así ganó Keiko Fujimori a Roberto Sánchez la elección de la presidencia de Perú",
       "link": "https://www.infobae.com/peru/2026/06/29/onpe-al-100-voto-a-voto-asi-gano-keiko-fujimori-a-roberto-sanchez-la-eleccion-de-la-presidencia-de-peru/",
       "source": "Infobae",
-      "pubDate": "Mon, 29 Jun 2026 20:32:58 +0000",
+      "pubDate": "Mon, 29 Jun 2026 22:12:54 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Daniel Mendoza no perdona a Iván Cepeda su fracaso electoral y pidió limitarse a su curul en el Senado: “Enterró la esperanza”",
+      "link": "https://www.infobae.com/colombia/2026/06/29/daniel-mendoza-no-perdona-a-ivan-cepeda-su-fracaso-electoral-y-pidio-limitarse-a-su-curul-en-el-senado-enterro-la-esperanza/",
+      "source": "Infobae",
+      "pubDate": "Mon, 29 Jun 2026 22:00:03 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Informe desde Lima: Keiko Fujimori es la presidenta electa de Perú",
+      "link": "https://www.france24.com/es/video/20260629-informe-desde-lima-keiko-fujimori-es-la-presidenta-electa-de-per%C3%BA",
+      "source": "France 24",
+      "pubDate": "Mon, 29 Jun 2026 21:30:23 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
+      "link": "https://www.bbc.com/mundo/articles/ckg7n0r4evpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 29 Jun 2026 21:26:31 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -123,14 +139,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-relacion-que-le-espera-al-gobierno-de-abelardo-de-la-espriella-con-el-nuevo-congreso-3567573",
       "source": "El Tiempo",
       "pubDate": "2026-06-28T19:10:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella ordena al comité anticorrupción impulsar acciones jurídicas por presuntos vínculos del Gobierno y el Clan del Golfo",
-      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-ordena-al-comite-anticorrupcion-impulsar-acciones-juridicas-por-presuntos-vinculos-del-gobierno-y-el-clan-del-golfo-3567669",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-28T11:17:50-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
