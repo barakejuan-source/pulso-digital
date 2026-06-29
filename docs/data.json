@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-28T23:08:51.435Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-29T04:18:00.543Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Karol G publicó una carta dirigida a Abelardo de la Espriella: “Un presidente gana cuando gana su pueblo”",
-      "link": "https://www.infobae.com/colombia/2026/06/28/karol-g-publico-una-carta-dirigida-a-abelardo-de-la-espriella-un-presidente-gana-cuando-gana-su-pueblo/",
-      "source": "Infobae",
-      "pubDate": "Sun, 28 Jun 2026 22:09:46 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "La observación electoral fue fundamental en las elecciones presidenciales de 2026 en Colombia",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-observacion-electoral-fue-fundamental-en-las-elecciones-presidenciales-de-2026-en-colombia-3567717",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-28T22:10:00-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Rechazo a mensaje de dirigente de la Juco quien dice que la tarea es 'hacer invivible este país' durante el gobierno de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/rechazo-a-mensaje-de-dirigente-de-la-juco-que-dice-que-la-tarea-es-hacer-invivible-este-pais-durante-el-gobierno-de-abelardo-de-la-espriella-3567588",
+      "title": "Trump y el repunte de la derecha en Latinoamérica: ¿cómo queda Lula en pleno año electoral?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260629-trump-y-el-repunte-de-la-derecha-en-latinoam%C3%A9rica-c%C3%B3mo-queda-lula-en-pleno-a%C3%B1o-electoral",
+      "source": "France 24",
+      "pubDate": "Mon, 29 Jun 2026 02:34:15 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Álvaro Uribe: ‘El Centro Democrático está presto a ayudar al gobierno de Abelardo de la Espriella’",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/alvaro-uribe-el-centro-democratico-esta-presto-a-ayudar-al-gobierno-de-abelardo-de-la-espriella-3567719",
       "source": "El Tiempo",
-      "pubDate": "2026-06-28T15:54:54-05:00",
+      "pubDate": "2026-06-28T20:10:51-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La relación que le espera al gobierno de Abelardo de la Espriella con el nuevo Congreso",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-relacion-que-le-espera-al-gobierno-de-abelardo-de-la-espriella-con-el-nuevo-congreso-3567573",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-28T19:10:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,14 +83,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-ordena-al-comite-anticorrupcion-impulsar-acciones-juridicas-por-presuntos-vinculos-del-gobierno-y-el-clan-del-golfo-3567669",
       "source": "El Tiempo",
       "pubDate": "2026-06-28T11:17:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La relación que le espera al gobierno de Abelardo de la Espriella con el nuevo Congreso",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-relacion-que-le-espera-al-gobierno-de-abelardo-de-la-espriella-con-el-nuevo-congreso-3567573",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-27T22:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -91,22 +99,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/no-habra-transacciones-ocultas-relacion-con-el-congreso-sera-por-encima-de-la-mesa-rodrigo-lara-ministro-del-interior-del-nuevo-gobierno-3567566",
       "source": "El Tiempo",
       "pubDate": "2026-06-27T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así fue la llamada entre el presidente electo, Abelardo de la Espriella, y el expresidente Álvaro Uribe / En Secreto",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-fue-la-llamada-entre-el-presidente-electo-abelardo-de-la-espriella-y-el-expresidente-alvaro-uribe-en-secreto-3567564",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-27T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Germán Ávila, ministro de Hacienda, fue designado por el presidente Gustavo Petro como coordinador del equipo de empalme",
-      "link": "https://www.eltiempo.com/politica/gobierno/german-avila-ministro-de-hacienda-fue-designado-por-el-presidente-gustavo-petro-como-coordinador-del-equipo-de-empalme-3567544",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-27T12:02:07-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
