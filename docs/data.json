@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-29T15:54:41.170Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-29T18:12:39.359Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 34,
+      "trendsScore": 27,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 45,
+      "finalScore": 42,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -6.7,
+        "direction": "down"
       },
-      "probability": 52.9
+      "probability": 51.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,17 +42,25 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 47.1
+      "probability": 48.8
     }
   ],
   "articles": [
     {
-      "title": "Economía completó la colocación del Bonar 2028 y tiene casi todos los dólares para el vencimiento del 9 de julio",
-      "link": "https://www.infobae.com/economia/2026/06/29/economia-completo-la-colocacion-del-bonar-2028-y-tiene-casi-todos-los-dolares-para-el-vencimiento-del-9-de-julio/",
+      "title": "Economía completó la colocación del Bonar 2028 y ya tiene casi todos los dólares para pagar el vencimiento del 9 de julio",
+      "link": "https://www.infobae.com/economia/2026/06/29/economia-completo-la-colocacion-del-bonar-2028-y-ya-tiene-casi-todos-los-dolares-para-pagar-el-vencimiento-del-9-de-julio/",
       "source": "Infobae",
-      "pubDate": "Mon, 29 Jun 2026 15:43:38 +0000",
+      "pubDate": "Mon, 29 Jun 2026 17:45:39 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "Gustavo Petro salió en respaldo de Karol G por carta a Abelardo de la Espriella: “Te invitan a ser manada, nunca lo aceptes” ",
+      "link": "https://www.infobae.com/colombia/2026/06/29/gustavo-petro-salio-en-respaldo-de-karol-g-por-carta-a-abelardo-de-la-espriella-te-invitan-a-ser-manada-nunca-lo-aceptes/",
+      "source": "Infobae",
+      "pubDate": "Mon, 29 Jun 2026 17:35:34 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "La observación electoral fue fundamental en las elecciones presidenciales de 2026 en Colombia",
@@ -61,14 +69,6 @@
       "pubDate": "2026-06-28T22:10:00-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Trump y el repunte de la derecha en Latinoamérica: ¿cómo queda Lula en pleno año electoral?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260629-trump-y-el-repunte-de-la-derecha-en-latinoam%C3%A9rica-c%C3%B3mo-queda-lula-en-pleno-a%C3%B1o-electoral",
-      "source": "France 24",
-      "pubDate": "Mon, 29 Jun 2026 02:34:15 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Álvaro Uribe: ‘El Centro Democrático está presto a ayudar al gobierno de Abelardo de la Espriella’",
@@ -91,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-ordena-al-comite-anticorrupcion-impulsar-acciones-juridicas-por-presuntos-vinculos-del-gobierno-y-el-clan-del-golfo-3567669",
       "source": "El Tiempo",
       "pubDate": "2026-06-28T11:17:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los cambios que vienen con Abelardo De la Espriella como presidente y los mensajes detrás de sus primeras decisiones",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-cambios-que-vienen-con-abelardo-de-la-espriella-como-presidente-y-los-mensajes-detras-de-sus-primeras-decisiones-3567570",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-27T22:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
