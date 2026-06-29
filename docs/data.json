@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T11:08:14.404Z",
+  "updatedAt": "2026-06-29T15:54:41.170Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Economía completó la colocación del Bonar 2028 y tiene casi todos los dólares para el vencimiento del 9 de julio",
+      "link": "https://www.infobae.com/economia/2026/06/29/economia-completo-la-colocacion-del-bonar-2028-y-tiene-casi-todos-los-dolares-para-el-vencimiento-del-9-de-julio/",
+      "source": "Infobae",
+      "pubDate": "Mon, 29 Jun 2026 15:43:38 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "La observación electoral fue fundamental en las elecciones presidenciales de 2026 en Colombia",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-observacion-electoral-fue-fundamental-en-las-elecciones-presidenciales-de-2026-en-colombia-3567717",
       "source": "El Tiempo",
@@ -89,14 +97,6 @@
     {
       "title": "Los cambios que vienen con Abelardo De la Espriella como presidente y los mensajes detrás de sus primeras decisiones",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/los-cambios-que-vienen-con-abelardo-de-la-espriella-como-presidente-y-los-mensajes-detras-de-sus-primeras-decisiones-3567570",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-27T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "‘No habrá transacciones ocultas; relación con el Congreso será por encima de la mesa’: Rodrigo Lara, ministro del Interior del nuevo gobierno",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/no-habra-transacciones-ocultas-relacion-con-el-congreso-sera-por-encima-de-la-mesa-rodrigo-lara-ministro-del-interior-del-nuevo-gobierno-3567566",
       "source": "El Tiempo",
       "pubDate": "2026-06-27T22:01:00-05:00",
       "candidateId": "abelardo_espriella",
