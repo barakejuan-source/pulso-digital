@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-29T18:12:39.359Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-06-29T21:39:34.805Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,8 +18,8 @@
       "youtubeViews": 15903,
       "finalScore": 42,
       "momentum": {
-        "value": -6.7,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 51.2
     },
@@ -47,20 +47,60 @@
   ],
   "articles": [
     {
-      "title": "Economía completó la colocación del Bonar 2028 y ya tiene casi todos los dólares para pagar el vencimiento del 9 de julio",
-      "link": "https://www.infobae.com/economia/2026/06/29/economia-completo-la-colocacion-del-bonar-2028-y-ya-tiene-casi-todos-los-dolares-para-pagar-el-vencimiento-del-9-de-julio/",
-      "source": "Infobae",
-      "pubDate": "Mon, 29 Jun 2026 17:45:39 +0000",
+      "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
+      "link": "https://www.bbc.com/mundo/articles/ckg7n0r4evpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 29 Jun 2026 21:26:31 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Gustavo Petro salió en respaldo de Karol G por carta a Abelardo de la Espriella: “Te invitan a ser manada, nunca lo aceptes” ",
-      "link": "https://www.infobae.com/colombia/2026/06/29/gustavo-petro-salio-en-respaldo-de-karol-g-por-carta-a-abelardo-de-la-espriella-te-invitan-a-ser-manada-nunca-lo-aceptes/",
+      "title": "Así votaron las regiones y el extranjero en la segunda vuelta 2026: el voto fuera del Perú terminó inclinando el triunfo de Keiko Fujimori",
+      "link": "https://www.infobae.com/peru/2026/06/29/asi-votaron-las-regiones-y-el-extranjero-en-la-segunda-vuelta-2026-el-voto-fuera-del-peru-termino-inclinando-el-triunfo-de-keiko-fujimori/",
       "source": "Infobae",
-      "pubDate": "Mon, 29 Jun 2026 17:35:34 +0000",
+      "pubDate": "Mon, 29 Jun 2026 21:04:20 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "A Abelardo De la Espriella le tocará solucionar los malos cálculos que hizo Gustavo Petro con nueva reforma: “Como La estrategia del caracol”",
+      "link": "https://www.infobae.com/colombia/2026/06/29/a-abelardo-de-la-espriella-le-tocara-solucionar-los-malos-calculos-que-hizo-gustavo-petro-con-nueva-reforma-como-la-estrategia-del-caracol/",
+      "source": "Infobae",
+      "pubDate": "Mon, 29 Jun 2026 20:49:45 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "ONPE al 100%: Voto a voto así ganó Keiko Fujimori a Roberto Sánchez la elección de la presidencia de Perú",
+      "link": "https://www.infobae.com/peru/2026/06/29/onpe-al-100-voto-a-voto-asi-gano-keiko-fujimori-a-roberto-sanchez-la-eleccion-de-la-presidencia-de-peru/",
+      "source": "Infobae",
+      "pubDate": "Mon, 29 Jun 2026 20:32:58 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Keiko Fujimori, la cuarta sí es la vencida: claves de una reñida victoria y su futuro mandato en Perú",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260629-keiko-fujimori-la-cuarta-s%C3%AD-es-la-vencida-claves-de-una-re%C3%B1ida-victoria-y-el-futuro-mandato-en-per%C3%BA",
+      "source": "France 24",
+      "pubDate": "Mon, 29 Jun 2026 20:30:25 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Keiko Fujimori es la presidenta electa de Perú, concluye el escrutinio del balotaje",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260629-keiko-fujimori-es-la-presidenta-electa-de-per%C3%BA-concluye-el-escrutinio-del-balotaje",
+      "source": "France 24",
+      "pubDate": "Mon, 29 Jun 2026 20:22:12 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Keiko Fujimori es la presidenta electa de Perú, concluye el escrutinio del balotaje",
+      "link": "https://www.france24.com/es/minuto-a-minuto/20260629-keiko-fujimori-es-la-presidenta-electa-de-per%C3%BA-concluye-el-escrutinio-del-balotaje",
+      "source": "France 24",
+      "pubDate": "Mon, 29 Jun 2026 20:16:47 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "La observación electoral fue fundamental en las elecciones presidenciales de 2026 en Colombia",
