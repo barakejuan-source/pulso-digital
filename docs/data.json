@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T14:27:53.003Z",
+  "updatedAt": "2026-06-30T18:00:45.577Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,20 +47,84 @@
   ],
   "articles": [
     {
-      "title": "¿Cuándo empieza oficialmente el gobierno de Keiko Fujimori? Estos son los pasos que faltan tras el conteo al 100%",
-      "link": "https://www.infobae.com/peru/2026/06/30/cuando-empieza-oficialmente-el-gobierno-de-keiko-fujimori-estos-son-los-pasos-que-faltan-tras-el-conteo-al-100/",
+      "title": "Laura Sarabia presentó su renuncia irrevocable como embajadora de Colombia en el Reino Unido: saldrá de su cargo cuando se posesione Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/06/30/laura-sarabia-presento-su-renuncia-irrevocable-como-embajadora-de-colombia-en-el-reino-unido-saldra-de-su-cargo-cuando-se-posesione-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Tue, 30 Jun 2026 14:14:15 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Empalmes regionales y anuncio de denuncia ante el Departamento de Estado de EE. UU.: claves del discurso de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/empalmes-regionales-y-anuncio-de-denuncia-ante-el-departamento-de-estado-de-ee-uu-claves-del-discurso-de-abelardo-de-la-espriella-3567855",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-29T22:35:00-05:00",
+      "pubDate": "Tue, 30 Jun 2026 17:56:04 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gabinete de Abelardo de la Espriella envió duro mensaje a Iván Cepeda por promover la desobediencia civil: “Hay que respetar la democracia”",
+      "link": "https://www.infobae.com/colombia/2026/06/30/gabinete-de-abelardo-de-la-espriella-envio-duro-mensaje-a-ivan-cepeda-por-promover-la-desobediencia-civil-hay-que-respetar-la-democracia/",
+      "source": "Infobae",
+      "pubDate": "Tue, 30 Jun 2026 17:54:49 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "José Jaime Uscátegui pidió al gobierno electo revisar contrato de escudo antidrones antes de comprometer $800.000 millones",
+      "link": "https://www.infobae.com/colombia/2026/06/30/jose-jaime-uscategui-pidio-al-gobierno-electo-revisar-contrato-de-escudo-antidrones-antes-de-comprometer-800000-millones/",
+      "source": "Infobae",
+      "pubDate": "Tue, 30 Jun 2026 17:53:14 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Políticos cuestionaron anuncio de Iván Cepeda de declarar una ‘desobediencia civil’ contra Abelardo de la Espriella: “Un mecanismo de extorsión”",
+      "link": "https://www.infobae.com/colombia/2026/06/30/politicos-cuestionaron-anuncio-de-ivan-cepeda-de-declarar-una-desobediencia-civil-contra-abelardo-de-la-espriella-un-mecanismo-de-extorsion/",
+      "source": "Infobae",
+      "pubDate": "Tue, 30 Jun 2026 17:50:17 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Equipo de empalme de Abelardo de la Espriella ya sostuvo un primer encuentro para definir prioridades; aún no hay cita con el gobierno Petro",
+      "link": "https://www.eltiempo.com/politica/gobierno/equipo-de-empalme-de-abelardo-de-la-espriella-ya-sostuvo-un-primer-encuentro-para-definir-prioridades-aun-no-hay-cita-con-el-gobierno-petro-3567955",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-30T12:46:38-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Rodrigo Lara responde a Iván Cepeda tras anuncio de desobediencia civil: 'Hay que respetar la voluntad del pueblo'",
+      "link": "https://www.eltiempo.com/politica/rodrigo-lara-responde-a-ivan-cepeda-tras-anuncio-de-desobediencia-civil-hay-que-respetar-la-voluntad-del-pueblo-3567979",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-30T12:34:45-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Vicepresidente electo José Manuel Restrepo responde al llamado de desobediencia civil de Iván Cepeda: 'hay que respetar la democracia'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/vicepresidente-electo-jose-manuel-restrepo-responde-al-llamado-de-desobediencia-civil-de-ivan-cepeda-hay-que-respetar-la-democracia-3567959",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-30T11:54:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "José Manuel Restrepo asegura que se priorizarán 22 sectores para identificar casos de corrupción en el empalme con el gobierno Petro",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/jose-manuel-restrepo-asegura-que-se-han-identificado-problematicas-de-corrupcion-en-22-sectores-de-cara-al-empalme-con-el-gobierno-petro-3567949",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-30T11:45:14-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abecé: ¿en qué consiste el empalme entre el gobierno de Gustavo Petro y el de Abelardo De la Espriella?",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abece-en-que-consiste-el-empalme-entre-el-gobierno-de-gustavo-petro-y-el-de-abelardo-de-la-espriella-3567942",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-30T11:17:50-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda, en el inicio de su oposición, advierte que acudirá a la desobediencia civil si De la Espriella no cumple sus exigencias y aclaraciones",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-en-el-inicio-de-su-oposicion-advierte-que-acudira-a-la-desobediencia-civil-si-de-la-espriella-no-cumple-sus-exigencias-y-aclaraciones-3567922",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-30T10:06:56-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "‘Nuevo gobierno recibirá un país con una economía criminal desbordada’: Marta Lucía Ramírez | La entrevista de María Isabel Rueda",
@@ -71,66 +135,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella, presidente electo, anuncia empalmes territoriales para 'recuperar la confianza' en las regiones",
-      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-presidente-electo-anuncia-empalmes-territoriales-para-recuperar-la-confianza-en-las-regiones-3567856",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-29T22:30:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente electo Abelardo de la Espriella presentó el balance de la situación económica del país: 'Es grave'",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-electo-abelardo-de-la-espriella-presento-el-balance-de-la-situacion-economica-del-pais-la-situacion-es-grave-3567849",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-29T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella, presidente electo, agradece al BID el apoyo de 60 millones de dólares para la transición de gobierno",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-agradece-al-bid-el-apoyo-de-60-millones-de-dolares-para-la-transicion-de-gobierno-3567835",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-29T20:58:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "¿Qué necesita Keiko Fujimori para que su Gobierno dure?",
       "link": "https://www.france24.com/es/video/20260630-qu%C3%A9-necesita-keiko-fujimori-para-que-su-gobierno-si-dure",
       "source": "France 24",
       "pubDate": "Tue, 30 Jun 2026 01:09:50 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo de la Espriella, presidente electo de Colombia, sostuvo llamada con Keiko Fujimori tras su victoria en Perú: 'Vamos a estrechar los lazos'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-de-colombia-sostuvo-llamada-con-keiko-fujimori-tras-su-victoria-en-peru-vamos-a-estrechar-los-lazos-3567813",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-29T19:58:31-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De la Espriella, presidente electo, envía señales de recomposición de relación entre Gobierno Nacional y las regiones",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-envia-senales-de-recomposicion-de-relacion-entre-gobierno-nacional-y-las-regiones-3567830",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-29T19:19:35-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Informe desde Lima: Keiko Fujimori es la presidenta electa de Perú",
-      "link": "https://www.france24.com/es/video/20260629-informe-desde-lima-keiko-fujimori-es-la-presidenta-electa-de-per%C3%BA",
-      "source": "France 24",
-      "pubDate": "Mon, 29 Jun 2026 21:30:23 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
-      "link": "https://www.bbc.com/mundo/articles/ckg7n0r4evpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 29 Jun 2026 21:26:31 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
