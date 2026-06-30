@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T11:18:34.916Z",
+  "updatedAt": "2026-06-30T14:27:53.003Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "¿Cuándo empieza oficialmente el gobierno de Keiko Fujimori? Estos son los pasos que faltan tras el conteo al 100%",
+      "link": "https://www.infobae.com/peru/2026/06/30/cuando-empieza-oficialmente-el-gobierno-de-keiko-fujimori-estos-son-los-pasos-que-faltan-tras-el-conteo-al-100/",
+      "source": "Infobae",
+      "pubDate": "Tue, 30 Jun 2026 14:14:15 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "Empalmes regionales y anuncio de denuncia ante el Departamento de Estado de EE. UU.: claves del discurso de Abelardo de la Espriella",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/empalmes-regionales-y-anuncio-de-denuncia-ante-el-departamento-de-estado-de-ee-uu-claves-del-discurso-de-abelardo-de-la-espriella-3567855",
@@ -123,22 +131,6 @@
       "link": "https://www.bbc.com/mundo/articles/ckg7n0r4evpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
       "pubDate": "Mon, 29 Jun 2026 21:26:31 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Keiko Fujimori, la cuarta sí es la vencida: claves de una reñida victoria y su futuro mandato en Perú",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260629-keiko-fujimori-la-cuarta-s%C3%AD-es-la-vencida-claves-de-una-re%C3%B1ida-victoria-y-el-futuro-mandato-en-per%C3%BA",
-      "source": "France 24",
-      "pubDate": "Mon, 29 Jun 2026 20:30:25 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Keiko Fujimori es la presidenta electa de Perú, concluye el escrutinio del balotaje",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260629-keiko-fujimori-es-la-presidenta-electa-de-per%C3%BA-concluye-el-escrutinio-del-balotaje",
-      "source": "France 24",
-      "pubDate": "Mon, 29 Jun 2026 20:22:12 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
