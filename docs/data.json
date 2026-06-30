@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T18:00:45.577Z",
+  "updatedAt": "2026-06-30T20:12:42.522Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,36 +47,36 @@
   ],
   "articles": [
     {
-      "title": "Laura Sarabia presentó su renuncia irrevocable como embajadora de Colombia en el Reino Unido: saldrá de su cargo cuando se posesione Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/06/30/laura-sarabia-presento-su-renuncia-irrevocable-como-embajadora-de-colombia-en-el-reino-unido-saldra-de-su-cargo-cuando-se-posesione-abelardo-de-la-espriella/",
+      "title": "La verdadera segunda vuelta de la inclusión LGBTIQ+ ocurre dentro de las empresas",
+      "link": "https://www.infobae.com/peru/2026/06/30/la-verdadera-segunda-vuelta-de-la-inclusion-lgbtiq-ocurre-dentro-de-las-empresas/",
       "source": "Infobae",
-      "pubDate": "Tue, 30 Jun 2026 17:56:04 +0000",
+      "pubDate": "Tue, 30 Jun 2026 20:02:52 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones 2026: Porcentaje de ausentismo bajó con respecto a los comicios de 2021",
+      "link": "https://www.infobae.com/peru/2026/06/30/elecciones-2026-porcentaje-de-ausentismo-bajo-con-respecto-a-los-comicios-de-2021/",
+      "source": "Infobae",
+      "pubDate": "Tue, 30 Jun 2026 19:44:52 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Mandatarios latinoamericanos felicitan a Keiko Fujimori por ganar presidencia del Perú en segunda vuelta",
+      "link": "https://www.infobae.com/peru/2026/06/30/presidentes-latinoamericanos-felicitan-a-keiko-fujimori-por-su-eleccion-como-presidenta-del-peru/",
+      "source": "Infobae",
+      "pubDate": "Tue, 30 Jun 2026 19:40:50 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Primera ministra de Japón felicita a Abelardo De la Espriella y reafirma interés en fortalecer relaciones con Colombia",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/primera-ministra-de-japon-felicita-a-abelardo-de-la-espriella-y-reafirma-interes-en-fortalecer-relaciones-con-colombia-3567994",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-30T13:19:25-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gabinete de Abelardo de la Espriella envió duro mensaje a Iván Cepeda por promover la desobediencia civil: “Hay que respetar la democracia”",
-      "link": "https://www.infobae.com/colombia/2026/06/30/gabinete-de-abelardo-de-la-espriella-envio-duro-mensaje-a-ivan-cepeda-por-promover-la-desobediencia-civil-hay-que-respetar-la-democracia/",
-      "source": "Infobae",
-      "pubDate": "Tue, 30 Jun 2026 17:54:49 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "José Jaime Uscátegui pidió al gobierno electo revisar contrato de escudo antidrones antes de comprometer $800.000 millones",
-      "link": "https://www.infobae.com/colombia/2026/06/30/jose-jaime-uscategui-pidio-al-gobierno-electo-revisar-contrato-de-escudo-antidrones-antes-de-comprometer-800000-millones/",
-      "source": "Infobae",
-      "pubDate": "Tue, 30 Jun 2026 17:53:14 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Políticos cuestionaron anuncio de Iván Cepeda de declarar una ‘desobediencia civil’ contra Abelardo de la Espriella: “Un mecanismo de extorsión”",
-      "link": "https://www.infobae.com/colombia/2026/06/30/politicos-cuestionaron-anuncio-de-ivan-cepeda-de-declarar-una-desobediencia-civil-contra-abelardo-de-la-espriella-un-mecanismo-de-extorsion/",
-      "source": "Infobae",
-      "pubDate": "Tue, 30 Jun 2026 17:50:17 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Equipo de empalme de Abelardo de la Espriella ya sostuvo un primer encuentro para definir prioridades; aún no hay cita con el gobierno Petro",
@@ -127,18 +127,10 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "‘Nuevo gobierno recibirá un país con una economía criminal desbordada’: Marta Lucía Ramírez | La entrevista de María Isabel Rueda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/nuevo-gobierno-recibira-un-pais-con-una-economia-criminal-desbordada-marta-lucia-ramirez-la-entrevista-de-maria-isabel-rueda-3567820",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-29T22:30:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Qué necesita Keiko Fujimori para que su Gobierno dure?",
-      "link": "https://www.france24.com/es/video/20260630-qu%C3%A9-necesita-keiko-fujimori-para-que-su-gobierno-si-dure",
-      "source": "France 24",
-      "pubDate": "Tue, 30 Jun 2026 01:09:50 GMT",
+      "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
+      "link": "https://www.bbc.com/mundo/articles/ckg7n0r4evpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 29 Jun 2026 21:26:31 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
