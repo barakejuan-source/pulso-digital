@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-30T20:12:42.522Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-06-30T23:17:55.913Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 27,
+      "trendsScore": 18,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 42,
+      "finalScore": 38,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -9.5,
+        "direction": "down"
       },
-      "probability": 51.2
+      "probability": 48.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,33 +42,57 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 48.8
+      "probability": 51.3
     }
   ],
   "articles": [
     {
-      "title": "La verdadera segunda vuelta de la inclusión LGBTIQ+ ocurre dentro de las empresas",
-      "link": "https://www.infobae.com/peru/2026/06/30/la-verdadera-segunda-vuelta-de-la-inclusion-lgbtiq-ocurre-dentro-de-las-empresas/",
+      "title": "Petro denunció maniobra política de Abelardo de la Espriella en el empalme y advirtió intento de deslegitimar su gestión por avances sociales",
+      "link": "https://www.infobae.com/colombia/2026/06/30/petro-denuncio-maniobra-politica-de-abelardo-de-la-espriella-en-el-empalme-y-advirtio-intento-de-deslegitimar-su-gestion-por-avances-sociales/",
       "source": "Infobae",
-      "pubDate": "Tue, 30 Jun 2026 20:02:52 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Tue, 30 Jun 2026 23:01:59 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Elecciones 2026: Porcentaje de ausentismo bajó con respecto a los comicios de 2021",
-      "link": "https://www.infobae.com/peru/2026/06/30/elecciones-2026-porcentaje-de-ausentismo-bajo-con-respecto-a-los-comicios-de-2021/",
+      "title": "Empalme de Gobierno: confirman fecha y hora para el encuentro entre José Manuel Restrepo y Germán Ávila",
+      "link": "https://www.infobae.com/colombia/2026/06/30/empalme-de-gobierno-confirman-fecha-y-hora-para-el-encuentro-entre-jose-manuel-restrepo-y-german-avila/",
       "source": "Infobae",
-      "pubDate": "Tue, 30 Jun 2026 19:44:52 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Tue, 30 Jun 2026 22:43:12 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Mandatarios latinoamericanos felicitan a Keiko Fujimori por ganar presidencia del Perú en segunda vuelta",
-      "link": "https://www.infobae.com/peru/2026/06/30/presidentes-latinoamericanos-felicitan-a-keiko-fujimori-por-su-eleccion-como-presidenta-del-peru/",
+      "title": "Abelardo de la Espriella designó a Miguel Gómez Martínez como ministro de Hacienda de su gobierno",
+      "link": "https://www.infobae.com/colombia/2026/06/30/abelardo-de-la-espriella-designo-a-miguel-gomez-martinez-como-ministro-de-hacienda-de-su-gobierno/",
       "source": "Infobae",
-      "pubDate": "Tue, 30 Jun 2026 19:40:50 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Tue, 30 Jun 2026 22:38:09 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ministro de Hacienda, Germán Ávila, citó al equipo de Abelardo de la Espriella para iniciar el plan de empalme el próximo jueves en la Casa de Nariño",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ministro-de-hacienda-german-avila-cito-al-equipo-de-abelardo-de-la-espriella-para-iniciar-el-plan-de-empalme-el-proximo-jueves-en-la-casa-de-narino-3568024",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-30T15:55:38-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Las primeras diez señales del gobierno de “El Tigre”",
+      "link": "https://www.lasillavacia.com/silla-nacional/las-primeras-diez-senales-del-gobierno-de-el-tigre/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 30 Jun 2026 20:54:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así avanza el empalme del gobierno de Gustavo Petro con el equipo del presidente electo, Abelardo de la Espriella: esta semana se dará la primera cita",
+      "link": "https://www.eltiempo.com/politica/gobierno/asi-avanza-el-empalme-del-gobierno-de-gustavo-petro-con-el-equipo-del-presidente-electo-abelardo-de-la-espriella-esta-semana-se-dara-la-primera-cita-3567986",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-30T15:07:59-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Primera ministra de Japón felicita a Abelardo De la Espriella y reafirma interés en fortalecer relaciones con Colombia",
@@ -117,22 +141,6 @@
       "pubDate": "2026-06-30T11:17:50-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda, en el inicio de su oposición, advierte que acudirá a la desobediencia civil si De la Espriella no cumple sus exigencias y aclaraciones",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-en-el-inicio-de-su-oposicion-advierte-que-acudira-a-la-desobediencia-civil-si-de-la-espriella-no-cumple-sus-exigencias-y-aclaraciones-3567922",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-30T10:06:56-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
-      "link": "https://www.bbc.com/mundo/articles/ckg7n0r4evpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 29 Jun 2026 21:26:31 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
