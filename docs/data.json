@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T03:59:21.182Z",
+  "updatedAt": "2026-06-30T08:00:46.645Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -50,7 +50,7 @@
       "title": "Empalmes regionales y anuncio de denuncia ante el Departamento de Estado de EE. UU.: claves del discurso de Abelardo de la Espriella",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/empalmes-regionales-y-anuncio-de-denuncia-ante-el-departamento-de-estado-de-ee-uu-claves-del-discurso-de-abelardo-de-la-espriella-3567855",
       "source": "El Tiempo",
-      "pubDate": "2026-06-29T22:34:15-05:00",
+      "pubDate": "2026-06-29T22:35:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,31 +66,15 @@
       "title": "Abelardo de la Espriella, presidente electo, anuncia empalmes territoriales para 'recuperar la confianza' en las regiones",
       "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-presidente-electo-anuncia-empalmes-territoriales-para-recuperar-la-confianza-en-las-regiones-3567856",
       "source": "El Tiempo",
-      "pubDate": "2026-06-29T22:26:53-05:00",
+      "pubDate": "2026-06-29T22:30:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Líderes latinoamericanos felicitan a Fujimori tras ganar en Perú la segunda vuelta de las presidenciales",
-      "link": "https://www.infobae.com/america/agencias/2026/06/30/lideres-latinoamericanos-felicitan-a-fujimori-tras-ganar-en-peru-la-segunda-vuelta-de-las-presidenciales/",
-      "source": "Infobae",
-      "pubDate": "Tue, 30 Jun 2026 03:15:45 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Presidente electo Abelardo de la Espriella presentó el balance de la situación económica del país: 'Es grave'",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-electo-abelardo-de-la-espriella-presento-el-balance-de-la-situacion-economica-del-pais-la-situacion-es-grave-3567849",
       "source": "El Tiempo",
-      "pubDate": "2026-06-29T21:59:53-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Rodrigo Lara Restrepo destapó cómo será el empalme con Petro y lanzó fuerte advertencia al Congreso: “No habrá acuerdos oscuros”",
-      "link": "https://www.infobae.com/colombia/2026/06/30/rodrigo-lara-restrepo-destapo-como-sera-el-empalme-con-petro-y-lanzo-fuerte-advertencia-al-congreso-no-habra-acuerdos-oscuros/",
-      "source": "Infobae",
-      "pubDate": "Tue, 30 Jun 2026 02:45:57 +0000",
+      "pubDate": "2026-06-29T22:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -139,6 +123,22 @@
       "link": "https://www.bbc.com/mundo/articles/ckg7n0r4evpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
       "pubDate": "Mon, 29 Jun 2026 21:26:31 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Keiko Fujimori, la cuarta sí es la vencida: claves de una reñida victoria y su futuro mandato en Perú",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260629-keiko-fujimori-la-cuarta-s%C3%AD-es-la-vencida-claves-de-una-re%C3%B1ida-victoria-y-el-futuro-mandato-en-per%C3%BA",
+      "source": "France 24",
+      "pubDate": "Mon, 29 Jun 2026 20:30:25 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Keiko Fujimori es la presidenta electa de Perú, concluye el escrutinio del balotaje",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260629-keiko-fujimori-es-la-presidenta-electa-de-per%C3%BA-concluye-el-escrutinio-del-balotaje",
+      "source": "France 24",
+      "pubDate": "Mon, 29 Jun 2026 20:22:12 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
