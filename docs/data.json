@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T16:30:51.470Z",
+  "updatedAt": "2026-07-01T20:02:23.023Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Qué significa la desobediencia civil a la que Iván Cepeda acudiría si no se cumplen sus condiciones para la posesión de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/07/01/que-significa-la-desobediencia-civil-a-la-que-ivan-cepeda-acudiria-si-no-se-cumplen-sus-condiciones-para-la-posesion-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Wed, 01 Jul 2026 16:26:41 +0000",
+      "title": "Sánchez recurrirá a la CIDH por las elecciones en Perú, que se prepara para proclamar a Keiko Fujimori",
+      "link": "https://www.france24.com/es/europa/20260701-s%C3%A1nchez-recurrir%C3%A1-a-la-cidh-por-las-elecciones-en-per%C3%BA-que-se-prepara-para-proclamar-a-keiko-fujimori",
+      "source": "France 24",
+      "pubDate": "Wed, 01 Jul 2026 18:32:33 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Así va quedando el gabinete del presidente electo Abelardo de la Espriella: ministro del Interior y otras carteras anunciadas",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-va-quedando-el-gabinete-del-presidente-electo-abelardo-de-la-espriella-ministro-del-interior-y-otras-carteras-anunciadas-3568243",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-01T12:43:04-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Empalme de Gobierno de Abelardo de la Espriella: conozca los nombres claves y las últimas noticias",
+      "link": "https://www.eltiempo.com/politica/gobierno/empalme-de-gobierno-de-abelardo-de-la-espriella-conozca-los-nombres-claves-y-las-ultimas-noticias-3568237",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-01T12:27:54-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "José Manuel Restrepo califica de \"vergonzoso\" el llamado de Iván Cepeda a la desobediencia civil porque desconoce la institucionalidad",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/jose-manuel-restrepo-califica-de-vergonzoso-el-llamado-de-ivan-cepeda-a-la-desobediencia-civil-porque-desconoce-la-institucionalidad-3568246",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-01T11:40:57-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -71,52 +95,12 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Así pinta el gobierno de Abelardo como amigo de Trump",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/asi-pinta-el-gobierno-de-abelardo-como-amigo-de-trump/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 01 Jul 2026 12:12:45 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "¿El Presidente de Colombia puede tener doble nacionalidad? Abelardo de la Espriella fue demandado y el CNE zanjó la polémica y resolvió las dudas",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-presidente-de-colombia-puede-tener-doble-nacionalidad-abelardo-de-la-espriella-fue-demandado-y-el-cne-zanjo-la-polemica-y-resolvio-las-dudas-3568150",
       "source": "El Tiempo",
       "pubDate": "2026-07-01T07:10:16-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Video | Presidente electo Abelardo de la Espriella presentó al nuevo ministro de Hacienda de su Gobierno, Miguel Gómez: 'Nueva disciplina fiscal'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/video-presidente-electo-abelardo-de-la-espriella-presento-al-nuevo-ministro-de-hacienda-de-su-gobierno-comienza-una-etapa-de-disciplina-fiscal-3568114",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-01T06:12:39-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Las regiones arrancan el empalme tras anuncio de presidente electo, Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-regiones-arrancan-el-empalme-tras-anuncio-de-presidente-electo-abelardo-de-la-espriella-3568127",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-30T21:04:08-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así reaccionan diferentes sectores al nombramiento de Miguel Gómez Martínez como ministro de Hacienda del gobierno de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-reaccionan-diferentes-sectores-al-nombramiento-de-miguel-gomez-martinez-como-ministro-de-hacienda-del-gobierno-de-abelardo-de-la-espriella-3568103",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-30T20:38:30-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ministro de Hacienda, Germán Ávila, citó al equipo de Abelardo de la Espriella para iniciar el plan de empalme el próximo jueves en la Casa de Nariño",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ministro-de-hacienda-german-avila-cito-al-equipo-de-abelardo-de-la-espriella-para-iniciar-el-plan-de-empalme-el-proximo-jueves-en-la-casa-de-narino-3568024",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-30T15:55:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
