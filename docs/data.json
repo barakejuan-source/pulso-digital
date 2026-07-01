@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T20:02:23.023Z",
+  "updatedAt": "2026-07-01T23:21:02.435Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,28 +47,44 @@
   ],
   "articles": [
     {
+      "title": "Ernesto Samper propuso solución para acabar con la “guerra” mediática entre Gustavo Petro y Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/01/ernesto-samper-propuso-solucion-para-acabar-con-la-guerra-mediatica-entre-gustavo-petro-y-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Wed, 01 Jul 2026 22:52:41 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Empalme de Gobierno de Abelardo de la Espriella: se conoce solicitud formal para la instalación inmediata del proceso y 'la transición presidencial'",
+      "link": "https://www.eltiempo.com/politica/gobierno/empalme-de-gobierno-de-abelardo-de-la-espriella-conozca-los-nombres-claves-y-las-ultimas-noticias-3568237",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-01T17:37:10-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Arranca empalme entre equipos de Abelardo De la Espriella y Gustavo Petro: piden que las reuniones sean grabadas y transmitidas",
+      "link": "https://www.eltiempo.com/politica/gobierno/arranca-empalme-entre-equipos-de-abelardo-de-la-espriella-y-gustavo-petro-piden-que-las-reuniones-sean-grabadas-y-transmitidas-3568206",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-01T17:32:07-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así va quedando el gabinete del presidente electo Abelardo de la Espriella: ministro del Interior y otras carteras anunciadas",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-va-quedando-el-gabinete-del-presidente-electo-abelardo-de-la-espriella-ministro-del-interior-y-otras-carteras-anunciadas-3568243",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-01T17:07:10-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Sánchez recurrirá a la CIDH por las elecciones en Perú, que se prepara para proclamar a Keiko Fujimori",
       "link": "https://www.france24.com/es/europa/20260701-s%C3%A1nchez-recurrir%C3%A1-a-la-cidh-por-las-elecciones-en-per%C3%BA-que-se-prepara-para-proclamar-a-keiko-fujimori",
       "source": "France 24",
       "pubDate": "Wed, 01 Jul 2026 18:32:33 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Así va quedando el gabinete del presidente electo Abelardo de la Espriella: ministro del Interior y otras carteras anunciadas",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-va-quedando-el-gabinete-del-presidente-electo-abelardo-de-la-espriella-ministro-del-interior-y-otras-carteras-anunciadas-3568243",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-01T12:43:04-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Empalme de Gobierno de Abelardo de la Espriella: conozca los nombres claves y las últimas noticias",
-      "link": "https://www.eltiempo.com/politica/gobierno/empalme-de-gobierno-de-abelardo-de-la-espriella-conozca-los-nombres-claves-y-las-ultimas-noticias-3568237",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-01T12:27:54-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "José Manuel Restrepo califica de \"vergonzoso\" el llamado de Iván Cepeda a la desobediencia civil porque desconoce la institucionalidad",
