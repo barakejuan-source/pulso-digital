@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T23:17:55.913Z",
+  "updatedAt": "2026-07-01T04:14:33.030Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 18,
+      "trendsScore": 11,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 38,
+      "finalScore": 36,
       "momentum": {
-        "value": -9.5,
-        "direction": "down"
+        "value": -5.3,
+        "direction": "flat"
       },
-      "probability": 48.7
+      "probability": 47.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,47 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.3
+      "probability": 52.6
     }
   ],
   "articles": [
     {
-      "title": "Petro denunció maniobra política de Abelardo de la Espriella en el empalme y advirtió intento de deslegitimar su gestión por avances sociales",
-      "link": "https://www.infobae.com/colombia/2026/06/30/petro-denuncio-maniobra-politica-de-abelardo-de-la-espriella-en-el-empalme-y-advirtio-intento-de-deslegitimar-su-gestion-por-avances-sociales/",
-      "source": "Infobae",
-      "pubDate": "Tue, 30 Jun 2026 23:01:59 +0000",
+      "title": "Las regiones arrancan el empalme tras anuncio de presidente electo, Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-regiones-arrancan-el-empalme-tras-anuncio-de-presidente-electo-abelardo-de-la-espriella-3568127",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-30T21:04:08-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Empalme de Gobierno: confirman fecha y hora para el encuentro entre José Manuel Restrepo y Germán Ávila",
-      "link": "https://www.infobae.com/colombia/2026/06/30/empalme-de-gobierno-confirman-fecha-y-hora-para-el-encuentro-entre-jose-manuel-restrepo-y-german-avila/",
-      "source": "Infobae",
-      "pubDate": "Tue, 30 Jun 2026 22:43:12 +0000",
+      "title": "Video | Presidente electo Abelardo de la Espriella presentó al nuevo ministro de Hacienda de su Gobierno, Miguel Gómez: 'Nueva disciplina fiscal'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/video-presidente-electo-abelardo-de-la-espriella-presento-al-nuevo-ministro-de-hacienda-de-su-gobierno-comienza-una-etapa-de-disciplina-fiscal-3568114",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-30T20:56:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella designó a Miguel Gómez Martínez como ministro de Hacienda de su gobierno",
-      "link": "https://www.infobae.com/colombia/2026/06/30/abelardo-de-la-espriella-designo-a-miguel-gomez-martinez-como-ministro-de-hacienda-de-su-gobierno/",
-      "source": "Infobae",
-      "pubDate": "Tue, 30 Jun 2026 22:38:09 +0000",
+      "title": "Así reaccionan diferentes sectores al nombramiento de Miguel Gómez Martínez como ministro de Hacienda del gobierno de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-reaccionan-diferentes-sectores-al-nombramiento-de-miguel-gomez-martinez-como-ministro-de-hacienda-del-gobierno-de-abelardo-de-la-espriella-3568103",
+      "source": "El Tiempo",
+      "pubDate": "2026-06-30T20:38:30-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La cuarta es la vencida: Keiko Fujimori es la nueva presidenta electa",
+      "link": "https://www.france24.com/es/video/20260630-la-cuarta-es-la-vencida-keiko-fujimori-es-la-nueva-presidenta-electa",
+      "source": "France 24",
+      "pubDate": "Tue, 30 Jun 2026 23:39:02 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Ministro de Hacienda, Germán Ávila, citó al equipo de Abelardo de la Espriella para iniciar el plan de empalme el próximo jueves en la Casa de Nariño",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ministro-de-hacienda-german-avila-cito-al-equipo-de-abelardo-de-la-espriella-para-iniciar-el-plan-de-empalme-el-proximo-jueves-en-la-casa-de-narino-3568024",
       "source": "El Tiempo",
       "pubDate": "2026-06-30T15:55:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Las primeras diez señales del gobierno de “El Tigre”",
-      "link": "https://www.lasillavacia.com/silla-nacional/las-primeras-diez-senales-del-gobierno-de-el-tigre/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 30 Jun 2026 20:54:56 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -127,20 +127,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "José Manuel Restrepo asegura que se priorizarán 22 sectores para identificar casos de corrupción en el empalme con el gobierno Petro",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/jose-manuel-restrepo-asegura-que-se-han-identificado-problematicas-de-corrupcion-en-22-sectores-de-cara-al-empalme-con-el-gobierno-petro-3567949",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-30T11:45:14-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abecé: ¿en qué consiste el empalme entre el gobierno de Gustavo Petro y el de Abelardo De la Espriella?",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abece-en-que-consiste-el-empalme-entre-el-gobierno-de-gustavo-petro-y-el-de-abelardo-de-la-espriella-3567942",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-30T11:17:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
+      "link": "https://www.bbc.com/mundo/articles/ckg7n0r4evpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 29 Jun 2026 21:26:31 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
