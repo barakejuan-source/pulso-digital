@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T09:56:27.225Z",
+  "updatedAt": "2026-07-01T12:37:57.999Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,42 @@
   ],
   "articles": [
     {
+      "title": "El Tribunal Superior de Bogotá negó una tutela que cuestionaba la posesión presidencial de Abelardo de la Espriella por su doble nacionalidad",
+      "link": "https://www.infobae.com/colombia/2026/07/01/el-tribunal-superior-de-bogota-nego-una-tutela-que-cuestionaba-la-posesion-presidencial-de-abelardo-de-la-espriella-por-su-doble-nacionalidad/",
+      "source": "Infobae",
+      "pubDate": "Wed, 01 Jul 2026 12:30:42 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Expresidente Iván Duque podría tener importante cargo en el gobierno de Abelardo de la Espriella: de qué se trataría ",
+      "link": "https://www.infobae.com/colombia/2026/07/01/expresidente-ivan-duque-podria-tener-importante-cargo-en-el-gobierno-de-abelardo-de-la-espriella-de-que-se-trataria/",
+      "source": "Infobae",
+      "pubDate": "Wed, 01 Jul 2026 12:17:21 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así pinta el gobierno de Abelardo como amigo de Trump",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/asi-pinta-el-gobierno-de-abelardo-como-amigo-de-trump/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 01 Jul 2026 12:12:45 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿El Presidente de Colombia puede tener doble nacionalidad? Abelardo de la Espriella fue demandado y el CNE zanjó la polémica y resolvió las dudas",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-presidente-de-colombia-puede-tener-doble-nacionalidad-abelardo-de-la-espriella-fue-demandado-y-el-cne-zanjo-la-polemica-y-resolvio-las-dudas-3568150",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-01T07:10:16-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
       "title": "Video | Presidente electo Abelardo de la Espriella presentó al nuevo ministro de Hacienda de su Gobierno, Miguel Gómez: 'Nueva disciplina fiscal'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/video-presidente-electo-abelardo-de-la-espriella-presento-al-nuevo-ministro-de-hacienda-de-su-gobierno-comienza-una-etapa-de-disciplina-fiscal-3568114",
       "source": "El Tiempo",
-      "pubDate": "2026-06-30T23:46:49-05:00",
+      "pubDate": "2026-07-01T06:12:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -109,22 +141,6 @@
       "pubDate": "2026-06-30T12:34:45-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Vicepresidente electo José Manuel Restrepo responde al llamado de desobediencia civil de Iván Cepeda: 'hay que respetar la democracia'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/vicepresidente-electo-jose-manuel-restrepo-responde-al-llamado-de-desobediencia-civil-de-ivan-cepeda-hay-que-respetar-la-democracia-3567959",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-30T11:54:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
-      "link": "https://www.bbc.com/mundo/articles/ckg7n0r4evpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 29 Jun 2026 21:26:31 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
