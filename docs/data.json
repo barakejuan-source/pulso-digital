@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T12:37:57.999Z",
+  "updatedAt": "2026-07-01T16:30:51.470Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,20 +47,28 @@
   ],
   "articles": [
     {
-      "title": "El Tribunal Superior de Bogotá negó una tutela que cuestionaba la posesión presidencial de Abelardo de la Espriella por su doble nacionalidad",
-      "link": "https://www.infobae.com/colombia/2026/07/01/el-tribunal-superior-de-bogota-nego-una-tutela-que-cuestionaba-la-posesion-presidencial-de-abelardo-de-la-espriella-por-su-doble-nacionalidad/",
+      "title": "Qué significa la desobediencia civil a la que Iván Cepeda acudiría si no se cumplen sus condiciones para la posesión de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/01/que-significa-la-desobediencia-civil-a-la-que-ivan-cepeda-acudiria-si-no-se-cumplen-sus-condiciones-para-la-posesion-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Wed, 01 Jul 2026 12:30:42 +0000",
+      "pubDate": "Wed, 01 Jul 2026 16:26:41 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Xi Jinping, presidente de China, felicita a Abelardo de la Espriella por su elección como presidente de Colombia",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/xi-jinping-presidente-de-china-felicita-a-abelardo-de-la-espriella-por-su-eleccion-como-presidente-de-colombia-3568202",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-01T10:08:10-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Expresidente Iván Duque podría tener importante cargo en el gobierno de Abelardo de la Espriella: de qué se trataría ",
-      "link": "https://www.infobae.com/colombia/2026/07/01/expresidente-ivan-duque-podria-tener-importante-cargo-en-el-gobierno-de-abelardo-de-la-espriella-de-que-se-trataria/",
-      "source": "Infobae",
-      "pubDate": "Wed, 01 Jul 2026 12:17:21 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "En Bogotá, Cepeda consolidó el estrato 3 en segunda vuelta y casi duplicó su ventaja, pero De la Espriella conservó la clase media por el estrato 4",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/en-bogota-cepeda-consolido-el-estrato-3-en-segunda-vuelta-y-casi-duplico-su-ventaja-pero-de-la-espriella-conservo-la-clase-media-por-el-estrato-3567289",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-01T09:26:51-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Así pinta el gobierno de Abelardo como amigo de Trump",
@@ -103,14 +111,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "La cuarta es la vencida: Keiko Fujimori es la nueva presidenta electa",
-      "link": "https://www.france24.com/es/video/20260630-la-cuarta-es-la-vencida-keiko-fujimori-es-la-nueva-presidenta-electa",
-      "source": "France 24",
-      "pubDate": "Tue, 30 Jun 2026 23:39:02 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Ministro de Hacienda, Germán Ávila, citó al equipo de Abelardo de la Espriella para iniciar el plan de empalme el próximo jueves en la Casa de Nariño",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ministro-de-hacienda-german-avila-cito-al-equipo-de-abelardo-de-la-espriella-para-iniciar-el-plan-de-empalme-el-proximo-jueves-en-la-casa-de-narino-3568024",
       "source": "El Tiempo",
@@ -119,28 +119,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Así avanza el empalme del gobierno de Gustavo Petro con el equipo del presidente electo, Abelardo de la Espriella: esta semana se dará la primera cita",
-      "link": "https://www.eltiempo.com/politica/gobierno/asi-avanza-el-empalme-del-gobierno-de-gustavo-petro-con-el-equipo-del-presidente-electo-abelardo-de-la-espriella-esta-semana-se-dara-la-primera-cita-3567986",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-30T15:07:59-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Primera ministra de Japón felicita a Abelardo De la Espriella y reafirma interés en fortalecer relaciones con Colombia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/primera-ministra-de-japon-felicita-a-abelardo-de-la-espriella-y-reafirma-interes-en-fortalecer-relaciones-con-colombia-3567994",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-30T13:19:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Rodrigo Lara responde a Iván Cepeda tras anuncio de desobediencia civil: 'Hay que respetar la voluntad del pueblo'",
-      "link": "https://www.eltiempo.com/politica/rodrigo-lara-responde-a-ivan-cepeda-tras-anuncio-de-desobediencia-civil-hay-que-respetar-la-voluntad-del-pueblo-3567979",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-30T12:34:45-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
+      "link": "https://www.bbc.com/mundo/articles/ckg7n0r4evpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 29 Jun 2026 21:26:31 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
