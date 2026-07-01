@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T04:14:33.030Z",
+  "updatedAt": "2026-07-01T09:56:27.225Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 15903,
       "finalScore": 36,
       "momentum": {
-        "value": -5.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 47.4
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Las regiones arrancan el empalme tras anuncio de presidente electo, Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-regiones-arrancan-el-empalme-tras-anuncio-de-presidente-electo-abelardo-de-la-espriella-3568127",
+      "title": "Video | Presidente electo Abelardo de la Espriella presentó al nuevo ministro de Hacienda de su Gobierno, Miguel Gómez: 'Nueva disciplina fiscal'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/video-presidente-electo-abelardo-de-la-espriella-presento-al-nuevo-ministro-de-hacienda-de-su-gobierno-comienza-una-etapa-de-disciplina-fiscal-3568114",
       "source": "El Tiempo",
-      "pubDate": "2026-06-30T21:04:08-05:00",
+      "pubDate": "2026-06-30T23:46:49-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Video | Presidente electo Abelardo de la Espriella presentó al nuevo ministro de Hacienda de su Gobierno, Miguel Gómez: 'Nueva disciplina fiscal'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/video-presidente-electo-abelardo-de-la-espriella-presento-al-nuevo-ministro-de-hacienda-de-su-gobierno-comienza-una-etapa-de-disciplina-fiscal-3568114",
+      "title": "Las regiones arrancan el empalme tras anuncio de presidente electo, Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/las-regiones-arrancan-el-empalme-tras-anuncio-de-presidente-electo-abelardo-de-la-espriella-3568127",
       "source": "El Tiempo",
-      "pubDate": "2026-06-30T20:56:21-05:00",
+      "pubDate": "2026-06-30T21:04:08-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -99,14 +99,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/primera-ministra-de-japon-felicita-a-abelardo-de-la-espriella-y-reafirma-interes-en-fortalecer-relaciones-con-colombia-3567994",
       "source": "El Tiempo",
       "pubDate": "2026-06-30T13:19:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Equipo de empalme de Abelardo de la Espriella ya sostuvo un primer encuentro para definir prioridades; aún no hay cita con el gobierno Petro",
-      "link": "https://www.eltiempo.com/politica/gobierno/equipo-de-empalme-de-abelardo-de-la-espriella-ya-sostuvo-un-primer-encuentro-para-definir-prioridades-aun-no-hay-cita-con-el-gobierno-petro-3567955",
-      "source": "El Tiempo",
-      "pubDate": "2026-06-30T12:46:38-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
