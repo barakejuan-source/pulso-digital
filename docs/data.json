@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-02T17:53:52.160Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-02T19:36:53.139Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Defensores de la Patria radicó solicitud al CNE para obtener su personería jurídica tras victoria de Abelardo de la Espriella: ya asignaron magistrado",
-      "link": "https://www.infobae.com/colombia/2026/07/02/defensores-de-la-patria-radico-solicitud-al-cne-para-obtener-su-personeria-juridica-tras-victoria-de-abelardo-de-la-espriella-ya-asignaron-magistrado/",
-      "source": "Infobae",
-      "pubDate": "Thu, 02 Jul 2026 17:31:45 +0000",
+      "title": "Presidente Gustavo Petro dice que empalme con gobierno de Abelardo de la Espriella se transmita por televisión",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-propone-que-empalme-con-gobierno-de-abelardo-de-la-espriella-se-transmita-por-television-3568546",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-02T13:57:47-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,14 +59,6 @@
       "link": "https://www.france24.com/es/video/20260702-directo-latam-y-el-proceso-de-empalme-presidencial-en-colombia",
       "source": "France 24",
       "pubDate": "Thu, 02 Jul 2026 17:08:42 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Empalme de Gobierno de Abelardo de la Espriella: acaba la primera reunión entre José Manuel Restrepo y ministro de Hacienda, Germán Ávila",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/empalme-de-gobierno-de-abelardo-de-la-espriella-el-presidente-electo-presento-cuatro-objetivos-del-proceso-entre-ellos-combatir-la-corrupcion-3568413",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-02T11:04:29-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -93,14 +85,6 @@
       "pubDate": "Thu, 02 Jul 2026 12:33:39 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "José Manuel Restrepo: 'Va a ser un empalme siempre en el marco de la ley'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/jose-manuel-restrepo-va-a-ser-un-empalme-siempre-en-el-marco-de-la-ley-3568393",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-01T21:13:26-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
