@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T03:55:18.194Z",
+  "updatedAt": "2026-07-02T07:36:56.863Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Denuncian a la gobernadora del Cesar ante la Procuraduría y el CNE por presunto apoyo político a Abelardo De La Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/02/denuncian-a-la-gobernadora-del-cesar-ante-la-procuraduria-y-el-cne-por-presunto-apoyo-politico-a-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Thu, 02 Jul 2026 06:18:49 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Empalme de Gobierno de Abelardo de la Espriella: se dio inicio formal al proceso con el objetivo de 'garantizar una transición transparente'",
       "link": "https://www.eltiempo.com/politica/gobierno/empalme-de-gobierno-de-abelardo-de-la-espriella-conozca-los-nombres-claves-y-las-ultimas-noticias-3568237",
