@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-01T23:21:02.435Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-02T03:55:18.194Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Ernesto Samper propuso solución para acabar con la “guerra” mediática entre Gustavo Petro y Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/07/01/ernesto-samper-propuso-solucion-para-acabar-con-la-guerra-mediatica-entre-gustavo-petro-y-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Wed, 01 Jul 2026 22:52:41 +0000",
+      "title": "Empalme de Gobierno de Abelardo de la Espriella: se dio inicio formal al proceso con el objetivo de 'garantizar una transición transparente'",
+      "link": "https://www.eltiempo.com/politica/gobierno/empalme-de-gobierno-de-abelardo-de-la-espriella-conozca-los-nombres-claves-y-las-ultimas-noticias-3568237",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-01T22:16:35-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Empalme de Gobierno de Abelardo de la Espriella: se conoce solicitud formal para la instalación inmediata del proceso y 'la transición presidencial'",
-      "link": "https://www.eltiempo.com/politica/gobierno/empalme-de-gobierno-de-abelardo-de-la-espriella-conozca-los-nombres-claves-y-las-ultimas-noticias-3568237",
+      "title": "Vélez por la mañana | Enrique Gómez se refirió al empalme del Gobierno de Abelardo de la Espriella y a los recientes nombramientos: 'Hace bien'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/velez-por-la-manana-enrique-gomez-se-refirio-al-empalme-del-gobierno-de-abelardo-de-la-espriella-y-a-los-recientes-nombramientos-hace-bien-3568262",
       "source": "El Tiempo",
-      "pubDate": "2026-07-01T17:37:10-05:00",
+      "pubDate": "2026-07-01T21:26:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "José Manuel Restrepo: 'Va a ser un empalme siempre en el marco de la ley'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/jose-manuel-restrepo-va-a-ser-un-empalme-siempre-en-el-marco-de-la-ley-3568393",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-01T21:13:26-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -79,42 +87,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Sánchez recurrirá a la CIDH por las elecciones en Perú, que se prepara para proclamar a Keiko Fujimori",
-      "link": "https://www.france24.com/es/europa/20260701-s%C3%A1nchez-recurrir%C3%A1-a-la-cidh-por-las-elecciones-en-per%C3%BA-que-se-prepara-para-proclamar-a-keiko-fujimori",
-      "source": "France 24",
-      "pubDate": "Wed, 01 Jul 2026 18:32:33 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "José Manuel Restrepo califica de \"vergonzoso\" el llamado de Iván Cepeda a la desobediencia civil porque desconoce la institucionalidad",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/jose-manuel-restrepo-califica-de-vergonzoso-el-llamado-de-ivan-cepeda-a-la-desobediencia-civil-porque-desconoce-la-institucionalidad-3568246",
       "source": "El Tiempo",
       "pubDate": "2026-07-01T11:40:57-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Xi Jinping, presidente de China, felicita a Abelardo de la Espriella por su elección como presidente de Colombia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/xi-jinping-presidente-de-china-felicita-a-abelardo-de-la-espriella-por-su-eleccion-como-presidente-de-colombia-3568202",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-01T10:08:10-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "En Bogotá, Cepeda consolidó el estrato 3 en segunda vuelta y casi duplicó su ventaja, pero De la Espriella conservó la clase media por el estrato 4",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/en-bogota-cepeda-consolido-el-estrato-3-en-segunda-vuelta-y-casi-duplico-su-ventaja-pero-de-la-espriella-conservo-la-clase-media-por-el-estrato-3567289",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-01T09:26:51-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿El Presidente de Colombia puede tener doble nacionalidad? Abelardo de la Espriella fue demandado y el CNE zanjó la polémica y resolvió las dudas",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-presidente-de-colombia-puede-tener-doble-nacionalidad-abelardo-de-la-espriella-fue-demandado-y-el-cne-zanjo-la-polemica-y-resolvio-las-dudas-3568150",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-01T07:10:16-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
