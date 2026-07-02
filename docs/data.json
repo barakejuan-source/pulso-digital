@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T14:10:45.148Z",
+  "updatedAt": "2026-07-02T17:53:52.160Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,10 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Ministro de Hacienda designado por Abelardo de la Espriella dio indicios sobre el aumento del salario mínimo para 2027: “Debe crecer con la productividad”",
-      "link": "https://www.infobae.com/colombia/2026/07/02/miguel-gomez-martinez-dio-indicios-sobre-lo-que-seria-el-aumento-del-salario-minimo-para-2027-debe-crecer-con-la-productividad/",
+      "title": "Defensores de la Patria radicó solicitud al CNE para obtener su personería jurídica tras victoria de Abelardo de la Espriella: ya asignaron magistrado",
+      "link": "https://www.infobae.com/colombia/2026/07/02/defensores-de-la-patria-radico-solicitud-al-cne-para-obtener-su-personeria-juridica-tras-victoria-de-abelardo-de-la-espriella-ya-asignaron-magistrado/",
       "source": "Infobae",
-      "pubDate": "Thu, 02 Jul 2026 13:53:34 +0000",
+      "pubDate": "Thu, 02 Jul 2026 17:31:45 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Directo Latam y el proceso de empalme presidencial en Colombia",
+      "link": "https://www.france24.com/es/video/20260702-directo-latam-y-el-proceso-de-empalme-presidencial-en-colombia",
+      "source": "France 24",
+      "pubDate": "Thu, 02 Jul 2026 17:08:42 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Empalme de Gobierno de Abelardo de la Espriella: acaba la primera reunión entre José Manuel Restrepo y ministro de Hacienda, Germán Ávila",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/empalme-de-gobierno-de-abelardo-de-la-espriella-el-presidente-electo-presento-cuatro-objetivos-del-proceso-entre-ellos-combatir-la-corrupcion-3568413",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-02T11:04:29-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Salud, paz y territorio: los retos constitucionales que juristas colombianos le marcan al gobierno de Abelardo De la Espriella",
+      "link": "https://www.eltiempo.com/politica/salud-paz-y-territorio-los-retos-constitucionales-que-juristas-colombianos-le-marcan-al-gobierno-de-abelardo-de-la-espriella-3568497",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-02T10:49:37-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -71,34 +95,10 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Empalme de Gobierno de Abelardo de la Espriella: a las 10 de la mañana será la reunión entre el vicepresidente electo y ministro de Hacienda saliente",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/empalme-de-gobierno-de-abelardo-de-la-espriella-el-presidente-electo-presento-cuatro-objetivos-del-proceso-entre-ellos-combatir-la-corrupcion-3568413",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-02T07:03:31-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Vélez por la mañana | Enrique Gómez se refirió al empalme del Gobierno de Abelardo de la Espriella y a los recientes nombramientos: 'Hace bien'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/velez-por-la-manana-enrique-gomez-se-refirio-al-empalme-del-gobierno-de-abelardo-de-la-espriella-y-a-los-recientes-nombramientos-hace-bien-3568262",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-01T21:26:05-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "José Manuel Restrepo: 'Va a ser un empalme siempre en el marco de la ley'",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/jose-manuel-restrepo-va-a-ser-un-empalme-siempre-en-el-marco-de-la-ley-3568393",
       "source": "El Tiempo",
       "pubDate": "2026-07-01T21:13:26-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Arranca empalme entre equipos de Abelardo De la Espriella y Gustavo Petro: piden que las reuniones sean grabadas y transmitidas",
-      "link": "https://www.eltiempo.com/politica/gobierno/arranca-empalme-entre-equipos-de-abelardo-de-la-espriella-y-gustavo-petro-piden-que-las-reuniones-sean-grabadas-y-transmitidas-3568206",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-01T17:32:07-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
