@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T21:13:23.617Z",
+  "updatedAt": "2026-07-02T23:12:47.791Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,20 +47,28 @@
   ],
   "articles": [
     {
-      "title": "Congreso deriva caso de Rafael López Aliaga al JNE para que tome decisión final sobre improcedencia de su candidatura",
-      "link": "https://www.infobae.com/peru/2026/07/02/congreso-deriva-caso-de-rafael-lopez-aliaga-al-jne-para-que-tome-decision-final-sobre-improcedencia-de-su-candidatura/",
-      "source": "Infobae",
-      "pubDate": "Thu, 02 Jul 2026 21:00:58 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Martha Carvajalino respondió a las acusaciones de Indalecio Dangond sobre corrupción: “No lograrán enlodar la gestión que hicimos”",
-      "link": "https://www.infobae.com/colombia/2026/07/02/martha-carvajalino-respondio-a-las-acusaciones-de-indalecio-dangond-sobre-corrupcion-no-lograran-enlodar-la-gestion-que-hicimos/",
-      "source": "Infobae",
-      "pubDate": "Thu, 02 Jul 2026 21:00:06 +0000",
+      "title": "Abelardo de la Espriella, presidente electo, designa a Fabio Arjona Hincapié como ministro de Ambiente",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-designa-a-fabio-arjona-hincapie-como-ministro-de-ambiente-3568630",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-02T18:10:42-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El abogado Iván Cancino sería el nuevo ministro de Justicia del Gobierno de Abelardo de la Espriella ",
+      "link": "https://www.infobae.com/colombia/2026/07/02/el-abogado-ivan-cancino-seria-el-nuevo-ministro-de-justicia-del-gobierno-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Thu, 02 Jul 2026 22:38:53 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Carlos Carrillo llamó “lavaperros de la mafia” a De la Espriella y aseguró que su Gobierno no podrá “destripar a media Colombia”",
+      "link": "https://www.infobae.com/colombia/2026/07/02/carlos-carrillo-llamo-lavaperros-de-la-mafia-a-de-la-espriella-y-aseguro-que-su-gobierno-no-podra-destripar-a-media-colombia/",
+      "source": "Infobae",
+      "pubDate": "Thu, 02 Jul 2026 22:35:26 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Presidente Gustavo Petro dice que empalme con gobierno de Abelardo de la Espriella se transmita por televisión",
