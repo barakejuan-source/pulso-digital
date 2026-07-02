@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-02T07:36:56.863Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-02T10:45:35.668Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 11,
+      "trendsScore": 9,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 36,
+      "finalScore": 35,
       "momentum": {
-        "value": 0,
+        "value": -2.8,
         "direction": "flat"
       },
-      "probability": 47.4
+      "probability": 46.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,15 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.6
+      "probability": 53.3
     }
   ],
   "articles": [
     {
-      "title": "Denuncian a la gobernadora del Cesar ante la Procuraduría y el CNE por presunto apoyo político a Abelardo De La Espriella",
-      "link": "https://www.infobae.com/colombia/2026/07/02/denuncian-a-la-gobernadora-del-cesar-ante-la-procuraduria-y-el-cne-por-presunto-apoyo-politico-a-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Thu, 02 Jul 2026 06:18:49 +0000",
+      "title": "Empalme de Gobierno de Abelardo de la Espriella: el presidente electo presentó cuatro objetivos del proceso, entre ellos 'combatir la corrupción'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/empalme-de-gobierno-de-abelardo-de-la-espriella-el-presidente-electo-presento-cuatro-objetivos-del-proceso-entre-ellos-combatir-la-corrupcion-3568413",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-02T04:19:59-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -93,14 +93,6 @@
       "pubDate": "2026-07-01T17:07:10-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "José Manuel Restrepo califica de \"vergonzoso\" el llamado de Iván Cepeda a la desobediencia civil porque desconoce la institucionalidad",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/jose-manuel-restrepo-califica-de-vergonzoso-el-llamado-de-ivan-cepeda-a-la-desobediencia-civil-porque-desconoce-la-institucionalidad-3568246",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-01T11:40:57-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
