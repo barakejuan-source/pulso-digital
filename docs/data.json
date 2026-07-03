@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-03T07:25:51.395Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-03T10:41:23.952Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 7,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 35,
+      "finalScore": 34,
       "momentum": {
-        "value": 0,
+        "value": -2.9,
         "direction": "flat"
       },
-      "probability": 46.7
+      "probability": 45.9
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,26 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 53.3
+      "probability": 54.1
     }
   ],
   "articles": [
+    {
+      "title": "Empalme de Gobierno de Abelardo de la Espriella: hoy viernes 3 de julio, a las 10:00 a. m., está citada la segunda reunión oficial en Palacio",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/empalme-de-gobierno-de-abelardo-de-la-espriella-hoy-viernes-3-de-julio-a-las-10-00-a-m-esta-citada-la-segunda-reunion-oficial-en-palacio-3568701",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-03T04:15:55-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Flávio Bolsonaro pide cancelar la entrada en vigor de aranceles de EE. UU. a Brasil",
+      "link": "https://www.france24.com/es/video/20260703-fl%C3%A1vio-bolsonaro-pide-cancelar-la-entrada-en-vigor-de-aranceles-de-ee-uu-a-brasil",
+      "source": "France 24",
+      "pubDate": "Fri, 03 Jul 2026 05:22:14 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "Carta al presidente electo Abelardo de la Espriella de Julio César Turbay Quintero",
       "link": "https://www.eltiempo.com/politica/carta-al-presidente-electo-abelardo-de-la-espriella-de-julio-cesar-turbay-quintero-3568675",
@@ -91,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-propone-que-empalme-con-gobierno-de-abelardo-de-la-espriella-se-transmita-por-television-3568546",
       "source": "El Tiempo",
       "pubDate": "2026-07-02T13:57:47-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Salud, paz y territorio: los retos constitucionales que juristas colombianos le marcan al gobierno de Abelardo De la Espriella",
-      "link": "https://www.eltiempo.com/politica/salud-paz-y-territorio-los-retos-constitucionales-que-juristas-colombianos-le-marcan-al-gobierno-de-abelardo-de-la-espriella-3568497",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-02T10:49:37-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
