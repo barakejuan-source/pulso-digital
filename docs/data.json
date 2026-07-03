@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-03T10:41:23.952Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-03T14:15:45.877Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 15903,
       "finalScore": 34,
       "momentum": {
-        "value": -2.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 45.9
@@ -47,10 +47,74 @@
   ],
   "articles": [
     {
-      "title": "Empalme de Gobierno de Abelardo de la Espriella: hoy viernes 3 de julio, a las 10:00 a. m., está citada la segunda reunión oficial en Palacio",
+      "title": "La Procuraduría investigará al concejal Andrés Felipe Rodríguez por solicitar que bombardearan zonas en las que ganó Iván Cepeda",
+      "link": "https://www.infobae.com/colombia/2026/07/03/la-procuraduria-investigara-al-concejal-andres-felipe-rodriguez-por-solicitar-que-bombardearan-zonas-en-las-que-gano-ivan-cepeda/",
+      "source": "Infobae",
+      "pubDate": "Fri, 03 Jul 2026 13:59:28 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Le proponen a Abelardo de la Espriella acoger ‘la hora Gaviria’ para contener efectos de apagón: adelantar el reloj del país una hora",
+      "link": "https://www.eltiempo.com/politica/gobierno/le-proponen-a-abelardo-de-la-espriella-acoger-la-hora-gaviria-para-contener-efectos-de-apagon-adelantar-el-reloj-del-pais-una-hora-3568715",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-03T08:53:38-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Empalme de Gobierno de Abelardo de la Espriella: Yesenia Olaya señaló que empalme del Ministerio de Ciencia será grabado; hoy habrá nueva reunión",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/empalme-de-gobierno-de-abelardo-de-la-espriella-hoy-viernes-3-de-julio-a-las-10-00-a-m-esta-citada-la-segunda-reunion-oficial-en-palacio-3568701",
       "source": "El Tiempo",
-      "pubDate": "2026-07-03T04:15:55-05:00",
+      "pubDate": "2026-07-03T08:48:51-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Abelardo de la Espriella se posesionará en una guarnición militar? José Manuel Restrepo dio detalles sobre el evento del próximo 7 de agosto",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-seria-posesion-del-presidente-electo-abelardo-de-la-espriella-el-proximo-7-de-agosto-habria-cambio-de-lugar-esto-dijo-jose-manuel-restrepo-3568707",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-03T08:20:03-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "MOE pide que Congreso tramite ley estatutaria sobre participación en política de funcionarios para delimitar alcance de la figura tras elecciones 2026",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/moe-pide-que-congreso-tramite-ley-estatutaria-sobre-participacion-en-politica-de-funcionarios-para-delimitar-alcance-de-la-figura-tras-elecciones-3568724",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-03T08:00:17-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Cómo será el aumento del salario mínimo en el gobierno del presidente electo Abelardo de la Espriella? Esto dijo el futuro ministro de Hacienda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/como-se-definira-el-salario-minimo-en-el-gobierno-de-abelardo-de-la-espriella-esto-dijo-el-futuro-ministro-de-hacienda-3568708",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-03T07:33:49-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Desayune informado con las claves de este 3 de julio de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-3-de-julio-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 03 Jul 2026 12:27:36 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "\"Si De la Espriella intenta acabar con conquistas sociales, vendrá una reacción de la población en Colombia y se hará sentir la oposición política\": entrevista a Iván Cepeda, excandidato presidencial",
+      "link": "https://www.bbc.com/mundo/articles/cjrgqn5gnpno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Fri, 03 Jul 2026 11:27:47 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Qué viene para el empalme de transición entre el gobierno electo de Abelardo de la Espriella y saliente de Gustavo Petro?",
+      "link": "https://www.eltiempo.com/politica/gobierno/que-viene-para-el-empalme-de-transicion-entre-el-gobierno-electo-de-abelardo-de-la-espriella-y-saliente-de-gustavo-petro-3568589",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-03T06:10:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -71,52 +135,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "¿Qué viene para el empalme de transición entre el gobierno electo de Abelardo de la Espriella y saliente de Gustavo Petro?",
-      "link": "https://www.eltiempo.com/politica/gobierno/que-viene-para-el-empalme-de-transicion-entre-el-gobierno-electo-de-abelardo-de-la-espriella-y-saliente-de-gustavo-petro-3568589",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-02T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Fabio Arjona Hincapié será el ministro de Ambiente del gobierno de Abelardo de la Espriella: así reaccionan diferentes sectores al nombramiento",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fabio-arjona-hincapie-sera-el-ministro-de-ambiente-del-gobierno-de-abelardo-de-la-espriella-asi-reaccionan-diferentes-sectores-al-nombramiento-3568679",
       "source": "El Tiempo",
       "pubDate": "2026-07-02T21:37:28-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Crecen las voces de rechazo al llamado de desobediencia civil hecho por el senador Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/crecen-las-voces-de-rechazo-al-llamado-de-desobediencia-civil-hecho-por-el-senador-ivan-cepeda-3568600",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-02T21:14:13-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo de la Espriella, presidente electo, designa a Fabio Arjona Hincapié como ministro de Ambiente",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-designa-a-fabio-arjona-hincapie-como-ministro-de-ambiente-3568630",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-02T19:18:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Gustavo Petro dice que empalme con gobierno de Abelardo de la Espriella se transmita por televisión",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-propone-que-empalme-con-gobierno-de-abelardo-de-la-espriella-se-transmita-por-television-3568546",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-02T13:57:47-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
-      "link": "https://www.bbc.com/mundo/articles/ckg7n0r4evpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 29 Jun 2026 21:26:31 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
