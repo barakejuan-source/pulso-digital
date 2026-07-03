@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T17:37:22.959Z",
+  "updatedAt": "2026-07-03T19:29:01.548Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,28 +47,20 @@
   ],
   "articles": [
     {
-      "title": "Con enfrentamiento avanzó empalme del Gobierno Petro y el equipo de Abelardo de la Espriella, liderado por José Manuel Restrepo: “No se trataba de hacer un show mediático” ",
-      "link": "https://www.infobae.com/colombia/2026/07/03/con-enfrentamiento-avanzo-empalme-del-gobierno-petro-y-el-equipo-de-abelardo-de-la-espriella-liderado-por-jose-manuel-restrepo-no-se-trataba-de-hacer-un-show-mediatico/",
-      "source": "Infobae",
-      "pubDate": "Fri, 03 Jul 2026 17:17:39 +0000",
+      "title": "Abelardo de la Espriella plantea que todos paguen el servicio militar: 'Necesitamos gente que se ponga las botas por el país'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-plantea-que-todos-paguen-el-servicio-militar-necesitamos-gente-que-se-ponga-las-botas-por-el-pais-3568831",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-03T14:11:35-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Petro revivió las teorías de fraude en la segunda vuelta presidencial: “Estoy terminando un informe que será entregado a la justicia”",
-      "link": "https://www.infobae.com/colombia/2026/07/03/petro-revivio-las-teorias-de-fraude-en-la-segunda-vuelta-presidencial-estoy-terminando-un-informe-que-sera-entregado-a-la-justicia/",
-      "source": "Infobae",
-      "pubDate": "Fri, 03 Jul 2026 17:03:35 +0000",
+      "title": "El fujimorismo regresa al poder tras 26 años: Keiko Fujimori es proclamada oficialmente presidenta electa de Perú",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260703-el-fujimorismo-regresa-al-poder-tras-26-a%C3%B1os-keiko-fujimori-es-proclamada-oficialmente-presidenta-electa-de-per%C3%BA",
+      "source": "France 24",
+      "pubDate": "Fri, 03 Jul 2026 18:57:48 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Gustavo Petro pidió ayuda a Donald Trump para ser retirado de la Lista Clinton: “Me prometió actuar en el tema”",
-      "link": "https://www.infobae.com/colombia/2026/07/03/gustavo-petro-pidio-ayuda-a-donald-trump-para-ser-retirado-de-la-lista-clinton-no-sabia-que-mi-familia-y-yo-estabamos-en-la-lista/",
-      "source": "Infobae",
-      "pubDate": "Fri, 03 Jul 2026 17:03:19 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Abelardo de la Espriella sostiene llamada con el presidente de Israel: este es el primer acercamiento entre países tras ruptura diplomática con Petro",
@@ -111,22 +103,6 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "¿Cómo será el aumento del salario mínimo en el gobierno del presidente electo Abelardo de la Espriella? Esto dijo el futuro ministro de Hacienda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/como-se-definira-el-salario-minimo-en-el-gobierno-de-abelardo-de-la-espriella-esto-dijo-el-futuro-ministro-de-hacienda-3568708",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-03T07:33:49-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desayune informado con las claves de este 3 de julio de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-3-de-julio-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 03 Jul 2026 12:27:36 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "\"Si De la Espriella intenta acabar con conquistas sociales, vendrá una reacción de la población en Colombia y se hará sentir la oposición política\": entrevista a Iván Cepeda, excandidato presidencial",
       "link": "https://www.bbc.com/mundo/articles/cjrgqn5gnpno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
@@ -135,10 +111,10 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Flávio Bolsonaro pide cancelar la entrada en vigor de aranceles de EE. UU. a Brasil",
-      "link": "https://www.france24.com/es/video/20260703-fl%C3%A1vio-bolsonaro-pide-cancelar-la-entrada-en-vigor-de-aranceles-de-ee-uu-a-brasil",
-      "source": "France 24",
-      "pubDate": "Fri, 03 Jul 2026 05:22:14 GMT",
+      "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
+      "link": "https://www.bbc.com/mundo/articles/ckg7n0r4evpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 29 Jun 2026 21:26:31 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
