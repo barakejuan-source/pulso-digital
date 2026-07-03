@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T03:37:17.012Z",
+  "updatedAt": "2026-07-03T07:25:51.395Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Carta al presidente electo Abelardo de la Espriella de Julio César Turbay Quintero",
+      "link": "https://www.eltiempo.com/politica/carta-al-presidente-electo-abelardo-de-la-espriella-de-julio-cesar-turbay-quintero-3568675",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-02T23:10:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "¿Qué viene para el empalme de transición entre el gobierno electo de Abelardo de la Espriella y saliente de Gustavo Petro?",
       "link": "https://www.eltiempo.com/politica/gobierno/que-viene-para-el-empalme-de-transicion-entre-el-gobierno-electo-de-abelardo-de-la-espriella-y-saliente-de-gustavo-petro-3568589",
