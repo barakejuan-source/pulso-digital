@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T21:12:12.142Z",
+  "updatedAt": "2026-07-03T23:09:07.052Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 6,
+      "trendsScore": 8,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Miguel Gómez Martínez, ministro de Hacienda de Abelardo de la Espriella, impulsó una asamblea constituyente en 2012",
-      "link": "https://www.infobae.com/colombia/2026/07/03/miguel-gomez-martinez-ministro-de-hacienda-de-abelardo-de-la-espriella-impulso-una-asamblea-constituyente-en-2012/",
+      "title": "Presidente electo Abelardo de la Espriella se refirió al servicio militar y afirmó que 'Colombia se merece un mejor futuro'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-refirio-al-servicio-militar-y-afirmo-que-colombia-se-merece-un-mejor-futuro-3568831",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-03T17:22:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Exmagistrado del CNE denunció amenaza de muerte contra él y su familia y envió duro mensaje a Abelardo de la Espriella: “Lo hago responsable”",
+      "link": "https://www.infobae.com/colombia/2026/07/03/exmagistrado-del-cne-denuncio-amenaza-de-muerte-contra-el-y-su-familia-y-envio-duro-mensaje-a-abelardo-de-la-espriella-lo-hago-responsable/",
       "source": "Infobae",
-      "pubDate": "Fri, 03 Jul 2026 21:04:51 +0000",
+      "pubDate": "Fri, 03 Jul 2026 22:20:20 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,7 +66,7 @@
       "title": "Germán Ávila aseguró que la información recolectada por el equipo de empalme de Abelardo de la Espriella es “bastante deficiente”",
       "link": "https://www.infobae.com/colombia/2026/07/03/german-avila-aseguro-que-la-informacion-recolectada-por-el-equipo-de-empalme-de-abelardo-de-la-espriella-es-bastante-deficiente/",
       "source": "Infobae",
-      "pubDate": "Fri, 03 Jul 2026 20:29:40 +0000",
+      "pubDate": "Fri, 03 Jul 2026 22:01:21 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,15 +74,7 @@
       "title": "Gustavo Petro no se reunirá con Abelardo de la Espriella, según José Manuel Restrepo: “No existe ninguna posibilidad”",
       "link": "https://www.infobae.com/colombia/2026/07/03/gustavo-petro-no-se-reunira-con-abelardo-de-la-espriella-segun-jose-manuel-restrepo-no-existe-ninguna-posibilidad/",
       "source": "Infobae",
-      "pubDate": "Fri, 03 Jul 2026 20:15:46 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella plantea que todos paguen el servicio militar: 'Necesitamos gente que se ponga las botas por el país'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-plantea-que-todos-paguen-el-servicio-militar-necesitamos-gente-que-se-ponga-las-botas-por-el-pais-3568831",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-03T14:11:35-05:00",
+      "pubDate": "Fri, 03 Jul 2026 21:44:46 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -107,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/estas-son-las-principales-cabezas-del-equipo-de-empalme-del-presidente-electo-abelardo-de-la-espriella-3568312",
       "source": "El Tiempo",
       "pubDate": "2026-07-03T11:07:08-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Le proponen a Abelardo de la Espriella acoger la 'hora Gaviria' para contener efectos de un posible apagón en Colombia: adelantar el reloj una hora",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/le-proponen-a-abelardo-de-la-espriella-acoger-la-hora-gaviria-para-contener-efectos-de-apagon-adelantar-el-reloj-del-pais-una-hora-3568715",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-03T10:45:10-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
