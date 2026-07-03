@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-02T23:12:47.791Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-03T03:37:17.012Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,28 +47,36 @@
   ],
   "articles": [
     {
+      "title": "¿Qué viene para el empalme de transición entre el gobierno electo de Abelardo de la Espriella y saliente de Gustavo Petro?",
+      "link": "https://www.eltiempo.com/politica/gobierno/que-viene-para-el-empalme-de-transicion-entre-el-gobierno-electo-de-abelardo-de-la-espriella-y-saliente-de-gustavo-petro-3568589",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-02T22:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Fabio Arjona Hincapié será el ministro de Ambiente del gobierno de Abelardo de la Espriella: así reaccionan diferentes sectores al nombramiento",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fabio-arjona-hincapie-sera-el-ministro-de-ambiente-del-gobierno-de-abelardo-de-la-espriella-asi-reaccionan-diferentes-sectores-al-nombramiento-3568679",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-02T21:37:28-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Crecen las voces de rechazo al llamado de desobediencia civil hecho por el senador Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/crecen-las-voces-de-rechazo-al-llamado-de-desobediencia-civil-hecho-por-el-senador-ivan-cepeda-3568600",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-02T21:14:13-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
       "title": "Abelardo de la Espriella, presidente electo, designa a Fabio Arjona Hincapié como ministro de Ambiente",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-presidente-electo-designa-a-fabio-arjona-hincapie-como-ministro-de-ambiente-3568630",
       "source": "El Tiempo",
-      "pubDate": "2026-07-02T18:10:42-05:00",
+      "pubDate": "2026-07-02T19:18:50-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El abogado Iván Cancino sería el nuevo ministro de Justicia del Gobierno de Abelardo de la Espriella ",
-      "link": "https://www.infobae.com/colombia/2026/07/02/el-abogado-ivan-cancino-seria-el-nuevo-ministro-de-justicia-del-gobierno-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Thu, 02 Jul 2026 22:38:53 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Carlos Carrillo llamó “lavaperros de la mafia” a De la Espriella y aseguró que su Gobierno no podrá “destripar a media Colombia”",
-      "link": "https://www.infobae.com/colombia/2026/07/02/carlos-carrillo-llamo-lavaperros-de-la-mafia-a-de-la-espriella-y-aseguro-que-su-gobierno-no-podra-destripar-a-media-colombia/",
-      "source": "Infobae",
-      "pubDate": "Thu, 02 Jul 2026 22:35:26 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Presidente Gustavo Petro dice que empalme con gobierno de Abelardo de la Espriella se transmita por televisión",
@@ -79,26 +87,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Directo Latam y el proceso de empalme presidencial en Colombia",
-      "link": "https://www.france24.com/es/video/20260702-directo-latam-y-el-proceso-de-empalme-presidencial-en-colombia",
-      "source": "France 24",
-      "pubDate": "Thu, 02 Jul 2026 17:08:42 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Salud, paz y territorio: los retos constitucionales que juristas colombianos le marcan al gobierno de Abelardo De la Espriella",
       "link": "https://www.eltiempo.com/politica/salud-paz-y-territorio-los-retos-constitucionales-que-juristas-colombianos-le-marcan-al-gobierno-de-abelardo-de-la-espriella-3568497",
       "source": "El Tiempo",
       "pubDate": "2026-07-02T10:49:37-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los seis puntos que José Manuel Restrepo, vicepresidente electo, pide a Gustavo Petro cumplir en proceso de empalme que inicia hoy 2 de julio",
-      "link": "https://www.eltiempo.com/politica/gobierno/los-seis-puntos-que-jose-manuel-restrepo-vicepresidente-electo-pide-a-gustavo-petro-cumplir-en-proceso-de-empalme-que-inicia-hoy-2-de-julio-3568441",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-02T08:17:45-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
