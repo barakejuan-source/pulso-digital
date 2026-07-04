@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T13:41:53.986Z",
+  "updatedAt": "2026-07-04T15:09:41.358Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,38 @@
   ],
   "articles": [
     {
+      "title": "Caso Odebrecht: Roberto Prieto, exgerente de la campaña de Juan Manuel Santos, será imputado por enriquecimiento ilícito y fraude procesal",
+      "link": "https://www.infobae.com/colombia/2026/07/04/caso-odebrecht-roberto-prieto-exgerente-de-la-campana-de-juan-manuel-santos-sera-imputado-por-enriquecimiento-ilicito-y-fraude-procesal/",
+      "source": "Infobae",
+      "pubDate": "Sat, 04 Jul 2026 14:56:13 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "El gobierno de Abelardo de la Espriella estaría alistando una reforma tributaria para que la Dian administre solo tres impuestos",
+      "link": "https://www.infobae.com/colombia/2026/07/04/el-gobierno-de-abelardo-de-la-espriella-estaria-alistando-una-reforma-tributaria-para-que-la-dian-administre-solo-tres-impuestos/",
+      "source": "Infobae",
+      "pubDate": "Sat, 04 Jul 2026 14:48:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "ELN dice que el Gobierno “perdió la oportunidad” de negociar y sugirió a Abelardo de la Espriella no adoptar políticas como las de Trump ",
+      "link": "https://www.infobae.com/colombia/2026/07/04/eln-dice-que-el-gobierno-perdio-la-oportunidad-de-negociar-y-sugirio-a-abelardo-de-la-espriella-no-adoptar-politicas-como-las-de-trump/",
+      "source": "Infobae",
+      "pubDate": "Sat, 04 Jul 2026 14:31:51 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Senador del Pacto Histórico propuso que Iván Cepeda considere una candidatura a la Alcaldía de Bogotá en 2027: “El progresismo requiere empezar a trabajar”",
+      "link": "https://www.infobae.com/colombia/2026/07/04/senador-del-pacto-historico-propuso-que-ivan-cepeda-considere-una-candidatura-a-la-alcaldia-de-bogota-en-2027-el-progresismo-requiere-empezar-a-trabajar/",
+      "source": "Infobae",
+      "pubDate": "Sat, 04 Jul 2026 14:15:05 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
       "title": "Sindicato de la UNP pide a empalme de Abelardo De la Espriella revisar vinculación de más de 6.000 nuevos cargos",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/sindicato-de-la-unp-pide-a-empalme-de-abelardo-de-la-espriella-revisar-vinculacion-de-mas-de-6-000-nuevos-cargos-3568976",
       "source": "El Tiempo",
@@ -71,26 +103,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El fujimorismo regresa al poder tras 26 años: Keiko Fujimori es proclamada oficialmente presidenta electa de Perú",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260703-el-fujimorismo-regresa-al-poder-tras-26-a%C3%B1os-keiko-fujimori-es-proclamada-oficialmente-presidenta-electa-de-per%C3%BA",
-      "source": "France 24",
-      "pubDate": "Fri, 03 Jul 2026 18:57:48 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Abelardo de la Espriella sostiene llamada con el presidente de Israel: este es el primer acercamiento entre países tras ruptura diplomática con Petro",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-sostiene-llamada-con-el-presidente-de-israel-este-es-el-primer-acercamiento-entre-paises-tras-ruptura-diplomatica-con-petro-3568801",
       "source": "El Tiempo",
       "pubDate": "2026-07-03T11:58:04-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Vicepresidente electo, José Manuel Restrepo, llega al segundo día de empalme: 'No queremos hacer de estas reuniones un show mediático'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/vicepresidente-electo-jose-manuel-restrepo-llega-al-segundo-dia-de-empalme-no-queremos-hacer-de-estas-reuniones-un-show-mediatico-3568787",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-03T11:25:23-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
