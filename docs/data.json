@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T23:09:07.052Z",
+  "updatedAt": "2026-07-04T03:30:36.804Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 8,
+      "trendsScore": 7,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -47,34 +47,18 @@
   ],
   "articles": [
     {
+      "title": "Abelardo de la Espriella lanzó polémica propuesta sobre el servicio militar: “Se trata de un tema de país”   ",
+      "link": "https://www.infobae.com/colombia/2026/07/04/abelardo-de-la-espriella-lanzo-polemica-propuesta-sobre-el-servicio-militar-se-trata-de-un-tema-de-pais/",
+      "source": "Infobae",
+      "pubDate": "Sat, 04 Jul 2026 02:34:49 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente electo Abelardo de la Espriella se refirió al servicio militar y afirmó que 'Colombia se merece un mejor futuro'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-refirio-al-servicio-militar-y-afirmo-que-colombia-se-merece-un-mejor-futuro-3568831",
       "source": "El Tiempo",
-      "pubDate": "2026-07-03T17:22:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Exmagistrado del CNE denunció amenaza de muerte contra él y su familia y envió duro mensaje a Abelardo de la Espriella: “Lo hago responsable”",
-      "link": "https://www.infobae.com/colombia/2026/07/03/exmagistrado-del-cne-denuncio-amenaza-de-muerte-contra-el-y-su-familia-y-envio-duro-mensaje-a-abelardo-de-la-espriella-lo-hago-responsable/",
-      "source": "Infobae",
-      "pubDate": "Fri, 03 Jul 2026 22:20:20 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Germán Ávila aseguró que la información recolectada por el equipo de empalme de Abelardo de la Espriella es “bastante deficiente”",
-      "link": "https://www.infobae.com/colombia/2026/07/03/german-avila-aseguro-que-la-informacion-recolectada-por-el-equipo-de-empalme-de-abelardo-de-la-espriella-es-bastante-deficiente/",
-      "source": "Infobae",
-      "pubDate": "Fri, 03 Jul 2026 22:01:21 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gustavo Petro no se reunirá con Abelardo de la Espriella, según José Manuel Restrepo: “No existe ninguna posibilidad”",
-      "link": "https://www.infobae.com/colombia/2026/07/03/gustavo-petro-no-se-reunira-con-abelardo-de-la-espriella-segun-jose-manuel-restrepo-no-existe-ninguna-posibilidad/",
-      "source": "Infobae",
-      "pubDate": "Fri, 03 Jul 2026 21:44:46 +0000",
+      "pubDate": "2026-07-03T18:50:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -117,14 +101,6 @@
       "pubDate": "Fri, 03 Jul 2026 11:27:47 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "3 claves que explican por qué Keiko Fujimori ganó en Perú esta vez después de tres derrotas previas",
-      "link": "https://www.bbc.com/mundo/articles/ckg7n0r4evpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 29 Jun 2026 21:26:31 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
