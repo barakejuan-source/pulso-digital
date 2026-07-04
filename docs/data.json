@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T10:15:24.600Z",
+  "updatedAt": "2026-07-04T13:41:53.986Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,22 @@
   ],
   "articles": [
     {
+      "title": "Sindicato de la UNP pide a empalme de Abelardo De la Espriella revisar vinculación de más de 6.000 nuevos cargos",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/sindicato-de-la-unp-pide-a-empalme-de-abelardo-de-la-espriella-revisar-vinculacion-de-mas-de-6-000-nuevos-cargos-3568976",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-04T06:52:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Empalme de Gobierno de Abelardo de la Espriella: el vicepresidente electo y equipo de la administración Petro definieron el cronograma a seguir",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-de-abelardo-de-la-espriella-el-vicepresidente-electo-y-equipo-de-la-administracion-petro-definieron-el-cronograma-a-seguir-3568971",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-04T05:32:36-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente electo Abelardo de la Espriella se refirió al servicio militar y afirmó que 'Colombia se merece un mejor futuro'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-refirio-al-servicio-militar-y-afirmo-que-colombia-se-merece-un-mejor-futuro-3568831",
       "source": "El Tiempo",
@@ -75,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/vicepresidente-electo-jose-manuel-restrepo-llega-al-segundo-dia-de-empalme-no-queremos-hacer-de-estas-reuniones-un-show-mediatico-3568787",
       "source": "El Tiempo",
       "pubDate": "2026-07-03T11:25:23-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Estas son las principales cabezas del equipo de empalme del presidente electo Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/estas-son-las-principales-cabezas-del-equipo-de-empalme-del-presidente-electo-abelardo-de-la-espriella-3568312",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-03T11:07:08-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
