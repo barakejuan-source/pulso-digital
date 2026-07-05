@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T10:19:51.688Z",
+  "updatedAt": "2026-07-05T13:48:53.040Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 13,
+      "trendsScore": 14,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 36,
+      "finalScore": 37,
       "momentum": {
-        "value": 0,
+        "value": 2.8,
         "direction": "flat"
       },
-      "probability": 47.4
+      "probability": 48.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,18 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.6
+      "probability": 51.9
     }
   ],
   "articles": [
+    {
+      "title": "Rodrigo Lara rechazó el llamado a la desobediencia civil de Iván Cepeda y defendió el orden constitucional: “Eso es antidemocrático”",
+      "link": "https://www.infobae.com/colombia/2026/07/05/rodrigo-lara-rechazo-el-llamado-a-la-desobediencia-civil-de-ivan-cepeda-y-defendio-el-orden-constitucional-eso-es-antidemocratico/",
+      "source": "Infobae",
+      "pubDate": "Sun, 05 Jul 2026 13:33:38 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
     {
       "title": "Iván Cepeda precisó los alcances de su llamado a la desobediencia civil: 'No vamos a obedecer decisiones que vayan contra el pueblo'",
       "link": "https://www.eltiempo.com/politica/gobierno/ivan-cepeda-preciso-los-alcances-de-su-llamado-a-la-desobediencia-civil-no-vamos-a-obedecer-decisiones-que-vayan-contra-el-pueblo-3569117",
