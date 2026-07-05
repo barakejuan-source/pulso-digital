@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T03:47:21.367Z",
+  "updatedAt": "2026-07-05T07:32:00.041Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 15903,
       "finalScore": 36,
       "momentum": {
-        "value": 5.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 47.4
@@ -46,6 +46,22 @@
     }
   ],
   "articles": [
+    {
+      "title": "“Lo que inició como una estrategia acertada, después se convirtió en una crisis”: analista sobre la campaña de Iván Cepeda, el ‘corazón coreano’ y la desobediencia civil",
+      "link": "https://www.infobae.com/colombia/2026/07/05/lo-que-inicio-como-una-estrategia-acertada-despues-se-convirtio-en-una-crisis-analista-sobre-la-campana-de-ivan-cepeda-el-corazon-coreano-y-la-desobediencia-civil/",
+      "source": "Infobae",
+      "pubDate": "Sun, 05 Jul 2026 05:01:00 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Iván Cepeda precisó los alcances de su llamado a la desobediencia civil: 'No vamos a obedecer decisiones que vayan contra el pueblo'",
+      "link": "https://www.eltiempo.com/politica/gobierno/ivan-cepeda-preciso-los-alcances-de-su-llamado-a-la-desobediencia-civil-no-vamos-a-obedecer-decisiones-que-vayan-contra-el-pueblo-3569117",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-04T22:53:23-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
     {
       "title": "Controlar la narrativa | Análisis de Ricardo Ávila sobre la llegada a la Presidencia de Abelardo de la Espriella",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/controlar-la-narrativa-analisis-de-ricardo-avila-sobre-la-llegada-a-la-presidencia-de-abelardo-de-la-espriella-3569087",
@@ -91,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/asi-se-alista-la-presidencia-y-la-vicepresidencia-para-el-empalme-con-la-administracion-de-abelardo-de-la-espriella-seran-mas-de-60-equipos-3569057",
       "source": "El Tiempo",
       "pubDate": "2026-07-04T15:43:26-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente electo Abelardo de la Espriella anuncia acuerdos energéticos y de seguridad con su homólogo de Guyana",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-anuncia-acuerdos-energeticos-y-de-seguridad-con-su-homologo-de-guyana-3569030",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-04T12:56:26-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
