@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-05T15:17:20.611Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-05T17:17:28.554Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Iván Cepeda insistió en “un homenaje nacional” al presidente saliente Gustavo Petro: “Muy merecido” ",
-      "link": "https://www.infobae.com/colombia/2026/07/05/ivan-cepeda-insistio-en-un-homenaje-nacional-al-presidente-saliente-gustavo-petro-muy-merecido/",
+      "title": "Ministerio de Hacienda presentó balance de su primera semana de empalme: recargo dominical, baja de tasas y desempleo en 8%",
+      "link": "https://www.infobae.com/colombia/2026/07/05/ministerio-de-hacienda-presento-balance-de-su-primera-semana-de-empalme-recargo-dominical-baja-de-tasas-y-desempleo-en-8/",
       "source": "Infobae",
-      "pubDate": "Sun, 05 Jul 2026 14:31:20 +0000",
+      "pubDate": "Sun, 05 Jul 2026 17:13:04 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Rodrigo Lara responde a discurso de Iván Cepeda en Cali donde precisó alcances de 'desobediencia civil': 'primeras líneas y bloqueos'",
+      "link": "https://www.eltiempo.com/politica/rodrigo-lara-responde-a-discurso-de-ivan-cepeda-en-cali-donde-preciso-alcances-de-desobediencia-civil-primeras-lineas-y-bloqueos-3569166",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-05T12:09:01-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -99,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-reunio-con-el-gobernador-de-cundinamarca-jorge-rey-anunciaron-plan-para-el-departamento-gran-futuro-3569070",
       "source": "El Tiempo",
       "pubDate": "2026-07-04T16:57:40-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así se alistan la Presidencia y la Vicepresidencia para el empalme con la administración de Abelardo de la Espriella: serán más de 60 equipos",
-      "link": "https://www.eltiempo.com/politica/gobierno/asi-se-alista-la-presidencia-y-la-vicepresidencia-para-el-empalme-con-la-administracion-de-abelardo-de-la-espriella-seran-mas-de-60-equipos-3569057",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-04T15:43:26-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
