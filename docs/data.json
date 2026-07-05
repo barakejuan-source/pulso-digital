@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-05T19:24:19.911Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-05T21:07:08.938Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 14,
+      "trendsScore": 12,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 37,
+      "finalScore": 36,
       "momentum": {
-        "value": 0,
+        "value": -2.7,
         "direction": "flat"
       },
-      "probability": 48.1
+      "probability": 47.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,18 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.9
+      "probability": 52.6
     }
   ],
   "articles": [
+    {
+      "title": "Abelardo de la Espriella ya mostró sus cartas al reuniurse con altos funcionarios de EE. UU.: estos fueron los temas que abordaron",
+      "link": "https://www.infobae.com/colombia/2026/07/05/abelardo-de-la-espriella-ya-mostro-sus-cartas-al-reuniurse-con-altos-funcionarios-de-ee-uu-estos-fueron-los-temas-que-abordaron/",
+      "source": "Infobae",
+      "pubDate": "Sun, 05 Jul 2026 20:56:03 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Círculo cercano al presidente electo Abelardo de la Espriella rechazó insistencia de Iván Cepeda en la desobediencia civil",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/circulo-cercano-al-presidente-electo-abelardo-de-la-espriella-rechazo-insistencia-de-ivan-cepeda-en-la-desobediencia-civil-3569191",
@@ -53,22 +61,6 @@
       "pubDate": "2026-07-05T14:03:31-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Ministerio de Hacienda presentó balance de su primera semana de empalme: recargo dominical, baja de tasas y desempleo en 8%",
-      "link": "https://www.infobae.com/colombia/2026/07/05/ministerio-de-hacienda-presento-balance-de-su-primera-semana-de-empalme-recargo-dominical-baja-de-tasas-y-desempleo-en-8/",
-      "source": "Infobae",
-      "pubDate": "Sun, 05 Jul 2026 18:43:42 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así están las cifras de corrupción y evasión en Colombia que Abelardo de la Espriella prometió eliminar: ningún presidente lo ha logrado",
-      "link": "https://www.infobae.com/colombia/2026/07/05/asi-estan-las-cifras-de-corrupcion-y-evasion-en-colombia-que-abelardo-de-la-espriella-prometio-eliminar-ningun-presidente-lo-ha-logrado/",
-      "source": "Infobae",
-      "pubDate": "Sun, 05 Jul 2026 18:30:19 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Presidente electo Abelardo de la Espriella anuncia decreto para combatir la extorsión y la inseguridad en las ciudades",
