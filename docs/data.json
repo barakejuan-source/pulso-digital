@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T21:07:08.938Z",
+  "updatedAt": "2026-07-05T23:05:49.368Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 12,
+      "trendsScore": 10,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 36,
+      "finalScore": 35,
       "momentum": {
-        "value": -2.7,
+        "value": -2.8,
         "direction": "flat"
       },
-      "probability": 47.4
+      "probability": 46.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.6
+      "probability": 53.3
     }
   ],
   "articles": [
     {
+      "title": "Abelardo de la Espriella anunció el Bloque de Defensa para la Seguridad Urbana y provocó tormenta política: “¿Tendremos paramilitarismo 2.0?\"",
+      "link": "https://www.infobae.com/colombia/2026/07/05/abelardo-de-la-espriella-anuncio-el-bloque-de-defensa-para-la-seguridad-urbana-y-provoco-tormenta-politica-tendremos-paramilitarismo-20/",
+      "source": "Infobae",
+      "pubDate": "Sun, 05 Jul 2026 22:22:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Abelardo de la Espriella ya mostró sus cartas al reuniurse con altos funcionarios de EE. UU.: estos fueron los temas que abordaron",
       "link": "https://www.infobae.com/colombia/2026/07/05/abelardo-de-la-espriella-ya-mostro-sus-cartas-al-reuniurse-con-altos-funcionarios-de-ee-uu-estos-fueron-los-temas-que-abordaron/",
       "source": "Infobae",
-      "pubDate": "Sun, 05 Jul 2026 20:56:03 +0000",
+      "pubDate": "Sun, 05 Jul 2026 21:38:39 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
