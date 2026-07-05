@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T13:48:53.040Z",
+  "updatedAt": "2026-07-05T15:17:20.611Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 15903,
       "finalScore": 37,
       "momentum": {
-        "value": 2.8,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.1
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Rodrigo Lara rechazó el llamado a la desobediencia civil de Iván Cepeda y defendió el orden constitucional: “Eso es antidemocrático”",
-      "link": "https://www.infobae.com/colombia/2026/07/05/rodrigo-lara-rechazo-el-llamado-a-la-desobediencia-civil-de-ivan-cepeda-y-defendio-el-orden-constitucional-eso-es-antidemocratico/",
+      "title": "Iván Cepeda insistió en “un homenaje nacional” al presidente saliente Gustavo Petro: “Muy merecido” ",
+      "link": "https://www.infobae.com/colombia/2026/07/05/ivan-cepeda-insistio-en-un-homenaje-nacional-al-presidente-saliente-gustavo-petro-muy-merecido/",
       "source": "Infobae",
-      "pubDate": "Sun, 05 Jul 2026 13:33:38 +0000",
+      "pubDate": "Sun, 05 Jul 2026 14:31:20 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
