@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T17:17:28.554Z",
+  "updatedAt": "2026-07-05T19:24:19.911Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,10 +47,34 @@
   ],
   "articles": [
     {
+      "title": "Círculo cercano al presidente electo Abelardo de la Espriella rechazó insistencia de Iván Cepeda en la desobediencia civil",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/circulo-cercano-al-presidente-electo-abelardo-de-la-espriella-rechazo-insistencia-de-ivan-cepeda-en-la-desobediencia-civil-3569191",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-05T14:03:31-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
       "title": "Ministerio de Hacienda presentó balance de su primera semana de empalme: recargo dominical, baja de tasas y desempleo en 8%",
       "link": "https://www.infobae.com/colombia/2026/07/05/ministerio-de-hacienda-presento-balance-de-su-primera-semana-de-empalme-recargo-dominical-baja-de-tasas-y-desempleo-en-8/",
       "source": "Infobae",
-      "pubDate": "Sun, 05 Jul 2026 17:13:04 +0000",
+      "pubDate": "Sun, 05 Jul 2026 18:43:42 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así están las cifras de corrupción y evasión en Colombia que Abelardo de la Espriella prometió eliminar: ningún presidente lo ha logrado",
+      "link": "https://www.infobae.com/colombia/2026/07/05/asi-estan-las-cifras-de-corrupcion-y-evasion-en-colombia-que-abelardo-de-la-espriella-prometio-eliminar-ningun-presidente-lo-ha-logrado/",
+      "source": "Infobae",
+      "pubDate": "Sun, 05 Jul 2026 18:30:19 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente electo Abelardo de la Espriella anuncia decreto para combatir la extorsión y la inseguridad en las ciudades",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-anuncia-decreto-para-combatir-la-extorsion-y-la-inseguridad-en-las-ciudades-3569181",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-05T13:05:51-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -93,22 +117,6 @@
       "pubDate": "2026-07-04T22:30:00-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda insiste en su propuesta de desobediencia civil desde Cali y la pone en clave electoral para elecciones regionales de 2027",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-insiste-en-su-propuesta-de-desobediencia-civil-desde-cali-y-la-pone-en-clave-electoral-para-elecciones-regionales-de-3569088",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-04T18:38:23-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Presidente electo Abelardo de la Espriella se reunió con gobernador de Cundinamarca, Jorge Rey, y anunciaron plan para el departamento: 'Gran futuro'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-reunio-con-el-gobernador-de-cundinamarca-jorge-rey-anunciaron-plan-para-el-departamento-gran-futuro-3569070",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-04T16:57:40-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "\"Si De la Espriella intenta acabar con conquistas sociales, vendrá una reacción de la población en Colombia y se hará sentir la oposición política\": entrevista a Iván Cepeda, excandidato presidencial",
