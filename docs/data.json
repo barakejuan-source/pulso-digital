@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T23:02:14.764Z",
+  "updatedAt": "2026-07-05T03:47:21.367Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 7,
+      "trendsScore": 13,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 34,
+      "finalScore": 36,
       "momentum": {
-        "value": 0,
+        "value": 5.9,
         "direction": "flat"
       },
-      "probability": 45.9
+      "probability": 47.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,31 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 54.1
+      "probability": 52.6
     }
   ],
   "articles": [
     {
-      "title": "El presidente electo Abelardo de la Espriella se reunió con el gobernador de Cundinamarca, Jorge Emilio Rey: de qué hablaron",
-      "link": "https://www.infobae.com/colombia/2026/07/04/el-presidente-electo-abelardo-de-la-espriella-se-reunio-con-el-gobernador-de-cundinamarca-jorge-emilio-rey-de-que-hablaron/",
-      "source": "Infobae",
-      "pubDate": "Sat, 04 Jul 2026 22:34:21 +0000",
+      "title": "Controlar la narrativa | Análisis de Ricardo Ávila sobre la llegada a la Presidencia de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/controlar-la-narrativa-analisis-de-ricardo-avila-sobre-la-llegada-a-la-presidencia-de-abelardo-de-la-espriella-3569087",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-04T22:30:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así se va formando el gabinete de ministros del gobierno de Abelardo de la Espriella: los que llegaron y los que faltan por anunciar",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-se-va-formando-el-gabinete-de-ministros-del-gobierno-de-abelardo-de-la-espriella-los-que-llegaron-y-los-que-faltan-por-anunciar-3569080",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-04T22:30:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Lo que hay detrás del llamado a desobediencia civil de Iván Cepeda contra el gobierno de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/lo-que-hay-detras-del-llamado-a-desobediencia-civil-de-ivan-cepeda-contra-el-gobierno-de-abelardo-de-la-espriella-3569077",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-04T22:30:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Iván Cepeda insiste en su propuesta de desobediencia civil desde Cali y la pone en clave electoral para elecciones regionales de 2027",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-insiste-en-su-propuesta-de-desobediencia-civil-desde-cali-y-la-pone-en-clave-electoral-para-elecciones-regionales-de-3569088",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-04T18:38:23-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Presidente electo Abelardo de la Espriella se reunió con gobernador de Cundinamarca, Jorge Rey, y anunciaron plan para el departamento: 'Gran futuro'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-reunio-con-el-gobernador-de-cundinamarca-jorge-rey-anunciaron-plan-para-el-departamento-gran-futuro-3569070",
       "source": "El Tiempo",
       "pubDate": "2026-07-04T16:57:40-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Alcalde de Barranquilla habló con el presidente electo Abelardo de la Espriella sobre la inseguridad en la ciudad: “Acordamos reunirnos”",
-      "link": "https://www.infobae.com/colombia/2026/07/04/alcalde-de-barranquilla-hablo-con-el-presidente-electo-abelardo-de-la-espriella-sobre-la-inseguridad-en-la-ciudad-acordamos-reunirnos/",
-      "source": "Infobae",
-      "pubDate": "Sat, 04 Jul 2026 21:43:24 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -83,30 +99,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-anuncia-acuerdos-energeticos-y-de-seguridad-con-su-homologo-de-guyana-3569030",
       "source": "El Tiempo",
       "pubDate": "2026-07-04T12:56:26-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El presidente electo Abelardo de la Espriella conmemorará el 20 de julio en las obras del Túnel del Toyo",
-      "link": "https://www.eltiempo.com/politica/el-presidente-electo-abelardo-de-la-espriella-conmemorara-el-20-de-julio-en-las-obras-del-tunel-del-toyo-3568992",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-04T10:25:10-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Sindicato de la UNP pide a empalme de Abelardo De la Espriella revisar vinculación de más de 6.000 nuevos cargos",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/sindicato-de-la-unp-pide-a-empalme-de-abelardo-de-la-espriella-revisar-vinculacion-de-mas-de-6-000-nuevos-cargos-3568976",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-04T06:52:05-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Empalme de Gobierno de Abelardo de la Espriella: el vicepresidente electo y equipo de la administración Petro definieron el cronograma a seguir",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-de-abelardo-de-la-espriella-el-vicepresidente-electo-y-equipo-de-la-administracion-petro-definieron-el-cronograma-a-seguir-3568971",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-04T05:32:36-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
