@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T08:26:27.320Z",
+  "updatedAt": "2026-07-06T13:51:00.748Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,54 @@
   ],
   "articles": [
     {
+      "title": "Quiénes son Digno Palomino y Aldair Montealegre, los cabecillas criminales que se entregarían a la justicia cuando Abelardo de la Espriella sea presidente",
+      "link": "https://www.infobae.com/colombia/2026/07/06/quienes-son-digno-palomino-y-aldair-montealegre-los-cabecillas-criminales-que-se-entregarian-a-la-justicia-cuando-abelardo-de-la-espriella-sea-presidente/",
+      "source": "Infobae",
+      "pubDate": "Mon, 06 Jul 2026 13:29:45 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda reaccionó a denuncia de Gustavo Bolívar de que sus hijos fueron agredidos en partido de Colombia en el Mundial 2026: “Los cobardes viven en el odio y el miedo” ",
+      "link": "https://www.infobae.com/colombia/2026/07/06/ivan-cepeda-reacciono-a-denuncia-de-gustavo-bolivar-de-que-sus-hijos-fueron-agredidos-en-partido-de-colombia-en-el-mundial-2026-los-cobardes-viven-en-el-odio-y-el-miedo/",
+      "source": "Infobae",
+      "pubDate": "Mon, 06 Jul 2026 13:23:18 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Gustavo Petro reitera llamado a desobediencia civil y vuelve a desconocer triunfo electoral del presidente electo, Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gustavo-petro-reitera-llamado-a-desobediencia-civil-y-vuelve-a-desconocer-triunfo-electoral-de-abelardo-de-la-espriella-3569280",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-06T07:20:10-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Desayune informado con las claves de este 6 de julio de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-6-de-julio-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 06 Jul 2026 12:16:02 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Los políticos VIP de Abelardo y su proyecto de partido",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/los-politicos-vip-de-abelardo-y-su-proyecto-de-partido/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 06 Jul 2026 12:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: estas son las fechas clave de la nueva semana de transición",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-de-abelardo-de-la-espriella-estas-son-las-fechas-clave-de-la-nueva-semana-de-transicion-3569271",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-06T06:15:04-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Abelardo tendría mayorías en el Congreso, pero la gobernabilidad está por verse",
       "link": "https://www.lasillavacia.com/silla-nacional/abelardo-tendria-mayorias-en-el-congreso-pero-la-gobernabilidad-esta-por-verse/",
       "source": "La Silla Vacía",
@@ -91,22 +139,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/circulo-cercano-al-presidente-electo-abelardo-de-la-espriella-rechazo-insistencia-de-ivan-cepeda-en-la-desobediencia-civil-3569191",
       "source": "El Tiempo",
       "pubDate": "2026-07-05T14:03:31-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Presidente electo Abelardo de la Espriella anuncia decreto para combatir la extorsión y la inseguridad en las ciudades",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-anuncia-decreto-para-combatir-la-extorsion-y-la-inseguridad-en-las-ciudades-3569181",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-05T13:05:51-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "\"Si De la Espriella intenta acabar con conquistas sociales, vendrá una reacción de la población en Colombia y se hará sentir la oposición política\": entrevista a Iván Cepeda, excandidato presidencial",
-      "link": "https://www.bbc.com/mundo/articles/cjrgqn5gnpno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Fri, 03 Jul 2026 11:27:47 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
