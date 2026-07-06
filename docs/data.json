@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T20:04:02.378Z",
+  "updatedAt": "2026-07-06T23:13:04.137Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Notarios de carrera piden suspender designaciones de interinos durante el empalme presidencial",
-      "link": "https://www.infobae.com/colombia/2026/07/06/notarios-de-carrera-piden-suspender-designaciones-de-interinos-durante-el-empalme-presidencial/",
+      "title": "Daniel Briceño alertó sobre la intención de Petro de demandar por nulidad la elección de Abelardo de la Espriella: “Es un golpe a la democracia”",
+      "link": "https://www.infobae.com/colombia/2026/07/06/daniel-briceno-alerto-sobre-la-intencion-de-petro-de-demandar-por-nulidad-la-eleccion-de-abelardo-de-la-espriella-es-un-golpe-a-la-democracia/",
       "source": "Infobae",
-      "pubDate": "Mon, 06 Jul 2026 19:48:55 +0000",
+      "pubDate": "Mon, 06 Jul 2026 23:03:35 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "María Fernanda Cabal arremetió contra Petro tras revelaciones de Carlos Alonso Lucio y exigió esclarecer vínculos con paramilitares: “Vea pues sus andanzas”",
+      "link": "https://www.infobae.com/colombia/2026/07/06/maria-fernanda-cabal-arremetio-contra-petro-tras-revelaciones-de-carlos-alonso-lucio-y-exigio-esclarecer-vinculos-con-paramilitares-vea-pues-sus-andanzas/",
+      "source": "Infobae",
+      "pubDate": "Mon, 06 Jul 2026 22:19:02 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Partidos políticos y otros sectores cuestionan nuevo intento del presidente Gustavo Petro por desacreditar elección de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/partidos-politicos-y-otros-sectores-cuestionan-nuevo-intento-del-presidente-gustavo-petro-por-desacreditar-eleccion-de-abelardo-de-la-espriella-3569439",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-06T16:28:40-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Siete retos educativos que Abelardo de la Espriella no puede aplazar",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/siete-retos-educativos-que-abelardo-de-la-espriella-no-puede-aplazar/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 06 Jul 2026 21:11:43 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así reaccionan distintos sectores al nombramiento del general (r) Jorge Eduardo Mora como ministro de Defensa del gobierno de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-reaccionan-distintos-sectores-al-nombramiento-del-general-r-jorge-eduardo-mora-como-ministro-de-defensa-del-gobierno-de-abelardo-de-la-espriella-3569364",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-06T14:44:58-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -71,42 +103,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Así reaccionan distintos sectores al nombramiento del general (r) Jorge Eduardo Mora como ministro de Defensa del gobierno de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-reaccionan-distintos-sectores-al-nombramiento-del-general-r-jorge-eduardo-mora-como-ministro-de-defensa-del-gobierno-de-abelardo-de-la-espriella-3569364",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-06T11:43:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: Jorge Eduardo Mora López, nuevo ministro de Defensa",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-de-abelardo-de-la-espriella-estas-son-las-fechas-clave-de-la-nueva-semana-de-transicion-3569271",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-06T10:55:19-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "General (r) Jorge Eduardo Mora López será el ministro de Defensa del gobierno de Abelardo de la Espriella",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/general-r-jorge-eduardo-mora-lopez-sera-el-ministro-de-defensa-del-gobierno-de-abelardo-de-la-espriella-3569332",
       "source": "El Tiempo",
       "pubDate": "2026-07-06T10:45:06-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Rodrigo Lara, ministro del Interior de Abelardo de la Espriella, respondió al nuevo llamado a desobediencia civil: 'No vamos a permitir bloqueos'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/rodrigo-lara-ministro-del-interior-de-abelardo-de-la-espriella-respondio-al-nuevo-llamado-a-desobediencia-civil-no-vamos-a-permitir-bloqueos-3569317",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-06T09:23:55-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Gustavo Petro reitera llamado a desobediencia civil y vuelve a desconocer triunfo electoral del presidente electo, Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/gustavo-petro-reitera-llamado-a-desobediencia-civil-y-vuelve-a-desconocer-triunfo-electoral-de-abelardo-de-la-espriella-3569280",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-06T07:20:10-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
