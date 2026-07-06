@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T16:54:46.949Z",
+  "updatedAt": "2026-07-06T20:04:02.378Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,12 +47,36 @@
   ],
   "articles": [
     {
-      "title": "Presidente de la Corte Suprema descartó el llamado a la “desobediencia civil” de Iván Cepeda: “Es para que la Constitución se cumpla”",
-      "link": "https://www.infobae.com/colombia/2026/07/06/presidente-de-la-corte-suprema-descarto-el-llamado-a-la-desobediencia-civil-de-ivan-cepeda-es-para-que-la-constitucion-se-cumpla/",
+      "title": "Notarios de carrera piden suspender designaciones de interinos durante el empalme presidencial",
+      "link": "https://www.infobae.com/colombia/2026/07/06/notarios-de-carrera-piden-suspender-designaciones-de-interinos-durante-el-empalme-presidencial/",
       "source": "Infobae",
-      "pubDate": "Mon, 06 Jul 2026 16:50:07 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Mon, 06 Jul 2026 19:48:55 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "En nueva carta, Álvaro Leyva señala a Gustavo Petro de entorpecer empalme y dice que lo denunciará ante cuerpo diplomático en Colombia",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/en-nueva-carta-alvaro-leyva-senala-a-gustavo-petro-de-entorpecer-empalme-y-dice-que-lo-denunciara-ante-cuerpo-diplomatico-en-colombia-3569324",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-06T13:40:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Diario del Empalme de Abelardo: Petro no reconoce al presidente electo",
+      "link": "https://www.lasillavacia.com/en-vivo/diario-del-empalme-de-abelardo-petro-no-reconoce-al-presidente-electo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 06 Jul 2026 18:08:46 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así reaccionan distintos sectores al nombramiento del general (r) Jorge Eduardo Mora como ministro de Defensa del gobierno de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-reaccionan-distintos-sectores-al-nombramiento-del-general-r-jorge-eduardo-mora-como-ministro-de-defensa-del-gobierno-de-abelardo-de-la-espriella-3569364",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-06T11:43:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: Jorge Eduardo Mora López, nuevo ministro de Defensa",
@@ -85,46 +109,6 @@
       "pubDate": "2026-07-06T07:20:10-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desayune informado con las claves de este 6 de julio de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-6-de-julio-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 06 Jul 2026 12:16:02 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los políticos VIP de Abelardo y su proyecto de partido",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/los-politicos-vip-de-abelardo-y-su-proyecto-de-partido/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 06 Jul 2026 12:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo tendría mayorías en el Congreso, pero la gobernabilidad está por verse",
-      "link": "https://www.lasillavacia.com/silla-nacional/abelardo-tendria-mayorias-en-el-congreso-pero-la-gobernabilidad-esta-por-verse/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 06 Jul 2026 06:00:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Tras advertencia del presidente electo, Abelardo de la Espriella, los cabecillas de banda ‘Los Pepes’ aceptan someterse a la justicia",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/tras-advertencia-del-presidente-electo-abelardo-de-la-espriella-los-cabecillas-de-banda-los-pepes-aceptan-someterse-a-la-justicia-3569250",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-05T22:29:51-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella fijó su postura frente al llamado a la desobediencia civil en Colombia y advierte que no permitirá 'terrorismo urbano'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-fijo-su-postura-frente-al-llamado-a-la-desobediencia-civil-en-colombia-y-advierte-que-no-permitira-terrorismo-urbano-3569242",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-05T22:01:00-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
