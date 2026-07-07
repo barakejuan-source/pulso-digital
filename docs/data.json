@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-07T03:45:12.319Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-07T07:43:52.722Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Rtvc Noticias: una máquina de propaganda para Iván Cepeda en campaña",
+      "link": "https://www.lasillavacia.com/silla-nacional/rtvc-noticias-una-maquina-de-propaganda-para-ivan-cepeda-en-campana/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 07 Jul 2026 06:00:00 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
       "title": "Dan Newlin desmintió las acusaciones sobre supuestos aportes a la campaña de Abelardo de la Espriella: esto le respondió al presidente Gustavo Petro",
       "link": "https://www.eltiempo.com/politica/gobierno/dan-newlin-desmintio-las-acusaciones-sobre-supuestos-aportes-a-la-campana-de-abelardo-de-la-espriella-esto-le-respondio-el-presidente-gustavo-petro-3569498",
       "source": "El Tiempo",
@@ -61,14 +69,6 @@
       "pubDate": "2026-07-06T21:22:49-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Siete retos educativos que Abelardo de la Espriella no puede aplazar",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/siete-retos-educativos-que-abelardo-de-la-espriella-no-puede-aplazar/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 06 Jul 2026 21:11:43 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Así reaccionan distintos sectores al nombramiento del general (r) Jorge Eduardo Mora como ministro de Defensa del gobierno de Abelardo de la Espriella",
