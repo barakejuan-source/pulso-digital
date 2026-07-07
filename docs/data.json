@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-07T21:28:39.950Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-07T23:06:50.965Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 14,
+      "trendsScore": 13,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 37,
+      "finalScore": 36,
       "momentum": {
-        "value": 0,
+        "value": -2.7,
         "direction": "flat"
       },
-      "probability": 48.1
+      "probability": 47.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.9
+      "probability": 52.6
     }
   ],
   "articles": [
     {
-      "title": "Gustavo Petro acusó a Abelardo de la Espriella de entregar “la soberanía nacional” para ganar la Presidencia: “Despedazó la Constitución”",
-      "link": "https://www.infobae.com/colombia/2026/07/07/gustavo-petro-acuso-a-abelardo-de-la-espriella-de-entregar-la-soberania-nacional-para-ganar-la-presidencia-despedazo-la-constitucion/",
+      "title": "Fuerte reclamo del Ministerio de Defensa al nuevo ministro tras ausentarse de la sesión de empalme: “No es una cortesía” ",
+      "link": "https://www.infobae.com/colombia/2026/07/07/fuerte-reclamo-de-pedro-sanchez-al-nuevo-ministro-de-defensa-tras-ausentarse-de-la-sesion-de-empalme-no-es-una-cortesia/",
       "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 21:18:12 +0000",
+      "pubDate": "Tue, 07 Jul 2026 22:46:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Lina María Garrido arremetió contra Gustavo Petro y lo acusó de estar “drogado de poder”, tras negarse a reconocer triunfo de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/07/lina-maria-garrido-arremetio-contra-gustavo-petro-y-lo-acuso-de-estar-drogado-de-poder-tras-negarse-a-reconocer-triunfo-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Tue, 07 Jul 2026 22:25:45 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ella es Elsa Noguera, la nueva ministra de Transporte en el gabinete de Abelardo de la Espriella: fue la primera alcaldesa mujer de Barranquilla",
+      "link": "https://www.eltiempo.com/politica/gobierno/ella-es-elsa-noguera-la-nueva-ministra-de-transporte-en-el-gabinete-de-abelardo-de-la-espriella-fue-la-primera-alcaldesa-mujer-de-barranquilla-3569732",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T17:22:54-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "José Manuel Restrepo: ‘El día en que el gobierno de Gustavo Petro reconozca a Abelardo de la Espriella como presidente electo nos volvemos a sentar’",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/jose-manuel-restrepo-el-dia-en-que-el-gobierno-de-gustavo-petro-reconozca-a-abelardo-de-la-espriella-como-presidente-electo-nos-volvemos-a-sentar-3569743",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T17:20:12-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Él es Mauricio Gómez Amín, el nuevo ministro de Comercio, Industria y Turismo en el gabinete de Abelardo de la Espriella: estuvo en el Congreso",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-es-mauricio-gomez-amin-el-nuevo-ministro-de-comercio-industria-y-turismo-en-el-gabinete-de-abelardo-de-la-espriella-estuvo-en-el-congreso-3569733",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T17:14:36-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -69,14 +101,6 @@
       "pubDate": "Tue, 07 Jul 2026 21:04:03 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Fuerte reclamo de Pedro Sánchez al nuevo ministro de Defensa tras ausentarse de la sesión de empalme: “No es una cortesía”  ",
-      "link": "https://www.infobae.com/colombia/2026/07/07/fuerte-reclamo-de-pedro-sanchez-al-nuevo-ministro-de-defensa-tras-ausentarse-de-la-sesion-de-empalme-no-es-una-cortesia/",
-      "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 20:54:34 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "¿Quién es Jaime Andrés Beltrán, nombrado por el presidente electo Abelardo de la Espriella como nuevo ministro de Vivienda para su gobierno?",
@@ -107,30 +131,6 @@
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260707-pretende-destruir-a-colombia-de-la-espriella-suspende-la-transici%C3%B3n-con-el-gobierno-de-petro",
       "source": "France 24",
       "pubDate": "Tue, 07 Jul 2026 17:26:42 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo: Petro es tirano, se quiere perpetuar en el poder",
-      "link": "https://www.lasillavacia.com/en-vivo/abelardo-petro-es-tirano-se-quiere-perpetuar-en-el-poder/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 07 Jul 2026 16:47:39 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Fedemunicipios y Asocapitales llaman a respetar transición entre Gustavo Petro y Abelardo de la Espriella y respaldan resultados de las elecciones",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fedemunicipios-y-asocapitales-llaman-a-respetar-transicion-entre-gustavo-petro-y-abelardo-de-la-espriella-y-respaldan-resultados-de-las-elecciones-3569630",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T11:23:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Comité de empalme del gobierno Gustavo Petro suspende su participación en el proceso tras decisión del presidente electo Abelardo De la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/comite-de-empalme-del-gobierno-gustavo-petro-suspende-su-participacion-en-el-proceso-tras-decision-del-presidente-electo-abelardo-de-la-espriella-3569618",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T10:54:41-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
