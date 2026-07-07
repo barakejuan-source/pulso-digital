@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T14:45:16.569Z",
+  "updatedAt": "2026-07-07T18:04:47.270Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 15903,
       "finalScore": 37,
       "momentum": {
-        "value": 2.8,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.1
@@ -47,98 +47,98 @@
   ],
   "articles": [
     {
-      "title": "Crisis en el empalme presidencial entre el Gobierno Petro y el equipo de Abelardo de la Espriella desató una oleada de reacciones políticas: “Estamos ante un golpe de Estado”  ",
-      "link": "https://www.infobae.com/colombia/2026/07/07/abelardo-de-la-espriella-ordeno-la-suspension-del-empalme-con-el-gobierno-petro-y-desato-una-oleada-de-reacciones-politicas-estamos-ante-un-golpe-de-estado/",
+      "title": "Álvaro Uribe lanzó pullas a Gustavo Petro por desconocer a Abelardo de la Espriella como presidente electo: “Quiere perpetuarse en el poder”",
+      "link": "https://www.infobae.com/colombia/2026/07/07/alvaro-uribe-lanzo-pullas-a-gustavo-petro-por-desconocer-a-abelardo-de-la-espriella-como-presidente-electo-quiere-perpetuarse-en-el-poder/",
       "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 14:33:00 +0000",
+      "pubDate": "Tue, 07 Jul 2026 18:03:57 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gobierno electo de Abelardo de La Espriella alista un cambio en la fijación de los combustibles: “Llegó el momento del guayabo”",
-      "link": "https://www.infobae.com/colombia/2026/07/07/gobierno-electo-de-abelardo-de-la-espriella-alista-un-cambio-en-la-fijacion-de-los-combustibles-llego-el-momento-del-guayabo/",
+      "title": "Comité de empalme del Gobierno Petro pidió a la Procuraduría acompañar futuras sesiones con el equipo de Abelardo de la Espriella: “Ofrecer un proceso transparente, serio y respetuoso” ",
+      "link": "https://www.infobae.com/colombia/2026/07/07/el-comite-de-empalme-pidio-a-la-procuraduria-acompanar-posibles-sesiones-con-el-equipo-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 14:28:42 +0000",
+      "pubDate": "Tue, 07 Jul 2026 18:03:12 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella ordena a su vicepresidente, José Manuel Restrepo, suspender el proceso de empalme con el gobierno de Gustavo Petro",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-ordena-a-su-vicepresidente-jose-manuel-restrepo-suspender-el-proceso-de-empalme-con-gobierno-de-gustavo-petro-3569542",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T09:08:57-05:00",
+      "title": "Abelardo de la Espriella denunció intento de desconocer el mandato popular y advirtió que ninguna autoridad puede sustituir la voluntad de las urnas  ",
+      "link": "https://www.infobae.com/colombia/2026/07/07/abelardo-de-la-espriella-denuncio-intento-de-desconocer-el-mandato-popular-y-advirtio-que-ninguna-autoridad-puede-sustituir-la-voluntad-de-las-urnas/",
+      "source": "Infobae",
+      "pubDate": "Tue, 07 Jul 2026 18:01:07 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "¿Qué dice la ley sobre la suspensión del empalme entre el gobierno saliente de Petro y la administración entrante de Abelardo de la Espriella?",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/que-dice-la-ley-sobre-la-suspension-del-empalme-entre-el-gobierno-saliente-de-petro-y-la-administracion-entrante-de-abelardo-de-la-espriella-3569575",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T09:08:44-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Estas son algunas de las figuras políticas que respaldan la decisión de Abelardo de la Espriella de suspender proceso de empalme con el gobierno Petro",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/estas-son-algunas-de-las-figuras-politicas-que-respaldan-la-decision-de-abelardo-de-la-espriella-de-suspender-proceso-de-empalme-con-el-gobierno-petro-3569568",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T08:46:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Vicepresidente electo José Manuel Restrepo, encargado del empalme por parte de Abelardo de la Espriella, respondió a la orden de suspensión",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/vicepresidente-electo-jose-manuel-restrepo-encargado-del-empalme-por-parte-de-abelardo-de-la-espriella-respondio-a-la-orden-de-suspension-3569563",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T08:44:40-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Germán Ávila, encargado del empalme por parte del Gobierno Petro, se pronunció tras orden de suspensión del presidente electo Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/german-avila-encargado-del-empalme-por-parte-del-gobierno-petro-se-pronuncio-tras-orden-de-suspension-del-presidente-electo-abelardo-de-la-espriella-3569546",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T08:32:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desayune informado con las claves de este 7 de julio de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-7-de-julio-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 07 Jul 2026 12:05:00 +0000",
+      "title": "Miguel Polo Polo le pidió a Elon Musk suspender las cuentas de X de Gustavo Petro e Iván Cepeda: “Hoy Colombia lo necesita”",
+      "link": "https://www.infobae.com/colombia/2026/07/07/miguel-polo-polo-le-pidio-a-elon-musk-suspender-las-cuentas-de-x-de-gustavo-petro-e-ivan-cepeda-hoy-colombia-lo-necesita/",
+      "source": "Infobae",
+      "pubDate": "Tue, 07 Jul 2026 17:59:41 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Suspendido el empalme. Primer round entre Petro y Abelardo",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/hoy-arranca-el-empalme-el-primer-round-de-petro-vs-abelardo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 07 Jul 2026 12:00:00 +0000",
+      "title": "Abelardo de la Espriella pidió a las Fuerzas Militares no acatar órdenes de Gustavo Petro contrarias a la Constitución: “Cumplan con su juramento”",
+      "link": "https://www.infobae.com/colombia/2026/07/07/abelardo-de-la-espriella-pidio-a-las-fuerzas-militares-no-acatar-ordenes-de-gustavo-petro-contrarias-a-la-constitucion-cumplan-con-su-juramento/",
+      "source": "Infobae",
+      "pubDate": "Tue, 07 Jul 2026 17:50:52 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: se ordena la suspensión del proceso con el Gobierno de Gustavo Petro",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-este-martes-se-instalaran-las-comisiones-de-empalme-sectoriales-3569532",
+      "title": "Abelardo de la Espriella nombra como ministros a Elsa Noguera, Viviane Morales, Mauricio Gómez, Jaime Andrés Beltrán, Juliana Gutiérrez e Iván Cancino",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-nombra-como-ministros-a-elsa-noguera-viviane-morales-mauricio-gomez-jaime-andres-beltran-juliana-gutierrez-e-ivan-cancino-3569652",
       "source": "El Tiempo",
-      "pubDate": "2026-07-07T06:41:20-05:00",
+      "pubDate": "2026-07-07T12:45:47-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Rtvc Noticias: una máquina de propaganda para Iván Cepeda en campaña",
-      "link": "https://www.lasillavacia.com/silla-nacional/rtvc-noticias-una-maquina-de-propaganda-para-ivan-cepeda-en-campana/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 07 Jul 2026 06:00:00 +0000",
+      "title": "¿Quién es Jaime Andrés Beltrán, a quien Abelardo de la Espriella nombró como nuevo ministro de Vivienda para su gobierno electo?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-jaime-andres-beltran-a-quien-abelardo-de-la-espriella-nombro-como-nuevo-ministro-de-vivienda-para-su-gobierno-electo-3569673",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T12:43:26-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella oficializó a seis nuevos ministros: confirmó a Viviane Morales como jefa de la cartera de Educación",
+      "link": "https://www.infobae.com/colombia/2026/07/07/abelardo-de-la-espriella-oficializo-a-seis-nuevos-ministros-confirmo-a-viviane-morales-como-ministra-de-educacion/",
+      "source": "Infobae",
+      "pubDate": "Tue, 07 Jul 2026 17:39:27 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Asocapitales rechazó las declaraciones de Petro sobre un  supuesto fraude electoral y respaldó la elección de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/07/asocapitales-rechazo-las-declaraciones-de-petro-sobre-un-supuesto-fraude-electoral-y-respaldo-la-eleccion-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Tue, 07 Jul 2026 17:37:57 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Dan Newlin desmintió las acusaciones sobre supuestos aportes a la campaña de Abelardo de la Espriella: esto le respondió al presidente Gustavo Petro",
-      "link": "https://www.eltiempo.com/politica/gobierno/dan-newlin-desmintio-las-acusaciones-sobre-supuestos-aportes-a-la-campana-de-abelardo-de-la-espriella-esto-le-respondio-el-presidente-gustavo-petro-3569498",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-06T22:15:00-05:00",
+      "title": "Fiscalía vinculó el exdirector del DAS Miguel Maza Márquez como presunto coautor del homicidio de Carlos Pizarro",
+      "link": "https://www.infobae.com/colombia/2026/07/07/fiscalia-vinculo-el-exdirector-del-das-miguel-maza-marquez-como-presunto-coautor-del-asesinato-de-carlos-pizarro/",
+      "source": "Infobae",
+      "pubDate": "Tue, 07 Jul 2026 17:37:41 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella explicó porqué no quiso reunirse con Petro y le lanzó fuerte sentencia: “Le haré pagar todos sus delitos” ",
+      "link": "https://www.infobae.com/colombia/2026/07/07/abelardo-de-la-espriella-explico-porque-no-quiso-reunirse-con-petro-y-le-lanzo-fuerte-sentencia-le-hare-pagar-todos-sus-delitos/",
+      "source": "Infobae",
+      "pubDate": "Tue, 07 Jul 2026 17:36:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "\"Pretende destruir a Colombia\": De la Espriella suspende la transición con el Gobierno de Petro",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260707-pretende-destruir-a-colombia-de-la-espriella-suspende-la-transici%C3%B3n-con-el-gobierno-de-petro",
+      "source": "France 24",
+      "pubDate": "Tue, 07 Jul 2026 17:26:42 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
