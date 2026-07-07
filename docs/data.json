@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-07T18:04:47.270Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-07T21:28:39.950Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,42 +47,50 @@
   ],
   "articles": [
     {
-      "title": "Álvaro Uribe lanzó pullas a Gustavo Petro por desconocer a Abelardo de la Espriella como presidente electo: “Quiere perpetuarse en el poder”",
-      "link": "https://www.infobae.com/colombia/2026/07/07/alvaro-uribe-lanzo-pullas-a-gustavo-petro-por-desconocer-a-abelardo-de-la-espriella-como-presidente-electo-quiere-perpetuarse-en-el-poder/",
+      "title": "Gustavo Petro acusó a Abelardo de la Espriella de entregar “la soberanía nacional” para ganar la Presidencia: “Despedazó la Constitución”",
+      "link": "https://www.infobae.com/colombia/2026/07/07/gustavo-petro-acuso-a-abelardo-de-la-espriella-de-entregar-la-soberania-nacional-para-ganar-la-presidencia-despedazo-la-constitucion/",
       "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 18:03:57 +0000",
+      "pubDate": "Tue, 07 Jul 2026 21:18:12 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Comité de empalme del Gobierno Petro pidió a la Procuraduría acompañar futuras sesiones con el equipo de Abelardo de la Espriella: “Ofrecer un proceso transparente, serio y respetuoso” ",
-      "link": "https://www.infobae.com/colombia/2026/07/07/el-comite-de-empalme-pidio-a-la-procuraduria-acompanar-posibles-sesiones-con-el-equipo-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 18:03:12 +0000",
+      "title": "Asocapitales rechaza declaraciones del presidente Gustavo Petro sobre legitimidad de las elecciones y respalda a Abelardo de la Espriella: 'Graves'",
+      "link": "https://www.eltiempo.com/politica/gobierno/asocapitales-expresa-su-rechazo-por-declaraciones-de-gustavo-petro-sobre-las-elecciones-expresamos-nuestro-respaldo-al-presidente-electo-3569698",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T16:14:19-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella denunció intento de desconocer el mandato popular y advirtió que ninguna autoridad puede sustituir la voluntad de las urnas  ",
-      "link": "https://www.infobae.com/colombia/2026/07/07/abelardo-de-la-espriella-denuncio-intento-de-desconocer-el-mandato-popular-y-advirtio-que-ninguna-autoridad-puede-sustituir-la-voluntad-de-las-urnas/",
-      "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 18:01:07 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Miguel Polo Polo le pidió a Elon Musk suspender las cuentas de X de Gustavo Petro e Iván Cepeda: “Hoy Colombia lo necesita”",
-      "link": "https://www.infobae.com/colombia/2026/07/07/miguel-polo-polo-le-pidio-a-elon-musk-suspender-las-cuentas-de-x-de-gustavo-petro-e-ivan-cepeda-hoy-colombia-lo-necesita/",
-      "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 17:59:41 +0000",
+      "title": "Petro lanza a la izquierda a una oposición delirante y Abelardo devuelve la amenaza",
+      "link": "https://www.lasillavacia.com/silla-nacional/petro-lanza-a-la-izquierda-a-una-oposicion-delirante-y-abelardo-devuelve-la-amenaza/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 07 Jul 2026 21:04:03 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "Abelardo de la Espriella pidió a las Fuerzas Militares no acatar órdenes de Gustavo Petro contrarias a la Constitución: “Cumplan con su juramento”",
-      "link": "https://www.infobae.com/colombia/2026/07/07/abelardo-de-la-espriella-pidio-a-las-fuerzas-militares-no-acatar-ordenes-de-gustavo-petro-contrarias-a-la-constitucion-cumplan-con-su-juramento/",
+      "title": "Fuerte reclamo de Pedro Sánchez al nuevo ministro de Defensa tras ausentarse de la sesión de empalme: “No es una cortesía”  ",
+      "link": "https://www.infobae.com/colombia/2026/07/07/fuerte-reclamo-de-pedro-sanchez-al-nuevo-ministro-de-defensa-tras-ausentarse-de-la-sesion-de-empalme-no-es-una-cortesia/",
       "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 17:50:52 +0000",
+      "pubDate": "Tue, 07 Jul 2026 20:54:34 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Quién es Jaime Andrés Beltrán, nombrado por el presidente electo Abelardo de la Espriella como nuevo ministro de Vivienda para su gobierno?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-jaime-andres-beltran-nombrado-por-abelardo-de-la-espriella-como-nuevo-ministro-de-vivienda-para-su-gobierno-electo-3569673",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T15:37:22-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La exfiscal Viviane Morales es designada como la ministra de Educación del gobierno de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-exfiscal-viviane-morales-es-designada-como-la-ministra-de-educacion-del-gobierno-de-abelardo-de-la-espriella-3568622",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T12:55:57-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -95,50 +103,34 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "¿Quién es Jaime Andrés Beltrán, a quien Abelardo de la Espriella nombró como nuevo ministro de Vivienda para su gobierno electo?",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-jaime-andres-beltran-a-quien-abelardo-de-la-espriella-nombro-como-nuevo-ministro-de-vivienda-para-su-gobierno-electo-3569673",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T12:43:26-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella oficializó a seis nuevos ministros: confirmó a Viviane Morales como jefa de la cartera de Educación",
-      "link": "https://www.infobae.com/colombia/2026/07/07/abelardo-de-la-espriella-oficializo-a-seis-nuevos-ministros-confirmo-a-viviane-morales-como-ministra-de-educacion/",
-      "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 17:39:27 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Asocapitales rechazó las declaraciones de Petro sobre un  supuesto fraude electoral y respaldó la elección de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/07/07/asocapitales-rechazo-las-declaraciones-de-petro-sobre-un-supuesto-fraude-electoral-y-respaldo-la-eleccion-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 17:37:57 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Fiscalía vinculó el exdirector del DAS Miguel Maza Márquez como presunto coautor del homicidio de Carlos Pizarro",
-      "link": "https://www.infobae.com/colombia/2026/07/07/fiscalia-vinculo-el-exdirector-del-das-miguel-maza-marquez-como-presunto-coautor-del-asesinato-de-carlos-pizarro/",
-      "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 17:37:41 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo de la Espriella explicó porqué no quiso reunirse con Petro y le lanzó fuerte sentencia: “Le haré pagar todos sus delitos” ",
-      "link": "https://www.infobae.com/colombia/2026/07/07/abelardo-de-la-espriella-explico-porque-no-quiso-reunirse-con-petro-y-le-lanzo-fuerte-sentencia-le-hare-pagar-todos-sus-delitos/",
-      "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 17:36:58 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "\"Pretende destruir a Colombia\": De la Espriella suspende la transición con el Gobierno de Petro",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260707-pretende-destruir-a-colombia-de-la-espriella-suspende-la-transici%C3%B3n-con-el-gobierno-de-petro",
       "source": "France 24",
       "pubDate": "Tue, 07 Jul 2026 17:26:42 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo: Petro es tirano, se quiere perpetuar en el poder",
+      "link": "https://www.lasillavacia.com/en-vivo/abelardo-petro-es-tirano-se-quiere-perpetuar-en-el-poder/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 07 Jul 2026 16:47:39 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Fedemunicipios y Asocapitales llaman a respetar transición entre Gustavo Petro y Abelardo de la Espriella y respaldan resultados de las elecciones",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/fedemunicipios-y-asocapitales-llaman-a-respetar-transicion-entre-gustavo-petro-y-abelardo-de-la-espriella-y-respaldan-resultados-de-las-elecciones-3569630",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T11:23:45-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Comité de empalme del gobierno Gustavo Petro suspende su participación en el proceso tras decisión del presidente electo Abelardo De la Espriella",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/comite-de-empalme-del-gobierno-gustavo-petro-suspende-su-participacion-en-el-proceso-tras-decision-del-presidente-electo-abelardo-de-la-espriella-3569618",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T10:54:41-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
