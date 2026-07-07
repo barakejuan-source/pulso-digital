@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-07T11:12:45.989Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-07T14:45:16.569Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 13,
+      "trendsScore": 14,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 36,
+      "finalScore": 37,
       "momentum": {
-        "value": 0,
+        "value": 2.8,
         "direction": "flat"
       },
-      "probability": 47.4
+      "probability": 48.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,87 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.6
+      "probability": 51.9
     }
   ],
   "articles": [
     {
-      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: este martes se instalarán las comisiones de empalme sectoriales",
+      "title": "Crisis en el empalme presidencial entre el Gobierno Petro y el equipo de Abelardo de la Espriella desató una oleada de reacciones políticas: “Estamos ante un golpe de Estado”  ",
+      "link": "https://www.infobae.com/colombia/2026/07/07/abelardo-de-la-espriella-ordeno-la-suspension-del-empalme-con-el-gobierno-petro-y-desato-una-oleada-de-reacciones-politicas-estamos-ante-un-golpe-de-estado/",
+      "source": "Infobae",
+      "pubDate": "Tue, 07 Jul 2026 14:33:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno electo de Abelardo de La Espriella alista un cambio en la fijación de los combustibles: “Llegó el momento del guayabo”",
+      "link": "https://www.infobae.com/colombia/2026/07/07/gobierno-electo-de-abelardo-de-la-espriella-alista-un-cambio-en-la-fijacion-de-los-combustibles-llego-el-momento-del-guayabo/",
+      "source": "Infobae",
+      "pubDate": "Tue, 07 Jul 2026 14:28:42 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella ordena a su vicepresidente, José Manuel Restrepo, suspender el proceso de empalme con el gobierno de Gustavo Petro",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-ordena-a-su-vicepresidente-jose-manuel-restrepo-suspender-el-proceso-de-empalme-con-gobierno-de-gustavo-petro-3569542",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T09:08:57-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Qué dice la ley sobre la suspensión del empalme entre el gobierno saliente de Petro y la administración entrante de Abelardo de la Espriella?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/que-dice-la-ley-sobre-la-suspension-del-empalme-entre-el-gobierno-saliente-de-petro-y-la-administracion-entrante-de-abelardo-de-la-espriella-3569575",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T09:08:44-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Estas son algunas de las figuras políticas que respaldan la decisión de Abelardo de la Espriella de suspender proceso de empalme con el gobierno Petro",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/estas-son-algunas-de-las-figuras-politicas-que-respaldan-la-decision-de-abelardo-de-la-espriella-de-suspender-proceso-de-empalme-con-el-gobierno-petro-3569568",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T08:46:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Vicepresidente electo José Manuel Restrepo, encargado del empalme por parte de Abelardo de la Espriella, respondió a la orden de suspensión",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/vicepresidente-electo-jose-manuel-restrepo-encargado-del-empalme-por-parte-de-abelardo-de-la-espriella-respondio-a-la-orden-de-suspension-3569563",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T08:44:40-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Germán Ávila, encargado del empalme por parte del Gobierno Petro, se pronunció tras orden de suspensión del presidente electo Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/german-avila-encargado-del-empalme-por-parte-del-gobierno-petro-se-pronuncio-tras-orden-de-suspension-del-presidente-electo-abelardo-de-la-espriella-3569546",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T08:32:34-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Desayune informado con las claves de este 7 de julio de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-7-de-julio-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 07 Jul 2026 12:05:00 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Suspendido el empalme. Primer round entre Petro y Abelardo",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/hoy-arranca-el-empalme-el-primer-round-de-petro-vs-abelardo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 07 Jul 2026 12:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: se ordena la suspensión del proceso con el Gobierno de Gustavo Petro",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-este-martes-se-instalaran-las-comisiones-de-empalme-sectoriales-3569532",
       "source": "El Tiempo",
-      "pubDate": "2026-07-07T05:19:01-05:00",
+      "pubDate": "2026-07-07T06:41:20-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,30 +139,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/dan-newlin-desmintio-las-acusaciones-sobre-supuestos-aportes-a-la-campana-de-abelardo-de-la-espriella-esto-le-respondio-el-presidente-gustavo-petro-3569498",
       "source": "El Tiempo",
       "pubDate": "2026-07-06T22:15:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Partidos políticos y otros sectores cuestionan nuevo intento del presidente Gustavo Petro por desacreditar elección de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/partidos-politicos-y-otros-sectores-cuestionan-nuevo-intento-del-presidente-gustavo-petro-por-desacreditar-eleccion-de-abelardo-de-la-espriella-3569439",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-06T21:22:49-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Así reaccionan distintos sectores al nombramiento del general (r) Jorge Eduardo Mora como ministro de Defensa del gobierno de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-reaccionan-distintos-sectores-al-nombramiento-del-general-r-jorge-eduardo-mora-como-ministro-de-defensa-del-gobierno-de-abelardo-de-la-espriella-3569364",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-06T14:44:58-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "En nueva carta, Álvaro Leyva señala a Gustavo Petro de entorpecer empalme y dice que lo denunciará ante cuerpo diplomático en Colombia",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/en-nueva-carta-alvaro-leyva-senala-a-gustavo-petro-de-entorpecer-empalme-y-dice-que-lo-denunciara-ante-cuerpo-diplomatico-en-colombia-3569324",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-06T13:40:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
