@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T07:43:52.722Z",
+  "updatedAt": "2026-07-07T11:12:45.989Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: este martes se instalarán las comisiones de empalme sectoriales",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-este-martes-se-instalaran-las-comisiones-de-empalme-sectoriales-3569532",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T05:19:01-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Rtvc Noticias: una máquina de propaganda para Iván Cepeda en campaña",
       "link": "https://www.lasillavacia.com/silla-nacional/rtvc-noticias-una-maquina-de-propaganda-para-ivan-cepeda-en-campana/",
