@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-08T10:23:29.966Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-08T14:23:37.551Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 14,
+      "trendsScore": 13,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 37,
+      "finalScore": 36,
       "momentum": {
-        "value": 0,
+        "value": -2.7,
         "direction": "flat"
       },
-      "probability": 48.1
+      "probability": 47.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.9
+      "probability": 52.6
     }
   ],
   "articles": [
     {
-      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: este miércoles es el segundo día de suspensión del proceso de transición",
+      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: comunicado oficial de los ministros designados tras suspensión del proceso",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-este-miercoles-es-el-segundo-dia-de-suspension-del-proceso-de-transicion-3569812",
       "source": "El Tiempo",
-      "pubDate": "2026-07-08T04:55:00-05:00",
+      "pubDate": "2026-07-08T08:16:57-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ministros designados por Abelardo de la Espriella se pronuncian tras suspensión del empalme y declaraciones de Petro sobre resultados electorales",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ministros-designados-por-abelardo-de-la-espriella-se-pronuncian-tras-suspension-del-empalme-y-declaraciones-de-petro-sobre-resultados-electorales-3569824",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-08T08:03:30-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,7 +66,7 @@
       "title": "Suspensión de empalme mete ruido a la transición del poder entre Gustavo Petro y Abelardo De la Espriella",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/suspension-de-empalme-mete-ruido-a-la-transicion-del-poder-entre-gustavo-petro-y-abelardo-de-la-espriella-3569756",
       "source": "El Tiempo",
-      "pubDate": "2026-07-07T23:01:00-05:00",
+      "pubDate": "2026-07-08T06:10:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -107,22 +115,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/asocapitales-expresa-su-rechazo-por-declaraciones-de-gustavo-petro-sobre-las-elecciones-expresamos-nuestro-respaldo-al-presidente-electo-3569698",
       "source": "El Tiempo",
       "pubDate": "2026-07-07T16:14:19-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Petro lanza a la izquierda a una oposición delirante y Abelardo devuelve la amenaza",
-      "link": "https://www.lasillavacia.com/silla-nacional/petro-lanza-a-la-izquierda-a-una-oposicion-delirante-y-abelardo-devuelve-la-amenaza/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 07 Jul 2026 21:04:03 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Quién es Jaime Andrés Beltrán, nombrado por el presidente electo Abelardo de la Espriella como nuevo ministro de Vivienda para su gobierno?",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-jaime-andres-beltran-nombrado-por-abelardo-de-la-espriella-como-nuevo-ministro-de-vivienda-para-su-gobierno-electo-3569673",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T15:37:22-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
