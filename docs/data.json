@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T21:12:26.632Z",
+  "updatedAt": "2026-07-08T23:12:56.727Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 15,
+      "trendsScore": 14,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -47,52 +47,52 @@
   ],
   "articles": [
     {
-      "title": "Balcázar recibe otra vez a Roberto Sánchez y al hermano de Pedro Castillo mientras crece expectativa por posible indulto",
-      "link": "https://www.infobae.com/peru/2026/07/08/jose-balcazar-recibe-a-roberto-sanchez-y-al-hermano-de-pedro-castillo-mientras-crece-la-expectativa-por-posible-indulto/",
+      "title": "Abelardo de la Espriella se reunirá con el encargado de negocios de Estados Unidos en Colombia: así será el encuentro",
+      "link": "https://www.infobae.com/colombia/2026/07/08/abelardo-de-la-espriella-se-reunira-con-el-encargado-de-negocios-de-estados-unidos-en-colombia-asi-sera-el-encuentro/",
       "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 21:04:05 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Wed, 08 Jul 2026 23:02:59 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Las conclusiones del encuentro del empalme regional que adelanta Abelardo de la Espriella en Cúcuta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-va-el-encuentro-del-empalme-regional-que-adelanta-el-equipo-de-abelardo-de-la-espriella-en-cucuta-3569930",
+      "title": "Cathy Juvinao llamó “títere” a Iván Cepeda y desató la rabia de lideresas del Pacto Histórico: “Vergüenza es que dan”",
+      "link": "https://www.infobae.com/colombia/2026/07/08/cathy-juvinao-llamo-titere-a-ivan-cepeda-y-desato-la-rabia-de-lideresas-del-pacto-historico-verguenza-es-que-dan/",
+      "source": "Infobae",
+      "pubDate": "Wed, 08 Jul 2026 23:00:27 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Con ultimátum a ilegales del Catatumbo, arrancaron los empalmes regionales de Abelardo de la Espriella en Cúcuta",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-va-el-encuentro-del-empalme-regional-que-adelanta-el-equipo-de-abelardo-de-la-espriella-en-cucuta-3569930",
       "source": "El Tiempo",
-      "pubDate": "2026-07-08T16:02:01-05:00",
+      "pubDate": "2026-07-08T17:52:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Empresas grandes y pequeñas de Colombia arremetieron contra Petro por desconocer la elección de Abelardo de la Espriella: “Es un mal perdedor” ",
-      "link": "https://www.infobae.com/colombia/2026/07/08/empresas-grandes-y-pequenas-de-colombia-arremetieron-contra-petro-por-desconocer-la-eleccion-de-abelardo-de-la-espriella-es-un-mal-perdedor/",
+      "title": "Petro reaccionó a designación de Omar Bula como canciller de Abelardo de la Espriella: “Lástima que Colombia ya no se opondrá al genocidio” ",
+      "link": "https://www.infobae.com/colombia/2026/07/08/petro-reacciono-a-designacion-de-omar-bula-como-canciller-de-abelardo-de-la-espriella-lastima-que-colombia-ya-no-se-opondra-al-genocidio/",
       "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 20:59:58 +0000",
+      "pubDate": "Wed, 08 Jul 2026 22:15:49 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella dio por finalizado el proceso de empalme con Gustavo Petro: “Ya no podrán seguir maquillando la información”",
-      "link": "https://www.infobae.com/colombia/2026/07/08/abelardo-de-la-espriella-dio-por-finalizado-el-proceso-de-empalme-con-gustavo-petro-ya-no-podran-seguir-maquillando-la-informacion/",
-      "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 20:57:25 +0000",
+      "title": "¿Cuáles son los principales retos de Omar Bula Escobar, el canciller de Abelardo de la Espriella?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-y-cuales-son-los-principales-retos-de-omar-bula-escobar-nuevo-canciller-de-abelardo-de-la-espriella-3569958",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-08T17:02:02-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Ministro de Defensa del Gobierno de Abelardo de la Espriella solicitó información a la cartera saliente con más de 660 interrogantes ",
-      "link": "https://www.infobae.com/colombia/2026/07/08/ministro-de-defensa-del-gobierno-de-abelardo-de-la-espriella-solicito-informacion-a-la-cartera-saliente-con-mas-de-660-interrogantes/",
-      "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 20:50:09 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Le Pen vencería a todos sus rivales en segunda vuelta de Presidenciales, según un sondeo",
-      "link": "https://www.infobae.com/america/agencias/2026/07/08/le-pen-venceria-a-todos-sus-rivales-en-segunda-vuelta-de-presidenciales-segun-un-sondeo/",
-      "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 20:47:31 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Defensora Iris Marín y procurador Gregorio Eljach exigen al presidente Petro e Iván Cepeda pleno respeto a los resultados electorales",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/defensora-iris-marin-y-procurador-gregorio-eljach-exigen-al-presidente-petro-e-ivan-cepeda-pleno-respeto-a-los-resultados-electorales-3569986",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-08T16:11:12-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Francia: Marine Le Pen inicia su campaña presidencial tras ratificación de su sentencia",
@@ -101,14 +101,6 @@
       "pubDate": "Wed, 08 Jul 2026 20:15:09 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Quién es y cuáles son los principales retos de Omar Bula Escobar, el canciller de Abelardo de la Espriella?",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-y-cuales-son-los-principales-retos-de-omar-bula-escobar-nuevo-canciller-de-abelardo-de-la-espriella-3569958",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T15:07:11-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "¿Quién es Omar Bula Escobar, el nuevo ministro de Relaciones Exteriores del gobierno del presidente electo Abelardo de la Espriella?",
@@ -141,6 +133,14 @@
       "pubDate": "2026-07-08T11:18:59-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Faltan por nombrar siete ministerios en el gabinete de Abelardo de la Espriella: Salud, Trabajo y Cultura entre ellos",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/faltan-por-nombrar-siete-ministerios-en-el-gabinete-de-abelardo-de-la-espriella-salud-trabajo-y-cultura-entre-ellos-3569884",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-08T10:39:35-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     }
   ]
 }
