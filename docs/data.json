@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T14:23:37.551Z",
+  "updatedAt": "2026-07-08T17:41:56.874Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 13,
+      "trendsScore": 14,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 36,
+      "finalScore": 37,
       "momentum": {
-        "value": -2.7,
+        "value": 2.8,
         "direction": "flat"
       },
-      "probability": 47.4
+      "probability": 48.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,95 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.6
+      "probability": 51.9
     }
   ],
   "articles": [
     {
-      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: comunicado oficial de los ministros designados tras suspensión del proceso",
+      "title": "Así va el encuentro del empalme regional que adelanta el equipo de Abelardo de la Espriella en Cúcuta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-va-el-encuentro-del-empalme-regional-que-adelanta-el-equipo-de-abelardo-de-la-espriella-en-cucuta-3569930",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-08T12:36:46-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Grupo Libertad y Democracia rechazó 'intentos' del presidente Gustavo Petro e Iván Cepeda de 'desconocer la voluntad popular expresada en las urnas'",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/grupo-libertad-y-democracia-rechazo-intentos-del-presidente-gustavo-petro-e-ivan-cepeda-de-desconocer-la-voluntad-popular-expresada-en-las-urnas-3569903",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-08T12:36:18-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Valerie Lafaurie, ella será la consejera presidencial para las Regiones en el gobierno de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/08/valerie-lafaurie-sera-la-consejera-presidencial-para-las-regiones-en-el-gobierno-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Wed, 08 Jul 2026 17:27:53 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "General de las FF. MM. respondió qué pasará si el presidente Petro se mantiene en desconocer los resultados de la segunda vuelta electoral en Colombia",
+      "link": "https://www.infobae.com/colombia/2026/07/08/general-de-las-ff-mm-respondio-que-pasara-si-el-presidente-petro-se-mantiene-en-desconocer-los-resultados-de-la-segunda-vuelta-electoral-en-colombia/",
+      "source": "Infobae",
+      "pubDate": "Wed, 08 Jul 2026 17:19:25 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Alianza Verde, partido que apoyó a Iván Cepeda, reconoce la elección de Abelardo de la Espriella y llama a la transición democrática",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/alianza-verde-partido-que-apoyo-a-ivan-cepeda-reconoce-la-eleccion-de-abelardo-de-la-espriella-y-llama-a-la-transicion-democratica-3569909",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-08T11:18:59-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Atención: Omar Bula Escobar será el ministro de Relaciones Exteriores del gobierno del presidente electo Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/atencion-omar-bula-escobar-sera-el-ministro-de-relaciones-exteriores-del-gobierno-del-presidente-electo-abelardo-de-la-espriella-3569885",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-08T11:05:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo de la Espriella se mueve para lograr las mayorías en el Congreso: presidencias de Senado y Cámara, las primeras batallas",
+      "link": "https://www.eltiempo.com/politica/congreso/gobierno-de-abelardo-de-la-espriella-se-mueve-para-lograr-las-mayorias-en-el-congreso-presidencias-de-senado-y-camara-las-primeras-batallas-3569893",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-08T10:58:36-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella pide a la comunidad internacional vigilar la transición de gobierno frente a pronunciamientos de Gustavo Petro e Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-pide-a-la-comunidad-internacional-vigilar-la-transicion-de-gobierno-frente-a-pronunciamientos-de-gustavo-petro-e-ivan-cepeda-3569891",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-08T10:47:55-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Faltan por nombrar siete ministerios en el gabinete de Abelardo de la Espriella: Salud, Trabajo y Cultura entre ellos",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/faltan-por-nombrar-siete-ministerios-en-el-gabinete-de-abelardo-de-la-espriella-salud-trabajo-y-cultura-entre-ellos-3569884",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-08T10:39:35-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "De la Espriella acusa a Petro de intentar un golpe de Estado en Colombia",
+      "link": "https://www.france24.com/es/video/20260708-de-la-espriella-acusa-a-petro-de-intentar-un-golpe-de-estado-en-colombia",
+      "source": "France 24",
+      "pubDate": "Wed, 08 Jul 2026 15:27:41 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: Omar Bula Escobar, designado como nuevo ministro de Relaciones Exteriores",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-este-miercoles-es-el-segundo-dia-de-suspension-del-proceso-de-transicion-3569812",
       "source": "El Tiempo",
-      "pubDate": "2026-07-08T08:16:57-05:00",
+      "pubDate": "2026-07-08T10:12:52-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,62 +139,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ministros-designados-por-abelardo-de-la-espriella-se-pronuncian-tras-suspension-del-empalme-y-declaraciones-de-petro-sobre-resultados-electorales-3569824",
       "source": "El Tiempo",
       "pubDate": "2026-07-08T08:03:30-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Suspensión de empalme mete ruido a la transición del poder entre Gustavo Petro y Abelardo De la Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/suspension-de-empalme-mete-ruido-a-la-transicion-del-poder-entre-gustavo-petro-y-abelardo-de-la-espriella-3569756",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T06:10:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "José Manuel Restrepo: ‘El día en que el gobierno de Gustavo Petro reconozca a Abelardo de la Espriella como presidente electo nos volvemos a sentar’",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/jose-manuel-restrepo-el-dia-en-que-el-gobierno-de-gustavo-petro-reconozca-a-abelardo-de-la-espriella-como-presidente-electo-nos-volvemos-a-sentar-3569743",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ella es Elsa Noguera, nueva ministra de Transporte en el gabinete de Abelardo de la Espriella: fue la primera mujer elegida alcaldesa de Barranquilla",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ella-es-elsa-noguera-la-nueva-ministra-de-transporte-en-el-gabinete-de-abelardo-de-la-espriella-fue-la-primera-alcaldesa-mujer-de-barranquilla-3569732",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T20:30:17-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "#ElFiltro: EL TIEMPO no publicó supuestas declaraciones del comandante del Ejército sobre Abelardo de la Espriella; la imagen es falsa",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/elfiltro-el-tiempo-no-publico-supuestas-declaraciones-del-comandante-del-ejercito-sobre-abelardo-de-la-espriella-la-imagen-es-falsa-3569771",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T20:18:55-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Él es Mauricio Gómez Amín, el nuevo ministro de Comercio, Industria y Turismo en el gabinete de Abelardo de la Espriella: estuvo en el Congreso",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-es-mauricio-gomez-amin-el-nuevo-ministro-de-comercio-industria-y-turismo-en-el-gabinete-de-abelardo-de-la-espriella-estuvo-en-el-congreso-3569733",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T20:03:04-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Duerma informado con las movidas de este 7 de junio de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-7-de-junio-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 08 Jul 2026 00:38:51 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Asocapitales rechaza declaraciones del presidente Gustavo Petro sobre legitimidad de las elecciones y respalda a Abelardo de la Espriella: 'Graves'",
-      "link": "https://www.eltiempo.com/politica/gobierno/asocapitales-expresa-su-rechazo-por-declaraciones-de-gustavo-petro-sobre-las-elecciones-expresamos-nuestro-respaldo-al-presidente-electo-3569698",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T16:14:19-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
