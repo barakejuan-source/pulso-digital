@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-08T17:41:56.874Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-08T19:38:58.112Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 15903,
       "finalScore": 37,
       "momentum": {
-        "value": 2.8,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.1
@@ -47,12 +47,84 @@
   ],
   "articles": [
     {
-      "title": "Así va el encuentro del empalme regional que adelanta el equipo de Abelardo de la Espriella en Cúcuta",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-va-el-encuentro-del-empalme-regional-que-adelanta-el-equipo-de-abelardo-de-la-espriella-en-cucuta-3569930",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T12:36:46-05:00",
+      "title": "Alianza Verde, a pesar de manifestar su apoyo a Iván Cepeda, reconoció oficialmente los resultados de las elecciones presidenciales que dieron como ganador a Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/08/alianza-verde-reconocio-resultado-de-las-elecciones-presidenciales-en-segunda-vuelta-que-dio-como-ganador-a-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Wed, 08 Jul 2026 19:29:30 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Petro cuestionó a Viviane Morales por anunciar que buscarán nuevos métodos para la financiación de las universidades públicas: “Algo grave”",
+      "link": "https://www.infobae.com/colombia/2026/07/08/petro-cuestiono-a-viviane-morales-por-anunciar-que-buscaran-nuevos-metodos-para-la-financiacion-de-las-universidades-publicas-algo-grave/",
+      "source": "Infobae",
+      "pubDate": "Wed, 08 Jul 2026 19:25:55 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Jorge Cárdenas volvió ‘a cargar’ contra Gustavo Petro por críticas a proyectos de construir mega cárceles en Colombia: “Siguen intentando robarse las elecciones”",
+      "link": "https://www.infobae.com/colombia/2026/07/08/jorge-cardenas-volvio-a-cargar-contra-gustavo-petro-tras-mensaje-sobre-carceles-siguen-intentando-robarse-las-elecciones/",
+      "source": "Infobae",
+      "pubDate": "Wed, 08 Jul 2026 19:23:49 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Carlos Carrillo revivió mensajes del canciller de Abelardo de la Espriella Omar Bula en contra del actual presidente: “Petro será el siguiente objetivo”",
+      "link": "https://www.infobae.com/colombia/2026/07/08/carlos-carrillo-revivio-mensajes-de-omar-bula-para-aseverar-que-iria-detras-de-petro-desde-la-cancilleria-estamos-notificados/",
+      "source": "Infobae",
+      "pubDate": "Wed, 08 Jul 2026 19:16:22 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Defensora del Pueblo regañó a Gustavo Petro y a Iván Cepeda por desconocer al nuevo presidente: pidió reactivar el proceso de empalme",
+      "link": "https://www.infobae.com/colombia/2026/07/08/defensora-del-pueblo-regano-a-gustavo-petro-e-ivan-cepeda-por-desconocer-al-nuevo-presidente-pidio-reactivacion-del-empalme/",
+      "source": "Infobae",
+      "pubDate": "Wed, 08 Jul 2026 19:13:18 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Eliminar las audiencias de imputación: en qué consiste la propuesta que estudia el próximo  ministro de Justicia y tendría el apoyo de la Fiscalía",
+      "link": "https://www.infobae.com/colombia/2026/07/08/ivan-cancino-no-descarto-eliminar-las-audiencias-de-imputacion-una-vez-asuma-el-ministerio-de-justicia-podria-ahorrar-mucho-tiempo/",
+      "source": "Infobae",
+      "pubDate": "Wed, 08 Jul 2026 19:10:13 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella les envió ultimatum a cabecillas del ELN y las disidencias de las Farc: “Tienen un mes para entregarse” ",
+      "link": "https://www.infobae.com/colombia/2026/07/08/abelardo-de-la-espriella-declaro-como-objetivo-militar-a-lideres-guerrilleros-del-catatumbo-tienen-un-mes-para-entregarse/",
+      "source": "Infobae",
+      "pubDate": "Wed, 08 Jul 2026 19:07:51 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así va el encuentro del empalme regional que adelanta Abelardo de la Espriella en Cúcuta",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-va-el-encuentro-del-empalme-regional-que-adelanta-el-equipo-de-abelardo-de-la-espriella-en-cucuta-3569930",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-08T13:34:30-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Quién es Omar Bula Escobar, el nuevo ministro de Relaciones Exteriores del gobierno del presidente electo Abelardo de la Espriella?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-omar-bula-escobar-el-nuevo-ministro-de-relaciones-exteriores-del-gobierno-del-presidente-electo-abelardo-de-la-espriella-3569939",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-08T13:23:25-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Directo Latam y las fracturas políticas del clan Bolsonaro en Brasil",
+      "link": "https://www.france24.com/es/video/20260708-directo-latam-y-las-fracturas-pol%C3%ADticas-del-clan-bolsonaro-en-brasil",
+      "source": "France 24",
+      "pubDate": "Wed, 08 Jul 2026 18:09:23 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Grupo Libertad y Democracia rechazó 'intentos' del presidente Gustavo Petro e Iván Cepeda de 'desconocer la voluntad popular expresada en las urnas'",
@@ -63,84 +135,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Valerie Lafaurie, ella será la consejera presidencial para las Regiones en el gobierno de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/07/08/valerie-lafaurie-sera-la-consejera-presidencial-para-las-regiones-en-el-gobierno-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 17:27:53 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "General de las FF. MM. respondió qué pasará si el presidente Petro se mantiene en desconocer los resultados de la segunda vuelta electoral en Colombia",
-      "link": "https://www.infobae.com/colombia/2026/07/08/general-de-las-ff-mm-respondio-que-pasara-si-el-presidente-petro-se-mantiene-en-desconocer-los-resultados-de-la-segunda-vuelta-electoral-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 17:19:25 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "Alianza Verde, partido que apoyó a Iván Cepeda, reconoce la elección de Abelardo de la Espriella y llama a la transición democrática",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/alianza-verde-partido-que-apoyo-a-ivan-cepeda-reconoce-la-eleccion-de-abelardo-de-la-espriella-y-llama-a-la-transicion-democratica-3569909",
       "source": "El Tiempo",
       "pubDate": "2026-07-08T11:18:59-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Atención: Omar Bula Escobar será el ministro de Relaciones Exteriores del gobierno del presidente electo Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/atencion-omar-bula-escobar-sera-el-ministro-de-relaciones-exteriores-del-gobierno-del-presidente-electo-abelardo-de-la-espriella-3569885",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T11:05:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo de la Espriella se mueve para lograr las mayorías en el Congreso: presidencias de Senado y Cámara, las primeras batallas",
-      "link": "https://www.eltiempo.com/politica/congreso/gobierno-de-abelardo-de-la-espriella-se-mueve-para-lograr-las-mayorias-en-el-congreso-presidencias-de-senado-y-camara-las-primeras-batallas-3569893",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T10:58:36-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella pide a la comunidad internacional vigilar la transición de gobierno frente a pronunciamientos de Gustavo Petro e Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/abelardo-de-la-espriella-pide-a-la-comunidad-internacional-vigilar-la-transicion-de-gobierno-frente-a-pronunciamientos-de-gustavo-petro-e-ivan-cepeda-3569891",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T10:47:55-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Faltan por nombrar siete ministerios en el gabinete de Abelardo de la Espriella: Salud, Trabajo y Cultura entre ellos",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/faltan-por-nombrar-siete-ministerios-en-el-gabinete-de-abelardo-de-la-espriella-salud-trabajo-y-cultura-entre-ellos-3569884",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T10:39:35-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "De la Espriella acusa a Petro de intentar un golpe de Estado en Colombia",
-      "link": "https://www.france24.com/es/video/20260708-de-la-espriella-acusa-a-petro-de-intentar-un-golpe-de-estado-en-colombia",
-      "source": "France 24",
-      "pubDate": "Wed, 08 Jul 2026 15:27:41 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: Omar Bula Escobar, designado como nuevo ministro de Relaciones Exteriores",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-este-miercoles-es-el-segundo-dia-de-suspension-del-proceso-de-transicion-3569812",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T10:12:52-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ministros designados por Abelardo de la Espriella se pronuncian tras suspensión del empalme y declaraciones de Petro sobre resultados electorales",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ministros-designados-por-abelardo-de-la-espriella-se-pronuncian-tras-suspension-del-empalme-y-declaraciones-de-petro-sobre-resultados-electorales-3569824",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T08:03:30-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
