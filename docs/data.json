@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T02:59:21.258Z",
+  "updatedAt": "2026-07-08T06:32:22.721Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 15903,
       "finalScore": 37,
       "momentum": {
-        "value": 2.8,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.1
@@ -47,12 +47,20 @@
   ],
   "articles": [
     {
-      "title": "Continúa el rifirrafe entre Sergio Fajardo y Gustavo Petro por desconocer a De la Espriella: “Sus desvaríos e irresponsabilidad”   ",
-      "link": "https://www.infobae.com/colombia/2026/07/08/continua-el-rifirrafe-entre-sergio-fajardo-y-gustavo-petro-por-desconocer-a-de-la-espriella-sus-desvarios-e-irresponsabilidad/",
-      "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 02:13:28 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Suspensión de empalme mete ruido a la transición del poder entre Gustavo Petro y Abelardo De la Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/suspension-de-empalme-mete-ruido-a-la-transicion-del-poder-entre-gustavo-petro-y-abelardo-de-la-espriella-3569756",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T23:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "José Manuel Restrepo: ‘El día en que el gobierno de Gustavo Petro reconozca a Abelardo de la Espriella como presidente electo nos volvemos a sentar’",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/jose-manuel-restrepo-el-dia-en-que-el-gobierno-de-gustavo-petro-reconozca-a-abelardo-de-la-espriella-como-presidente-electo-nos-volvemos-a-sentar-3569743",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T22:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Ella es Elsa Noguera, nueva ministra de Transporte en el gabinete de Abelardo de la Espriella: fue la primera mujer elegida alcaldesa de Barranquilla",
@@ -87,14 +95,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "José Manuel Restrepo: ‘El día en que el gobierno de Gustavo Petro reconozca a Abelardo de la Espriella como presidente electo nos volvemos a sentar’",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/jose-manuel-restrepo-el-dia-en-que-el-gobierno-de-gustavo-petro-reconozca-a-abelardo-de-la-espriella-como-presidente-electo-nos-volvemos-a-sentar-3569743",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T19:10:17-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Asocapitales rechaza declaraciones del presidente Gustavo Petro sobre legitimidad de las elecciones y respalda a Abelardo de la Espriella: 'Graves'",
       "link": "https://www.eltiempo.com/politica/gobierno/asocapitales-expresa-su-rechazo-por-declaraciones-de-gustavo-petro-sobre-las-elecciones-expresamos-nuestro-respaldo-al-presidente-electo-3569698",
       "source": "El Tiempo",
@@ -115,14 +115,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-jaime-andres-beltran-nombrado-por-abelardo-de-la-espriella-como-nuevo-ministro-de-vivienda-para-su-gobierno-electo-3569673",
       "source": "El Tiempo",
       "pubDate": "2026-07-07T15:37:22-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La exfiscal Viviane Morales es designada como la ministra de Educación del gobierno de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-exfiscal-viviane-morales-es-designada-como-la-ministra-de-educacion-del-gobierno-de-abelardo-de-la-espriella-3568622",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T12:55:57-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
