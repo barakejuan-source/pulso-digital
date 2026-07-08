@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T23:06:50.965Z",
+  "updatedAt": "2026-07-08T02:59:21.258Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 13,
+      "trendsScore": 14,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 36,
+      "finalScore": 37,
       "momentum": {
-        "value": -2.7,
+        "value": 2.8,
         "direction": "flat"
       },
-      "probability": 47.4
+      "probability": 48.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,39 +42,31 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.6
+      "probability": 51.9
     }
   ],
   "articles": [
     {
-      "title": "Fuerte reclamo del Ministerio de Defensa al nuevo ministro tras ausentarse de la sesión de empalme: “No es una cortesía” ",
-      "link": "https://www.infobae.com/colombia/2026/07/07/fuerte-reclamo-de-pedro-sanchez-al-nuevo-ministro-de-defensa-tras-ausentarse-de-la-sesion-de-empalme-no-es-una-cortesia/",
+      "title": "Continúa el rifirrafe entre Sergio Fajardo y Gustavo Petro por desconocer a De la Espriella: “Sus desvaríos e irresponsabilidad”   ",
+      "link": "https://www.infobae.com/colombia/2026/07/08/continua-el-rifirrafe-entre-sergio-fajardo-y-gustavo-petro-por-desconocer-a-de-la-espriella-sus-desvarios-e-irresponsabilidad/",
       "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 22:46:58 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Wed, 08 Jul 2026 02:13:28 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "Lina María Garrido arremetió contra Gustavo Petro y lo acusó de estar “drogado de poder”, tras negarse a reconocer triunfo de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/07/07/lina-maria-garrido-arremetio-contra-gustavo-petro-y-lo-acuso-de-estar-drogado-de-poder-tras-negarse-a-reconocer-triunfo-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Tue, 07 Jul 2026 22:25:45 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ella es Elsa Noguera, la nueva ministra de Transporte en el gabinete de Abelardo de la Espriella: fue la primera alcaldesa mujer de Barranquilla",
-      "link": "https://www.eltiempo.com/politica/gobierno/ella-es-elsa-noguera-la-nueva-ministra-de-transporte-en-el-gabinete-de-abelardo-de-la-espriella-fue-la-primera-alcaldesa-mujer-de-barranquilla-3569732",
+      "title": "Ella es Elsa Noguera, nueva ministra de Transporte en el gabinete de Abelardo de la Espriella: fue la primera mujer elegida alcaldesa de Barranquilla",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ella-es-elsa-noguera-la-nueva-ministra-de-transporte-en-el-gabinete-de-abelardo-de-la-espriella-fue-la-primera-alcaldesa-mujer-de-barranquilla-3569732",
       "source": "El Tiempo",
-      "pubDate": "2026-07-07T17:22:54-05:00",
+      "pubDate": "2026-07-07T20:30:17-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "José Manuel Restrepo: ‘El día en que el gobierno de Gustavo Petro reconozca a Abelardo de la Espriella como presidente electo nos volvemos a sentar’",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/jose-manuel-restrepo-el-dia-en-que-el-gobierno-de-gustavo-petro-reconozca-a-abelardo-de-la-espriella-como-presidente-electo-nos-volvemos-a-sentar-3569743",
+      "title": "#ElFiltro: EL TIEMPO no publicó supuestas declaraciones del comandante del Ejército sobre Abelardo de la Espriella; la imagen es falsa",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/elfiltro-el-tiempo-no-publico-supuestas-declaraciones-del-comandante-del-ejercito-sobre-abelardo-de-la-espriella-la-imagen-es-falsa-3569771",
       "source": "El Tiempo",
-      "pubDate": "2026-07-07T17:20:12-05:00",
+      "pubDate": "2026-07-07T20:18:55-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -82,7 +74,23 @@
       "title": "Él es Mauricio Gómez Amín, el nuevo ministro de Comercio, Industria y Turismo en el gabinete de Abelardo de la Espriella: estuvo en el Congreso",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-es-mauricio-gomez-amin-el-nuevo-ministro-de-comercio-industria-y-turismo-en-el-gabinete-de-abelardo-de-la-espriella-estuvo-en-el-congreso-3569733",
       "source": "El Tiempo",
-      "pubDate": "2026-07-07T17:14:36-05:00",
+      "pubDate": "2026-07-07T20:03:04-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Duerma informado con las movidas de este 7 de junio de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-7-de-junio-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 08 Jul 2026 00:38:51 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "José Manuel Restrepo: ‘El día en que el gobierno de Gustavo Petro reconozca a Abelardo de la Espriella como presidente electo nos volvemos a sentar’",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/jose-manuel-restrepo-el-dia-en-que-el-gobierno-de-gustavo-petro-reconozca-a-abelardo-de-la-espriella-como-presidente-electo-nos-volvemos-a-sentar-3569743",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-07T19:10:17-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -115,22 +123,6 @@
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/la-exfiscal-viviane-morales-es-designada-como-la-ministra-de-educacion-del-gobierno-de-abelardo-de-la-espriella-3568622",
       "source": "El Tiempo",
       "pubDate": "2026-07-07T12:55:57-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella nombra como ministros a Elsa Noguera, Viviane Morales, Mauricio Gómez, Jaime Andrés Beltrán, Juliana Gutiérrez e Iván Cancino",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-nombra-como-ministros-a-elsa-noguera-viviane-morales-mauricio-gomez-jaime-andres-beltran-juliana-gutierrez-e-ivan-cancino-3569652",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-07T12:45:47-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "\"Pretende destruir a Colombia\": De la Espriella suspende la transición con el Gobierno de Petro",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260707-pretende-destruir-a-colombia-de-la-espriella-suspende-la-transici%C3%B3n-con-el-gobierno-de-petro",
-      "source": "France 24",
-      "pubDate": "Tue, 07 Jul 2026 17:26:42 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
