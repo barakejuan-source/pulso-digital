@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-08T19:38:58.112Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-08T21:12:26.632Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 14,
+      "trendsScore": 15,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -47,66 +47,66 @@
   ],
   "articles": [
     {
-      "title": "Alianza Verde, a pesar de manifestar su apoyo a Iván Cepeda, reconoció oficialmente los resultados de las elecciones presidenciales que dieron como ganador a Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/07/08/alianza-verde-reconocio-resultado-de-las-elecciones-presidenciales-en-segunda-vuelta-que-dio-como-ganador-a-abelardo-de-la-espriella/",
+      "title": "Balcázar recibe otra vez a Roberto Sánchez y al hermano de Pedro Castillo mientras crece expectativa por posible indulto",
+      "link": "https://www.infobae.com/peru/2026/07/08/jose-balcazar-recibe-a-roberto-sanchez-y-al-hermano-de-pedro-castillo-mientras-crece-la-expectativa-por-posible-indulto/",
       "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 19:29:30 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Wed, 08 Jul 2026 21:04:05 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Petro cuestionó a Viviane Morales por anunciar que buscarán nuevos métodos para la financiación de las universidades públicas: “Algo grave”",
-      "link": "https://www.infobae.com/colombia/2026/07/08/petro-cuestiono-a-viviane-morales-por-anunciar-que-buscaran-nuevos-metodos-para-la-financiacion-de-las-universidades-publicas-algo-grave/",
-      "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 19:25:55 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Jorge Cárdenas volvió ‘a cargar’ contra Gustavo Petro por críticas a proyectos de construir mega cárceles en Colombia: “Siguen intentando robarse las elecciones”",
-      "link": "https://www.infobae.com/colombia/2026/07/08/jorge-cardenas-volvio-a-cargar-contra-gustavo-petro-tras-mensaje-sobre-carceles-siguen-intentando-robarse-las-elecciones/",
-      "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 19:23:49 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Carlos Carrillo revivió mensajes del canciller de Abelardo de la Espriella Omar Bula en contra del actual presidente: “Petro será el siguiente objetivo”",
-      "link": "https://www.infobae.com/colombia/2026/07/08/carlos-carrillo-revivio-mensajes-de-omar-bula-para-aseverar-que-iria-detras-de-petro-desde-la-cancilleria-estamos-notificados/",
-      "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 19:16:22 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Defensora del Pueblo regañó a Gustavo Petro y a Iván Cepeda por desconocer al nuevo presidente: pidió reactivar el proceso de empalme",
-      "link": "https://www.infobae.com/colombia/2026/07/08/defensora-del-pueblo-regano-a-gustavo-petro-e-ivan-cepeda-por-desconocer-al-nuevo-presidente-pidio-reactivacion-del-empalme/",
-      "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 19:13:18 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Eliminar las audiencias de imputación: en qué consiste la propuesta que estudia el próximo  ministro de Justicia y tendría el apoyo de la Fiscalía",
-      "link": "https://www.infobae.com/colombia/2026/07/08/ivan-cancino-no-descarto-eliminar-las-audiencias-de-imputacion-una-vez-asuma-el-ministerio-de-justicia-podria-ahorrar-mucho-tiempo/",
-      "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 19:10:13 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella les envió ultimatum a cabecillas del ELN y las disidencias de las Farc: “Tienen un mes para entregarse” ",
-      "link": "https://www.infobae.com/colombia/2026/07/08/abelardo-de-la-espriella-declaro-como-objetivo-militar-a-lideres-guerrilleros-del-catatumbo-tienen-un-mes-para-entregarse/",
-      "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 19:07:51 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así va el encuentro del empalme regional que adelanta Abelardo de la Espriella en Cúcuta",
+      "title": "Las conclusiones del encuentro del empalme regional que adelanta Abelardo de la Espriella en Cúcuta",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/asi-va-el-encuentro-del-empalme-regional-que-adelanta-el-equipo-de-abelardo-de-la-espriella-en-cucuta-3569930",
       "source": "El Tiempo",
-      "pubDate": "2026-07-08T13:34:30-05:00",
+      "pubDate": "2026-07-08T16:02:01-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Empresas grandes y pequeñas de Colombia arremetieron contra Petro por desconocer la elección de Abelardo de la Espriella: “Es un mal perdedor” ",
+      "link": "https://www.infobae.com/colombia/2026/07/08/empresas-grandes-y-pequenas-de-colombia-arremetieron-contra-petro-por-desconocer-la-eleccion-de-abelardo-de-la-espriella-es-un-mal-perdedor/",
+      "source": "Infobae",
+      "pubDate": "Wed, 08 Jul 2026 20:59:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella dio por finalizado el proceso de empalme con Gustavo Petro: “Ya no podrán seguir maquillando la información”",
+      "link": "https://www.infobae.com/colombia/2026/07/08/abelardo-de-la-espriella-dio-por-finalizado-el-proceso-de-empalme-con-gustavo-petro-ya-no-podran-seguir-maquillando-la-informacion/",
+      "source": "Infobae",
+      "pubDate": "Wed, 08 Jul 2026 20:57:25 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ministro de Defensa del Gobierno de Abelardo de la Espriella solicitó información a la cartera saliente con más de 660 interrogantes ",
+      "link": "https://www.infobae.com/colombia/2026/07/08/ministro-de-defensa-del-gobierno-de-abelardo-de-la-espriella-solicito-informacion-a-la-cartera-saliente-con-mas-de-660-interrogantes/",
+      "source": "Infobae",
+      "pubDate": "Wed, 08 Jul 2026 20:50:09 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Le Pen vencería a todos sus rivales en segunda vuelta de Presidenciales, según un sondeo",
+      "link": "https://www.infobae.com/america/agencias/2026/07/08/le-pen-venceria-a-todos-sus-rivales-en-segunda-vuelta-de-presidenciales-segun-un-sondeo/",
+      "source": "Infobae",
+      "pubDate": "Wed, 08 Jul 2026 20:47:31 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Francia: Marine Le Pen inicia su campaña presidencial tras ratificación de su sentencia",
+      "link": "https://www.france24.com/es/video/20260708-francia-marine-le-pen-inicia-su-campa%C3%B1a-presidencial-tras-ratificaci%C3%B3n-de-su-sentencia",
+      "source": "France 24",
+      "pubDate": "Wed, 08 Jul 2026 20:15:09 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Quién es y cuáles son los principales retos de Omar Bula Escobar, el canciller de Abelardo de la Espriella?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-y-cuales-son-los-principales-retos-de-omar-bula-escobar-nuevo-canciller-de-abelardo-de-la-espriella-3569958",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-08T15:07:11-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -114,7 +114,7 @@
       "title": "¿Quién es Omar Bula Escobar, el nuevo ministro de Relaciones Exteriores del gobierno del presidente electo Abelardo de la Espriella?",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-omar-bula-escobar-el-nuevo-ministro-de-relaciones-exteriores-del-gobierno-del-presidente-electo-abelardo-de-la-espriella-3569939",
       "source": "El Tiempo",
-      "pubDate": "2026-07-08T13:23:25-05:00",
+      "pubDate": "2026-07-08T14:36:56-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
