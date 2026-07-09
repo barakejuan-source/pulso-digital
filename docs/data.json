@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T23:12:56.727Z",
+  "updatedAt": "2026-07-09T03:43:33.595Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 14,
+      "trendsScore": 16,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 37,
+      "finalScore": 38,
       "momentum": {
-        "value": 0,
+        "value": 2.7,
         "direction": "flat"
       },
-      "probability": 48.1
+      "probability": 48.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,39 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.9
+      "probability": 51.3
     }
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella se reunirá con el encargado de negocios de Estados Unidos en Colombia: así será el encuentro",
-      "link": "https://www.infobae.com/colombia/2026/07/08/abelardo-de-la-espriella-se-reunira-con-el-encargado-de-negocios-de-estados-unidos-en-colombia-asi-sera-el-encuentro/",
+      "title": "Procurador Gregorio Eljach solicitó un empalme presidencial inmediato y respetuoso: “Un proceso administrativo obligatorio”  ",
+      "link": "https://www.infobae.com/colombia/2026/07/09/procurador-gregorio-eljach-solicito-un-empalme-presidencial-inmediato-y-respetuoso-un-proceso-administrativo-obligatorio/",
       "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 23:02:59 +0000",
+      "pubDate": "Thu, 09 Jul 2026 02:41:48 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cathy Juvinao llamó “títere” a Iván Cepeda y desató la rabia de lideresas del Pacto Histórico: “Vergüenza es que dan”",
-      "link": "https://www.infobae.com/colombia/2026/07/08/cathy-juvinao-llamo-titere-a-ivan-cepeda-y-desato-la-rabia-de-lideresas-del-pacto-historico-verguenza-es-que-dan/",
-      "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 23:00:27 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Con ultimátum a ilegales del Catatumbo, arrancaron los empalmes regionales de Abelardo de la Espriella en Cúcuta",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-va-el-encuentro-del-empalme-regional-que-adelanta-el-equipo-de-abelardo-de-la-espriella-en-cucuta-3569930",
       "source": "El Tiempo",
-      "pubDate": "2026-07-08T17:52:21-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Petro reaccionó a designación de Omar Bula como canciller de Abelardo de la Espriella: “Lástima que Colombia ya no se opondrá al genocidio” ",
-      "link": "https://www.infobae.com/colombia/2026/07/08/petro-reacciono-a-designacion-de-omar-bula-como-canciller-de-abelardo-de-la-espriella-lastima-que-colombia-ya-no-se-opondra-al-genocidio/",
-      "source": "Infobae",
-      "pubDate": "Wed, 08 Jul 2026 22:15:49 +0000",
+      "pubDate": "2026-07-08T19:53:59-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -95,28 +79,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Francia: Marine Le Pen inicia su campaña presidencial tras ratificación de su sentencia",
-      "link": "https://www.france24.com/es/video/20260708-francia-marine-le-pen-inicia-su-campa%C3%B1a-presidencial-tras-ratificaci%C3%B3n-de-su-sentencia",
-      "source": "France 24",
-      "pubDate": "Wed, 08 Jul 2026 20:15:09 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "¿Quién es Omar Bula Escobar, el nuevo ministro de Relaciones Exteriores del gobierno del presidente electo Abelardo de la Espriella?",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-omar-bula-escobar-el-nuevo-ministro-de-relaciones-exteriores-del-gobierno-del-presidente-electo-abelardo-de-la-espriella-3569939",
       "source": "El Tiempo",
       "pubDate": "2026-07-08T14:36:56-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Directo Latam y las fracturas políticas del clan Bolsonaro en Brasil",
-      "link": "https://www.france24.com/es/video/20260708-directo-latam-y-las-fracturas-pol%C3%ADticas-del-clan-bolsonaro-en-brasil",
-      "source": "France 24",
-      "pubDate": "Wed, 08 Jul 2026 18:09:23 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Grupo Libertad y Democracia rechazó 'intentos' del presidente Gustavo Petro e Iván Cepeda de 'desconocer la voluntad popular expresada en las urnas'",
