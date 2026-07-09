@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T07:46:17.913Z",
+  "updatedAt": "2026-07-09T10:59:07.989Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: el nuevo mandatario se pronunció sobre la suspensión del proceso",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-el-nuevo-mandatario-se-pronuncio-sobre-la-suspension-del-proceso-3570080",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-09T04:55:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Con ultimátum a ilegales del Catatumbo, arrancaron los empalmes regionales de Abelardo de la Espriella en Cúcuta",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-va-el-encuentro-del-empalme-regional-que-adelanta-el-equipo-de-abelardo-de-la-espriella-en-cucuta-3569930",
       "source": "El Tiempo",
@@ -93,14 +101,6 @@
       "pubDate": "2026-07-08T11:18:59-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Faltan por nombrar siete ministerios en el gabinete de Abelardo de la Espriella: Salud, Trabajo y Cultura entre ellos",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/faltan-por-nombrar-siete-ministerios-en-el-gabinete-de-abelardo-de-la-espriella-salud-trabajo-y-cultura-entre-ellos-3569884",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T10:39:35-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
