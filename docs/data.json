@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-09T21:38:54.710Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-09T23:16:11.232Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 15,
+      "trendsScore": 17,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 37,
+      "finalScore": 38,
       "momentum": {
-        "value": 0,
+        "value": 2.7,
         "direction": "flat"
       },
-      "probability": 48.1
+      "probability": 48.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.9
+      "probability": 51.3
     }
   ],
   "articles": [
     {
-      "title": "“¿Se quedó sin señal?”: el sablazo que lanzó Carlos Carrillo a Daniel Briceño por su silencio ante el nepotismo del nuevo gobierno",
-      "link": "https://www.infobae.com/colombia/2026/07/09/se-quedo-sin-senal-el-sablazo-que-lanzo-carlos-carrillo-a-daniel-briceno-por-su-silencio-ante-el-nepotismo-del-nuevo-gobierno/",
+      "title": "Congresistas denunciaron a Petro ante la Comisión de Acusación por presunta “indignidad y mala conducta” tras desconocer los resultados electorales",
+      "link": "https://www.infobae.com/colombia/2026/07/09/congresistas-denunciaron-a-petro-ante-la-comision-de-acusacion-por-presunta-indignidad-y-mala-conducta-tras-desconocer-los-resultados-electorales/",
       "source": "Infobae",
-      "pubDate": "Thu, 09 Jul 2026 20:51:27 +0000",
+      "pubDate": "Thu, 09 Jul 2026 22:43:16 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Carlos Meisel arremetió contra Iván Cepeda tras acusar a la administración electa de configurar un “gobierno paramilitar”: “Finge para sostener su estrategia”",
-      "link": "https://www.infobae.com/colombia/2026/07/09/carlos-meisel-arremetio-contra-ivan-cepeda-tras-acusar-a-la-administracion-electa-de-configurar-un-gobierno-paramilitar-finge-para-sostener-su-estrategia/",
+      "title": "Congresista de Cambio Radical le pidió a Cepeda no asumir curul como senador: “Desconfía de nuestras instituciones, pero sí se quiere posesionar”",
+      "link": "https://www.infobae.com/colombia/2026/07/09/congresista-de-cambio-radical-le-pidio-a-cepeda-no-asumir-curul-como-senador-desconfia-de-nuestras-instituciones-pero-si-se-quiere-posesionar/",
       "source": "Infobae",
-      "pubDate": "Thu, 09 Jul 2026 20:43:47 +0000",
+      "pubDate": "Thu, 09 Jul 2026 22:41:32 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Radican en Consejo Nacional Electoral ponencia positiva para que Defensores de la Patria, movimiento de Abelardo de la Espriella, sea partido político",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/radican-en-consejo-nacional-electoral-ponencia-positiva-para-que-defensores-de-la-patria-movimiento-de-abelardo-de-la-espriella-sea-partido-politico-3570292",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-09T17:38:18-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Alejandro Ocampo mostró pruebas que demuestran que hubo jurados registrados en mesas de votación diferentes: “Eso no se puede”",
+      "link": "https://www.infobae.com/colombia/2026/07/09/alejandro-ocampo-mostro-pruebas-que-demuestran-que-hubo-jurados-registrados-en-mesas-de-votacion-diferentes-eso-no-se-puede/",
+      "source": "Infobae",
+      "pubDate": "Thu, 09 Jul 2026 22:28:37 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Alejandro Éder anunció acciones legales contra Iván Cepeda tras señalamientos de represión: “Es una acusación rastrera”",
+      "link": "https://www.infobae.com/colombia/2026/07/09/alejandro-eder-anuncio-acciones-legales-contra-el-ivan-cepeda-tras-senalamientos-de-represion-es-una-acusacion-rastrera/",
+      "source": "Infobae",
+      "pubDate": "Thu, 09 Jul 2026 22:25:41 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -75,14 +99,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-ordeno-preparar-operativo-para-capturar-o-dar-de-baja-a-alias-bendito-menor-tras-polemica-caravana-si-se-resiste-3570128",
       "source": "El Tiempo",
       "pubDate": "2026-07-09T10:10:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Denuncian que el Dapre declaró hábiles los fines de semana previos a la posesión de Abelardo de la Espriella: ‘Escandaloso’",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/denuncian-que-el-dapre-declaro-como-dias-habiles-los-fines-de-semana-que-restan-antes-de-la-posesion-de-abelardo-de-la-espriella-escandalosa-3570088",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-09T08:15:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
