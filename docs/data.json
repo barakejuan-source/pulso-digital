@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-09T20:00:15.087Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-09T21:38:54.710Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,12 +47,20 @@
   ],
   "articles": [
     {
-      "title": "Empalme de gobierno de Abelardo de la Espriella: presidente electo lanzó advertencia a cabecillas del Eln y Farc y se reunió con embajador de Japón",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-el-nuevo-mandatario-se-pronuncio-sobre-la-suspension-del-proceso-3570080",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-09T13:01:00-05:00",
+      "title": "“¿Se quedó sin señal?”: el sablazo que lanzó Carlos Carrillo a Daniel Briceño por su silencio ante el nepotismo del nuevo gobierno",
+      "link": "https://www.infobae.com/colombia/2026/07/09/se-quedo-sin-senal-el-sablazo-que-lanzo-carlos-carrillo-a-daniel-briceno-por-su-silencio-ante-el-nepotismo-del-nuevo-gobierno/",
+      "source": "Infobae",
+      "pubDate": "Thu, 09 Jul 2026 20:51:27 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Carlos Meisel arremetió contra Iván Cepeda tras acusar a la administración electa de configurar un “gobierno paramilitar”: “Finge para sostener su estrategia”",
+      "link": "https://www.infobae.com/colombia/2026/07/09/carlos-meisel-arremetio-contra-ivan-cepeda-tras-acusar-a-la-administracion-electa-de-configurar-un-gobierno-paramilitar-finge-para-sostener-su-estrategia/",
+      "source": "Infobae",
+      "pubDate": "Thu, 09 Jul 2026 20:43:47 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Presidente electo Abelardo de la Espriella se reunió con el embajador de Japón en Colombia para fortalecer la agenda comercial",
