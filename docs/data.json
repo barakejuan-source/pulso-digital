@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T03:43:33.595Z",
+  "updatedAt": "2026-07-09T07:46:17.913Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 15903,
       "finalScore": 38,
       "momentum": {
-        "value": 2.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.7
@@ -46,14 +46,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Procurador Gregorio Eljach solicitó un empalme presidencial inmediato y respetuoso: “Un proceso administrativo obligatorio”  ",
-      "link": "https://www.infobae.com/colombia/2026/07/09/procurador-gregorio-eljach-solicito-un-empalme-presidencial-inmediato-y-respetuoso-un-proceso-administrativo-obligatorio/",
-      "source": "Infobae",
-      "pubDate": "Thu, 09 Jul 2026 02:41:48 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
     {
       "title": "Con ultimátum a ilegales del Catatumbo, arrancaron los empalmes regionales de Abelardo de la Espriella en Cúcuta",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-va-el-encuentro-del-empalme-regional-que-adelanta-el-equipo-de-abelardo-de-la-espriella-en-cucuta-3569930",
