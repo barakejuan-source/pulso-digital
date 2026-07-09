@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T18:00:45.182Z",
+  "updatedAt": "2026-07-09T20:00:15.087Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 15903,
       "finalScore": 37,
       "momentum": {
-        "value": -2.6,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.1
@@ -47,34 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Así está el gabinete de Abelardo de la Espriella: faltan siete ministros por designar",
-      "link": "https://www.infobae.com/colombia/2026/07/09/asi-va-la-conformacion-del-gabinete-de-abelardo-de-la-espriella-faltan-ocho-ministros-por-designar/",
-      "source": "Infobae",
-      "pubDate": "Thu, 09 Jul 2026 17:46:42 +0000",
+      "title": "Empalme de gobierno de Abelardo de la Espriella: presidente electo lanzó advertencia a cabecillas del Eln y Farc y se reunió con embajador de Japón",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-el-nuevo-mandatario-se-pronuncio-sobre-la-suspension-del-proceso-3570080",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-09T13:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El canciller de Abelardo de la Espriella Omar Bula relató el angustioso momento que vivió al quedar atrapado en medio de un tiroteo en Sudán: “Una bala me pasó muy cerca”",
-      "link": "https://www.infobae.com/colombia/2026/07/09/omar-bula-escobar-relato-el-angustioso-momento-que-vivio-al-quedar-atrapado-en-medio-de-un-tiroteo-en-sudan-una-bala-me-paso-muy-cerca/",
-      "source": "Infobae",
-      "pubDate": "Thu, 09 Jul 2026 17:28:25 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La Coordinadora Nacional Ejército Bolivariano le pidió a Abelardo de la Espriella continuar el proceso de paz del Gobierno Petro: “Estamos listos”",
-      "link": "https://www.infobae.com/colombia/2026/07/09/la-coordinadora-nacional-ejercito-bolivariano-le-pidio-a-de-la-espriella-que-continue-con-el-proceso-de-paz-que-avanzo-durante-el-gobierno-petro/",
-      "source": "Infobae",
-      "pubDate": "Thu, 09 Jul 2026 17:27:41 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella envió nuevo ultimatum para que estas estructuras criminales se sometan a la ley: “Tendrán un mes”",
-      "link": "https://www.infobae.com/colombia/2026/07/09/abelardo-de-la-espriella-confirmo-orden-y-dio-un-mes-a-las-estructuras-criminales-en-norte-de-santander-para-someterse-a-la-ley/",
-      "source": "Infobae",
-      "pubDate": "Thu, 09 Jul 2026 17:25:27 +0000",
+      "title": "Presidente electo Abelardo de la Espriella se reunió con el embajador de Japón en Colombia para fortalecer la agenda comercial",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-reunio-con-el-embajador-de-japon-en-colombia-para-fortalecer-la-agenda-comercial-3570220",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-09T12:55:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -87,36 +71,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Directo Latam y la suspensión del empalme Petro - De la Espriella en Colombia",
-      "link": "https://www.france24.com/es/video/20260709-directo-latam-y-la-suspensi%C3%B3n-del-empalme-petro-de-la-espriella-en-colombia",
-      "source": "France 24",
-      "pubDate": "Thu, 09 Jul 2026 14:22:31 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Denuncian que el Dapre declaró hábiles los fines de semana previos a la posesión de Abelardo de la Espriella: ‘Escandaloso’",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/denuncian-que-el-dapre-declaro-como-dias-habiles-los-fines-de-semana-que-restan-antes-de-la-posesion-de-abelardo-de-la-espriella-escandalosa-3570088",
       "source": "El Tiempo",
       "pubDate": "2026-07-09T08:15:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: el nuevo mandatario se pronunció sobre la suspensión del proceso",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-el-nuevo-mandatario-se-pronuncio-sobre-la-suspension-del-proceso-3570080",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-09T04:55:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Defensora Iris Marín y procurador Gregorio Eljach exigen al presidente Petro e Iván Cepeda pleno respeto a los resultados electorales",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/defensora-iris-marin-y-procurador-gregorio-eljach-exigen-al-presidente-petro-e-ivan-cepeda-pleno-respeto-a-los-resultados-electorales-3569986",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T16:11:12-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
