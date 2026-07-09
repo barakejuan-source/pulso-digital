@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-09T10:59:07.989Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-09T15:18:53.894Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,58 @@
   ],
   "articles": [
     {
-      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: el nuevo mandatario se pronunció sobre la suspensión del proceso",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-el-nuevo-mandatario-se-pronuncio-sobre-la-suspension-del-proceso-3570080",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-09T04:55:00-05:00",
+      "title": "Así está el gabinete de Abelardo de la Espriella: faltan siete ministros por designar",
+      "link": "https://www.infobae.com/colombia/2026/07/09/asi-va-la-conformacion-del-gabinete-de-abelardo-de-la-espriella-faltan-ocho-ministros-por-designar/",
+      "source": "Infobae",
+      "pubDate": "Thu, 09 Jul 2026 15:02:36 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Con ultimátum a ilegales del Catatumbo, arrancaron los empalmes regionales de Abelardo de la Espriella en Cúcuta",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-va-el-encuentro-del-empalme-regional-que-adelanta-el-equipo-de-abelardo-de-la-espriella-en-cucuta-3569930",
+      "title": "Abelardo de la Espriella ordenó preparar operativo para 'capturar o dar de baja' a alias Bendito Menor tras polémica caravana: 'Si se resiste'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-ordeno-preparar-operativo-para-capturar-o-dar-de-baja-a-alias-bendito-menor-tras-polemica-caravana-si-se-resiste-3570128",
       "source": "El Tiempo",
-      "pubDate": "2026-07-08T19:53:59-05:00",
+      "pubDate": "2026-07-09T10:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Canciller designado confirmó que el gobierno de Abelardo de la Espriella revisará la relación de Colombia con las Naciones Unidas: “No se trata simplemente de abandonar la comunidad internacional”",
+      "link": "https://www.infobae.com/colombia/2026/07/09/canciller-designado-hablo-de-las-prioridades-del-gobierno-de-la-espriella-mejorar-las-relaciones-con-ee-uu-e-israel-pasaportes-y-acuerdos-internacionales/",
+      "source": "Infobae",
+      "pubDate": "Thu, 09 Jul 2026 14:51:30 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda aseguró que es falso que estén llamando a un golpe de Estado contra Abelardo de la Espriella: “Ese escenario no ha sido planteado”",
+      "link": "https://www.infobae.com/colombia/2026/07/09/ivan-cepeda-nego-que-se-este-llamando-a-un-golpe-de-estado-contra-abelardo-de-la-espriella-ese-escenario-no-ha-sido-planteado/",
+      "source": "Infobae",
+      "pubDate": "Thu, 09 Jul 2026 14:49:57 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Directo Latam y la suspensión del empalme Petro - De la Espriella en Colombia",
+      "link": "https://www.france24.com/es/video/20260709-directo-latam-y-la-suspensi%C3%B3n-del-empalme-petro-de-la-espriella-en-colombia",
+      "source": "France 24",
+      "pubDate": "Thu, 09 Jul 2026 14:22:31 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Denuncian que el Dapre declaró hábiles los fines de semana previos a la posesión de Abelardo de la Espriella: ‘Escandaloso’",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/denuncian-que-el-dapre-declaro-como-dias-habiles-los-fines-de-semana-que-restan-antes-de-la-posesion-de-abelardo-de-la-espriella-escandalosa-3570088",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-09T08:15:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Empalme de Gobierno del presidente electo Abelardo de la Espriella: el nuevo mandatario se pronunció sobre la suspensión del proceso",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-el-nuevo-mandatario-se-pronuncio-sobre-la-suspension-del-proceso-3570080",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-09T04:55:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -85,22 +125,6 @@
       "pubDate": "2026-07-08T14:36:56-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Grupo Libertad y Democracia rechazó 'intentos' del presidente Gustavo Petro e Iván Cepeda de 'desconocer la voluntad popular expresada en las urnas'",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/grupo-libertad-y-democracia-rechazo-intentos-del-presidente-gustavo-petro-e-ivan-cepeda-de-desconocer-la-voluntad-popular-expresada-en-las-urnas-3569903",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T12:36:18-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Alianza Verde, partido que apoyó a Iván Cepeda, reconoce la elección de Abelardo de la Espriella y llama a la transición democrática",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/alianza-verde-partido-que-apoyo-a-ivan-cepeda-reconoce-la-eleccion-de-abelardo-de-la-espriella-y-llama-a-la-transicion-democratica-3569909",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T11:18:59-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
