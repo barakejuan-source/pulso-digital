@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-09T15:18:53.894Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-09T18:00:45.182Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 16,
+      "trendsScore": 15,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 38,
+      "finalScore": 37,
       "momentum": {
-        "value": 0,
+        "value": -2.6,
         "direction": "flat"
       },
-      "probability": 48.7
+      "probability": 48.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,7 +42,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.3
+      "probability": 51.9
     }
   ],
   "articles": [
@@ -50,7 +50,31 @@
       "title": "Así está el gabinete de Abelardo de la Espriella: faltan siete ministros por designar",
       "link": "https://www.infobae.com/colombia/2026/07/09/asi-va-la-conformacion-del-gabinete-de-abelardo-de-la-espriella-faltan-ocho-ministros-por-designar/",
       "source": "Infobae",
-      "pubDate": "Thu, 09 Jul 2026 15:02:36 +0000",
+      "pubDate": "Thu, 09 Jul 2026 17:46:42 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El canciller de Abelardo de la Espriella Omar Bula relató el angustioso momento que vivió al quedar atrapado en medio de un tiroteo en Sudán: “Una bala me pasó muy cerca”",
+      "link": "https://www.infobae.com/colombia/2026/07/09/omar-bula-escobar-relato-el-angustioso-momento-que-vivio-al-quedar-atrapado-en-medio-de-un-tiroteo-en-sudan-una-bala-me-paso-muy-cerca/",
+      "source": "Infobae",
+      "pubDate": "Thu, 09 Jul 2026 17:28:25 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La Coordinadora Nacional Ejército Bolivariano le pidió a Abelardo de la Espriella continuar el proceso de paz del Gobierno Petro: “Estamos listos”",
+      "link": "https://www.infobae.com/colombia/2026/07/09/la-coordinadora-nacional-ejercito-bolivariano-le-pidio-a-de-la-espriella-que-continue-con-el-proceso-de-paz-que-avanzo-durante-el-gobierno-petro/",
+      "source": "Infobae",
+      "pubDate": "Thu, 09 Jul 2026 17:27:41 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella envió nuevo ultimatum para que estas estructuras criminales se sometan a la ley: “Tendrán un mes”",
+      "link": "https://www.infobae.com/colombia/2026/07/09/abelardo-de-la-espriella-confirmo-orden-y-dio-un-mes-a-las-estructuras-criminales-en-norte-de-santander-para-someterse-a-la-ley/",
+      "source": "Infobae",
+      "pubDate": "Thu, 09 Jul 2026 17:25:27 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,25 +82,9 @@
       "title": "Abelardo de la Espriella ordenó preparar operativo para 'capturar o dar de baja' a alias Bendito Menor tras polémica caravana: 'Si se resiste'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-ordeno-preparar-operativo-para-capturar-o-dar-de-baja-a-alias-bendito-menor-tras-polemica-caravana-si-se-resiste-3570128",
       "source": "El Tiempo",
-      "pubDate": "2026-07-09T10:01:00-05:00",
+      "pubDate": "2026-07-09T10:10:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Canciller designado confirmó que el gobierno de Abelardo de la Espriella revisará la relación de Colombia con las Naciones Unidas: “No se trata simplemente de abandonar la comunidad internacional”",
-      "link": "https://www.infobae.com/colombia/2026/07/09/canciller-designado-hablo-de-las-prioridades-del-gobierno-de-la-espriella-mejorar-las-relaciones-con-ee-uu-e-israel-pasaportes-y-acuerdos-internacionales/",
-      "source": "Infobae",
-      "pubDate": "Thu, 09 Jul 2026 14:51:30 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda aseguró que es falso que estén llamando a un golpe de Estado contra Abelardo de la Espriella: “Ese escenario no ha sido planteado”",
-      "link": "https://www.infobae.com/colombia/2026/07/09/ivan-cepeda-nego-que-se-este-llamando-a-un-golpe-de-estado-contra-abelardo-de-la-espriella-ese-escenario-no-ha-sido-planteado/",
-      "source": "Infobae",
-      "pubDate": "Thu, 09 Jul 2026 14:49:57 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Directo Latam y la suspensión del empalme Petro - De la Espriella en Colombia",
@@ -103,28 +111,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "¿Cuáles son los principales retos de Omar Bula Escobar, el canciller de Abelardo de la Espriella?",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-y-cuales-son-los-principales-retos-de-omar-bula-escobar-nuevo-canciller-de-abelardo-de-la-espriella-3569958",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T17:02:02-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Defensora Iris Marín y procurador Gregorio Eljach exigen al presidente Petro e Iván Cepeda pleno respeto a los resultados electorales",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/defensora-iris-marin-y-procurador-gregorio-eljach-exigen-al-presidente-petro-e-ivan-cepeda-pleno-respeto-a-los-resultados-electorales-3569986",
       "source": "El Tiempo",
       "pubDate": "2026-07-08T16:11:12-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Quién es Omar Bula Escobar, el nuevo ministro de Relaciones Exteriores del gobierno del presidente electo Abelardo de la Espriella?",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-omar-bula-escobar-el-nuevo-ministro-de-relaciones-exteriores-del-gobierno-del-presidente-electo-abelardo-de-la-espriella-3569939",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-08T14:36:56-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
