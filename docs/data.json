@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-10T10:59:17.615Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-10T14:36:32.123Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -46,6 +46,38 @@
     }
   ],
   "articles": [
+    {
+      "title": "Abelardo de la Espriella no podrá posesionarse en una base militar, según le notificó la Presidencia: estas son las razones",
+      "link": "https://www.infobae.com/colombia/2026/07/10/abelardo-de-la-espriella-no-podra-posesionarse-en-una-base-militar-segun-le-notifico-la-presidencia-estas-son-las-razones/",
+      "source": "Infobae",
+      "pubDate": "Fri, 10 Jul 2026 14:15:18 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cancino aseguró que Nayib Bukele no es uno de sus “personajes preferidos”, pero destacó su disciplina y su seguridad",
+      "link": "https://www.infobae.com/colombia/2026/07/10/ivan-cancino-reconocio-que-nayib-bukele-es-uno-de-sus-personajes-preferidos-destaco-su-disciplina-y-su-seguridad/",
+      "source": "Infobae",
+      "pubDate": "Fri, 10 Jul 2026 14:02:55 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El desarrollo regional será el gran reto de Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-rural/el-desarrollo-regional-sera-el-gran-reto-de-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 10 Jul 2026 14:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "3 pistas que dan los nombramientos de De la Espriella sobre cómo será su gobierno en Colombia",
+      "link": "https://www.bbc.com/mundo/articles/ckg4ev45q4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Fri, 10 Jul 2026 11:30:04 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Omar Bula, ministro de Exteriores del gobierno de Abelardo de la Espriella, reveló cuáles serán prioridades de la nueva Cancillería: pasaportes y más",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/velez-por-la-manana-omar-bula-escobar-canciller-designado-anuncia-revision-de-la-politica-exterior-va-a-ser-una-evaluacion-exhaustiva-3570312",
