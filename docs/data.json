@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-10T17:50:49.168Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-10T19:39:36.127Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 15903,
       "finalScore": 38,
       "momentum": {
-        "value": -2.6,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.7
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Gustavo Petro afirmó que el “CNE no quiso hacer el escrutinio sobre los votos en el exterior” y dijo que “no han terminado los escrutinios”",
+      "title": "Gustavo Petro insistió en la teoría de que jurados “muertos” habrían firmado actas en las elecciones presidenciales: “No han terminado los escrutinios”",
       "link": "https://www.infobae.com/colombia/2026/07/10/gustavo-petro-afirmo-que-el-cne-no-quiso-hacer-el-escrutinio-sobre-los-votos-en-el-exterior-y-dijo-que-no-han-terminado-los-escrutinios/",
       "source": "Infobae",
-      "pubDate": "Fri, 10 Jul 2026 17:45:43 +0000",
+      "pubDate": "Fri, 10 Jul 2026 19:33:42 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Ricardo Roa volvería a la presidencia de Ecopetrol antes de que termine el Gobierno Petro: esta es la razón",
+      "link": "https://www.infobae.com/colombia/2026/07/10/el-retorno-de-ricardo-roa-a-ecopetrol-esta-programado-para-el-29-de-julio-entregara-informe-y-se-retirara-del-cargo-antes-del-7-de-agosto/",
+      "source": "Infobae",
+      "pubDate": "Fri, 10 Jul 2026 19:07:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El panorama político que recibirá Keiko Fujimori desde el 28 de julio",
+      "link": "https://www.infobae.com/peru/2026/07/10/el-panorama-politico-que-recibira-keiko-fujimori-desde-el-28-de-julio/",
+      "source": "Infobae",
+      "pubDate": "Fri, 10 Jul 2026 19:00:25 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -63,26 +79,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Petro criticó anuncio de la nueva ministra de de Transporte de Abelardo de la Espriella sobre las tarifas de peajes: “El beneficiario es el concesionario”",
-      "link": "https://www.infobae.com/colombia/2026/07/10/petro-cuestiono-la-postura-del-ministerio-de-transporte-de-de-la-espriella-sobre-las-tarifas-de-peajes-el-beneficiario-es-el-concesionario/",
-      "source": "Infobae",
-      "pubDate": "Fri, 10 Jul 2026 17:36:04 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "El Movimiento Salvación Nacional anunció que apoyará trasladar la posesión de Abelardo de la Espriella a una sede distinta al Capitolio",
       "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-movimiento-salvacion-nacional-anuncio-que-apoyara-trasladar-la-posesion-de-abelardo-de-la-espriella-a-una-sede-distinta-al-capitolio-3570480",
       "source": "El Tiempo",
       "pubDate": "2026-07-10T12:35:08-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidencia de Gustavo Petro respondió petición de Abelardo de la Espriella para posesionarse en una base militar: “El Congreso tiene su sede en la capital de la República”",
-      "link": "https://www.infobae.com/colombia/2026/07/10/abelardo-de-la-espriella-no-podra-posesionarse-en-una-base-militar-segun-le-notifico-la-presidencia-estas-son-las-razones/",
-      "source": "Infobae",
-      "pubDate": "Fri, 10 Jul 2026 17:13:24 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -111,26 +111,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El desarrollo regional será el gran reto de Abelardo de la Espriella",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-rural/el-desarrollo-regional-sera-el-gran-reto-de-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 10 Jul 2026 14:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "3 pistas que dan los nombramientos de De la Espriella sobre cómo será su gobierno en Colombia",
       "link": "https://www.bbc.com/mundo/articles/ckg4ev45q4xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
       "pubDate": "Fri, 10 Jul 2026 11:30:04 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente electo Abelardo de la Espriella designa a Miller Soto y Carolina Gómez como voceros oficiales de su gobierno",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-designa-a-miller-soto-y-carolina-gomez-como-voceros-oficiales-de-su-gobierno-3570325",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-09T20:47:09-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
