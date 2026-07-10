@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-10T03:40:12.679Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-10T07:40:21.965Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 17,
+      "trendsScore": 19,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 38,
+      "finalScore": 39,
       "momentum": {
-        "value": 0,
+        "value": 2.6,
         "direction": "flat"
       },
-      "probability": 48.7
+      "probability": 49.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,34 +42,10 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.3
+      "probability": 50.6
     }
   ],
   "articles": [
-    {
-      "title": "Keiko Fujimori ganó con apoyo del Sur y el Centro, no del extranjero: sumó 405 mil votos más en el interior del país que en 2021",
-      "link": "https://www.infobae.com/peru/2026/07/10/keiko-fujimori-gano-con-apoyo-del-sur-y-el-centro-no-del-extranjero-sumo-405-mil-votos-mas-en-el-interior-del-pais-que-en-2021/",
-      "source": "Infobae",
-      "pubDate": "Fri, 10 Jul 2026 03:17:32 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "El Ministerio de Hacienda presentó el informe de empalme ante las sillas vacías de la administración de Abelardo de la Espriella  ",
-      "link": "https://www.infobae.com/colombia/2026/07/10/el-ministerio-de-hacienda-presento-el-informe-de-empalme-ante-las-sillas-vacias-de-la-administracion-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Fri, 10 Jul 2026 02:51:05 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cancino reconoció que Nayib Bukele es uno de sus “personajes preferidos”: destacó su disciplina y su seguridad",
-      "link": "https://www.infobae.com/colombia/2026/07/10/ivan-cancino-reconocio-que-nayib-bukele-es-uno-de-sus-personajes-preferidos-destaco-su-disciplina-y-su-seguridad/",
-      "source": "Infobae",
-      "pubDate": "Fri, 10 Jul 2026 02:45:20 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
     {
       "title": "Omar Bula, ministro de Exteriores del gobierno de Abelardo de la Espriella, reveló cuáles serán prioridades de la nueva Cancillería: pasaportes y más",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/velez-por-la-manana-omar-bula-escobar-canciller-designado-anuncia-revision-de-la-politica-exterior-va-a-ser-una-evaluacion-exhaustiva-3570312",
