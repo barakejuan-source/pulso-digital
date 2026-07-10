@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T21:10:24.168Z",
+  "updatedAt": "2026-07-10T23:02:25.929Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 18,
+      "trendsScore": 17,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -46,6 +46,46 @@
     }
   ],
   "articles": [
+    {
+      "title": "Presidente del Senado aseguró que Abelardo de la Espriella puede posesionarse en una guarnición militar: explicó qué debe hacer",
+      "link": "https://www.infobae.com/colombia/2026/07/10/presidente-del-senado-aseguro-que-abelardo-de-la-espriella-puede-posesionarse-en-una-guarnicion-militar-explico-que-debe-hacer/",
+      "source": "Infobae",
+      "pubDate": "Fri, 10 Jul 2026 22:58:26 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno Petro emitió nuevas órdenes para atender solicitudes del equipo de Abelardo de la Espriella, tras la suspensión del empalme",
+      "link": "https://www.infobae.com/colombia/2026/07/10/gobierno-petro-emitio-nuevas-ordenes-para-atender-solicitudes-del-equipo-de-abelardo-de-la-espriella-tras-la-suspension-del-empalme/",
+      "source": "Infobae",
+      "pubDate": "Fri, 10 Jul 2026 22:56:50 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Cuáles son los ministerios que el presidente electo Abelardo de la Espriella aún no define para su gabinete? Así avanza el proceso de nombramientos",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/cuales-son-los-ministerios-que-el-presidente-electo-abelardo-de-la-espriella-aun-no-define-para-su-gabinete-asi-avanza-el-proceso-de-nombramientos-3570554",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-10T17:18:20-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella y la videollamada con Yerry Mina y Juan Guillermo Cuadrado que generó polémica ",
+      "link": "https://www.infobae.com/colombia/2026/07/10/abelardo-de-la-espriella-y-la-videollamada-con-yerry-mina-y-juan-guillermo-cuadrado-que-genero-polemica/",
+      "source": "Infobae",
+      "pubDate": "Fri, 10 Jul 2026 22:10:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Cuál es la apuesta del gobierno de Abelardo de la Espriella con los voceros, al estilo de la Casa Blanca de los Estados Unidos?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/cual-es-la-apuesta-del-gobierno-de-abelardo-de-la-espriella-con-los-voceros-al-estilo-de-la-casa-blanca-de-los-estados-unidos-3570541",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-10T16:00:48-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Empalme de gobierno de Abelardo de la Espriella: así fue la reunión con el gerente general y codirectores del Banco de la República",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-de-abelardo-de-la-espriella-asi-fue-la-reunion-con-el-gerente-general-y-codirectores-del-banco-de-la-republica-3570472",
