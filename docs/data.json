@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-10T14:36:32.123Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-10T17:50:49.168Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 19,
+      "trendsScore": 18,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 39,
+      "finalScore": 38,
       "momentum": {
-        "value": 0,
+        "value": -2.6,
         "direction": "flat"
       },
-      "probability": 49.4
+      "probability": 48.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,71 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 50.6
+      "probability": 51.3
     }
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella no podrá posesionarse en una base militar, según le notificó la Presidencia: estas son las razones",
-      "link": "https://www.infobae.com/colombia/2026/07/10/abelardo-de-la-espriella-no-podra-posesionarse-en-una-base-militar-segun-le-notifico-la-presidencia-estas-son-las-razones/",
+      "title": "Gustavo Petro afirmó que el “CNE no quiso hacer el escrutinio sobre los votos en el exterior” y dijo que “no han terminado los escrutinios”",
+      "link": "https://www.infobae.com/colombia/2026/07/10/gustavo-petro-afirmo-que-el-cne-no-quiso-hacer-el-escrutinio-sobre-los-votos-en-el-exterior-y-dijo-que-no-han-terminado-los-escrutinios/",
       "source": "Infobae",
-      "pubDate": "Fri, 10 Jul 2026 14:15:18 +0000",
+      "pubDate": "Fri, 10 Jul 2026 17:45:43 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Empalme de gobierno de Abelardo de la Espriella: así fue la reunión con el gerente general y codirectores del Banco de la República",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-de-abelardo-de-la-espriella-asi-fue-la-reunion-con-el-gerente-general-y-codirectores-del-banco-de-la-republica-3570472",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-10T12:36:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cancino aseguró que Nayib Bukele no es uno de sus “personajes preferidos”, pero destacó su disciplina y su seguridad",
-      "link": "https://www.infobae.com/colombia/2026/07/10/ivan-cancino-reconocio-que-nayib-bukele-es-uno-de-sus-personajes-preferidos-destaco-su-disciplina-y-su-seguridad/",
+      "title": "Petro criticó anuncio de la nueva ministra de de Transporte de Abelardo de la Espriella sobre las tarifas de peajes: “El beneficiario es el concesionario”",
+      "link": "https://www.infobae.com/colombia/2026/07/10/petro-cuestiono-la-postura-del-ministerio-de-transporte-de-de-la-espriella-sobre-las-tarifas-de-peajes-el-beneficiario-es-el-concesionario/",
       "source": "Infobae",
-      "pubDate": "Fri, 10 Jul 2026 14:02:55 +0000",
+      "pubDate": "Fri, 10 Jul 2026 17:36:04 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El Movimiento Salvación Nacional anunció que apoyará trasladar la posesión de Abelardo de la Espriella a una sede distinta al Capitolio",
+      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-movimiento-salvacion-nacional-anuncio-que-apoyara-trasladar-la-posesion-de-abelardo-de-la-espriella-a-una-sede-distinta-al-capitolio-3570480",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-10T12:35:08-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidencia de Gustavo Petro respondió petición de Abelardo de la Espriella para posesionarse en una base militar: “El Congreso tiene su sede en la capital de la República”",
+      "link": "https://www.infobae.com/colombia/2026/07/10/abelardo-de-la-espriella-no-podra-posesionarse-en-una-base-militar-segun-le-notifico-la-presidencia-estas-son-las-razones/",
+      "source": "Infobae",
+      "pubDate": "Fri, 10 Jul 2026 17:13:24 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ciudades intermedias hacen llamado al gobierno de Abelardo De la Espriella para priorizar a las regiones",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ciudades-intermedias-hacen-llamado-al-gobierno-de-abelardo-de-la-espriella-para-priorizar-a-las-regiones-3570466",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-10T12:08:31-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Equipo de Abelardo de la Espriella le pide al Congreso que aclare si puede posesionarse fuera de Bogotá, como quiere el presidente electo",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/equipo-de-abelardo-de-la-espriella-le-pide-al-congreso-que-aclare-si-puede-posesionarse-fuera-de-bogota-como-quiere-el-presidente-electo-3570421",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-10T11:10:56-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Germán Calderón España dirigirá la Agencia Jurídica del Estado",
+      "link": "https://www.lasillavacia.com/en-vivo/german-calderon-espana-dirigira-la-agencia-juridica-del-estado/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 10 Jul 2026 14:46:39 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -79,42 +127,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Omar Bula, ministro de Exteriores del gobierno de Abelardo de la Espriella, reveló cuáles serán prioridades de la nueva Cancillería: pasaportes y más",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/velez-por-la-manana-omar-bula-escobar-canciller-designado-anuncia-revision-de-la-politica-exterior-va-a-ser-una-evaluacion-exhaustiva-3570312",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-09T20:57:07-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Presidente electo Abelardo de la Espriella designa a Miller Soto y Carolina Gómez como voceros oficiales de su gobierno",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-designa-a-miller-soto-y-carolina-gomez-como-voceros-oficiales-de-su-gobierno-3570325",
       "source": "El Tiempo",
       "pubDate": "2026-07-09T20:47:09-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella, presidente electo, hará su primer consejo de ministros este viernes en Barranquilla",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-presidente-electo-hara-su-primer-consejo-de-ministros-este-viernes-en-barranquilla-3570309",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-09T19:14:28-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Con un mensaje de respeto por la autonomía del Banco de la República concluyó la reunión de Abelardo de la Espriella con la junta directiva",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/con-un-mensaje-de-respeto-por-la-autonomia-del-banco-de-la-republica-concluyo-la-reunion-de-abelardo-de-la-espriella-con-la-junta-directiva-3570300",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-09T18:11:12-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Radican en Consejo Nacional Electoral ponencia positiva para que Defensores de la Patria, movimiento de Abelardo de la Espriella, sea partido político",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/radican-en-consejo-nacional-electoral-ponencia-positiva-para-que-defensores-de-la-patria-movimiento-de-abelardo-de-la-espriella-sea-partido-politico-3570292",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-09T17:59:53-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
