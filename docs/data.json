@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-10T19:39:36.127Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-10T21:10:24.168Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,30 +47,6 @@
   ],
   "articles": [
     {
-      "title": "Gustavo Petro insistió en la teoría de que jurados “muertos” habrían firmado actas en las elecciones presidenciales: “No han terminado los escrutinios”",
-      "link": "https://www.infobae.com/colombia/2026/07/10/gustavo-petro-afirmo-que-el-cne-no-quiso-hacer-el-escrutinio-sobre-los-votos-en-el-exterior-y-dijo-que-no-han-terminado-los-escrutinios/",
-      "source": "Infobae",
-      "pubDate": "Fri, 10 Jul 2026 19:33:42 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Ricardo Roa volvería a la presidencia de Ecopetrol antes de que termine el Gobierno Petro: esta es la razón",
-      "link": "https://www.infobae.com/colombia/2026/07/10/el-retorno-de-ricardo-roa-a-ecopetrol-esta-programado-para-el-29-de-julio-entregara-informe-y-se-retirara-del-cargo-antes-del-7-de-agosto/",
-      "source": "Infobae",
-      "pubDate": "Fri, 10 Jul 2026 19:07:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El panorama político que recibirá Keiko Fujimori desde el 28 de julio",
-      "link": "https://www.infobae.com/peru/2026/07/10/el-panorama-politico-que-recibira-keiko-fujimori-desde-el-28-de-julio/",
-      "source": "Infobae",
-      "pubDate": "Fri, 10 Jul 2026 19:00:25 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Empalme de gobierno de Abelardo de la Espriella: así fue la reunión con el gerente general y codirectores del Banco de la República",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-de-abelardo-de-la-espriella-asi-fue-la-reunion-con-el-gerente-general-y-codirectores-del-banco-de-la-republica-3570472",
       "source": "El Tiempo",
@@ -99,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/equipo-de-abelardo-de-la-espriella-le-pide-al-congreso-que-aclare-si-puede-posesionarse-fuera-de-bogota-como-quiere-el-presidente-electo-3570421",
       "source": "El Tiempo",
       "pubDate": "2026-07-10T11:10:56-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Germán Calderón España dirigirá la Agencia Jurídica del Estado",
-      "link": "https://www.lasillavacia.com/en-vivo/german-calderon-espana-dirigira-la-agencia-juridica-del-estado/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 10 Jul 2026 14:46:39 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
