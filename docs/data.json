@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T20:55:11.010Z",
+  "updatedAt": "2026-07-11T22:55:20.197Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,28 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 17,
-      "youtubeScore": 100,
-      "sentimentScore": 4,
-      "sentimentPct": {
-        "positive": 4,
-        "negative": 70,
-        "neutral": 26
-      },
-      "youtubeViews": 15903,
-      "finalScore": 38,
-      "momentum": {
-        "value": 0,
-        "direction": "flat"
-      },
-      "probability": 48.7
-    },
-    {
-      "id": "abelardo_espriella",
-      "name": "Abelardo de la Espriella",
-      "party": "Defensores de la Patria",
-      "color": "#1D3557",
-      "trendsScore": 100,
+      "trendsScore": 16,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -37,36 +16,65 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 40,
+      "finalScore": 6,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -84.2,
+        "direction": "down"
       },
-      "probability": 51.3
+      "probability": 7
+    },
+    {
+      "id": "abelardo_espriella",
+      "name": "Abelardo de la Espriella",
+      "party": "Defensores de la Patria",
+      "color": "#1D3557",
+      "trendsScore": 100,
+      "youtubeScore": 100,
+      "sentimentScore": 34,
+      "sentimentPct": {
+        "positive": 34,
+        "negative": 34,
+        "neutral": 32
+      },
+      "youtubeViews": 57033,
+      "finalScore": 80,
+      "momentum": {
+        "value": 100,
+        "direction": "up"
+      },
+      "probability": 93
     }
   ],
   "articles": [
+    {
+      "title": "Reacciones al nombramiento de Indalecio Dangond como ministro de Agricultura para el gobierno de Abelardo de la Espriella ",
+      "link": "https://www.infobae.com/colombia/2026/07/11/reacciones-al-nombramiento-de-indalecio-dangond-como-ministro-de-agricultura-para-el-gobierno-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Sat, 11 Jul 2026 22:36:15 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda anunció la creación de una Red Nacional de Defensa de la Reforma Agraria: convocó a campesinos a proteger las tierras",
+      "link": "https://www.infobae.com/colombia/2026/07/11/ivan-cepeda-anuncio-la-creacion-de-una-red-nacional-de-defensa-de-la-reforma-agraria-convoco-a-campesinos-a-proteger-las-tierras/",
+      "source": "Infobae",
+      "pubDate": "Sat, 11 Jul 2026 22:33:03 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Sur y Centro le dieron la victoria a Keiko Fujimori, no el extranjero: obtuvo 405 mil votos más en el interior que en 2021",
+      "link": "https://www.infobae.com/peru/2026/07/10/keiko-fujimori-gano-con-apoyo-del-sur-y-el-centro-no-del-extranjero-sumo-405-mil-votos-mas-en-el-interior-del-pais-que-en-2021/",
+      "source": "Infobae",
+      "pubDate": "Sat, 11 Jul 2026 21:31:08 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "¿Abelardo de la Espriella puede posesionarse en una guarnición militar? Esto dice el presidente del Congreso",
       "link": "https://www.eltiempo.com/politica/congreso/abelardo-de-la-espriella-puede-posesionarse-en-una-guarnicion-militar-esto-dice-el-presidente-del-congreso-3570705",
       "source": "El Tiempo",
       "pubDate": "2026-07-11T15:54:23-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Tras el rechazo de Venezuela, Abelardo de la Espriella insistió en ofrecer apoyo humanitario por terremotos: “No se planteó desconocer la soberanía”",
-      "link": "https://www.infobae.com/colombia/2026/07/11/tras-el-rechazo-de-venezuela-abelardo-de-la-espriella-insistio-en-ofrecer-apoyo-humanitario-por-terremotos-no-se-planteo-desconocer-la-soberania/",
-      "source": "Infobae",
-      "pubDate": "Sat, 11 Jul 2026 20:31:39 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Terminó el segundo empalme territorial en Casanare: Abelardo de la Espriella anunció ayudas para atender a los damnificados por inundaciones",
-      "link": "https://www.infobae.com/colombia/2026/07/11/termino-el-segundo-empalme-territorial-en-casanare-abelardo-de-la-espriella-anuncio-ayudas-para-atender-a-los-damnificados-por-inundaciones/",
-      "source": "Infobae",
-      "pubDate": "Sat, 11 Jul 2026 19:43:59 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
