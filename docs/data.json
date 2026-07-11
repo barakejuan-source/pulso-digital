@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T11:09:50.052Z",
+  "updatedAt": "2026-07-11T13:28:22.818Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 15,
+      "trendsScore": 16,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 15903,
-      "finalScore": 37,
+      "finalScore": 38,
       "momentum": {
-        "value": -2.6,
+        "value": 2.7,
         "direction": "flat"
       },
-      "probability": 48.1
+      "probability": 48.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,18 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.9
+      "probability": 51.3
     }
   ],
   "articles": [
+    {
+      "title": "Activista arremetió contra Yerry Mina y Juan Guillermo Cuadrado tras videollamada con Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/11/activista-arremetio-contra-yerry-mina-y-juan-guillermo-cuadrado-tras-videollamada-con-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Sat, 11 Jul 2026 13:19:27 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Las conclusiones del primer consejo de ministros designados de Abelardo de la Espriella en Barranquilla",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/las-conclusiones-del-primer-consejo-de-ministros-designados-de-abelardo-de-la-espriella-en-barranquilla-3570617",
