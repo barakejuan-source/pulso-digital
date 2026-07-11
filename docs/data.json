@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T23:02:25.929Z",
+  "updatedAt": "2026-07-11T02:54:45.976Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 17,
+      "trendsScore": 16,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Presidente del Senado aseguró que Abelardo de la Espriella puede posesionarse en una guarnición militar: explicó qué debe hacer",
-      "link": "https://www.infobae.com/colombia/2026/07/10/presidente-del-senado-aseguro-que-abelardo-de-la-espriella-puede-posesionarse-en-una-guarnicion-militar-explico-que-debe-hacer/",
+      "title": "Abelardo de la Espriella adelantó el primer “Consejo de Ministros” con su gabinete designado y entregó balance del encuentro: “Aquí no hay flojera”",
+      "link": "https://www.infobae.com/colombia/2026/07/11/abelardo-de-la-espriella-adelanto-el-primer-consejo-de-ministros-con-su-gabinete-designado-y-entrego-balance-del-encuentro-aqui-no-hay-flojera/",
       "source": "Infobae",
-      "pubDate": "Fri, 10 Jul 2026 22:58:26 +0000",
+      "pubDate": "Sat, 11 Jul 2026 02:49:52 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gobierno Petro emitió nuevas órdenes para atender solicitudes del equipo de Abelardo de la Espriella, tras la suspensión del empalme",
-      "link": "https://www.infobae.com/colombia/2026/07/10/gobierno-petro-emitio-nuevas-ordenes-para-atender-solicitudes-del-equipo-de-abelardo-de-la-espriella-tras-la-suspension-del-empalme/",
+      "title": "Universidades colombianas pidieron respeto a la Constitución ante intentos de desconocer los resultados electorales: “No admite excepciones”  ",
+      "link": "https://www.infobae.com/colombia/2026/07/11/universidades-colombianas-pidieron-respeto-a-la-constitucion-ante-intentos-de-desconocer-los-resultados-electorales-no-admite-excepciones/",
       "source": "Infobae",
-      "pubDate": "Fri, 10 Jul 2026 22:56:50 +0000",
+      "pubDate": "Sat, 11 Jul 2026 01:10:08 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -71,14 +71,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella y la videollamada con Yerry Mina y Juan Guillermo Cuadrado que generó polémica ",
-      "link": "https://www.infobae.com/colombia/2026/07/10/abelardo-de-la-espriella-y-la-videollamada-con-yerry-mina-y-juan-guillermo-cuadrado-que-genero-polemica/",
-      "source": "Infobae",
-      "pubDate": "Fri, 10 Jul 2026 22:10:56 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "¿Cuál es la apuesta del gobierno de Abelardo de la Espriella con los voceros, al estilo de la Casa Blanca de los Estados Unidos?",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/cual-es-la-apuesta-del-gobierno-de-abelardo-de-la-espriella-con-los-voceros-al-estilo-de-la-casa-blanca-de-los-estados-unidos-3570541",
       "source": "El Tiempo",
@@ -87,7 +79,7 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Empalme de gobierno de Abelardo de la Espriella: así fue la reunión con el gerente general y codirectores del Banco de la República",
+      "title": "Empalme de gobierno: Abelardo de la Espriella se pronunció tras primer consejo de ministros y entregó balance; 'Asuntos prioritarios'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-de-abelardo-de-la-espriella-asi-fue-la-reunion-con-el-gerente-general-y-codirectores-del-banco-de-la-republica-3570472",
       "source": "El Tiempo",
       "pubDate": "2026-07-10T12:36:12-05:00",
@@ -107,14 +99,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ciudades-intermedias-hacen-llamado-al-gobierno-de-abelardo-de-la-espriella-para-priorizar-a-las-regiones-3570466",
       "source": "El Tiempo",
       "pubDate": "2026-07-10T12:08:31-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Equipo de Abelardo de la Espriella le pide al Congreso que aclare si puede posesionarse fuera de Bogotá, como quiere el presidente electo",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/equipo-de-abelardo-de-la-espriella-le-pide-al-congreso-que-aclare-si-puede-posesionarse-fuera-de-bogota-como-quiere-el-presidente-electo-3570421",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-10T11:10:56-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
