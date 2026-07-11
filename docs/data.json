@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T19:11:12.185Z",
+  "updatedAt": "2026-07-11T20:55:11.010Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 16,
+      "trendsScore": 17,
       "youtubeScore": 100,
       "sentimentScore": 4,
       "sentimentPct": {
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Bernie Moreno confirmó asistencia a la posesión de Abelardo de la Espriella: “Estoy deseoso de formar parte de una delegación histórica”",
-      "link": "https://www.infobae.com/colombia/2026/07/11/bernie-moreno-confirmo-asistencia-a-la-posesion-de-abelardo-de-la-espriella-estoy-deseoso-de-formar-parte-de-una-delegacion-historica/",
+      "title": "¿Abelardo de la Espriella puede posesionarse en una guarnición militar? Esto dice el presidente del Congreso",
+      "link": "https://www.eltiempo.com/politica/congreso/abelardo-de-la-espriella-puede-posesionarse-en-una-guarnicion-militar-esto-dice-el-presidente-del-congreso-3570705",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-11T15:54:23-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Tras el rechazo de Venezuela, Abelardo de la Espriella insistió en ofrecer apoyo humanitario por terremotos: “No se planteó desconocer la soberanía”",
+      "link": "https://www.infobae.com/colombia/2026/07/11/tras-el-rechazo-de-venezuela-abelardo-de-la-espriella-insistio-en-ofrecer-apoyo-humanitario-por-terremotos-no-se-planteo-desconocer-la-soberania/",
       "source": "Infobae",
-      "pubDate": "Sat, 11 Jul 2026 17:56:55 +0000",
+      "pubDate": "Sat, 11 Jul 2026 20:31:39 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Terminó el segundo empalme territorial en Casanare: Abelardo de la Espriella anunció ayudas para atender a los damnificados por inundaciones",
+      "link": "https://www.infobae.com/colombia/2026/07/11/termino-el-segundo-empalme-territorial-en-casanare-abelardo-de-la-espriella-anuncio-ayudas-para-atender-a-los-damnificados-por-inundaciones/",
+      "source": "Infobae",
+      "pubDate": "Sat, 11 Jul 2026 19:43:59 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -99,14 +115,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/cual-es-la-apuesta-del-gobierno-de-abelardo-de-la-espriella-con-los-voceros-al-estilo-de-la-casa-blanca-de-los-estados-unidos-3570541",
       "source": "El Tiempo",
       "pubDate": "2026-07-10T16:00:48-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El Movimiento Salvación Nacional anunció que apoyará trasladar la posesión de Abelardo de la Espriella a una sede distinta al Capitolio",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/el-movimiento-salvacion-nacional-anuncio-que-apoyara-trasladar-la-posesion-de-abelardo-de-la-espriella-a-una-sede-distinta-al-capitolio-3570480",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-10T12:35:08-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
