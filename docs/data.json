@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T13:28:22.818Z",
+  "updatedAt": "2026-07-11T14:58:54.109Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 15903,
       "finalScore": 38,
       "momentum": {
-        "value": 2.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.7
@@ -47,10 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Activista arremetió contra Yerry Mina y Juan Guillermo Cuadrado tras videollamada con Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/07/11/activista-arremetio-contra-yerry-mina-y-juan-guillermo-cuadrado-tras-videollamada-con-abelardo-de-la-espriella/",
+      "title": "Defensoría pidió a De la Espriella y al Congreso entrante garantizar derechos de víctimas en Colombia, tras firma del Acuerdo de Paz",
+      "link": "https://www.infobae.com/colombia/2026/07/11/defensoria-pidio-a-de-la-espriella-y-al-congreso-entrante-garantizar-derechos-de-victimas-en-colombia-tras-firma-del-acuerdo-de-paz/",
       "source": "Infobae",
-      "pubDate": "Sat, 11 Jul 2026 13:19:27 +0000",
+      "pubDate": "Sat, 11 Jul 2026 14:52:35 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Pilar Rueda, esposa de Iván Cepeda, se reintegra a la JEP tras un corto período acompañando la campaña presidencial / En secreto",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/pilar-rueda-esposa-de-ivan-cepeda-se-reintegra-a-la-jep-tras-un-corto-periodo-acompanando-la-campana-presidencial-en-secreto-3570654",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-11T09:46:48-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Las dudas jurídicas y el procedimiento del Congreso ante la petición de Abelardo de la Espriella: pide al Congreso trasladar su sede para la posesión presidencial",
+      "link": "https://www.infobae.com/colombia/2026/07/10/presidente-del-senado-aseguro-que-abelardo-de-la-espriella-puede-posesionarse-en-una-guarnicion-militar-explico-que-debe-hacer/",
+      "source": "Infobae",
+      "pubDate": "Sat, 11 Jul 2026 14:42:59 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Roberto Sánchez pidió la liberación de Pedro Castillo tras informe de expertos de la ONU: “Nos preparamos para movilizarnos”",
+      "link": "https://www.infobae.com/peru/2026/07/11/roberto-sanchez-pidio-la-liberacion-de-pedro-castillo-tras-informe-de-expertos-de-la-onu-nos-preparamos-para-movilizarnos/",
+      "source": "Infobae",
+      "pubDate": "Sat, 11 Jul 2026 14:13:03 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Canciller japonés Toshimitsu Motegi visitaría Colombia en agosto: podría estar en la posesión de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/11/canciller-japones-toshimitsu-motegi-visitaria-colombia-en-agosto-podria-estar-en-la-posesion-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Sat, 11 Jul 2026 14:04:40 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
