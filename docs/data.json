@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T17:03:55.703Z",
+  "updatedAt": "2026-07-12T19:11:19.199Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 18,
+      "trendsScore": 19,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 7,
+      "finalScore": 8,
       "momentum": {
-        "value": 0,
+        "value": 14.3,
         "direction": "flat"
       },
-      "probability": 8
+      "probability": 9.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,15 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 92
+      "probability": 90.9
     }
   ],
   "articles": [
     {
-      "title": "Alerta en La Guajira por reaparición de alias Bendito Menor junto a su pareja: “Estamos melos, sin miedo”",
-      "link": "https://www.infobae.com/colombia/2026/07/12/alerta-en-la-guajira-por-reaparicion-de-alias-bendito-menor-junto-a-su-pareja-estamos-melos-sin-miedo/",
+      "title": "Equipo de Abelardo de la Espriella ya interpuso denuncia penal por millonario contrato de Ecopetrol: habría favorecido a firma asesora ",
+      "link": "https://www.infobae.com/colombia/2026/07/12/equipo-de-abelardo-de-la-espriella-ya-interpuso-denuncia-penal-por-millonario-contrato-de-ecopetrol-habria-favorecido-a-firma-asesora/",
       "source": "Infobae",
-      "pubDate": "Sun, 12 Jul 2026 16:27:51 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Profesor se negó a comprarle panela a un vendedor porque votó por Abelardo de la Espriella: todo quedó en video ",
-      "link": "https://www.infobae.com/colombia/2026/07/12/profesor-se-nego-a-comprarle-panela-a-un-vendedor-porque-voto-por-abelardo-de-la-espriella-todo-quedo-en-video/",
-      "source": "Infobae",
-      "pubDate": "Sun, 12 Jul 2026 16:23:18 +0000",
+      "pubDate": "Sun, 12 Jul 2026 18:20:52 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -123,14 +115,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/cuales-son-los-ministerios-que-el-presidente-electo-abelardo-de-la-espriella-aun-no-define-para-su-gabinete-asi-avanza-el-proceso-de-nombramientos-3570554",
       "source": "El Tiempo",
       "pubDate": "2026-07-10T17:18:20-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Cuál es la apuesta del gobierno de Abelardo de la Espriella con los voceros, al estilo de la Casa Blanca de los Estados Unidos?",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/cual-es-la-apuesta-del-gobierno-de-abelardo-de-la-espriella-con-los-voceros-al-estilo-de-la-casa-blanca-de-los-estados-unidos-3570541",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-10T16:00:48-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
