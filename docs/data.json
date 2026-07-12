@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T06:38:07.476Z",
+  "updatedAt": "2026-07-12T09:54:58.130Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 18,
+      "trendsScore": 19,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 7,
+      "finalScore": 8,
       "momentum": {
-        "value": 0,
+        "value": 14.3,
         "direction": "flat"
       },
-      "probability": 8
+      "probability": 9.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,18 +42,10 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 92
+      "probability": 90.9
     }
   ],
   "articles": [
-    {
-      "title": "Ministro de Hacienda de Abelardo de la Espriella plantea reforma tributaria, fracking y cambios al 4x1.000 para enfrentar la crisis fiscal",
-      "link": "https://www.infobae.com/colombia/2026/07/12/ministro-de-hacienda-de-abelardo-de-la-espriella-anuncia-reforma-tributaria-fracking-y-cambios-al-4x1000-para-enfrentar-la-crisis-fiscal/",
-      "source": "Infobae",
-      "pubDate": "Sun, 12 Jul 2026 04:58:29 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
     {
       "title": "Presidente electo, Abelardo de la Espriella, comienza a formar un gabinete con perfiles técnicos",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-comienza-a-formar-un-gabinete-con-perfiles-tecnicos-3570722",
