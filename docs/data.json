@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T03:20:09.169Z",
+  "updatedAt": "2026-07-12T06:38:07.476Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 7,
       "momentum": {
-        "value": 16.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 8
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Las diez demandas más cuantiosas contra la Nación suman $219,4 billones: el desafío que asumirá Germán Calderón en la defensa jurídica del Estado",
-      "link": "https://www.infobae.com/colombia/2026/07/12/las-diez-demandas-mas-cuantiosas-contra-la-nacion-suman-2194-billones-el-desafio-que-asumira-german-calderon-en-la-defensa-juridica-del-estado/",
+      "title": "Ministro de Hacienda de Abelardo de la Espriella plantea reforma tributaria, fracking y cambios al 4x1.000 para enfrentar la crisis fiscal",
+      "link": "https://www.infobae.com/colombia/2026/07/12/ministro-de-hacienda-de-abelardo-de-la-espriella-anuncia-reforma-tributaria-fracking-y-cambios-al-4x1000-para-enfrentar-la-crisis-fiscal/",
       "source": "Infobae",
-      "pubDate": "Sun, 12 Jul 2026 01:56:49 +0000",
+      "pubDate": "Sun, 12 Jul 2026 04:58:29 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente electo, Abelardo de la Espriella, comienza a formar un gabinete con perfiles técnicos",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-comienza-a-formar-un-gabinete-con-perfiles-tecnicos-3570722",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-11T23:30:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
