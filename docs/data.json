@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T19:11:19.199Z",
+  "updatedAt": "2026-07-12T20:55:53.111Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 19,
+      "trendsScore": 18,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 8,
+      "finalScore": 7,
       "momentum": {
-        "value": 14.3,
+        "value": -12.5,
         "direction": "flat"
       },
-      "probability": 9.1
+      "probability": 8
     },
     {
       "id": "abelardo_espriella",
@@ -42,17 +42,17 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 90.9
+      "probability": 92
     }
   ],
   "articles": [
     {
-      "title": "Equipo de Abelardo de la Espriella ya interpuso denuncia penal por millonario contrato de Ecopetrol: habría favorecido a firma asesora ",
-      "link": "https://www.infobae.com/colombia/2026/07/12/equipo-de-abelardo-de-la-espriella-ya-interpuso-denuncia-penal-por-millonario-contrato-de-ecopetrol-habria-favorecido-a-firma-asesora/",
+      "title": "Exfiscal Francisco Barbosa acusó a Gustavo Petro e Iván Cepeda de “asediar” las instituciones tras la elección de Abelardo De la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/12/exfiscal-francisco-barbosa-acuso-a-gustavo-petro-e-ivan-cepeda-de-asediar-las-instituciones-tras-la-eleccion-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Sun, 12 Jul 2026 18:20:52 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Sun, 12 Jul 2026 20:15:33 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Pilar Rueda, esposa de Iván Cepeda, regresa a la JEP ",
