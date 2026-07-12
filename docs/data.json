@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T11:14:58.662Z",
+  "updatedAt": "2026-07-12T13:28:41.702Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 18,
+      "trendsScore": 17,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 7,
       "momentum": {
-        "value": -12.5,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 8
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Abelardo de la Espriella no sería el único presidente que se posesiona fuera del Congreso: estos son los antecedentes",
+      "link": "https://www.infobae.com/colombia/2026/07/12/abelardo-de-la-espriella-no-seria-el-unico-presidente-que-se-posesiona-fuera-del-congreso-estos-son-los-antecedentes/",
+      "source": "Infobae",
+      "pubDate": "Sun, 12 Jul 2026 12:45:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Presidente electo, Abelardo de la Espriella, comienza a formar un gabinete con perfiles técnicos",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-comienza-a-formar-un-gabinete-con-perfiles-tecnicos-3570722",
