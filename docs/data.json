@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T15:01:19.845Z",
+  "updatedAt": "2026-07-12T17:03:55.703Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,12 +47,28 @@
   ],
   "articles": [
     {
-      "title": "Carlos Carrillo criticó pronunciamiento de Abelardo de la Espriella por entrega de ayudas en Casanare: “¡Qué barato todo con esta gente!”",
-      "link": "https://www.infobae.com/colombia/2026/07/12/carlos-carrillo-critico-pronunciamiento-de-abelardo-de-la-espriella-por-entrega-de-ayudas-en-casanare-que-barato-todo-con-esta-gente/",
+      "title": "Alerta en La Guajira por reaparición de alias Bendito Menor junto a su pareja: “Estamos melos, sin miedo”",
+      "link": "https://www.infobae.com/colombia/2026/07/12/alerta-en-la-guajira-por-reaparicion-de-alias-bendito-menor-junto-a-su-pareja-estamos-melos-sin-miedo/",
       "source": "Infobae",
-      "pubDate": "Sun, 12 Jul 2026 14:17:35 +0000",
+      "pubDate": "Sun, 12 Jul 2026 16:27:51 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Profesor se negó a comprarle panela a un vendedor porque votó por Abelardo de la Espriella: todo quedó en video ",
+      "link": "https://www.infobae.com/colombia/2026/07/12/profesor-se-nego-a-comprarle-panela-a-un-vendedor-porque-voto-por-abelardo-de-la-espriella-todo-quedo-en-video/",
+      "source": "Infobae",
+      "pubDate": "Sun, 12 Jul 2026 16:23:18 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Pilar Rueda, esposa de Iván Cepeda, regresa a la JEP ",
+      "link": "https://www.lasillavacia.com/en-vivo/pilar-rueda-esposa-de-ivan-cepeda-regresa-a-la-jep/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 12 Jul 2026 15:36:38 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Presidente electo, Abelardo de la Espriella, comienza a formar un gabinete con perfiles técnicos",
