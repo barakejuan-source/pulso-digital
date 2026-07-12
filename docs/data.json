@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T22:55:20.197Z",
+  "updatedAt": "2026-07-12T03:20:09.169Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 16,
+      "trendsScore": 18,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 6,
+      "finalScore": 7,
       "momentum": {
-        "value": -84.2,
-        "direction": "down"
+        "value": 16.7,
+        "direction": "flat"
       },
-      "probability": 7
+      "probability": 8
     },
     {
       "id": "abelardo_espriella",
@@ -39,36 +39,28 @@
       "youtubeViews": 57033,
       "finalScore": 80,
       "momentum": {
-        "value": 100,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 93
+      "probability": 92
     }
   ],
   "articles": [
     {
-      "title": "Reacciones al nombramiento de Indalecio Dangond como ministro de Agricultura para el gobierno de Abelardo de la Espriella ",
-      "link": "https://www.infobae.com/colombia/2026/07/11/reacciones-al-nombramiento-de-indalecio-dangond-como-ministro-de-agricultura-para-el-gobierno-de-abelardo-de-la-espriella/",
+      "title": "Las diez demandas más cuantiosas contra la Nación suman $219,4 billones: el desafío que asumirá Germán Calderón en la defensa jurídica del Estado",
+      "link": "https://www.infobae.com/colombia/2026/07/12/las-diez-demandas-mas-cuantiosas-contra-la-nacion-suman-2194-billones-el-desafio-que-asumira-german-calderon-en-la-defensa-juridica-del-estado/",
       "source": "Infobae",
-      "pubDate": "Sat, 11 Jul 2026 22:36:15 +0000",
+      "pubDate": "Sun, 12 Jul 2026 01:56:49 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cepeda anunció la creación de una Red Nacional de Defensa de la Reforma Agraria: convocó a campesinos a proteger las tierras",
-      "link": "https://www.infobae.com/colombia/2026/07/11/ivan-cepeda-anuncio-la-creacion-de-una-red-nacional-de-defensa-de-la-reforma-agraria-convoco-a-campesinos-a-proteger-las-tierras/",
-      "source": "Infobae",
-      "pubDate": "Sat, 11 Jul 2026 22:33:03 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Sur y Centro le dieron la victoria a Keiko Fujimori, no el extranjero: obtuvo 405 mil votos más en el interior que en 2021",
-      "link": "https://www.infobae.com/peru/2026/07/10/keiko-fujimori-gano-con-apoyo-del-sur-y-el-centro-no-del-extranjero-sumo-405-mil-votos-mas-en-el-interior-del-pais-que-en-2021/",
-      "source": "Infobae",
-      "pubDate": "Sat, 11 Jul 2026 21:31:08 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Indalecio Dangond, nuevo ministro de Agricultura designado por Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/indalecio-dangond-nuevo-ministro-de-agricultura-designado-por-abelardo-de-la-espriella-3570659",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-11T17:53:44-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "¿Abelardo de la Espriella puede posesionarse en una guarnición militar? Esto dice el presidente del Congreso",
@@ -83,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-ya-adelanta-el-empalme-regional-en-casanare-este-sabado-la-crisis-por-las-inundaciones-son-prioridad-3570668",
       "source": "El Tiempo",
       "pubDate": "2026-07-11T12:23:19-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Indalecio Dangond, nuevo ministro de Agricultura designado por Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/indalecio-dangond-nuevo-ministro-de-agricultura-designado-por-abelardo-de-la-espriella-3570659",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-11T10:59:24-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
