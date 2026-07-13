@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T14:43:22.059Z",
+  "updatedAt": "2026-07-13T17:58:36.966Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,12 +47,20 @@
   ],
   "articles": [
     {
-      "title": "JNE evaluará hoy si procede la candidatura de Rafael López Aliaga a la Municipalidad de Lima",
-      "link": "https://www.infobae.com/peru/2026/07/13/jne-evaluara-hoy-si-procede-la-candidatura-de-rafael-lopez-aliaga-a-la-municipalidad-de-lima/",
+      "title": "Equipo de Abelardo de la Espriella se reunió con altos mandos del Banco Mundial en Washington D.C.: asistió el vicepresidnte y los ministros designados de Hacienda y Comercio",
+      "link": "https://www.infobae.com/colombia/2026/07/13/equipo-de-abelardo-de-la-espriella-se-reunio-con-altos-mandos-del-banco-mundial-en-washington-dc-asistio-el-vicepresidnte-y-los-ministros-designados-de-hacienda-y-comercio/",
       "source": "Infobae",
-      "pubDate": "Mon, 13 Jul 2026 14:26:36 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Mon, 13 Jul 2026 17:28:40 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Disputa entre seguidores de Abelardo de la Espriella y el Centro Democrático por la presidencia del Senado: estos son los candidatos",
+      "link": "https://www.infobae.com/colombia/2026/07/13/disputa-entre-seguidores-de-abelardo-de-la-espriella-y-el-centro-democratico-por-la-presidencia-del-senado-estos-son-los-candidatos/",
+      "source": "Infobae",
+      "pubDate": "Mon, 13 Jul 2026 17:23:54 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Abelardo de la Espriella continuará su 'empalme territorial' y José Manuel Restrepo empieza agenda en los Estados Unidos",
@@ -67,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/partidos-politicos/pilar-rueda-esposa-de-ivan-cepeda-se-reintegra-a-la-jep-tras-un-corto-periodo-acompanando-la-campana-presidencial-en-secreto-3570654",
       "source": "El Tiempo",
       "pubDate": "2026-07-12T16:17:01-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Pilar Rueda, esposa de Iván Cepeda, regresa a la JEP ",
-      "link": "https://www.lasillavacia.com/en-vivo/pilar-rueda-esposa-de-ivan-cepeda-regresa-a-la-jep/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 12 Jul 2026 15:36:38 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
