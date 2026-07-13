@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T03:22:16.181Z",
+  "updatedAt": "2026-07-13T06:58:52.664Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 14,
+      "trendsScore": 15,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 6,
       "momentum": {
-        "value": -25,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 7
@@ -47,34 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Petro ordena que \"ningún\" establecimiento militar sea usado para la posesión de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/america/agencias/2026/07/13/petro-ordena-que-ningun-establecimiento-militar-sea-usado-para-la-posesion-de-abelardo-de-la-espriella/",
+      "title": "Uscátegui cuestionó a Petro tras la salida temporal del ministro de Defensa: “No gobierna con ministros, gobierna con subordinados”",
+      "link": "https://www.infobae.com/colombia/2026/07/13/uscategui-cuestiono-a-petro-tras-la-salida-temporal-del-ministro-de-defensa-no-gobierna-con-ministros-gobierna-con-subordinados/",
       "source": "Infobae",
-      "pubDate": "Mon, 13 Jul 2026 03:00:20 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Petro lanzó una ácida advertencia que agitó la transición con Abelardo de la Espriella: “No toquen las reformas sociales”",
-      "link": "https://www.infobae.com/colombia/2026/07/13/petro-lanzo-una-acida-advertencia-que-agito-la-transicion-con-abelardo-de-la-espriella-no-toquen-las-reformas-sociales/",
-      "source": "Infobae",
-      "pubDate": "Mon, 13 Jul 2026 02:08:44 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Clara López salió en defensa del llamado a “desobediencia civil” promovido por Gustavo Petro e Iván Cepeda: “Es una opción legítima” ",
-      "link": "https://www.infobae.com/colombia/2026/07/13/clara-lopez-salio-en-defensa-del-llamado-a-desobediencia-civil-promovido-por-gustavo-petro-e-ivan-cepeda-es-una-opcion-legitima/",
-      "source": "Infobae",
-      "pubDate": "Mon, 13 Jul 2026 02:03:53 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Gustavo Petro debería condecorar a Abelardo de la Espriella antes del 7 de agosto: decreto obligaría reunión por acto protocolario",
-      "link": "https://www.infobae.com/colombia/2026/07/13/petro-deberia-condecorar-a-abelardo-de-la-espriella-antes-de-que-asuma-el-gobierno-el-7-de-agosto-decreto-obligaria-reunion-entre-ambos/",
-      "source": "Infobae",
-      "pubDate": "Mon, 13 Jul 2026 01:52:40 +0000",
+      "pubDate": "Mon, 13 Jul 2026 04:57:31 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
