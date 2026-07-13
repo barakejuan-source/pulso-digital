@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T21:00:33.294Z",
+  "updatedAt": "2026-07-13T22:59:33.412Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 6,
       "momentum": {
-        "value": 20,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 7
@@ -46,22 +46,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Abelardo de la Espriella anunció nuevo “empalme territorial”: visitará Bucaramanga para revisar proyectos estratégic",
-      "link": "https://www.infobae.com/colombia/2026/07/13/abelardo-de-la-espriella-anuncio-nuevo-empalme-territorial-visitara-bucaramanga-para-revisar-proyectos-estrategic/",
-      "source": "Infobae",
-      "pubDate": "Mon, 13 Jul 2026 20:51:24 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "José Manuel Restrepo reveló detalles de la reunión del equipo de Abelardo de la Espriella con el Banco Mundial en Washington: “La confianza en Colombia se está fortaleciendo”",
-      "link": "https://www.infobae.com/colombia/2026/07/13/jose-manuel-restrepo-revelo-detalles-de-la-reunion-del-equipo-de-abelardo-de-la-espriella-con-el-banco-mundial-en-washington-la-confianza-en-colombia-se-esta-fortaleciendo/",
-      "source": "Infobae",
-      "pubDate": "Mon, 13 Jul 2026 20:10:27 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
     {
       "title": "Presidente electo Abelardo De La Espriella anuncia visita a Bucaramanga para instalar otra sesión de su 'empalme territorial'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-anuncia-visita-a-bucaramanga-para-instalar-otra-sesion-de-su-empalme-territorial-3570927",
