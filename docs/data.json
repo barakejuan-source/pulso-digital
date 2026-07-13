@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T19:41:29.107Z",
+  "updatedAt": "2026-07-13T21:00:33.294Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 13,
+      "trendsScore": 14,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 5,
+      "finalScore": 6,
       "momentum": {
-        "value": -16.7,
+        "value": 20,
         "direction": "flat"
       },
-      "probability": 5.9
+      "probability": 7
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 94.1
+      "probability": 93
     }
   ],
   "articles": [
     {
-      "title": "Equipo de Abelardo de la Espriella se reunió con altos mandos del Banco Mundial en Washington D.C.: asistió el vicepresidente y los ministros designados de Hacienda y Comercio",
-      "link": "https://www.infobae.com/colombia/2026/07/13/equipo-de-abelardo-de-la-espriella-se-reunio-con-altos-mandos-del-banco-mundial-en-washington-dc-asistio-el-vicepresidnte-y-los-ministros-designados-de-hacienda-y-comercio/",
+      "title": "Abelardo de la Espriella anunció nuevo “empalme territorial”: visitará Bucaramanga para revisar proyectos estratégic",
+      "link": "https://www.infobae.com/colombia/2026/07/13/abelardo-de-la-espriella-anuncio-nuevo-empalme-territorial-visitara-bucaramanga-para-revisar-proyectos-estrategic/",
       "source": "Infobae",
-      "pubDate": "Mon, 13 Jul 2026 19:12:00 +0000",
+      "pubDate": "Mon, 13 Jul 2026 20:51:24 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "José Manuel Restrepo reveló detalles de la reunión del equipo de Abelardo de la Espriella con el Banco Mundial en Washington: “La confianza en Colombia se está fortaleciendo”",
+      "link": "https://www.infobae.com/colombia/2026/07/13/jose-manuel-restrepo-revelo-detalles-de-la-reunion-del-equipo-de-abelardo-de-la-espriella-con-el-banco-mundial-en-washington-la-confianza-en-colombia-se-esta-fortaleciendo/",
+      "source": "Infobae",
+      "pubDate": "Mon, 13 Jul 2026 20:10:27 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -69,14 +77,6 @@
       "pubDate": "2026-07-12T17:19:20-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Pilar Rueda, esposa de Iván Cepeda, se reintegra a la JEP tras un corto período acompañando la campaña presidencial / En secreto",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/pilar-rueda-esposa-de-ivan-cepeda-se-reintegra-a-la-jep-tras-un-corto-periodo-acompanando-la-campana-presidencial-en-secreto-3570654",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-12T16:17:01-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Presidente electo, Abelardo de la Espriella, comienza a formar un gabinete con perfiles técnicos",
