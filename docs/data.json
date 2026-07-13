@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-13T06:58:52.664Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-13T11:17:05.779Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -46,14 +46,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Uscátegui cuestionó a Petro tras la salida temporal del ministro de Defensa: “No gobierna con ministros, gobierna con subordinados”",
-      "link": "https://www.infobae.com/colombia/2026/07/13/uscategui-cuestiono-a-petro-tras-la-salida-temporal-del-ministro-de-defensa-no-gobierna-con-ministros-gobierna-con-subordinados/",
-      "source": "Infobae",
-      "pubDate": "Mon, 13 Jul 2026 04:57:31 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
     {
       "title": "Abelardo de la Espriella continuará su 'empalme territorial' y José Manuel Restrepo empieza agenda en los Estados Unidos",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-continuara-su-empalme-territorial-y-jose-manuel-restrepo-empieza-agenda-en-los-estados-unidos-3570826",
