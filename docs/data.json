@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T11:17:05.779Z",
+  "updatedAt": "2026-07-13T14:43:22.059Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "JNE evaluará hoy si procede la candidatura de Rafael López Aliaga a la Municipalidad de Lima",
+      "link": "https://www.infobae.com/peru/2026/07/13/jne-evaluara-hoy-si-procede-la-candidatura-de-rafael-lopez-aliaga-a-la-municipalidad-de-lima/",
+      "source": "Infobae",
+      "pubDate": "Mon, 13 Jul 2026 14:26:36 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "Abelardo de la Espriella continuará su 'empalme territorial' y José Manuel Restrepo empieza agenda en los Estados Unidos",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-continuara-su-empalme-territorial-y-jose-manuel-restrepo-empieza-agenda-en-los-estados-unidos-3570826",
