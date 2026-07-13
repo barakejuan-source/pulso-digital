@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T22:55:19.921Z",
+  "updatedAt": "2026-07-13T03:22:16.181Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 19,
+      "trendsScore": 14,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 8,
+      "finalScore": 6,
       "momentum": {
-        "value": 14.3,
+        "value": -25,
         "direction": "flat"
       },
-      "probability": 9.1
+      "probability": 7
     },
     {
       "id": "abelardo_espriella",
@@ -42,12 +42,44 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 90.9
+      "probability": 93
     }
   ],
   "articles": [
     {
-      "title": "Abelardo De La Espriella continuará su 'empalme territorial' y José Manuel Restrepo empieza agenda en los Estados Unidos",
+      "title": "Petro ordena que \"ningún\" establecimiento militar sea usado para la posesión de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/america/agencias/2026/07/13/petro-ordena-que-ningun-establecimiento-militar-sea-usado-para-la-posesion-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Mon, 13 Jul 2026 03:00:20 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Petro lanzó una ácida advertencia que agitó la transición con Abelardo de la Espriella: “No toquen las reformas sociales”",
+      "link": "https://www.infobae.com/colombia/2026/07/13/petro-lanzo-una-acida-advertencia-que-agito-la-transicion-con-abelardo-de-la-espriella-no-toquen-las-reformas-sociales/",
+      "source": "Infobae",
+      "pubDate": "Mon, 13 Jul 2026 02:08:44 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Clara López salió en defensa del llamado a “desobediencia civil” promovido por Gustavo Petro e Iván Cepeda: “Es una opción legítima” ",
+      "link": "https://www.infobae.com/colombia/2026/07/13/clara-lopez-salio-en-defensa-del-llamado-a-desobediencia-civil-promovido-por-gustavo-petro-e-ivan-cepeda-es-una-opcion-legitima/",
+      "source": "Infobae",
+      "pubDate": "Mon, 13 Jul 2026 02:03:53 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Gustavo Petro debería condecorar a Abelardo de la Espriella antes del 7 de agosto: decreto obligaría reunión por acto protocolario",
+      "link": "https://www.infobae.com/colombia/2026/07/13/petro-deberia-condecorar-a-abelardo-de-la-espriella-antes-de-que-asuma-el-gobierno-el-7-de-agosto-decreto-obligaria-reunion-entre-ambos/",
+      "source": "Infobae",
+      "pubDate": "Mon, 13 Jul 2026 01:52:40 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella continuará su 'empalme territorial' y José Manuel Restrepo empieza agenda en los Estados Unidos",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-continuara-su-empalme-territorial-y-jose-manuel-restrepo-empieza-agenda-en-los-estados-unidos-3570826",
       "source": "El Tiempo",
       "pubDate": "2026-07-12T17:19:20-05:00",
