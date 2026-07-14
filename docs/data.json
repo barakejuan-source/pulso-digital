@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-14T15:27:00.096Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-14T17:19:02.715Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,34 +47,34 @@
   ],
   "articles": [
     {
-      "title": "María Nohemí Arboleda será la ministra de Minas de Abelardo de la Espriela y así reaccionaron gremios y los políticos",
-      "link": "https://www.infobae.com/colombia/2026/07/14/las-reacciones-que-genero-el-nombramiento-de-maria-nohemi-arboleda-como-ministra-de-minas-su-trayectoria-son-garantia-de-decisiones/",
+      "title": "El presidente de la Asamblea de Venezuela respondió a la propuesta de Abelardo de la Espriella sobre la reconstrucción tras los terremotos",
+      "link": "https://www.infobae.com/colombia/2026/07/14/el-presidente-de-la-asamblea-de-venezuela-respondio-a-la-propuesta-de-abelardo-de-la-espriella-sobre-la-reconstruccion-tras-los-terremotos/",
       "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 15:05:36 +0000",
+      "pubDate": "Tue, 14 Jul 2026 17:00:44 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El trámite que debe hacer el Congreso para avalar la posesión presidencial de Abelardo de la Espriella fuera de Bogotá, según el secretario del Senado",
-      "link": "https://www.infobae.com/colombia/2026/07/14/el-tramite-que-debe-hacer-el-congreso-para-avalar-la-posesion-presidencial-de-abelardo-de-la-espriella-fuera-de-bogota-segun-el-secretario-del-senado/",
+      "title": "Iván Cepeda arremetió contra Abelardo de la Espriella tras anunciar la eliminación del Comisionado de Paz y otras entidades: “El mayor enemigo de la paz” ",
+      "link": "https://www.infobae.com/colombia/2026/07/14/ivan-cepeda-arremetio-contra-abelardo-de-la-espriella-tras-anunciar-la-eliminacion-del-comisionado-de-paz-y-otras-entidades-el-mayor-enemigo-de-la-paz/",
       "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 14:56:15 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Piter Albeiro reaccionó a la invitación que le hizo Abelardo de la Espriella a don Luis Felipe, el vendedor informal vetado por votar por él: “Gracias, presidente”",
-      "link": "https://www.infobae.com/colombia/2026/07/14/piter-albeiro-reacciono-a-la-invitacion-de-abelardo-de-la-espriella-a-luis-el-vendedor-informal-rechazado-por-votar-por-el-gracias-presidente/",
-      "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 14:56:03 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Tue, 14 Jul 2026 16:57:22 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Reacciones a eliminación y traslado de funciones de Unidad de Acuerdo de Paz y Comisionado de Paz",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/reacciones-a-eliminacion-y-traslado-de-funciones-de-unidad-de-acuerdo-de-paz-y-comisionado-de-paz-3571042",
       "source": "El Tiempo",
-      "pubDate": "2026-07-14T09:03:53-05:00",
+      "pubDate": "2026-07-14T11:54:32-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella presentó una plataforma digital para que ciudadanos apliquen a cargos públicos de la próxima administración",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-presento-una-plataforma-digital-para-que-ciudadanos-apliquen-a-cargos-publicos-de-la-proxima-administracion-3571078",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-14T10:17:08-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -111,15 +111,7 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "‘No responderé a agravios y mi posesión será en el sur del país’: presidente electo Abelardo de la Espriella sobre ceremonia del 7 de agosto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/no-respondere-a-agravios-y-mi-posesion-sera-en-el-sur-del-pais-presidente-electo-abelardo-de-la-espriella-sobre-ceremonia-del-7-de-agosto-3570986",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-14T05:49:14-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Empalme del gobierno de Abelardo de la Espriella: ministros confirmados y cargos que eliminarán; presidente electo se reunirá en Bucaramanga",
+      "title": "Empalme del gobierno de Abelardo De La Espriella: ministros confirmados y cargos que eliminarán; avanza reunión del presidente electo en Bucaramanga",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-del-gobierno-de-abelardo-de-la-espriella-todos-los-ministros-confirmados-y-los-cargos-que-el-presidente-electo-eliminara-3571011",
       "source": "El Tiempo",
       "pubDate": "2026-07-14T05:26:19-05:00",
@@ -135,10 +127,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente electo Abelardo de la Espriella invitó a don Luis Felipe Yagüe, el vendedor de panela, a su posesión: 'Lo quiero ver ahí y abrazarlo'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-invito-a-don-luis-felipe-yaguee-el-vendedor-de-panela-a-su-posesion-lo-quiero-ver-ahi-y-abrazarlo-3570983",
+      "title": "¿Qué es el Banco Nacional de Talentos de la Patria Milagro? Así podrá inscribirse a la plataforma del presidente electo Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/que-es-el-banco-nacional-de-talentos-de-la-patria-milagro-asi-podra-inscribirse-a-la-plataforma-del-presidente-electo-abelardo-de-la-espriella-3570997",
       "source": "El Tiempo",
-      "pubDate": "2026-07-14T01:26:54-05:00",
+      "pubDate": "2026-07-13T23:02:58-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
