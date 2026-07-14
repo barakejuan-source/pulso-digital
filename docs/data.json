@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T21:04:52.795Z",
+  "updatedAt": "2026-07-14T23:00:34.110Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 13,
+      "trendsScore": 12,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,26 +47,42 @@
   ],
   "articles": [
     {
+      "title": "“Hay que cortar la grasa”: Abelardo de la Espriella recibió respaldo para eliminar más de 200 cargos del Estado y ahorrar dinero",
+      "link": "https://www.infobae.com/colombia/2026/07/14/hay-que-cortar-la-grasa-abelardo-de-la-espriella-recibio-respaldo-para-eliminar-mas-de-200-cargos-del-estado-y-ahorrar-dinero/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 22:47:18 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Juan Manuel Santos pidió a Abelardo de la Espriella continuar con el Acuerdo de Paz y cuestionó señalamientos por la inseguridad: “Es absolutamente falso”",
+      "link": "https://www.infobae.com/colombia/2026/07/14/juan-manuel-santos-pidio-a-abelardo-de-la-espriella-continuar-con-el-acuerdo-de-paz-y-cuestiono-senalamientos-por-la-inseguridad-es-absolutamente-falso/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 22:43:34 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "“Es el peor enemigo de la paz”: Cepeda ante cierre de Consejería de Paz",
+      "link": "https://www.lasillavacia.com/en-vivo/es-el-peor-enemigo-de-la-paz-cepeda-ante-cierre-de-consejeria-de-paz/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 14 Jul 2026 22:39:31 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella se pronunció tras el secuestro de los 39 civiles en Chocó: 'No habrá perdón ni olvido'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-se-pronuncio-tras-el-secuestro-de-los-39-civiles-en-choco-no-habra-perdon-ni-olvido-3571189",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-14T16:05:59-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Así ha estado el segundo día de agenda de la delegación de Abelardo De La Espriella en Washington",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-ha-estado-el-segundo-dia-de-agenda-de-la-delegacion-de-abelardo-de-la-espriella-en-washington-3571174",
       "source": "El Tiempo",
-      "pubDate": "2026-07-14T15:59:13-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Lista la proposición para que Abelardo de la Espriella se posesione en una guarnición militar: esto dice el borrador",
-      "link": "https://www.infobae.com/colombia/2026/07/14/lista-la-proposicion-para-que-abelardo-de-la-espriella-se-posesione-en-una-guarnicion-militar-esto-dice-el-borrador/",
-      "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 20:58:47 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella lanzó dura advertencia para los exlíderes de las antiguas Farc: “No habrá perdón ni olvido”",
-      "link": "https://www.infobae.com/colombia/2026/07/14/abelardo-de-la-espriella-lanzo-dura-advertencia-para-los-exlideres-de-las-antiguas-farc-no-habra-perdon-ni-olvido/",
-      "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 20:46:52 +0000",
+      "pubDate": "2026-07-14T16:05:49-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,22 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/don-luis-felipe-yaguee-el-vendedor-de-panela-acepto-asistir-a-la-posesion-del-presidente-electo-abelardo-de-la-espriella-el-proximo-7-de-agosto-3571157",
       "source": "El Tiempo",
       "pubDate": "2026-07-14T15:35:39-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Delegación del Gobierno electo de Abelardo de la Espriella avanza en Washington con su agenda enfocada en inversión y respaldo internacional",
-      "link": "https://www.infobae.com/colombia/2026/07/14/delegacion-del-gobierno-electo-de-abelardo-de-la-espriella-avanza-en-washington-con-su-agenda-enfocada-en-inversion-y-respaldo-internacional/",
-      "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 20:27:16 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Reacciones a eliminación y traslado de funciones de Unidad de Acuerdo de Paz y Comisionado de Paz",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/reacciones-a-eliminacion-y-traslado-de-funciones-de-unidad-de-acuerdo-de-paz-y-comisionado-de-paz-3571042",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-14T13:33:50-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -107,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-presento-una-plataforma-digital-para-que-ciudadanos-apliquen-a-cargos-publicos-de-la-proxima-administracion-3571078",
       "source": "El Tiempo",
       "pubDate": "2026-07-14T10:17:08-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Excanciller Álvaro Leyva denunció supuesto plan del gobierno del presidente Gustavo Petro contra Abelardo De La Espriella: 'Operación de sabotaje'",
-      "link": "https://www.eltiempo.com/politica/gobierno/excanciller-alvaro-leyva-denuncio-supuesto-plan-del-gobierno-del-presidente-gustavo-petro-contra-abelardo-de-la-espriella-operacion-de-sabotaje-3571022",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-14T07:34:41-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
