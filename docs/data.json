@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-14T06:14:58.958Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-14T10:03:01.185Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella confirmó que se posesionará en una guarnición militar en el sur del país",
-      "link": "https://www.infobae.com/colombia/2026/07/14/abelardo-de-la-espriella-confirmo-que-se-posesionara-en-una-guarnicion-militar-en-el-sur-del-pais/",
-      "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 06:11:48 +0000",
+      "title": "Gabinete de Abelardo de la Espriella: estos son los ministros confirmados para el nuevo gobierno; cinco carteras permanecen sin titular",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gabinete-de-abelardo-de-la-espriella-estos-son-los-ministros-confirmados-para-el-nuevo-gobierno-cinco-carteras-permanecen-sin-titular-3571004",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-14T01:50:48-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente electo Abelardo de la Espriella invitó a don Luis Felipe Yagüe, el vendedor de panela, a su posesión: 'Lo quiero ver ahí y abrazarlo'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-invito-a-don-luis-felipe-yaguee-el-vendedor-de-panela-a-su-posesion-lo-quiero-ver-ahi-y-abrazarlo-3570983",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-14T01:26:54-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -63,26 +71,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella invitó a don Luis Felipe a su posesión y anunció apoyo para su emprendimiento",
-      "link": "https://www.infobae.com/colombia/2026/07/14/abelardo-de-la-espriella-invito-a-don-luis-felipe-a-su-posesion-y-anuncio-apoyo-para-su-emprendimiento/",
-      "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 04:26:18 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "¿Qué es el Banco Nacional de Talentos de la Patria Milagro? Así podrá inscribirse a la plataforma del presidente electo Abelardo de la Espriella",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/que-es-el-banco-nacional-de-talentos-de-la-patria-milagro-asi-podra-inscribirse-a-la-plataforma-del-presidente-electo-abelardo-de-la-espriella-3570997",
       "source": "El Tiempo",
       "pubDate": "2026-07-13T23:02:58-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente electo Abelardo de la Espriella invitó a don Luis Felipe Yagüe, el vendedor de panela, a su posesión: 'Lo quiero ver ahí y abrazarlo'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-invito-a-don-luis-felipe-yaguee-el-vendedor-de-panela-a-su-posesion-lo-quiero-ver-ahi-y-abrazarlo-3570983",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-13T22:25:44-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
