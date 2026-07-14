@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T10:03:01.185Z",
+  "updatedAt": "2026-07-14T13:53:16.030Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,10 +47,90 @@
   ],
   "articles": [
     {
-      "title": "Gabinete de Abelardo de la Espriella: estos son los ministros confirmados para el nuevo gobierno; cinco carteras permanecen sin titular",
+      "title": "Abelardo de la Espriella participará en el desfile del 20 de julio en Medellín, confirmó el alcalde ‘Fico’ Gutiérrez: “Salgamos a las calles”",
+      "link": "https://www.infobae.com/colombia/2026/07/14/fico-gutierrez-pidio-a-los-antioquenos-salir-a-las-calles-el-20-de-julio-para-rendir-homenaje-a-los-soldados-nos-acompanara-el-presidente-electo/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 13:40:09 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Reacciones a eliminación y traslado de funciones de Unidad de Acuerdo de Paz y Comisionado de Paz",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/reacciones-a-eliminacion-y-traslado-de-funciones-de-unidad-de-acuerdo-de-paz-y-comisionado-de-paz-3571042",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-14T08:39:45-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Estas serían las mesas de negociación que se acabarían tras el anuncio de Abelardo de la Espriella de acabar con la consejería del Comisionado de Paz",
+      "link": "https://www.infobae.com/colombia/2026/07/14/las-mesas-de-negociacion-que-finalizarian-tras-el-anuncio-de-abelardo-de-la-espriella-de-acabar-con-el-comisionado-de-paz/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 13:38:36 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "María Fernanda Cabal respaldó que el presidente electo elimine beneficios a excombatientes: “Los procesos de paz de Santos y Petro exacerbaron la violencia”",
+      "link": "https://www.infobae.com/colombia/2026/07/14/maria-fernanda-cabal-respaldo-que-el-presidente-electo-elimine-beneficios-a-excombatientes-los-procesos-de-paz-de-santos-y-petro-exacerbaron-la-violencia/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 13:35:34 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Excanciller Álvaro Leyva denunció supuesto plan del gobierno del presidente Gustavo Petro contra Abelardo De La Espriella: 'Operación de sabotaje'",
+      "link": "https://www.eltiempo.com/politica/gobierno/excanciller-alvaro-leyva-denuncio-supuesto-plan-del-gobierno-del-presidente-gustavo-petro-contra-abelardo-de-la-espriella-operacion-de-sabotaje-3571022",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-14T07:34:41-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Desayune informado con las claves de este 14 de julio de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-14-de-julio-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 14 Jul 2026 12:21:29 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Quién es María Nohemí Arboleda, la nueva ministra de Minas y Energía designada por el presidente electo de Colombia, Abelardo de la Espriella?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-maria-nohemi-arboleda-la-nueva-ministra-de-minas-y-energia-designada-por-el-presidente-electo-de-colombia-abelardo-de-la-espriella-3571012",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-14T07:02:38-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella eliminará consejerías de Presidencia y cambiará la figura del comisionado de Paz: anunció ahorro de $10.000 millones anuales",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-eliminara-consejerias-de-presidencia-y-cambiara-la-figura-del-comisionado-de-paz-anuncio-ahorro-de-10-000-millones-anuales-3570995",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-14T06:47:43-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "‘No responderé a agravios y mi posesión será en el sur del país’: presidente electo Abelardo de la Espriella sobre ceremonia del 7 de agosto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/no-respondere-a-agravios-y-mi-posesion-sera-en-el-sur-del-pais-presidente-electo-abelardo-de-la-espriella-sobre-ceremonia-del-7-de-agosto-3570986",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-14T05:49:14-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Empalme del gobierno de Abelardo de la Espriella: ministros confirmados y cargos que eliminarán; presidente electo se reunirá en Bucaramanga",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-del-gobierno-de-abelardo-de-la-espriella-todos-los-ministros-confirmados-y-los-cargos-que-el-presidente-electo-eliminara-3571011",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-14T05:26:19-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gabinete designado de Abelardo de la Espriella: estos son los ministros confirmados para el nuevo gobierno; cinco carteras permanecen sin titular",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gabinete-de-abelardo-de-la-espriella-estos-son-los-ministros-confirmados-para-el-nuevo-gobierno-cinco-carteras-permanecen-sin-titular-3571004",
       "source": "El Tiempo",
-      "pubDate": "2026-07-14T01:50:48-05:00",
+      "pubDate": "2026-07-14T05:25:09-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,54 +139,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-invito-a-don-luis-felipe-yaguee-el-vendedor-de-panela-a-su-posesion-lo-quiero-ver-ahi-y-abrazarlo-3570983",
       "source": "El Tiempo",
       "pubDate": "2026-07-14T01:26:54-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "‘No responderé a agravios y mi posesión será en el sur del país’: presidente electo Abelardo de la Espriella sobre ceremonia del 7 de agosto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/no-respondere-a-agravios-y-mi-posesion-sera-en-el-sur-del-pais-presidente-electo-abelardo-de-la-espriella-sobre-ceremonia-del-7-de-agosto-3570986",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-14T00:18:07-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Qué es el Banco Nacional de Talentos de la Patria Milagro? Así podrá inscribirse a la plataforma del presidente electo Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/que-es-el-banco-nacional-de-talentos-de-la-patria-milagro-asi-podra-inscribirse-a-la-plataforma-del-presidente-electo-abelardo-de-la-espriella-3570997",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-13T23:02:58-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella eliminará consejerías de Presidencia y cambiará la figura del comisionado de Paz: anunció ahorro de $10.000 millones anuales",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-eliminara-consejerias-de-presidencia-y-cambiara-la-figura-del-comisionado-de-paz-anuncio-ahorro-de-10-000-millones-anuales-3570995",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-13T22:25:41-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente electo Abelardo De La Espriella anuncia visita a Bucaramanga para instalar otra sesión de su 'empalme territorial'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-anuncia-visita-a-bucaramanga-para-instalar-otra-sesion-de-su-empalme-territorial-3570927",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-13T21:42:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Comisionado para la Paz y los 229 cargos que el presidente electo Abelardo de la Espriella eliminará desde el 7 de agosto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/comisionado-para-la-paz-y-los-229-cargos-que-el-presidente-electo-abelardo-de-la-espriella-eliminara-desde-el-7-de-agosto-3570981",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-13T21:39:07-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella designa como ministra de Minas a María Nohemí Arboleda, actual gerente de XM",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-designa-como-ministra-de-minas-a-maria-nohemi-arboleda-3570975",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-13T21:26:19-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
