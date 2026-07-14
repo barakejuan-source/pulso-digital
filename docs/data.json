@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T17:19:02.715Z",
+  "updatedAt": "2026-07-14T19:25:47.418Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,26 +47,66 @@
   ],
   "articles": [
     {
-      "title": "El presidente de la Asamblea de Venezuela respondió a la propuesta de Abelardo de la Espriella sobre la reconstrucción tras los terremotos",
-      "link": "https://www.infobae.com/colombia/2026/07/14/el-presidente-de-la-asamblea-de-venezuela-respondio-a-la-propuesta-de-abelardo-de-la-espriella-sobre-la-reconstruccion-tras-los-terremotos/",
+      "title": "Políticos de izquierda reaccionaron al anuncio de Abelardo de la Espriella de eliminar la figura de Comisionado de Paz: “Es impunidad”",
+      "link": "https://www.infobae.com/colombia/2026/07/14/reacciones-politicas-tras-el-anuncio-de-de-la-espriella-de-eliminar-el-comisionado-de-paz-disfrazan-de-seguridad-pero-es-impunidad/",
       "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 17:00:44 +0000",
+      "pubDate": "Tue, 14 Jul 2026 19:07:46 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cepeda arremetió contra Abelardo de la Espriella tras anunciar la eliminación del Comisionado de Paz y otras entidades: “El mayor enemigo de la paz” ",
+      "title": "Abelardo de la Espriella exigió la desmovilización de estos dos cabecillas del ELN: “Bandido que no se someta será dado de baja”",
+      "link": "https://www.infobae.com/colombia/2026/07/14/abelardo-de-la-espriella-exigio-la-desmovilizacion-de-dos-cabecillas-del-eln-bandido-que-no-se-someta-sera-dado-de-baja/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 19:05:15 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gustavo Bolívar confrontó a cuenta de seguidores de Petro que publicó lista de artistas que apoyaron a Abelardo de la Espriella: “No se puede discriminar”",
+      "link": "https://www.infobae.com/colombia/2026/07/14/gustavo-bolivar-le-contesto-a-cuenta-de-seguidores-de-petro-por-publicar-lista-de-artistas-que-apoyaron-a-de-la-espriella-no-se-puede-discriminar/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 19:02:53 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella reiteró al Congreso su intención de posesionarse como presidente en una guarnición militar: “Deberá actuar con responsabilidad patriótica”",
+      "link": "https://www.infobae.com/colombia/2026/07/14/abelardo-de-la-espriella-reitero-al-congreso-su-intencion-de-posesionarse-como-presidente-en-una-guarnicion-militar-en-el-sur-de-colombia/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 19:02:04 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda arremetió contra Abelardo de la Espriella tras anunciar el cierre de la oficina del Comisionado de Paz: “El mayor enemigo”",
       "link": "https://www.infobae.com/colombia/2026/07/14/ivan-cepeda-arremetio-contra-abelardo-de-la-espriella-tras-anunciar-la-eliminacion-del-comisionado-de-paz-y-otras-entidades-el-mayor-enemigo-de-la-paz/",
       "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 16:57:22 +0000",
+      "pubDate": "Tue, 14 Jul 2026 18:59:44 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella presentó el ‘Banco de Talentos’: así funcionará la plataforma para seleccionar los funcionarios del nuevo Gobierno",
+      "link": "https://www.infobae.com/colombia/2026/07/14/abelardo-de-la-espriella-presento-el-banco-de-talentos-para-seleccionar-perfiles-en-el-nuevo-gobierno-asi-funcionara-la-plataforma/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 18:58:10 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Reacciones a eliminación y traslado de funciones de Unidad de Acuerdo de Paz y Comisionado de Paz",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/reacciones-a-eliminacion-y-traslado-de-funciones-de-unidad-de-acuerdo-de-paz-y-comisionado-de-paz-3571042",
       "source": "El Tiempo",
-      "pubDate": "2026-07-14T11:54:32-05:00",
+      "pubDate": "2026-07-14T13:33:50-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "EL TIEMPO no publicó declaraciones falsas del presidente Petro sobre no asistir a la posesión de Abelardo De La Espriella; la imagen es falsa",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-tiempo-no-publico-declaraciones-falsas-del-presidente-petro-sobre-no-asistir-a-la-posesion-de-abelardo-de-la-espriella-la-imagen-es-falsa-3571134",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-14T12:54:41-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -87,14 +127,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Desayune informado con las claves de este 14 de julio de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-14-de-julio-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 14 Jul 2026 12:21:29 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "¿Quién es María Nohemí Arboleda, la nueva ministra de Minas y Energía designada por el presidente electo de Colombia, Abelardo de la Espriella?",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-maria-nohemi-arboleda-la-nueva-ministra-de-minas-y-energia-designada-por-el-presidente-electo-de-colombia-abelardo-de-la-espriella-3571012",
       "source": "El Tiempo",
@@ -103,34 +135,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo De La Espriella eliminará consejerías de Presidencia y cambiará la figura del comisionado de Paz: anunció ahorro de $10.000 millones anuales",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-eliminara-consejerias-de-presidencia-y-cambiara-la-figura-del-comisionado-de-paz-anuncio-ahorro-de-10-000-millones-anuales-3570995",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-14T06:47:43-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Empalme del gobierno de Abelardo De La Espriella: ministros confirmados y cargos que eliminarán; avanza reunión del presidente electo en Bucaramanga",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-del-gobierno-de-abelardo-de-la-espriella-todos-los-ministros-confirmados-y-los-cargos-que-el-presidente-electo-eliminara-3571011",
       "source": "El Tiempo",
       "pubDate": "2026-07-14T05:26:19-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gabinete designado de Abelardo de la Espriella: estos son los ministros confirmados para el nuevo gobierno; cinco carteras permanecen sin titular",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gabinete-de-abelardo-de-la-espriella-estos-son-los-ministros-confirmados-para-el-nuevo-gobierno-cinco-carteras-permanecen-sin-titular-3571004",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-14T05:25:09-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Qué es el Banco Nacional de Talentos de la Patria Milagro? Así podrá inscribirse a la plataforma del presidente electo Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/que-es-el-banco-nacional-de-talentos-de-la-patria-milagro-asi-podra-inscribirse-a-la-plataforma-del-presidente-electo-abelardo-de-la-espriella-3570997",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-13T23:02:58-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
