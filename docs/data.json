@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-14T13:53:16.030Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-14T15:27:00.096Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella participará en el desfile del 20 de julio en Medellín, confirmó el alcalde ‘Fico’ Gutiérrez: “Salgamos a las calles”",
-      "link": "https://www.infobae.com/colombia/2026/07/14/fico-gutierrez-pidio-a-los-antioquenos-salir-a-las-calles-el-20-de-julio-para-rendir-homenaje-a-los-soldados-nos-acompanara-el-presidente-electo/",
+      "title": "María Nohemí Arboleda será la ministra de Minas de Abelardo de la Espriela y así reaccionaron gremios y los políticos",
+      "link": "https://www.infobae.com/colombia/2026/07/14/las-reacciones-que-genero-el-nombramiento-de-maria-nohemi-arboleda-como-ministra-de-minas-su-trayectoria-son-garantia-de-decisiones/",
       "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 13:40:09 +0000",
+      "pubDate": "Tue, 14 Jul 2026 15:05:36 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El trámite que debe hacer el Congreso para avalar la posesión presidencial de Abelardo de la Espriella fuera de Bogotá, según el secretario del Senado",
+      "link": "https://www.infobae.com/colombia/2026/07/14/el-tramite-que-debe-hacer-el-congreso-para-avalar-la-posesion-presidencial-de-abelardo-de-la-espriella-fuera-de-bogota-segun-el-secretario-del-senado/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 14:56:15 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Piter Albeiro reaccionó a la invitación que le hizo Abelardo de la Espriella a don Luis Felipe, el vendedor informal vetado por votar por él: “Gracias, presidente”",
+      "link": "https://www.infobae.com/colombia/2026/07/14/piter-albeiro-reacciono-a-la-invitacion-de-abelardo-de-la-espriella-a-luis-el-vendedor-informal-rechazado-por-votar-por-el-gracias-presidente/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 14:56:03 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,23 +74,7 @@
       "title": "Reacciones a eliminación y traslado de funciones de Unidad de Acuerdo de Paz y Comisionado de Paz",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/reacciones-a-eliminacion-y-traslado-de-funciones-de-unidad-de-acuerdo-de-paz-y-comisionado-de-paz-3571042",
       "source": "El Tiempo",
-      "pubDate": "2026-07-14T08:39:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Estas serían las mesas de negociación que se acabarían tras el anuncio de Abelardo de la Espriella de acabar con la consejería del Comisionado de Paz",
-      "link": "https://www.infobae.com/colombia/2026/07/14/las-mesas-de-negociacion-que-finalizarian-tras-el-anuncio-de-abelardo-de-la-espriella-de-acabar-con-el-comisionado-de-paz/",
-      "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 13:38:36 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "María Fernanda Cabal respaldó que el presidente electo elimine beneficios a excombatientes: “Los procesos de paz de Santos y Petro exacerbaron la violencia”",
-      "link": "https://www.infobae.com/colombia/2026/07/14/maria-fernanda-cabal-respaldo-que-el-presidente-electo-elimine-beneficios-a-excombatientes-los-procesos-de-paz-de-santos-y-petro-exacerbaron-la-violencia/",
-      "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 13:35:34 +0000",
+      "pubDate": "2026-07-14T09:03:53-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
