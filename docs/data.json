@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-14T19:25:47.418Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-14T21:04:52.795Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,50 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Políticos de izquierda reaccionaron al anuncio de Abelardo de la Espriella de eliminar la figura de Comisionado de Paz: “Es impunidad”",
-      "link": "https://www.infobae.com/colombia/2026/07/14/reacciones-politicas-tras-el-anuncio-de-de-la-espriella-de-eliminar-el-comisionado-de-paz-disfrazan-de-seguridad-pero-es-impunidad/",
-      "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 19:07:46 +0000",
+      "title": "Así ha estado el segundo día de agenda de la delegación de Abelardo De La Espriella en Washington",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-ha-estado-el-segundo-dia-de-agenda-de-la-delegacion-de-abelardo-de-la-espriella-en-washington-3571174",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-14T15:59:13-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella exigió la desmovilización de estos dos cabecillas del ELN: “Bandido que no se someta será dado de baja”",
-      "link": "https://www.infobae.com/colombia/2026/07/14/abelardo-de-la-espriella-exigio-la-desmovilizacion-de-dos-cabecillas-del-eln-bandido-que-no-se-someta-sera-dado-de-baja/",
+      "title": "Lista la proposición para que Abelardo de la Espriella se posesione en una guarnición militar: esto dice el borrador",
+      "link": "https://www.infobae.com/colombia/2026/07/14/lista-la-proposicion-para-que-abelardo-de-la-espriella-se-posesione-en-una-guarnicion-militar-esto-dice-el-borrador/",
       "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 19:05:15 +0000",
+      "pubDate": "Tue, 14 Jul 2026 20:58:47 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gustavo Bolívar confrontó a cuenta de seguidores de Petro que publicó lista de artistas que apoyaron a Abelardo de la Espriella: “No se puede discriminar”",
-      "link": "https://www.infobae.com/colombia/2026/07/14/gustavo-bolivar-le-contesto-a-cuenta-de-seguidores-de-petro-por-publicar-lista-de-artistas-que-apoyaron-a-de-la-espriella-no-se-puede-discriminar/",
+      "title": "Abelardo de la Espriella lanzó dura advertencia para los exlíderes de las antiguas Farc: “No habrá perdón ni olvido”",
+      "link": "https://www.infobae.com/colombia/2026/07/14/abelardo-de-la-espriella-lanzo-dura-advertencia-para-los-exlideres-de-las-antiguas-farc-no-habra-perdon-ni-olvido/",
       "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 19:02:53 +0000",
+      "pubDate": "Tue, 14 Jul 2026 20:46:52 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella reiteró al Congreso su intención de posesionarse como presidente en una guarnición militar: “Deberá actuar con responsabilidad patriótica”",
-      "link": "https://www.infobae.com/colombia/2026/07/14/abelardo-de-la-espriella-reitero-al-congreso-su-intencion-de-posesionarse-como-presidente-en-una-guarnicion-militar-en-el-sur-de-colombia/",
-      "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 19:02:04 +0000",
+      "title": "Don Luis Felipe Yagüe, vendedor de panela, aceptó asistir a la posesión del presidente electo Abelardo De La Espriella el próximo 7 de agosto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/don-luis-felipe-yaguee-el-vendedor-de-panela-acepto-asistir-a-la-posesion-del-presidente-electo-abelardo-de-la-espriella-el-proximo-7-de-agosto-3571157",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-14T15:35:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cepeda arremetió contra Abelardo de la Espriella tras anunciar el cierre de la oficina del Comisionado de Paz: “El mayor enemigo”",
-      "link": "https://www.infobae.com/colombia/2026/07/14/ivan-cepeda-arremetio-contra-abelardo-de-la-espriella-tras-anunciar-la-eliminacion-del-comisionado-de-paz-y-otras-entidades-el-mayor-enemigo-de-la-paz/",
+      "title": "Delegación del Gobierno electo de Abelardo de la Espriella avanza en Washington con su agenda enfocada en inversión y respaldo internacional",
+      "link": "https://www.infobae.com/colombia/2026/07/14/delegacion-del-gobierno-electo-de-abelardo-de-la-espriella-avanza-en-washington-con-su-agenda-enfocada-en-inversion-y-respaldo-internacional/",
       "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 18:59:44 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo de la Espriella presentó el ‘Banco de Talentos’: así funcionará la plataforma para seleccionar los funcionarios del nuevo Gobierno",
-      "link": "https://www.infobae.com/colombia/2026/07/14/abelardo-de-la-espriella-presento-el-banco-de-talentos-para-seleccionar-perfiles-en-el-nuevo-gobierno-asi-funcionara-la-plataforma/",
-      "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 18:58:10 +0000",
+      "pubDate": "Tue, 14 Jul 2026 20:27:16 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -123,22 +115,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/excanciller-alvaro-leyva-denuncio-supuesto-plan-del-gobierno-del-presidente-gustavo-petro-contra-abelardo-de-la-espriella-operacion-de-sabotaje-3571022",
       "source": "El Tiempo",
       "pubDate": "2026-07-14T07:34:41-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Quién es María Nohemí Arboleda, la nueva ministra de Minas y Energía designada por el presidente electo de Colombia, Abelardo de la Espriella?",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-maria-nohemi-arboleda-la-nueva-ministra-de-minas-y-energia-designada-por-el-presidente-electo-de-colombia-abelardo-de-la-espriella-3571012",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-14T07:02:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Empalme del gobierno de Abelardo De La Espriella: ministros confirmados y cargos que eliminarán; avanza reunión del presidente electo en Bucaramanga",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-del-gobierno-de-abelardo-de-la-espriella-todos-los-ministros-confirmados-y-los-cargos-que-el-presidente-electo-eliminara-3571011",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-14T05:26:19-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
