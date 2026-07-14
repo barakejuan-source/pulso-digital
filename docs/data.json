@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T22:59:33.412Z",
+  "updatedAt": "2026-07-14T02:46:49.129Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 14,
+      "trendsScore": 13,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 6,
+      "finalScore": 5,
       "momentum": {
-        "value": 0,
+        "value": -16.7,
         "direction": "flat"
       },
-      "probability": 7
+      "probability": 5.9
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,82 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 93
+      "probability": 94.1
     }
   ],
   "articles": [
+    {
+      "title": "Abelardo de la Espriella designa como ministra de Minas a María Nohemí Arboleda, actual gerente de XM",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-designa-como-ministra-de-minas-a-maria-nohemi-arboleda-3570975",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-13T21:26:19-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella le habló nuevamente al país con críticas a Gustavo Petro: “La majestad presidencial fue prostituida”",
+      "link": "https://www.infobae.com/colombia/2026/07/14/aberlardo-de-la-espriella-le-hablo-nuevamente-al-pais-con-criticas-contra-petro-la-majestad-presidencial-fue-prostituida/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 02:16:35 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "María Nohemí Arboleda fue designada ministra de Minas y Energía por Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/14/maria-nohemi-arboleda-fue-designada-ministra-de-minas-y-energia-por-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 02:16:29 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gustavo Bolívar llamó al Pacto Histórico a ser una bancada “seria e ilustrada” en el Congreso: ahora será partido de oposición ",
+      "link": "https://www.infobae.com/colombia/2026/07/14/gustavo-bolivar-llamo-al-pacto-historico-a-ser-una-bancada-seria-e-ilustrada-en-el-congreso-ahora-sera-partido-de-oposicion/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 02:16:05 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Directora del FMI se refirió a la reunión con la delegación de Abelardo de la Espriella en Washington: “Estamos listos”",
+      "link": "https://www.infobae.com/colombia/2026/07/14/directora-del-fmi-se-refirio-a-la-reunion-con-la-delegacion-de-abelardo-de-la-espriella-en-washington-estamos-listos/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 02:13:53 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella invita a don Luis Felipe Yagüe, el vendedor de panela, a su posesión: 'Lo quiero ver allí y abrazarlo'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-invito-a-luis-felipe-yaguee-a-su-posesion-tras-el-rechazo-que-sufrio-por-sus-preferencias-electorales-3570983",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-13T21:11:46-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Comisionado para la Paz y los 229 cargos que el presidente electo Abelardo de la Espriella eliminará desde el 7 de agosto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/comisionado-para-la-paz-y-los-229-cargos-que-el-presidente-electo-abelardo-de-la-espriella-eliminara-desde-el-7-de-agosto-3570981",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-13T21:07:45-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Petro insistió en hablar de fraude electoral y lanzó explosivo ataque contra Abelardo de la Espriella: “Es un hombre vacío de ideas”",
+      "link": "https://www.infobae.com/colombia/2026/07/14/petro-insistio-en-hablar-de-fraude-electoral-y-lanzo-explosivo-ataque-contra-abelardo-de-la-espriella-es-un-hombre-vacio-de-ideas/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 01:51:11 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "José Manuel Restrepo reveló detalles de la reunión del equipo de Abelardo de la Espriella con el Banco Mundial en Washington: “La confianza en Colombia se está fortaleciendo”",
+      "link": "https://www.infobae.com/colombia/2026/07/13/jose-manuel-restrepo-revelo-detalles-de-la-reunion-del-equipo-de-abelardo-de-la-espriella-con-el-banco-mundial-en-washington-la-confianza-en-colombia-se-esta-fortaleciendo/",
+      "source": "Infobae",
+      "pubDate": "Tue, 14 Jul 2026 01:23:40 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Presidente electo Abelardo De La Espriella anuncia visita a Bucaramanga para instalar otra sesión de su 'empalme territorial'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-anuncia-visita-a-bucaramanga-para-instalar-otra-sesion-de-su-empalme-territorial-3570927",
@@ -59,38 +131,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-continuara-su-empalme-territorial-y-jose-manuel-restrepo-empieza-agenda-en-los-estados-unidos-3570826",
       "source": "El Tiempo",
       "pubDate": "2026-07-12T17:19:20-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente electo, Abelardo de la Espriella, comienza a formar un gabinete con perfiles técnicos",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-comienza-a-formar-un-gabinete-con-perfiles-tecnicos-3570722",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-11T23:30:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Indalecio Dangond, nuevo ministro de Agricultura designado por Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/indalecio-dangond-nuevo-ministro-de-agricultura-designado-por-abelardo-de-la-espriella-3570659",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-11T17:53:44-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Abelardo de la Espriella puede posesionarse en una guarnición militar? Esto dice el presidente del Congreso",
-      "link": "https://www.eltiempo.com/politica/congreso/abelardo-de-la-espriella-puede-posesionarse-en-una-guarnicion-militar-esto-dice-el-presidente-del-congreso-3570705",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-11T15:54:23-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De la Espriella ya adelanta el empalme regional en Casanare este sábado: la crisis por las inundaciones son prioridad",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-ya-adelanta-el-empalme-regional-en-casanare-este-sabado-la-crisis-por-las-inundaciones-son-prioridad-3570668",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-11T12:23:19-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
