@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T21:05:08.758Z",
+  "updatedAt": "2026-07-15T23:01:33.926Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -8,6 +8,27 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 14,
+      "youtubeScore": 100,
+      "sentimentScore": 18,
+      "sentimentPct": {
+        "positive": 18,
+        "negative": 60,
+        "neutral": 22
+      },
+      "youtubeViews": 93525,
+      "finalScore": 41,
+      "momentum": {
+        "value": 583.3,
+        "direction": "up"
+      },
+      "probability": 50.6
+    },
+    {
+      "id": "abelardo_espriella",
+      "name": "Abelardo de la Espriella",
+      "party": "Defensores de la Patria",
+      "color": "#1D3557",
+      "trendsScore": 100,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,41 +37,68 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 6,
+      "finalScore": 40,
       "momentum": {
-        "value": 20,
-        "direction": "flat"
+        "value": -50,
+        "direction": "down"
       },
-      "probability": 7
-    },
-    {
-      "id": "abelardo_espriella",
-      "name": "Abelardo de la Espriella",
-      "party": "Defensores de la Patria",
-      "color": "#1D3557",
-      "trendsScore": 100,
-      "youtubeScore": 100,
-      "sentimentScore": 34,
-      "sentimentPct": {
-        "positive": 34,
-        "negative": 34,
-        "neutral": 32
-      },
-      "youtubeViews": 57033,
-      "finalScore": 80,
-      "momentum": {
-        "value": 0,
-        "direction": "flat"
-      },
-      "probability": 93
+      "probability": 49.4
     }
   ],
   "articles": [
     {
-      "title": "Gobierno de Abelardo de la Espriella pidió frenar más de 40 contratos para ahorrarle más de $6.000 millones a Colombia: a quiénes afecta",
-      "link": "https://www.infobae.com/colombia/2026/07/15/gobierno-de-abelardo-de-la-espriella-pidio-frenar-mas-de-40-contratos-para-ahorrarle-mas-de-6000-millones-a-colombia-a-quienes-afecta/",
+      "title": "Abelardo de la Espriella se reunió con el procurador Gregorio Eljach en Barranquilla: estos fueron los temas de la conversación",
+      "link": "https://www.infobae.com/colombia/2026/07/15/abelardo-de-la-espriella-se-reunio-con-el-procurador-gregorio-eljach-en-barranquilla-estos-fueron-los-temas-de-la-conversacion/",
       "source": "Infobae",
-      "pubDate": "Wed, 15 Jul 2026 20:03:22 +0000",
+      "pubDate": "Wed, 15 Jul 2026 22:49:26 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella y ministro de Hacienda designado se reunieron con delegación del Banco Mundial en Barranquilla",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-y-ministro-de-hacienda-designado-se-reunieron-con-delegacion-del-banco-mundial-en-barranquilla-3571511",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-15T17:47:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella designó a Alexandra Falla Zerrate en el Ministerio de Tecnologías de la Información y las Comunicaciones",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-designo-a-alexandra-falla-en-el-ministerio-de-tecnologias-de-la-informacion-y-las-comunicaciones-3571369",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-15T17:39:31-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella “enterrará” la Paz Total de Gustavo Petro: estos son los retos jurídicos que tendrá según análisis de experto ",
+      "link": "https://www.infobae.com/colombia/2026/07/15/abelardo-de-la-espriella-enterrara-la-paz-total-de-gustavo-petro-estos-son-los-retos-juridicos-que-tendra-segun-analisis-de-experto/",
+      "source": "Infobae",
+      "pubDate": "Wed, 15 Jul 2026 22:26:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Directora de la Unidad de Implementación del Acuerdo de Paz denunció penalmente a Abelardo de la Espriella por presunta instigación y hostigamiento",
+      "link": "https://www.infobae.com/colombia/2026/07/15/directora-de-la-unidad-de-implementacion-del-acuerdo-de-paz-denuncio-penalmente-a-abelardo-de-la-espriella-por-presunta-instigacion-y-hostigamiento/",
+      "source": "Infobae",
+      "pubDate": "Wed, 15 Jul 2026 22:18:55 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella movió sus fichas y buscó millonario respaldo del Banco Mundial: así fue el importante encuentro",
+      "link": "https://www.infobae.com/colombia/2026/07/15/abelardo-de-la-espriella-movio-sus-fichas-y-busco-millonario-respaldo-del-banco-mundial-asi-fue-el-importante-encuentro/",
+      "source": "Infobae",
+      "pubDate": "Wed, 15 Jul 2026 22:12:04 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia e Israel: sin visa y a un paso de abrir embajada en Jerusalén",
+      "link": "https://www.lasillavacia.com/en-vivo/colombia-e-israel-sin-visa-y-a-un-paso-de-abrir-embajada-en-jerusalen/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 15 Jul 2026 21:06:30 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -71,36 +119,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cepeda y Aída Quilcué enviaron a otra persona a recoger credenciales como congresistas tras perder elecciones presidenciales en Colombia 2026",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-y-aida-quilcue-enviaron-a-otra-persona-a-recoger-credenciales-como-congresistas-tras-perder-elecciones-presidenciales-en-colombia-3571351",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-15T11:21:26-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo De La Espriella designó a Alexandra Falla Zerrate en el Ministerio de Tecnologías de la Información y las Comunicaciones",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-designo-a-alexandra-falla-en-el-ministerio-de-tecnologias-de-la-informacion-y-las-comunicaciones-3571369",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-15T10:48:41-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "ONU pide una transición fluida entre gobiernos de Gustavo Petro y Abelardo De La Espriella y advierte sobre riesgos de violencia política",
       "link": "https://www.eltiempo.com/politica/onu-pide-una-transicion-fluida-entre-gobiernos-de-gustavo-petro-y-abelardo-de-la-espriella-y-advierte-sobre-riesgos-de-violencia-politica-3571371",
       "source": "El Tiempo",
       "pubDate": "2026-07-15T10:26:25-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda y Aida Quilcué enviaron a otra persona a recoger credenciales como congresistas tras perder elecciones presidenciales",
-      "link": "https://www.eltiempo.com/politica/elecciones-colombia-2026/ivan-cepeda-y-aida-quilcue-enviaron-a-otra-persona-a-recoger-credenciales-como-congresistas-tras-perder-elecciones-presidenciales-3571352",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-15T09:25:41-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
