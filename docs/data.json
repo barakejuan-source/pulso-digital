@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T19:17:51.426Z",
+  "updatedAt": "2026-07-15T21:05:08.758Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 13,
+      "trendsScore": 14,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 5,
+      "finalScore": 6,
       "momentum": {
-        "value": 0,
+        "value": 20,
         "direction": "flat"
       },
-      "probability": 5.9
+      "probability": 7
     },
     {
       "id": "abelardo_espriella",
@@ -42,47 +42,15 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 94.1
+      "probability": 93
     }
   ],
   "articles": [
     {
-      "title": "Estados Unidos felicitó a Abelardo de la Espriella durante sesión de la ONU, pero Antonio Guterres le hizo duro llamado sobre el proceso de paz",
-      "link": "https://www.infobae.com/colombia/2026/07/15/estados-unidos-felicito-a-abelardo-de-la-espriella-durante-sesion-de-la-onu-pero-antonio-guterres-le-hizo-duro-llamado-sobre-el-proceso-de-paz/",
+      "title": "Gobierno de Abelardo de la Espriella pidió frenar más de 40 contratos para ahorrarle más de $6.000 millones a Colombia: a quiénes afecta",
+      "link": "https://www.infobae.com/colombia/2026/07/15/gobierno-de-abelardo-de-la-espriella-pidio-frenar-mas-de-40-contratos-para-ahorrarle-mas-de-6000-millones-a-colombia-a-quienes-afecta/",
       "source": "Infobae",
-      "pubDate": "Wed, 15 Jul 2026 19:06:38 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Esta es la billonada que el Gobierno Petro ha adjudicado desde que Abelardo de la Espriella ganó la Presidencia: son más de 1.500 contratos",
-      "link": "https://www.infobae.com/colombia/2026/07/15/esta-es-la-billonada-que-el-gobierno-petro-ha-adjudicado-desde-que-abelardo-de-la-espriella-gano-la-presidencia-son-mas-de-1500-contratos/",
-      "source": "Infobae",
-      "pubDate": "Wed, 15 Jul 2026 19:02:04 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así quedaron distribuidos los movimientos políticos en la Cámara y el Senado 2026-2030 que se posesionarán el 20 de julio",
-      "link": "https://www.infobae.com/colombia/2026/07/15/asi-quedaron-distribuidos-los-movimientos-politicos-en-la-camara-y-el-senado-2026-2030-que-se-posesionaran-el-20-de-julio/",
-      "source": "Infobae",
-      "pubDate": "Wed, 15 Jul 2026 18:56:59 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Iván Cepeda y Aída Quilcué no quisieron reclamar sus credenciales como congresistas: quién lo hizo por ellos",
-      "link": "https://www.infobae.com/colombia/2026/07/15/ivan-cepeda-y-aida-quilcue-no-quisieron-reclamar-sus-credenciales-como-congresistas-enviaron-a-una-delegada/",
-      "source": "Infobae",
-      "pubDate": "Wed, 15 Jul 2026 18:54:38 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo de la Espriella confirmó a Alexandra Falla Zerrate como ministra de las TIC, de quién se trata",
-      "link": "https://www.infobae.com/colombia/2026/07/15/abelardo-de-la-espriella-confirmo-a-alexandra-falla-errate-como-ministra-de-las-tic-de-quien-se-trata/",
-      "source": "Infobae",
-      "pubDate": "Wed, 15 Jul 2026 18:44:35 +0000",
+      "pubDate": "Wed, 15 Jul 2026 20:03:22 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -133,14 +101,6 @@
       "pubDate": "2026-07-15T09:25:41-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Presidente electo, Abelardo de la Espriella, anuncia alianza con el Banco Interamericano de Desarrollo para impulsar inversión y crecimiento económico",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-anuncia-alianza-con-el-banco-interamericano-de-desarrollo-para-impulsar-inversion-y-crecimiento-economico-3571333",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-15T08:33:27-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
