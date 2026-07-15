@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T23:00:34.110Z",
+  "updatedAt": "2026-07-15T02:45:06.926Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 12,
+      "trendsScore": 11,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 5,
+      "finalScore": 4,
       "momentum": {
-        "value": 0,
+        "value": -20,
         "direction": "flat"
       },
-      "probability": 5.9
+      "probability": 4.8
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 94.1
+      "probability": 95.2
     }
   ],
   "articles": [
     {
-      "title": "“Hay que cortar la grasa”: Abelardo de la Espriella recibió respaldo para eliminar más de 200 cargos del Estado y ahorrar dinero",
-      "link": "https://www.infobae.com/colombia/2026/07/14/hay-que-cortar-la-grasa-abelardo-de-la-espriella-recibio-respaldo-para-eliminar-mas-de-200-cargos-del-estado-y-ahorrar-dinero/",
+      "title": "Embajador de Gustavo Petro habló de “riesgos institucionales” tras anuncio de Abelardo De la Espriella que condicionó futuro del Acuerdo de Paz",
+      "link": "https://www.infobae.com/colombia/2026/07/15/embajador-de-gustavo-petro-hablo-de-riesgos-institucionales-tras-anuncio-de-abelardo-de-la-espriella-que-condiciono-futuro-del-acuerdo-de-paz/",
       "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 22:47:18 +0000",
+      "pubDate": "Wed, 15 Jul 2026 02:24:35 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Juan Manuel Santos pidió a Abelardo de la Espriella continuar con el Acuerdo de Paz y cuestionó señalamientos por la inseguridad: “Es absolutamente falso”",
-      "link": "https://www.infobae.com/colombia/2026/07/14/juan-manuel-santos-pidio-a-abelardo-de-la-espriella-continuar-con-el-acuerdo-de-paz-y-cuestiono-senalamientos-por-la-inseguridad-es-absolutamente-falso/",
+      "title": "Petro lanzó sablazo a Abelardo de la Espriella por su Consejo de Ministros y su saludo militar: “Pura lentejuela, baratería”",
+      "link": "https://www.infobae.com/colombia/2026/07/15/petro-lanzo-sablazo-a-abelardo-de-la-espriella-por-su-consejo-de-ministros-simular-que-son-gobierno-es-un-delito/",
       "source": "Infobae",
-      "pubDate": "Tue, 14 Jul 2026 22:43:34 +0000",
+      "pubDate": "Wed, 15 Jul 2026 02:08:02 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "‘Timochenko’ respondió a la polémica por sus viajes internacionales: “Tengo casi el pasaporte lleno”",
+      "link": "https://www.infobae.com/colombia/2026/07/15/timochenko-respondio-a-la-polemica-por-sus-viajes-internacionales-tengo-casi-el-pasaporte-lleno/",
+      "source": "Infobae",
+      "pubDate": "Wed, 15 Jul 2026 01:29:45 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Partido Conservador apoyará a Deluque a la presidencia del Senado",
+      "link": "https://www.lasillavacia.com/en-vivo/partido-conservador-apoyara-a-deluque-a-la-presidencia-del-senado/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 15 Jul 2026 00:03:31 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "De la Espriella anuncia cambios que impactan la implementación del acuerdo de paz en Colombia",
+      "link": "https://www.france24.com/es/video/20260714-de-la-espriella-anuncia-cambios-que-impactan-la-implementaci%C3%B3n-del-acuerdo-de-paz-en-colombia",
+      "source": "France 24",
+      "pubDate": "Tue, 14 Jul 2026 23:33:04 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -79,14 +103,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Así ha estado el segundo día de agenda de la delegación de Abelardo De La Espriella en Washington",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-ha-estado-el-segundo-dia-de-agenda-de-la-delegacion-de-abelardo-de-la-espriella-en-washington-3571174",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-14T16:05:49-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Don Luis Felipe Yagüe, vendedor de panela, aceptó asistir a la posesión del presidente electo Abelardo De La Espriella el próximo 7 de agosto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/don-luis-felipe-yaguee-el-vendedor-de-panela-acepto-asistir-a-la-posesion-del-presidente-electo-abelardo-de-la-espriella-el-proximo-7-de-agosto-3571157",
       "source": "El Tiempo",
@@ -99,14 +115,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-tiempo-no-publico-declaraciones-falsas-del-presidente-petro-sobre-no-asistir-a-la-posesion-de-abelardo-de-la-espriella-la-imagen-es-falsa-3571134",
       "source": "El Tiempo",
       "pubDate": "2026-07-14T12:54:41-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella presentó una plataforma digital para que ciudadanos apliquen a cargos públicos de la próxima administración",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-presento-una-plataforma-digital-para-que-ciudadanos-apliquen-a-cargos-publicos-de-la-proxima-administracion-3571078",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-14T10:17:08-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }

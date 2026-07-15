@@ -7001,6 +7001,23 @@
           "sentiment": 34
         }
       ]
+    },
+    {
+      "date": "2026-07-15T02",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 11,
+          "youtube": 0,
+          "sentiment": 0
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 100,
+          "sentiment": 34
+        }
+      ]
     }
   ]
 }
