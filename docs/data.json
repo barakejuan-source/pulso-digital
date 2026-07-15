@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-15T17:21:45.628Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-15T19:17:51.426Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,20 +47,52 @@
   ],
   "articles": [
     {
-      "title": "Gustavo Petro respondió trino de seguidores de Abelardo de la Espriella que criticó sus viajes al exterior: “Abelardo ni se dará cuenta”",
-      "link": "https://www.infobae.com/colombia/2026/07/15/gustavo-petro-respondio-trino-de-seguidores-de-abelardo-de-la-espriella-que-critico-sus-viajes-al-exterior-abelardo-ni-se-dara-cuenta/",
+      "title": "Estados Unidos felicitó a Abelardo de la Espriella durante sesión de la ONU, pero Antonio Guterres le hizo duro llamado sobre el proceso de paz",
+      "link": "https://www.infobae.com/colombia/2026/07/15/estados-unidos-felicito-a-abelardo-de-la-espriella-durante-sesion-de-la-onu-pero-antonio-guterres-le-hizo-duro-llamado-sobre-el-proceso-de-paz/",
       "source": "Infobae",
-      "pubDate": "Wed, 15 Jul 2026 17:17:11 +0000",
+      "pubDate": "Wed, 15 Jul 2026 19:06:38 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Empalme del Gobierno de Abelardo De La Espriella: Alexandra Falla, designada como nueva ministra de las TIC",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-del-gobierno-de-abelardo-de-la-espriella-el-presidente-electo-da-un-ultimatum-a-cabecillas-del-eln-que-delinquen-en-los-santanderes-3571292",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-15T11:47:33-05:00",
+      "title": "Esta es la billonada que el Gobierno Petro ha adjudicado desde que Abelardo de la Espriella ganó la Presidencia: son más de 1.500 contratos",
+      "link": "https://www.infobae.com/colombia/2026/07/15/esta-es-la-billonada-que-el-gobierno-petro-ha-adjudicado-desde-que-abelardo-de-la-espriella-gano-la-presidencia-son-mas-de-1500-contratos/",
+      "source": "Infobae",
+      "pubDate": "Wed, 15 Jul 2026 19:02:04 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así quedaron distribuidos los movimientos políticos en la Cámara y el Senado 2026-2030 que se posesionarán el 20 de julio",
+      "link": "https://www.infobae.com/colombia/2026/07/15/asi-quedaron-distribuidos-los-movimientos-politicos-en-la-camara-y-el-senado-2026-2030-que-se-posesionaran-el-20-de-julio/",
+      "source": "Infobae",
+      "pubDate": "Wed, 15 Jul 2026 18:56:59 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Iván Cepeda y Aída Quilcué no quisieron reclamar sus credenciales como congresistas: quién lo hizo por ellos",
+      "link": "https://www.infobae.com/colombia/2026/07/15/ivan-cepeda-y-aida-quilcue-no-quisieron-reclamar-sus-credenciales-como-congresistas-enviaron-a-una-delegada/",
+      "source": "Infobae",
+      "pubDate": "Wed, 15 Jul 2026 18:54:38 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella confirmó a Alexandra Falla Zerrate como ministra de las TIC, de quién se trata",
+      "link": "https://www.infobae.com/colombia/2026/07/15/abelardo-de-la-espriella-confirmo-a-alexandra-falla-errate-como-ministra-de-las-tic-de-quien-se-trata/",
+      "source": "Infobae",
+      "pubDate": "Wed, 15 Jul 2026 18:44:35 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Perú cierra su turbulento proceso electoral con la entrega de credenciales a Keiko Fujimori",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260715-per%C3%BA-cierra-su-turbulento-proceso-electoral-con-la-entrega-de-credenciales-a-keiko-fujimori",
+      "source": "France 24",
+      "pubDate": "Wed, 15 Jul 2026 18:27:31 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Colombianos con visas de inmigrante aprobadas pidieron al presidente electo Abelardo de la Espriella intervenir ante EE. UU.",
@@ -107,14 +139,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-anuncia-alianza-con-el-banco-interamericano-de-desarrollo-para-impulsar-inversion-y-crecimiento-economico-3571333",
       "source": "El Tiempo",
       "pubDate": "2026-07-15T08:33:27-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El antiguo secretariado de las extintas Farc envió una carta a Abelardo de la Espriella y propuso diálogo sobre la implementación del Acuerdo de Paz",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-antiguo-secretariado-de-las-extintas-farc-envio-una-carta-a-abelardo-de-la-espriella-y-propuso-dialogo-sobre-la-implementacion-del-acuerdo-de-paz-3571319",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-15T07:56:07-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
