@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-15T02:45:06.926Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-15T06:19:41.817Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 4,
       "momentum": {
-        "value": -20,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 4.8
@@ -47,26 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Embajador de Gustavo Petro habló de “riesgos institucionales” tras anuncio de Abelardo De la Espriella que condicionó futuro del Acuerdo de Paz",
-      "link": "https://www.infobae.com/colombia/2026/07/15/embajador-de-gustavo-petro-hablo-de-riesgos-institucionales-tras-anuncio-de-abelardo-de-la-espriella-que-condiciono-futuro-del-acuerdo-de-paz/",
-      "source": "Infobae",
-      "pubDate": "Wed, 15 Jul 2026 02:24:35 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Petro lanzó sablazo a Abelardo de la Espriella por su Consejo de Ministros y su saludo militar: “Pura lentejuela, baratería”",
-      "link": "https://www.infobae.com/colombia/2026/07/15/petro-lanzo-sablazo-a-abelardo-de-la-espriella-por-su-consejo-de-ministros-simular-que-son-gobierno-es-un-delito/",
-      "source": "Infobae",
-      "pubDate": "Wed, 15 Jul 2026 02:08:02 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "‘Timochenko’ respondió a la polémica por sus viajes internacionales: “Tengo casi el pasaporte lleno”",
-      "link": "https://www.infobae.com/colombia/2026/07/15/timochenko-respondio-a-la-polemica-por-sus-viajes-internacionales-tengo-casi-el-pasaporte-lleno/",
-      "source": "Infobae",
-      "pubDate": "Wed, 15 Jul 2026 01:29:45 +0000",
+      "title": "José Manuel Restrepo, vicepresidente electo, se reunirá con Marco Rubio, secretario de Estado de Estados Unidos, en Washington: detalles del encuentro",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/jose-manuel-restrepo-vicepresidente-electo-se-reunira-con-marco-rubio-secretario-de-estado-de-ee-uu-en-washington-detalles-del-encuentro-3571270",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-14T22:25:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
