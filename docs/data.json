@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T21:05:27.967Z",
+  "updatedAt": "2026-07-16T23:01:21.296Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,30 @@
   ],
   "articles": [
     {
+      "title": "La JEP busca diálogo con Abelardo de la Espriella y José Manuel Restrepo para asegurar la financiación de las sentencias ",
+      "link": "https://www.infobae.com/colombia/2026/07/16/la-jep-busca-dialogo-con-abelardo-de-la-espriella-y-jose-manuel-restrepo-para-asegurar-recursos/",
+      "source": "Infobae",
+      "pubDate": "Thu, 16 Jul 2026 22:39:16 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elección de Abelardo de la Espriella como presidente de Colombia traería beneficios en vivienda y energía, pese a problemas de dinero",
+      "link": "https://www.infobae.com/colombia/2026/07/16/eleccion-de-abelardo-de-la-espriella-como-presidente-de-colombia-traeria-beneficios-en-vivienda-y-energia-pese-a-problemas-de-dinero/",
+      "source": "Infobae",
+      "pubDate": "Thu, 16 Jul 2026 22:20:15 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia retoma relaciones con Israel: De la Espriella promete mover la embajada a Jerusalén",
+      "link": "https://www.france24.com/es/video/20260716-colombia-retoma-relaciones-con-israel-de-la-espriella-promete-mover-la-embajada-a-jerusal%C3%A9n",
+      "source": "France 24",
+      "pubDate": "Thu, 16 Jul 2026 20:42:52 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Abelardo De La Espriella pide intervención de la Procuraduría en procesos de contratación de la Unidad Nacional de Protección",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriela-pide-intervencion-de-la-procuraduria-en-procesos-de-contratacion-de-la-unidad-nacional-de-proteccion-3571636",
       "source": "El Tiempo",
@@ -59,14 +83,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-alfredo-deluque-el-senador-de-la-u-que-suena-para-presidir-el-senado-y-que-cuenta-con-el-respaldo-de-abelardo-de-la-espriella-3571648",
       "source": "El Tiempo",
       "pubDate": "2026-07-16T10:59:54-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella recibió en su casa a Juan Guillermo Cuadrado y Yerry Mina y reiteró que el deporte será una prioridad de su gobierno",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-recibio-en-su-casa-a-juan-guillermo-cuadrado-y-yerry-mina-y-reitero-que-el-deporte-sera-una-prioridad-de-su-gobierno-3571597",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-16T07:05:11-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
