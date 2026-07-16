@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T02:51:57.979Z",
+  "updatedAt": "2026-07-16T06:23:20.746Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,8 +18,8 @@
       "youtubeViews": 0,
       "finalScore": 6,
       "momentum": {
-        "value": -85.4,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 7.1
     },
@@ -39,29 +39,13 @@
       "youtubeViews": 165103,
       "finalScore": 78,
       "momentum": {
-        "value": 95,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 92.9
     }
   ],
   "articles": [
-    {
-      "title": "Secretario de Seguridad de Bogotá respalda los bloques de Defensa para la Seguridad Urbana contra economías ilegales ",
-      "link": "https://www.infobae.com/colombia/2026/07/16/secretario-de-seguridad-de-bogota-respalda-los-bloques-de-defensa-para-la-seguridad-urbana-contra-economias-ilegales/",
-      "source": "Infobae",
-      "pubDate": "Thu, 16 Jul 2026 02:47:56 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "“Volvieron los tiempos de la sangre”: David Luna arremete contra Petro por su ‘silencio selectivo’ ante la violencia en el país",
-      "link": "https://www.infobae.com/colombia/2026/07/16/volvieron-los-tiempos-de-la-sangre-david-luna-arremete-contra-petro-por-su-silencio-selectivo-ante-la-violencia-en-el-pais/",
-      "source": "Infobae",
-      "pubDate": "Thu, 16 Jul 2026 02:26:09 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
     {
       "title": "Abelardo De La Espriella y ministro de Hacienda designado se reunieron con delegación del Banco Mundial en Barranquilla",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-y-ministro-de-hacienda-designado-se-reunieron-con-delegacion-del-banco-mundial-en-barranquilla-3571511",
