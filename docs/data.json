@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T23:01:33.926Z",
+  "updatedAt": "2026-07-16T02:51:57.979Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,28 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 14,
-      "youtubeScore": 100,
-      "sentimentScore": 18,
-      "sentimentPct": {
-        "positive": 18,
-        "negative": 60,
-        "neutral": 22
-      },
-      "youtubeViews": 93525,
-      "finalScore": 41,
-      "momentum": {
-        "value": 583.3,
-        "direction": "up"
-      },
-      "probability": 50.6
-    },
-    {
-      "id": "abelardo_espriella",
-      "name": "Abelardo de la Espriella",
-      "party": "Defensores de la Patria",
-      "color": "#1D3557",
-      "trendsScore": 100,
+      "trendsScore": 15,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -37,60 +16,57 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 40,
+      "finalScore": 6,
       "momentum": {
-        "value": -50,
+        "value": -85.4,
         "direction": "down"
       },
-      "probability": 49.4
+      "probability": 7.1
+    },
+    {
+      "id": "abelardo_espriella",
+      "name": "Abelardo de la Espriella",
+      "party": "Defensores de la Patria",
+      "color": "#1D3557",
+      "trendsScore": 100,
+      "youtubeScore": 100,
+      "sentimentScore": 28,
+      "sentimentPct": {
+        "positive": 28,
+        "negative": 38,
+        "neutral": 34
+      },
+      "youtubeViews": 165103,
+      "finalScore": 78,
+      "momentum": {
+        "value": 95,
+        "direction": "up"
+      },
+      "probability": 92.9
     }
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella se reunió con el procurador Gregorio Eljach en Barranquilla: estos fueron los temas de la conversación",
-      "link": "https://www.infobae.com/colombia/2026/07/15/abelardo-de-la-espriella-se-reunio-con-el-procurador-gregorio-eljach-en-barranquilla-estos-fueron-los-temas-de-la-conversacion/",
+      "title": "Secretario de Seguridad de Bogotá respalda los bloques de Defensa para la Seguridad Urbana contra economías ilegales ",
+      "link": "https://www.infobae.com/colombia/2026/07/16/secretario-de-seguridad-de-bogota-respalda-los-bloques-de-defensa-para-la-seguridad-urbana-contra-economias-ilegales/",
       "source": "Infobae",
-      "pubDate": "Wed, 15 Jul 2026 22:49:26 +0000",
+      "pubDate": "Thu, 16 Jul 2026 02:47:56 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella y ministro de Hacienda designado se reunieron con delegación del Banco Mundial en Barranquilla",
+      "title": "“Volvieron los tiempos de la sangre”: David Luna arremete contra Petro por su ‘silencio selectivo’ ante la violencia en el país",
+      "link": "https://www.infobae.com/colombia/2026/07/16/volvieron-los-tiempos-de-la-sangre-david-luna-arremete-contra-petro-por-su-silencio-selectivo-ante-la-violencia-en-el-pais/",
+      "source": "Infobae",
+      "pubDate": "Thu, 16 Jul 2026 02:26:09 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo De La Espriella y ministro de Hacienda designado se reunieron con delegación del Banco Mundial en Barranquilla",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-y-ministro-de-hacienda-designado-se-reunieron-con-delegacion-del-banco-mundial-en-barranquilla-3571511",
       "source": "El Tiempo",
-      "pubDate": "2026-07-15T17:47:05-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella designó a Alexandra Falla Zerrate en el Ministerio de Tecnologías de la Información y las Comunicaciones",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-designo-a-alexandra-falla-en-el-ministerio-de-tecnologias-de-la-informacion-y-las-comunicaciones-3571369",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-15T17:39:31-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella “enterrará” la Paz Total de Gustavo Petro: estos son los retos jurídicos que tendrá según análisis de experto ",
-      "link": "https://www.infobae.com/colombia/2026/07/15/abelardo-de-la-espriella-enterrara-la-paz-total-de-gustavo-petro-estos-son-los-retos-juridicos-que-tendra-segun-analisis-de-experto/",
-      "source": "Infobae",
-      "pubDate": "Wed, 15 Jul 2026 22:26:56 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Directora de la Unidad de Implementación del Acuerdo de Paz denunció penalmente a Abelardo de la Espriella por presunta instigación y hostigamiento",
-      "link": "https://www.infobae.com/colombia/2026/07/15/directora-de-la-unidad-de-implementacion-del-acuerdo-de-paz-denuncio-penalmente-a-abelardo-de-la-espriella-por-presunta-instigacion-y-hostigamiento/",
-      "source": "Infobae",
-      "pubDate": "Wed, 15 Jul 2026 22:18:55 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella movió sus fichas y buscó millonario respaldo del Banco Mundial: así fue el importante encuentro",
-      "link": "https://www.infobae.com/colombia/2026/07/15/abelardo-de-la-espriella-movio-sus-fichas-y-busco-millonario-respaldo-del-banco-mundial-asi-fue-el-importante-encuentro/",
-      "source": "Infobae",
-      "pubDate": "Wed, 15 Jul 2026 22:12:04 +0000",
+      "pubDate": "2026-07-15T17:58:24-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -115,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/colombianos-con-visas-de-inmigrante-aprobadas-pidieron-al-presidente-electo-abelardo-de-la-espriella-intervenir-ante-ee-uu-3571392",
       "source": "El Tiempo",
       "pubDate": "2026-07-15T11:38:53-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "ONU pide una transición fluida entre gobiernos de Gustavo Petro y Abelardo De La Espriella y advierte sobre riesgos de violencia política",
-      "link": "https://www.eltiempo.com/politica/onu-pide-una-transicion-fluida-entre-gobiernos-de-gustavo-petro-y-abelardo-de-la-espriella-y-advierte-sobre-riesgos-de-violencia-politica-3571371",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-15T10:26:25-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
