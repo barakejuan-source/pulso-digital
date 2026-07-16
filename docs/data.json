@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-16T19:18:23.821Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-16T21:05:27.967Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 15,
+      "trendsScore": 14,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,46 +47,6 @@
   ],
   "articles": [
     {
-      "title": "Sigue el pulso por la presidencia de la Cámara de Representantes en el nuevo gobierno de Abelardo de la Espriella: estos son los perfiles de los candidatos más opcionados",
-      "link": "https://www.infobae.com/colombia/2026/07/16/presidencia-de-la-camara-de-representantes-estos-son-los-perfiles-de-los-candidatos-al-cargo-mas-alto-del-legislativo/",
-      "source": "Infobae",
-      "pubDate": "Thu, 16 Jul 2026 19:15:25 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gustavo Petro se despachó contra Abelardo de la Espriella por anuncio de embajada de Colombia en Jerusalén: “De una máxima grosería”",
-      "link": "https://www.infobae.com/colombia/2026/07/16/gustavo-petro-se-despacho-contra-abelardo-de-la-espriella-por-apertura-de-embajada-de-colombia-en-jerusalen-de-una-maxima-groseria/",
-      "source": "Infobae",
-      "pubDate": "Thu, 16 Jul 2026 19:03:10 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Estudiante fque hirió a su compañera de un disparo, llevo el arma al colegio porque sufría de matoneo, aseguró Mafe Carrascal",
-      "link": "https://www.infobae.com/colombia/2026/07/16/el-caso-de-bullying-por-el-que-estudiante-fue-herida-con-arma-de-fuego-de-su-companero-mafe-carrascal-denuncio-que-sufria-matoneo/",
-      "source": "Infobae",
-      "pubDate": "Thu, 16 Jul 2026 19:00:14 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda se refirió a la polémica por aceptar curul en el Senado a pesar de no reconocer las elecciones: “Si De la Espriella la regresa, la devuelvo”",
-      "link": "https://www.infobae.com/colombia/2026/07/16/ivan-cepeda-se-refirio-a-la-aceptacion-de-su-curul-por-el-estatuto-de-oposicion-gane-la-credencial-en-las-urnas-si-de-la-espriella-la-regresa-la-devuelvo/",
-      "source": "Infobae",
-      "pubDate": "Thu, 16 Jul 2026 18:59:25 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Juzgado tumbó tutela de periodista a la que Abelardo de la Espriella le mostró foto con doble sentido: “Ganamos en segunda instancia”",
-      "link": "https://www.infobae.com/colombia/2026/07/16/abelardo-de-la-espriella-obtuvo-fallo-favorable-en-tutela-por-mostrar-foto-con-doble-sentido-a-periodista-ganamos-en-segunda-instancia/",
-      "source": "Infobae",
-      "pubDate": "Thu, 16 Jul 2026 18:57:31 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Abelardo De La Espriella pide intervención de la Procuraduría en procesos de contratación de la Unidad Nacional de Protección",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriela-pide-intervencion-de-la-procuraduria-en-procesos-de-contratacion-de-la-unidad-nacional-de-proteccion-3571636",
       "source": "El Tiempo",
@@ -107,14 +67,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-recibio-en-su-casa-a-juan-guillermo-cuadrado-y-yerry-mina-y-reitero-que-el-deporte-sera-una-prioridad-de-su-gobierno-3571597",
       "source": "El Tiempo",
       "pubDate": "2026-07-16T07:05:11-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella y ministro de Hacienda designado se reunieron con delegación del Banco Mundial en Barranquilla",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-y-ministro-de-hacienda-designado-se-reunieron-con-delegacion-del-banco-mundial-en-barranquilla-3571511",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-15T17:58:24-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
