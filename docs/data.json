@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T10:13:28.728Z",
+  "updatedAt": "2026-07-16T14:02:06.141Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,18 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Abelardo De La Espriella y ministro de Hacienda designado se reunieron con delegación del Banco Mundial en Barranquilla",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-y-ministro-de-hacienda-designado-se-reunieron-con-delegacion-del-banco-mundial-en-barranquilla-3571511",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-15T17:58:24-05:00",
+      "title": "Funcionario de la Casa de Nariño desmintió el rumor de un posible asilo de Gustavo Petro al dejar el poder el 7 de agosto: “Inventan”",
+      "link": "https://www.infobae.com/colombia/2026/07/16/funcionario-de-la-casa-de-narino-desmintio-el-rumor-de-un-posible-asilo-de-gustavo-petro-al-dejar-el-poder-el-7-de-agosto-inventan/",
+      "source": "Infobae",
+      "pubDate": "Thu, 16 Jul 2026 13:57:39 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Colombia e Israel: sin visa y a un paso de abrir embajada en Jerusalén",
-      "link": "https://www.lasillavacia.com/en-vivo/colombia-e-israel-sin-visa-y-a-un-paso-de-abrir-embajada-en-jerusalen/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 15 Jul 2026 21:06:30 +0000",
+      "title": "Abelardo De La Espriella recibió en su casa a Juan Guillermo Cuadrado y Yerry Mina y reiteró que el deporte será una prioridad de su gobierno",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-recibio-en-su-casa-a-juan-guillermo-cuadrado-y-yerry-mina-y-reitero-que-el-deporte-sera-una-prioridad-de-su-gobierno-3571597",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-16T07:05:11-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella y ministro de Hacienda designado se reunieron con delegación del Banco Mundial en Barranquilla",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-y-ministro-de-hacienda-designado-se-reunieron-con-delegacion-del-banco-mundial-en-barranquilla-3571511",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-15T17:58:24-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -69,14 +77,6 @@
       "pubDate": "Wed, 15 Jul 2026 18:27:31 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Colombianos con visas de inmigrante aprobadas pidieron al presidente electo Abelardo de la Espriella intervenir ante EE. UU.",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/colombianos-con-visas-de-inmigrante-aprobadas-pidieron-al-presidente-electo-abelardo-de-la-espriella-intervenir-ante-ee-uu-3571392",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-15T11:38:53-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
