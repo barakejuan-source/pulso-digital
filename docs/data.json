@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T02:54:42.564Z",
+  "updatedAt": "2026-07-17T06:21:29.616Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 16,
+      "trendsScore": 15,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,20 +47,12 @@
   ],
   "articles": [
     {
-      "title": "Excombatientes de las Farc le enviaron mensaje a Abelardo de la Espriella: “La paz no es únicamente el silencio de las armas”",
-      "link": "https://www.infobae.com/colombia/2026/07/17/excombatientes-de-las-farc-le-enviaron-mensaje-a-abelardo-de-la-espriella-la-paz-no-es-unicamente-el-silencio-de-las-armas/",
+      "title": "Las claves del Gobierno post Mundial: una narrativa para el bolsillo y un plan para ahuyentar el peligro del balotaje",
+      "link": "https://www.infobae.com/politica/2026/07/17/las-claves-del-gobierno-post-mundial-una-narrativa-para-el-bolsillo-y-un-plan-para-ahuyentar-el-peligro-del-balotaje/",
       "source": "Infobae",
-      "pubDate": "Fri, 17 Jul 2026 02:47:32 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella condenó el ataque con drones en base militar en Tibú, Norte de Santander: “No podrán seguir intimidando”",
-      "link": "https://www.infobae.com/colombia/2026/07/17/abelardo-de-la-espriella-condeno-el-ataque-con-drones-en-base-militar-en-tibu-norte-de-santander-no-podran-seguir-intimidando/",
-      "source": "Infobae",
-      "pubDate": "Fri, 17 Jul 2026 02:10:45 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Fri, 17 Jul 2026 05:40:25 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "PIX y el pulso electoral en Brasil: ¿qué hay detrás del nuevo arancel de Trump?",
