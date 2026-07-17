@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T10:04:16.636Z",
+  "updatedAt": "2026-07-17T13:46:44.194Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,22 @@
   ],
   "articles": [
     {
+      "title": "Álvaro Uribe se refirió al enfrentamiento con Abelardo de la Espriella por la dirección del Congreso: “Vamos a defender este partido”",
+      "link": "https://www.infobae.com/colombia/2026/07/17/alvaro-uribe-expreso-su-preocupacion-por-intencion-de-de-la-espriella-de-crear-un-partido-que-desplazaria-al-centro-democratico-defendernos-como-abejas/",
+      "source": "Infobae",
+      "pubDate": "Fri, 17 Jul 2026 13:33:25 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿En qué está la relación entre Abelardo De La Espriella, y Álvaro Uribe?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/en-que-esta-la-relacion-entre-abelardo-de-la-espriella-y-alvaro-uribe-3571910",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-17T07:53:21-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "PIX y el pulso electoral en Brasil: ¿qué hay detrás del nuevo arancel de Trump?",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260717-pix-y-el-pulso-electoral-en-brasil-qu%C3%A9-hay-detr%C3%A1s-del-nuevo-arancel-de-trump",
       "source": "France 24",
@@ -59,14 +75,6 @@
       "link": "https://www.france24.com/es/video/20260716-colombia-retoma-relaciones-con-israel-de-la-espriella-promete-mover-la-embajada-a-jerusal%C3%A9n",
       "source": "France 24",
       "pubDate": "Thu, 16 Jul 2026 20:42:52 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella pide intervención de la Procuraduría en procesos de contratación de la Unidad Nacional de Protección",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriela-pide-intervencion-de-la-procuraduria-en-procesos-de-contratacion-de-la-unidad-nacional-de-proteccion-3571636",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-16T12:45:01-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
