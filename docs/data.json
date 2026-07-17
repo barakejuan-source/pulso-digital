@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T23:01:21.296Z",
+  "updatedAt": "2026-07-17T02:54:42.564Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 14,
+      "trendsScore": 16,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,20 +47,28 @@
   ],
   "articles": [
     {
-      "title": "La JEP busca diálogo con Abelardo de la Espriella y José Manuel Restrepo para asegurar la financiación de las sentencias ",
-      "link": "https://www.infobae.com/colombia/2026/07/16/la-jep-busca-dialogo-con-abelardo-de-la-espriella-y-jose-manuel-restrepo-para-asegurar-recursos/",
+      "title": "Excombatientes de las Farc le enviaron mensaje a Abelardo de la Espriella: “La paz no es únicamente el silencio de las armas”",
+      "link": "https://www.infobae.com/colombia/2026/07/17/excombatientes-de-las-farc-le-enviaron-mensaje-a-abelardo-de-la-espriella-la-paz-no-es-unicamente-el-silencio-de-las-armas/",
       "source": "Infobae",
-      "pubDate": "Thu, 16 Jul 2026 22:39:16 +0000",
+      "pubDate": "Fri, 17 Jul 2026 02:47:32 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Elección de Abelardo de la Espriella como presidente de Colombia traería beneficios en vivienda y energía, pese a problemas de dinero",
-      "link": "https://www.infobae.com/colombia/2026/07/16/eleccion-de-abelardo-de-la-espriella-como-presidente-de-colombia-traeria-beneficios-en-vivienda-y-energia-pese-a-problemas-de-dinero/",
+      "title": "Abelardo de la Espriella condenó el ataque con drones en base militar en Tibú, Norte de Santander: “No podrán seguir intimidando”",
+      "link": "https://www.infobae.com/colombia/2026/07/17/abelardo-de-la-espriella-condeno-el-ataque-con-drones-en-base-militar-en-tibu-norte-de-santander-no-podran-seguir-intimidando/",
       "source": "Infobae",
-      "pubDate": "Thu, 16 Jul 2026 22:20:15 +0000",
+      "pubDate": "Fri, 17 Jul 2026 02:10:45 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "PIX y el pulso electoral en Brasil: ¿qué hay detrás del nuevo arancel de Trump?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260717-pix-y-el-pulso-electoral-en-brasil-qu%C3%A9-hay-detr%C3%A1s-del-nuevo-arancel-de-trump",
+      "source": "France 24",
+      "pubDate": "Fri, 17 Jul 2026 01:33:04 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Colombia retoma relaciones con Israel: De la Espriella promete mover la embajada a Jerusalén",
