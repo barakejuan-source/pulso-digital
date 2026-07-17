@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T21:01:19.839Z",
+  "updatedAt": "2026-07-17T22:54:11.181Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 15,
+      "trendsScore": 17,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 6,
+      "finalScore": 7,
       "momentum": {
-        "value": 0,
+        "value": 16.7,
         "direction": "flat"
       },
-      "probability": 7.1
+      "probability": 8.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 92.9
+      "probability": 91.8
     }
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella ayudó a equipo juvenil de robótica para viajar a Japón: “El apoyo económico del Estado ha sido nulo”",
-      "link": "https://www.infobae.com/colombia/2026/07/17/abelardo-de-la-espriella-ayudo-a-equipo-juvenil-de-robotica-para-viajar-a-japon-el-apoyo-economico-del-estado-ha-sido-nulo/",
+      "title": "Presidente electo Abelardo de la Espriella nombró a Silvia Tcherassi como embajadora Ad Honorem de la Moda y la Creatividad colombiana",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-presidente-electo-de-colombia-nombro-a-silvia-tcherassi-como-embajadora-ad-honorem-de-la-moda-y-la-creatividad-colombiana-3572055",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-17T17:36:26-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella designó a Silvia Tcherassi como embajadora ad honorem de la Moda, la Creatividad y la Identidad de Colombia   ",
+      "link": "https://www.infobae.com/colombia/2026/07/17/abelardo-de-la-espriella-designo-a-silvia-tcherassi-como-embajadora-ad-honorem-de-la-moda-la-creatividad-y-la-identidad-de-colombia/",
       "source": "Infobae",
-      "pubDate": "Fri, 17 Jul 2026 20:37:01 +0000",
+      "pubDate": "Fri, 17 Jul 2026 22:07:11 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Paola Holguín es la ministra de Cultura del Gobierno de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/17/paola-holguin-es-la-ministra-de-cultura-del-gobierno-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Fri, 17 Jul 2026 22:04:36 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La exsenadora Paola Holguín será la ministra de Cultura del gobierno de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/la-exsenadora-paola-holguin-sera-la-ministra-de-cultura-del-gobierno-de-abelardo-de-la-espriella-3572058",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-17T16:42:22-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Paola Holguín será la minCultura de Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/en-vivo/paola-holguin-sera-la-mincultura-de-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 17 Jul 2026 21:41:41 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-de-abelardo-de-la-espriella-el-equipo-del-presidente-electo-presenta-denuncias-por-presuntas-irregularidades-3571993",
       "source": "El Tiempo",
       "pubDate": "2026-07-17T12:10:33-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿En qué está la relación entre Abelardo De La Espriella y Álvaro Uribe?",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/en-que-esta-la-relacion-entre-abelardo-de-la-espriella-y-alvaro-uribe-3571910",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-17T11:21:52-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
