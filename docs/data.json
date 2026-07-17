@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-17T15:18:14.378Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-17T17:17:04.334Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,26 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Iván Cepeda confirmó que no asistirá a la posesión de Abelardo de la Espriella y ratificó la desobediencia civil",
-      "link": "https://www.infobae.com/colombia/2026/07/17/ivan-cepeda-confirmo-que-no-asistira-a-la-posesion-de-abelardo-de-la-espriella-y-ratifico-la-desobediencia-civil/",
+      "title": "Carolina Corcho confirmó que el Pacto Histórico llegará con “una decisión de bancada” para la elección del presidente del Senado ",
+      "link": "https://www.infobae.com/colombia/2026/07/17/carolina-corcho-confirmo-que-el-pacto-historico-llegara-con-una-decision-de-bancada-para-la-eleccion-del-presidente-del-senado/",
       "source": "Infobae",
-      "pubDate": "Fri, 17 Jul 2026 15:06:04 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo de la Espriella dio por cerrada la campaña y anunció que comienza el gobierno de la “Patria Milagro”: “Cumplirle a Colombia con hechos”",
-      "link": "https://www.infobae.com/colombia/2026/07/17/abelardo-de-la-espriella-cierra-la-campana-y-anuncia-que-iniciara-la-fase-de-gobierno-con-la-patria-milagro-cumplirle-a-colombia-con-hechos/",
-      "source": "Infobae",
-      "pubDate": "Fri, 17 Jul 2026 15:05:38 +0000",
+      "pubDate": "Fri, 17 Jul 2026 17:14:41 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "¿En qué está la relación entre Abelardo De La Espriella, y Álvaro Uribe?",
+      "title": "Partido Verde, En Marcha y Aico anunciaron su respaldo a Alfredo Deluque para la Presidencia del Senado en medio de la polémica con el Uribismo",
+      "link": "https://www.infobae.com/colombia/2026/07/17/partido-verde-en-marcha-y-aico-respaldan-a-alfredo-deluque-para-la-presidencia-del-senado/",
+      "source": "Infobae",
+      "pubDate": "Fri, 17 Jul 2026 16:54:23 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Representante del Centro Democrático se refirió a polémica con Abelardo de la Espriella por presidencia del Senado: “Esta es una decisión que le corresponde al Congreso”",
+      "link": "https://www.infobae.com/colombia/2026/07/17/andres-forero-afirmo-que-no-buscan-un-conflicto-con-de-la-espriella-tras-la-polemica-eleccion-del-presidente-del-senado/",
+      "source": "Infobae",
+      "pubDate": "Fri, 17 Jul 2026 16:44:45 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿En qué está la relación entre Abelardo De La Espriella y Álvaro Uribe?",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/en-que-esta-la-relacion-entre-abelardo-de-la-espriella-y-alvaro-uribe-3571910",
       "source": "El Tiempo",
-      "pubDate": "2026-07-17T07:53:21-05:00",
+      "pubDate": "2026-07-17T11:21:52-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente de la JEP pide una reunión formal a Abelardo De La Espriella y José Manuel Restrepo para dialogar sobre el Acuerdo de Paz",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-jep-pide-una-reunion-formal-a-abelardo-de-la-espriella-y-jose-manuel-restrepo-para-dialogar-sobre-el-acuerdo-de-paz-3571948",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-17T10:36:30-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -77,14 +93,6 @@
       "pubDate": "Fri, 17 Jul 2026 01:33:04 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Colombia retoma relaciones con Israel: De la Espriella promete mover la embajada a Jerusalén",
-      "link": "https://www.france24.com/es/video/20260716-colombia-retoma-relaciones-con-israel-de-la-espriella-promete-mover-la-embajada-a-jerusal%C3%A9n",
-      "source": "France 24",
-      "pubDate": "Thu, 16 Jul 2026 20:42:52 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
