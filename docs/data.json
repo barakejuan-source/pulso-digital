@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T17:17:04.334Z",
+  "updatedAt": "2026-07-17T19:17:16.442Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,26 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Carolina Corcho confirmó que el Pacto Histórico llegará con “una decisión de bancada” para la elección del presidente del Senado ",
+      "title": "Tras el asesinato de Joan Sebastián Durán, embajador de Colombia en EE. UU. afirmó que gobierno entrante no preguntó por el crimen durante operativo de ICE",
+      "link": "https://www.infobae.com/colombia/2026/07/17/caso-joan-sebastian-duran-embajador-de-colombia-en-ee-uu-afirmo-que-gobierno-entrante-no-pregunto-por-el-crimen-del-connacional-en-operativo-de-ice/",
+      "source": "Infobae",
+      "pubDate": "Fri, 17 Jul 2026 18:57:55 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Comisión de empalme de Abelardo de la Espriella radicó cuatro denuncias por irregularidades en contratos millonarios del Gobierno Petro",
+      "link": "https://www.infobae.com/colombia/2026/07/17/empalme-anticorrupcion-de-abelardo-de-la-espriella-radico-cuatro-denuncias-por-irregularidades-en-contratos-millonarios-del-gobierno-petro/",
+      "source": "Infobae",
+      "pubDate": "Fri, 17 Jul 2026 18:55:16 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Carolina Corcho se refirió a un posible apoyo del Pacto Histórico al candidato del uribismo para la presidencia del Senado: “Una decisión de bancada”",
       "link": "https://www.infobae.com/colombia/2026/07/17/carolina-corcho-confirmo-que-el-pacto-historico-llegara-con-una-decision-de-bancada-para-la-eleccion-del-presidente-del-senado/",
       "source": "Infobae",
-      "pubDate": "Fri, 17 Jul 2026 17:14:41 +0000",
+      "pubDate": "Fri, 17 Jul 2026 18:43:55 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Partido Verde, En Marcha y Aico anunciaron su respaldo a Alfredo Deluque para la Presidencia del Senado en medio de la polémica con el Uribismo",
-      "link": "https://www.infobae.com/colombia/2026/07/17/partido-verde-en-marcha-y-aico-respaldan-a-alfredo-deluque-para-la-presidencia-del-senado/",
-      "source": "Infobae",
-      "pubDate": "Fri, 17 Jul 2026 16:54:23 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Representante del Centro Democrático se refirió a polémica con Abelardo de la Espriella por presidencia del Senado: “Esta es una decisión que le corresponde al Congreso”",
-      "link": "https://www.infobae.com/colombia/2026/07/17/andres-forero-afirmo-que-no-buscan-un-conflicto-con-de-la-espriella-tras-la-polemica-eleccion-del-presidente-del-senado/",
-      "source": "Infobae",
-      "pubDate": "Fri, 17 Jul 2026 16:44:45 +0000",
+      "title": "Empalme de Gobierno de Abelardo De La Espriella: el equipo del presidente electo presenta denuncias por presuntas irregularidades",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-de-abelardo-de-la-espriella-el-equipo-del-presidente-electo-presenta-denuncias-por-presuntas-irregularidades-3571993",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-17T12:10:33-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -85,14 +93,6 @@
       "pubDate": "2026-07-17T10:36:30-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "PIX y el pulso electoral en Brasil: ¿qué hay detrás del nuevo arancel de Trump?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260717-pix-y-el-pulso-electoral-en-brasil-qu%C3%A9-hay-detr%C3%A1s-del-nuevo-arancel-de-trump",
-      "source": "France 24",
-      "pubDate": "Fri, 17 Jul 2026 01:33:04 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
