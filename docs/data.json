@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-17T13:46:44.194Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-17T15:18:14.378Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Álvaro Uribe se refirió al enfrentamiento con Abelardo de la Espriella por la dirección del Congreso: “Vamos a defender este partido”",
-      "link": "https://www.infobae.com/colombia/2026/07/17/alvaro-uribe-expreso-su-preocupacion-por-intencion-de-de-la-espriella-de-crear-un-partido-que-desplazaria-al-centro-democratico-defendernos-como-abejas/",
+      "title": "Iván Cepeda confirmó que no asistirá a la posesión de Abelardo de la Espriella y ratificó la desobediencia civil",
+      "link": "https://www.infobae.com/colombia/2026/07/17/ivan-cepeda-confirmo-que-no-asistira-a-la-posesion-de-abelardo-de-la-espriella-y-ratifico-la-desobediencia-civil/",
       "source": "Infobae",
-      "pubDate": "Fri, 17 Jul 2026 13:33:25 +0000",
+      "pubDate": "Fri, 17 Jul 2026 15:06:04 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella dio por cerrada la campaña y anunció que comienza el gobierno de la “Patria Milagro”: “Cumplirle a Colombia con hechos”",
+      "link": "https://www.infobae.com/colombia/2026/07/17/abelardo-de-la-espriella-cierra-la-campana-y-anuncia-que-iniciara-la-fase-de-gobierno-con-la-patria-milagro-cumplirle-a-colombia-con-hechos/",
+      "source": "Infobae",
+      "pubDate": "Fri, 17 Jul 2026 15:05:38 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,14 +83,6 @@
       "link": "https://www.france24.com/es/video/20260716-colombia-retoma-relaciones-con-israel-de-la-espriella-promete-mover-la-embajada-a-jerusal%C3%A9n",
       "source": "France 24",
       "pubDate": "Thu, 16 Jul 2026 20:42:52 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Quién es Alfredo Deluque, el senador de 'la U' que suena para presidir el Senado y que cuenta con el respaldo de Abelardo De La Espriella?",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-alfredo-deluque-el-senador-de-la-u-que-suena-para-presidir-el-senado-y-que-cuenta-con-el-respaldo-de-abelardo-de-la-espriella-3571648",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-16T10:59:54-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
