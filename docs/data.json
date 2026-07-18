@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T13:24:02.229Z",
+  "updatedAt": "2026-07-18T14:58:57.164Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 10,
       "momentum": {
-        "value": -9.1,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 11.4
@@ -47,18 +47,26 @@
   ],
   "articles": [
     {
-      "title": "La exsenadora Paola Holguín será la ministra de Cultura del gobierno de Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/la-exsenadora-paola-holguin-sera-la-ministra-de-cultura-del-gobierno-de-abelardo-de-la-espriella-3572058",
+      "title": "Rodrigo Lara, ministro de Interior designado de Abelardo De La Espriella, respondió a Álvaro Uribe por disputa por presidencia del Senado: 'Garantías'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/rodrigo-lara-ministro-de-interior-designado-de-abelardo-de-la-espriella-respondio-a-alvaro-uribe-por-disputa-por-presidencia-del-senado-garantias-3572142",
       "source": "El Tiempo",
-      "pubDate": "2026-07-17T23:47:28-05:00",
+      "pubDate": "2026-07-18T09:20:07-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Rodrigo Lara, ministro de Interior designado de Abelardo De La Espriella, respondió a Álvaro Uribe por disputa por presidencia del Senado: 'Garantías'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/rodrigo-lara-ministro-de-interior-designado-de-abelardo-de-la-espriella-respondio-a-alvaro-uribe-por-disputa-por-presidencia-del-senado-garantias-3572142",
+      "title": "Mensaje de Paola Holguín tras ser designada como ministra de Cultura del gobierno de Abelardo de la Espriella: ‘Gran honor y enorme reto’",
+      "link": "https://www.eltiempo.com/politica/gobierno/mensaje-de-paola-holguin-tras-ser-designada-como-ministra-de-cultura-del-gobierno-de-abelardo-de-la-espriella-gran-honor-y-enorme-reto-3572180",
       "source": "El Tiempo",
-      "pubDate": "2026-07-17T21:59:59-05:00",
+      "pubDate": "2026-07-18T09:02:34-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La exsenadora Paola Holguín será la ministra de Cultura del gobierno de Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/la-exsenadora-paola-holguin-sera-la-ministra-de-cultura-del-gobierno-de-abelardo-de-la-espriella-3572058",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-17T23:47:28-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
