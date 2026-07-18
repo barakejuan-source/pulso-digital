@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-18T17:04:32.198Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-18T19:11:22.006Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -46,6 +46,22 @@
     }
   ],
   "articles": [
+    {
+      "title": "La propuesta que Francisco Santos le hizo a Abelardo de la Espriella para combatir el narcotrafico: “Crear una industria masiva de drones”",
+      "link": "https://www.infobae.com/colombia/2026/07/18/la-propuesta-que-francisco-santos-le-hizo-a-abelardo-de-la-espriella-para-combatir-el-narcotrafico-crear-una-industria-masiva-de-drones/",
+      "source": "Infobae",
+      "pubDate": "Sat, 18 Jul 2026 18:23:02 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella realiza hoy, 18 de julio, en Barranquilla su segundo consejo de ministros de transición",
+      "link": "https://www.infobae.com/colombia/2026/07/18/abelardo-de-la-espriella-realiza-hoy-18-de-julio-en-barranquilla-su-segundo-consejo-de-ministros-de-transicion/",
+      "source": "Infobae",
+      "pubDate": "Sat, 18 Jul 2026 18:11:53 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Presidente electo Abelardo De La Espriella se reunirá con su futuro gabinete este sábado 18 de julio en Barranquilla: esto se sabe del encuentro",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-reunira-con-su-futuro-gabinete-este-sabado-en-barranquilla-esto-se-sabe-3572201",
