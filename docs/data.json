@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T06:08:57.632Z",
+  "updatedAt": "2026-07-18T09:38:14.626Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 24,
+      "trendsScore": 25,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 10,
       "momentum": {
-        "value": -9.1,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 11.4
