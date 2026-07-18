@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T14:58:57.164Z",
+  "updatedAt": "2026-07-18T17:04:32.198Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Presidente electo Abelardo De La Espriella se reunirá con su futuro gabinete este sábado 18 de julio en Barranquilla: esto se sabe del encuentro",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-reunira-con-su-futuro-gabinete-este-sabado-en-barranquilla-esto-se-sabe-3572201",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-18T11:50:59-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Rodrigo Lara, ministro de Interior designado de Abelardo De La Espriella, respondió a Álvaro Uribe por disputa por presidencia del Senado: 'Garantías'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/rodrigo-lara-ministro-de-interior-designado-de-abelardo-de-la-espriella-respondio-a-alvaro-uribe-por-disputa-por-presidencia-del-senado-garantias-3572142",
       "source": "El Tiempo",
@@ -91,14 +99,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/empalme-de-gobierno-de-abelardo-de-la-espriella-el-equipo-del-presidente-electo-presenta-denuncias-por-presuntas-irregularidades-3571993",
       "source": "El Tiempo",
       "pubDate": "2026-07-17T12:10:33-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente de la JEP pide una reunión formal a Abelardo De La Espriella y José Manuel Restrepo para dialogar sobre el Acuerdo de Paz",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-jep-pide-una-reunion-formal-a-abelardo-de-la-espriella-y-jose-manuel-restrepo-para-dialogar-sobre-el-acuerdo-de-paz-3571948",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-17T10:36:30-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
