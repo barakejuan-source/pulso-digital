@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T20:55:58.407Z",
+  "updatedAt": "2026-07-19T22:57:16.523Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 25,
+      "trendsScore": 24,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -53,14 +53,6 @@
       "pubDate": "2026-07-19T15:46:40-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Las primarias del PSOE a la Alcaldía de Oviedo irán a la segunda vuelta la próxima semana",
-      "link": "https://www.infobae.com/espana/agencias/2026/07/19/las-primarias-del-psoe-a-la-alcaldia-de-oviedo-iran-a-la-segunda-vuelta-la-proxima-semana/",
-      "source": "Infobae",
-      "pubDate": "Sun, 19 Jul 2026 19:45:55 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "El Pacto Histórico se declara oficialmente en oposición al gobierno de Abelardo De La Espriella",
