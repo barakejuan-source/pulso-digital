@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T17:02:27.766Z",
+  "updatedAt": "2026-07-19T19:12:21.012Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -46,6 +46,22 @@
     }
   ],
   "articles": [
+    {
+      "title": "Isabel Zuleta se despachó contra el nuevo gobierno de Abelardo de la Espriella tras  fotografía de su gabinete: “Degradación”",
+      "link": "https://www.infobae.com/colombia/2026/07/19/isabel-zuleta-se-despacho-contra-el-nuevo-gobierno-de-abelardo-de-la-espriella-tras-fotografia-de-su-gabinete-degradacion/",
+      "source": "Infobae",
+      "pubDate": "Sun, 19 Jul 2026 18:55:29 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El Pacto Histórico se declara oficialmente en oposición al gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/el-pacto-historico-se-declara-oficialmente-en-oposicion-al-gobierno-de-abelardo-de-la-espriella-3572330",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-19T12:06:48-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Cepeda postula a Petro para presidir el Pacto Histórico",
       "link": "https://www.lasillavacia.com/en-vivo/cepeda-postula-a-petro-para-presidir-el-pacto-historico/",
