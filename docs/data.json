@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T09:55:48.657Z",
+  "updatedAt": "2026-07-19T11:12:03.398Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 11,
       "momentum": {
-        "value": -8.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 12.4
@@ -46,14 +46,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Equipo de Abelardo De La Espriella identificó más de 170 posibles irregularidades en contratos del Gobierno Petro",
-      "link": "https://www.infobae.com/colombia/2026/07/19/equipo-de-abelardo-de-la-espriella-identifico-mas-de-170-posibles-irregularidades-en-contratos-del-gobierno-petro/",
-      "source": "Infobae",
-      "pubDate": "Sun, 19 Jul 2026 09:01:08 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
     {
       "title": "El gabinete de ministros de Abelardo de La Espriella",
       "link": "https://www.lasillavacia.com/silla-nacional/el-gabinete-de-ministros-de-abelardo-de-la-espriella/",
