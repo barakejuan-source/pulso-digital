@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T03:16:43.761Z",
+  "updatedAt": "2026-07-19T06:34:10.968Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 27,
+      "trendsScore": 29,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 11,
+      "finalScore": 12,
       "momentum": {
-        "value": 10,
+        "value": 9.1,
         "direction": "flat"
       },
-      "probability": 12.4
+      "probability": 13.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,31 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 87.6
+      "probability": 86.7
     }
   ],
   "articles": [
     {
-      "title": "El presidente electo Abelardo De La Espriella mostró por primera vez a todo su gabinete en pleno: así fue el segundo consejo de ministros",
+      "title": "El gabinete de ministros de Abelardo de La Espriella",
+      "link": "https://www.lasillavacia.com/silla-nacional/el-gabinete-de-ministros-de-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 19 Jul 2026 06:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elección de presidencias del Congreso pone a prueba la coalición de gobierno del presidente electo, Abelardo De La Espriella: así está la puja",
+      "link": "https://www.eltiempo.com/politica/congreso/eleccion-de-presidencias-del-congreso-pone-a-prueba-la-coalicion-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-asi-esta-la-puja-3572260",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-19T00:05:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El presidente electo Abelardo De La Espriella mostró por primera vez a todo su gabinete en pleno: así fue el segundo consejo de ministros designados",
       "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-mostro-por-primera-vez-a-todo-su-gabinete-en-pleno-asi-fue-el-segundo-consejo-de-ministros-3572281",
       "source": "El Tiempo",
-      "pubDate": "2026-07-18T22:02:03-05:00",
+      "pubDate": "2026-07-18T22:06:38-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,30 +75,6 @@
       "link": "https://www.eltiempo.com/politica/congreso/entrevista-rodrigo-lara-ministro-del-interior-designado-gustavo-petro-quiere-sabotear-el-inicio-del-gobierno-de-abelardo-de-la-espriella-3572264",
       "source": "El Tiempo",
       "pubDate": "2026-07-18T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Elección de presidencias del Congreso pone a prueba la coalición de gobierno del presidente electo, Abelardo De La Espriella: así está la puja",
-      "link": "https://www.eltiempo.com/politica/congreso/eleccion-de-presidencias-del-congreso-pone-a-prueba-la-coalicion-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-asi-esta-la-puja-3572260",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-18T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella lideró segundo ‘Consejo de Ministros’ en Barranquilla: “Avanzando en la hoja de ruta”",
-      "link": "https://www.infobae.com/colombia/2026/07/19/abelardo-de-la-espriella-lidero-segundo-consejo-de-ministros-en-barranquilla-avanzando-en-la-hoja-de-ruta/",
-      "source": "Infobae",
-      "pubDate": "Sun, 19 Jul 2026 02:36:20 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Alfredo Deluque contestó a señalamientos de Álvaro Uribe y negó malos manejos en el Icbf de La Guajira: “Entérese”     ",
-      "link": "https://www.infobae.com/colombia/2026/07/19/alfredo-deluque-contesto-a-senalamientos-de-alvaro-uribe-y-nego-malos-manejos-en-el-icbf-de-la-guajira-enterese/",
-      "source": "Infobae",
-      "pubDate": "Sun, 19 Jul 2026 01:33:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
