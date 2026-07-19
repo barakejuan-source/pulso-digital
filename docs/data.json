@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-19T19:12:21.012Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-19T20:55:58.407Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 26,
+      "trendsScore": 25,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,12 +47,20 @@
   ],
   "articles": [
     {
-      "title": "Isabel Zuleta se despachó contra el nuevo gobierno de Abelardo de la Espriella tras  fotografía de su gabinete: “Degradación”",
-      "link": "https://www.infobae.com/colombia/2026/07/19/isabel-zuleta-se-despacho-contra-el-nuevo-gobierno-de-abelardo-de-la-espriella-tras-fotografia-de-su-gabinete-degradacion/",
-      "source": "Infobae",
-      "pubDate": "Sun, 19 Jul 2026 18:55:29 +0000",
+      "title": "'El verdadero desarrollo se construye desde las regiones’: Abelardo De La Espriella tras visita a Buenavista, en la Ciénaga Grande, con Carlos Vives",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-verdadero-desarrollo-se-construye-desde-las-regiones-abelardo-de-la-espriella-tras-visita-a-buenavista-en-la-cienaga-grande-con-carlos-vives-3572356",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-19T15:46:40-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Las primarias del PSOE a la Alcaldía de Oviedo irán a la segunda vuelta la próxima semana",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/19/las-primarias-del-psoe-a-la-alcaldia-de-oviedo-iran-a-la-segunda-vuelta-la-proxima-semana/",
+      "source": "Infobae",
+      "pubDate": "Sun, 19 Jul 2026 19:45:55 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "El Pacto Histórico se declara oficialmente en oposición al gobierno de Abelardo De La Espriella",
