@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T11:12:03.398Z",
+  "updatedAt": "2026-07-19T13:25:25.226Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,46 @@
   ],
   "articles": [
     {
+      "title": "'Para mí, esto es pasajero': Rodrigo Lara sobre fuerte pulso entre Abelardo De La Espriella y Álvaro Uribe por conformación del Congreso",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/para-mi-esto-es-pasajero-rodrigo-lara-sobre-fuerte-pulso-entre-abelardo-de-la-espriella-y-alvaro-uribe-por-conformacion-del-congreso-3572296",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-19T07:48:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Mafe Carrascal alertó sobre riesgos para la paz en Colombia tras propuestas de Abelardo de la Espriella: “Un lamentable mensaje”",
+      "link": "https://www.infobae.com/colombia/2026/07/19/mafe-carrascal-alerto-sobre-riesgos-para-la-paz-en-colombia-tras-propuestas-de-abelardo-de-la-espriella-un-lamentable-mensaje/",
+      "source": "Infobae",
+      "pubDate": "Sun, 19 Jul 2026 12:09:09 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elección de presidencias del Congreso pone a prueba la coalición de gobierno del presidente electo, Abelardo De La Espriella: así está la puja",
+      "link": "https://www.eltiempo.com/politica/congreso/eleccion-de-presidencias-del-congreso-pone-a-prueba-la-coalicion-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-asi-esta-la-puja-3572260",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-19T07:07:28-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda propone que Gustavo Petro lidere el Pacto Histórico cuando salga de la Presidencia",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-propone-que-gustavo-petro-lidere-el-pacto-historico-cuando-salga-de-la-presidencia-3572294",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-19T07:01:21-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Entrevista | Rodrigo Lara, ministro del Interior designado: ‘Gustavo Petro quiere sabotear el inicio del gobierno de Abelardo De la Espriella’",
+      "link": "https://www.eltiempo.com/politica/congreso/entrevista-rodrigo-lara-ministro-del-interior-designado-gustavo-petro-quiere-sabotear-el-inicio-del-gobierno-de-abelardo-de-la-espriella-3572264",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-19T06:57:55-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "El gabinete de ministros de Abelardo de La Espriella",
       "link": "https://www.lasillavacia.com/silla-nacional/el-gabinete-de-ministros-de-abelardo-de-la-espriella/",
       "source": "La Silla Vacía",
@@ -55,34 +95,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Elección de presidencias del Congreso pone a prueba la coalición de gobierno del presidente electo, Abelardo De La Espriella: así está la puja",
-      "link": "https://www.eltiempo.com/politica/congreso/eleccion-de-presidencias-del-congreso-pone-a-prueba-la-coalicion-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-asi-esta-la-puja-3572260",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-19T00:05:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "El presidente electo Abelardo De La Espriella mostró por primera vez a todo su gabinete en pleno: así fue el segundo consejo de ministros designados",
       "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-mostro-por-primera-vez-a-todo-su-gabinete-en-pleno-asi-fue-el-segundo-consejo-de-ministros-3572281",
       "source": "El Tiempo",
       "pubDate": "2026-07-18T22:06:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Entrevista | Rodrigo Lara, ministro del Interior designado: ‘Gustavo Petro quiere sabotear el inicio del gobierno de Abelardo De la Espriella’",
-      "link": "https://www.eltiempo.com/politica/congreso/entrevista-rodrigo-lara-ministro-del-interior-designado-gustavo-petro-quiere-sabotear-el-inicio-del-gobierno-de-abelardo-de-la-espriella-3572264",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-18T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente electo Abelardo De La Espriella se reunirá con su futuro gabinete este sábado 18 de julio en Barranquilla: esto se sabe del encuentro",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-reunira-con-su-futuro-gabinete-este-sabado-en-barranquilla-esto-se-sabe-3572201",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-18T11:50:59-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
