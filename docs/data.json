@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T13:25:25.226Z",
+  "updatedAt": "2026-07-19T15:00:50.169Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 27,
+      "trendsScore": 26,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 11,
+      "finalScore": 10,
       "momentum": {
-        "value": 0,
+        "value": -9.1,
         "direction": "flat"
       },
-      "probability": 12.4
+      "probability": 11.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 87.6
+      "probability": 88.6
     }
   ],
   "articles": [
+    {
+      "title": "Los vínculos entre Alfredo Deluque y Abelardo de la Espriella que lo pondrían en la Presidencia del Senado: así se ha forjado la relación",
+      "link": "https://www.infobae.com/colombia/2026/07/19/los-vinculos-entre-alfredo-deluque-y-abelardo-de-la-espriella-que-lo-pondrian-en-la-presidencia-del-senado-asi-se-ha-forjado-la-relacion/",
+      "source": "Infobae",
+      "pubDate": "Sun, 19 Jul 2026 14:49:05 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Cepeda postula a Petro para presidir el Pacto Histórico",
+      "link": "https://www.lasillavacia.com/en-vivo/cepeda-postula-a-petro-para-presidir-el-pacto-historico/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 19 Jul 2026 14:27:27 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Seguidores de Abelardo de la Espriella le contestaron a María José Pizarro por cuestionar sede del nuevo gobierno en Barranquilla",
+      "link": "https://www.infobae.com/colombia/2026/07/19/seguidores-de-abelardo-de-la-espriella-le-contestaron-a-maria-jose-pizarro-por-cuestionar-sede-del-nuevo-gobierno-en-barranquilla/",
+      "source": "Infobae",
+      "pubDate": "Sun, 19 Jul 2026 14:22:17 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Centro Democrático negó haberle cerrado las puertas a la precandidatura Abelardo de la Espriella: “No se hace trampa”",
+      "link": "https://www.infobae.com/colombia/2026/07/19/centro-democratico-nego-haberle-cerrado-las-puertas-a-la-precandidatura-abelardo-de-la-espriella-no-se-hace-trampa/",
+      "source": "Infobae",
+      "pubDate": "Sun, 19 Jul 2026 14:15:31 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "'Para mí, esto es pasajero': Rodrigo Lara sobre fuerte pulso entre Abelardo De La Espriella y Álvaro Uribe por conformación del Congreso",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/para-mi-esto-es-pasajero-rodrigo-lara-sobre-fuerte-pulso-entre-abelardo-de-la-espriella-y-alvaro-uribe-por-conformacion-del-congreso-3572296",
       "source": "El Tiempo",
       "pubDate": "2026-07-19T07:48:05-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Mafe Carrascal alertó sobre riesgos para la paz en Colombia tras propuestas de Abelardo de la Espriella: “Un lamentable mensaje”",
-      "link": "https://www.infobae.com/colombia/2026/07/19/mafe-carrascal-alerto-sobre-riesgos-para-la-paz-en-colombia-tras-propuestas-de-abelardo-de-la-espriella-un-lamentable-mensaje/",
-      "source": "Infobae",
-      "pubDate": "Sun, 19 Jul 2026 12:09:09 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
