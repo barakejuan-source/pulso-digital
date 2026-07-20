@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-20T14:13:55.459Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-20T18:08:43.125Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 22,
+      "trendsScore": 21,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 9,
+      "finalScore": 8,
       "momentum": {
-        "value": 0,
+        "value": -11.1,
         "direction": "flat"
       },
-      "probability": 10.3
+      "probability": 9.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,42 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 89.7
+      "probability": 90.7
     }
   ],
   "articles": [
+    {
+      "title": "Desfile del 20 de Julio en Medellín EN VIVO: Abelardo de la Espriella acompaña conmemoraciones a militares desde el tunel de El Toyo",
+      "link": "https://www.infobae.com/colombia/2026/07/20/abelardo-de-la-espriella-en-vivo-siga-su-participacion-en-la-celebracion-del-20-de-julio-desde-el-tunel-del-toyo/",
+      "source": "Infobae",
+      "pubDate": "Mon, 20 Jul 2026 17:53:15 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gustavo Petro, el nuevo presidente del Pacto Histórico ",
+      "link": "https://www.lasillavacia.com/en-vivo/gustavo-petro-el-presidente-del-pacto-historico/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 20 Jul 2026 17:24:37 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Presidente electo Abelardo De La Espriella habló en el desfile del 20 de julio en Medellín y ratificó que se posesionará en una guarnición militar",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-habla-en-el-desfile-del-20-de-julio-en-medellin-y-ratifica-que-se-posesionara-en-una-guarnicion-militar-3572453",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-20T12:06:25-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Desde Medellín, Abelardo de la Espriella inauguró su primer 20 de julio ",
+      "link": "https://www.lasillavacia.com/en-vivo/desde-medellin-abelardo-de-la-espriella-inauguro-su-primer-20-de-julio/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 20 Jul 2026 16:10:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Comienza una nueva era en el Congreso con renovación superior al 60 %: ¿qué le espera al gobierno de Abelardo De La Espriella en el Legislativo?",
       "link": "https://www.eltiempo.com/politica/congreso/comienza-una-nueva-era-en-el-congreso-con-renovacion-superior-al-60-que-le-espera-al-gobierno-de-abelardo-de-la-espriella-en-el-legislativo-3572364",
@@ -63,14 +95,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Desfile del 20 de Julio en Medellín EN VIVO: Abelardo de la Espriella dio discurso en la apertura de la conmemoración por el Día de la Independencia",
-      "link": "https://www.infobae.com/colombia/2026/07/20/abelardo-de-la-espriella-en-vivo-siga-su-participacion-en-la-celebracion-del-20-de-julio-desde-el-tunel-del-toyo/",
-      "source": "Infobae",
-      "pubDate": "Mon, 20 Jul 2026 13:50:37 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "'Acepto la propuesta': Gustavo Petro tras iniciativa de Iván Cepeda de que se convierta en jefe del Pacto Histórico luego de la presidencia",
       "link": "https://www.eltiempo.com/politica/gobierno/acepto-la-propuesta-gustavo-petro-tras-iniciativa-de-ivan-cepeda-de-que-se-convierta-en-jefe-del-pacto-historico-luego-de-la-presidencia-3572390",
       "source": "El Tiempo",
@@ -79,50 +103,10 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Carolina Corcho se despachó contra Abelardo de la Espriella: “Cuestionado por fraude”",
-      "link": "https://www.infobae.com/colombia/2026/07/20/carolina-corcho-se-despacho-contra-abelardo-de-la-espriella-cuestionado-por-fraude/",
-      "source": "Infobae",
-      "pubDate": "Mon, 20 Jul 2026 13:40:58 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia vivirá una nueva instalación del Congreso de la República: qué es y lo que está en juego para Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/07/20/colombia-vivira-una-nueva-instalacion-del-congreso-de-la-republica-que-es-y-lo-que-esta-en-juego-para-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Mon, 20 Jul 2026 13:31:52 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "'El verdadero desarrollo se construye desde las regiones’: Abelardo De La Espriella tras visita a Buenavista, en la Ciénaga Grande, con Carlos Vives",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-verdadero-desarrollo-se-construye-desde-las-regiones-abelardo-de-la-espriella-tras-visita-a-buenavista-en-la-cienaga-grande-con-carlos-vives-3572356",
       "source": "El Tiempo",
       "pubDate": "2026-07-19T22:06:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El Pacto Histórico se declara oficialmente en oposición al gobierno de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/el-pacto-historico-se-declara-oficialmente-en-oposicion-al-gobierno-de-abelardo-de-la-espriella-3572330",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-19T12:06:48-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cepeda postula a Petro para presidir el Pacto Histórico",
-      "link": "https://www.lasillavacia.com/en-vivo/cepeda-postula-a-petro-para-presidir-el-pacto-historico/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 19 Jul 2026 14:27:27 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "'Para mí, esto es pasajero': Rodrigo Lara sobre fuerte pulso entre Abelardo De La Espriella y Álvaro Uribe por conformación del Congreso",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/para-mi-esto-es-pasajero-rodrigo-lara-sobre-fuerte-pulso-entre-abelardo-de-la-espriella-y-alvaro-uribe-por-conformacion-del-congreso-3572296",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-19T07:48:05-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
