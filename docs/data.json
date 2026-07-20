@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-20T18:08:43.125Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-20T21:15:58.021Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 8,
       "momentum": {
-        "value": -11.1,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 9.3
@@ -47,34 +47,58 @@
   ],
   "articles": [
     {
-      "title": "Desfile del 20 de Julio en Medellín EN VIVO: Abelardo de la Espriella acompaña conmemoraciones a militares desde el tunel de El Toyo",
-      "link": "https://www.infobae.com/colombia/2026/07/20/abelardo-de-la-espriella-en-vivo-siga-su-participacion-en-la-celebracion-del-20-de-julio-desde-el-tunel-del-toyo/",
+      "title": "Alertan sobre presunto plan millonario de las guerrillas para atentar contra el presidente electo Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/20/alertan-sobre-presunto-plan-millonario-de-las-guerrillas-para-atentar-contra-el-presidente-electo-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Mon, 20 Jul 2026 17:53:15 +0000",
+      "pubDate": "Mon, 20 Jul 2026 20:56:55 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gustavo Petro, el nuevo presidente del Pacto Histórico ",
-      "link": "https://www.lasillavacia.com/en-vivo/gustavo-petro-el-presidente-del-pacto-historico/",
+      "title": "Denuncian presunto plan para atentar contra la vida del presidente electo, Abelardo De La Espriella: disidencias y Eln ofrecerían $ 3.000 millones",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/denuncian-presunto-plan-para-atentar-contra-la-vida-del-presidente-electo-abelardo-de-la-espriella-disidencias-y-eln-ofrecerian-3-000-millones-3572498",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-20T15:51:09-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella designó al empresario Jorge Jaller como nuevo embajador de Colombia en Venezuela",
+      "link": "https://www.infobae.com/colombia/2026/07/20/abelardo-de-la-espriella-designo-al-empresario-jorge-jaller-como-nuevo-embajador-de-colombia-en-venezuela/",
+      "source": "Infobae",
+      "pubDate": "Mon, 20 Jul 2026 20:39:03 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Carlos Felipe Mejía, exsenador del Centro Democrático, será el nuevo embajador de Colombia en España",
+      "link": "https://www.infobae.com/colombia/2026/07/20/carlos-felipe-mejia-exsenador-del-centro-democratico-sera-el-nuevo-embajador-de-colombia-en-espana/",
+      "source": "Infobae",
+      "pubDate": "Mon, 20 Jul 2026 20:38:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella anuncia embajadores en Venezuela y España ",
+      "link": "https://www.lasillavacia.com/en-vivo/abelardo-de-la-espriella-anuncia-embajadores-en-venezuela-y-espana/",
       "source": "La Silla Vacía",
-      "pubDate": "Mon, 20 Jul 2026 17:24:37 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Mon, 20 Jul 2026 20:19:39 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia instala un nuevo Congreso, mientras Petro anuncia que será el “jefe de la oposición”",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260720-colombia-instala-un-nuevo-congreso-mientras-petro-anuncia-que-ser%C3%A1-el-jefe-de-la-oposici%C3%B3n",
+      "source": "France 24",
+      "pubDate": "Mon, 20 Jul 2026 18:52:55 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Presidente electo Abelardo De La Espriella habló en el desfile del 20 de julio en Medellín y ratificó que se posesionará en una guarnición militar",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-habla-en-el-desfile-del-20-de-julio-en-medellin-y-ratifica-que-se-posesionara-en-una-guarnicion-militar-3572453",
       "source": "El Tiempo",
       "pubDate": "2026-07-20T12:06:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desde Medellín, Abelardo de la Espriella inauguró su primer 20 de julio ",
-      "link": "https://www.lasillavacia.com/en-vivo/desde-medellin-abelardo-de-la-espriella-inauguro-su-primer-20-de-julio/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 20 Jul 2026 16:10:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -101,14 +125,6 @@
       "pubDate": "2026-07-20T08:43:52-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "'El verdadero desarrollo se construye desde las regiones’: Abelardo De La Espriella tras visita a Buenavista, en la Ciénaga Grande, con Carlos Vives",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-verdadero-desarrollo-se-construye-desde-las-regiones-abelardo-de-la-espriella-tras-visita-a-buenavista-en-la-cienaga-grande-con-carlos-vives-3572356",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-19T22:06:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
