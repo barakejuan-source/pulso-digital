@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T03:30:36.715Z",
+  "updatedAt": "2026-07-20T06:51:55.704Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 9,
       "momentum": {
-        "value": -10,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 10.3
@@ -47,6 +47,22 @@
   ],
   "articles": [
     {
+      "title": "Abelardo de la Espriella EN VIVO: siga su participación en la celebración del 20 de Julio desde el Túnel del Toyo",
+      "link": "https://www.infobae.com/colombia/2026/07/20/abelardo-de-la-espriella-en-vivo-siga-su-participacion-en-la-celebracion-del-20-de-julio-desde-el-tunel-del-toyo/",
+      "source": "Infobae",
+      "pubDate": "Mon, 20 Jul 2026 06:00:49 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Comienza una nueva era en el Congreso con renovación superior al 60 %: ¿qué le espera al gobierno de Abelardo De La Espriella en el Legislativo?",
+      "link": "https://www.eltiempo.com/politica/congreso/comienza-una-nueva-era-en-el-congreso-con-renovacion-superior-al-60-que-le-espera-al-gobierno-de-abelardo-de-la-espriella-en-el-legislativo-3572364",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-19T23:28:14-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "'El verdadero desarrollo se construye desde las regiones’: Abelardo De La Espriella tras visita a Buenavista, en la Ciénaga Grande, con Carlos Vives",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-verdadero-desarrollo-se-construye-desde-las-regiones-abelardo-de-la-espriella-tras-visita-a-buenavista-en-la-cienaga-grande-con-carlos-vives-3572356",
       "source": "El Tiempo",
@@ -59,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-oficializa-cuatro-nuevos-integrantes-de-su-equipo-de-gobierno-3572393",
       "source": "El Tiempo",
       "pubDate": "2026-07-19T21:57:58-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ejército desmintió video de las disidencias en el que “apareció vivo” alias Marlon: “No es auténtico”    ",
-      "link": "https://www.infobae.com/colombia/2026/07/20/ejercito-desmintio-video-de-las-disidencias-en-el-que-aparecio-vivo-alias-marlon-no-es-autentico/",
-      "source": "Infobae",
-      "pubDate": "Mon, 20 Jul 2026 02:18:38 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -109,14 +117,6 @@
       "pubDate": "2026-07-19T07:01:21-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Entrevista | Rodrigo Lara, ministro del Interior designado: ‘Gustavo Petro quiere sabotear el inicio del gobierno de Abelardo De la Espriella’",
-      "link": "https://www.eltiempo.com/politica/congreso/entrevista-rodrigo-lara-ministro-del-interior-designado-gustavo-petro-quiere-sabotear-el-inicio-del-gobierno-de-abelardo-de-la-espriella-3572264",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-19T06:57:55-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
