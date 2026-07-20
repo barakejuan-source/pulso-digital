@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T22:57:16.523Z",
+  "updatedAt": "2026-07-20T03:30:36.715Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 24,
+      "trendsScore": 22,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 10,
+      "finalScore": 9,
       "momentum": {
-        "value": 0,
+        "value": -10,
         "direction": "flat"
       },
-      "probability": 11.4
+      "probability": 10.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,7 +42,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 88.6
+      "probability": 89.7
     }
   ],
   "articles": [
@@ -50,9 +50,33 @@
       "title": "'El verdadero desarrollo se construye desde las regiones’: Abelardo De La Espriella tras visita a Buenavista, en la Ciénaga Grande, con Carlos Vives",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-verdadero-desarrollo-se-construye-desde-las-regiones-abelardo-de-la-espriella-tras-visita-a-buenavista-en-la-cienaga-grande-con-carlos-vives-3572356",
       "source": "El Tiempo",
-      "pubDate": "2026-07-19T15:46:40-05:00",
+      "pubDate": "2026-07-19T22:06:38-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella oficializa cuatro nuevos integrantes de su equipo de Gobierno",
+      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-oficializa-cuatro-nuevos-integrantes-de-su-equipo-de-gobierno-3572393",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-19T21:57:58-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ejército desmintió video de las disidencias en el que “apareció vivo” alias Marlon: “No es auténtico”    ",
+      "link": "https://www.infobae.com/colombia/2026/07/20/ejercito-desmintio-video-de-las-disidencias-en-el-que-aparecio-vivo-alias-marlon-no-es-autentico/",
+      "source": "Infobae",
+      "pubDate": "Mon, 20 Jul 2026 02:18:38 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "'Acepto la propuesta': Gustavo Petro tras iniciativa de Iván Cepeda de que se convierta en jefe del Pacto Histórico luego de la presidencia",
+      "link": "https://www.eltiempo.com/politica/gobierno/acepto-la-propuesta-gustavo-petro-tras-iniciativa-de-ivan-cepeda-de-que-se-convierta-en-jefe-del-pacto-historico-luego-de-la-presidencia-3572390",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-19T20:13:04-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "El Pacto Histórico se declara oficialmente en oposición al gobierno de Abelardo De La Espriella",
@@ -79,14 +103,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Elección de presidencias del Congreso pone a prueba la coalición de gobierno del presidente electo, Abelardo De La Espriella: así está la puja",
-      "link": "https://www.eltiempo.com/politica/congreso/eleccion-de-presidencias-del-congreso-pone-a-prueba-la-coalicion-de-gobierno-del-presidente-electo-abelardo-de-la-espriella-asi-esta-la-puja-3572260",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-19T07:07:28-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Iván Cepeda propone que Gustavo Petro lidere el Pacto Histórico cuando salga de la Presidencia",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-propone-que-gustavo-petro-lidere-el-pacto-historico-cuando-salga-de-la-presidencia-3572294",
       "source": "El Tiempo",
@@ -99,22 +115,6 @@
       "link": "https://www.eltiempo.com/politica/congreso/entrevista-rodrigo-lara-ministro-del-interior-designado-gustavo-petro-quiere-sabotear-el-inicio-del-gobierno-de-abelardo-de-la-espriella-3572264",
       "source": "El Tiempo",
       "pubDate": "2026-07-19T06:57:55-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El gabinete de ministros de Abelardo de La Espriella",
-      "link": "https://www.lasillavacia.com/silla-nacional/el-gabinete-de-ministros-de-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 19 Jul 2026 06:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El presidente electo Abelardo De La Espriella mostró por primera vez a todo su gabinete en pleno: así fue el segundo consejo de ministros designados",
-      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-mostro-por-primera-vez-a-todo-su-gabinete-en-pleno-asi-fue-el-segundo-consejo-de-ministros-3572281",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-18T22:06:38-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
