@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T17:25:53.363Z",
+  "updatedAt": "2026-07-21T19:37:08.561Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 8,
       "momentum": {
-        "value": -11.1,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 9.3
@@ -47,50 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Por qué el gobernador de Antioquia le propuso al presidente electo Abelardo de la Espriella adelantar el reloj por una hora en Colombia: “Aprovechemos la luz natural” ",
-      "link": "https://www.infobae.com/colombia/2026/07/21/por-que-el-gobernador-de-antioquia-le-propuso-al-presidente-electo-abelardo-de-la-espriella-adelantar-el-reloj-por-una-hora-en-colombia-aprovechemos-la-luz-natural/",
+      "title": "Estos serán los congresistas encargados de investigar a Gustavo Petro y a Abelardo de la Espriella: así quedó la nueva Comisión de Acusaciones del Congreso",
+      "link": "https://www.infobae.com/colombia/2026/07/21/quienes-seran-los-congresistas-encargados-de-investigar-a-petro-y-a-de-la-espriella-asi-quedo-la-nueva-comision-de-acusaciones-del-congreso/",
       "source": "Infobae",
-      "pubDate": "Tue, 21 Jul 2026 17:19:42 +0000",
+      "pubDate": "Tue, 21 Jul 2026 19:04:03 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "“El cargo de senador es irrenunciable”: El contundente voto en minoría en el JNE sobre el caso Rafael López Aliaga",
-      "link": "https://www.infobae.com/peru/2026/07/21/el-cargo-de-senador-es-irrenunciable-el-contundente-voto-en-minoria-en-el-jne-sobre-el-caso-rafael-lopez-aliaga/",
-      "source": "Infobae",
-      "pubDate": "Tue, 21 Jul 2026 16:53:04 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Las deudas con el Caribe que recibe Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/las-deudas-con-el-caribe-que-recibe-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 21 Jul 2026 18:06:26 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Presidente electo Abelardo De La Espriella se pronunció tras la elección de Honorio Henríquez como presidente del Senado: 'Respeto la autonomía'",
       "link": "https://www.eltiempo.com/politica/congreso/presidente-electo-abelardo-de-la-espriella-se-pronuncio-tras-eleccion-de-honorio-henriquez-como-presidente-del-senado-respeto-la-autonomia-3572635",
       "source": "El Tiempo",
       "pubDate": "2026-07-21T10:24:03-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo pierde su primer round en el Congreso",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/abelardo-pierde-su-primer-round-en-el-congreso/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 21 Jul 2026 12:18:37 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Rodrigo Lara, ministro del Interior designado, tras victoria del uribismo en presidencia del Senado: 'Estamos listos para trabajar de manera armónica'",
-      "link": "https://www.eltiempo.com/politica/gobierno/rodrigo-lara-ministro-del-interior-designado-tras-victoria-del-uribismo-en-presidencia-del-senado-estamos-listos-para-trabajar-de-manera-armonica-3572582",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-21T06:41:53-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Petro defiende la 'Paz total' y advierte a De la Espriella con ir a las calles si echa abajo sus reformas",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260721-petro-defiende-la-paz-total-y-advierte-a-de-la-espriella-con-ir-a-las-calles-si-echa-abajo-sus-reformas",
-      "source": "France 24",
-      "pubDate": "Tue, 21 Jul 2026 00:54:31 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
