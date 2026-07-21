@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-21T15:50:25.313Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-21T17:25:53.363Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 22,
+      "trendsScore": 21,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 9,
+      "finalScore": 8,
       "momentum": {
-        "value": 0,
+        "value": -11.1,
         "direction": "flat"
       },
-      "probability": 10.3
+      "probability": 9.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,33 +42,25 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 89.7
+      "probability": 90.7
     }
   ],
   "articles": [
     {
-      "title": "Isabel Zuleta pidió al Congreso frenar la posesión de Abelardo de la Espriella tras la demanda impuesta por Gustavo Petro: “Para no ser cómplice de un posible fraude”",
-      "link": "https://www.infobae.com/colombia/2026/07/21/isabel-zuleta-solicito-frenar-la-posesion-de-abelardo-de-la-espriella-hasta-que-se-esclarezcan-las-denuncias-electorales-hechas-por-gustavo-petro/",
+      "title": "Por qué el gobernador de Antioquia le propuso al presidente electo Abelardo de la Espriella adelantar el reloj por una hora en Colombia: “Aprovechemos la luz natural” ",
+      "link": "https://www.infobae.com/colombia/2026/07/21/por-que-el-gobernador-de-antioquia-le-propuso-al-presidente-electo-abelardo-de-la-espriella-adelantar-el-reloj-por-una-hora-en-colombia-aprovechemos-la-luz-natural/",
       "source": "Infobae",
-      "pubDate": "Tue, 21 Jul 2026 15:42:34 +0000",
+      "pubDate": "Tue, 21 Jul 2026 17:19:42 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella se refirió a la elección de Honorio Henríquez como presidente del Senado: “Respeto plenamente la autonomía del Congreso”",
-      "link": "https://www.infobae.com/colombia/2026/07/21/abelardo-de-la-espriella-se-refirio-a-la-eleccion-de-honorio-henriquez-como-presidente-del-senado-respeto-plenamente-la-autonomia-del-congreso/",
+      "title": "“El cargo de senador es irrenunciable”: El contundente voto en minoría en el JNE sobre el caso Rafael López Aliaga",
+      "link": "https://www.infobae.com/peru/2026/07/21/el-cargo-de-senador-es-irrenunciable-el-contundente-voto-en-minoria-en-el-jne-sobre-el-caso-rafael-lopez-aliaga/",
       "source": "Infobae",
-      "pubDate": "Tue, 21 Jul 2026 15:40:27 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella reveló un plan para atentar contra su vida: la Fiscalía abrió investigación",
-      "link": "https://www.infobae.com/colombia/2026/07/21/la-fiscalia-abrio-investigacion-por-el-posible-plan-para-atentar-contra-el-presidente-electo-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Tue, 21 Jul 2026 15:31:20 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Tue, 21 Jul 2026 16:53:04 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Presidente electo Abelardo De La Espriella se pronunció tras la elección de Honorio Henríquez como presidente del Senado: 'Respeto la autonomía'",
@@ -91,14 +83,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/rodrigo-lara-ministro-del-interior-designado-tras-victoria-del-uribismo-en-presidencia-del-senado-estamos-listos-para-trabajar-de-manera-armonica-3572582",
       "source": "El Tiempo",
       "pubDate": "2026-07-21T06:41:53-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo pierde su primer pulso con un Congreso que le muestra los dientes",
-      "link": "https://www.lasillavacia.com/silla-nacional/abelardo-pierde-su-primer-pulso-con-un-congreso-que-le-muestra-los-dientes/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 21 Jul 2026 07:19:54 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
