@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T10:28:58.713Z",
+  "updatedAt": "2026-07-21T14:01:20.245Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Petro publica demanda que busca tumbar elección de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/07/21/petro-publica-demanda-que-busca-tumbar-eleccion-de-abelardo-de-la-espriella/",
+      "title": "Álvaro Uribe celebró la elección de Honorio Henríquez como presidente del Senado con el apoyo del Pacto Histórico: “Le hará bien a Colombia”",
+      "link": "https://www.infobae.com/colombia/2026/07/21/alvaro-uribe-celebro-la-eleccion-de-honorio-henriquez-como-presidente-del-senado-le-hara-bien-a-colombia/",
       "source": "Infobae",
-      "pubDate": "Tue, 21 Jul 2026 09:30:00 +0000",
+      "pubDate": "Tue, 21 Jul 2026 13:35:33 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo pierde su primer round en el Congreso",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/abelardo-pierde-su-primer-round-en-el-congreso/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 21 Jul 2026 12:18:37 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Rodrigo Lara, ministro del Interior designado, tras victoria del uribismo en presidencia del Senado: 'Estamos listos para trabajar de manera armónica'",
+      "link": "https://www.eltiempo.com/politica/gobierno/rodrigo-lara-ministro-del-interior-designado-tras-victoria-del-uribismo-en-presidencia-del-senado-estamos-listos-para-trabajar-de-manera-armonica-3572582",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-21T06:41:53-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -63,34 +79,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Honorio Hénriquez será el nuevo presidente del Senado: uribismo ganó el primer pulso en la bancada de gobierno",
-      "link": "https://www.eltiempo.com/politica/congreso/honorio-henriquez-sera-el-nuevo-presidente-del-senado-uribismo-gano-el-primer-pulso-en-la-bancada-de-gobierno-3572567",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-20T23:56:36-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "En réplica de la oposición, senador Andrés Forero rindió homenaje a Miguel Uribe Turbay y defendió trabajo legislativo del Centro Democrático",
-      "link": "https://www.eltiempo.com/politica/congreso/en-replica-de-la-oposicion-senador-andres-forero-rindio-homenaje-a-miguel-uribe-turbay-y-defendio-trabajo-legislativo-del-centro-democratico-3572549",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-20T21:17:02-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Petro defiende la 'Paz total' y advierte a De la Espriella con ir a las calles si echa abajo sus reformas",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260721-petro-defiende-la-paz-total-y-advierte-a-de-la-espriella-con-ir-a-las-calles-si-echa-abajo-sus-reformas",
       "source": "France 24",
       "pubDate": "Tue, 21 Jul 2026 00:54:31 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia instala un nuevo Congreso, mientras Petro anuncia que será el “jefe de la oposición”",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260720-colombia-instala-un-nuevo-congreso-mientras-petro-anuncia-que-ser%C3%A1-el-jefe-de-la-oposici%C3%B3n",
-      "source": "France 24",
-      "pubDate": "Mon, 20 Jul 2026 18:52:55 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
