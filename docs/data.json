@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T21:15:17.101Z",
+  "updatedAt": "2026-07-21T23:01:51.684Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 20,
+      "trendsScore": 21,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,18 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Honorio Henríquez ya habló con Abelardo de la Espriella tras su elección como presidente del Congreso: estos fueron los temas que abordaron",
-      "link": "https://www.infobae.com/colombia/2026/07/21/honorio-henriquez-ya-hablo-con-abelardo-de-la-espriella-tras-su-eleccion-como-presidente-del-congreso-estos-fueron-los-temas-que-abordaron/",
+      "title": "El descuadre de dinero que le deja Gustavo Petro a Abelardo de la Espriella es cada vez más alto: confirman preocupantes cifras",
+      "link": "https://www.infobae.com/colombia/2026/07/21/el-descuadre-de-dinero-que-le-deja-gustavo-petro-a-abelardo-de-la-espriella-es-cada-vez-mas-alto-confirman-preocupantes-cifras/",
       "source": "Infobae",
-      "pubDate": "Tue, 21 Jul 2026 21:01:07 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella informó que tendrá sedes alternas a la Casa de Nariño en Medellín, Cali y Barranquilla: “Voy a estar en todas las regiones”",
-      "link": "https://www.infobae.com/colombia/2026/07/21/abelardo-de-la-espriella-informo-que-tendra-sedes-alternas-a-la-casa-de-narino-en-medellin-cali-y-barranquilla-voy-a-estar-en-todas-las-regiones/",
-      "source": "Infobae",
-      "pubDate": "Tue, 21 Jul 2026 20:59:00 +0000",
+      "pubDate": "Tue, 21 Jul 2026 22:50:41 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,7 +58,15 @@
       "title": "Los recientes nombramientos de Abelardo de la Espriella: Sena, UNGRD y embajada en México",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-recientes-nombramientos-de-abelardo-de-la-espriella-sena-ungrd-y-embajada-en-mexico-3572767",
       "source": "El Tiempo",
-      "pubDate": "2026-07-21T15:55:51-05:00",
+      "pubDate": "2026-07-21T16:55:43-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Quién es Jorge Jaller, el embajador designado ante Venezuela por Abelardo De La Espriella?",
+      "link": "https://www.eltiempo.com/politica/gobierno/quien-es-jorge-jaller-el-embajador-designado-ante-venezuela-por-abelardo-de-la-espriella-3572761",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-21T16:20:47-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-partido-conservador-anuncio-que-respalda-la-decision-del-presidente-electo-abelardo-de-la-espriella-de-posesionarse-en-una-guarnicion-militar-3572747",
       "source": "El Tiempo",
       "pubDate": "2026-07-21T15:18:32-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Las deudas con el Caribe que recibe Abelardo de la Espriella",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/las-deudas-con-el-caribe-que-recibe-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 21 Jul 2026 18:06:26 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
