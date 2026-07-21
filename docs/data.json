@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-21T06:33:12.016Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-21T10:28:58.713Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 9,
       "momentum": {
-        "value": 12.5,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 10.3
@@ -46,6 +46,22 @@
     }
   ],
   "articles": [
+    {
+      "title": "Petro publica demanda que busca tumbar elección de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/21/petro-publica-demanda-que-busca-tumbar-eleccion-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Tue, 21 Jul 2026 09:30:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo pierde su primer pulso con un Congreso que le muestra los dientes",
+      "link": "https://www.lasillavacia.com/silla-nacional/abelardo-pierde-su-primer-pulso-con-un-congreso-que-le-muestra-los-dientes/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 21 Jul 2026 07:19:54 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Honorio Hénriquez será el nuevo presidente del Senado: uribismo ganó el primer pulso en la bancada de gobierno",
       "link": "https://www.eltiempo.com/politica/congreso/honorio-henriquez-sera-el-nuevo-presidente-del-senado-uribismo-gano-el-primer-pulso-en-la-bancada-de-gobierno-3572567",
