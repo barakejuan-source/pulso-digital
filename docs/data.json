@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-22T02:55:12.029Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-22T06:33:21.232Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,26 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Ariel Ávila aseguró que el Gobierno de Abelardo de la Espriella buscaría saltarse el Congreso: “Como cualquier dictadorzuelo”",
-      "link": "https://www.infobae.com/colombia/2026/07/22/ariel-avila-aseguro-que-el-gobierno-de-abelardo-de-la-espriella-buscaria-saltarse-el-congreso-como-cualquier-dictadorzuelo/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 02:24:18 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Representantes de las curules de paz dieron espaldarazo al Gobierno de Abelardo de la Espriella: quiénes firmaron   ",
-      "link": "https://www.infobae.com/colombia/2026/07/22/representantes-de-las-curules-de-paz-dieron-espaldarazo-al-gobierno-de-abelardo-de-la-espriella-quienes-firmaron/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 02:02:53 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Lalis reveló que el Pacto Histórico solo buscó tumbar la ‘jugadita’ de Abelardo de la Espriella: “No nació ningún ‘petrouribismo’”",
-      "link": "https://www.infobae.com/colombia/2026/07/22/lalis-revelo-que-el-pacto-historico-solo-busco-tumbar-la-jugadita-de-abelardo-de-la-espriella-no-nacio-ningun-petrouribismo/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 01:47:43 +0000",
+      "title": "Honorio Henríquez reveló detalles de la conversación con Abelardo De La Espriella tras ganar la presidencia del Senado: 'Le reiteré mi compromiso'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/honorio-henriquez-revelo-detalles-de-la-conversacion-con-abelardo-de-la-espriella-tras-ganar-la-presidencia-del-senado-le-reitere-mi-compromiso-3572867",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-21T22:30:57-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
