@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T21:19:03.100Z",
+  "updatedAt": "2026-07-22T23:09:26.176Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,74 @@
   ],
   "articles": [
     {
-      "title": "Juan Carlos Osorio le hizo una solicitud a Abelardo de la Espriella: “Noruega es el ejemplo en eso”",
-      "link": "https://www.infobae.com/colombia/deportes/2026/07/22/juan-carlos-osorio-le-hizo-una-solicitud-a-abelardo-de-la-espriella-noruega-es-el-ejemplo-en-eso/",
+      "title": "Abelardo de la Espriella quiere convertir a Barranquilla en la “capital alterna” de Colombia: “¡Se acabó el abandono centralista!\"",
+      "link": "https://www.infobae.com/colombia/2026/07/22/abelardo-de-la-espriella-quiere-convertir-a-barranquilla-en-la-capital-alterna-de-colombia-se-acabo-el-abandono-centralista/",
       "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 21:14:24 +0000",
+      "pubDate": "Wed, 22 Jul 2026 23:08:13 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El gobernador de Antioquia criticó a Petro y defendió la legitimidad de las elecciones: “Es un mal perdedor”",
+      "link": "https://www.infobae.com/colombia/2026/07/22/el-gobernador-de-antioquia-critico-a-petro-y-defendio-la-legitimidad-de-las-elecciones-es-un-mal-perdedor/",
+      "source": "Infobae",
+      "pubDate": "Wed, 22 Jul 2026 22:36:55 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Rafael Nieto Loaiza se desmarcó del Centro Democrático y se opuso a que posesión de Abelardo De la Espriella se lleve a cabo ante los militares",
+      "link": "https://www.infobae.com/colombia/2026/07/22/rafael-nieto-loaiza-se-desmarco-del-centro-democratico-y-se-opuso-a-que-posesion-de-abelardo-de-la-espriella-se-lleve-a-cabo-ante-los-militares/",
+      "source": "Infobae",
+      "pubDate": "Wed, 22 Jul 2026 22:35:32 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elección del nuevo contralor pondrá a prueba el primer pulso político del Congreso de Abelardo de la Espriella: enfrenta un desafío judicial ",
+      "link": "https://www.infobae.com/colombia/2026/07/22/eleccion-del-nuevo-contralor-pondra-a-prueba-el-primer-pulso-politico-del-congreso-de-abelardo-de-la-espriella-enfrenta-un-desafio-judicial/",
+      "source": "Infobae",
+      "pubDate": "Wed, 22 Jul 2026 22:33:30 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Senado aprueba debate de control por el llamado “voto fusil”: Gobierno Petro y Registraduría tendrán que responder",
+      "link": "https://www.infobae.com/colombia/2026/07/22/senado-aprueba-debate-de-control-por-el-llamado-voto-fusil-gobierno-petro-y-registraduria-tendran-que-responder/",
+      "source": "Infobae",
+      "pubDate": "Wed, 22 Jul 2026 22:32:59 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Posesión de Abelardo de la Espriella: el país político reaccionó a la decisión del Senado de aprobar el traslado del Congreso",
+      "link": "https://www.infobae.com/colombia/2026/07/22/posesion-de-abelardo-de-la-espriella-el-pais-politico-reacciono-a-la-decision-del-senado-de-aprobar-el-traslado-del-congreso/",
+      "source": "Infobae",
+      "pubDate": "Wed, 22 Jul 2026 22:31:47 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El presidente electo, Abelardo De La Espriella, designó al exsenador Carlos Felipe Mejía como nuevo embajador de Colombia en España",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-electo-abelardo-de-la-espriella-designo-al-exsenador-carlos-felipe-mejia-como-nuevo-embajador-de-colombia-en-espana-3573086",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-22T17:29:37-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda cuestionó una vez más la legitimidad de Abelardo de la Espriella y tildó de “sainete” su eventual posesión en una guarnición",
+      "link": "https://www.infobae.com/colombia/2026/07/22/ivan-cepeda-cuestiono-una-vez-mas-la-legitimidad-de-abelardo-de-la-espriella-y-tildo-de-sainete-su-eventual-posesion-en-una-guarnicion/",
+      "source": "Infobae",
+      "pubDate": "Wed, 22 Jul 2026 22:16:09 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella rechazó la nueva reforma tributaria del Gobierno Petro: “La crisis fiscal es producto de decisiones equivocadas”",
+      "link": "https://www.infobae.com/colombia/2026/07/22/abelardo-de-la-espriella-rechazo-la-nueva-reforma-tributaria-del-gobierno-petro-la-crisis-fiscal-es-producto-de-decisiones-equivocadas/",
+      "source": "Infobae",
+      "pubDate": "Wed, 22 Jul 2026 22:14:06 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,15 +122,7 @@
       "title": "Senado dio luz verde para que la posesión presidencial de Abelardo de la Espriella se realice en Cauca: ¿será en sede militar?",
       "link": "https://www.infobae.com/colombia/2026/07/22/senado-dio-luz-verde-para-que-la-posesion-presidencial-de-abelardo-de-la-espriella-se-realice-en-cauca-sera-en-sede-militar/",
       "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 21:07:19 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella hoy 22 de julio en Colombia: el Senado de la República aprobó traslado de la posesión presidencial al Cauca",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-miercoles-22-de-julio-en-colombia-ultimas-noticias-posesion-reacciones-y-anuncios-de-nuevo-gobierno-3572925",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-22T16:06:36-05:00",
+      "pubDate": "Wed, 22 Jul 2026 22:12:03 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -74,15 +130,7 @@
       "title": "Primera victoria para Abelardo De La Espriella en el Congreso: Senado aprobó traslado de la posesión al Cauca",
       "link": "https://www.eltiempo.com/politica/congreso/primera-victoria-para-abelardo-de-la-espriella-en-el-congreso-senado-aprobo-traslado-de-la-posesion-al-cauca-3573023",
       "source": "El Tiempo",
-      "pubDate": "2026-07-22T15:59:46-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella designó al abogado Andrés Barreto como secretario jurídico de la Presidencia",
-      "link": "https://www.infobae.com/colombia/2026/07/22/abelardo-de-la-espriella-designo-al-abogado-andres-barreto-como-secretario-juridico-de-la-presidencia/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 20:52:49 +0000",
+      "pubDate": "2026-07-22T16:08:41-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -91,46 +139,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-acelera-la-conformacion-de-su-gobierno-el-peso-de-antioquia-entre-los-perfiles-que-lo-acompanaran-3573053",
       "source": "El Tiempo",
       "pubDate": "2026-07-22T15:15:01-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda respondió a la polémica por supuesta unión del Pacto Histórico y Centro Democrático en elección de presidencia del Senado: 'Diálogo'",
-      "link": "https://www.eltiempo.com/politica/congreso/ivan-cepeda-respondio-a-la-polemica-por-supuesta-union-del-pacto-historico-y-centro-democratico-en-eleccion-de-presidencia-del-senado-dialogo-3572999",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-22T11:59:45-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "El gobierno Petro se despide del Congreso con un paquete de reformas",
-      "link": "https://www.lasillavacia.com/en-vivo/con-paquete-de-reformas-el-gobierno-petro-se-despide-del-congreso/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 22 Jul 2026 16:19:34 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella no puede arrasar con el Acuerdo Final y la JEP",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/abelardo-de-la-espriella-no-puede-arrasar-con-el-acuerdo-final-y-la-jep/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 22 Jul 2026 16:00:14 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Video | La felicitación de Iván Cepeda a Honorio Henríquez tras ganar la presidencia del Senado: excandidato del Pacto Histórico hizo público su voto",
-      "link": "https://www.eltiempo.com/politica/congreso/video-inesperada-felicitacion-de-ivan-cepeda-a-honorio-henriquez-el-excandidato-del-pacto-historico-hizo-publico-voto-para-presidencia-del-senado-3572942",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-22T10:30:03-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Sigue desencuentro entre Centro Democrático y presidente electo Abelardo De La Espriella: partido habló de 'intervención' en elección en el Senado",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/sigue-desencuentro-entre-centro-democratico-y-presidente-electo-abelardo-de-la-espriella-partido-hablo-de-intervencion-en-eleccion-en-el-senado-3572920",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-22T09:12:16-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
