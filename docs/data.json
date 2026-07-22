@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-22T17:25:14.964Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-22T19:27:27.152Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 20,
+      "trendsScore": 22,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 8,
+      "finalScore": 9,
       "momentum": {
-        "value": 0,
+        "value": 12.5,
         "direction": "flat"
       },
-      "probability": 9.3
+      "probability": 10.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,63 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 90.7
+      "probability": 89.7
     }
   ],
   "articles": [
     {
+      "title": "Debate sobre el lugar de posesión de Abelardo de la Espriella avanza en el Senado: se discuten al menos tres proposiciones",
+      "link": "https://www.infobae.com/colombia/2026/07/22/tension-en-el-senado-por-posesion-de-abelardo-de-la-espriella-se-discuten-al-menos-tres-proposiciones/",
+      "source": "Infobae",
+      "pubDate": "Wed, 22 Jul 2026 19:18:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda anunció un acto público en Barranquilla el 7 de agosto a la misma hora en que se posesione Abelardo de la Espriella: “Desobediencia civil”",
+      "link": "https://www.infobae.com/colombia/2026/07/22/ivan-cepeda-realizara-acto-publico-en-barranquilla-el-7-de-agosto-paralelo-a-la-posesion-de-abelardo-de-la-espriella-desobediencia-civil/",
+      "source": "Infobae",
+      "pubDate": "Wed, 22 Jul 2026 19:15:50 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Honorio Henríquez, presidente del Senado, aseguró que quiere reunirse con Gustavo Petro, Abelardo de la Espriella y Álvaro Uribe: “Mejorar Colombia”    ",
+      "link": "https://www.infobae.com/colombia/2026/07/22/honorio-henriquez-presidente-del-senado-quiere-reunirse-con-gustavo-petro-abelardo-de-la-espriella-y-alvaro-uribe-mejorar-colombia/",
+      "source": "Infobae",
+      "pubDate": "Wed, 22 Jul 2026 19:13:10 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Pacto Histórico radicó otra proposición para obligar a Abelardo de la Espriella a posesionarse en Bogotá: “¿Cuánta plata nos va a valer?”",
       "link": "https://www.infobae.com/colombia/2026/07/22/pacto-historico-radico-otra-proposicion-para-obligar-a-abelardo-de-la-espriella-a-posesionarse-en-bogota-cuanta-plata-nos-va-a-valer/",
       "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 17:07:37 +0000",
+      "pubDate": "Wed, 22 Jul 2026 19:12:14 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella hoy 22 de julio en Colombia: radican proposición para que presidente electo se posesione en una guarnición militar en Cauca",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-miercoles-22-de-julio-en-colombia-ultimas-noticias-posesion-reacciones-y-anuncios-de-nuevo-gobierno-3572925",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-22T14:09:10-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda se refirió a la posibilidad de una alianza entre el Pacto Histórico y Centro Democrático tras votar por Honorio Henríquez en el Senado: “No existe el petrouribismo”",
+      "link": "https://www.infobae.com/colombia/2026/07/22/ivan-cepeda-nego-una-nueva-alianza-entre-pacto-historico-y-centro-democratico-a-pesar-de-votar-por-honorio-henriquez-no-existe-el-petrouribismo/",
+      "source": "Infobae",
+      "pubDate": "Wed, 22 Jul 2026 19:04:00 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "11 de 16 congresistas de las curules de paz apoyan a Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/en-vivo/11-de-16-congresistas-de-las-curules-de-paz-apoyan-a-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 22 Jul 2026 17:53:12 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -61,30 +109,6 @@
       "pubDate": "2026-07-22T11:59:45-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "No para el enfrentamiento entre el uribismo y Abelardo de la Espriella: “Quieren destruir al Centro Democrático”",
-      "link": "https://www.infobae.com/colombia/2026/07/22/siguen-las-tensiones-entre-el-centro-democratico-y-abelardo-de-la-espriella-el-partido-expreso-su-preocupacion-por-intervencion-en-el-senado/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 16:58:15 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El gobernador de Antioquia le realizó polémica propuesta al presidente electo Abelardo de la Espriella: “Bombardear a ‘Calarcá’”",
-      "link": "https://www.infobae.com/colombia/2026/07/22/el-gobernador-de-antioquia-pidio-al-nuevo-gobierno-acciones-contundentes-contra-los-grupos-armados-bombardear-a-calarca/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 16:51:21 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "General retirado aseguró que el ELN y las disidencias de las Farc están ofreciendo $3.000 millones para atentar contra Abelardo de la Espriella: “Los dueños del narcotráfico”",
-      "link": "https://www.infobae.com/colombia/2026/07/22/general-eliecer-camacho-hablo-de-los-grupos-armados-que-ofrecen-millonaria-recompensa-para-atentar-contra-abelardo-de-la-espriella-delincuentes/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 16:50:46 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "El gobierno Petro se despide del Congreso con un paquete de reformas",
@@ -115,30 +139,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/sigue-desencuentro-entre-centro-democratico-y-presidente-electo-abelardo-de-la-espriella-partido-hablo-de-intervencion-en-eleccion-en-el-senado-3572920",
       "source": "El Tiempo",
       "pubDate": "2026-07-22T09:12:16-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella hoy 22 de julio en Colombia: senador y excandidato Iván Cepeda confirmó que no asistirá a posesión del presidente electo",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-miercoles-22-de-julio-en-colombia-ultimas-noticias-posesion-reacciones-y-anuncios-de-nuevo-gobierno-3572925",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-22T09:05:12-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Honorio Henríquez reveló detalles de la conversación con Abelardo De La Espriella tras ganar la presidencia del Senado: 'Le reiteré mi compromiso'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/honorio-henriquez-revelo-detalles-de-la-conversacion-con-abelardo-de-la-espriella-tras-ganar-la-presidencia-del-senado-le-reitere-mi-compromiso-3572867",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-22T06:24:13-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Quién es Jorge Jaller, el embajador designado ante Venezuela por Abelardo De La Espriella?",
-      "link": "https://www.eltiempo.com/politica/gobierno/quien-es-jorge-jaller-el-embajador-designado-ante-venezuela-por-abelardo-de-la-espriella-3572761",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-21T16:20:47-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
