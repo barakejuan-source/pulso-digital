@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T23:01:51.684Z",
+  "updatedAt": "2026-07-22T02:55:12.029Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "El descuadre de dinero que le deja Gustavo Petro a Abelardo de la Espriella es cada vez más alto: confirman preocupantes cifras",
-      "link": "https://www.infobae.com/colombia/2026/07/21/el-descuadre-de-dinero-que-le-deja-gustavo-petro-a-abelardo-de-la-espriella-es-cada-vez-mas-alto-confirman-preocupantes-cifras/",
+      "title": "Ariel Ávila aseguró que el Gobierno de Abelardo de la Espriella buscaría saltarse el Congreso: “Como cualquier dictadorzuelo”",
+      "link": "https://www.infobae.com/colombia/2026/07/22/ariel-avila-aseguro-que-el-gobierno-de-abelardo-de-la-espriella-buscaria-saltarse-el-congreso-como-cualquier-dictadorzuelo/",
       "source": "Infobae",
-      "pubDate": "Tue, 21 Jul 2026 22:50:41 +0000",
+      "pubDate": "Wed, 22 Jul 2026 02:24:18 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Representantes de las curules de paz dieron espaldarazo al Gobierno de Abelardo de la Espriella: quiénes firmaron   ",
+      "link": "https://www.infobae.com/colombia/2026/07/22/representantes-de-las-curules-de-paz-dieron-espaldarazo-al-gobierno-de-abelardo-de-la-espriella-quienes-firmaron/",
+      "source": "Infobae",
+      "pubDate": "Wed, 22 Jul 2026 02:02:53 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Lalis reveló que el Pacto Histórico solo buscó tumbar la ‘jugadita’ de Abelardo de la Espriella: “No nació ningún ‘petrouribismo’”",
+      "link": "https://www.infobae.com/colombia/2026/07/22/lalis-revelo-que-el-pacto-historico-solo-busco-tumbar-la-jugadita-de-abelardo-de-la-espriella-no-nacio-ningun-petrouribismo/",
+      "source": "Infobae",
+      "pubDate": "Wed, 22 Jul 2026 01:47:43 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
