@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T10:29:51.585Z",
+  "updatedAt": "2026-07-22T14:04:26.744Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 21,
+      "trendsScore": 20,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
+      "title": "Sigue desencuentro entre Centro Democrático y presidente electo Abelardo De La Espriella: partido habló de 'intervención' en elección en el Senado",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/sigue-desencuentro-entre-centro-democratico-y-presidente-electo-abelardo-de-la-espriella-partido-hablo-de-intervencion-en-eleccion-en-el-senado-3572920",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-22T08:25:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella hoy miércoles 22 de julio en Colombia: últimas noticias, posesión, reacciones y anuncios de nuevo gobierno",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-miercoles-22-de-julio-en-colombia-ultimas-noticias-posesion-reacciones-y-anuncios-de-nuevo-gobierno-3572925",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-22T08:06:40-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Honorio Henríquez reveló detalles de la conversación con Abelardo De La Espriella tras ganar la presidencia del Senado: 'Le reiteré mi compromiso'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/honorio-henriquez-revelo-detalles-de-la-conversacion-con-abelardo-de-la-espriella-tras-ganar-la-presidencia-del-senado-le-reitere-mi-compromiso-3572867",
       "source": "El Tiempo",
-      "pubDate": "2026-07-21T22:30:57-05:00",
+      "pubDate": "2026-07-22T06:24:13-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
