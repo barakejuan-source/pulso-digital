@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-23T03:16:24.897Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-23T06:34:35.771Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 8,
       "momentum": {
-        "value": -11.1,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 9.3
@@ -53,14 +53,6 @@
       "pubDate": "2026-07-22T21:45:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "David Luna se despachó contra proyecto de ley que radicó Petro para regular la inteligencia artificial y lo acusó de ‘copiar’ modelos inadaptables",
-      "link": "https://www.infobae.com/colombia/2026/07/23/david-luna-se-despacho-contra-proyecto-de-ley-que-radico-petro-para-regular-la-inteligencia-artificial-y-lo-acuso-de-copiar-modelos-inadaptables/",
-      "source": "Infobae",
-      "pubDate": "Thu, 23 Jul 2026 02:15:20 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Ecuador-Colombia: Noboa trabajará con De la Espriella contra grupos al margen de la ley",
