@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T23:09:26.176Z",
+  "updatedAt": "2026-07-23T03:16:24.897Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 22,
+      "trendsScore": 20,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 9,
+      "finalScore": 8,
       "momentum": {
-        "value": 0,
+        "value": -11.1,
         "direction": "flat"
       },
-      "probability": 10.3
+      "probability": 9.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,55 +42,31 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 89.7
+      "probability": 90.7
     }
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella quiere convertir a Barranquilla en la “capital alterna” de Colombia: “¡Se acabó el abandono centralista!\"",
-      "link": "https://www.infobae.com/colombia/2026/07/22/abelardo-de-la-espriella-quiere-convertir-a-barranquilla-en-la-capital-alterna-de-colombia-se-acabo-el-abandono-centralista/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 23:08:13 +0000",
+      "title": "Abelardo De La Espriella, presidente electo, nombró a Enrique Serrano López como asesor presidencial de su gobierno: 'Necesitamos voces preparadas'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-presidente-electo-nombro-a-enrique-serrano-lopez-como-asesor-presidencial-de-su-gobierno-necesitamos-voces-preparadas-3573136",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-22T21:45:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El gobernador de Antioquia criticó a Petro y defendió la legitimidad de las elecciones: “Es un mal perdedor”",
-      "link": "https://www.infobae.com/colombia/2026/07/22/el-gobernador-de-antioquia-critico-a-petro-y-defendio-la-legitimidad-de-las-elecciones-es-un-mal-perdedor/",
+      "title": "David Luna se despachó contra proyecto de ley que radicó Petro para regular la inteligencia artificial y lo acusó de ‘copiar’ modelos inadaptables",
+      "link": "https://www.infobae.com/colombia/2026/07/23/david-luna-se-despacho-contra-proyecto-de-ley-que-radico-petro-para-regular-la-inteligencia-artificial-y-lo-acuso-de-copiar-modelos-inadaptables/",
       "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 22:36:55 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Rafael Nieto Loaiza se desmarcó del Centro Democrático y se opuso a que posesión de Abelardo De la Espriella se lleve a cabo ante los militares",
-      "link": "https://www.infobae.com/colombia/2026/07/22/rafael-nieto-loaiza-se-desmarco-del-centro-democratico-y-se-opuso-a-que-posesion-de-abelardo-de-la-espriella-se-lleve-a-cabo-ante-los-militares/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 22:35:32 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Elección del nuevo contralor pondrá a prueba el primer pulso político del Congreso de Abelardo de la Espriella: enfrenta un desafío judicial ",
-      "link": "https://www.infobae.com/colombia/2026/07/22/eleccion-del-nuevo-contralor-pondra-a-prueba-el-primer-pulso-politico-del-congreso-de-abelardo-de-la-espriella-enfrenta-un-desafio-judicial/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 22:33:30 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Senado aprueba debate de control por el llamado “voto fusil”: Gobierno Petro y Registraduría tendrán que responder",
-      "link": "https://www.infobae.com/colombia/2026/07/22/senado-aprueba-debate-de-control-por-el-llamado-voto-fusil-gobierno-petro-y-registraduria-tendran-que-responder/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 22:32:59 +0000",
+      "pubDate": "Thu, 23 Jul 2026 02:15:20 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Posesión de Abelardo de la Espriella: el país político reaccionó a la decisión del Senado de aprobar el traslado del Congreso",
-      "link": "https://www.infobae.com/colombia/2026/07/22/posesion-de-abelardo-de-la-espriella-el-pais-politico-reacciono-a-la-decision-del-senado-de-aprobar-el-traslado-del-congreso/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 22:31:47 +0000",
+      "title": "Ecuador-Colombia: Noboa trabajará con De la Espriella contra grupos al margen de la ley",
+      "link": "https://www.france24.com/es/video/20260723-ecuador-colombia-noboa-trabajar%C3%A1-con-de-la-espriella-contra-grupos-al-margen-de-la-ley",
+      "source": "France 24",
+      "pubDate": "Thu, 23 Jul 2026 02:01:37 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -98,31 +74,15 @@
       "title": "El presidente electo, Abelardo De La Espriella, designó al exsenador Carlos Felipe Mejía como nuevo embajador de Colombia en España",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-electo-abelardo-de-la-espriella-designo-al-exsenador-carlos-felipe-mejia-como-nuevo-embajador-de-colombia-en-espana-3573086",
       "source": "El Tiempo",
-      "pubDate": "2026-07-22T17:29:37-05:00",
+      "pubDate": "2026-07-22T19:15:33-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cepeda cuestionó una vez más la legitimidad de Abelardo de la Espriella y tildó de “sainete” su eventual posesión en una guarnición",
-      "link": "https://www.infobae.com/colombia/2026/07/22/ivan-cepeda-cuestiono-una-vez-mas-la-legitimidad-de-abelardo-de-la-espriella-y-tildo-de-sainete-su-eventual-posesion-en-una-guarnicion/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 22:16:09 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo de la Espriella rechazó la nueva reforma tributaria del Gobierno Petro: “La crisis fiscal es producto de decisiones equivocadas”",
-      "link": "https://www.infobae.com/colombia/2026/07/22/abelardo-de-la-espriella-rechazo-la-nueva-reforma-tributaria-del-gobierno-petro-la-crisis-fiscal-es-producto-de-decisiones-equivocadas/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 22:14:06 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Senado dio luz verde para que la posesión presidencial de Abelardo de la Espriella se realice en Cauca: ¿será en sede militar?",
-      "link": "https://www.infobae.com/colombia/2026/07/22/senado-dio-luz-verde-para-que-la-posesion-presidencial-de-abelardo-de-la-espriella-se-realice-en-cauca-sera-en-sede-militar/",
-      "source": "Infobae",
-      "pubDate": "Wed, 22 Jul 2026 22:12:03 +0000",
+      "title": "Abelardo De La Espriella, presidente electo, anuncia que presentará una reforma constitucional para que Barranquilla sea capital alterna de Colombia",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-anuncia-que-presentara-reforma-en-el-congreso-para-que-barranquilla-sea-capital-alterna-de-colombia-3573128",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-22T18:46:25-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
