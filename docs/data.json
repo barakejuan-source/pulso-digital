@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T21:08:48.550Z",
+  "updatedAt": "2026-07-23T23:00:46.383Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 20,
+      "trendsScore": 21,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -50,7 +50,15 @@
       "title": "Efraín Cepeda respalda la propuesta de Abelardo De La Espriella para que Barranquilla se convierta en la capital alterna",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/efrain-cepeda-respalda-la-propuesta-de-abelardo-de-la-espriella-para-que-barranquilla-se-convierta-en-la-capital-alterna-3573366",
       "source": "El Tiempo",
-      "pubDate": "2026-07-23T15:29:58-05:00",
+      "pubDate": "2026-07-23T17:39:15-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Lo que hay detrás del respaldo de las curules de paz al presidente electo Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/proceso-de-paz/lo-que-hay-detras-del-respaldo-de-las-curules-de-paz-al-presidente-electo-abelardo-de-la-espriella-3573380",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-23T16:16:15-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,14 +83,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-presidente-electo-dio-un-ultimatum-a-cabecillas-del-clan-del-golfo-en-monteria-tienen-17-dias-para-someterse-3573249",
       "source": "El Tiempo",
       "pubDate": "2026-07-23T11:31:08-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Qué busca Abelardo De La Espriella con nuevas sedes de gobierno y declarar a Barranquilla capital alterna? Así estaría el ambiente en el Congreso",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/que-busca-abelardo-de-la-espriella-con-nuevas-sedes-de-gobierno-y-declarar-a-barranquilla-capital-alterna-asi-esta-el-ambiente-en-el-congreso-3573211",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-23T08:23:14-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
