@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T10:23:19.742Z",
+  "updatedAt": "2026-07-24T13:52:27.500Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella hoy 24 de julio en Colombia: últimas noticias sobre su gabinete, el empalme y la transición presidencial",
+      "title": "Abelardo De La Espriella 24 de julio: el ministro del Interior designado, Rodrigo Lara, pidió medidas de seguridad para el congresista César Triana",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-24-de-julio-en-colombia-ultimas-noticias-sobre-su-gabinete-el-empalme-y-la-transicion-presidencial-3573466",
       "source": "El Tiempo",
-      "pubDate": "2026-07-24T03:34:01-05:00",
+      "pubDate": "2026-07-24T07:50:26-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Desayune informado con las movidas de este 24 de julio de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-24-de-julio-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 24 Jul 2026 12:31:25 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Rodrigo Lara, mininterior de Abelardo De La Espriella, pidió a la UNP restablecer esquema de seguridad a Julio César Triana tras discurso de oposición",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/rodrigo-lara-mininterior-de-abelardo-de-la-espriella-pidio-a-la-unp-restablecer-esquema-de-seguridad-a-julio-cesar-triana-tras-discurso-de-oposicion-3573481",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-24T05:34:03-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -71,14 +87,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Efraín Cepeda respalda la propuesta de Abelardo De La Espriella para que Barranquilla se convierta en la capital alterna",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/efrain-cepeda-respalda-la-propuesta-de-abelardo-de-la-espriella-para-que-barranquilla-se-convierta-en-la-capital-alterna-3573366",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-23T18:07:29-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Colombia y Ecuador anuncian \"ataques\" conjuntos en la frontera",
       "link": "https://www.france24.com/es/video/20260723-colombia-y-ecuador-anuncian-ataques-conjuntos-en-la-frontera",
       "source": "France 24",
@@ -91,14 +99,6 @@
       "link": "https://www.eltiempo.com/politica/proceso-de-paz/lo-que-hay-detras-del-respaldo-de-las-curules-de-paz-al-presidente-electo-abelardo-de-la-espriella-3573380",
       "source": "El Tiempo",
       "pubDate": "2026-07-23T16:16:15-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella agradece apoyo del Senado a posesión en el Cauca: 'la grandeza de los símbolos y el debate constructivo empieza a dar frutos'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-agradece-apoyo-del-senado-a-posesion-en-el-cauca-la-grandeza-de-los-simbolos-y-el-debate-constructivo-empieza-a-dar-frutos-3573348",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-23T14:55:13-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
