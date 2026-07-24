@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-24T13:52:27.500Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-24T15:28:02.660Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 21,
+      "trendsScore": 20,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Abelardo De La Espriella 24 de julio: el ministro del Interior designado, Rodrigo Lara, pidió medidas de seguridad para el congresista César Triana",
+      "title": "Abelardo De La Espriella 24 de julio: el presidente electo anunció que pondrá en marcha un censo nacional con énfasis en el Caribe",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-24-de-julio-en-colombia-ultimas-noticias-sobre-su-gabinete-el-empalme-y-la-transicion-presidencial-3573466",
       "source": "El Tiempo",
-      "pubDate": "2026-07-24T07:50:26-05:00",
+      "pubDate": "2026-07-24T09:15:49-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así comenzó la 'mudanza' en la Casa de Nariño a dos semanas de la salida de Gustavo Petro y la toma de posesión de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/asi-comenzo-la-mudanza-en-la-casa-de-narino-a-dos-semanas-de-la-salida-de-gustavo-petro-y-la-posesion-de-abelardo-de-la-espriella-3573514",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-24T09:12:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -71,14 +79,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Didier Blanco será el director de la Unidad Nacional de Protección (UNP) en el gobierno de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/didier-blanco-sera-el-director-de-la-unidad-nacional-de-proteccion-unp-en-el-gobierno-de-abelardo-de-la-espriella-3573425",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-23T18:33:30-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Esta es la agenda que se trazaron el nuevo gobierno de Abelardo De la Espriella y Asocaña: defensa de la producción nacional, empleo y seguridad rural",
       "link": "https://www.eltiempo.com/colombia/cali/esta-es-la-agenda-que-se-trazaron-el-nuevo-gobierno-de-abelardo-de-la-espriella-y-asocana-defensa-de-la-produccion-nacional-empleo-y-seguridad-rural-3573420",
       "source": "El Tiempo",
@@ -91,14 +91,6 @@
       "link": "https://www.france24.com/es/video/20260723-colombia-y-ecuador-anuncian-ataques-conjuntos-en-la-frontera",
       "source": "France 24",
       "pubDate": "Thu, 23 Jul 2026 23:04:53 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Lo que hay detrás del respaldo de las curules de paz al presidente electo Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/proceso-de-paz/lo-que-hay-detras-del-respaldo-de-las-curules-de-paz-al-presidente-electo-abelardo-de-la-espriella-3573380",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-23T16:16:15-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
