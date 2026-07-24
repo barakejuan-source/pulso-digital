@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-23T23:00:46.383Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-24T02:55:21.792Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,42 @@
   ],
   "articles": [
     {
+      "title": "La congresista ‘Lalis’ se burló de Abelardo de la Espriella por incremento de aranceles por parte de EE. UU.: “Rindiéndole pleitesía”",
+      "link": "https://www.infobae.com/colombia/2026/07/24/la-congresista-lalis-se-burlo-de-abelardo-de-la-espriella-por-incremento-de-aranceles-por-parte-de-ee-uu-rindiendole-pleitesia/",
+      "source": "Infobae",
+      "pubDate": "Fri, 24 Jul 2026 02:20:20 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Didier Blanco será el director de la Unidad Nacional de Protección (UNP) en el gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/didier-blanco-sera-el-director-de-la-unidad-nacional-de-proteccion-unp-en-el-gobierno-de-abelardo-de-la-espriella-3573425",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-23T18:33:30-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Esta es la agenda que se trazaron el nuevo gobierno de Abelardo De la Espriella y Asocaña: defensa de la producción nacional, empleo y seguridad rural",
+      "link": "https://www.eltiempo.com/colombia/cali/esta-es-la-agenda-que-se-trazaron-el-nuevo-gobierno-de-abelardo-de-la-espriella-y-asocana-defensa-de-la-produccion-nacional-empleo-y-seguridad-rural-3573420",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-23T18:24:48-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Efraín Cepeda respalda la propuesta de Abelardo De La Espriella para que Barranquilla se convierta en la capital alterna",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/efrain-cepeda-respalda-la-propuesta-de-abelardo-de-la-espriella-para-que-barranquilla-se-convierta-en-la-capital-alterna-3573366",
       "source": "El Tiempo",
-      "pubDate": "2026-07-23T17:39:15-05:00",
+      "pubDate": "2026-07-23T18:07:29-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia y Ecuador anuncian \"ataques\" conjuntos en la frontera",
+      "link": "https://www.france24.com/es/video/20260723-colombia-y-ecuador-anuncian-ataques-conjuntos-en-la-frontera",
+      "source": "France 24",
+      "pubDate": "Thu, 23 Jul 2026 23:04:53 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -77,14 +109,6 @@
       "pubDate": "2026-07-23T12:37:32-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo De La Espriella, presidente electo, dio un ultimátum a cabecillas del Clan del Golfo en Montería: 'Tienen 17 días para someterse'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-presidente-electo-dio-un-ultimatum-a-cabecillas-del-clan-del-golfo-en-monteria-tienen-17-dias-para-someterse-3573249",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-23T11:31:08-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
