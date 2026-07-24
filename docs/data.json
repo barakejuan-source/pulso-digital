@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T19:31:27.450Z",
+  "updatedAt": "2026-07-24T21:08:54.282Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 18,
+      "trendsScore": 20,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 7,
+      "finalScore": 8,
       "momentum": {
-        "value": -12.5,
+        "value": 14.3,
         "direction": "flat"
       },
-      "probability": 8.2
+      "probability": 9.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,17 +42,25 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 91.8
+      "probability": 90.7
     }
   ],
   "articles": [
     {
-      "title": "Docente universitario explicó qué es la desobediencia civil desde el derecho, tras el anuncio de Iván Cepeda de no reconocer el triunfo de De la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/07/24/docente-universitario-explico-que-es-la-desobediencia-civil-desde-el-derechotras-el-anuncio-de-ivan-cepeda-de-no-reconocer-el-triunfo-de-de-la-espriella/",
+      "title": "Gobierno de Abelardo de la Espriella radicará una reforma tributaria ante el Congreso de la República",
+      "link": "https://www.infobae.com/colombia/2026/07/24/gobierno-de-abelardo-de-la-espriella-radicara-una-reforma-tributaria-ante-el-congreso-de-la-republica/",
       "source": "Infobae",
-      "pubDate": "Fri, 24 Jul 2026 19:26:20 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Fri, 24 Jul 2026 20:43:26 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Petro ordenó a las guarniciones militares no alistar “ni una sola silla” para la posesión de Abelardo de la Espriella: “No doy permiso”",
+      "link": "https://www.infobae.com/colombia/2026/07/24/petro-ordeno-a-las-guarniciones-militares-no-alistar-ni-una-sola-silla-para-la-posesion-de-abelardo-de-la-espriella-no-doy-permiso/",
+      "source": "Infobae",
+      "pubDate": "Fri, 24 Jul 2026 20:31:17 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Abelardo de la Espriella postulará a Jorge Mario Velásquez, expresidente del Grupo Argos, como miembro de la junta directiva de Ecopetrol",
