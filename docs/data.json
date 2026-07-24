@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-24T17:41:53.031Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-24T19:31:27.450Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 20,
+      "trendsScore": 18,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 8,
+      "finalScore": 7,
       "momentum": {
-        "value": 0,
+        "value": -12.5,
         "direction": "flat"
       },
-      "probability": 9.3
+      "probability": 8.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 90.7
+      "probability": 91.8
     }
   ],
   "articles": [
     {
-      "title": "Abelardo De La Espriella designó a Jorge Mario Velásquez, expresidente del Grupo Argos, como miembro de la junta directiva de Ecopetrol",
+      "title": "Docente universitario explicó qué es la desobediencia civil desde el derecho, tras el anuncio de Iván Cepeda de no reconocer el triunfo de De la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/24/docente-universitario-explico-que-es-la-desobediencia-civil-desde-el-derechotras-el-anuncio-de-ivan-cepeda-de-no-reconocer-el-triunfo-de-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Fri, 24 Jul 2026 19:26:20 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella postulará a Jorge Mario Velásquez, expresidente del Grupo Argos, como miembro de la junta directiva de Ecopetrol",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-designo-a-jorge-mario-velasquez-expresidente-del-grupo-argos-como-miembro-de-la-junta-directiva-de-ecopetrol-3573584",
       "source": "El Tiempo",
-      "pubDate": "2026-07-24T12:04:53-05:00",
+      "pubDate": "2026-07-24T14:15:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -83,14 +91,6 @@
       "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-24-de-julio-de-2026/",
       "source": "La Silla Vacía",
       "pubDate": "Fri, 24 Jul 2026 12:31:25 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia y Ecuador anuncian \"ataques\" conjuntos en la frontera",
-      "link": "https://www.france24.com/es/video/20260723-colombia-y-ecuador-anuncian-ataques-conjuntos-en-la-frontera",
-      "source": "France 24",
-      "pubDate": "Thu, 23 Jul 2026 23:04:53 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
