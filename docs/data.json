@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T21:08:54.282Z",
+  "updatedAt": "2026-07-24T23:05:52.479Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 8,
       "momentum": {
-        "value": 14.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 9.3
@@ -46,22 +46,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Gobierno de Abelardo de la Espriella radicará una reforma tributaria ante el Congreso de la República",
-      "link": "https://www.infobae.com/colombia/2026/07/24/gobierno-de-abelardo-de-la-espriella-radicara-una-reforma-tributaria-ante-el-congreso-de-la-republica/",
-      "source": "Infobae",
-      "pubDate": "Fri, 24 Jul 2026 20:43:26 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Petro ordenó a las guarniciones militares no alistar “ni una sola silla” para la posesión de Abelardo de la Espriella: “No doy permiso”",
-      "link": "https://www.infobae.com/colombia/2026/07/24/petro-ordeno-a-las-guarniciones-militares-no-alistar-ni-una-sola-silla-para-la-posesion-de-abelardo-de-la-espriella-no-doy-permiso/",
-      "source": "Infobae",
-      "pubDate": "Fri, 24 Jul 2026 20:31:17 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
     {
       "title": "Abelardo de la Espriella postulará a Jorge Mario Velásquez, expresidente del Grupo Argos, como miembro de la junta directiva de Ecopetrol",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-designo-a-jorge-mario-velasquez-expresidente-del-grupo-argos-como-miembro-de-la-junta-directiva-de-ecopetrol-3573584",
@@ -91,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/asi-comenzo-la-mudanza-en-la-casa-de-narino-a-dos-semanas-de-la-salida-de-gustavo-petro-y-la-posesion-de-abelardo-de-la-espriella-3573514",
       "source": "El Tiempo",
       "pubDate": "2026-07-24T09:12:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desayune informado con las movidas de este 24 de julio de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-24-de-julio-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 24 Jul 2026 12:31:25 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
