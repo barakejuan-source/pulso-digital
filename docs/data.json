@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-24T15:28:02.660Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-24T17:41:53.031Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Abelardo De La Espriella 24 de julio: el presidente electo anunció que pondrá en marcha un censo nacional con énfasis en el Caribe",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-24-de-julio-en-colombia-ultimas-noticias-sobre-su-gabinete-el-empalme-y-la-transicion-presidencial-3573466",
+      "title": "Abelardo De La Espriella designó a Jorge Mario Velásquez, expresidente del Grupo Argos, como miembro de la junta directiva de Ecopetrol",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-designo-a-jorge-mario-velasquez-expresidente-del-grupo-argos-como-miembro-de-la-junta-directiva-de-ecopetrol-3573584",
       "source": "El Tiempo",
-      "pubDate": "2026-07-24T09:15:49-05:00",
+      "pubDate": "2026-07-24T12:04:53-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella anuncia que hará un censo nacional para identificar escuelas abandonadas",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-anuncia-que-hara-un-censo-nacional-para-identificar-escuelas-abandonadas-3573581",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-24T11:42:09-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella recibe 9.000 millones de dólares de la CAF para financiar su programa de gobierno",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-recibe-9-000-millones-de-dolares-de-la-caf-para-financiar-su-programa-de-gobierno-3573558",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-24T10:50:51-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,22 +83,6 @@
       "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-24-de-julio-de-2026/",
       "source": "La Silla Vacía",
       "pubDate": "Fri, 24 Jul 2026 12:31:25 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Rodrigo Lara, mininterior de Abelardo De La Espriella, pidió a la UNP restablecer esquema de seguridad a Julio César Triana tras discurso de oposición",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/rodrigo-lara-mininterior-de-abelardo-de-la-espriella-pidio-a-la-unp-restablecer-esquema-de-seguridad-a-julio-cesar-triana-tras-discurso-de-oposicion-3573481",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-24T05:34:03-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Esta es la agenda que se trazaron el nuevo gobierno de Abelardo De la Espriella y Asocaña: defensa de la producción nacional, empleo y seguridad rural",
-      "link": "https://www.eltiempo.com/colombia/cali/esta-es-la-agenda-que-se-trazaron-el-nuevo-gobierno-de-abelardo-de-la-espriella-y-asocana-defensa-de-la-produccion-nacional-empleo-y-seguridad-rural-3573420",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-23T18:24:48-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
