@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T02:55:21.792Z",
+  "updatedAt": "2026-07-24T06:30:00.927Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,14 +47,6 @@
   ],
   "articles": [
     {
-      "title": "La congresista ‘Lalis’ se burló de Abelardo de la Espriella por incremento de aranceles por parte de EE. UU.: “Rindiéndole pleitesía”",
-      "link": "https://www.infobae.com/colombia/2026/07/24/la-congresista-lalis-se-burlo-de-abelardo-de-la-espriella-por-incremento-de-aranceles-por-parte-de-ee-uu-rindiendole-pleitesia/",
-      "source": "Infobae",
-      "pubDate": "Fri, 24 Jul 2026 02:20:20 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Didier Blanco será el director de la Unidad Nacional de Protección (UNP) en el gobierno de Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/didier-blanco-sera-el-director-de-la-unidad-nacional-de-proteccion-unp-en-el-gobierno-de-abelardo-de-la-espriella-3573425",
       "source": "El Tiempo",
@@ -101,14 +93,6 @@
       "pubDate": "2026-07-23T14:55:13-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Iván Cepeda, Rafael Nieto y demás congresistas deben asistir a la posesión de Abelardo De La Espriella?",
-      "link": "https://www.eltiempo.com/politica/congreso/ivan-cepeda-rafael-nieto-y-demas-congresistas-deben-asistir-a-la-posesion-de-abelardo-de-la-espriella-3573306",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-23T12:37:32-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
