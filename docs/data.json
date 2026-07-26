@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-26T06:41:02.851Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-26T10:04:26.197Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,8 +18,8 @@
       "youtubeViews": 0,
       "finalScore": 2,
       "momentum": {
-        "value": -66.7,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 2.5
     },
@@ -46,6 +46,22 @@
     }
   ],
   "articles": [
+    {
+      "title": "EN VIVO| Posesión presidencial de Abelardo de la Espriella: siga el minuto a minuto de la transición de gobierno, empalme y nombramientos de gabinete   ",
+      "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
+      "source": "Infobae",
+      "pubDate": "Sun, 26 Jul 2026 09:50:08 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Analistas explican el reto que enfrenta Abelardo de la Espriella en el Congreso: “Deberá conciliar y negociar”",
+      "link": "https://www.infobae.com/colombia/2026/07/26/analistas-explican-el-reto-que-enfrenta-abelardo-de-la-espriella-en-el-congreso-debera-conciliar-y-negociar/",
+      "source": "Infobae",
+      "pubDate": "Sun, 26 Jul 2026 09:50:01 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "‘No me gusta lo que estoy viendo, ya va siendo hora de volver a la arena política’: Sergio Fajardo / Entrevista de Mauricio Reina",
       "link": "https://www.eltiempo.com/politica/no-me-gusta-lo-que-estoy-viendo-ya-va-siendo-hora-de-volver-a-la-arena-politica-sergio-fajardo-entrevista-de-mauricio-reina-3573812",
