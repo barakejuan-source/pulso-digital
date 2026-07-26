@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-26T03:20:38.354Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-26T06:41:02.851Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 14,
+      "trendsScore": 5,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 6,
+      "finalScore": 2,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -66.7,
+        "direction": "down"
       },
-      "probability": 7.1
+      "probability": 2.5
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,31 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 92.9
+      "probability": 97.5
     }
   ],
   "articles": [
     {
-      "title": "EN VIVO| Posesión presidencial de Abelardo de la Espriella: siga el minuto a minuto de la transición de gobierno, empalme y nombramientos de gabinete   ",
-      "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
-      "source": "Infobae",
-      "pubDate": "Sun, 26 Jul 2026 02:40:58 +0000",
+      "title": "‘No me gusta lo que estoy viendo, ya va siendo hora de volver a la arena política’: Sergio Fajardo / Entrevista de Mauricio Reina",
+      "link": "https://www.eltiempo.com/politica/no-me-gusta-lo-que-estoy-viendo-ya-va-siendo-hora-de-volver-a-la-arena-politica-sergio-fajardo-entrevista-de-mauricio-reina-3573812",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-26T00:31:00-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Iván Cepeda, 'Lalis' y Carlos Carrillo se pronuncian tras escándalo de corrupción de Juliana Guerrero y su hermana: 'Corrupta y ambiciosa'",
+      "link": "https://www.eltiempo.com/politica/gobierno/ivan-cepeda-lalis-y-carlos-carrillo-se-pronuncian-tras-escandalo-de-corrupcion-de-juliana-guerrero-y-su-hermana-corrupta-y-ambiciosa-3573905",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-26T00:11:57-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Presidente electo Abelardo de la Espriella recordó los versos que Rafael Escalona le dedicó hace 25 años en Francia: 'No puedo evitar emocionarme'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-recordo-los-versos-que-rafael-escalona-le-dedico-hace-25-anos-en-francia-no-puedo-evitar-emocionarme-3573894",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-25T22:37:31-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -69,14 +85,6 @@
       "pubDate": "Sat, 25 Jul 2026 17:16:14 GMT",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Presidente electo Abelardo De la Espriella se refiere a feminicidio de María Camila Potosí: 'Repudio este aberrante crimen'",
-      "link": "https://www.eltiempo.com/colombia/cali/presidente-electo-abelardo-de-la-espriella-se-refiere-a-feminicidio-de-maria-camila-potosi-repudio-este-aberrante-crimen-3573822",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-25T11:57:10-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "La posesión de Abelardo no debe ser en una base militar",
