@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T19:17:37.372Z",
+  "updatedAt": "2026-07-26T21:03:35.126Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 6,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,26 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Elección de la Mesa Directiva del Senado EN VIVO HOY: los senadores votan en segunda vuelta, al no alcanzar la mayoría en primera ",
-      "link": "https://www.infobae.com/peru/2026/07/26/eleccion-de-la-mesa-directiva-del-senado-y-diputados-en-vivo-hoy-candidatos-y-votacion-en-el-nuevo-congreso-bicameral/",
+      "title": "Presidente del Congreso respondió a activistas de Abelardo de la Espriella tras pullas al Centro Democrático: “Tienen que bajarle al tonito” ",
+      "link": "https://www.infobae.com/colombia/2026/07/26/presidente-del-congreso-respondio-a-activistas-de-abelardo-de-la-espriella-tras-pullas-al-centro-democratico-tienen-que-bajarle-al-tonito/",
       "source": "Infobae",
-      "pubDate": "Sun, 26 Jul 2026 18:54:16 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "EN VIVO| Posesión presidencial de Abelardo de la Espriella: al parecer el acto de investidura podría llevarse a acabo en Cali ",
-      "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
-      "source": "Infobae",
-      "pubDate": "Sun, 26 Jul 2026 18:45:38 +0000",
+      "pubDate": "Sun, 26 Jul 2026 20:59:05 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella ya no recibiría la banda presidencial en Popayán, Cauca: su posesión se trasladaría a Cali ",
-      "link": "https://www.infobae.com/colombia/2026/07/26/abelardo-de-la-espriella-ya-no-recibiria-la-banda-presidencial-en-popayan-cauca-su-posesion-se-trasladaria-a-cali/",
+      "title": "EN VIVO| Posesión presidencial de Abelardo de la Espriella: el nuevo mandatario anunciará decisiones clave sobre la “Patria Milagro” a las 8:00 p. m.  ",
+      "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
       "source": "Infobae",
-      "pubDate": "Sun, 26 Jul 2026 18:40:34 +0000",
+      "pubDate": "Sun, 26 Jul 2026 20:55:31 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Congresistas del Centro Democrático se desmarcaron de Rafael Nieto, que habló sobre una supuesta “guerra” con Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/26/congresistas-del-centro-democratico-se-desmarcaron-de-rafael-nieto-que-hablo-sobre-una-supuesta-guerra-con-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Sun, 26 Jul 2026 20:10:36 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella hoy 26 de julio; Cali toma fuerza como alternativa para su posesión; presidente electo se pronunció tras atentado en Popayán",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-26-de-julio-minuto-a-minuto-de-las-decisiones-sobre-el-gabinete-el-empalme-y-la-transicion-presidencial-3573926",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-26T14:51:52-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,14 +83,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/israel-designo-a-su-nueva-embajadora-ante-colombia-para-el-gobierno-de-abelardo-de-la-espriella-quien-es-3573959",
       "source": "El Tiempo",
       "pubDate": "2026-07-26T12:31:54-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella hoy 26 de julio; así avanzan las decisiones sobre su gabinete: anuncian a Vivian Aisen como embajadora de Israel en Colombia",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-26-de-julio-minuto-a-minuto-de-las-decisiones-sobre-el-gabinete-el-empalme-y-la-transicion-presidencial-3573926",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-26T11:15:35-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
