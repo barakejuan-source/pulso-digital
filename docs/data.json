@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T17:07:26.420Z",
+  "updatedAt": "2026-07-26T19:17:37.372Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 6,
+      "trendsScore": 4,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,42 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Gustavo Petro lanzó nuevos ataques contra Abelardo de la Espriella tras investigación por sus nexos con Álex Saab: “Presidente ilegítimo de Colombia” ",
-      "link": "https://www.infobae.com/colombia/2026/07/26/gustavo-petro-lanzo-nuevos-ataques-contra-abelardo-de-la-espriella-tras-investigacion-por-sus-nexos-con-alex-saab-presidente-ilegitimo-de-colombia/",
+      "title": "Elección de la Mesa Directiva del Senado EN VIVO HOY: los senadores votan en segunda vuelta, al no alcanzar la mayoría en primera ",
+      "link": "https://www.infobae.com/peru/2026/07/26/eleccion-de-la-mesa-directiva-del-senado-y-diputados-en-vivo-hoy-candidatos-y-votacion-en-el-nuevo-congreso-bicameral/",
       "source": "Infobae",
-      "pubDate": "Sun, 26 Jul 2026 17:02:14 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Sun, 26 Jul 2026 18:54:16 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "EN VIVO| Posesión presidencial de Abelardo de la Espriella: revelan que presuntamente, el presidente electo, habría estado averiguando si tenía investigaciones en Estados Unidos ",
+      "title": "EN VIVO| Posesión presidencial de Abelardo de la Espriella: al parecer el acto de investidura podría llevarse a acabo en Cali ",
       "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
       "source": "Infobae",
-      "pubDate": "Sun, 26 Jul 2026 16:48:00 +0000",
+      "pubDate": "Sun, 26 Jul 2026 18:45:38 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Por su relación con Alex Saab, revelan si Abelardo de la Espriella podría tener una investigación en su contra en Estados Unidos ",
-      "link": "https://www.infobae.com/colombia/2026/07/26/por-su-relacion-con-alex-saab-revelan-si-abelardo-de-la-espriella-podria-tener-una-investigacion-en-su-contra-en-estados-unidos/",
+      "title": "Abelardo de la Espriella ya no recibiría la banda presidencial en Popayán, Cauca: su posesión se trasladaría a Cali ",
+      "link": "https://www.infobae.com/colombia/2026/07/26/abelardo-de-la-espriella-ya-no-recibiria-la-banda-presidencial-en-popayan-cauca-su-posesion-se-trasladaria-a-cali/",
       "source": "Infobae",
-      "pubDate": "Sun, 26 Jul 2026 16:32:47 +0000",
+      "pubDate": "Sun, 26 Jul 2026 18:40:34 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Israel tiene nueva embajadora en Colombia tras el restablecimiento de relaciones entre ambos países: de quién se trata ",
-      "link": "https://www.infobae.com/colombia/2026/07/26/confirmaron-a-la-nueva-embajadora-de-israel-en-colombia-tras-el-restablecimiento-de-relaciones-entre-ambos-paises/",
-      "source": "Infobae",
-      "pubDate": "Sun, 26 Jul 2026 16:24:23 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Congreso ya empezó avanzada logística para posesión de Abelardo de la Espriella en Cauca: pidió informe de seguridad a las FF. MM. ",
-      "link": "https://www.infobae.com/colombia/2026/07/26/congreso-ya-empezo-avanzada-logistica-para-posesion-de-abelardo-de-la-espriella-en-cauca-pidio-informe-de-seguridad-a-las-ff-mm/",
-      "source": "Infobae",
-      "pubDate": "Sun, 26 Jul 2026 16:18:18 +0000",
+      "title": "Israel designó a su nueva embajadora ante Colombia para el gobierno de Abelardo De La Espriella: ¿quién es?",
+      "link": "https://www.eltiempo.com/politica/gobierno/israel-designo-a-su-nueva-embajadora-ante-colombia-para-el-gobierno-de-abelardo-de-la-espriella-quien-es-3573959",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-26T12:31:54-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
