@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T11:29:14.701Z",
+  "updatedAt": "2026-07-27T14:44:15.800Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,12 +47,68 @@
   ],
   "articles": [
     {
-      "title": "Posesión en Cali, refuerzo de seguridad en el suroccidente y cierre de embajadas: estos son todos los nuevos anuncios de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/posesion-en-cali-refuerzo-de-seguridad-en-el-suroccidente-y-cierre-de-embajadas-estos-son-todos-los-nuevos-anuncios-de-abelardo-de-la-espriella-3574041",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-27T06:24:22-05:00",
+      "title": "Posesión presidencial Abelardo de la Espriella: el alcalde de Cali recibió con entusiasmo el anunció de la ciudad como sede de la investidura del nuevo Gobierno ",
+      "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
+      "source": "Infobae",
+      "pubDate": "Mon, 27 Jul 2026 14:40:07 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella explicó por qué quiere que Barranquilla sea ‘capital alterna’ de Colombia: “No se gobierna desde el centro” ",
+      "link": "https://www.infobae.com/colombia/2026/07/27/abelardo-de-la-espriella-explico-por-que-quiere-que-barranquilla-sea-capital-alterna-de-colombia-no-se-gobierna-desde-el-centro/",
+      "source": "Infobae",
+      "pubDate": "Mon, 27 Jul 2026 14:21:50 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Arturo Calle encabezará el comité de sabios que impulsará el Gobierno de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/27/arturo-calle-encabezara-el-comite-de-sabios-que-impulsara-el-gobierno-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Mon, 27 Jul 2026 14:20:28 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Carlos Carrillo arremetió contra Abelardo de la Espriella por afirmar que el islam es una amenaza: “¿Cuándo se va a disculpar?”",
+      "link": "https://www.infobae.com/colombia/2026/07/27/carlos-carrillo-arremetio-contra-abelardo-de-la-espriella-por-afirmar-que-el-islam-es-una-amenaza-cuando-se-va-a-disculpar/",
+      "source": "Infobae",
+      "pubDate": "Mon, 27 Jul 2026 14:13:52 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella hoy 27 de julio: alcalde de Cali, Alejandro Eder, propone que la posesión presidencial se realice en la Plaza de Cayzedo",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-27-de-julio-minuto-a-minuto-del-presidente-electo-posesion-en-cali-y-ultimas-noticias-del-proximo-gobierno-de-colombia-3574074",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-27T09:05:27-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Cómo impacta en Cali que el presidente electo Abelardo De la Espriella se posesione en la ciudad el 7 de agosto? Proyectos claves en la agenda",
+      "link": "https://www.eltiempo.com/colombia/cali/como-impacta-en-cali-que-el-presidente-electo-abelardo-de-la-espriella-se-posesione-en-la-ciudad-el-7-de-agosto-proyectos-clave-en-la-agenda-3574079",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-27T08:15:47-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Autoridades regionales y diferentes sectores políticos respaldan la decisión de Abelardo De La Espriella de posesionarse en Cali",
+      "link": "https://www.eltiempo.com/politica/autoridades-regionales-y-diferentes-sectores-politicos-respaldan-la-decision-de-abelardo-de-la-espriella-de-posesionarse-en-cali-3574076",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-27T07:30:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Brasil llama a consultas a su embajador en Argentina luego de que Milei calificara a Lula de \"convicto\" y \"ladrón\" en Sao Paulo",
+      "link": "https://www.bbc.com/mundo/articles/c8enp331z4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 27 Jul 2026 11:14:04 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Abelardo De La Espriella anuncia que suspenderá apertura de embajada en Palestina y que reabrirá sede diplomática en Israel: 'Promesas de campaña'",
@@ -85,38 +141,6 @@
       "pubDate": "2026-07-27T01:33:24-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente electo Abelardo De La Espriella anuncia que pedirá trasladar su posesión del 7 de agosto de Popayán a Cali: esta es la razón de la decisión",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-anuncia-que-pedira-trasladar-su-posesion-del-7-de-agosto-de-popayan-a-cali-esta-es-la-razon-de-la-decision-3574045",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-27T00:03:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella lanzó la 'Ruta Milagro' para apoyar a emprendedores y escogió al comerciante don Luis Felipe Yagüe como primer beneficiario",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-lanzo-la-ruta-milagro-para-apoyar-a-emprendedores-y-escogio-al-comerciante-don-luis-felipe-yaguee-como-primer-beneficiario-3574042",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-26T22:58:04-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Angie Rodríguez, directora del Fondo Adaptación, pidió reunirse con Abelardo de la Espriella por presuntas irregularidades en el gobierno saliente",
-      "link": "https://www.eltiempo.com/politica/gobierno/angie-rodriguez-directora-del-fondo-adaptacion-pidio-reunirse-con-abelardo-de-la-espriella-por-presuntas-irregularidades-en-el-gobierno-saliente-3574026",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-26T21:34:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "\"Basura socialista\": declaraciones de Milei sobre Lula da Silva desatan crisis diplomática",
-      "link": "https://www.france24.com/es/video/20260727-basura-socialista-declaraciones-de-milei-sobre-lula-da-silva-desatan-crisis-diplom%C3%A1tica",
-      "source": "France 24",
-      "pubDate": "Mon, 27 Jul 2026 02:12:31 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
