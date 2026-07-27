@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-27T14:44:15.800Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-27T17:46:30.013Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 6,
+      "trendsScore": 4,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,42 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Posesión presidencial Abelardo de la Espriella: el alcalde de Cali recibió con entusiasmo el anunció de la ciudad como sede de la investidura del nuevo Gobierno ",
+      "title": "¿Por qué aún no hay Batallón de Alta Montaña en Jamundí, Valle del Cauca? El presidente electo Abelardo De la Espriella aseguró que será prioridad",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/por-que-aun-no-hay-batallon-de-alta-montana-en-jamundi-valle-del-cauca-el-presidente-electo-abelardo-de-la-espriella-aseguro-que-sera-prioridad-3574119",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-27T12:32:09-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Posesión presidencial Abelardo de la Espriella: el presidente electo anunció el nombramiento de un gerente especial para Bogotá",
       "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
       "source": "Infobae",
-      "pubDate": "Mon, 27 Jul 2026 14:40:07 +0000",
+      "pubDate": "Mon, 27 Jul 2026 17:28:57 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella explicó por qué quiere que Barranquilla sea ‘capital alterna’ de Colombia: “No se gobierna desde el centro” ",
-      "link": "https://www.infobae.com/colombia/2026/07/27/abelardo-de-la-espriella-explico-por-que-quiere-que-barranquilla-sea-capital-alterna-de-colombia-no-se-gobierna-desde-el-centro/",
-      "source": "Infobae",
-      "pubDate": "Mon, 27 Jul 2026 14:21:50 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Arturo Calle encabezará el comité de sabios que impulsará el Gobierno de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/07/27/arturo-calle-encabezara-el-comite-de-sabios-que-impulsara-el-gobierno-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Mon, 27 Jul 2026 14:20:28 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Carlos Carrillo arremetió contra Abelardo de la Espriella por afirmar que el islam es una amenaza: “¿Cuándo se va a disculpar?”",
-      "link": "https://www.infobae.com/colombia/2026/07/27/carlos-carrillo-arremetio-contra-abelardo-de-la-espriella-por-afirmar-que-el-islam-es-una-amenaza-cuando-se-va-a-disculpar/",
-      "source": "Infobae",
-      "pubDate": "Mon, 27 Jul 2026 14:13:52 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella hoy 27 de julio: alcalde de Cali, Alejandro Eder, propone que la posesión presidencial se realice en la Plaza de Cayzedo",
+      "title": "Abelardo De La Espriella hoy 27 de julio: ministro Rodrigo Lara habló con Angie Rodríguez y anunció que garantizarán su protección",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-27-de-julio-minuto-a-minuto-del-presidente-electo-posesion-en-cali-y-ultimas-noticias-del-proximo-gobierno-de-colombia-3574074",
       "source": "El Tiempo",
-      "pubDate": "2026-07-27T09:05:27-05:00",
+      "pubDate": "2026-07-27T11:51:33-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo y su farándula: ahora con Lucho Díaz",
+      "link": "https://www.lasillavacia.com/en-vivo/abelardo-y-su-farandula-ahora-con-lucho-diaz/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 27 Jul 2026 16:07:45 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -90,7 +82,7 @@
       "title": "¿Cómo impacta en Cali que el presidente electo Abelardo De la Espriella se posesione en la ciudad el 7 de agosto? Proyectos claves en la agenda",
       "link": "https://www.eltiempo.com/colombia/cali/como-impacta-en-cali-que-el-presidente-electo-abelardo-de-la-espriella-se-posesione-en-la-ciudad-el-7-de-agosto-proyectos-clave-en-la-agenda-3574079",
       "source": "El Tiempo",
-      "pubDate": "2026-07-27T08:15:47-05:00",
+      "pubDate": "2026-07-27T09:58:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -111,36 +103,12 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Abelardo De La Espriella anuncia que suspenderá apertura de embajada en Palestina y que reabrirá sede diplomática en Israel: 'Promesas de campaña'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-anuncia-que-no-abrira-embajada-en-palestina-y-que-reabrira-sede-diplomatica-en-israel-promesas-de-campana-3574056",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-27T05:34:55-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobernadora del Valle, Dilian Francisca Toro, se pronunció tras anuncio de Abelardo De La Espriella de trasladar su posesión a Cali: 'Gesto histórico'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobernadora-del-valle-dilian-francisca-toro-se-pronuncio-tras-anuncio-de-abelardo-de-la-espriella-de-trasladar-su-posesion-a-cali-gesto-historico-3574052",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-27T05:31:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella anunció que convertirá la Casa de Nariño en un museo público y que Barranquilla será una sede permanente de la Presidencia",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-anuncio-que-convertira-la-casa-de-narino-en-un-museo-publico-y-trasladara-su-despacho-al-palacio-de-san-carlos-en-bogota-3574046",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-27T01:36:03-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente electo Abelardo De La Espriella anunció la asignación de un gerente especial para Bogotá para atender proyectos y necesidades de la capital",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-anuncio-la-asignacion-de-un-gerente-especial-para-bogota-para-atender-proyectos-y-necesidades-de-la-capital-3574050",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-27T01:33:24-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "\"Basura socialista\": declaraciones de Milei sobre Lula da Silva desatan crisis diplomática",
+      "link": "https://www.france24.com/es/video/20260727-basura-socialista-declaraciones-de-milei-sobre-lula-da-silva-desatan-crisis-diplom%C3%A1tica",
+      "source": "France 24",
+      "pubDate": "Mon, 27 Jul 2026 02:12:31 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
