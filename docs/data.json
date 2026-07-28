@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T17:39:54.468Z",
+  "updatedAt": "2026-07-28T19:39:04.777Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,50 +47,58 @@
   ],
   "articles": [
     {
-      "title": "Presidente electo Abelardo de la Espriella encabeza empalme regional en la Gobernación del Tolima: así avanza la reunión",
-      "link": "https://www.infobae.com/colombia/2026/07/28/presidente-electo-abelardo-de-la-espriella-encabeza-el-empalme-regional-en-la-gobernacion-del-tolima-de-que-trata/",
+      "title": "Posesión presidencial Abelardo de la Espriella en VIVO: el presidente de Paraguay confirmó que asistirá a la investidura del nuevo mandatario de Colombia",
+      "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
       "source": "Infobae",
-      "pubDate": "Tue, 28 Jul 2026 17:36:34 +0000",
+      "pubDate": "Tue, 28 Jul 2026 19:23:07 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gobierno de Abelardo de la Espriella alertó por decisiones que pondrían en riesto el patrimonio del Banco Agrario",
-      "link": "https://www.infobae.com/colombia/2026/07/28/gobierno-electo-de-abelardo-de-la-espriella-alerta-sobre-posibles-decisiones-que-comprometerian-el-patrimonio-del-banco-agrario/",
+      "title": "El Partido Conservador confirmó que será bancada de Gobierno: Abelardo de la Espriella sumaría mayorías en el Congreso",
+      "link": "https://www.infobae.com/colombia/2026/07/28/el-partido-conservador-confirmo-que-sera-bancada-de-gobierno-abelardo-de-la-espriella-sumaria-mayorias-en-el-congreso/",
       "source": "Infobae",
-      "pubDate": "Tue, 28 Jul 2026 17:35:52 +0000",
+      "pubDate": "Tue, 28 Jul 2026 19:20:37 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Pacto Histórico busca ‘detener’ la posesión presidencial de Abelardo de la Espriella en Cali: esta fue la propuesta que radicaron ante el Congreso",
+      "link": "https://www.infobae.com/colombia/2026/07/28/desde-el-pacto-historico-radicaron-proposicion-para-detener-traslado-de-posesion-presidencial-a-cali-como-vamos-a-votar-sin-saber-su-costo-real/",
+      "source": "Infobae",
+      "pubDate": "Tue, 28 Jul 2026 19:19:34 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Santiago Peña, presidente de Paraguay, confirmó que asistirá a la posesión de Abelardo de la Espriella: qué otros mandatarios estarán presentes",
+      "link": "https://www.infobae.com/colombia/2026/07/28/santiago-pena-presidente-de-paraguay-confirmo-su-asistencia-a-la-posesion-de-abelardo-de-la-espriella-cuantos-delegados-estaran-presentes/",
+      "source": "Infobae",
+      "pubDate": "Tue, 28 Jul 2026 19:08:37 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "'Estaremos a la altura para la posesión del presidente electo Abelardo De la Espriella': rector de la Universidad Santiago de Cali",
+      "link": "https://www.eltiempo.com/colombia/cali/estaremos-a-la-altura-de-la-exigencia-por-la-posesion-del-presidente-electo-abelardo-de-la-espriella-rector-de-la-universidad-santiago-de-cali-3574449",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-28T13:33:11-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Aland Cadet: \"Las personas en Haití están esperando un alivio a su situación socioeconómica\"",
+      "link": "https://www.france24.com/es/video/20260728-aland-cadet-las-personas-en-hait%C3%AD-est%C3%A1n-esperando-un-alivio-a-su-situaci%C3%B3n-socioecon%C3%B3mica",
+      "source": "France 24",
+      "pubDate": "Tue, 28 Jul 2026 17:59:23 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Partido Conservador será partido de gobierno, así lo anunció su presidente Efraín Cepeda",
       "link": "https://www.eltiempo.com/politica/partido-conservador-sera-partido-de-gobierno-asi-lo-anuncio-su-presidente-efrain-cepeda-3574411",
       "source": "El Tiempo",
       "pubDate": "2026-07-28T12:32:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Posesión presidencial Abelardo de la Espriella en VIVO: los 47 alcaldes municipales de Tolima se reunieron en Ibagué para el empalme regional con el presidente electo",
-      "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
-      "source": "Infobae",
-      "pubDate": "Tue, 28 Jul 2026 17:26:09 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El vicepresidente electo, José Manuel Restrepo, llegó a Perú para asistir a la posesión de Keiko Fujimori",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-vicepresidente-electo-jose-manuel-restrepo-llego-a-peru-para-asistir-a-la-posesion-de-keiko-fujimori-3574392",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-28T10:41:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así es la Arena USC, el escenario donde sería la posesión de Abelardo De La Espriella en Cali: avanza logística mientras Congreso da luz verde",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/esta-es-la-arena-usc-el-que-seria-el-sitio-de-la-posesion-de-abelardo-de-la-espriella-en-cali-avanza-logistica-mientras-congreso-da-luz-verde-3574352",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-28T09:00:15-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
