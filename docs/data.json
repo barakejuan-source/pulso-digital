@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T21:00:54.569Z",
+  "updatedAt": "2026-07-29T23:02:06.067Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,26 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Medidas por posesión de Abelardo De la Espriella y condiciones a considerar por entorno del sitio de ceremonia en Cali: 'No puede volar ni un dron'",
-      "link": "https://www.eltiempo.com/colombia/cali/medidas-por-la-posesion-de-abelardo-de-la-espriella-y-condiciones-para-evaluar-en-entorno-del-sitio-de-ceremonia-en-cali-no-puede-volar-ningun-dron-3574738",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-29T15:39:24-05:00",
+      "title": "Antioquia solicitará al Gobierno de Abelardo de la Espriella el control de las vías administradas por Invías",
+      "link": "https://www.infobae.com/colombia/2026/07/29/antioquia-solicitara-al-gobierno-de-abelardo-de-la-espriella-el-control-de-las-vias-administradas-por-invias/",
+      "source": "Infobae",
+      "pubDate": "Wed, 29 Jul 2026 22:48:12 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Esmeralda Hernández rechazó la elección de Enrique Gómez como presidente de la Comisión Primera del Senado: “Es un antiderechos” ",
+      "link": "https://www.infobae.com/colombia/2026/07/29/esmeralda-hernandez-rechazo-la-eleccion-de-enrique-gomez-como-presidente-de-la-comision-primera-del-senado-es-un-antiderechos/",
+      "source": "Infobae",
+      "pubDate": "Wed, 29 Jul 2026 22:29:11 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Posesión presidencial Abelardo de la Espriella en VIVO: el Gobierno electo revisará y ampliara las alianzas comerciales con El Salvador  ",
       "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
       "source": "Infobae",
-      "pubDate": "Wed, 29 Jul 2026 20:26:54 +0000",
+      "pubDate": "Wed, 29 Jul 2026 22:26:32 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Aumento del salario mínimo, pensiones e informalidad laboral, lo que tendrá que solucionar Natalia López desde el Ministerio del Trabajo",
-      "link": "https://www.infobae.com/colombia/2026/07/29/aumento-del-salario-minimo-pensiones-e-informalidad-laboral-lo-que-tendra-que-solucionar-natalia-lopez-desde-el-ministerio-del-trabajo/",
-      "source": "Infobae",
-      "pubDate": "Wed, 29 Jul 2026 20:16:02 +0000",
+      "title": "Abelardo De La Espriella comienza con presidencias de comisiones del Congreso favorables: así quedó el mapa de fuerzas para el primer año legislativo",
+      "link": "https://www.eltiempo.com/politica/congreso/abelardo-de-la-espriella-comienza-con-presidencias-de-comisiones-del-congreso-favorables-asi-quedo-el-mapa-de-fuerzas-para-el-primer-ano-legislativo-3574800",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-29T17:17:22-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Medidas por posesión de Abelardo De la Espriella y condiciones a considerar por entorno del sitio de ceremonia en Cali: 'No puede volar ni un dron'",
+      "link": "https://www.eltiempo.com/colombia/cali/medidas-por-la-posesion-de-abelardo-de-la-espriella-y-condiciones-para-evaluar-en-entorno-del-sitio-de-ceremonia-en-cali-no-puede-volar-ningun-dron-3574738",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-29T17:05:59-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -95,15 +111,7 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El rey Felipe VI de España confirmó su asistencia a la ceremonia de posesión presidencial de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-rey-felipe-vi-de-espana-confirmo-su-asistencia-a-la-ceremonia-de-posesion-presidencial-de-abelardo-de-la-espriella-3574680",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-29T10:35:44-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Kast, De la Espriella, Rodríguez, Milei: ¿Qué impulsa la relación de América Latina hacia Israel?",
+      "title": "Kast, De la Espriella o Milei: ¿qué impulsa la relación de América Latina hacia Israel?",
       "link": "https://www.france24.com/es/programas/expreso-de-oriente/20260729-kast-de-la-espriella-rodr%C3%ADguez-milei-qu%C3%A9-impulsa-la-relaci%C3%B3n-de-am%C3%A9rica-latina-hacia-israel",
       "source": "France 24",
       "pubDate": "Wed, 29 Jul 2026 13:17:10 GMT",
