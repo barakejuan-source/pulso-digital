@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T02:54:49.316Z",
+  "updatedAt": "2026-07-29T06:35:57.206Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,18 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Posesión presidencial Abelardo de la Espriella en VIVO: Javier Milei asistirá a la “asunción” del presidente electo de Colombia ",
-      "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
-      "source": "Infobae",
-      "pubDate": "Wed, 29 Jul 2026 02:08:54 +0000",
+      "title": "Las comisiones de Senado y Cámara al arranque del gobierno de Abelardo",
+      "link": "https://www.lasillavacia.com/silla-nacional/las-comisiones-de-senado-y-camara-al-arranque-del-gobierno-de-abelardo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 29 Jul 2026 06:00:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Representante Daniel Briceño retó a congresistas que no vayan a posesión de Abelardo De La Espriella renunciar a día de salario: 'No hay excusa'",
-      "link": "https://www.eltiempo.com/politica/congreso/representante-daniel-briceno-reto-a-congresistas-que-no-vayan-a-posesion-de-abelardo-de-la-espriella-renunciar-a-dia-de-salario-no-hay-excusa-3574562",
+      "title": "Posesión presidencial Abelardo de la Espriella en VIVO: Javier Milei asistirá a la “asunción” del presidente electo de Colombia ",
+      "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
+      "source": "Infobae",
+      "pubDate": "Wed, 29 Jul 2026 05:07:50 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Pacto Histórico respondió a Daniel Briceño tras pedido de que quienes no asistan a la posesión de De La Espriella renuncien a un día de salario",
+      "link": "https://www.eltiempo.com/politica/congreso/pacto-historico-respondio-a-daniel-briceno-tras-pedido-de-que-quienes-no-asistan-a-la-posesion-de-de-la-espriella-renuncien-a-un-dia-de-salario-3574562",
       "source": "El Tiempo",
-      "pubDate": "2026-07-28T19:28:41-05:00",
+      "pubDate": "2026-07-28T22:20:48-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -91,22 +99,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-designa-a-natalia-lopez-como-su-ministra-de-trabajo-3574549",
       "source": "El Tiempo",
       "pubDate": "2026-07-28T18:24:57-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Carolina Bazurto será la nueva secretaria privada de Abelardo de la Espriella",
-      "link": "https://www.lasillavacia.com/en-vivo/carolina-bazurdo-sera-la-secretaria-privada-de-la-presidencia-de-abelardo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 28 Jul 2026 22:35:04 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella lanzó un ultimátum a las disidencias de las Farc y el Clan del Golfo en Tolima: 'Tienen las horas contadas'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-lanzo-ultimatum-para-las-disidencias-de-las-farc-en-tolima-tienen-diez-dias-para-entregarse-a-la-justicia-colombiana-3574483",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-28T16:10:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
