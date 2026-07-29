@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T17:19:36.538Z",
+  "updatedAt": "2026-07-29T19:22:35.593Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,20 +47,12 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella prometió trabajo conjunto tras empalme en Ibagué: “La horrible noche está llegando a su fin”",
-      "link": "https://www.infobae.com/colombia/2026/07/29/abelardo-de-la-espriella-prometio-trabajo-conjunto-tras-empalme-en-ibague-la-horrible-noche-esta-llegando-a-su-fin/",
-      "source": "Infobae",
-      "pubDate": "Wed, 29 Jul 2026 17:15:58 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Carlos Caicedo, excandidato presidencial, fue condenado por corrupción en el sector salud como alcalde de Santa Marta ",
-      "link": "https://www.infobae.com/colombia/2026/07/29/carlos-caicedo-excandidato-presidencial-fue-condenado-por-corrupcion-en-el-sector-salud-como-alcalde-de-santa-marta/",
-      "source": "Infobae",
-      "pubDate": "Wed, 29 Jul 2026 16:56:58 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Carlos Caicedo, el excandidato presidencial que quiso liderar una izquierda distinta al petrismo que fue condenado por corrupción en Santa Marta",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/carlos-caicedo-el-excandidato-presidencial-que-quiso-liderar-una-izquierda-distinta-al-petrismo-que-fue-condenado-por-corrupcion-en-santa-marta-3574707",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-29T12:42:19-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Unidiplo pide al presidente electo Abelardo De La Espriella fortalecer la carrera diplomática tras cuatro años de fricciones con el gobierno Petro",
@@ -83,14 +75,6 @@
       "link": "https://www.france24.com/es/programas/expreso-de-oriente/20260729-kast-de-la-espriella-rodr%C3%ADguez-milei-qu%C3%A9-impulsa-la-relaci%C3%B3n-de-am%C3%A9rica-latina-hacia-israel",
       "source": "France 24",
       "pubDate": "Wed, 29 Jul 2026 13:17:10 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Habrá tregua en la derecha luego del mensaje de Carlos Suárez, estratega de Abelardo De La Espriella, quien pidió a Álvaro Uribe pasar la página?",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/habra-tregua-en-la-derecha-luego-del-mensaje-de-carlos-suarez-estratega-de-abelardo-de-la-espriella-quien-pidio-a-alvaro-uribe-pasar-la-pagina-3574573",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-29T06:05:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
