@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T10:44:00.440Z",
+  "updatedAt": "2026-07-29T14:18:42.819Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,10 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Gobierno entrante de Abelardo De La Espriella hoy 29 de julio: últimas noticias, anuncios, gabinete, empalme y todo sobre el presidente electo",
+      "title": "‘El León’ se une a la manada de ‘El Tigre’: Javier Milei, presidente de Argentina, confirmó su asistencia a la posesión de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/29/el-leon-se-une-a-la-manada-de-el-tigre-javier-milei-presidente-de-argentina-confirmo-su-asistencia-a-la-posesion-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Wed, 29 Jul 2026 14:15:47 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Congresista del Pacto Histórico denunció un intento de aprobar la posesión de Abelardo de la Espriella sin debate en el Congreso: “Qué cobarde”",
+      "link": "https://www.infobae.com/colombia/2026/07/29/congresista-del-pacto-historico-denuncio-un-intento-de-aprobar-la-posesion-de-abelardo-de-la-espriella-sin-debate-en-el-congreso-que-cobarde/",
+      "source": "Infobae",
+      "pubDate": "Wed, 29 Jul 2026 14:09:17 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Noticias de Abelardo De La Espriella hoy 29 de julio: el Gobierno del presidente electo anunció que impulsará la relación comercial con El Salvador",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-entrante-de-abelardo-de-la-espriella-hoy-29-de-julio-ultimas-noticias-anuncios-gabinete-empalme-y-todo-sobre-el-presidente-electo-3574605",
       "source": "El Tiempo",
-      "pubDate": "2026-07-29T05:21:12-05:00",
+      "pubDate": "2026-07-29T08:49:08-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Kast, De la Espriella, Rodríguez, Milei: ¿Qué impulsa la relación de América Latina hacia Israel?",
+      "link": "https://www.france24.com/es/programas/expreso-de-oriente/20260729-kast-de-la-espriella-rodr%C3%ADguez-milei-qu%C3%A9-impulsa-la-relaci%C3%B3n-de-am%C3%A9rica-latina-hacia-israel",
+      "source": "France 24",
+      "pubDate": "Wed, 29 Jul 2026 13:17:10 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Habrá tregua en la derecha luego del mensaje de Carlos Suárez, estratega de Abelardo De La Espriella, quien pidió a Álvaro Uribe pasar la página?",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/habra-tregua-en-la-derecha-luego-del-mensaje-de-carlos-suarez-estratega-de-abelardo-de-la-espriella-quien-pidio-a-alvaro-uribe-pasar-la-pagina-3574573",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-29T06:05:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -63,44 +95,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Pacto Histórico respondió a Daniel Briceño tras pedido de que quienes no asistan a la posesión de De La Espriella renuncien a un día de salario",
-      "link": "https://www.eltiempo.com/politica/congreso/pacto-historico-respondio-a-daniel-briceno-tras-pedido-de-que-quienes-no-asistan-a-la-posesion-de-de-la-espriella-renuncien-a-un-dia-de-salario-3574562",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-28T22:20:48-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Keiko Fujimori, la cuarta sí es la vencida: qué esperar de su mandato en Perú",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260729-keiko-fujimori-la-cuarta-s%C3%AD-es-la-vencida-qu%C3%A9-esperar-de-su-mandato-en-per%C3%BA",
       "source": "France 24",
       "pubDate": "Wed, 29 Jul 2026 00:26:45 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Javier Milei, presidente de Argentina, confirmó que asistirá a la posesión de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/javier-milei-presidente-de-argentina-confirmo-que-asistira-a-la-posesion-de-abelardo-de-la-espriella-3574551",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-28T18:58:56-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cámara de Representantes aprobó que la posesión de Abelardo De La Espriella sea en Cali",
-      "link": "https://www.eltiempo.com/politica/congreso/camara-de-representantes-aprobo-que-la-posesion-de-abelardo-de-la-espriella-sea-en-cali-3574476",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-28T18:34:06-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella designa a Natalia López como su ministra de Trabajo: 'Su misión será clara, reducir el desempleo y la informalidad'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-designa-a-natalia-lopez-como-su-ministra-de-trabajo-3574549",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-28T18:24:57-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Brasil llama a consultas a su embajador en Argentina luego de que Milei calificara a Lula de \"convicto\" y \"ladrón\" en Sao Paulo",
