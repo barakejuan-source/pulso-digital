@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T19:22:35.593Z",
+  "updatedAt": "2026-07-29T21:00:54.569Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,6 +47,38 @@
   ],
   "articles": [
     {
+      "title": "Medidas por posesión de Abelardo De la Espriella y condiciones a considerar por entorno del sitio de ceremonia en Cali: 'No puede volar ni un dron'",
+      "link": "https://www.eltiempo.com/colombia/cali/medidas-por-la-posesion-de-abelardo-de-la-espriella-y-condiciones-para-evaluar-en-entorno-del-sitio-de-ceremonia-en-cali-no-puede-volar-ningun-dron-3574738",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-29T15:39:24-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Posesión presidencial Abelardo de la Espriella en VIVO: el Gobierno electo revisará y ampliara las alianzas comerciales con El Salvador  ",
+      "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
+      "source": "Infobae",
+      "pubDate": "Wed, 29 Jul 2026 20:26:54 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Aumento del salario mínimo, pensiones e informalidad laboral, lo que tendrá que solucionar Natalia López desde el Ministerio del Trabajo",
+      "link": "https://www.infobae.com/colombia/2026/07/29/aumento-del-salario-minimo-pensiones-e-informalidad-laboral-lo-que-tendra-que-solucionar-natalia-lopez-desde-el-ministerio-del-trabajo/",
+      "source": "Infobae",
+      "pubDate": "Wed, 29 Jul 2026 20:16:02 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Preguntas y respuestas sobre la posesión de Abelardo De la Espriella",
+      "link": "https://www.lasillavacia.com/silla-nacional/preguntas-y-respuestas-sobre-la-posesion-de-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 29 Jul 2026 19:59:37 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Carlos Caicedo, el excandidato presidencial que quiso liderar una izquierda distinta al petrismo que fue condenado por corrupción en Santa Marta",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/carlos-caicedo-el-excandidato-presidencial-que-quiso-liderar-una-izquierda-distinta-al-petrismo-que-fue-condenado-por-corrupcion-en-santa-marta-3574707",
       "source": "El Tiempo",
@@ -77,14 +109,6 @@
       "pubDate": "Wed, 29 Jul 2026 13:17:10 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Keiko Fujimori, la cuarta sí es la vencida: qué esperar de su mandato en Perú",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260729-keiko-fujimori-la-cuarta-s%C3%AD-es-la-vencida-qu%C3%A9-esperar-de-su-mandato-en-per%C3%BA",
-      "source": "France 24",
-      "pubDate": "Wed, 29 Jul 2026 00:26:45 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
