@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T14:18:42.819Z",
+  "updatedAt": "2026-07-29T17:19:36.538Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,26 +47,34 @@
   ],
   "articles": [
     {
-      "title": "‘El León’ se une a la manada de ‘El Tigre’: Javier Milei, presidente de Argentina, confirmó su asistencia a la posesión de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/07/29/el-leon-se-une-a-la-manada-de-el-tigre-javier-milei-presidente-de-argentina-confirmo-su-asistencia-a-la-posesion-de-abelardo-de-la-espriella/",
+      "title": "Abelardo de la Espriella prometió trabajo conjunto tras empalme en Ibagué: “La horrible noche está llegando a su fin”",
+      "link": "https://www.infobae.com/colombia/2026/07/29/abelardo-de-la-espriella-prometio-trabajo-conjunto-tras-empalme-en-ibague-la-horrible-noche-esta-llegando-a-su-fin/",
       "source": "Infobae",
-      "pubDate": "Wed, 29 Jul 2026 14:15:47 +0000",
+      "pubDate": "Wed, 29 Jul 2026 17:15:58 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Congresista del Pacto Histórico denunció un intento de aprobar la posesión de Abelardo de la Espriella sin debate en el Congreso: “Qué cobarde”",
-      "link": "https://www.infobae.com/colombia/2026/07/29/congresista-del-pacto-historico-denuncio-un-intento-de-aprobar-la-posesion-de-abelardo-de-la-espriella-sin-debate-en-el-congreso-que-cobarde/",
+      "title": "Carlos Caicedo, excandidato presidencial, fue condenado por corrupción en el sector salud como alcalde de Santa Marta ",
+      "link": "https://www.infobae.com/colombia/2026/07/29/carlos-caicedo-excandidato-presidencial-fue-condenado-por-corrupcion-en-el-sector-salud-como-alcalde-de-santa-marta/",
       "source": "Infobae",
-      "pubDate": "Wed, 29 Jul 2026 14:09:17 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Wed, 29 Jul 2026 16:56:58 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Noticias de Abelardo De La Espriella hoy 29 de julio: el Gobierno del presidente electo anunció que impulsará la relación comercial con El Salvador",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-entrante-de-abelardo-de-la-espriella-hoy-29-de-julio-ultimas-noticias-anuncios-gabinete-empalme-y-todo-sobre-el-presidente-electo-3574605",
+      "title": "Unidiplo pide al presidente electo Abelardo De La Espriella fortalecer la carrera diplomática tras cuatro años de fricciones con el gobierno Petro",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/undiplo-pide-al-presidente-electo-abelardo-de-la-espriella-fortalecer-la-carrera-diplomatica-tras-cuatro-anos-de-fricciones-con-el-gobierno-petro-3574681",
       "source": "El Tiempo",
-      "pubDate": "2026-07-29T08:49:08-05:00",
+      "pubDate": "2026-07-29T11:09:42-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El rey Felipe VI de España confirmó su asistencia a la ceremonia de posesión presidencial de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-rey-felipe-vi-de-espana-confirmo-su-asistencia-a-la-ceremonia-de-posesion-presidencial-de-abelardo-de-la-espriella-3574680",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-29T10:35:44-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -87,26 +95,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Las comisiones de Senado y Cámara al arranque del gobierno de Abelardo",
-      "link": "https://www.lasillavacia.com/silla-nacional/las-comisiones-de-senado-y-camara-al-arranque-del-gobierno-de-abelardo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 29 Jul 2026 06:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Keiko Fujimori, la cuarta sí es la vencida: qué esperar de su mandato en Perú",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260729-keiko-fujimori-la-cuarta-s%C3%AD-es-la-vencida-qu%C3%A9-esperar-de-su-mandato-en-per%C3%BA",
       "source": "France 24",
       "pubDate": "Wed, 29 Jul 2026 00:26:45 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Brasil llama a consultas a su embajador en Argentina luego de que Milei calificara a Lula de \"convicto\" y \"ladrón\" en Sao Paulo",
-      "link": "https://www.bbc.com/mundo/articles/c8enp331z4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 27 Jul 2026 11:14:04 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
