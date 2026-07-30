@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-30T14:10:34.075Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-30T17:40:17.791Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 3,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 2,
+      "finalScore": 1,
       "momentum": {
-        "value": 0,
+        "value": -50,
         "direction": "flat"
       },
-      "probability": 2.5
+      "probability": 1.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,63 +42,31 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 97.5
+      "probability": 98.7
     }
   ],
   "articles": [
     {
-      "title": "Posesión de Abelardo de la Espriella: los momentos más importantes de la jornada",
-      "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
+      "title": "El senador estadounidense Rick Scott cuestionó el llamado de Iván Cepeda y Gustavo Petro a una desobediencia civil: “Solo les importa el poder”",
+      "link": "https://www.infobae.com/colombia/2026/07/30/rick-scott-senador-estadounidense-cuestiono-el-llamado-de-ivan-cepeda-y-gustavo-petro-a-una-desobediencia-civil-solo-les-importa-el-poder/",
       "source": "Infobae",
-      "pubDate": "Thu, 30 Jul 2026 13:56:18 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Thu, 30 Jul 2026 17:31:22 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "Así reaccionaron varios políticos a la designación de María Carolina Restrepo como directora del Icbf en el gobierno entrante: “Cree que los subsidios son para los ricos”",
-      "link": "https://www.infobae.com/colombia/2026/07/30/asi-reaccionaron-varios-politicos-a-la-designacion-de-maria-carolina-restrepo-como-directora-del-icbf-en-el-gobierno-entrante-erradicando-la-corrupcion/",
+      "title": "Tras la condena del excandidato presidencial Carlos Caicedo por corrupción, Alcaldía de Santa Marta quiere recuperar miles de millones",
+      "link": "https://www.infobae.com/colombia/2026/07/30/caso-carlos-caicedo-defensa-de-la-alcaldia-de-santa-marta-explico-lo-que-procede-luego-de-la-condena-por-peculado-del-exfuncionario/",
       "source": "Infobae",
-      "pubDate": "Thu, 30 Jul 2026 13:53:50 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Thu, 30 Jul 2026 17:30:59 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Así van las obras de remodelación de la que sería la sede presidencial de Abelardo de la Espriella en Barranquilla",
-      "link": "https://www.infobae.com/colombia/2026/07/30/asi-van-las-obras-de-remodelacion-de-la-sede-presidencial-de-abelardo-de-la-espriella-en-barranquilla/",
-      "source": "Infobae",
-      "pubDate": "Thu, 30 Jul 2026 13:53:37 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Honorio Henríquez confirmó que el Congreso no pagará estadías de los legisladores para posesión de Abelardo de la Espriella en Cali: “Lo único son los tiquetes” ",
-      "link": "https://www.infobae.com/colombia/2026/07/30/honorio-henriquez-dijo-que-el-congreso-no-pagara-estadias-de-los-legisladores-para-posesion-de-de-la-espriella-en-cali-lo-unico-son-los-tiquetes/",
-      "source": "Infobae",
-      "pubDate": "Thu, 30 Jul 2026 13:53:22 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Gustavo Petro recibió credenciales de la nueva embajadora de Palestina en Colombia: Abelardo De La Espriella frenará sede en Ramala",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-gustavo-petro-recibio-credenciales-como-nueva-embajadora-de-palestina-en-colombia-a-menos-de-diez-dias-de-finalizar-su-gobierno-3574871",
+      "title": "Presidente electo Abelardo De La Espriella reunirá a su gabinete de ministros en Barranquilla para un retiro espiritual antes de la posesión",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-reunira-a-su-gabinete-de-ministros-en-barranquilla-para-un-retiro-espiritual-antes-de-la-posesion-3574946",
       "source": "El Tiempo",
-      "pubDate": "2026-07-30T08:50:03-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella hoy 30 de julio: rector de la Universidad Santiago de Cali detalló cómo se preparan para la posesión en la Arena USC",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-siga-las-ultimas-noticias-de-la-posesion-presidencial-del-7-de-agosto-gabinete-agenda-y-anuncios-del-gobierno-entrante-3574863",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-30T08:20:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El Congreso solo pagará los tiquetes para la posesión presidencial en Cali; senadores y representantes asumirán el costo del hospedaje",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-congreso-solo-pagara-los-tiquetes-para-la-posesion-en-cali-senadores-y-representantes-asumiran-el-costo-del-hospedaje-3574894",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-30T08:05:55-05:00",
+      "pubDate": "2026-07-30T10:38:13-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -107,38 +75,6 @@
       "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-30-de-julio-de-2026/",
       "source": "La Silla Vacía",
       "pubDate": "Thu, 30 Jul 2026 12:21:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella se pronunció tras la aprobación del Senado para trasladar la posesión presidencial a Cali el próximo 7 de agosto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-se-pronuncio-tras-aprobacion-del-senado-para-el-traslado-de-la-posesion-presidencial-el-proximo-7-de-agosto-en-cali-3574838",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-29T22:16:02-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Senado aprobó oficialmente la posesión presidencial de Abelardo De La Espriella en Cali",
-      "link": "https://www.eltiempo.com/politica/congreso/senado-aprobo-oficialmente-la-posesion-presidencial-de-abelardo-de-la-espriella-en-cali-3574812",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-29T20:11:04-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Senado aprobó posesión de Abelardo de la Espriella en Cali",
-      "link": "https://www.lasillavacia.com/en-vivo/senado-aprobo-posesion-de-abelardo-de-la-espriella-en-cali/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 30 Jul 2026 00:23:50 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así va la lista de los invitados internacionales que confirman su asistencia para la posesión presidencial de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-va-la-lista-de-los-invitados-internacionales-que-confirman-su-asistencia-para-la-posesion-presidencial-de-abelardo-de-la-espriella-3574817",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-29T19:21:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
