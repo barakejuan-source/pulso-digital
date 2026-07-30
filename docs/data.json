@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T17:40:17.791Z",
+  "updatedAt": "2026-07-30T19:38:24.535Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 1,
       "momentum": {
-        "value": -50,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 1.3
@@ -47,34 +47,34 @@
   ],
   "articles": [
     {
-      "title": "El senador estadounidense Rick Scott cuestionó el llamado de Iván Cepeda y Gustavo Petro a una desobediencia civil: “Solo les importa el poder”",
-      "link": "https://www.infobae.com/colombia/2026/07/30/rick-scott-senador-estadounidense-cuestiono-el-llamado-de-ivan-cepeda-y-gustavo-petro-a-una-desobediencia-civil-solo-les-importa-el-poder/",
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: el gabinete del Gobierno entrante celebrará este fin de semana un retiro espiritual en Barranquilla",
+      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
       "source": "Infobae",
-      "pubDate": "Thu, 30 Jul 2026 17:31:22 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Thu, 30 Jul 2026 19:32:15 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Tras la condena del excandidato presidencial Carlos Caicedo por corrupción, Alcaldía de Santa Marta quiere recuperar miles de millones",
-      "link": "https://www.infobae.com/colombia/2026/07/30/caso-carlos-caicedo-defensa-de-la-alcaldia-de-santa-marta-explico-lo-que-procede-luego-de-la-condena-por-peculado-del-exfuncionario/",
+      "title": "Abelardo de la Espriella adelantó empalme regional en Bogotá: gobernador y alcaldes de Cundinamarca presentaron sus proyectos ",
+      "link": "https://www.infobae.com/colombia/2026/07/30/abelardo-de-la-espriella-realiza-el-octavo-encuentro-de-empalmes-regionales-gobernador-y-alcaldes-de-cundinamarca-presentaron-sus-proyectos/",
       "source": "Infobae",
-      "pubDate": "Thu, 30 Jul 2026 17:30:59 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Thu, 30 Jul 2026 19:14:41 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "CNE está por decidir si le da personería jurídica a Defensores de la Patria: se espera votar antes de la posesión de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/cne-esta-por-decidir-si-le-da-personeria-juridica-a-defensores-de-la-patria-se-espera-votar-antes-de-la-posesion-de-abelardo-de-la-espriella-3574984",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-30T12:50:11-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Presidente electo Abelardo De La Espriella reunirá a su gabinete de ministros en Barranquilla para un retiro espiritual antes de la posesión",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-reunira-a-su-gabinete-de-ministros-en-barranquilla-para-un-retiro-espiritual-antes-de-la-posesion-3574946",
       "source": "El Tiempo",
       "pubDate": "2026-07-30T10:38:13-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desayune informado con las claves de este 30 de julio de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-30-de-julio-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 30 Jul 2026 12:21:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
