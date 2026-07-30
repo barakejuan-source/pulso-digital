@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T21:15:30.979Z",
+  "updatedAt": "2026-07-30T23:12:41.153Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,50 @@
   ],
   "articles": [
     {
-      "title": "Concierto de Ricardo Montaner en Cali fue aplazado por la posesión presidencial de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/07/30/concierto-de-ricardo-montaner-en-cali-fue-aplazado-por-la-posesion-presidencial-de-abelardo-de-la-espriella/",
+      "title": "Así sería el trabajo por horas y la reducción de impuestos en Colombia si Abelardo de la Espriella acepta nueva propuesta de los empresarios",
+      "link": "https://www.infobae.com/colombia/2026/07/30/asi-seria-el-trabajo-por-horas-y-la-reduccion-de-impuestos-en-colombia-si-abelardo-de-la-espriella-acepta-nueva-propuesta-de-los-empresarios/",
       "source": "Infobae",
-      "pubDate": "Thu, 30 Jul 2026 21:08:34 +0000",
+      "pubDate": "Thu, 30 Jul 2026 23:08:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ana María Vesga será la ministra de Salud del Gobierno de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/07/30/ana-maria-vesga-sera-la-ministra-de-salud-del-gobierno-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Thu, 30 Jul 2026 23:02:11 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: el gabinete del Gobierno entrante celebrará este fin de semana un retiro espiritual en Barranquilla",
+      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
+      "source": "Infobae",
+      "pubDate": "Thu, 30 Jul 2026 22:44:31 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ana María Vesga será la nueva ministra de Salud de Abelardo De La Espriella: solo falta ocupar la cartera de Ciencias",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ana-maria-vesga-sera-la-nueva-ministra-de-salud-de-abelardo-de-la-espriella-solo-falta-ocupar-la-cartera-de-ciencias-3575076",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-30T17:35:09-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella nombró a las personas que liderarán la ANI, el FNA y Parques Nacionales Naturales ",
+      "link": "https://www.infobae.com/colombia/2026/07/30/abelardo-de-la-espriella-nombro-a-las-personas-que-lideraran-la-ani-el-fna-y-parques-nacionales-naturales/",
+      "source": "Infobae",
+      "pubDate": "Thu, 30 Jul 2026 22:31:42 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ministro del Interior designado Rodrigo Lara asegura que gobierno de Abelardo De La Espriella no intervendrá en elección de contralor",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ministro-del-interior-designado-rodrigo-lara-asegura-que-gobierno-de-abelardo-de-la-espriella-no-intervendra-en-eleccion-de-contralor-3575050",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-30T16:47:15-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,15 +98,7 @@
       "title": "Abelardo De La Espriella lanza ultimátum a alias 'Calarcá' y otros cabecillas para que se sometan a la justicia: tienen hasta el 7 de agosto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-lanza-ultimatum-a-alias-calarca-y-otros-cabecillas-para-que-se-sometan-a-la-justicia-tienen-hasta-el-7-de-agosto-3575025",
       "source": "El Tiempo",
-      "pubDate": "2026-07-30T15:43:47-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El Ministerio de Defensa confirmó cómo será el operativo de seguridad para la posesión de Abelardo de la Espriella ",
-      "link": "https://www.infobae.com/colombia/2026/07/30/el-ministerio-de-defensa-confirmo-como-sera-el-operativo-de-seguridad-para-la-posesion-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Thu, 30 Jul 2026 20:35:31 +0000",
+      "pubDate": "2026-07-30T16:39:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-revela-cuales-seran-lo-directores-de-la-ani-parque-nacionales-y-fondo-nacional-del-ahorro-3575024",
       "source": "El Tiempo",
       "pubDate": "2026-07-30T15:28:33-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "CNE está por decidir si le da personería jurídica a Defensores de la Patria: se espera votar antes de la posesión de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/cne-esta-por-decidir-si-le-da-personeria-juridica-a-defensores-de-la-patria-se-espera-votar-antes-de-la-posesion-de-abelardo-de-la-espriella-3574984",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-30T12:50:11-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
