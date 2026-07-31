@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-31T03:20:37.092Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-07-31T06:49:05.239Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,20 +47,28 @@
   ],
   "articles": [
     {
-      "title": "Retiran la ‘Paloma de la Paz’ de Fernando Botero de la Casa de Nariño, antes de la posesión de Abelardo de la Espriella   ",
-      "link": "https://www.infobae.com/colombia/2026/07/31/retiran-la-paloma-de-la-paz-de-fernando-botero-de-la-casa-de-narino-antes-de-la-posesion-de-abelardo-de-la-espriella/",
+      "title": "“70% cocinado”: en busca de la reelección, el Gobierno acelera la rosca para suspender las PASO",
+      "link": "https://www.infobae.com/politica/2026/07/31/70-cocinado-en-busca-de-la-reeleccion-el-gobierno-acelera-la-rosca-para-suspender-las-paso/",
       "source": "Infobae",
-      "pubDate": "Fri, 31 Jul 2026 02:41:15 +0000",
+      "pubDate": "Fri, 31 Jul 2026 06:25:53 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Carolina Corcho protagonizó el primer rechazo contra la ministra de Salud designada por Abelardo de la Espriella: “Miente”",
+      "link": "https://www.infobae.com/colombia/2026/07/31/carolina-corcho-protagonizo-el-primer-rechazo-contra-la-ministra-de-salud-designada-por-abelardo-de-la-espriella-miente/",
+      "source": "Infobae",
+      "pubDate": "Fri, 31 Jul 2026 05:46:37 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Mauricio Lizcano le puso la lupa a la designación de Ana María Vesga como ministra de Salud y advirtió sobre una “puerta giratoria”",
-      "link": "https://www.infobae.com/colombia/2026/07/31/mauricio-lizcano-le-puso-la-lupa-a-la-designacion-de-ana-maria-vesga-como-ministra-de-salud-y-advirtio-sobre-una-puerta-giratoria/",
-      "source": "Infobae",
-      "pubDate": "Fri, 31 Jul 2026 02:31:47 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Presidente electo Abelardo De La Espriella se pronunció sobre el caso de María Camila Potosí en Cali: 'Defiendo a la mujer y los niños son sagrados'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-pronuncio-frente-al-caso-de-camila-potosi-en-cali-y-anuncio-acciones-no-merecen-llamarse-humanos-3575129",
+      "source": "El Tiempo",
+      "pubDate": "2026-07-30T22:30:55-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Ricardo Ayerbe es designado por Abelardo De La Espriella como nuevo presidente de la ANI: liderará la red de infraestructura y concesiones 5G",
@@ -99,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ana-maria-vesga-sera-la-nueva-ministra-de-salud-de-abelardo-de-la-espriella-solo-falta-ocupar-la-cartera-de-ciencias-3575076",
       "source": "El Tiempo",
       "pubDate": "2026-07-30T17:35:09-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ministro del Interior designado Rodrigo Lara asegura que gobierno de Abelardo De La Espriella no intervendrá en elección de contralor",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ministro-del-interior-designado-rodrigo-lara-asegura-que-gobierno-de-abelardo-de-la-espriella-no-intervendra-en-eleccion-de-contralor-3575050",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-30T16:47:15-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
