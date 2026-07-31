@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-31T17:43:13.039Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-07-31T19:40:04.532Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "EN VIVO Viaje del presidente Gustavo Petro a Cuba: la última salida internacional como el jefe de Estado antes de la posesión de Abelardo de la Espriella        ",
-      "link": "https://www.infobae.com/colombia/2026/07/31/en-vivo-viaje-del-presidente-gustavo-petro-a-cuba-la-ultima-salida-internacional-como-el-jefe-de-estado-antes-de-la-posesion-de-abelardo-de-la-espriella/",
+      "title": "Gustavo Petro aprovechó video de Abelardo de la Espriella tomando aguardiente para defenderse: “Nunca hice una sola fiesta en la Casa de Nariño”",
+      "link": "https://www.infobae.com/colombia/2026/07/31/gustavo-petro-aprovecho-video-de-abelardo-de-la-espriella-tomando-aguardiente-para-defenderse-nunca-hice-una-sola-fiesta-en-la-casa-de-narino/",
       "source": "Infobae",
-      "pubDate": "Fri, 31 Jul 2026 17:27:54 +0000",
+      "pubDate": "Fri, 31 Jul 2026 19:08:40 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Nuevo enfrentamiento entre el gobierno de Abelardo de la Espriella y el uribismo, ahora por elección del contralor: “Sería injustificable e impresentable”",
-      "link": "https://www.infobae.com/colombia/2026/07/31/nuevo-enfrentamiento-entre-el-gobierno-de-abelardo-de-la-espriella-y-el-uribismo-ahora-por-eleccion-del-contralor-seria-injustificable-e-impresentable/",
-      "source": "Infobae",
-      "pubDate": "Fri, 31 Jul 2026 17:27:29 +0000",
+      "title": "Ana María Vesga Gaviria",
+      "link": "https://www.lasillavacia.com/quien-es-quien/ana-maria-vesga-gaviria/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 31 Jul 2026 18:29:41 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,22 +67,6 @@
       "link": "https://www.eltiempo.com/politica/proceso-de-paz/el-incierto-futuro-de-la-unica-zona-de-ubicacion-temporal-en-putumayo-99-disidentes-de-la-cneb-aguardan-decision-de-abelardo-de-la-espriella-3575250",
       "source": "El Tiempo",
       "pubDate": "2026-07-31T12:13:24-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Petro anunció otra vez que presentará pruebas sobre presunto fraude en la victoria de Abelardo de la Espriella: “Se afectaron más de 1.800.000 votos”",
-      "link": "https://www.infobae.com/colombia/2026/07/31/petro-anuncio-otra-vez-que-presentara-pruebas-sobre-presunto-fraude-en-la-victoria-de-abelardo-de-la-espriella-se-afectaron-mas-de-1800000-votos/",
-      "source": "Infobae",
-      "pubDate": "Fri, 31 Jul 2026 17:09:48 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El último viaje internacional de Petro: a Cuba hoy y mañana",
-      "link": "https://www.lasillavacia.com/en-vivo/el-ultimo-viaje-internacional-de-petro-a-cuba-hoy-y-manana/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 31 Jul 2026 15:06:34 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -123,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-electo-abelardo-de-la-espriella-se-pronuncio-frente-al-caso-de-camila-potosi-en-cali-y-anuncio-acciones-no-merecen-llamarse-humanos-3575129",
       "source": "El Tiempo",
       "pubDate": "2026-07-31T05:40:46-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ricardo Ayerbe es designado por Abelardo De La Espriella como nuevo presidente de la ANI: liderará la red de infraestructura y concesiones 5G",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ricardo-ayerbe-es-designado-por-abelardo-de-la-espriella-como-nuevo-presidente-de-la-ani-liderara-la-red-de-infraestructura-y-concesiones-5g-3575116",
-      "source": "El Tiempo",
-      "pubDate": "2026-07-30T19:58:02-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
