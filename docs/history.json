@@ -9568,6 +9568,23 @@
           "sentiment": 28
         }
       ]
+    },
+    {
+      "date": "2026-08-01T17",
+      "candidates": [
+        {
+          "id": "ivan_cepeda",
+          "trends": 1,
+          "youtube": 0,
+          "sentiment": 0
+        },
+        {
+          "id": "abelardo_espriella",
+          "trends": 100,
+          "youtube": 100,
+          "sentiment": 28
+        }
+      ]
     }
   ]
 }
