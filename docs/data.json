@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-01T10:03:35.333Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-01T13:29:13.489Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Así celebró Abelardo de la Espriella su cumpleaños 48 antes de asumir la Presidencia",
-      "link": "https://www.infobae.com/colombia/2026/08/01/asi-celebro-abelardo-de-la-espriella-su-cumpleanos-48-antes-de-asumir-la-presidencia/",
-      "source": "Infobae",
-      "pubDate": "Sat, 01 Aug 2026 09:50:23 +0000",
+      "title": "Gobierno entrante Abelardo De La Espriella: últimas noticias del gabinete, el empalme y los preparativos para la posesión del 7 de agosto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-entrante-abelardo-de-la-espriella-ultimas-noticias-del-gabinete-el-empalme-y-los-preparativos-para-la-posesion-del-7-de-agosto-3575412",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-01T08:20:40-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gobierno entrante Abelardo De La Espriella: últimas noticias del gabinete, el empalme y los preparativos para la posesión del 7 de agosto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-entrante-abelardo-de-la-espriella-ultimas-noticias-del-gabinete-el-empalme-y-los-preparativos-para-la-posesion-del-7-de-agosto-3575412",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-01T03:30:56-05:00",
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: convocaron a movilización popular en Puerto Resistencia en Cali ",
+      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
+      "source": "Infobae",
+      "pubDate": "Sat, 01 Aug 2026 13:19:28 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
