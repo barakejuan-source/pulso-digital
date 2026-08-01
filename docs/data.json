@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T20:58:45.809Z",
+  "updatedAt": "2026-08-01T22:59:32.406Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 1,
+      "trendsScore": 3,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 0,
+      "finalScore": 1,
       "momentum": {
         "value": 0,
         "direction": "flat"
       },
-      "probability": 0
+      "probability": 1.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,15 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 100
+      "probability": 98.7
     }
   ],
   "articles": [
     {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: partido de oposición reveló los tres puntos de concentración previstos para el día de la investidura presidencial",
-      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
-      "source": "Infobae",
-      "pubDate": "Sat, 01 Aug 2026 20:35:26 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella designó a Ana María Rincón como presidenta del Banco Agrario de Colombia",
-      "link": "https://www.infobae.com/colombia/2026/08/01/abelardo-de-la-espriella-designo-a-ana-maria-rincon-como-presidenta-del-banco-agrario-de-colombia/",
-      "source": "Infobae",
-      "pubDate": "Sat, 01 Aug 2026 20:18:04 +0000",
+      "title": "Atentado previo a la asunción de De la Espriella: ¿qué viene para Colombia?",
+      "link": "https://www.france24.com/es/video/20260801-atentado-previo-a-la-asunci%C3%B3n-de-de-la-espriella-qu%C3%A9-viene-para-colombia",
+      "source": "France 24",
+      "pubDate": "Sat, 01 Aug 2026 22:00:32 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -79,7 +71,7 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Once heridos por un ataque con bomba en Colombia, a seis días de la asunción de De la Espriella",
+      "title": "Al menos 14 heridos por ataque con bomba en Colombia, a seis días de la asunción de De la Espriella",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260801-once-heridos-por-un-ataque-con-bomba-en-colombia-a-seis-d%C3%ADas-de-la-asunci%C3%B3n-de-de-la-espriella",
       "source": "France 24",
       "pubDate": "Sat, 01 Aug 2026 17:59:09 GMT",
