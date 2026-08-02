@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-02T17:04:56.538Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-02T19:16:48.315Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,10 +18,10 @@
       "youtubeViews": 106081,
       "finalScore": 33,
       "momentum": {
-        "value": 1000,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 37.5
+      "probability": 37.9
     },
     {
       "id": "abelardo_espriella",
@@ -29,7 +29,7 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 31,
+      "youtubeScore": 28,
       "sentimentScore": 20,
       "sentimentPct": {
         "positive": 20,
@@ -37,20 +37,28 @@
         "neutral": 28
       },
       "youtubeViews": 29804,
-      "finalScore": 55,
+      "finalScore": 54,
       "momentum": {
-        "value": -29.5,
-        "direction": "down"
+        "value": -1.8,
+        "direction": "flat"
       },
-      "probability": 62.5
+      "probability": 62.1
     }
   ],
   "articles": [
     {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: el general Wilson Cháwez, que lidera el empalme con las Fuerzas Militares, fue mencionado en investigación de alias Matamba",
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: hoy 2 de agosto, De la Espriella hará su última intervención antes de posesionarse como presidente de Colombia ",
       "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
       "source": "Infobae",
-      "pubDate": "Sun, 02 Aug 2026 16:04:02 +0000",
+      "pubDate": "Sun, 02 Aug 2026 18:48:32 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El gobierno electo exhibe sus creencias religiosas en retiro espiritual",
+      "link": "https://www.lasillavacia.com/en-vivo/el-gobierno-electo-exhibe-sus-creencias-religiosas-en-retiro-espiritual/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 02 Aug 2026 17:50:15 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -63,26 +71,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo De La Espriella designó a Ana María Rincón como nueva presidenta del Banco Agrario",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella-designo-a-ana-maria-rincon-como-nueva-presidenta-del-banco-agrario-3575502",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-01T20:52:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Colombia: atentado en Cúcuta deja al menos catorce heridos y De la Espriella lo condena",
       "link": "https://www.france24.com/es/video/20260802-colombia-atentado-en-c%C3%BAcuta-deja-al-menos-catorce-heridos-y-de-la-espriella-lo-condena",
       "source": "France 24",
       "pubDate": "Sun, 02 Aug 2026 00:07:16 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Atentado previo a la asunción de De la Espriella: ¿qué viene para Colombia?",
-      "link": "https://www.france24.com/es/video/20260801-atentado-previo-a-la-asunci%C3%B3n-de-de-la-espriella-qu%C3%A9-viene-para-colombia",
-      "source": "France 24",
-      "pubDate": "Sat, 01 Aug 2026 22:00:32 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
