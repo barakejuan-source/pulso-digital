@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T11:26:10.109Z",
+  "updatedAt": "2026-08-02T13:30:17.876Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,22 @@
   ],
   "articles": [
     {
+      "title": "Comienza la convención que prevé proclamar a Lula como candidato presidencial en Brasil",
+      "link": "https://www.infobae.com/america/agencias/2026/08/02/comienza-la-convencion-que-preve-proclamar-a-lula-como-candidato-presidencial-en-brasil/",
+      "source": "Infobae",
+      "pubDate": "Sun, 02 Aug 2026 13:15:24 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: la excongresista Ana María Rincón fue designada como presidenta del Banco Agrario",
+      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
+      "source": "Infobae",
+      "pubDate": "Sun, 02 Aug 2026 13:12:44 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Todo listo en Cali para la posesión presidencial: los detalles de la ceremonia en la que asumirá el poder Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/todo-listo-en-cali-para-la-posesion-presidencial-los-detalles-de-la-ceremonia-en-la-que-asumira-el-poder-abelardo-de-la-espriella-3575499",
       "source": "El Tiempo",
@@ -77,14 +93,6 @@
       "pubDate": "Sat, 01 Aug 2026 22:00:32 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda aclara que convocatorias para el 7 de agosto, día de la posesión presidencial, no implican marchas sino concentraciones pacíficas",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-aclara-que-convocatorias-para-el-7-de-agosto-dia-de-la-posesion-presidencial-no-implican-marchas-sino-concentraciones-pacificas-3575471",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-01T13:41:23-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Al menos 14 heridos por ataque con bomba en Colombia, a seis días de la asunción de De la Espriella",
