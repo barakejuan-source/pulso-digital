@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-02T19:16:48.315Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-02T21:00:25.209Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -39,7 +39,7 @@
       "youtubeViews": 29804,
       "finalScore": 54,
       "momentum": {
-        "value": -1.8,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 62.1
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: hoy 2 de agosto, De la Espriella hará su última intervención antes de posesionarse como presidente de Colombia ",
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: representante del Centro Democrático pidió al presidente electo derogar las Áreas de Reserva Temporal de Recursos Naturales",
       "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
       "source": "Infobae",
-      "pubDate": "Sun, 02 Aug 2026 18:48:32 +0000",
+      "pubDate": "Sun, 02 Aug 2026 20:40:33 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
