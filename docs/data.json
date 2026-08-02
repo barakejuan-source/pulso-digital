@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-02T21:00:25.209Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-02T22:59:51.293Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,42 @@
   ],
   "articles": [
     {
+      "title": "Así fue el 'retiro espiritual' del presidente electo Abelardo De La Espriella y su gabinete designado",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-fue-el-retiro-espiritual-del-presidente-electo-abelardo-de-la-espriella-y-su-gabinete-designado-3575623",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-02T17:48:25-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Posesión de Abelardo de la Espriella EN VIVO: representante del Centro Democrático pidió al presidente electo derogar las Áreas de Reserva Temporal de Recursos Naturales",
       "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
       "source": "Infobae",
-      "pubDate": "Sun, 02 Aug 2026 20:40:33 +0000",
+      "pubDate": "Sun, 02 Aug 2026 22:36:40 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia y la antesala a la investidura de Abelardo De la Espriella, entre polarización y polémica",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260802-colombia-y-la-antesala-a-la-investidura-de-abelardo-de-la-espriella-entre-polarizaci%C3%B3n-y-pol%C3%A9mica",
+      "source": "France 24",
+      "pubDate": "Sun, 02 Aug 2026 22:33:20 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Petro insiste en que hubo fraude electoral a solo cinco días de dejar la Casa de Nariño: “Colombia eligió a Iván Cepeda”",
+      "link": "https://www.infobae.com/colombia/2026/08/02/petro-insiste-en-que-hubo-fraude-electoral-a-solo-cinco-dias-de-dejar-la-casa-de-narino-colombia-eligio-a-ivan-cepeda/",
+      "source": "Infobae",
+      "pubDate": "Sun, 02 Aug 2026 22:29:28 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Termine la tarde con estas columnas de opinión recomendadas",
+      "link": "https://www.lasillavacia.com/en-vivo/termine-la-tarde-con-estas-columnas-de-opinion-recomendadas/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 02 Aug 2026 22:20:27 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,22 +91,6 @@
       "link": "https://www.lasillavacia.com/en-vivo/el-gobierno-electo-exhibe-sus-creencias-religiosas-en-retiro-espiritual/",
       "source": "La Silla Vacía",
       "pubDate": "Sun, 02 Aug 2026 17:50:15 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Todo listo en Cali para la posesión presidencial: los detalles de la ceremonia en la que asumirá el poder Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/todo-listo-en-cali-para-la-posesion-presidencial-los-detalles-de-la-ceremonia-en-la-que-asumira-el-poder-abelardo-de-la-espriella-3575499",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-01T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia: atentado en Cúcuta deja al menos catorce heridos y De la Espriella lo condena",
-      "link": "https://www.france24.com/es/video/20260802-colombia-atentado-en-c%C3%BAcuta-deja-al-menos-catorce-heridos-y-de-la-espriella-lo-condena",
-      "source": "France 24",
-      "pubDate": "Sun, 02 Aug 2026 00:07:16 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
