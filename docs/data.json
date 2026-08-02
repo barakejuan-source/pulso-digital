@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T03:19:09.435Z",
+  "updatedAt": "2026-08-02T06:37:45.294Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 8,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 4,
+      "finalScore": 3,
       "momentum": {
-        "value": 300,
-        "direction": "up"
+        "value": -25,
+        "direction": "flat"
       },
-      "probability": 4.9
+      "probability": 3.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 95.1
+      "probability": 96.3
     }
   ],
   "articles": [
+    {
+      "title": "Abelardo de la Espriella regaló biblias a sus ministros durante retiro espiritual previo a la posesión",
+      "link": "https://www.infobae.com/colombia/2026/08/02/abelardo-de-la-espriella-regalo-biblias-a-sus-ministros-durante-retiro-espiritual-previo-a-la-posesion/",
+      "source": "Infobae",
+      "pubDate": "Sun, 02 Aug 2026 04:40:36 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Todo listo en Cali para la posesión presidencial: los detalles de la ceremonia en la que asumirá el poder Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/todo-listo-en-cali-para-la-posesion-presidencial-los-detalles-de-la-ceremonia-en-la-que-asumira-el-poder-abelardo-de-la-espriella-3575499",
       "source": "El Tiempo",
       "pubDate": "2026-08-01T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Petro le lanzó ‘dardos’ a Abelardo de la Espriella durante acto de entrega de archivos desclasificados del DAS a familiares de Jaime Garzón: “De nuevo viene una violencia desde arriba”",
-      "link": "https://www.infobae.com/colombia/2026/07/31/petro-le-lanzo-dardos-a-abelardo-de-la-esprilla-durante-acto-de-entrega-de-archivos-desclasificados-del-das-a-familiares-de-jaime-garzon-de-nuevo-viene-una-violencia-desde-arriba/",
-      "source": "Infobae",
-      "pubDate": "Sun, 02 Aug 2026 02:55:49 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
