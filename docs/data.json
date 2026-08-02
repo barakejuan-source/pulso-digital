@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T06:37:45.294Z",
+  "updatedAt": "2026-08-02T10:01:58.583Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 8,
+      "trendsScore": 7,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 3,
       "momentum": {
-        "value": -25,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 3.7
@@ -46,14 +46,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Abelardo de la Espriella regaló biblias a sus ministros durante retiro espiritual previo a la posesión",
-      "link": "https://www.infobae.com/colombia/2026/08/02/abelardo-de-la-espriella-regalo-biblias-a-sus-ministros-durante-retiro-espiritual-previo-a-la-posesion/",
-      "source": "Infobae",
-      "pubDate": "Sun, 02 Aug 2026 04:40:36 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
     {
       "title": "Todo listo en Cali para la posesión presidencial: los detalles de la ceremonia en la que asumirá el poder Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/todo-listo-en-cali-para-la-posesion-presidencial-los-detalles-de-la-ceremonia-en-la-que-asumira-el-poder-abelardo-de-la-espriella-3575499",
