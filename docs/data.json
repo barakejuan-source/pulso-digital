@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T15:06:24.929Z",
+  "updatedAt": "2026-08-02T17:04:56.538Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -8,20 +8,20 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 7,
-      "youtubeScore": 0,
-      "sentimentScore": 0,
+      "youtubeScore": 100,
+      "sentimentScore": 2,
       "sentimentPct": {
-        "positive": 0,
-        "negative": 0,
-        "neutral": 0
+        "positive": 2,
+        "negative": 78,
+        "neutral": 20
       },
-      "youtubeViews": 0,
-      "finalScore": 3,
+      "youtubeViews": 106081,
+      "finalScore": 33,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": 1000,
+        "direction": "up"
       },
-      "probability": 3.7
+      "probability": 37.5
     },
     {
       "id": "abelardo_espriella",
@@ -29,44 +29,28 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 100,
-      "sentimentScore": 28,
+      "youtubeScore": 31,
+      "sentimentScore": 20,
       "sentimentPct": {
-        "positive": 28,
-        "negative": 38,
-        "neutral": 34
+        "positive": 20,
+        "negative": 52,
+        "neutral": 28
       },
-      "youtubeViews": 165103,
-      "finalScore": 78,
+      "youtubeViews": 29804,
+      "finalScore": 55,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -29.5,
+        "direction": "down"
       },
-      "probability": 96.3
+      "probability": 62.5
     }
   ],
   "articles": [
     {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: el presidente electo podría estar en problemas legales por interpretar su propia versión del himno nacional ",
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: el general Wilson Cháwez, que lidera el empalme con las Fuerzas Militares, fue mencionado en investigación de alias Matamba",
       "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
       "source": "Infobae",
-      "pubDate": "Sun, 02 Aug 2026 14:32:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Isabel Zuleta se volvió a despachar contra Abelardo de la Espriella: “Volvemos a un Estado capturado por los grandes empresarios”",
-      "link": "https://www.infobae.com/colombia/2026/08/02/isabel-zuleta-se-volvio-a-despachar-contra-abelardo-de-la-espriella-volvemos-a-un-estado-capturado-por-los-grandes-empresarios/",
-      "source": "Infobae",
-      "pubDate": "Sun, 02 Aug 2026 14:22:15 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella cantó su versión del himno de Colombia y generó múltiples críticas: podría estar incumpliendo la ley ",
-      "link": "https://www.infobae.com/colombia/2026/08/02/abelardo-de-la-espriella-canto-su-version-del-himno-de-colombia-y-genero-multiples-criticas-podria-estar-incumpliendo-la-ley/",
-      "source": "Infobae",
-      "pubDate": "Sun, 02 Aug 2026 14:13:51 +0000",
+      "pubDate": "Sun, 02 Aug 2026 16:04:02 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
