@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-03T17:54:53.565Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-03T19:43:26.363Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 7,
+      "trendsScore": 9,
       "youtubeScore": 100,
       "sentimentScore": 2,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 20
       },
       "youtubeViews": 106081,
-      "finalScore": 33,
+      "finalScore": 34,
       "momentum": {
-        "value": 0,
+        "value": 3,
         "direction": "flat"
       },
-      "probability": 37.9
+      "probability": 38.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,15 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 62.1
+      "probability": 61.4
     }
   ],
   "articles": [
     {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: el presidente electo afirmó que se garantizará los ingresos de adulto mayor para 2026 ",
-      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
-      "source": "Infobae",
-      "pubDate": "Mon, 03 Aug 2026 17:39:04 +0000",
+      "title": "Carlos Suárez: 'El presidente es Abelardo De La Espriella. Trece millones lo eligieron y nadie tiene por qué desconocer la figura presidencial'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/carlos-suarez-el-presidente-es-abelardo-de-la-espriella-trece-millones-lo-eligieron-y-nadie-tiene-por-que-desconocer-la-figura-presidencial-3575847",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-03T14:04:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,22 +59,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-no-invito-a-ernesto-samper-ni-a-juan-manuel-santos-a-su-posesion-presidencial-3575824",
       "source": "El Tiempo",
       "pubDate": "2026-08-03T12:31:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Federico Gutiérrez salió en defensa del retiro espiritual de Abelardo de la Espriella: “Nos quieren hacer creer que ya hasta creer en Dios es pecado”",
-      "link": "https://www.infobae.com/colombia/2026/08/03/federico-gutierrez-salio-en-defensa-del-retiro-espiritual-de-abelardo-de-la-espriella-nos-quieren-hacer-creer-que-ya-hasta-creer-en-dios-es-pecado/",
-      "source": "Infobae",
-      "pubDate": "Mon, 03 Aug 2026 17:15:33 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Petro alertó por supuesto plan criminal para decretar conmoción interior tras posesión de Abelardo de la Espriella: “Sabemos de toneladas de explosivos en Cali”",
-      "link": "https://www.infobae.com/colombia/2026/08/03/petro-alerto-por-supuesto-plan-criminal-para-decretar-conmocion-interior-tras-posesion-de-abelardo-de-la-espriella-sabemos-de-toneladas-de-explosivos-en-cali/",
-      "source": "Infobae",
-      "pubDate": "Mon, 03 Aug 2026 17:03:28 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -91,30 +75,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/alocucion-de-abelardo-de-la-espriella-de-agosto-posesion-en-cali-aumento-de-subsidios-para-los-adultos-mayores-y-demas-anuncios-3575746",
       "source": "El Tiempo",
       "pubDate": "2026-08-03T10:43:29-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella hoy 3 de agosto: presidente electo señaló que aumentará a 400.000 pesos mensuales el subsidio de Colombia Mayor",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-3-de-agosto-presidente-electo-nombra-a-los-18-ministros-que-conformaran-su-gabinete-nueve-son-hombres-y-nueve-mujeres-3575719",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-03T08:31:48-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella anunció que aumentará a 400 mil pesos mensuales el subsidio de Colombia Mayor: alertó que faltan recursos para próximos pagos",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-anuncio-que-aumentara-a-400-mil-pesos-mensuales-el-subsidio-de-colombia-mayor-alerta-que-faltan-recursos-para-proximos-pagos-3575730",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-03T08:22:32-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella completa su gabinete a pocos días de su posesión: estos son los perfiles de sus 18 ministros",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-completa-su-gabinete-a-pocos-dias-de-su-posesion-estos-son-los-perfiles-de-sus-ministros-3575714",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-03T07:53:24-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
