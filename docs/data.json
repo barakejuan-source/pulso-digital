@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-02T22:59:51.293Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-03T03:20:54.705Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,58 @@
   ],
   "articles": [
     {
-      "title": "Así fue el 'retiro espiritual' del presidente electo Abelardo De La Espriella y su gabinete designado",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-fue-el-retiro-espiritual-del-presidente-electo-abelardo-de-la-espriella-y-su-gabinete-designado-3575623",
+      "title": "Nueva ministra de Ciencia del gobierno entrante",
+      "link": "https://www.eltiempo.com/politica/gobierno/nueva-ministra-de-ciencia-del-gobierno-entrante-3575699",
       "source": "El Tiempo",
-      "pubDate": "2026-08-02T17:48:25-05:00",
+      "pubDate": "2026-08-02T21:49:15-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: representante del Centro Democrático pidió al presidente electo derogar las Áreas de Reserva Temporal de Recursos Naturales",
+      "title": "Posesión de Abelardo de la Espriella: los momentos más importantes de la jornada",
+      "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
+      "source": "Infobae",
+      "pubDate": "Mon, 03 Aug 2026 02:38:53 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: Siga el minuto a minuto de la transición de gobierno y los nombramientos del nuevo gabinete antes del 7 de agosto",
       "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
       "source": "Infobae",
-      "pubDate": "Sun, 02 Aug 2026 22:36:40 +0000",
+      "pubDate": "Mon, 03 Aug 2026 02:18:33 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella nombra a Claudia Benavides Salazar como ministra de Ciencia y anuncia nuevas medidas",
+      "link": "https://www.eltiempo.com/politica/presidente-electo-abelardo-de-la-espriella-hace-anuncios-antes-de-asumir-la-presidencia-3575666",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-02T21:06:49-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella definió su ministra de Ciencia a través del Banco de Talentos: este es su perfil  ",
+      "link": "https://www.infobae.com/colombia/2026/08/03/abelardo-de-la-espriella-definio-su-ministra-de-ciencia-a-traves-del-banco-de-talentos-este-es-su-perfil/",
+      "source": "Infobae",
+      "pubDate": "Mon, 03 Aug 2026 01:57:20 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Alocución del presidente electo, Abelardo De La Espriella, 2 de agosto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/alocucion-del-presidente-electo-abelardo-de-la-espriella-2-de-agosto-3575677",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-02T20:34:47-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así fue el 'retiro espiritual' del presidente electo Abelardo De La Espriella y su gabinete designado",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-fue-el-retiro-espiritual-del-presidente-electo-abelardo-de-la-espriella-y-su-gabinete-designado-3575623",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-02T17:48:25-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -69,14 +109,6 @@
       "pubDate": "Sun, 02 Aug 2026 22:33:20 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Petro insiste en que hubo fraude electoral a solo cinco días de dejar la Casa de Nariño: “Colombia eligió a Iván Cepeda”",
-      "link": "https://www.infobae.com/colombia/2026/08/02/petro-insiste-en-que-hubo-fraude-electoral-a-solo-cinco-dias-de-dejar-la-casa-de-narino-colombia-eligio-a-ivan-cepeda/",
-      "source": "Infobae",
-      "pubDate": "Sun, 02 Aug 2026 22:29:28 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Termine la tarde con estas columnas de opinión recomendadas",
