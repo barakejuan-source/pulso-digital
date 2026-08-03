@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T14:47:32.348Z",
+  "updatedAt": "2026-08-03T17:54:53.565Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,28 +47,52 @@
   ],
   "articles": [
     {
-      "title": "Periodista cartagenero anunció que fue agredido mientras cubría evento de Iván Cepeda en Cartagena: “Me pellizcó, me dijo vendido”",
-      "link": "https://www.infobae.com/colombia/2026/08/03/periodista-cartagenero-anuncio-que-fue-agredido-mientras-cubria-evento-de-ivan-cepeda-en-cartagena-me-pellizco-me-dijo-vendido/",
-      "source": "Infobae",
-      "pubDate": "Mon, 03 Aug 2026 14:12:50 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: el rey de España y 9 jefes de estado han sido confirmados para la investidura de De la Espriella",
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: el presidente electo afirmó que se garantizará los ingresos de adulto mayor para 2026 ",
       "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
       "source": "Infobae",
-      "pubDate": "Mon, 03 Aug 2026 13:55:33 +0000",
+      "pubDate": "Mon, 03 Aug 2026 17:39:04 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella volvió a cuestionar a Iván Cepeda y a Gustavo Petro por anuncio de desobediencia civil: “Es un eufemismo para desestabilizar la democracia” ",
-      "link": "https://www.infobae.com/colombia/2026/08/03/abelardo-de-la-espriella-volvio-a-cuestionar-a-ivan-cepeda-y-a-gustavo-petro-por-anunciar-una-desobediencia-civil-es-un-eufemismo-para-desestabilizar-la-democracia/",
+      "title": "Abelardo De La Espriella no invitó a Ernesto Samper ni a Juan Manuel Santos a su posesión presidencial",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-no-invito-a-ernesto-samper-ni-a-juan-manuel-santos-a-su-posesion-presidencial-3575824",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-03T12:31:25-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Federico Gutiérrez salió en defensa del retiro espiritual de Abelardo de la Espriella: “Nos quieren hacer creer que ya hasta creer en Dios es pecado”",
+      "link": "https://www.infobae.com/colombia/2026/08/03/federico-gutierrez-salio-en-defensa-del-retiro-espiritual-de-abelardo-de-la-espriella-nos-quieren-hacer-creer-que-ya-hasta-creer-en-dios-es-pecado/",
       "source": "Infobae",
-      "pubDate": "Mon, 03 Aug 2026 13:53:04 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Mon, 03 Aug 2026 17:15:33 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Petro alertó por supuesto plan criminal para decretar conmoción interior tras posesión de Abelardo de la Espriella: “Sabemos de toneladas de explosivos en Cali”",
+      "link": "https://www.infobae.com/colombia/2026/08/03/petro-alerto-por-supuesto-plan-criminal-para-decretar-conmocion-interior-tras-posesion-de-abelardo-de-la-espriella-sabemos-de-toneladas-de-explosivos-en-cali/",
+      "source": "Infobae",
+      "pubDate": "Mon, 03 Aug 2026 17:03:28 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "CNE le da la personería jurídica a Defensores de la Patria: Abelardo De La Espriella se posesionará con partido propio",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/cne-le-da-la-personeria-juridica-a-defensores-de-la-patria-abelardo-de-la-espriella-se-posesionara-con-partido-propio-3575795",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-03T11:57:52-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Alocución de Abelardo De La Espriella de agosto: posesión en Cali, aumento de subsidios para los adultos mayores y demás anuncios",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/alocucion-de-abelardo-de-la-espriella-de-agosto-posesion-en-cali-aumento-de-subsidios-para-los-adultos-mayores-y-demas-anuncios-3575746",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-03T10:43:29-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Abelardo De La Espriella hoy 3 de agosto: presidente electo señaló que aumentará a 400.000 pesos mensuales el subsidio de Colombia Mayor",
@@ -87,14 +111,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Alocución de Abelardo De La Espriella de agosto: posesión en Cali, aumento de subsidios para los adultos mayores y demás anuncios",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/alocucion-de-abelardo-de-la-espriella-de-agosto-posesion-en-cali-aumento-de-subsidios-para-los-adultos-mayores-y-demas-anuncios-3575746",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-03T08:11:19-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Abelardo De La Espriella completa su gabinete a pocos días de su posesión: estos son los perfiles de sus 18 ministros",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-completa-su-gabinete-a-pocos-dias-de-su-posesion-estos-son-los-perfiles-de-sus-ministros-3575714",
       "source": "El Tiempo",
@@ -103,34 +119,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente electo, Abelardo De La Espriella, anuncia que su posesión presidencial costará menos de la mitad de la de Gustavo Petro en 2022",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-afirma-que-su-posesion-en-cali-sera-mas-austera-que-la-de-petro-en-2022-estos-fueron-sus-anuncios-antes-de-jurar-como-presidente-3575701",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-03T06:00:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella se pronunció sobre la sede presidencial alterna en Barranquilla: 'No se está construyendo un nuevo palacio'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-se-pronuncio-sobre-la-sede-presidencial-alterna-en-barranquilla-no-se-esta-construyendo-un-nuevo-palacio-3575704",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-02T22:55:46-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Colombia y la antesala a la investidura de Abelardo De la Espriella, entre polarización y polémica",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260802-colombia-y-la-antesala-a-la-investidura-de-abelardo-de-la-espriella-entre-polarizaci%C3%B3n-y-pol%C3%A9mica",
       "source": "France 24",
       "pubDate": "Sun, 02 Aug 2026 22:33:20 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Termine la tarde con estas columnas de opinión recomendadas",
-      "link": "https://www.lasillavacia.com/en-vivo/termine-la-tarde-con-estas-columnas-de-opinion-recomendadas/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 02 Aug 2026 22:20:27 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
