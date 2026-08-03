@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-03T03:20:54.705Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-03T07:32:27.008Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Nueva ministra de Ciencia del gobierno entrante",
-      "link": "https://www.eltiempo.com/politica/gobierno/nueva-ministra-de-ciencia-del-gobierno-entrante-3575699",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-02T21:49:15-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Posesión de Abelardo de la Espriella: los momentos más importantes de la jornada",
-      "link": "https://www.infobae.com/colombia/2026/07/25/en-vivo-posesion-presidencial-abelardo-de-la-espriella-siga-el-minuto-a-minuto-de-la-transicion-de-gobierno-empalme-y-nombramientos-de-gabinete/",
+      "title": "Petro criticó el retiro espiritual de Abelardo de la Espriella: “Falsos los cristianos que llevan odio en su corazón”",
+      "link": "https://www.infobae.com/colombia/2026/08/03/petro-critico-el-retiro-espiritual-de-abelardo-de-la-espriella-falsos-los-cristianos-que-llevan-odio-en-su-corazon/",
       "source": "Infobae",
-      "pubDate": "Mon, 03 Aug 2026 02:38:53 +0000",
+      "pubDate": "Mon, 03 Aug 2026 06:43:32 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,7 +58,31 @@
       "title": "Posesión de Abelardo de la Espriella EN VIVO: Siga el minuto a minuto de la transición de gobierno y los nombramientos del nuevo gabinete antes del 7 de agosto",
       "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
       "source": "Infobae",
-      "pubDate": "Mon, 03 Aug 2026 02:18:33 +0000",
+      "pubDate": "Mon, 03 Aug 2026 06:05:20 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella anuncia plan para recuperar las finanzas públicas y reconstruir la economía",
+      "link": "https://www.infobae.com/colombia/2026/08/03/abelardo-de-la-espriella-anuncia-plan-para-recuperar-las-finanzas-publicas-y-reconstruir-la-economia/",
+      "source": "Infobae",
+      "pubDate": "Mon, 03 Aug 2026 06:04:41 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella se pronunció sobre la sede presidencial alterna en Barranquilla: 'No se está construyendo un nuevo palacio'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-se-pronuncio-sobre-la-sede-presidencial-alterna-en-barranquilla-no-se-esta-construyendo-un-nuevo-palacio-3575704",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-02T22:55:46-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Nueva ministra de Ciencia del gobierno entrante",
+      "link": "https://www.eltiempo.com/politica/gobierno/nueva-ministra-de-ciencia-del-gobierno-entrante-3575699",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-02T21:49:15-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -79,26 +95,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella definió su ministra de Ciencia a través del Banco de Talentos: este es su perfil  ",
-      "link": "https://www.infobae.com/colombia/2026/08/03/abelardo-de-la-espriella-definio-su-ministra-de-ciencia-a-traves-del-banco-de-talentos-este-es-su-perfil/",
-      "source": "Infobae",
-      "pubDate": "Mon, 03 Aug 2026 01:57:20 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Alocución del presidente electo, Abelardo De La Espriella, 2 de agosto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/alocucion-del-presidente-electo-abelardo-de-la-espriella-2-de-agosto-3575677",
       "source": "El Tiempo",
       "pubDate": "2026-08-02T20:34:47-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así fue el 'retiro espiritual' del presidente electo Abelardo De La Espriella y su gabinete designado",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-fue-el-retiro-espiritual-del-presidente-electo-abelardo-de-la-espriella-y-su-gabinete-designado-3575623",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-02T17:48:25-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
