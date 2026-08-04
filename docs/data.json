@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-03T23:05:59.006Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-04T02:50:10.567Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 106081,
       "finalScore": 35,
       "momentum": {
-        "value": 2.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 39.3
@@ -47,18 +47,34 @@
   ],
   "articles": [
     {
-      "title": "CNE otorgó personería jurídica al movimiento Defensores de la Patria, de Abelardo de la Espriella: así se celebró la decisión",
-      "link": "https://www.infobae.com/colombia/2026/08/03/cne-otorgo-personeria-juridica-al-movimiento-defensores-de-la-patria-de-abelardo-de-la-espriella-asi-se-celebro-la-decision/",
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: el mandatario electo confirmó que la ceremonia presidencial no será transmitida por RTVC",
+      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
       "source": "Infobae",
-      "pubDate": "Mon, 03 Aug 2026 23:01:38 +0000",
+      "pubDate": "Tue, 04 Aug 2026 02:32:25 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: estos son algunos de los afiliados al nuevo partido Defensores de la Patria tras obtener personería jurídica del CNE",
-      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
+      "title": "La Policía Nacional desplegará 6.326 uniformados para la posesión presidencial de Abelardo de la Espriella en Cali",
+      "link": "https://www.infobae.com/colombia/2026/08/04/la-policia-nacional-desplegara-6326-uniformados-para-la-posesion-presidencial-de-abelardo-de-la-espriella-en-cali/",
       "source": "Infobae",
-      "pubDate": "Mon, 03 Aug 2026 22:57:07 +0000",
+      "pubDate": "Tue, 04 Aug 2026 02:02:43 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Pacto Histórico demandará la personería jurídica otorgada a Defensores por la Patria por el CNE",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/pacto-historico-demandara-la-personeria-juridica-otorgada-a-defensores-por-la-patria-por-el-cne-3575930",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-03T20:24:08-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Duerma informado con las claves de este 3 de agosto de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-3-de-agosto-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 04 Aug 2026 00:18:30 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -79,22 +95,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "La Contraloría alertó por el millonario ‘descuadre’ que le dejaría Gustavo Petro a Abelardo de la Espriella en el Presupuesto de 2027",
-      "link": "https://www.infobae.com/colombia/2026/08/03/la-contraloria-alerto-por-el-millonario-descuadre-que-le-dejaria-gustavo-petro-a-abelardo-de-la-espriella-en-el-presupuesto-de-2027/",
-      "source": "Infobae",
-      "pubDate": "Mon, 03 Aug 2026 22:06:23 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Juliana Gutiérrez Zuluaga",
-      "link": "https://www.lasillavacia.com/quien-es-quien/juliana-gutierrez-zuluaga/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 03 Aug 2026 22:03:29 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Gobierno Petro publica las hojas de vida de los ministros de Abelardo De La Espriella: es un requisito para que se puedan posesionar el 7 de agosto",
       "link": "https://www.eltiempo.com/politica/gobierno/gobierno-petro-publica-las-hojas-de-vida-de-los-ministros-de-abelardo-de-la-espriella-es-un-requisito-para-que-se-puedan-posesionar-el-7-de-agosto-3575884",
       "source": "El Tiempo",
@@ -107,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-sera-la-posesion-del-presidente-electo-abelardo-de-la-espriella-lugar-hora-invitados-y-todo-lo-que-se-sabe-de-la-ceremonia-3575747",
       "source": "El Tiempo",
       "pubDate": "2026-08-03T15:18:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Carlos Suárez: 'El presidente es Abelardo De La Espriella. Trece millones lo eligieron y nadie tiene por qué desconocer la figura presidencial'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/carlos-suarez-el-presidente-es-abelardo-de-la-espriella-trece-millones-lo-eligieron-y-nadie-tiene-por-que-desconocer-la-figura-presidencial-3575847",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-03T14:04:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
