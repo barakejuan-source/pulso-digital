@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-04T06:31:39.043Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-04T10:44:10.053Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 10,
+      "trendsScore": 13,
       "youtubeScore": 100,
       "sentimentScore": 2,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 20
       },
       "youtubeViews": 106081,
-      "finalScore": 35,
+      "finalScore": 36,
       "momentum": {
-        "value": 0,
+        "value": 2.9,
         "direction": "flat"
       },
-      "probability": 39.3
+      "probability": 40
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,31 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 60.7
+      "probability": 60
     }
   ],
   "articles": [
     {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: el mandatario electo confirmó que la ceremonia presidencial no será transmitida por RTVC",
-      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
-      "source": "Infobae",
-      "pubDate": "Tue, 04 Aug 2026 05:14:57 +0000",
+      "title": "Abelardo De La Espriella hoy 4 de agosto: mandatario electo se reunió con Mauricio Gómez y el presidente de Fenalco para construir el 'Plan Tenderos'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-4-de-agosto-mandatario-electo-se-reunio-con-mauricio-gomez-y-el-presidente-de-fenalco-para-construir-el-plan-tenderos-3575980",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-04T05:07:07-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella pide a la ADR frenar contrato de $10.500 millones con Aldesarrollo y advierte acudir a la Fiscalía",
-      "link": "https://www.infobae.com/colombia/2026/08/04/abelardo-de-la-espriella-pide-a-la-adr-frenar-contrato-de-10500-millones-con-aldesarrollo-y-advierte-acudir-a-la-fiscalia/",
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: el mandatario electo confirmó que la ceremonia presidencial no será transmitida por RTVC",
+      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
       "source": "Infobae",
-      "pubDate": "Tue, 04 Aug 2026 05:13:24 +0000",
+      "pubDate": "Tue, 04 Aug 2026 10:02:45 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella anuncia ‘Plan Tenderos’ con Fenalco: busca modernizar más de 500.000 tiendas de barrio",
+      "link": "https://www.infobae.com/colombia/2026/08/04/abelardo-de-la-espriella-anuncia-plan-tenderos-con-fenalco-busca-modernizar-mas-de-500000-tiendas-de-barrio/",
+      "source": "Infobae",
+      "pubDate": "Tue, 04 Aug 2026 10:01:30 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
