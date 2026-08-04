@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-04T14:24:44.175Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-04T17:52:40.016Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 13,
+      "trendsScore": 11,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 5,
+      "finalScore": 4,
       "momentum": {
-        "value": -86.1,
-        "direction": "down"
+        "value": -20,
+        "direction": "flat"
       },
-      "probability": 5.7
+      "probability": 4.7
     },
     {
       "id": "abelardo_espriella",
@@ -39,18 +39,66 @@
       "youtubeViews": 61393,
       "finalScore": 82,
       "momentum": {
-        "value": 51.9,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 94.3
+      "probability": 95.3
     }
   ],
   "articles": [
     {
-      "title": "Abelardo De La Espriella hoy 4 de agosto: el expresidente Álvaro Uribe analiza su asistencia a la posesión prevista para el 7 de agosto en Cali",
+      "title": "Presidente de Ecuador, Daniel Noboa, confirmó su asistencia a la posesión de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/08/04/presidente-de-ecuador-daniel-noboa-confirmo-su-asistencia-a-la-posesion-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Tue, 04 Aug 2026 17:48:08 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Carlos Antonio Vélez se enfureció por la presencia de Gianni Infantino en la posesión de Abelardo de la Espriella: “Pierde el presidente electo” ",
+      "link": "https://www.infobae.com/colombia/2026/08/04/carlos-antonio-velez-se-enfurecio-por-la-presencia-de-gianni-infantino-en-la-posesion-de-abelardo-de-la-espriella-pierde-el-presidente-electo/",
+      "source": "Infobae",
+      "pubDate": "Tue, 04 Aug 2026 17:35:59 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: más de 6.000 policías y equipos especializados refuerzan la seguridad en Cali para la posesión  ",
+      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
+      "source": "Infobae",
+      "pubDate": "Tue, 04 Aug 2026 17:30:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Alejandro Ordóñez, quien sancionó a Gustavo Petro cuando era Procurador, será el embajador de Abelardo de la Espriella ante la OEA",
+      "link": "https://www.infobae.com/colombia/2026/08/04/alejandro-ordonez-quien-sanciono-a-gustavo-petro-cuando-era-procurador-sera-el-embajador-de-abelardo-de-la-espriella-ante-la-oea/",
+      "source": "Infobae",
+      "pubDate": "Tue, 04 Aug 2026 17:24:02 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Estos fueron los creadores del movimiento Defensores de la Patria, ahora convertido en el partido político de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/08/04/estos-fueron-los-creadores-del-movimiento-defensores-de-la-patria-ahora-convertido-en-el-partido-politico-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Tue, 04 Aug 2026 17:19:55 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella hoy 4 de agosto: Dumek Turbay, alcalde de Cartagena, participa en la Cumbre Nacional de Seguridad Urbana en Barranquilla",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-4-de-agosto-mandatario-electo-se-reunio-con-mauricio-gomez-y-el-presidente-de-fenalco-para-construir-el-plan-tenderos-3575980",
       "source": "El Tiempo",
-      "pubDate": "2026-08-04T09:22:41-05:00",
+      "pubDate": "2026-08-04T11:47:33-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Expresidente Álvaro Uribe analiza asistencia a posesión de Abelardo De La Espriella, prevista para el 7 de agosto en Cali: 'Mi situación no es fácil'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/expresidente-alvaro-uribe-no-asistiria-a-la-posesion-de-abelardo-de-la-espriella-prevista-para-el-7-de-agosto-en-cali-mi-situacion-no-es-facil-3576003",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-04T11:38:44-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,31 +106,7 @@
       "title": "Lo que se sabe de la eventual presencia de Marco Rubio en la posesión presidencial de Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/lo-que-se-sabe-de-la-eventual-presencia-de-marco-rubio-en-la-posesion-presidencial-de-abelardo-de-la-espriella-3576015",
       "source": "El Tiempo",
-      "pubDate": "2026-08-04T09:19:55-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno Petro publicó las hojas de vida de los ministros designados por Abelardo de la Espriella: esta es la razón ",
-      "link": "https://www.infobae.com/colombia/2026/08/04/por-que-el-gobierno-petro-publico-las-hojas-de-vida-de-los-ministros-designados-por-abelardo-de-la-espriella-esta-es-la-razon/",
-      "source": "Infobae",
-      "pubDate": "Tue, 04 Aug 2026 14:19:15 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: el Tribunal de Cundinamarca estudia solicitud para suspender la posesión en Cali  ",
-      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
-      "source": "Infobae",
-      "pubDate": "Tue, 04 Aug 2026 14:16:10 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Estos serían los primeros miembros de la cúpula militar de Fuerzas Militares en el gobierno de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/08/04/estos-serian-los-primeros-miembros-de-la-cupula-militar-de-fuerzas-militares-en-el-gobierno-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Tue, 04 Aug 2026 14:05:45 +0000",
+      "pubDate": "2026-08-04T10:33:40-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -91,14 +115,6 @@
       "link": "https://www.lasillavacia.com/en-vivo/alvaro-uribe-no-ira-a-la-posesion-de-abelardo-de-la-espriella/",
       "source": "La Silla Vacía",
       "pubDate": "Tue, 04 Aug 2026 13:43:02 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Expresidente Álvaro Uribe analiza asistencia a posesión de Abelardo De La Espriella, prevista para el 7 de agosto en Cali: 'Mi situación no es fácil'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/expresidente-alvaro-uribe-no-asistiria-a-la-posesion-de-abelardo-de-la-espriella-prevista-para-el-7-de-agosto-en-cali-mi-situacion-no-es-facil-3576003",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-04T08:35:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -115,22 +131,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/pacto-historico-demandara-la-personeria-juridica-otorgada-a-defensores-por-la-patria-por-el-cne-3575930",
       "source": "El Tiempo",
       "pubDate": "2026-08-03T20:24:08-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Duerma informado con las claves de este 3 de agosto de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-3-de-agosto-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 04 Aug 2026 00:18:30 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Disidentes que ingresaron a la ZUT en Putumayo piden a Abelardo De La Espriella dar continuidad a su proceso de reincorporación: 'Solicitamos diálogo'",
-      "link": "https://www.eltiempo.com/politica/proceso-de-paz/disidentes-que-ingresaron-a-la-zut-en-putumayo-piden-a-abelardo-de-la-espriella-dar-continuidad-a-su-proceso-de-reincorporacion-solicitamos-dialogo-3575902",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-03T17:07:01-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
