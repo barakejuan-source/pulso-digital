@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T21:15:39.551Z",
+  "updatedAt": "2026-08-05T23:04:12.386Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 11,
+      "trendsScore": 12,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 4,
+      "finalScore": 5,
       "momentum": {
-        "value": -20,
+        "value": 25,
         "direction": "flat"
       },
-      "probability": 4.7
+      "probability": 5.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,33 +42,41 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 95.3
+      "probability": 94.3
     }
   ],
   "articles": [
     {
-      "title": "En medio de la tensión diplomática con Brasil, Javier Milei viaja esta noche a Ecuador y a Colombia",
-      "link": "https://www.infobae.com/politica/2026/08/05/en-medio-de-la-tension-diplomatica-con-brasil-javier-milei-viaja-esta-noche-a-ecuador-y-a-colombia/",
-      "source": "Infobae",
-      "pubDate": "Wed, 05 Aug 2026 21:10:11 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Estados Unidos confirmó los delegados que participarán en la posesión presidencial de Abelardo de la Espriella: hay novedades",
       "link": "https://www.infobae.com/colombia/2026/08/05/estados-unidos-confirmo-los-delegados-que-participaran-en-la-posesion-presidencial-de-abelardo-de-la-espriella-hay-novedades/",
       "source": "Infobae",
-      "pubDate": "Wed, 05 Aug 2026 21:02:05 +0000",
+      "pubDate": "Wed, 05 Aug 2026 22:56:15 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Listo el robusto plan de seguridad para el aeropuerto de Cali y puntos clave por la posesión de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/08/05/listo-el-robusto-plan-de-seguridad-para-el-aeropuerto-de-cali-y-puntos-clave-por-la-posesion-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Wed, 05 Aug 2026 20:56:09 +0000",
+      "title": "Los mensajes que envía la lista de no invitados a la posesión de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-mensajes-que-envia-la-lista-de-no-invitados-a-la-posesion-de-abelardo-de-la-espriella-3576501",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-05T17:53:18-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "No habrá ceremonia de condecoración de Gustavo Petro a Abelardo De La Espriella: las consecuencias de la ruptura de la costumbre presidencial",
+      "link": "https://www.eltiempo.com/politica/gobierno/no-habra-ceremonia-de-condecoracion-de-gustavo-petro-a-abelardo-de-la-espriella-las-consecuencias-de-la-ruptura-de-la-costumbre-presidencial-3576461",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-05T17:42:22-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El mayor riesgo para las elecciones de 2027 ya se vio en la segunda vuelta de 2026: así influyeron los grupos armados en territorios, según informe",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/el-mayor-riesgo-para-las-elecciones-de-2027-ya-se-vio-en-la-segunda-vuelta-de-2026-asi-influyeron-los-grupos-armados-en-territorios-segun-informe-3576423",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-05T16:40:12-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Colombia: ¿podrá De la Espriella cumplir su promesa de eliminar la JEP?",
@@ -79,52 +87,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella tendría que cobrar más de $50 billones en impuestos para arreglar el descuadre de dinero que le deja Gustavo Petro",
-      "link": "https://www.infobae.com/colombia/2026/08/05/abelardo-de-la-espriella-tendria-que-cobrar-mas-de-50-billones-en-impuestos-para-arreglar-el-descuadre-de-dinero-que-le-deja-gustavo-petro/",
-      "source": "Infobae",
-      "pubDate": "Wed, 05 Aug 2026 20:40:28 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: Colombia dejaría de ser parte de la ruta de la seda para alinearse con Estados Unidos ",
-      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
-      "source": "Infobae",
-      "pubDate": "Wed, 05 Aug 2026 20:39:10 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "No habrá ceremonia de condecoración de Gustavo Petro a Abelardo De La Espriella: las consecuencias de la ruptura de la costumbre presidencial",
-      "link": "https://www.eltiempo.com/politica/gobierno/no-habra-ceremonia-de-condecoracion-de-gustavo-petro-a-abelardo-de-la-espriella-las-consecuencias-de-la-ruptura-de-la-costumbre-presidencial-3576461",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-05T15:37:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El mayor riesgo para las elecciones de 2027 ya se vio en la segunda vuelta de 2026: así influyeron los grupos armados en territorios, según informe",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/el-mayor-riesgo-para-las-elecciones-de-2027-ya-se-vio-en-la-segunda-vuelta-de-2026-asi-influyeron-los-grupos-armados-en-territorios-segun-informe-3576423",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-05T15:35:22-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "El presidente electo Abelardo De La Espriella celebró la designación de Diego Mesa Puyo como presidente del Fondo para el Medio Ambiente Mundial (GEF)",
       "link": "https://www.eltiempo.com/politica/el-presidente-electo-abelardo-de-la-espriella-celebro-la-designacion-de-diego-mesa-puyo-como-presidente-del-fondo-para-el-medio-ambiente-mundial-gef-3576444",
       "source": "El Tiempo",
       "pubDate": "2026-08-05T15:04:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Policía alerta a Congreso por concentraciones en Bogotá durante la posesión",
-      "link": "https://www.lasillavacia.com/en-vivo/policia-alerta-a-congreso-por-concentraciones-en-bogota-durante-la-posesion/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 05 Aug 2026 19:03:29 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Álvaro Uribe plantea bajar impuestos y reducir el tamaño del Estado para reactivar la economía: 'Tarea que el Centro Democrático apoyará'",
