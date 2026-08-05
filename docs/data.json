@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-05T19:41:09.277Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-05T21:15:39.551Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 12,
+      "trendsScore": 11,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 5,
+      "finalScore": 4,
       "momentum": {
-        "value": 0,
+        "value": -20,
         "direction": "flat"
       },
-      "probability": 5.7
+      "probability": 4.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,47 +42,79 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 94.3
+      "probability": 95.3
     }
   ],
   "articles": [
     {
-      "title": "JEE acepta renuncia de Luis Rubio: Rafael López Aliaga asumiría la alcaldía de Lima si Renovación Popular gana",
-      "link": "https://www.infobae.com/peru/2026/08/05/jee-acepta-renuncia-de-luis-rubio-rafael-lopez-aliaga-asumiria-la-alcaldia-de-lima-si-renovacion-popular-gana/",
+      "title": "En medio de la tensión diplomática con Brasil, Javier Milei viaja esta noche a Ecuador y a Colombia",
+      "link": "https://www.infobae.com/politica/2026/08/05/en-medio-de-la-tension-diplomatica-con-brasil-javier-milei-viaja-esta-noche-a-ecuador-y-a-colombia/",
       "source": "Infobae",
-      "pubDate": "Wed, 05 Aug 2026 19:37:50 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Wed, 05 Aug 2026 21:10:11 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Estados Unidos confirmó los delegados que participarán en la posesión presidencial de Abelardo de la Espriella: hay novedades",
+      "link": "https://www.infobae.com/colombia/2026/08/05/estados-unidos-confirmo-los-delegados-que-participaran-en-la-posesion-presidencial-de-abelardo-de-la-espriella-hay-novedades/",
+      "source": "Infobae",
+      "pubDate": "Wed, 05 Aug 2026 21:02:05 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Listo el robusto plan de seguridad para el aeropuerto de Cali y puntos clave por la posesión de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/08/05/listo-el-robusto-plan-de-seguridad-para-el-aeropuerto-de-cali-y-puntos-clave-por-la-posesion-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Wed, 05 Aug 2026 20:56:09 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia: ¿podrá De la Espriella cumplir su promesa de eliminar la JEP?",
+      "link": "https://www.france24.com/es/video/20260805-colombia-podr%C3%A1-de-la-espriella-cumplir-su-promesa-de-eliminar-la-jep",
+      "source": "France 24",
+      "pubDate": "Wed, 05 Aug 2026 20:52:42 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella tendría que cobrar más de $50 billones en impuestos para arreglar el descuadre de dinero que le deja Gustavo Petro",
+      "link": "https://www.infobae.com/colombia/2026/08/05/abelardo-de-la-espriella-tendria-que-cobrar-mas-de-50-billones-en-impuestos-para-arreglar-el-descuadre-de-dinero-que-le-deja-gustavo-petro/",
+      "source": "Infobae",
+      "pubDate": "Wed, 05 Aug 2026 20:40:28 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: Colombia dejaría de ser parte de la ruta de la seda para alinearse con Estados Unidos ",
+      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
+      "source": "Infobae",
+      "pubDate": "Wed, 05 Aug 2026 20:39:10 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "No habrá ceremonia de condecoración de Gustavo Petro a Abelardo De La Espriella: las consecuencias de la ruptura de la costumbre presidencial",
+      "link": "https://www.eltiempo.com/politica/gobierno/no-habra-ceremonia-de-condecoracion-de-gustavo-petro-a-abelardo-de-la-espriella-las-consecuencias-de-la-ruptura-de-la-costumbre-presidencial-3576461",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-05T15:37:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "El mayor riesgo para las elecciones de 2027 ya se vio en la segunda vuelta de 2026: así influyeron los grupos armados en territorios, según informe",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/el-mayor-riesgo-para-las-elecciones-de-2027-ya-se-vio-en-la-segunda-vuelta-de-2026-asi-influyeron-los-grupos-armados-en-territorios-segun-informe-3576423",
       "source": "El Tiempo",
-      "pubDate": "2026-08-05T14:18:04-05:00",
+      "pubDate": "2026-08-05T15:35:22-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Abelardo de la Espriella nombró cónsul general en Madrid: Paulina Estrada, coordinadora internacional de su campaña, quedará a cargo",
-      "link": "https://www.infobae.com/colombia/2026/08/05/abelardo-de-la-espriella-nombro-consul-general-en-madrid-paulina-estrada-coordinadora-internacional-de-su-campana-quedara-a-cargo/",
-      "source": "Infobae",
-      "pubDate": "Wed, 05 Aug 2026 19:11:24 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Congresistas de la Alianza Verde anunciaron que no asistirán a la posesión de Abelardo de la Espriella: estarán en la manifestación en Puerto Resistencia con el petrismo",
-      "link": "https://www.infobae.com/colombia/2026/08/05/congresistas-de-la-alianza-verde-anunciaron-que-no-asistiran-a-la-posesion-de-abelardo-de-la-espriella-estaran-en-la-manifestacion-en-puerto-resistencia-con-el-petrismo/",
-      "source": "Infobae",
-      "pubDate": "Wed, 05 Aug 2026 19:10:55 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Confirmados los dos presentadores de la transmisión de la posesión de Abelardo de la Espriella en Cali: la producción será de RCN",
-      "link": "https://www.infobae.com/colombia/2026/08/05/confirmados-los-dos-presentadores-de-la-transmision-de-la-posesion-de-abelardo-de-la-espriella-en-cali-la-produccion-sera-de-rcn/",
-      "source": "Infobae",
-      "pubDate": "Wed, 05 Aug 2026 19:04:17 +0000",
+      "title": "El presidente electo Abelardo De La Espriella celebró la designación de Diego Mesa Puyo como presidente del Fondo para el Medio Ambiente Mundial (GEF)",
+      "link": "https://www.eltiempo.com/politica/el-presidente-electo-abelardo-de-la-espriella-celebro-la-designacion-de-diego-mesa-puyo-como-presidente-del-fondo-para-el-medio-ambiente-mundial-gef-3576444",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-05T15:04:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -93,22 +125,6 @@
       "pubDate": "Wed, 05 Aug 2026 19:03:29 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo De La Espriella hoy 5 de agosto: tras informe del Empalme Anticorrupción, denuncia presuntas irregularidades por $370.000 millones",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-5-de-agosto-presidente-electo-reitero-que-combatira-la-criminalidad-desmantelando-las-estructuras-delincuenciales-3576278",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-05T11:35:51-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia saldrá de la Iniciativa de la Franja que firmó con China",
-      "link": "https://www.lasillavacia.com/en-vivo/abelardo-dijo-a-ee-uu-que-saldra-de-la-iniciativa-de-la-franja-con-china/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 05 Aug 2026 16:34:03 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Álvaro Uribe plantea bajar impuestos y reducir el tamaño del Estado para reactivar la economía: 'Tarea que el Centro Democrático apoyará'",
