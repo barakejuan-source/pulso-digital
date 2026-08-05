@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T23:07:05.785Z",
+  "updatedAt": "2026-08-05T02:47:30.769Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,50 @@
   ],
   "articles": [
     {
-      "title": "La auditoría internacional que desmiente a Petro: descarta manipulación de datos en la segunda vuelta presidencial de 2026",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/auditoria-internacional-descarta-manipulacion-de-datos-en-la-segunda-vuelta-presidencial-de-3576103",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-04T17:41:54-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Inravisión le salió al paso a los señalamientos sobre supuesta negativa a producir y transmitir la posesión de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/08/05/inravision-le-salio-al-paso-a-los-senalamientos-sobre-supuesta-negativa-a-producir-y-transmitir-la-posesion-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Wed, 05 Aug 2026 02:17:49 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: el presidente electo confirmó el regreso del general Alejandro Barrera como nuevo director de la Policía Nacional",
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: el presidente electo confirmó el regreso del general Alejandro Barrera como nuevo director de la Policía Nacional ",
       "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
       "source": "Infobae",
-      "pubDate": "Tue, 04 Aug 2026 22:24:30 +0000",
+      "pubDate": "Wed, 05 Aug 2026 02:16:35 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Expresidente del Congreso le pidió a Álvaro Uribe que asista a la posesión de Abelardo de la Espriella: “Colombia necesita gestos de unidad”",
+      "link": "https://www.infobae.com/colombia/2026/08/05/expresidente-del-congreso-le-pidio-a-alvaro-uribe-que-asista-a-la-posesion-de-abelardo-de-la-espriella-colombia-necesita-gestos-de-unidad/",
+      "source": "Infobae",
+      "pubDate": "Wed, 05 Aug 2026 02:13:22 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Duerma informado con las claves de este 4 de agosto de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-4-de-agosto-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 05 Aug 2026 00:01:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "'Veo a Abelardo De La Espriella jugado con las regiones': senador Héctor Olimpo Espinosa",
+      "link": "https://www.eltiempo.com/politica/congreso/veo-a-abelardo-de-la-espriella-jugado-con-las-regiones-senador-hector-olimpo-espinosa-3576197",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-04T17:53:26-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Paloma Valencia no fue invitada a la posesión presidencial de Abelardo De La Espriella en Cali",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/paloma-valencia-no-fue-invitada-a-la-posesion-presidencial-de-abelardo-de-la-espriella-en-cali-3576196",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-04T17:52:41-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -99,14 +131,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-define-la-cupula-de-la-policia-alejandro-barrera-dirigira-la-institucion-3576120",
       "source": "El Tiempo",
       "pubDate": "2026-08-04T14:34:44-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Lo que se sabe de la eventual presencia de Marco Rubio en la posesión presidencial de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/lo-que-se-sabe-de-la-eventual-presencia-de-marco-rubio-en-la-posesion-presidencial-de-abelardo-de-la-espriella-3576015",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-04T10:33:40-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
