@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-05T06:32:38.187Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-05T10:40:24.735Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 11,
+      "trendsScore": 12,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 4,
+      "finalScore": 5,
       "momentum": {
-        "value": 0,
+        "value": 25,
         "direction": "flat"
       },
-      "probability": 4.7
+      "probability": 5.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,7 +42,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 95.3
+      "probability": 94.3
     }
   ],
   "articles": [
@@ -50,7 +50,15 @@
       "title": "Posesión de Abelardo de la Espriella EN VIVO: el presidente electo confirmó el regreso del general Alejandro Barrera como nuevo director de la Policía Nacional  ",
       "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
       "source": "Infobae",
-      "pubDate": "Wed, 05 Aug 2026 04:16:33 +0000",
+      "pubDate": "Wed, 05 Aug 2026 10:07:23 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella hoy 5 de agosto: presidente electo reiteró que combatirá la criminalidad desmantelando las estructuras delincuenciales",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hoy-5-de-agosto-presidente-electo-reitero-que-combatira-la-criminalidad-desmantelando-las-estructuras-delincuenciales-3576278",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-05T05:02:03-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -83,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-explora-un-plan-paraconvertir-los-llanos-orientales-en-el-mato-grosso-colombiano-3576167",
       "source": "El Tiempo",
       "pubDate": "2026-08-04T16:57:10-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Centro Democrático explica las razones por las que expresidente Uribe no sabe si irá a posesión de Abelardo De La Espriella: no hay reserva política",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/centro-democratico-explica-las-razones-por-las-que-expresidente-uribe-no-sabe-si-ira-a-posesion-de-abelardo-de-la-espriella-no-hay-reserva-politica-3576114",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-04T16:37:53-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
