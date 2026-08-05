@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-05T02:47:30.769Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-05T06:32:38.187Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,26 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Inravisión le salió al paso a los señalamientos sobre supuesta negativa a producir y transmitir la posesión de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/08/05/inravision-le-salio-al-paso-a-los-senalamientos-sobre-supuesta-negativa-a-producir-y-transmitir-la-posesion-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Wed, 05 Aug 2026 02:17:49 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: el presidente electo confirmó el regreso del general Alejandro Barrera como nuevo director de la Policía Nacional ",
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: el presidente electo confirmó el regreso del general Alejandro Barrera como nuevo director de la Policía Nacional  ",
       "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
       "source": "Infobae",
-      "pubDate": "Wed, 05 Aug 2026 02:16:35 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Expresidente del Congreso le pidió a Álvaro Uribe que asista a la posesión de Abelardo de la Espriella: “Colombia necesita gestos de unidad”",
-      "link": "https://www.infobae.com/colombia/2026/08/05/expresidente-del-congreso-le-pidio-a-alvaro-uribe-que-asista-a-la-posesion-de-abelardo-de-la-espriella-colombia-necesita-gestos-de-unidad/",
-      "source": "Infobae",
-      "pubDate": "Wed, 05 Aug 2026 02:13:22 +0000",
+      "pubDate": "Wed, 05 Aug 2026 04:16:33 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
