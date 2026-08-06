@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T23:04:12.386Z",
+  "updatedAt": "2026-08-06T02:50:16.532Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 12,
+      "trendsScore": 13,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 5,
       "momentum": {
-        "value": 25,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 5.7
@@ -47,10 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Estados Unidos confirmó los delegados que participarán en la posesión presidencial de Abelardo de la Espriella: hay novedades",
-      "link": "https://www.infobae.com/colombia/2026/08/05/estados-unidos-confirmo-los-delegados-que-participaran-en-la-posesion-presidencial-de-abelardo-de-la-espriella-hay-novedades/",
+      "title": "Miguel Gómez Martínez se refirió a su relación con Abelardo de la Espriella: “Él dice que fue alumno mío. Es posible, pero yo no lo conocía”",
+      "link": "https://www.infobae.com/colombia/2026/08/06/miguel-gomez-martinez-se-refirio-a-su-relacion-con-abelardo-de-la-espriella-el-dice-que-fue-alumno-mio-es-posible-pero-yo-no-lo-conocia/",
       "source": "Infobae",
-      "pubDate": "Wed, 05 Aug 2026 22:56:15 +0000",
+      "pubDate": "Thu, 06 Aug 2026 02:43:46 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: Colombia dejaría de ser parte de ‘La Ruta de la Seda’ para alinearse con Estados Unidos   ",
+      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
+      "source": "Infobae",
+      "pubDate": "Thu, 06 Aug 2026 02:39:53 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El blindaje en el aeropuerto del Valle y otros puntos por la posesión de Abelardo De la Espriella en Cali: tres pelotones en la terminal aérea",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-blindaje-en-el-aeropuerto-del-valle-y-otros-puntos-por-la-posesion-de-abelardo-de-la-espriella-en-cali-tres-pelotones-en-la-terminal-aerea-3576538",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-05T21:31:07-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ministro de Hacienda designado de Abelardo De La Espriella anunció que nuevo Gobierno hará recorte en el gasto público: 'El más importante del país'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ministro-de-hacienda-designado-de-abelardo-de-la-espriella-anuncio-que-nuevo-gobierno-hara-recorte-en-el-gasto-publico-el-mas-importante-del-pais-3576540",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-05T21:05:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La razón por la que el senador estadounidense Bernie Moreno no asistiría a la posesión de Abelardo De La Espriella este 7 de agosto en Cali",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/la-razon-por-la-que-el-senador-estadounidense-bernie-moreno-no-asistiria-a-la-posesion-de-abelardo-de-la-espriella-este-7-de-agosto-en-cali-3576517",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-05T18:55:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -71,14 +103,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El mayor riesgo para las elecciones de 2027 ya se vio en la segunda vuelta de 2026: así influyeron los grupos armados en territorios, según informe",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/el-mayor-riesgo-para-las-elecciones-de-2027-ya-se-vio-en-la-segunda-vuelta-de-2026-asi-influyeron-los-grupos-armados-en-territorios-segun-informe-3576423",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-05T16:40:12-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Colombia: ¿podrá De la Espriella cumplir su promesa de eliminar la JEP?",
       "link": "https://www.france24.com/es/video/20260805-colombia-podr%C3%A1-de-la-espriella-cumplir-su-promesa-de-eliminar-la-jep",
       "source": "France 24",
@@ -91,22 +115,6 @@
       "link": "https://www.eltiempo.com/politica/el-presidente-electo-abelardo-de-la-espriella-celebro-la-designacion-de-diego-mesa-puyo-como-presidente-del-fondo-para-el-medio-ambiente-mundial-gef-3576444",
       "source": "El Tiempo",
       "pubDate": "2026-08-05T15:04:12-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Álvaro Uribe plantea bajar impuestos y reducir el tamaño del Estado para reactivar la economía: 'Tarea que el Centro Democrático apoyará'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/alvaro-uribe-plantea-bajar-impuestos-y-reducir-el-tamano-del-estado-para-reactivar-la-economia-tarea-que-el-centro-democratico-apoyara-3576355",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-05T10:49:04-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno electo de Abelardo De La Espriella denuncia ante Fiscalía, Contraloría y Procuraduría presuntas irregularidades por más de $370.000 millones",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-electo-de-abelardo-de-la-espriella-denuncia-ante-fiscalia-contraloria-y-procuraduria-presuntas-irregularidades-por-mas-de-370-000-millones-3576328",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-05T09:11:10-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
