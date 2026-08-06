@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T02:50:16.532Z",
+  "updatedAt": "2026-08-06T06:35:37.885Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,50 @@
   ],
   "articles": [
     {
-      "title": "Miguel Gómez Martínez se refirió a su relación con Abelardo de la Espriella: “Él dice que fue alumno mío. Es posible, pero yo no lo conocía”",
-      "link": "https://www.infobae.com/colombia/2026/08/06/miguel-gomez-martinez-se-refirio-a-su-relacion-con-abelardo-de-la-espriella-el-dice-que-fue-alumno-mio-es-posible-pero-yo-no-lo-conocia/",
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: Gobierno electo aclara polémica por la invitación de 11 países europeos",
+      "link": "https://www.infobae.com/colombia/2026/08/06/posesion-de-abelardo-de-la-espriella-en-vivo-gobierno-electo-aclara-polemica-por-la-invitacion-de-11-paises-europeos/",
       "source": "Infobae",
-      "pubDate": "Thu, 06 Aug 2026 02:43:46 +0000",
+      "pubDate": "Thu, 06 Aug 2026 05:34:24 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: Colombia dejaría de ser parte de ‘La Ruta de la Seda’ para alinearse con Estados Unidos   ",
+      "title": "Posesión de Abelardo de la Espriella: Colombia dejaría de ser parte de ‘La Ruta de la Seda’ para alinearse con Estados Unidos   ",
       "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
       "source": "Infobae",
-      "pubDate": "Thu, 06 Aug 2026 02:39:53 +0000",
+      "pubDate": "Thu, 06 Aug 2026 05:17:15 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Qué fue lo que pasó con el general Alejandro Barrera Peña, el oficial que fue separado del servicio por Gustavo Petro y ahora será el director de la Policía Nacional",
+      "link": "https://www.infobae.com/colombia/2026/08/05/que-fue-lo-que-paso-con-el-general-alejandro-barrera-pena-el-oficial-que-fue-separadao-del-servicio-por-gustavo-petro-y-ahora-sera-el-director-de-la-policia-nacional/",
+      "source": "Infobae",
+      "pubDate": "Thu, 06 Aug 2026 05:17:08 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo de la Espriella explica por qué 11 países europeos fueron invitados después a la posesión presidencial",
+      "link": "https://www.infobae.com/colombia/2026/08/06/gobierno-de-abelardo-de-la-espriella-explica-por-que-11-paises-europeos-fueron-invitados-despues-a-la-posesion-presidencial/",
+      "source": "Infobae",
+      "pubDate": "Thu, 06 Aug 2026 04:51:06 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Cali está lista para recibir a Abelardo De La Espriella y cumplir una posesión inédita",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/cali-esta-lista-para-recibir-a-abelardo-de-la-espriella-y-cumplir-una-posesion-inedita-3576553",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-05T23:06:37-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ministro de Hacienda designado de Abelardo De La Espriella anunció que nuevo Gobierno hará recorte en el gasto público: 'El más importante del país'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ministro-de-hacienda-designado-de-abelardo-de-la-espriella-anuncio-que-nuevo-gobierno-hara-recorte-en-el-gasto-publico-el-mas-importante-del-pais-3576540",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-05T22:06:30-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,14 +99,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-blindaje-en-el-aeropuerto-del-valle-y-otros-puntos-por-la-posesion-de-abelardo-de-la-espriella-en-cali-tres-pelotones-en-la-terminal-aerea-3576538",
       "source": "El Tiempo",
       "pubDate": "2026-08-05T21:31:07-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ministro de Hacienda designado de Abelardo De La Espriella anunció que nuevo Gobierno hará recorte en el gasto público: 'El más importante del país'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ministro-de-hacienda-designado-de-abelardo-de-la-espriella-anuncio-que-nuevo-gobierno-hara-recorte-en-el-gasto-publico-el-mas-importante-del-pais-3576540",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-05T21:05:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -107,14 +131,6 @@
       "link": "https://www.france24.com/es/video/20260805-colombia-podr%C3%A1-de-la-espriella-cumplir-su-promesa-de-eliminar-la-jep",
       "source": "France 24",
       "pubDate": "Wed, 05 Aug 2026 20:52:42 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El presidente electo Abelardo De La Espriella celebró la designación de Diego Mesa Puyo como presidente del Fondo para el Medio Ambiente Mundial (GEF)",
-      "link": "https://www.eltiempo.com/politica/el-presidente-electo-abelardo-de-la-espriella-celebro-la-designacion-de-diego-mesa-puyo-como-presidente-del-fondo-para-el-medio-ambiente-mundial-gef-3576444",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-05T15:04:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
