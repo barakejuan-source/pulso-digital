@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-06T10:44:07.832Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-06T14:21:47.085Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,42 +47,66 @@
   ],
   "articles": [
     {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: Gobierno electo aclara polémica por la invitación de 11 países europeos",
+      "title": "Dólar hoy en Colombia: la divisa cae a $3.169,50 el jueves 6 de agosto, último día hábil del Gobierno Petro",
+      "link": "https://www.infobae.com/colombia/2026/08/06/dolar-hoy-en-colombia-cotizacion-de-apertura-del-6-de-agosto/",
+      "source": "Infobae",
+      "pubDate": "Thu, 06 Aug 2026 14:17:57 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno electo asegura que todas las embajadas acreditadas fueron invitadas a la posesión presidencial de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno-electo-asegura-que-todas-las-embajadas-acreditadas-fueron-invitadas-a-la-posesion-presidencial-de-abelardo-de-la-espriella-3576587",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-06T09:10:57-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: empiezan a llegar los primeros delegados internacionales a Cali",
       "link": "https://www.infobae.com/colombia/2026/08/06/posesion-de-abelardo-de-la-espriella-en-vivo-gobierno-electo-aclara-polemica-por-la-invitacion-de-11-paises-europeos/",
       "source": "Infobae",
-      "pubDate": "Thu, 06 Aug 2026 10:11:48 +0000",
+      "pubDate": "Thu, 06 Aug 2026 14:08:58 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Lula llamó a Petro para despedirse antes del traspaso de mando a De la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/08/06/lula-llamo-a-petro-para-despedirse-antes-del-traspaso-de-mando-a-de-la-espriella/",
+      "title": "El blindaje en el aeropuerto del Valle y otros puntos por la posesión de Abelardo De la Espriella en Cali: tres pelotones en la terminal aérea",
+      "link": "https://www.eltiempo.com/colombia/cali/el-blindaje-en-el-aeropuerto-del-valle-y-otros-puntos-por-la-posesion-de-abelardo-de-la-espriella-en-cali-tres-pelotones-en-la-terminal-aerea-3576538",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-06T09:01:48-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Piter Albeiro reveló que lo llamaron a advertirle sobre su presencia en la posesión de Abelardo de la Espriella en Cali: “Podía ser peligroso”",
+      "link": "https://www.infobae.com/colombia/2026/08/06/piter-albeiro-revelo-que-lo-llamaron-a-advertirle-sobre-su-presencia-en-la-posesion-de-abelardo-de-la-espriella-en-cali-podia-ser-peligroso/",
       "source": "Infobae",
-      "pubDate": "Thu, 06 Aug 2026 10:00:00 +0000",
+      "pubDate": "Thu, 06 Aug 2026 13:53:54 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Caficultores se alistan para El Niño y nuevo Gobierno: exportaciones cayeron 18 %",
-      "link": "https://www.infobae.com/colombia/2026/08/06/caficultores-se-alistan-para-el-nino-y-nuevo-gobierno-exportaciones-cayeron-18/",
+      "title": "Juan Fernando Cristo, exministro de Gustavo Petro, confirmó que su partido estará en la posesión de Abelardo de la Espriella en Cali",
+      "link": "https://www.infobae.com/colombia/2026/08/06/juan-fernando-cristo-exministro-de-gustavo-petro-confirmo-que-su-partido-estara-en-la-posesion-de-abelardo-de-la-espriella-en-cali/",
       "source": "Infobae",
-      "pubDate": "Thu, 06 Aug 2026 10:00:00 +0000",
+      "pubDate": "Thu, 06 Aug 2026 13:52:38 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Noticias de Abelardo De La Espriella hoy 6 de agosto: la Secretaría General del Senado expidió el protocolo logístico para la posesión presidencial",
+      "title": "Cómo afronta la izquierda de Colombia la oposición a De la Espriella tras lograr el mejor resultado de su historia",
+      "link": "https://www.bbc.com/mundo/articles/crm0ez9pg0ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Thu, 06 Aug 2026 13:41:15 GMT",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Noticias de Abelardo De La Espriella hoy 6 de agosto: José Manuel Restrepo anuncia agenda internacional y defiende ajuste fiscal del nuevo Gobierno",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/noticias-de-abelardo-de-la-espriella-hoy-6-de-agosto-la-secretaria-general-del-senado-expidio-el-protocolo-logistico-para-la-posesion-presidencial-3576561",
       "source": "El Tiempo",
-      "pubDate": "2026-08-06T04:37:11-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Germán Ávila, ministro de Hacienda, presentó su renuncia 'inevitable' al presidente de Colombia, Gustavo Petro: 'Salimos con el alma tranquila'",
-      "link": "https://www.eltiempo.com/politica/gobierno/german-avila-ministro-de-hacienda-le-presento-su-renuncia-inevitable-al-presidente-de-colombia-gustavo-petro-salimos-con-el-alma-tranquila-3576554",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-06T04:36:41-05:00",
+      "pubDate": "2026-08-06T08:32:01-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -90,7 +114,23 @@
       "title": "Cali está lista para recibir a Abelardo De La Espriella y cumplir una posesión inédita",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/cali-esta-lista-para-recibir-a-abelardo-de-la-espriella-y-cumplir-una-posesion-inedita-3576553",
       "source": "El Tiempo",
-      "pubDate": "2026-08-05T23:06:37-05:00",
+      "pubDate": "2026-08-06T07:10:33-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Francia Márquez se despide de la Vicepresidencia horas antes de la posesión presidencial de Abelardo De La Espriella: 'Quiero agradecer al pueblo'",
+      "link": "https://www.eltiempo.com/politica/gobierno/francia-marquez-se-despide-de-la-vicepresidencia-horas-antes-de-la-posesion-presidencial-de-abelardo-de-la-espriella-quiero-agradecer-al-pueblo-3576567",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-06T07:00:08-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Germán Ávila, ministro de Hacienda, presentó su renuncia 'inevitable' al presidente saliente, Gustavo Petro: 'Salimos con el alma tranquila'",
+      "link": "https://www.eltiempo.com/politica/gobierno/german-avila-ministro-de-hacienda-le-presento-su-renuncia-inevitable-al-presidente-de-colombia-gustavo-petro-salimos-con-el-alma-tranquila-3576554",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-06T06:16:37-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -99,30 +139,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ministro-de-hacienda-designado-de-abelardo-de-la-espriella-anuncio-que-nuevo-gobierno-hara-recorte-en-el-gasto-publico-el-mas-importante-del-pais-3576540",
       "source": "El Tiempo",
       "pubDate": "2026-08-05T22:06:30-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El blindaje en el aeropuerto del Valle y otros puntos por la posesión de Abelardo De la Espriella en Cali: tres pelotones en la terminal aérea",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-blindaje-en-el-aeropuerto-del-valle-y-otros-puntos-por-la-posesion-de-abelardo-de-la-espriella-en-cali-tres-pelotones-en-la-terminal-aerea-3576538",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-05T21:31:07-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La razón por la que el senador estadounidense Bernie Moreno no asistiría a la posesión de Abelardo De La Espriella este 7 de agosto en Cali",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/la-razon-por-la-que-el-senador-estadounidense-bernie-moreno-no-asistiria-a-la-posesion-de-abelardo-de-la-espriella-este-7-de-agosto-en-cali-3576517",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-05T18:55:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia: ¿podrá De la Espriella cumplir su promesa de eliminar la JEP?",
-      "link": "https://www.france24.com/es/video/20260805-colombia-podr%C3%A1-de-la-espriella-cumplir-su-promesa-de-eliminar-la-jep",
-      "source": "France 24",
-      "pubDate": "Wed, 05 Aug 2026 20:52:42 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
