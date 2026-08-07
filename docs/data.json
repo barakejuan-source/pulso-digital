@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T00:06:29.296Z",
+  "updatedAt": "2026-08-07T04:29:14.065Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 11,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 4,
       "momentum": {
-        "value": -20,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 4.7
@@ -47,26 +47,66 @@
   ],
   "articles": [
     {
-      "title": "Posesión de Abelardo de la Espriella EN VIVO: ministros designados ya llegaron a Cali para la investidura ",
-      "link": "https://www.infobae.com/colombia/2026/08/06/posesion-de-abelardo-de-la-espriella-en-vivo-gobierno-electo-aclara-polemica-por-la-invitacion-de-11-paises-europeos/",
+      "title": "Nasry Asfura llega a Cali para asistir a la investidura del presidente electo de Colombia, Abelardo de la Espriella",
+      "link": "https://www.infobae.com/honduras/2026/08/07/nasry-asfura-llega-a-cali-para-asistir-a-la-investidura-del-presidente-electo-de-colombia-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Thu, 06 Aug 2026 23:42:53 +0000",
+      "pubDate": "Fri, 07 Aug 2026 04:05:30 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Lula será el único candidato presidencial de Brasil apoyado por una coalición de partidos",
-      "link": "https://www.infobae.com/america/agencias/2026/08/06/lula-sera-el-unico-candidato-presidencial-de-brasil-apoyado-por-una-coalicion-de-partidos/",
+      "title": "Mulino suma su viaje número 28 con la investidura de Abelardo de la Espriella en Colombia",
+      "link": "https://www.infobae.com/panama/2026/08/07/mulino-suma-su-viaje-numero-28-con-la-investidura-de-abelardo-de-la-espriella-en-colombia/",
       "source": "Infobae",
-      "pubDate": "Thu, 06 Aug 2026 23:30:49 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Fri, 07 Aug 2026 03:55:57 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "A un día del cambio de gobierno, Google Trends reveló un drástico giro en el interés entre Gustavo Petro y Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/08/06/a-un-dia-del-cambio-de-gobierno-google-trends-revelo-un-drastico-giro-en-el-interes-entre-gustavo-petro-y-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Thu, 06 Aug 2026 23:24:59 +0000",
+      "title": "Así será la inédita posesión presidencial de Abelardo De La Espriella en Cali: horarios, actos e invitados",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-sera-la-inedita-posesion-presidencial-de-abelardo-de-la-espriella-en-cali-horarios-actos-e-invitados-3576794",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-06T22:08:09-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Cali se prepara para la posesión de Abelardo de la Espriella como presidente de Colombia",
+      "link": "https://www.france24.com/es/video/20260807-cali-se-prepara-para-la-posesi%C3%B3n-de-abelardo-de-la-espriella-como-presidente-de-colombia",
+      "source": "France 24",
+      "pubDate": "Fri, 07 Aug 2026 02:03:24 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El primer discurso de Abelardo De La Espriella como jefe de Estado será en el Cantón Pichincha; en la Arena USC recibirá la banda presidencial",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-primer-discurso-de-abelardo-de-la-espriella-como-jefe-de-estado-sera-en-el-canton-pichincha-en-la-arena-usc-recibira-la-banda-presidencial-3576796",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-06T20:28:50-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia cambia de rumbo: arranca la era del presidente Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/colombia-cambia-de-rumbo-arranca-la-era-del-presidente-abelardo-de-la-espriella-3576785",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-06T19:30:30-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella y los retos de su nuevo Gobierno",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-y-los-retos-de-su-nuevo-gobierno-3576786",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-06T19:23:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Nicolás Díaz: 'Los actores armados consolidaron mucho control territorial en Gobierno Petro'",
+      "link": "https://www.france24.com/es/video/20260807-nicol%C3%A1s-d%C3%ADaz-los-actores-armados-consolidaron-mucho-control-territorial-en-gobierno-petro",
+      "source": "France 24",
+      "pubDate": "Fri, 07 Aug 2026 00:12:45 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -79,58 +119,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gustavo Petro reaccionó a denuncias de Iván Cepeda sobre un supuesto entrampamiento contra ambos y apuntó a la fiscal Camargo: “Debe saber”",
-      "link": "https://www.infobae.com/colombia/2026/08/06/gustavo-petro-reacciono-a-denuncias-de-ivan-cepeda-sobre-un-supuesto-entrampamiento-contra-ambos-y-apunto-a-la-fiscal-camargo-debe-saber/",
-      "source": "Infobae",
-      "pubDate": "Thu, 06 Aug 2026 23:14:38 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Juan David Duque asumirá como Superintendente Nacional de Salud encargado en Gobierno de Abelardo De La Espriella mientras se nombra al nuevo titular",
-      "link": "https://www.eltiempo.com/politica/gobierno/juan-david-duque-asumira-la-superintendencia-nacional-de-salud-de-manera-encargada-mientras-se-nombra-al-nuevo-titular-3576730",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-06T17:10:58-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Entre crisis de seguridad, fiscal y de salud, así recibe De la Espriella la presidencia de Colombia",
       "link": "https://www.france24.com/es/video/20260806-entre-crisis-de-seguridad-fiscal-y-de-salud-as%C3%AD-recibe-de-la-espriella-la-presidencia-de-colombia",
       "source": "France 24",
       "pubDate": "Thu, 06 Aug 2026 19:28:39 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Don Luis Felipe, el vendedor de panela de Caquetá, ya llegó a Cali para la posesión de Abelardo De La Espriella: 'Me siento feliz y orgulloso'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/don-luis-felipe-el-vendedor-de-panela-de-caqueta-ya-llego-a-cali-para-la-posesion-de-abelardo-de-la-espriella-me-siento-feliz-y-orgulloso-3576642",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-06T13:37:04-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Partido de 'la U' definirá la próxima semana su posición frente el nuevo gobierno: 'Hay una gran tendencia a que seamos partido de gobierno'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/partido-de-la-u-definira-la-proxima-semana-su-posicion-frente-el-nuevo-gobierno-hay-una-gran-tendencia-a-que-seamos-partido-de-gobierno-3576684",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-06T13:35:56-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Giro radical en Colombia: la política exterior que De la Espriella derrumba y la que promete construir",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260806-giro-radical-en-colombia-la-pol%C3%ADtica-exterior-que-de-la-espriella-derrumba-y-la-que-promete-construir",
-      "source": "France 24",
-      "pubDate": "Thu, 06 Aug 2026 16:19:58 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Por qué la Cancillería oficializó nombramientos en Ghana y Haití tras el anuncio de cierre de esas embajadas por parte de Abelardo De La Espriella?",
-      "link": "https://www.eltiempo.com/politica/gobierno/por-que-la-cancilleria-oficializo-nombramientos-en-ghana-y-haiti-tras-el-anuncio-de-cierre-de-esas-embajadas-por-parte-de-abelardo-de-la-espriella-3576641",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-06T10:49:48-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
