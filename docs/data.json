@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T10:56:33.969Z",
+  "updatedAt": "2026-08-07T13:12:12.485Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 12,
+      "trendsScore": 11,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 5,
+      "finalScore": 4,
       "momentum": {
-        "value": 25,
+        "value": -20,
         "direction": "flat"
       },
-      "probability": 5.7
+      "probability": 4.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,79 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 94.3
+      "probability": 95.3
     }
   ],
   "articles": [
     {
-      "title": "¿A qué hora será la posesión del presidente electo de Colombia, Abelardo De La Espriella, este 7 de agosto? Consulte dónde ver la ceremonia en vivo",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/a-que-hora-sera-la-posesion-del-presidente-electo-de-colombia-abelardo-de-la-espriella-este-7-de-agosto-consulte-donde-ver-la-ceremonia-en-vivo-3576830",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-07T04:59:26-05:00",
+      "title": "Posesión de Abelardo de la Espriella - EN VIVO: Ya llegó el rey de España y avanzan los preparativos en Cali ",
+      "link": "https://www.infobae.com/colombia/2026/08/06/posesion-de-abelardo-de-la-espriella-en-vivo-gobierno-electo-aclara-polemica-por-la-invitacion-de-11-paises-europeos/",
+      "source": "Infobae",
+      "pubDate": "Fri, 07 Aug 2026 13:05:57 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Así fue la bienvenida a las delegaciones de países por la posesión del presidente electo Abelardo De la Espriella: 'Es un grandísimo honor para Cali'",
+      "title": "Lula será el único candidato presidencial de Brasil apoyado por una coalición de partidos",
+      "link": "https://www.infobae.com/america/america-latina/2026/08/07/lula-sera-el-unico-candidato-presidencial-de-brasil-apoyado-por-una-coalicion-de-partidos/",
+      "source": "Infobae",
+      "pubDate": "Fri, 07 Aug 2026 12:53:26 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Flávio Bolsonaro repudió la confrontación de Lula da Silva contra Argentina: “Es política exterior ideologizada”",
+      "link": "https://www.infobae.com/america/america-latina/2026/08/07/flavio-bolsonaro-repudio-la-confrontacion-de-lula-da-silva-contra-argentina-es-politica-exterior-ideologizada/",
+      "source": "Infobae",
+      "pubDate": "Fri, 07 Aug 2026 12:50:43 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Gianni Infantino llegó a Colombia para asistir a la posesión presidencial de Abelardo de la Espriella: fue recibido por Ramón Jesurún",
+      "link": "https://www.infobae.com/colombia/deportes/2026/08/07/gianni-infantino-llego-a-colombia-para-asistir-a-la-posesion-presidencial-de-abelardo-de-la-espriella-fue-recibido-por-ramon-jesurun/",
+      "source": "Infobae",
+      "pubDate": "Fri, 07 Aug 2026 12:46:39 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Posesión de Abelardo De La Espriella 7 de agosto: el rey Felipe VI de España llegó a Colombia para la ceremonia",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/noticias-de-abelardo-de-la-espriella-7-de-agosto-alcalde-de-cali-alejandro-eder-califico-como-un-honor-recibir-a-los-invitados-internacionales-3576834",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-07T07:42:42-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "EN VIVO - Posesión presidencial: Iván Cepeda liderará actos de oposición el 7 de agosto ",
+      "link": "https://www.infobae.com/colombia/2026/08/07/ivan-cepeda-liderara-actos-de-oposicion-el-7-de-agosto-durante-posesion-de-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Fri, 07 Aug 2026 12:42:39 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿A qué hora será la posesión del presidente electo de Colombia, Abelardo De La Espriella, este 7 de agosto? Consulte dónde ver la ceremonia",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/a-que-hora-sera-la-posesion-del-presidente-electo-de-colombia-abelardo-de-la-espriella-este-7-de-agosto-consulte-donde-ver-la-ceremonia-en-vivo-3576830",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-07T07:39:55-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Biografía de Abelardo De La Espriella: conozca qué estudió, carrera política y más detalles del abogado que se posesiona como Presidente de Colombia",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/biografia-de-abelardo-de-la-espriella-conozca-que-estudio-carrera-politica-y-mas-detalles-del-abogado-que-se-posesiona-como-presidente-de-colombia-3576835",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-07T07:00:40-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así fue la bienvenida a las delegaciones de países por la posesión del presidente electo Abelardo De La Espriella: 'Es un grandísimo honor para Cali'",
       "link": "https://www.eltiempo.com/colombia/cali/asi-fue-la-bienvenida-a-las-delegaciones-de-paises-por-la-posesion-del-presidente-electo-abelardo-de-la-espriella-es-un-grandisimo-honor-para-cali-3576827",
       "source": "El Tiempo",
-      "pubDate": "2026-08-07T04:59:26-05:00",
+      "pubDate": "2026-08-07T05:57:24-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -85,54 +141,6 @@
       "pubDate": "Fri, 07 Aug 2026 02:03:24 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El primer discurso de Abelardo De La Espriella como jefe de Estado será en el Cantón Pichincha; en la Arena USC recibirá la banda presidencial",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-primer-discurso-de-abelardo-de-la-espriella-como-jefe-de-estado-sera-en-el-canton-pichincha-en-la-arena-usc-recibira-la-banda-presidencial-3576796",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-06T20:28:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia cambia de rumbo: arranca la era del presidente Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/colombia-cambia-de-rumbo-arranca-la-era-del-presidente-abelardo-de-la-espriella-3576785",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-06T19:30:30-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Nicolás Díaz: 'Los actores armados consolidaron mucho control territorial en Gobierno Petro'",
-      "link": "https://www.france24.com/es/video/20260807-nicol%C3%A1s-d%C3%ADaz-los-actores-armados-consolidaron-mucho-control-territorial-en-gobierno-petro",
-      "source": "France 24",
-      "pubDate": "Fri, 07 Aug 2026 00:12:45 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Polarización nacional y un pulso en la derecha: el ajedrez en Colombia que encara De la Espriella",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260806-polarizaci%C3%B3n-nacional-y-un-pulso-en-la-derecha-el-ajedrez-de-colombia-que-encara-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Thu, 06 Aug 2026 23:19:54 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Entre crisis de seguridad, fiscal y de salud, así recibe De la Espriella la presidencia de Colombia",
-      "link": "https://www.france24.com/es/video/20260806-entre-crisis-de-seguridad-fiscal-y-de-salud-as%C3%AD-recibe-de-la-espriella-la-presidencia-de-colombia",
-      "source": "France 24",
-      "pubDate": "Thu, 06 Aug 2026 19:28:39 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cómo afronta la izquierda de Colombia la oposición a De la Espriella tras lograr el mejor resultado de su historia",
-      "link": "https://www.bbc.com/mundo/articles/crm0ez9pg0ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Thu, 06 Aug 2026 13:41:15 GMT",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
