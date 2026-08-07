@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-07T13:12:12.485Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-07T14:57:11.055Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 4,
       "momentum": {
-        "value": -20,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 4.7
@@ -47,58 +47,50 @@
   ],
   "articles": [
     {
-      "title": "Posesión de Abelardo de la Espriella - EN VIVO: Ya llegó el rey de España y avanzan los preparativos en Cali ",
+      "title": "Posesión de Abelardo de la Espriella - EN VIVO: El presidente electo ya está en Cali bajo estricta seguridad para la ceremonia ",
       "link": "https://www.infobae.com/colombia/2026/08/06/posesion-de-abelardo-de-la-espriella-en-vivo-gobierno-electo-aclara-polemica-por-la-invitacion-de-11-paises-europeos/",
       "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 13:05:57 +0000",
+      "pubDate": "Fri, 07 Aug 2026 14:51:50 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Lula será el único candidato presidencial de Brasil apoyado por una coalición de partidos",
-      "link": "https://www.infobae.com/america/america-latina/2026/08/07/lula-sera-el-unico-candidato-presidencial-de-brasil-apoyado-por-una-coalicion-de-partidos/",
+      "title": "Álvaro Uribe Vélez se refirió al futuro gobierno de Abelardo de la Espriella: “Que la violencia esté ausente”  ",
+      "link": "https://www.infobae.com/colombia/2026/08/07/alvaro-uribe-velez-se-refirio-al-futuro-gobierno-de-abelardo-de-la-espriella-que-la-violencia-este-ausente/",
       "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 12:53:26 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Flávio Bolsonaro repudió la confrontación de Lula da Silva contra Argentina: “Es política exterior ideologizada”",
-      "link": "https://www.infobae.com/america/america-latina/2026/08/07/flavio-bolsonaro-repudio-la-confrontacion-de-lula-da-silva-contra-argentina-es-politica-exterior-ideologizada/",
-      "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 12:50:43 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Gianni Infantino llegó a Colombia para asistir a la posesión presidencial de Abelardo de la Espriella: fue recibido por Ramón Jesurún",
-      "link": "https://www.infobae.com/colombia/deportes/2026/08/07/gianni-infantino-llego-a-colombia-para-asistir-a-la-posesion-presidencial-de-abelardo-de-la-espriella-fue-recibido-por-ramon-jesurun/",
-      "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 12:46:39 +0000",
+      "pubDate": "Fri, 07 Aug 2026 14:47:09 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Posesión de Abelardo De La Espriella 7 de agosto: el rey Felipe VI de España llegó a Colombia para la ceremonia",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/noticias-de-abelardo-de-la-espriella-7-de-agosto-alcalde-de-cali-alejandro-eder-califico-como-un-honor-recibir-a-los-invitados-internacionales-3576834",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-07T07:42:42-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "EN VIVO - Posesión presidencial: Iván Cepeda liderará actos de oposición el 7 de agosto ",
+      "title": "EN VIVO - Posesión presidencial: Iván Cepeda liderará actos de oposición el 7 de agosto   ",
       "link": "https://www.infobae.com/colombia/2026/08/07/ivan-cepeda-liderara-actos-de-oposicion-el-7-de-agosto-durante-posesion-de-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 12:42:39 +0000",
+      "pubDate": "Fri, 07 Aug 2026 14:43:26 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
     {
-      "title": "¿A qué hora será la posesión del presidente electo de Colombia, Abelardo De La Espriella, este 7 de agosto? Consulte dónde ver la ceremonia",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/a-que-hora-sera-la-posesion-del-presidente-electo-de-colombia-abelardo-de-la-espriella-este-7-de-agosto-consulte-donde-ver-la-ceremonia-en-vivo-3576830",
+      "title": "¿Quién es Ana Lucía Pineda? La nueva primera dama de Colombia y esposa de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-ana-lucia-pineda-la-nueva-primera-dama-de-colombia-y-esposa-de-abelardo-de-la-espriella-3576844",
       "source": "El Tiempo",
-      "pubDate": "2026-08-07T07:39:55-05:00",
+      "pubDate": "2026-08-07T09:34:56-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Canciller de Perú anticipa agenda entre los gobiernos de Abelardo de la Espriella y Keiko Fujimori: seguridad, comercio e integración regional",
+      "link": "https://www.infobae.com/colombia/2026/08/07/canciller-de-peru-anticipa-agenda-entre-los-gobiernos-de-abelardo-de-la-espriella-y-keiko-fujimori-seguridad-comercio-e-integracion-regional/",
+      "source": "Infobae",
+      "pubDate": "Fri, 07 Aug 2026 14:34:33 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Posesión de Abelardo De La Espriella 7 de agosto: el mandatario electo llegó a Cali",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/noticias-de-abelardo-de-la-espriella-7-de-agosto-alcalde-de-cali-alejandro-eder-califico-como-un-honor-recibir-a-los-invitados-internacionales-3576834",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-07T09:07:53-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -106,7 +98,31 @@
       "title": "Biografía de Abelardo De La Espriella: conozca qué estudió, carrera política y más detalles del abogado que se posesiona como Presidente de Colombia",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/biografia-de-abelardo-de-la-espriella-conozca-que-estudio-carrera-politica-y-mas-detalles-del-abogado-que-se-posesiona-como-presidente-de-colombia-3576835",
       "source": "El Tiempo",
-      "pubDate": "2026-08-07T07:00:40-05:00",
+      "pubDate": "2026-08-07T09:00:59-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Qué ciudades tendrán Ley Seca este viernes 7 y sábado 8 de agosto en medio de la posesión presidencial de Abelardo De La Espriella?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/que-ciudades-tendran-ley-seca-este-viernes-7-y-8-de-agosto-en-la-posesion-presidencial-de-abelardo-de-la-espriella-3576838",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-07T08:18:16-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Histórico: Cali recibe por primera vez a un Rey de España, tras celebrar sus 490 años de fundación; así fue la llegada del monarca",
+      "link": "https://www.eltiempo.com/colombia/cali/historico-cali-recibe-por-primera-vez-a-un-rey-de-espana-tras-celebrar-sus-490-anos-de-fundacion-asi-fue-la-llegada-del-monarca-3576825",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-07T08:10:11-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿A qué hora será la posesión del presidente electo de Colombia, Abelardo De La Espriella, este 7 de agosto? Consulte dónde ver la ceremonia",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/a-que-hora-sera-la-posesion-del-presidente-electo-de-colombia-abelardo-de-la-espriella-este-7-de-agosto-consulte-donde-ver-la-ceremonia-en-vivo-3576830",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-07T07:39:55-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -123,22 +139,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-sera-la-inedita-posesion-presidencial-de-abelardo-de-la-espriella-en-cali-horarios-actos-e-invitados-3576794",
       "source": "El Tiempo",
       "pubDate": "2026-08-06T22:08:09-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Informe desde Cali: De la Espriella, a pocas horas de ser el nuevo presidente de Colombia",
-      "link": "https://www.france24.com/es/video/20260807-informe-desde-cali-de-la-espriella-a-pocas-horas-de-ser-el-nuevo-presidente-de-colombia",
-      "source": "France 24",
-      "pubDate": "Fri, 07 Aug 2026 03:07:31 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cali se prepara para la posesión de Abelardo de la Espriella como presidente de Colombia",
-      "link": "https://www.france24.com/es/video/20260807-cali-se-prepara-para-la-posesi%C3%B3n-de-abelardo-de-la-espriella-como-presidente-de-colombia",
-      "source": "France 24",
-      "pubDate": "Fri, 07 Aug 2026 02:03:24 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
