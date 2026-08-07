@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-07T04:29:14.065Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-07T07:21:51.243Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Nasry Asfura llega a Cali para asistir a la investidura del presidente electo de Colombia, Abelardo de la Espriella",
-      "link": "https://www.infobae.com/honduras/2026/08/07/nasry-asfura-llega-a-cali-para-asistir-a-la-investidura-del-presidente-electo-de-colombia-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 04:05:30 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Mulino suma su viaje número 28 con la investidura de Abelardo de la Espriella en Colombia",
-      "link": "https://www.infobae.com/panama/2026/08/07/mulino-suma-su-viaje-numero-28-con-la-investidura-de-abelardo-de-la-espriella-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 03:55:57 +0000",
+      "title": "Así fue la bienvenida a las delegaciones de países por la posesión del presidente electo Abelardo De la Espriella: 'Es un grandísimo honor para Cali'",
+      "link": "https://www.eltiempo.com/colombia/cali/asi-fue-la-bienvenida-a-las-delegaciones-de-paises-por-la-posesion-del-presidente-electo-abelardo-de-la-espriella-es-un-grandisimo-honor-para-cali-3576827",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-07T00:53:25-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,6 +59,14 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-sera-la-inedita-posesion-presidencial-de-abelardo-de-la-espriella-en-cali-horarios-actos-e-invitados-3576794",
       "source": "El Tiempo",
       "pubDate": "2026-08-06T22:08:09-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Informe desde Cali: De la Espriella, a pocas horas de ser el nuevo presidente de Colombia",
+      "link": "https://www.france24.com/es/video/20260807-informe-desde-cali-de-la-espriella-a-pocas-horas-de-ser-el-nuevo-presidente-de-colombia",
+      "source": "France 24",
+      "pubDate": "Fri, 07 Aug 2026 03:07:31 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
