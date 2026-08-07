@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-07T09:03:52.422Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-07T10:56:33.969Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 11,
+      "trendsScore": 12,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 4,
+      "finalScore": 5,
       "momentum": {
-        "value": 0,
+        "value": 25,
         "direction": "flat"
       },
-      "probability": 4.7
+      "probability": 5.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,15 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 95.3
+      "probability": 94.3
     }
   ],
   "articles": [
     {
-      "title": "Posesión de Abelardo de la Espriella: ya llegaron las delegaciones y se conocieron novedades en el protocolo del 7 de agosto",
-      "link": "https://www.infobae.com/colombia/2026/08/06/posesion-de-abelardo-de-la-espriella-en-vivo-gobierno-electo-aclara-polemica-por-la-invitacion-de-11-paises-europeos/",
-      "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 08:45:59 +0000",
+      "title": "¿A qué hora será la posesión del presidente electo de Colombia, Abelardo De La Espriella, este 7 de agosto? Consulte dónde ver la ceremonia en vivo",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/a-que-hora-sera-la-posesion-del-presidente-electo-de-colombia-abelardo-de-la-espriella-este-7-de-agosto-consulte-donde-ver-la-ceremonia-en-vivo-3576830",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-07T04:59:26-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,7 +58,7 @@
       "title": "Así fue la bienvenida a las delegaciones de países por la posesión del presidente electo Abelardo De la Espriella: 'Es un grandísimo honor para Cali'",
       "link": "https://www.eltiempo.com/colombia/cali/asi-fue-la-bienvenida-a-las-delegaciones-de-paises-por-la-posesion-del-presidente-electo-abelardo-de-la-espriella-es-un-grandisimo-honor-para-cali-3576827",
       "source": "El Tiempo",
-      "pubDate": "2026-08-07T00:53:25-05:00",
+      "pubDate": "2026-08-07T04:59:26-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -99,14 +99,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/colombia-cambia-de-rumbo-arranca-la-era-del-presidente-abelardo-de-la-espriella-3576785",
       "source": "El Tiempo",
       "pubDate": "2026-08-06T19:30:30-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella y los retos de su nuevo Gobierno",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-y-los-retos-de-su-nuevo-gobierno-3576786",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-06T19:23:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
