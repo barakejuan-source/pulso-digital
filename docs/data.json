@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T03:37:27.764Z",
+  "updatedAt": "2026-08-08T05:01:31.007Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 10,
+      "trendsScore": 8,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 4,
+      "finalScore": 3,
       "momentum": {
-        "value": 0,
+        "value": -25,
         "direction": "flat"
       },
-      "probability": 4.7
+      "probability": 3.5
     },
     {
       "id": "abelardo_espriella",
@@ -42,7 +42,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 95.3
+      "probability": 96.5
     }
   ],
   "articles": [
@@ -50,7 +50,31 @@
       "title": "Abelardo de la Espriella asume como presidente con su promesa de \"mano dura\"",
       "link": "https://www.bbc.co.uk/mundo/live/cxlye0m2z9qvt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-08-08T03:37:27.670Z",
+      "pubDate": "2026-08-08T05:01:30.851Z",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El discurso de posesión: el Tigre que promete gobernar con límites",
+      "link": "https://www.lasillavacia.com/silla-nacional/el-discurso-de-posesion-el-tigre-que-promete-gobernar-con-limites/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 08 Aug 2026 04:50:32 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella responde a Agmeth Escaf por críticas a su posesión presidencial: 'Si a Agmeth no le gustó, fue la decisión correcta'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-responde-a-agmeth-escaf-por-criticas-a-su-posesion-presidencial-si-a-agmeth-no-le-gusto-fue-la-decision-correcta-3576986",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-07T23:16:26-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De la Espriella posesionó a los 18 ministros que lo acompañarán durante su administración como nuevo presidente de Colombia",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-posesiono-a-los-18-ministros-que-lo-acompanaran-durante-su-administracion-como-nuevo-presidente-de-colombia-3576987",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-07T22:51:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,22 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-simbolos-y-mensajes-de-una-posesion-presidencial-inedita-cali-batalla-cultural-religion-y-mas-3576984",
       "source": "El Tiempo",
       "pubDate": "2026-08-07T21:50:20-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Arturo Calle pide al empresariado invertir en lo social: “No pensemos en la sepultura”",
-      "link": "https://www.infobae.com/colombia/2026/08/08/arturo-calle-pide-al-empresariado-invertir-en-lo-social-no-pensemos-en-la-sepultura/",
-      "source": "Infobae",
-      "pubDate": "Sat, 08 Aug 2026 02:43:23 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ataques con drones y alertas por cilindros en las vías: Así estuvo el orden público durante la posesión de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/08/07/en-vivo-asi-esta-la-situacion-de-orden-publico-en-medio-de-la-posesion-presidencial-de-abelardo-de-la-espriella-se-han-reportado-hallazgos-de-explosivos/",
-      "source": "Infobae",
-      "pubDate": "Sat, 08 Aug 2026 02:39:45 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -111,14 +119,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Posesión de Abelardo de la Espriella: la moda en Cali no fue un decorado, fue un discurso con acento colombiano",
-      "link": "https://www.infobae.com/colombia/2026/08/08/posesion-de-abelardo-de-la-espriella-la-moda-en-cali-no-fue-un-decorado-fue-un-discurso-con-acento-colombiano/",
-      "source": "Infobae",
-      "pubDate": "Sat, 08 Aug 2026 02:31:37 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Seguridad, religión y corrupción: las claves del primer discurso de De la Espriella como presidente",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260808-seguridad-religi%C3%B3n-y-corrupci%C3%B3n-las-claves-del-primer-discurso-de-de-la-espriella-como-presidente",
       "source": "France 24",
@@ -127,18 +127,18 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella aseguró que recuperará Ecopetrol: dará luz verde al fracking y a la exploración de hidrocarburos",
-      "link": "https://www.infobae.com/colombia/2026/08/08/abelardo-de-la-espriella-aseguro-que-recuperara-ecopetrol-dara-luz-verde-al-fracking-y-a-la-exploracion-de-hidrocarburos/",
-      "source": "Infobae",
-      "pubDate": "Sat, 08 Aug 2026 02:21:53 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Keiko Fujimori felicita a Abelardo de la Espriella tras asumir como presidente de Colombia y destaca embajadores entre Lima y Bogotá: 'Fortalecernos'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/keiko-fujimori-felicita-a-abelardo-de-la-espriella-tras-asumir-como-presidente-de-colombia-y-destaca-embajadores-entre-lima-y-bogota-fortalecernos-3576970",
       "source": "El Tiempo",
       "pubDate": "2026-08-07T21:18:31-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De la Espriella ordena traslado de Epa Colombia a cárcel de Ibagué por 'privilegios' que tiene en Bogotá",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-ordena-traslado-de-epa-colombia-a-carcel-de-ibague-por-privilegios-que-tiene-en-bogota-3576958",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-07T20:55:37-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
