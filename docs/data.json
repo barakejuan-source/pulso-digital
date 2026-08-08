@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T10:38:22.463Z",
+  "updatedAt": "2026-08-08T12:55:27.559Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Así te lo contamos: Abelardo de la Espriella asume como presidente con su promesa de \"mano dura\"",
-      "link": "https://www.bbc.co.uk/mundo/live/cxlye0m2z9qvt?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "2026-08-08T10:38:22.407Z",
+      "title": "Los timonazos que se vienen con el gobierno de Abelardo De La Espriella: 'Ha comenzado el tiempo de recuperar el orden y la autoridad'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-timonazos-que-se-vienen-con-el-gobierno-de-abelardo-de-la-espriella-ha-comenzado-el-tiempo-de-recuperar-el-orden-y-la-autoridad-3576979",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-08T07:20:24-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "México y Colombia fortalecen su relación: así fue el encuentro con el nuevo gobierno colombiano",
-      "link": "https://www.infobae.com/mexico/2026/08/08/mexico-y-colombia-fortalecen-su-relacion-asi-fue-el-encuentro-con-el-nuevo-gobierno-colombiano/",
-      "source": "Infobae",
-      "pubDate": "Sat, 08 Aug 2026 10:33:38 +0000",
+      "title": "Abelardo De La Espriella posesionó a los 18 ministros que lo acompañarán durante su administración como nuevo presidente de Colombia",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-posesiono-a-los-18-ministros-que-lo-acompanaran-durante-su-administracion-como-nuevo-presidente-de-colombia-3576987",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-08T07:14:15-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Primeras decisiones de Abelardo De la Espriella: ordena traslado de 117 presos de alto perfil vinculados a diálogos de paz",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/primeras-decisiones-de-abelardo-de-la-espriella-ordena-traslado-de-117-presos-de-alto-perfil-vinculados-a-dialogos-de-paz-3576994",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-08T06:41:03-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El discurso de posesión: el Tigre que promete gobernar con límites",
+      "link": "https://www.lasillavacia.com/silla-nacional/el-discurso-de-posesion-el-tigre-que-promete-gobernar-con-limites/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 08 Aug 2026 11:30:20 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -74,22 +90,6 @@
       "title": "La hora del Caribe con Abelardo de la Espriella: ¿un gabinete de los nunca?",
       "link": "https://www.lasillavacia.com/opinion/la-hora-del-caribe-con-abelardo-de-la-espriella-un-gabinete-de-los-nunca/",
       "source": "La Silla Vacía",
-      "pubDate": "Sat, 08 Aug 2026 10:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella, presidente de Colombia - EN VIVO: inicia la posesión de ministros",
-      "link": "https://www.infobae.com/colombia/2026/08/06/posesion-de-abelardo-de-la-espriella-en-vivo-gobierno-electo-aclara-polemica-por-la-invitacion-de-11-paises-europeos/",
-      "source": "Infobae",
-      "pubDate": "Sat, 08 Aug 2026 10:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Arturo Calle pide al empresariado invertir en lo social: “No pensemos en la sepultura”",
-      "link": "https://www.infobae.com/colombia/2026/08/08/arturo-calle-pide-al-empresariado-invertir-en-lo-social-no-pensemos-en-la-sepultura/",
-      "source": "Infobae",
       "pubDate": "Sat, 08 Aug 2026 10:00:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
@@ -111,22 +111,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo De La Espriella posesionó a los 18 ministros que lo acompañarán durante su administración como nuevo presidente de Colombia",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-posesiono-a-los-18-ministros-que-lo-acompanaran-durante-su-administracion-como-nuevo-presidente-de-colombia-3576987",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-08T00:37:51-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El discurso de posesión: el Tigre que promete gobernar con límites",
-      "link": "https://www.lasillavacia.com/silla-nacional/el-discurso-de-posesion-el-tigre-que-promete-gobernar-con-limites/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 08 Aug 2026 04:50:32 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Abelardo De La Espriella responde a Agmeth Escaf por críticas a su posesión presidencial: 'Si a Agmeth no le gustó, fue la decisión correcta'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-responde-a-agmeth-escaf-por-criticas-a-su-posesion-presidencial-si-a-agmeth-no-le-gusto-fue-la-decision-correcta-3576986",
       "source": "El Tiempo",
@@ -139,6 +123,22 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-simbolos-y-mensajes-de-una-posesion-presidencial-inedita-cali-batalla-cultural-religion-y-mas-3576984",
       "source": "El Tiempo",
       "pubDate": "2026-08-07T21:50:20-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Hasta qué hora se extiende la Ley Seca en Colombia por la posesión presidencial de Abelardo De La Espriella este viernes 7 de agosto?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/hasta-que-hora-se-extiende-la-ley-seca-en-colombia-por-la-posesion-presidencial-de-abelardo-de-la-espriella-este-viernes-7-de-agosto-3576983",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-07T21:37:28-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "3 momentos que marcaron la posesión de Abelardo de la Espriella como presidente de Colombia (y qué dicen sobre cómo será su gobierno)",
+      "link": "https://www.bbc.com/mundo/articles/cz64y70l8wzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Sat, 08 Aug 2026 02:31:50 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
