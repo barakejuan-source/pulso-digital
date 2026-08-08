@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T16:38:30.016Z",
+  "updatedAt": "2026-08-08T18:43:02.649Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,10 +47,90 @@
   ],
   "articles": [
     {
-      "title": "Jorge Barón saludó a Abelardo de la Espriella como nuevo presidente de Colombia: “Con nuestra Patria Milagro”",
-      "link": "https://www.infobae.com/colombia/2026/08/08/jorge-baron-saludo-a-abelardo-de-la-espriella-como-nuevo-presidente-de-colombia-con-nuestra-patria-milagro/",
+      "title": "Así titularon los medios internacionales la posesión de Abelardo de la Espriella como nuevo presidente de Colombia ",
+      "link": "https://www.infobae.com/colombia/2026/08/08/asi-titularon-los-medios-internacionales-la-posesion-de-abelardo-de-la-espriella-como-nuevo-presidente-de-colombia/",
       "source": "Infobae",
-      "pubDate": "Sat, 08 Aug 2026 16:31:05 +0000",
+      "pubDate": "Sat, 08 Aug 2026 18:17:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Informe desde Cali: primer Consejo de Seguridad del nuevo Gobierno de De la Espriella en Colombia",
+      "link": "https://www.france24.com/es/video/20260808-informe-desde-cali-primer-consejo-de-seguridad-del-nuevo-gobierno-de-de-la-espriella-en-colombia",
+      "source": "France 24",
+      "pubDate": "Sat, 08 Aug 2026 18:05:55 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente de la Andi calificó como positiva la decisión de Abelardo de la Espriella de eliminar el impuesto al patrimonio ",
+      "link": "https://www.infobae.com/colombia/2026/08/08/presidente-de-la-andi-califico-como-positiva-la-decision-de-abelardo-de-la-espriella-de-eliminar-el-impuesto-al-patrimonio/",
+      "source": "Infobae",
+      "pubDate": "Sat, 08 Aug 2026 18:00:16 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Moda y política: estos han sido los vestidos que han usado las recientes primeras damas de Colombia y los millonarios precios que cuestan  ",
+      "link": "https://www.infobae.com/colombia/2026/08/08/moda-y-politica-estos-han-sido-los-vestidos-que-han-usado-las-recientes-primeras-damas-de-colombia-y-los-millonarios-precios-que-cuestan/",
+      "source": "Infobae",
+      "pubDate": "Sat, 08 Aug 2026 17:52:33 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Mafe Carrascal cuestionó al alcalde de Bogotá por apoyar al presidente Abelardo de la Espriella: “No puede ser que sea tan arrodillado” ",
+      "link": "https://www.infobae.com/colombia/2026/08/08/mafe-carrascal-cuestiono-al-alcalde-de-bogota-por-apoyar-al-presidente-abelardo-de-la-espriella-no-puede-ser-que-sea-tan-arrodillado/",
+      "source": "Infobae",
+      "pubDate": "Sat, 08 Aug 2026 17:49:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo de la Espriella reconoció soberanía de Marruecos sobre el Sáhara occidental",
+      "link": "https://www.infobae.com/colombia/2026/08/08/gobierno-de-abelardo-de-la-espriella-reconocio-soberania-de-marruecos-sobre-el-sahara-occidental/",
+      "source": "Infobae",
+      "pubDate": "Sat, 08 Aug 2026 17:45:10 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abogado constitucionalista aclaró si se violó o no el Estado laico por presencia de rabino, pastor y sacerdote en la posesión de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/08/08/abogado-constitucionalista-aclaro-si-se-violo-o-no-el-estado-laico-por-presencia-de-rabino-pastor-y-sacerdote-en-la-posesion-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Sat, 08 Aug 2026 17:41:21 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Qué implica la nacionalidad estadounidense de Abelardo de la Espriella para la Presidencia de Colombia?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260808-qu%C3%A9-implica-la-nacionalidad-estadounidense-de-abelardo-de-la-espriella-para-la-presidencia-de-colombia",
+      "source": "France 24",
+      "pubDate": "Sat, 08 Aug 2026 17:38:20 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Estas son las primeras medidas económicas de Abelardo de la Espriella como presidente: busca más recursos",
+      "link": "https://www.infobae.com/colombia/deportes/2026/08/08/estas-son-las-primeras-medidas-economicas-de-abelardo-de-la-espriella-como-presidente-busca-mas-recursos/",
+      "source": "Infobae",
+      "pubDate": "Sat, 08 Aug 2026 17:35:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Sofía Petro cuestionó la posesión de Abelardo de la Espriella: “Quien tiene a Dios en el corazón verdaderamente no puede defender que pulvericen niños en masa” ",
+      "link": "https://www.infobae.com/colombia/2026/08/08/sofia-petro-cuestiono-la-posesion-de-abelardo-de-la-espriella-quien-tiene-a-dios-en-el-corazon-verdaderamente-no-puede-defender-que-pulvericen-ninos-en-masa/",
+      "source": "Infobae",
+      "pubDate": "Sat, 08 Aug 2026 17:34:02 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella asume la Presidencia de Colombia",
+      "link": "https://www.france24.com/es/video/20260808-abelardo-de-la-espriella-asume-la-presidencia-de-colombia",
+      "source": "France 24",
+      "pubDate": "Sat, 08 Aug 2026 17:09:38 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,86 +139,6 @@
       "link": "https://www.france24.com/es/video/20260808-nueva-era-pol%C3%ADtica-en-colombia-qu%C3%A9-esperar-del-gobierno-de-abelardo-de-la-espriella",
       "source": "France 24",
       "pubDate": "Sat, 08 Aug 2026 16:26:07 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella asume la Presidencia de Colombia y presenta la hoja de ruta de su Gobierno",
-      "link": "https://www.france24.com/es/video/20260808-abelardo-de-la-espriella-asume-la-presidencia-de-colombia-y-presenta-la-hoja-de-ruta-de-su-gobierno",
-      "source": "France 24",
-      "pubDate": "Sat, 08 Aug 2026 16:22:37 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Seguridad y descentralización: De la Espriella en su primer discurso como presidente de Colombia",
-      "link": "https://www.france24.com/es/video/20260808-seguridad-y-descentralizaci%C3%B3n-de-la-espriella-en-su-primer-discurso-como-presidente-de-colombia",
-      "source": "France 24",
-      "pubDate": "Sat, 08 Aug 2026 16:21:08 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Jennifer Pedraza cuestionó a Abelardo de la Espriella por reanudación de fumigaciones con aspersiones aéreas de cultivos ilícitos",
-      "link": "https://www.infobae.com/colombia/2026/08/08/jennifer-pedraza-cuestiono-a-abelardo-de-la-espriella-por-reanudacion-de-fumigaciones-con-aspersiones-aereas-de-cultivos-ilicitos/",
-      "source": "Infobae",
-      "pubDate": "Sat, 08 Aug 2026 15:54:50 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Petro criticó la propuesta del nuevo gobierno de volver a la explotación de hidrocarburos: “Lleva a la sociedad a la miseria”",
-      "link": "https://www.infobae.com/colombia/2026/08/08/petro-critico-la-propuesta-del-nuevo-gobierno-de-volver-a-la-explotacion-de-hidrocarburos-lleva-a-la-sociedad-a-la-miseria/",
-      "source": "Infobae",
-      "pubDate": "Sat, 08 Aug 2026 15:52:01 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "De la Espriella y el avance de la derecha: ¿qué cambia en Colombia y América Latina?",
-      "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260808-de-la-espriella-y-el-avance-de-la-derecha-qu%C3%A9-cambia-en-colombia-y-am%C3%A9rica-latina",
-      "source": "France 24",
-      "pubDate": "Sat, 08 Aug 2026 15:44:23 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Agmeth Escaf critica posesión de Abelardo De la Espriella: 'Si no le gustó, fue la decisión correcta', le responden seguidores del Presidente",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/agmeth-escaf-critica-posesion-de-abelardo-de-la-espriella-si-no-le-gusto-fue-la-decision-correcta-le-responden-seguidores-del-presidente-3576986",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-08T08:51:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los timonazos que se vienen con el gobierno de Abelardo De La Espriella: 'Ha comenzado el tiempo de recuperar el orden y la autoridad'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-timonazos-que-se-vienen-con-el-gobierno-de-abelardo-de-la-espriella-ha-comenzado-el-tiempo-de-recuperar-el-orden-y-la-autoridad-3576979",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-08T07:20:24-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella posesionó a los 18 ministros que lo acompañarán durante su administración como nuevo presidente de Colombia",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-posesiono-a-los-18-ministros-que-lo-acompanaran-durante-su-administracion-como-nuevo-presidente-de-colombia-3576987",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-08T07:14:15-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Primeras decisiones de Abelardo De la Espriella: ordena traslado de 117 presos de alto perfil vinculados a diálogos de paz",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/primeras-decisiones-de-abelardo-de-la-espriella-ordena-traslado-de-117-presos-de-alto-perfil-vinculados-a-dialogos-de-paz-3576994",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-08T06:41:03-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El discurso de posesión: el Tigre que promete gobernar con límites",
-      "link": "https://www.lasillavacia.com/silla-nacional/el-discurso-de-posesion-el-tigre-que-promete-gobernar-con-limites/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 08 Aug 2026 11:30:20 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
