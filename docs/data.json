@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-08T14:35:57.107Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-08T16:38:30.016Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 4,
       "momentum": {
-        "value": 33.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 4.7
@@ -47,26 +47,58 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella posesionó 18 ministros de su gabinete: fue en un acto privado en el Batallón Pichincha de Cali",
-      "link": "https://www.infobae.com/colombia/2026/08/08/abelardo-de-la-espriella-posesiono-18-ministros-de-su-gabinete-fue-en-un-acto-privado-en-el-batallon-pichincha-de-cali/",
+      "title": "Jorge Barón saludó a Abelardo de la Espriella como nuevo presidente de Colombia: “Con nuestra Patria Milagro”",
+      "link": "https://www.infobae.com/colombia/2026/08/08/jorge-baron-saludo-a-abelardo-de-la-espriella-como-nuevo-presidente-de-colombia-con-nuestra-patria-milagro/",
       "source": "Infobae",
-      "pubDate": "Sat, 08 Aug 2026 14:03:47 +0000",
+      "pubDate": "Sat, 08 Aug 2026 16:31:05 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Hernán Lacunza: “El 2,9% de inflación en CABA es consistente con un 2,2% a nivel nacional”",
-      "link": "https://www.infobae.com/economia/2026/08/08/hernan-lacunza-el-29-de-inflacion-en-caba-es-consistente-con-un-22-a-nivel-nacional/",
-      "source": "Infobae",
-      "pubDate": "Sat, 08 Aug 2026 14:03:15 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Nueva era política en Colombia: ¿Qué esperar del Gobierno de Abelardo de la Espriella?",
+      "link": "https://www.france24.com/es/video/20260808-nueva-era-pol%C3%ADtica-en-colombia-qu%C3%A9-esperar-del-gobierno-de-abelardo-de-la-espriella",
+      "source": "France 24",
+      "pubDate": "Sat, 08 Aug 2026 16:26:07 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "El nuevo ministro de Defensa reveló las primeras medidas de seguridad del Gobierno de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/08/08/el-nuevo-ministro-de-defensa-revelo-las-primeras-medidas-de-seguridad-del-gobierno-de-abelardo-de-la-espriella/",
+      "title": "Abelardo de la Espriella asume la Presidencia de Colombia y presenta la hoja de ruta de su Gobierno",
+      "link": "https://www.france24.com/es/video/20260808-abelardo-de-la-espriella-asume-la-presidencia-de-colombia-y-presenta-la-hoja-de-ruta-de-su-gobierno",
+      "source": "France 24",
+      "pubDate": "Sat, 08 Aug 2026 16:22:37 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Seguridad y descentralización: De la Espriella en su primer discurso como presidente de Colombia",
+      "link": "https://www.france24.com/es/video/20260808-seguridad-y-descentralizaci%C3%B3n-de-la-espriella-en-su-primer-discurso-como-presidente-de-colombia",
+      "source": "France 24",
+      "pubDate": "Sat, 08 Aug 2026 16:21:08 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Jennifer Pedraza cuestionó a Abelardo de la Espriella por reanudación de fumigaciones con aspersiones aéreas de cultivos ilícitos",
+      "link": "https://www.infobae.com/colombia/2026/08/08/jennifer-pedraza-cuestiono-a-abelardo-de-la-espriella-por-reanudacion-de-fumigaciones-con-aspersiones-aereas-de-cultivos-ilicitos/",
       "source": "Infobae",
-      "pubDate": "Sat, 08 Aug 2026 13:52:41 +0000",
+      "pubDate": "Sat, 08 Aug 2026 15:54:50 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Petro criticó la propuesta del nuevo gobierno de volver a la explotación de hidrocarburos: “Lleva a la sociedad a la miseria”",
+      "link": "https://www.infobae.com/colombia/2026/08/08/petro-critico-la-propuesta-del-nuevo-gobierno-de-volver-a-la-explotacion-de-hidrocarburos-lleva-a-la-sociedad-a-la-miseria/",
+      "source": "Infobae",
+      "pubDate": "Sat, 08 Aug 2026 15:52:01 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "De la Espriella y el avance de la derecha: ¿qué cambia en Colombia y América Latina?",
+      "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260808-de-la-espriella-y-el-avance-de-la-derecha-qu%C3%A9-cambia-en-colombia-y-am%C3%A9rica-latina",
+      "source": "France 24",
+      "pubDate": "Sat, 08 Aug 2026 15:44:23 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/agmeth-escaf-critica-posesion-de-abelardo-de-la-espriella-si-no-le-gusto-fue-la-decision-correcta-le-responden-seguidores-del-presidente-3576986",
       "source": "El Tiempo",
       "pubDate": "2026-08-08T08:51:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Expresidente Iván Duque criticó la administración de Gustavo Petro tras la posesión de Abelardo de la Espriella: \" Se fue en rechazo del pueblo colombiano\"   ",
-      "link": "https://www.infobae.com/colombia/2026/08/08/expresidente-ivan-duque-critico-la-administracion-de-gustavo-petro-tras-la-posesion-de-abelardo-de-la-espriella-se-fue-en-rechazo-del-pueblo-colombiano/",
-      "source": "Infobae",
-      "pubDate": "Sat, 08 Aug 2026 13:40:01 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -115,30 +139,6 @@
       "link": "https://www.lasillavacia.com/silla-nacional/el-discurso-de-posesion-el-tigre-que-promete-gobernar-con-limites/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 08 Aug 2026 11:30:20 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Padre de Abelardo De La Espriella rompió en llanto durante la posesión presidencial de su hijo en Cali: 'Me dio mucho sentimiento'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/padre-de-abelardo-de-la-espriella-rompio-en-llanto-durante-la-posesion-presidencial-de-su-hijo-en-cali-me-dio-mucho-sentimiento-3576992",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-08T05:15:20-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La hora del Caribe con Abelardo de la Espriella: ¿un gabinete de los nunca?",
-      "link": "https://www.lasillavacia.com/opinion/la-hora-del-caribe-con-abelardo-de-la-espriella-un-gabinete-de-los-nunca/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 08 Aug 2026 10:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "En su primer discurso como presidente, Abelardo De La Espriella anunció medidas contra el crimen: 'La opción del diálogo está completamente agotada'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/en-su-primer-discurso-como-presidente-abelardo-de-la-espriella-anuncio-medidas-contra-el-crimen-la-opcion-del-dialogo-esta-completamente-agotada-3576991",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-08T03:23:18-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
