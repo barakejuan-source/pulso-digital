@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-07T22:40:49.966Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-08T01:51:41.589Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 10,
+      "trendsScore": 9,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,98 +47,98 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella asume como presidente de Colombia en medio de una \"oración y alabanza\" religiosa",
+      "title": "Abelardo de la Espriella asume como presidente con su promesa de \"mano dura\"",
       "link": "https://www.bbc.co.uk/mundo/live/cxlye0m2z9qvt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-08-07T22:40:49.784Z",
+      "pubDate": "2026-08-08T01:51:41.431Z",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Posesión de Abelardo de la Espriella - EN VIVO: el presidente hace su discurso desde el batallón Pichincha",
+      "title": "Cali en llamas durante la posesión de Abelardo de la Espriella: incendio en la vía a Cristo Rey",
+      "link": "https://www.infobae.com/colombia/2026/08/08/cali-en-llamas-durante-la-posesion-de-abelardo-de-la-espriella-incendio-en-la-via-a-cristo-rey/",
+      "source": "Infobae",
+      "pubDate": "Sat, 08 Aug 2026 01:38:49 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elecciones 2026: 37 partidos y 7.378 candidatos tienen hasta el 24 de agosto para declarar gastos de campaña",
+      "link": "https://www.infobae.com/peru/2026/08/08/elecciones-2026-37-partidos-y-7378-candidatos-tienen-hasta-el-24-de-agosto-para-declarar-gastos-de-campana/",
+      "source": "Infobae",
+      "pubDate": "Sat, 08 Aug 2026 01:37:05 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella, presidente de Colombia - EN VIVO: inicia la posesión de ministros",
       "link": "https://www.infobae.com/colombia/2026/08/06/posesion-de-abelardo-de-la-espriella-en-vivo-gobierno-electo-aclara-polemica-por-la-invitacion-de-11-paises-europeos/",
       "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 22:40:15 +0000",
+      "pubDate": "Sat, 08 Aug 2026 01:35:31 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Efraín Cepeda arremetió contra Iván Cepeda tras desconocer mandato de Abelardo de la Espriella: “Más guerrillero que Petro”",
-      "link": "https://www.infobae.com/colombia/2026/08/07/efrain-cepeda-arremetio-contra-ivan-cepeda-tras-desconocer-mandato-de-abelardo-de-la-espriella-mas-guerrillero-que-petro/",
+      "title": "Abelardo de la Espriella aseguró que habrá cadena perpetua contra los abusadores de mujeres y niños: “Todo el peso de la ley caerá”",
+      "link": "https://www.infobae.com/colombia/2026/08/08/abelardo-de-la-espriella-aseguro-que-habra-cadena-perpetua-contra-los-abusadores-de-mujeres-y-ninos-todo-el-peso-de-la-ley-caera/",
       "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 22:39:15 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Sat, 08 Aug 2026 01:34:55 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo De La Espriella nuevo presidente de Colombia; interviene monseñor Francisco Múnera, presidente de la Conferencia Episcopal, en acto religioso",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/posesion-de-abelardo-de-la-espriella-como-nuevo-presidente-de-colombia-hoy-7-de-agosto-siga-los-actos-protocolarios-en-cali-ultimas-noticias-3576902",
+      "title": "Las 10 frases más relevantes del discurso de Abelardo de la Espriella: “Seré el presidente de todos los colombianos”",
+      "link": "https://www.infobae.com/colombia/2026/08/08/las-10-frases-mas-relevantes-del-discurso-de-abelardo-de-la-espriella-sere-el-presidente-de-todos-los-colombianos/",
+      "source": "Infobae",
+      "pubDate": "Sat, 08 Aug 2026 01:27:30 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Jennifer Pedraza fue a la posesión del presidente Abelardo de la Espriella, pero se retiró repentinamente: “Empiezan incumpliendo”",
+      "link": "https://www.infobae.com/colombia/2026/08/08/jennifer-pedraza-fue-a-la-posesion-del-presidente-abelardo-de-la-espriella-pero-se-retiro-repentinamente-empiezan-incumpliendo/",
+      "source": "Infobae",
+      "pubDate": "Sat, 08 Aug 2026 01:25:19 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Las 10 frases más contundentes del primer discurso de Abelardo De La Espriella como presidente de Colombia",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/las-frases-claves-del-primer-discurso-de-abelardo-de-la-espriella-como-presidente-de-colombia-3576951",
       "source": "El Tiempo",
-      "pubDate": "2026-08-07T17:34:45-05:00",
+      "pubDate": "2026-08-07T20:19:30-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Video | El momento exacto cuando Abelardo De La Espriella juramenta, recibe la banda y asume como Presidente de Colombia",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/video-el-momento-exacto-cuando-abelardo-de-la-espriella-juramenta-recibe-la-banda-y-asume-como-presidente-de-colombia-3576921",
+      "title": "Así transcurrieron los plantones y manifestaciones durante la posesión presidencial de Abelardo de la Espriella en Cali",
+      "link": "https://www.infobae.com/colombia/2026/08/07/en-vivo-protestas-en-cali-por-posesion-de-de-la-espriella-tendran-como-punto-central-puerto-rellena/",
+      "source": "Infobae",
+      "pubDate": "Sat, 08 Aug 2026 01:19:30 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "\"Viva Cristo Rey\": la religión protagoniza la inusual investidura de De la Espriella en Colombia",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260808-viva-cristo-rey-la-religi%C3%B3n-protagoniza-la-inusual-investidura-de-de-la-espriella-en-colombia",
+      "source": "France 24",
+      "pubDate": "Sat, 08 Aug 2026 01:17:51 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidenta Keiko Fujimori saludó a Abelardo de la Espriella como nuevo mandatario de Colombia",
+      "link": "https://www.infobae.com/peru/2026/08/08/presidenta-keiko-fujimori-saludo-a-abelardo-de-la-espriella-como-nuevo-mandatario-de-colombia/",
+      "source": "Infobae",
+      "pubDate": "Sat, 08 Aug 2026 01:13:06 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De la Espriella ordena traslado de Epa Colombia a cárcel de Ibagué por 'privilegios' que tiene en Bogotá",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-ordena-traslado-de-epa-colombia-a-carcel-de-ibague-por-privilegios-que-tiene-en-bogota-3576958",
       "source": "El Tiempo",
-      "pubDate": "2026-08-07T17:32:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ministro de Hacienda designado aseguró que Colombia enfrenta la “crisis económica más grave” de su historia: “Peligrosa”",
-      "link": "https://www.infobae.com/colombia/2026/08/07/ministro-de-hacienda-designado-aseguro-que-colombia-enfrenta-la-crisis-economica-mas-grave-de-su-historia-peligrosa/",
-      "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 22:32:37 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "EN VIVO| Reportan ataques durante la posesión de Abelardo de la Espriella: hay alerta en Cauca por hallazgo de un cilindro en la vía Panamericana",
-      "link": "https://www.infobae.com/colombia/2026/08/07/en-vivo-asi-esta-la-situacion-de-orden-publico-en-medio-de-la-posesion-presidencial-de-abelardo-de-la-espriella-se-han-reportado-hallazgos-de-explosivos/",
-      "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 22:26:26 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Investido presidente de Colombia Abelardo de la Espriella",
-      "link": "https://www.infobae.com/america/agencias/2026/08/07/investido-presidente-de-colombia-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 22:15:39 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Estos son los restos que tendrá que enfrentar el presidente Abelardo de la Espriella en materia de salud y seguridad: “Modificar el marco legal”",
-      "link": "https://www.infobae.com/colombia/2026/08/07/estos-son-los-restos-que-tendra-que-enfrentar-el-presidente-abelardo-de-la-espriella-en-materia-de-salud-y-seguridad-modificar-el-marco-legal/",
-      "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 21:53:52 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Este es el nuevo nombramiento en el gabinete del presidente Abelardo de la Espriella: se dio en plena posesión",
-      "link": "https://www.infobae.com/colombia/2026/08/07/este-es-el-nuevo-nombramiento-en-el-gabinete-del-presidente-abelardo-de-la-espriella-se-dio-en-plena-posesion/",
-      "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 21:51:19 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así fue la llegada de Javier Milei, presidente de Argentina, a la ceremonia de posesión de Abelardo De La Espriella en Cali",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-fue-la-llegada-de-javier-milei-presidente-de-argentina-a-la-ceremonia-de-posesion-de-abelardo-de-la-espriella-en-cali-3576913",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-07T16:48:53-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella jura como presidente de Colombia para el periodo 2026-2030",
-      "link": "https://www.infobae.com/america/agencias/2026/08/07/abelardo-de-la-espriella-jura-como-presidente-de-colombia-para-el-periodo-2026-2030/",
-      "source": "Infobae",
-      "pubDate": "Fri, 07 Aug 2026 21:45:40 +0000",
+      "pubDate": "2026-08-07T19:56:56-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
