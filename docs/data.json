@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T16:40:10.760Z",
+  "updatedAt": "2026-08-09T18:47:12.586Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 10,
+      "trendsScore": 9,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 4,
       "momentum": {
-        "value": 33.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 4.7
@@ -47,18 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella se comprometió con los deportistas colombianos luego del récord de medallas de oro en Santo Domingo 2026: “No están solos”",
-      "link": "https://www.infobae.com/colombia/deportes/2026/08/09/abelardo-de-la-espriella-se-comprometio-con-los-deportistas-colombianos-luego-del-record-de-medallas-de-oro-en-santo-domingo-2026-no-estan-solos/",
+      "title": "Abelardo de la Espriella respondió a María Corina Machado y afirmó que en Colombia siempre \"habrá una mano tendida\" a Venezuela",
+      "link": "https://www.infobae.com/colombia/2026/08/09/abelardo-de-la-espriella-respondio-a-maria-corina-machado-y-afirmo-que-en-colombia-siempre-habra-una-mano-tendida-a-venezuela/",
       "source": "Infobae",
-      "pubDate": "Sun, 09 Aug 2026 16:36:11 +0000",
+      "pubDate": "Sun, 09 Aug 2026 18:32:58 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Tras la posesión presidencial de Abelardo de la Espriella, Congreso reanuda sesiones con la elección del nuevo contralor general: así van las cuentas ",
-      "link": "https://www.infobae.com/colombia/2026/08/09/tras-la-posesion-presidencial-de-abelardo-de-la-espriella-congreso-reanuda-sesiones-con-la-eleccion-del-nuevo-contralor-general-asi-van-las-cuentas/",
+      "title": "Abelardo de la Espriella vivió incomodo momento en su primer acto de honores militares y Gustavo Petro lo cuestionó: “Yo le enseño” ",
+      "link": "https://www.infobae.com/colombia/2026/08/09/abelardo-de-la-espriella-vivio-incomodo-momento-en-su-primer-acto-de-honores-militares-y-gustavo-petro-lo-cuestiono-yo-le-enseno/",
       "source": "Infobae",
-      "pubDate": "Sun, 09 Aug 2026 15:58:42 +0000",
+      "pubDate": "Sun, 09 Aug 2026 18:18:22 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella reconoció el papel que jugarán los medios de comunicación en su mandato: “Una enorme responsabilidad”",
+      "link": "https://www.infobae.com/colombia/2026/08/09/abelardo-de-la-espriella-reconocio-el-papel-que-jugaran-los-medios-de-comunicacion-en-su-mandato-una-enorme-responsabilidad/",
+      "source": "Infobae",
+      "pubDate": "Sun, 09 Aug 2026 17:52:52 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia: fumigación de cultivos genera incertidumbre entre pueblos indígenas del Putumayo",
+      "link": "https://www.france24.com/es/video/20260809-colombia-fumigaci%C3%B3n-de-cultivos-genera-incertidumbre-entre-pueblos-ind%C3%ADgenas-del-putumayo",
+      "source": "France 24",
+      "pubDate": "Sun, 09 Aug 2026 17:30:31 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,7 +82,7 @@
       "title": "Fe en la victoria: viaje a la posesión de Abelardo De La Espriella",
       "link": "https://www.lasillavacia.com/silla-nacional/fe-en-la-victoria-viaje-a-la-posesion-de-abelardo-de-la-espriella/",
       "source": "La Silla Vacía",
-      "pubDate": "Sun, 09 Aug 2026 15:52:00 +0000",
+      "pubDate": "Sun, 09 Aug 2026 11:52:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -95,14 +111,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "La hora del Caribe con Abelardo de la Espriella: ¿un gabinete de los nunca?",
-      "link": "https://www.lasillavacia.com/opinion/la-hora-del-caribe-con-abelardo-de-la-espriella-un-gabinete-de-los-nunca/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 09 Aug 2026 02:51:57 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "José Manuel Restrepo jugará un rol clave en el gobierno de Abelardo De La Espriella: ¿por qué su figura en la Vicepresidencia es tan importante?",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/jose-manuel-restrepo-jugara-un-rol-clave-en-el-gobierno-de-abelardo-de-la-espriella-por-que-su-figura-en-la-vicepresidencia-es-tan-importante-3577082",
       "source": "El Tiempo",
@@ -119,26 +127,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella revela detalles del traslado de los 117 presos de la cárcel de Itagüí: 'Perderán los privilegios'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-revela-detalles-del-traslado-de-los-117-presos-de-la-carcel-de-itaguei-perderan-los-privilegios-3577055",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-08T19:11:42-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Cuál es el propósito del millonario paquete de seguridad que EE. UU. planea darle a Colombia?",
-      "link": "https://www.france24.com/es/video/20260808-cu%C3%A1l-es-el-prop%C3%B3sito-del-millonario-paquete-de-seguridad-que-ee-uu-planea-darle-a-colombia",
-      "source": "France 24",
-      "pubDate": "Sat, 08 Aug 2026 21:44:11 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella condena el atentado contra peaje de Mondomo: 'Colombia no se arrodillará ante el terrorismo'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-condena-el-atentado-contra-peaje-de-mondomo-colombia-no-se-arrodillara-ante-el-terrorismo-3577035",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-08T16:28:56-05:00",
+      "title": "3 momentos que marcaron la posesión de Abelardo de la Espriella como presidente de Colombia (y qué dicen sobre cómo será su gobierno)",
+      "link": "https://www.bbc.com/mundo/articles/cz64y70l8wzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Sat, 08 Aug 2026 02:31:50 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
