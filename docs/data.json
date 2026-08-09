@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T18:47:12.586Z",
+  "updatedAt": "2026-08-09T20:37:55.091Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 7,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 4,
+      "finalScore": 3,
       "momentum": {
-        "value": 0,
+        "value": -25,
         "direction": "flat"
       },
-      "probability": 4.7
+      "probability": 3.5
     },
     {
       "id": "abelardo_espriella",
@@ -42,47 +42,31 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 95.3
+      "probability": 96.5
     }
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella respondió a María Corina Machado y afirmó que en Colombia siempre \"habrá una mano tendida\" a Venezuela",
-      "link": "https://www.infobae.com/colombia/2026/08/09/abelardo-de-la-espriella-respondio-a-maria-corina-machado-y-afirmo-que-en-colombia-siempre-habra-una-mano-tendida-a-venezuela/",
+      "title": "Carlos Suárez arremetió contra María Jimena Duzán por críticas al inicio del Gobierno de Abelardo de la Espriella: “Mucha amargura” ",
+      "link": "https://www.infobae.com/colombia/2026/08/09/carlos-suarez-arremetio-contra-maria-jimena-duzan-por-criticas-al-inicio-del-gobierno-de-abelardo-de-la-espriella-mucha-amargura/",
       "source": "Infobae",
-      "pubDate": "Sun, 09 Aug 2026 18:32:58 +0000",
+      "pubDate": "Sun, 09 Aug 2026 20:10:40 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella vivió incomodo momento en su primer acto de honores militares y Gustavo Petro lo cuestionó: “Yo le enseño” ",
-      "link": "https://www.infobae.com/colombia/2026/08/09/abelardo-de-la-espriella-vivio-incomodo-momento-en-su-primer-acto-de-honores-militares-y-gustavo-petro-lo-cuestiono-yo-le-enseno/",
-      "source": "Infobae",
-      "pubDate": "Sun, 09 Aug 2026 18:18:22 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella reconoció el papel que jugarán los medios de comunicación en su mandato: “Una enorme responsabilidad”",
-      "link": "https://www.infobae.com/colombia/2026/08/09/abelardo-de-la-espriella-reconocio-el-papel-que-jugaran-los-medios-de-comunicacion-en-su-mandato-una-enorme-responsabilidad/",
-      "source": "Infobae",
-      "pubDate": "Sun, 09 Aug 2026 17:52:52 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Ecuador imputa a un exministro y otras 6 personas en el caso del asesinato del candidato presidencial Fernando Villavicencio",
+      "link": "https://www.bbc.com/mundo/articles/ckgdlp0rn0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Sun, 09 Aug 2026 20:10:13 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Colombia: fumigación de cultivos genera incertidumbre entre pueblos indígenas del Putumayo",
       "link": "https://www.france24.com/es/video/20260809-colombia-fumigaci%C3%B3n-de-cultivos-genera-incertidumbre-entre-pueblos-ind%C3%ADgenas-del-putumayo",
       "source": "France 24",
       "pubDate": "Sun, 09 Aug 2026 17:30:31 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Fe en la victoria: viaje a la posesión de Abelardo De La Espriella",
-      "link": "https://www.lasillavacia.com/silla-nacional/fe-en-la-victoria-viaje-a-la-posesion-de-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 09 Aug 2026 11:52:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -107,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/una-presidencia-regional-con-tres-sedes-oficiales-los-retos-de-la-nueva-forma-de-despachar-que-propone-abelardo-de-la-espriella-3577019",
       "source": "El Tiempo",
       "pubDate": "2026-08-08T22:30:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "José Manuel Restrepo jugará un rol clave en el gobierno de Abelardo De La Espriella: ¿por qué su figura en la Vicepresidencia es tan importante?",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/jose-manuel-restrepo-jugara-un-rol-clave-en-el-gobierno-de-abelardo-de-la-espriella-por-que-su-figura-en-la-vicepresidencia-es-tan-importante-3577082",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-08T21:43:28-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
