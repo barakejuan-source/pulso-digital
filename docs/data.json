@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T12:58:13.538Z",
+  "updatedAt": "2026-08-09T14:39:16.048Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,20 +47,12 @@
   ],
   "articles": [
     {
-      "title": "Padre de Abelardo de la Espriella se emocionó durante la posesión presidencial de su hijo pero le lanzó fuerte consejo: “Que se cuide mucho” ",
-      "link": "https://www.infobae.com/colombia/2026/08/09/padre-de-abelardo-de-la-espriella-se-emociono-durante-la-posesion-presidencial-de-su-hijo-pero-le-lanzo-fuerte-consejo-que-se-cuide-mucho/",
+      "title": "Iván Cepeda denunciará penalmente a Efraín Cepeda por señalarlo de pertenecer a grupos ilegales: “Violencia en mi contra”",
+      "link": "https://www.infobae.com/colombia/2026/08/09/ivan-cepeda-denunciara-penalmente-a-efrain-cepeda-por-senalarlo-de-pertenecer-a-grupos-ilegales-violencia-en-mi-contra/",
       "source": "Infobae",
-      "pubDate": "Sun, 09 Aug 2026 12:41:43 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Beto Coral arremetió contra el discurso de posesión presidencial de Abelardo de la Espriella: “Un gobierno que empezó mal”",
-      "link": "https://www.infobae.com/colombia/2026/08/09/beto-coral-arremetio-contra-el-discurso-de-posesion-presidencial-de-abelardo-de-la-espriella-un-gobierno-que-empezo-mal/",
-      "source": "Infobae",
-      "pubDate": "Sun, 09 Aug 2026 12:11:30 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Sun, 09 Aug 2026 14:18:50 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "¿Quiénes le hablan al oído al presidente Abelardo De La Espriella? Este es su círculo más cercano",
@@ -139,6 +131,14 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-condena-el-atentado-contra-peaje-de-mondomo-colombia-no-se-arrodillara-ante-el-terrorismo-3577035",
       "source": "El Tiempo",
       "pubDate": "2026-08-08T16:28:56-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Informe desde Cali: primer Consejo de Seguridad del nuevo Gobierno de De la Espriella en Colombia",
+      "link": "https://www.france24.com/es/video/20260808-informe-desde-cali-primer-consejo-de-seguridad-del-nuevo-gobierno-de-de-la-espriella-en-colombia",
+      "source": "France 24",
+      "pubDate": "Sat, 08 Aug 2026 18:05:55 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
