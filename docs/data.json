@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T01:58:46.393Z",
+  "updatedAt": "2026-08-09T03:50:38.340Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 3,
       "momentum": {
-        "value": -25,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 3.5
@@ -47,26 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Círculo de Periodistas de Bogotá pidió a Abelardo de la Espriella que garantice el trabajo de los medios en su gobierno",
-      "link": "https://www.infobae.com/colombia/2026/08/09/circulo-de-periodistas-de-bogota-pidio-a-abelardo-de-la-espriella-que-garantice-el-trabajo-de-los-medios-en-su-gobierno/",
-      "source": "Infobae",
-      "pubDate": "Sun, 09 Aug 2026 01:30:20 +0000",
+      "title": "Colombia cambia de rumbo: la agenda y los retos del arranque del gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/colombia-cambia-de-rumbo-la-agenda-y-los-retos-del-arranque-del-gobierno-de-abelardo-de-la-espriella-3577057",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-08T22:30:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella estrenó su cuenta oficial de Presidencia en X: “Comenzó una nueva etapa para Colombia”",
-      "link": "https://www.infobae.com/colombia/2026/08/09/abelardo-de-la-espriella-estreno-su-cuenta-oficial-de-presidencia-en-x-comenzo-una-nueva-etapa-para-colombia/",
-      "source": "Infobae",
-      "pubDate": "Sun, 09 Aug 2026 01:22:38 +0000",
+      "title": "Una 'presidencia regional' con tres sedes satélite: los retos de la nueva forma de despachar que propone Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/una-presidencia-regional-con-tres-sedes-oficiales-los-retos-de-la-nueva-forma-de-despachar-que-propone-abelardo-de-la-espriella-3577019",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-08T22:30:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Nuevo golpe a los grupos armados: capturado alias “Bonito”, cabecilla de los Comandos de Frontera",
-      "link": "https://www.infobae.com/colombia/2026/08/09/nuevo-golpe-a-los-grupos-armados-capturado-alias-bonito-cabecilla-de-los-comandos-de-frontera/",
-      "source": "Infobae",
-      "pubDate": "Sun, 09 Aug 2026 00:29:02 +0000",
+      "title": "La hora del Caribe con Abelardo de la Espriella: ¿un gabinete de los nunca?",
+      "link": "https://www.lasillavacia.com/opinion/la-hora-del-caribe-con-abelardo-de-la-espriella-un-gabinete-de-los-nunca/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 09 Aug 2026 02:51:57 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "José Manuel Restrepo jugará un rol clave en el gobierno de Abelardo De La Espriella: ¿por qué su figura en la Vicepresidencia es tan importante?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/jose-manuel-restrepo-jugara-un-rol-clave-en-el-gobierno-de-abelardo-de-la-espriella-por-que-su-figura-en-la-vicepresidencia-es-tan-importante-3577082",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-08T21:43:28-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,14 +83,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-revela-detalles-del-traslado-de-los-117-presos-de-la-carcel-de-itaguei-perderan-los-privilegios-3577055",
       "source": "El Tiempo",
       "pubDate": "2026-08-08T19:11:42-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Efraín Cepeda es un “loquito” y pide cargos en el Gobierno de Abelardo de la Espriella, según Ariel Ávila",
-      "link": "https://www.infobae.com/colombia/2026/08/08/efrain-cepeda-es-un-loquito-y-pide-cargos-en-el-gobierno-de-abelardo-de-la-espriella-segun-ariel-avila/",
-      "source": "Infobae",
-      "pubDate": "Sat, 08 Aug 2026 23:34:26 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
