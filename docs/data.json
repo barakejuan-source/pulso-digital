@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T14:39:16.048Z",
+  "updatedAt": "2026-08-09T16:40:10.760Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 7,
+      "trendsScore": 10,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 3,
+      "finalScore": 4,
       "momentum": {
-        "value": 0,
+        "value": 33.3,
         "direction": "flat"
       },
-      "probability": 3.5
+      "probability": 4.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 96.5
+      "probability": 95.3
     }
   ],
   "articles": [
     {
-      "title": "Iván Cepeda denunciará penalmente a Efraín Cepeda por señalarlo de pertenecer a grupos ilegales: “Violencia en mi contra”",
-      "link": "https://www.infobae.com/colombia/2026/08/09/ivan-cepeda-denunciara-penalmente-a-efrain-cepeda-por-senalarlo-de-pertenecer-a-grupos-ilegales-violencia-en-mi-contra/",
+      "title": "Abelardo de la Espriella se comprometió con los deportistas colombianos luego del récord de medallas de oro en Santo Domingo 2026: “No están solos”",
+      "link": "https://www.infobae.com/colombia/deportes/2026/08/09/abelardo-de-la-espriella-se-comprometio-con-los-deportistas-colombianos-luego-del-record-de-medallas-de-oro-en-santo-domingo-2026-no-estan-solos/",
       "source": "Infobae",
-      "pubDate": "Sun, 09 Aug 2026 14:18:50 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Sun, 09 Aug 2026 16:36:11 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "¿Quiénes le hablan al oído al presidente Abelardo De La Espriella? Este es su círculo más cercano",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quienes-le-hablan-al-oido-al-presidente-abelardo-de-la-espriella-este-es-su-circulo-mas-cercano-3577075",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-08T23:30:00-05:00",
+      "title": "Tras la posesión presidencial de Abelardo de la Espriella, Congreso reanuda sesiones con la elección del nuevo contralor general: así van las cuentas ",
+      "link": "https://www.infobae.com/colombia/2026/08/09/tras-la-posesion-presidencial-de-abelardo-de-la-espriella-congreso-reanuda-sesiones-con-la-eleccion-del-nuevo-contralor-general-asi-van-las-cuentas/",
+      "source": "Infobae",
+      "pubDate": "Sun, 09 Aug 2026 15:58:42 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,7 +66,15 @@
       "title": "Fe en la victoria: viaje a la posesión de Abelardo De La Espriella",
       "link": "https://www.lasillavacia.com/silla-nacional/fe-en-la-victoria-viaje-a-la-posesion-de-abelardo-de-la-espriella/",
       "source": "La Silla Vacía",
-      "pubDate": "Sun, 09 Aug 2026 03:52:34 +0000",
+      "pubDate": "Sun, 09 Aug 2026 15:52:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Quiénes le hablan al oído al presidente Abelardo De La Espriella? Este es su círculo más cercano",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quienes-le-hablan-al-oido-al-presidente-abelardo-de-la-espriella-este-es-su-circulo-mas-cercano-3577075",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-08T23:30:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -131,14 +139,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-condena-el-atentado-contra-peaje-de-mondomo-colombia-no-se-arrodillara-ante-el-terrorismo-3577035",
       "source": "El Tiempo",
       "pubDate": "2026-08-08T16:28:56-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Informe desde Cali: primer Consejo de Seguridad del nuevo Gobierno de De la Espriella en Colombia",
-      "link": "https://www.france24.com/es/video/20260808-informe-desde-cali-primer-consejo-de-seguridad-del-nuevo-gobierno-de-de-la-espriella-en-colombia",
-      "source": "France 24",
-      "pubDate": "Sat, 08 Aug 2026 18:05:55 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
