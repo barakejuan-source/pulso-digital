@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T15:02:46.482Z",
+  "updatedAt": "2026-08-10T16:57:26.042Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,18 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Terremoto: 18 muertos en Pereira. Gobierno instala PMU",
-      "link": "https://www.lasillavacia.com/terremoto-18-muertos-en-pereira-gobierno-instala-pmu/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 10 Aug 2026 15:00:12 +0000",
+      "title": "Abelardo de la Espriella ya tiene nuevo director para la Aeronáutica Civil: de quién se trata",
+      "link": "https://www.infobae.com/colombia/2026/08/10/abelardo-de-la-espriella-ya-tiene-nuevo-director-para-la-aeronautica-civil-de-quien-se-trata/",
+      "source": "Infobae",
+      "pubDate": "Mon, 10 Aug 2026 16:53:30 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El presidente Abelardo de la Espriella se pronunció tras el temblor de 7,4 en Colombia: anunció que viajará a Pereira y habrá un PMU en Chocó",
-      "link": "https://www.infobae.com/colombia/2026/08/10/el-presidente-abelardo-de-la-espriella-se-pronuncio-tras-el-temblor-de-74-en-colombia-anuncio-que-viajara-a-pereira-y-habra-un-pmu-en-choco/",
-      "source": "Infobae",
-      "pubDate": "Mon, 10 Aug 2026 14:59:52 +0000",
+      "title": "Presidente Abelardo De La Espriella declara el desastre de carácter nacional tras terremoto de magnitud 7,4",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-declara-el-desastre-de-caracter-nacional-tras-terremoto-de-magnitud-7-3577333",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-10T11:47:31-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella habló tras terremoto de 7,4 en Colombia y anunció Puesto de Mando Unificado en Bogotá: 'Reunión de urgencia'",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-anuncio-puesto-de-mando-unificado-en-bogota-tras-fuerte-terremoto-de-7-4-en-colombia-una-reunion-de-urgencia-3577305",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-10T11:05:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Vía Congreso o decreto? Estas son las rutas que debe tomar el gobierno de Abelardo De La Espriella para sacar adelante sus propuesta de campaña",
+      "link": "https://www.eltiempo.com/politica/gobierno/via-congreso-o-decreto-estas-son-las-rutas-que-debe-tomar-el-gobierno-de-abelardo-de-la-espriella-para-sacar-adelante-sus-propuesta-de-campana-3577304",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-10T10:09:44-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Terremoto: 21 víctimas fatales en Pereira, Manizales y Quibdó",
+      "link": "https://www.lasillavacia.com/en-vivo/terremoto-21-victimas-fatales-en-pereira-manizales-y-quibdo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 10 Aug 2026 15:00:12 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,22 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-presencia-en-pereira-para-atender-emergencia-por-temblor-en-el-suroccidente-en-manana-del-lunes-3577269",
       "source": "El Tiempo",
       "pubDate": "2026-08-10T09:04:14-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desayune informado con las movidas de este 10 de agosto de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-10-de-agosto-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 10 Aug 2026 12:32:59 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo: sus aliados, sus enemigos y sus prioridades",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/abelardo-sus-aliados-sus-enemigos-y-sus-prioridades/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 10 Aug 2026 12:12:50 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -117,14 +125,6 @@
       "pubDate": "Sun, 09 Aug 2026 20:10:13 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Colombia: fumigación de cultivos genera incertidumbre entre pueblos indígenas del Putumayo",
-      "link": "https://www.france24.com/es/video/20260809-colombia-fumigaci%C3%B3n-de-cultivos-genera-incertidumbre-entre-pueblos-ind%C3%ADgenas-del-putumayo",
-      "source": "France 24",
-      "pubDate": "Sun, 09 Aug 2026 17:30:31 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
