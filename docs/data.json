@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-09T22:36:07.906Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-10T02:03:27.751Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -46,6 +46,38 @@
     }
   ],
   "articles": [
+    {
+      "title": "Expresidente del Congreso lanzó indirecta a César Pachón por presuntas irregularidades en la ADR: “¡El disfraz no esconde al ladrón!”",
+      "link": "https://www.infobae.com/colombia/2026/08/10/expresidente-del-congreso-lanzo-indirecta-a-cesar-pachon-por-presuntas-irregularidades-en-la-adr-el-disfraz-no-esconde-al-ladron/",
+      "source": "Infobae",
+      "pubDate": "Mon, 10 Aug 2026 01:15:57 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Óscar Benavides reclamó a Abelardo de la Espriella por asistir a la Feria de las Flores mientras aumentan los ataques en Cauca y Tolima: “Actúe”",
+      "link": "https://www.infobae.com/colombia/2026/08/10/oscar-benavides-reclamo-a-abelardo-de-la-espriella-por-asistir-a-la-feria-de-las-flores-mientras-aumentan-los-ataques-en-cauca-y-tolima-actue/",
+      "source": "Infobae",
+      "pubDate": "Mon, 10 Aug 2026 00:57:34 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella visitó Medellín por primera vez como presidente y acompañó el Desfile de Silleteros",
+      "link": "https://www.infobae.com/colombia/2026/08/10/abelardo-de-la-espriella-visito-medellin-por-primera-vez-como-presidente-y-acompano-el-desfile-de-silleteros/",
+      "source": "Infobae",
+      "pubDate": "Mon, 10 Aug 2026 00:21:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Cierre el domingo con esta selección de columnas de opinión",
+      "link": "https://www.lasillavacia.com/en-vivo/cierre-este-domingo-con-esta-seleccion-de-columnas-de-opinion/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 10 Aug 2026 00:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Ecuador imputa a un exministro y otras 6 personas en el caso del asesinato del candidato presidencial Fernando Villavicencio",
       "link": "https://www.bbc.com/mundo/articles/ckgdlp0rn0do?at_medium=RSS&at_campaign=rss",
