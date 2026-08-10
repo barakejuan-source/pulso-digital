@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-10T16:57:26.042Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-10T19:02:31.256Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella ya tiene nuevo director para la Aeronáutica Civil: de quién se trata",
-      "link": "https://www.infobae.com/colombia/2026/08/10/abelardo-de-la-espriella-ya-tiene-nuevo-director-para-la-aeronautica-civil-de-quien-se-trata/",
-      "source": "Infobae",
-      "pubDate": "Mon, 10 Aug 2026 16:53:30 +0000",
+      "title": "Presidente Abelardo De La Espriella confirma 111 fallecidos y 87 heridos por terremoto de magnitud 7,4 en Colombia; mandatario viajará a Quibdó",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-confirma-111-fallecidos-y-87-heridos-por-terremoto-de-magnitud-7-4-en-colombia-3577366",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-10T13:40:10-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,7 +58,31 @@
       "title": "Presidente Abelardo De La Espriella declara el desastre de carácter nacional tras terremoto de magnitud 7,4",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-declara-el-desastre-de-caracter-nacional-tras-terremoto-de-magnitud-7-3577333",
       "source": "El Tiempo",
-      "pubDate": "2026-08-10T11:47:31-05:00",
+      "pubDate": "2026-08-10T13:24:45-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Keiko Fujimori envía mensaje a Colombia por terremoto de magnitud 7.4: “Les hago llegar nuestra disposición para ayudar”",
+      "link": "https://www.infobae.com/peru/2026/08/10/keiko-fujimori-envia-mensaje-a-colombia-por-terremoto-de-magnitud-74-les-hago-llegar-nuestra-disposicion-para-ayudar/",
+      "source": "Infobae",
+      "pubDate": "Mon, 10 Aug 2026 18:23:49 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Distintos sectores le piden al gobierno de Abelardo De La Espriella que declare el estado de emergencia económica tras terremoto en suroccidente",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/distintos-sectores-le-piden-al-gobierno-de-abelardo-de-la-espriella-que-declare-el-estado-de-emergencia-economica-tras-terremoto-en-suroccidente-3577358",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-10T13:06:23-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Informe desde Bogotá: De la Espriella declara desastre nacional por terremoto de 7,4",
+      "link": "https://www.france24.com/es/video/20260810-informe-desde-bogot%C3%A1-de-la-espriella-declara-desastre-nacional-por-terremoto-de-7-4",
+      "source": "France 24",
+      "pubDate": "Mon, 10 Aug 2026 18:01:31 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,23 +90,15 @@
       "title": "Presidente Abelardo De La Espriella habló tras terremoto de 7,4 en Colombia y anunció Puesto de Mando Unificado en Bogotá: 'Reunión de urgencia'",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-anuncio-puesto-de-mando-unificado-en-bogota-tras-fuerte-terremoto-de-7-4-en-colombia-una-reunion-de-urgencia-3577305",
       "source": "El Tiempo",
-      "pubDate": "2026-08-10T11:05:00-05:00",
+      "pubDate": "2026-08-10T12:35:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "¿Vía Congreso o decreto? Estas son las rutas que debe tomar el gobierno de Abelardo De La Espriella para sacar adelante sus propuesta de campaña",
+      "title": "¿Vía Congreso o decreto? Estas son las rutas que debe tomar el gobierno de Abelardo De La Espriella para sacar adelante sus propuestas de campaña",
       "link": "https://www.eltiempo.com/politica/gobierno/via-congreso-o-decreto-estas-son-las-rutas-que-debe-tomar-el-gobierno-de-abelardo-de-la-espriella-para-sacar-adelante-sus-propuesta-de-campana-3577304",
       "source": "El Tiempo",
-      "pubDate": "2026-08-10T10:09:44-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Terremoto: 21 víctimas fatales en Pereira, Manizales y Quibdó",
-      "link": "https://www.lasillavacia.com/en-vivo/terremoto-21-victimas-fatales-en-pereira-manizales-y-quibdo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 10 Aug 2026 15:00:12 +0000",
+      "pubDate": "2026-08-10T12:33:19-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
