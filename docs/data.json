@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-10T02:03:27.751Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-10T05:37:32.478Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,36 +47,20 @@
   ],
   "articles": [
     {
-      "title": "Expresidente del Congreso lanzó indirecta a César Pachón por presuntas irregularidades en la ADR: “¡El disfraz no esconde al ladrón!”",
-      "link": "https://www.infobae.com/colombia/2026/08/10/expresidente-del-congreso-lanzo-indirecta-a-cesar-pachon-por-presuntas-irregularidades-en-la-adr-el-disfraz-no-esconde-al-ladron/",
+      "title": "Abelardo de la Espriella tendría que cobrar más de $50 billones en impuestos para arreglar el descuadre de dinero que le deja Gustavo Petro",
+      "link": "https://www.infobae.com/colombia/2026/08/05/abelardo-de-la-espriella-tendria-que-cobrar-mas-de-50-billones-en-impuestos-para-arreglar-el-descuadre-de-dinero-que-le-deja-gustavo-petro/",
       "source": "Infobae",
-      "pubDate": "Mon, 10 Aug 2026 01:15:57 +0000",
+      "pubDate": "Mon, 10 Aug 2026 04:11:32 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Óscar Benavides reclamó a Abelardo de la Espriella por asistir a la Feria de las Flores mientras aumentan los ataques en Cauca y Tolima: “Actúe”",
-      "link": "https://www.infobae.com/colombia/2026/08/10/oscar-benavides-reclamo-a-abelardo-de-la-espriella-por-asistir-a-la-feria-de-las-flores-mientras-aumentan-los-ataques-en-cauca-y-tolima-actue/",
-      "source": "Infobae",
-      "pubDate": "Mon, 10 Aug 2026 00:57:34 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella visitó Medellín por primera vez como presidente y acompañó el Desfile de Silleteros",
-      "link": "https://www.infobae.com/colombia/2026/08/10/abelardo-de-la-espriella-visito-medellin-por-primera-vez-como-presidente-y-acompano-el-desfile-de-silleteros/",
-      "source": "Infobae",
-      "pubDate": "Mon, 10 Aug 2026 00:21:48 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cierre el domingo con esta selección de columnas de opinión",
-      "link": "https://www.lasillavacia.com/en-vivo/cierre-este-domingo-con-esta-seleccion-de-columnas-de-opinion/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 10 Aug 2026 00:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Informe desde Quito: Fiscalía pide llamar a juicio a siete acusados por asesinato de Villavicencio",
+      "link": "https://www.france24.com/es/video/20260810-informe-desde-quito-fiscal%C3%ADa-pide-llamar-a-juicio-a-siete-acusados-por-asesinato-de-villavicencio",
+      "source": "France 24",
+      "pubDate": "Mon, 10 Aug 2026 03:04:18 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Ecuador imputa a un exministro y otras 6 personas en el caso del asesinato del candidato presidencial Fernando Villavicencio",
@@ -99,38 +83,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quienes-le-hablan-al-oido-al-presidente-abelardo-de-la-espriella-este-es-su-circulo-mas-cercano-3577075",
       "source": "El Tiempo",
       "pubDate": "2026-08-08T23:30:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia cambia de rumbo: la agenda y los retos del arranque del gobierno de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/colombia-cambia-de-rumbo-la-agenda-y-los-retos-del-arranque-del-gobierno-de-abelardo-de-la-espriella-3577057",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-08T22:30:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Una 'presidencia regional' con tres sedes satélite: los retos de la nueva forma de despachar que propone Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/una-presidencia-regional-con-tres-sedes-oficiales-los-retos-de-la-nueva-forma-de-despachar-que-propone-abelardo-de-la-espriella-3577019",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-08T22:30:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Atentados marcan inicio del Gobierno De la Espriella mientras EE. UU. ofrece apoyo millonario",
-      "link": "https://www.france24.com/es/video/20260809-atentados-marcan-inicio-del-gobierno-de-la-espriella-mientras-ee-uu-ofrece-apoyo-millonario",
-      "source": "France 24",
-      "pubDate": "Sun, 09 Aug 2026 02:03:31 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "3 momentos que marcaron la posesión de Abelardo de la Espriella como presidente de Colombia (y qué dicen sobre cómo será su gobierno)",
-      "link": "https://www.bbc.com/mundo/articles/cz64y70l8wzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Sat, 08 Aug 2026 02:31:50 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
