@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T09:27:02.595Z",
+  "updatedAt": "2026-08-10T11:12:22.821Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Presidente Abelardo De La Espriella: últimas noticias sobre la ofensiva militar en Colombia contra disidencias y grupos criminales",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ultimas-noticias-sobre-la-ofensiva-militar-en-colombia-contra-disidencias-y-grupos-criminales-3577231",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-10T05:51:15-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella agradeció anuncio de EE. UU. sobre 1.000 millones de dólares para seguridad en Colombia: 'Profunda satisfacción'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-agradecio-anuncio-de-ee-uu-sobre-1-000-millones-de-dolares-para-seguridad-en-colombia-profunda-satisfaccion-3577221",
       "source": "El Tiempo",
@@ -75,14 +83,6 @@
       "link": "https://www.france24.com/es/video/20260809-colombia-fumigaci%C3%B3n-de-cultivos-genera-incertidumbre-entre-pueblos-ind%C3%ADgenas-del-putumayo",
       "source": "France 24",
       "pubDate": "Sun, 09 Aug 2026 17:30:31 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Quiénes le hablan al oído al presidente Abelardo De La Espriella? Este es su círculo más cercano",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quienes-le-hablan-al-oido-al-presidente-abelardo-de-la-espriella-este-es-su-circulo-mas-cercano-3577075",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-08T23:30:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
