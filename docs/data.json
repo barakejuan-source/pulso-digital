@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-11T19:06:44.999Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-11T20:51:26.461Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Horas críticas en Colombia para el rescate de sobrevivientes tras el potente terremoto que deja al menos 181 muertos y más de 2.500 heridos",
+      "title": "Los equipos de rescate en Colombia buscan sobrevivientes tras el potente terremoto que dejó al menos 181 muertos y más de 2.500 heridos",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-08-11T19:06:44.625Z",
+      "pubDate": "2026-08-11T20:51:26.277Z",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Terremoto en Colombia: Nayib Bukele envió aviones de carga con 100 toneladas de ayuda humanitaria a Colombia, así lo confirmó ",
+      "link": "https://www.infobae.com/colombia/2026/08/11/terremoto-en-colombia-nayib-bukele-envio-aviones-de-carga-con-100-toneladas-de-ayuda-humanitaria-a-colombia-asi-lo-confirmo/",
+      "source": "Infobae",
+      "pubDate": "Tue, 11 Aug 2026 20:43:55 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella entregó el balance de la situación en Manizales tras el temblor de magnitud 7,4: hay cinco muertos y más de 100 heridos",
+      "link": "https://www.infobae.com/colombia/2026/08/11/abelardo-de-la-espriella-entrego-el-balance-de-la-situacion-en-manizales-tras-el-temblor-de-magnitud-74-hay-cinco-muertos-y-mas-de-100-heridos/",
+      "source": "Infobae",
+      "pubDate": "Tue, 11 Aug 2026 20:40:29 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Expresidente Petro cuestionó al Gobierno de Abelardo de la Espriella por la atención a la emergencia por el terremoto: “Dónde esta el buque hospital Benkos Biohó”",
+      "link": "https://www.infobae.com/colombia/2026/08/11/expresidente-petro-cuestiono-al-gobierno-de-abelardo-de-la-espriella-por-la-atencion-a-la-emergencia-por-el-terremoto-donde-esta-el-buque-hospital-benkos-bioho/",
+      "source": "Infobae",
+      "pubDate": "Tue, 11 Aug 2026 20:09:57 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -87,34 +111,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Ministro del Interior, Rodrigo Lara, asumirá como director encargado de la Unidad Nacional de Protección",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ministro-del-interior-rodrigo-lara-asumira-como-director-encargado-de-la-unidad-nacional-de-proteccion-3577577",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-11T10:46:59-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella declaró estado de emergencia y viajó a zona afectada: las medidas anunciadas por el mandatario",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-declaro-estado-de-emergencia-y-viajo-a-zona-afectada-las-medidas-anunciadas-por-el-mandatario-3577461",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-11T10:34:10-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Colombia sigue a Trump y atribuye a Israel la \"soberanía\" sobre los Altos del Golán sirios ocupados",
       "link": "https://www.france24.com/es/video/20260811-colombia-sigue-a-trump-y-atribuye-a-israel-la-soberan%C3%ADa-sobre-los-altos-del-gol%C3%A1n-sirios-ocupados-1",
       "source": "France 24",
       "pubDate": "Tue, 11 Aug 2026 15:17:06 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Esta es la agenda del gobierno de Abelardo De La Espriella este martes para atender la emergencia por el terremoto del suroccidente",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/esta-es-la-agenda-del-gobierno-de-abelardo-de-la-espriella-este-martes-para-atender-la-emergencia-por-el-terremoto-del-suroccidente-3577525",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-11T10:04:58-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
