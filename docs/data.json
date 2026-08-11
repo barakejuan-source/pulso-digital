@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T22:41:59.260Z",
+  "updatedAt": "2026-08-11T01:59:03.026Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,18 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Al menos 111 muertos y más de 500 heridos tras el terremoto de magnitud 7,4 que sacudió Colombia",
+      "title": "Se intensifican las labores de rescate tras el terremoto de magnitud 7,4 que deja al menos 132 muertos y más de 500 heridos en Colombia",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-08-10T22:41:58.405Z",
+      "pubDate": "2026-08-11T01:59:02.821Z",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Los temas medioambientales que Abelardo incluyó e ignoró en su posesión",
-      "link": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/los-temas-medioambientales-que-abelardo-incluyo-e-ignoro-en-su-posesion/",
+      "title": "Terremoto en Colombia: Abelardo de la Espriella entregó balance de la tragedia en Cali y anunció traslado de uniformados para resguardar el orden",
+      "link": "https://www.infobae.com/colombia/2026/08/11/terremoto-en-colombia-abelardo-de-la-espriella-entrego-balance-de-la-tragedia-en-cali-y-anuncio-traslado-de-uniformados-para-resguardar-el-orden/",
+      "source": "Infobae",
+      "pubDate": "Tue, 11 Aug 2026 01:49:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Un terremoto en Colombia deja más de un centenar de muertos y decenas de heridos y desaparecidos",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260811-un-terremoto-en-colombia-deja-m%C3%A1s-de-un-centenar-de-muertos-y-decenas-de-heridos-y-desaparecidos",
+      "source": "France 24",
+      "pubDate": "Tue, 11 Aug 2026 01:25:02 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Milei no publicó fotos de su habitación en Cali, imágenes fueron hechas con IA",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/milei-no-publico-fotos-de-su-habitacion-en-cali-imagenes-fueron-hechas-con-ia/",
       "source": "La Silla Vacía",
-      "pubDate": "Mon, 10 Aug 2026 22:38:39 +0000",
+      "pubDate": "Tue, 11 Aug 2026 01:13:55 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,7 +82,23 @@
       "title": "Abelardo de la Espriella habló desde el Chocó tras el fuerte terremoto de 7,4 y prometió que “nunca más será la tierra de los olvidados” ",
       "link": "https://www.infobae.com/colombia/2026/08/10/abelardo-de-la-espriella-hablo-desde-el-choco-tras-el-fuerte-terremoto-de-74-y-prometio-que-nunca-mas-sera-la-tierra-de-los-olvidados/",
       "source": "Infobae",
-      "pubDate": "Mon, 10 Aug 2026 22:35:23 +0000",
+      "pubDate": "Tue, 11 Aug 2026 00:43:31 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella declaró estado de emergencia y viajó a zona afectada: las medidas anunciadas por el mandatario",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-declaro-estado-de-emergencia-y-viajo-a-zona-afectada-las-medidas-anunciadas-por-el-mandatario-3577461",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-10T19:09:23-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella confirma 111 fallecidos y 87 heridos por terremoto de magnitud 7,4 en Colombia; mandatario viajará a Quibdó",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-confirma-111-fallecidos-y-87-heridos-por-terremoto-de-magnitud-7-4-en-colombia-3577366",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-10T18:12:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -77,22 +109,6 @@
       "pubDate": "Mon, 10 Aug 2026 22:24:50 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella confirma 111 fallecidos y 87 heridos por terremoto de magnitud 7,4 en Colombia; mandatario viajará a Quibdó",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-confirma-111-fallecidos-y-87-heridos-por-terremoto-de-magnitud-7-4-en-colombia-3577366",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-10T17:18:53-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El Gobierno contactó a las autoridades de Colombia y evalúa enviar asistencia tras el terremoto",
-      "link": "https://www.infobae.com/politica/2026/08/10/el-gobierno-contacto-a-las-autoridades-de-colombia-para-enviar-asistencia-tras-el-terremoto/",
-      "source": "Infobae",
-      "pubDate": "Mon, 10 Aug 2026 21:57:24 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Presidente Abelardo De La Espriella declara el desastre de carácter nacional tras terremoto de magnitud 7,4",
@@ -107,22 +123,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-vicepresidente-jose-manuel-restrepo-se-dirige-al-departamento-de-caldas-para-atender-la-emergencia-ocasionada-por-el-terremoto-3577398",
       "source": "El Tiempo",
       "pubDate": "2026-08-10T16:23:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella: últimas noticias sobre la ofensiva militar en Colombia contra disidencias y grupos criminales",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ultimas-noticias-sobre-la-ofensiva-militar-en-colombia-contra-disidencias-y-grupos-criminales-3577231",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-10T15:25:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Terremoto: San José del Palmar solo tiene 32 millones para la emergencia",
-      "link": "https://www.lasillavacia.com/en-vivo/terremoto-san-jose-del-palmar-solo-tiene-32-millones-para-la-emergencia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 10 Aug 2026 19:42:12 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
