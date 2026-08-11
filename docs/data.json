@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T17:01:21.775Z",
+  "updatedAt": "2026-08-11T19:06:44.999Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -50,25 +50,33 @@
       "title": "Horas críticas en Colombia para el rescate de sobrevivientes tras el potente terremoto que deja al menos 181 muertos y más de 2.500 heridos",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-08-11T17:01:21.552Z",
+      "pubDate": "2026-08-11T19:06:44.625Z",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Ministro del Interior Rodrigo Lara es ahora el director (e) de la Unidad Nacional de Protección  ",
-      "link": "https://www.infobae.com/colombia/2026/08/11/ministro-del-interior-rodrigo-lara-es-ahora-el-director-e-de-la-unidad-nacional-de-proteccion/",
-      "source": "Infobae",
-      "pubDate": "Tue, 11 Aug 2026 16:47:37 +0000",
+      "title": "Colombia: ¿qué tan preparada estaba ante el potente sismo y cómo está respondiendo el Gobierno de De la Espriella?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260811-colombia-qu%C3%A9-tan-preparada-estaba-ante-el-potente-sismo-y-c%C3%B3mo-est%C3%A1-respondiendo-el-gobierno-de-de-la-espriella",
+      "source": "France 24",
+      "pubDate": "Tue, 11 Aug 2026 18:36:31 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Inician investigación contra Rafael López Aliaga por ataques a autoridades electorales en la campaña presidencial",
-      "link": "https://www.infobae.com/peru/2026/08/11/inician-investigacion-contra-rafael-lopez-aliaga-por-ataques-a-autoridades-electorales-en-la-campana-presidencial/",
-      "source": "Infobae",
-      "pubDate": "Tue, 11 Aug 2026 16:39:26 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Gobierno de Abelardo De La Espriella declarará la emergencia económica y social por terremoto en el suroccidente",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-declarara-la-emergencia-economica-y-social-por-terremoto-en-el-suroccidente-3577641",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-11T13:28:09-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella da nuevo balances de víctimas tras terremoto: 181 fallecidos y 2.595 heridos a nivel nacional",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-da-nuevo-balances-de-victimas-tras-terremoto-181-fallecidos-y-2-595-heridos-a-nivel-nacional-3577624",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-11T12:37:46-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "¿Quién es Lina María Garrido, la nueva directora de la Agencia Nacional de Tierras?",
@@ -111,34 +119,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El vicepresidente José Manuel Restrepo aterriza en el departamento de Caldas para atender la emergencia ocasionada por el terremoto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-vicepresidente-jose-manuel-restrepo-se-dirige-al-departamento-de-caldas-para-atender-la-emergencia-ocasionada-por-el-terremoto-3577398",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-11T09:54:40-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Colombia sigue a Trump y atribuye a Israel la \"soberanía\" sobre los Altos del Golán sirios ocupados",
       "link": "https://www.france24.com/es/video/20260811-colombia-sigue-a-trump-y-atribuye-a-israel-la-soberan%C3%ADa-sobre-los-altos-del-gol%C3%A1n-sirios-ocupados",
       "source": "France 24",
       "pubDate": "Tue, 11 Aug 2026 13:33:00 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gina Villalobos: \"La norma sismorresistente colombiana es muy robusta y buena\"",
-      "link": "https://www.france24.com/es/video/20260811-gina-villalobos-la-norma-sismorresistente-colombiana-es-muy-robusta-y-buena",
-      "source": "France 24",
-      "pubDate": "Tue, 11 Aug 2026 05:21:07 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Cómo ha sido la respuesta del Gobierno ante el terremoto en Colombia?",
-      "link": "https://www.france24.com/es/video/20260811-c%C3%B3mo-ha-sido-la-respuesta-del-gobierno-ante-el-terremoto-en-colombia",
-      "source": "France 24",
-      "pubDate": "Tue, 11 Aug 2026 05:20:35 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
