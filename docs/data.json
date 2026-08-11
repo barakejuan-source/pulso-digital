@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-11T05:13:47.553Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-11T07:14:34.992Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -50,7 +50,15 @@
       "title": "Continúan las labores de rescate tras el terremoto de magnitud 7,4 que deja al menos 132 muertos y más de 500 heridos en Colombia",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-08-11T05:13:47.397Z",
+      "pubDate": "2026-08-11T07:14:34.693Z",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El país que le espera a Abelardo De La Espriella",
+      "link": "https://www.infobae.com/opinion/2026/08/11/el-pais-que-le-espera-a-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Tue, 11 Aug 2026 06:21:13 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
