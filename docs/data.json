@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T15:02:26.091Z",
+  "updatedAt": "2026-08-11T17:01:21.775Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,10 +47,66 @@
   ],
   "articles": [
     {
-      "title": "Horas críticas para el rescate de sobrevivientes tras el potente terremoto que deja al menos 169 muertos y más de 900 heridos",
+      "title": "Horas críticas en Colombia para el rescate de sobrevivientes tras el potente terremoto que deja al menos 181 muertos y más de 2.500 heridos",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-08-11T15:02:26.028Z",
+      "pubDate": "2026-08-11T17:01:21.552Z",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ministro del Interior Rodrigo Lara es ahora el director (e) de la Unidad Nacional de Protección  ",
+      "link": "https://www.infobae.com/colombia/2026/08/11/ministro-del-interior-rodrigo-lara-es-ahora-el-director-e-de-la-unidad-nacional-de-proteccion/",
+      "source": "Infobae",
+      "pubDate": "Tue, 11 Aug 2026 16:47:37 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Inician investigación contra Rafael López Aliaga por ataques a autoridades electorales en la campaña presidencial",
+      "link": "https://www.infobae.com/peru/2026/08/11/inician-investigacion-contra-rafael-lopez-aliaga-por-ataques-a-autoridades-electorales-en-la-campana-presidencial/",
+      "source": "Infobae",
+      "pubDate": "Tue, 11 Aug 2026 16:39:26 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Quién es Lina María Garrido, la nueva directora de la Agencia Nacional de Tierras?",
+      "link": "https://www.eltiempo.com/politica/quien-es-lina-maria-garrido-la-nueva-directora-de-la-agencia-nacional-de-tierras-3577610",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-11T11:25:22-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ministro del Interior, Rodrigo Lara, asumirá como director encargado de la Unidad Nacional de Protección",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/ministro-del-interior-rodrigo-lara-asumira-como-director-encargado-de-la-unidad-nacional-de-proteccion-3577577",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-11T10:46:59-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella declaró estado de emergencia y viajó a zona afectada: las medidas anunciadas por el mandatario",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-declaro-estado-de-emergencia-y-viajo-a-zona-afectada-las-medidas-anunciadas-por-el-mandatario-3577461",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-11T10:34:10-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia sigue a Trump y atribuye a Israel la \"soberanía\" sobre los Altos del Golán sirios ocupados",
+      "link": "https://www.france24.com/es/video/20260811-colombia-sigue-a-trump-y-atribuye-a-israel-la-soberan%C3%ADa-sobre-los-altos-del-gol%C3%A1n-sirios-ocupados-1",
+      "source": "France 24",
+      "pubDate": "Tue, 11 Aug 2026 15:17:06 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Esta es la agenda del gobierno de Abelardo De La Espriella este martes para atender la emergencia por el terremoto del suroccidente",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/esta-es-la-agenda-del-gobierno-de-abelardo-de-la-espriella-este-martes-para-atender-la-emergencia-por-el-terremoto-del-suroccidente-3577525",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-11T10:04:58-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -63,34 +119,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El presidente Abelardo de la Espriella oficializó el nombramiento de Sandra Suárez como directora del DPS",
-      "link": "https://www.infobae.com/colombia/2026/08/11/el-presidente-abelardo-de-la-espriella-oficializo-el-nombramiento-de-sandra-suarez-como-directora-del-dps/",
-      "source": "Infobae",
-      "pubDate": "Tue, 11 Aug 2026 14:43:49 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella confirmó que viajará al Eje Cafetero, una de las zonas más afectadas por el terremoto de 7,4: “Mi compromiso está con las familias afectadas”",
-      "link": "https://www.infobae.com/colombia/2026/08/11/abelardo-de-la-espriella-confirmo-que-viajara-al-eje-cafetero-una-de-las-zonas-mas-afectadas-por-el-terremoto-de-74-mi-compromiso-esta-con-las-familias-afectadas/",
-      "source": "Infobae",
-      "pubDate": "Tue, 11 Aug 2026 14:35:56 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Colombia sigue a Trump y atribuye a Israel la \"soberanía\" sobre los Altos del Golán sirios ocupados",
       "link": "https://www.france24.com/es/video/20260811-colombia-sigue-a-trump-y-atribuye-a-israel-la-soberan%C3%ADa-sobre-los-altos-del-gol%C3%A1n-sirios-ocupados",
       "source": "France 24",
       "pubDate": "Tue, 11 Aug 2026 13:33:00 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Esta es la agenda del gobierno de Abelardo De La Espriella este martes para atender la emergencia por el terremoto del suroccidente",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/esta-es-la-agenda-del-gobierno-de-abelardo-de-la-espriella-este-martes-para-atender-la-emergencia-por-el-terremoto-del-suroccidente-3577525",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-11T07:51:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -109,38 +141,6 @@
       "pubDate": "Tue, 11 Aug 2026 05:20:35 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Un terremoto en Colombia deja más de un centenar de muertos y decenas de heridos y desaparecidos",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260811-un-terremoto-en-colombia-deja-m%C3%A1s-de-un-centenar-de-muertos-y-decenas-de-heridos-y-desaparecidos",
-      "source": "France 24",
-      "pubDate": "Tue, 11 Aug 2026 01:25:02 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella declaró estado de emergencia y viajó a zona afectada: las medidas anunciadas por el mandatario",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-declaro-estado-de-emergencia-y-viajo-a-zona-afectada-las-medidas-anunciadas-por-el-mandatario-3577461",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-10T19:09:23-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella confirma 111 fallecidos y 87 heridos por terremoto de magnitud 7,4 en Colombia; mandatario viajará a Quibdó",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-confirma-111-fallecidos-y-87-heridos-por-terremoto-de-magnitud-7-4-en-colombia-3577366",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-10T18:12:39-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ecuador imputa a un exministro y otras 6 personas en el caso del asesinato del candidato presidencial Fernando Villavicencio",
-      "link": "https://www.bbc.com/mundo/articles/ckgdlp0rn0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 10 Aug 2026 22:24:50 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
