@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T03:52:42.579Z",
+  "updatedAt": "2026-08-11T05:13:47.553Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 2,
       "momentum": {
-        "value": -33.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 2.4
@@ -47,20 +47,12 @@
   ],
   "articles": [
     {
-      "title": "Se intensifican las labores de rescate tras el terremoto de magnitud 7,4 que deja al menos 132 muertos y más de 500 heridos en Colombia",
+      "title": "Continúan las labores de rescate tras el terremoto de magnitud 7,4 que deja al menos 132 muertos y más de 500 heridos en Colombia",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-08-11T03:52:42.480Z",
+      "pubDate": "2026-08-11T05:13:47.397Z",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda llama a la unidad y anuncia apoyo del Pacto Histórico a víctimas del terremoto",
-      "link": "https://www.infobae.com/america/agencias/2026/08/11/ivan-cepeda-llama-a-la-unidad-y-anuncia-apoyo-del-pacto-historico-a-victimas-del-terremoto/",
-      "source": "Infobae",
-      "pubDate": "Tue, 11 Aug 2026 02:46:45 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Un terremoto en Colombia deja más de un centenar de muertos y decenas de heridos y desaparecidos",
