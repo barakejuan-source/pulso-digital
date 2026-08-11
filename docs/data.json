@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T13:13:59.276Z",
+  "updatedAt": "2026-08-11T15:02:26.091Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,10 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Colombia intensifica las tareas de rescate tras el potente terremoto que deja al menos 169 muertos y más de 900 heridos",
+      "title": "Horas críticas para el rescate de sobrevivientes tras el potente terremoto que deja al menos 169 muertos y más de 900 heridos",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-08-11T13:13:59.164Z",
+      "pubDate": "2026-08-11T15:02:26.028Z",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El vicepresidente José Manuel Restrepo aterriza en el departamento de Caldas para atender la emergencia ocasionada por el terremoto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-vicepresidente-jose-manuel-restrepo-se-dirige-al-departamento-de-caldas-para-atender-la-emergencia-ocasionada-por-el-terremoto-3577398",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-11T09:54:40-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El presidente Abelardo de la Espriella oficializó el nombramiento de Sandra Suárez como directora del DPS",
+      "link": "https://www.infobae.com/colombia/2026/08/11/el-presidente-abelardo-de-la-espriella-oficializo-el-nombramiento-de-sandra-suarez-como-directora-del-dps/",
+      "source": "Infobae",
+      "pubDate": "Tue, 11 Aug 2026 14:43:49 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella confirmó que viajará al Eje Cafetero, una de las zonas más afectadas por el terremoto de 7,4: “Mi compromiso está con las familias afectadas”",
+      "link": "https://www.infobae.com/colombia/2026/08/11/abelardo-de-la-espriella-confirmo-que-viajara-al-eje-cafetero-una-de-las-zonas-mas-afectadas-por-el-terremoto-de-74-mi-compromiso-esta-con-las-familias-afectadas/",
+      "source": "Infobae",
+      "pubDate": "Tue, 11 Aug 2026 14:35:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia sigue a Trump y atribuye a Israel la \"soberanía\" sobre los Altos del Golán sirios ocupados",
+      "link": "https://www.france24.com/es/video/20260811-colombia-sigue-a-trump-y-atribuye-a-israel-la-soberan%C3%ADa-sobre-los-altos-del-gol%C3%A1n-sirios-ocupados",
+      "source": "France 24",
+      "pubDate": "Tue, 11 Aug 2026 13:33:00 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -109,38 +141,6 @@
       "pubDate": "Mon, 10 Aug 2026 22:24:50 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella declara el desastre de carácter nacional tras terremoto de magnitud 7,4",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-declara-el-desastre-de-caracter-nacional-tras-terremoto-de-magnitud-7-3577333",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-10T16:37:01-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El vicepresidente José Manuel Restrepo aterriza en el departamento de Caldas para atender la emergencia ocasionada por el terremoto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-vicepresidente-jose-manuel-restrepo-se-dirige-al-departamento-de-caldas-para-atender-la-emergencia-ocasionada-por-el-terremoto-3577398",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-10T16:23:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Distintos sectores le piden al gobierno de Abelardo De La Espriella que declare el estado de emergencia económica tras terremoto en suroccidente",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/distintos-sectores-le-piden-al-gobierno-de-abelardo-de-la-espriella-que-declare-el-estado-de-emergencia-economica-tras-terremoto-en-suroccidente-3577358",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-10T13:06:23-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella habló tras terremoto de 7,4 en Colombia y anunció Puesto de Mando Unificado en Bogotá: 'Reunión de urgencia'",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-anuncio-puesto-de-mando-unificado-en-bogota-tras-fuerte-terremoto-de-7-4-en-colombia-una-reunion-de-urgencia-3577305",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-10T12:35:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
