@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T10:53:32.626Z",
+  "updatedAt": "2026-08-11T13:13:59.276Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Colombia intensifica las tareas de rescate tras el potente terremoto que deja al menos 132 muertos y más de 700 heridos",
+      "title": "Colombia intensifica las tareas de rescate tras el potente terremoto que deja al menos 169 muertos y más de 900 heridos",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-08-11T10:53:32.393Z",
+      "pubDate": "2026-08-11T13:13:59.164Z",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Esta es la agenda del gobierno de Abelardo De La Espriella este martes para atender la emergencia por el terremoto del suroccidente",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/esta-es-la-agenda-del-gobierno-de-abelardo-de-la-espriella-este-martes-para-atender-la-emergencia-por-el-terremoto-del-suroccidente-3577525",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-11T07:51:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,14 +83,6 @@
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260811-un-terremoto-en-colombia-deja-m%C3%A1s-de-un-centenar-de-muertos-y-decenas-de-heridos-y-desaparecidos",
       "source": "France 24",
       "pubDate": "Tue, 11 Aug 2026 01:25:02 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Milei no publicó fotos de su habitación en Cali, imágenes fueron hechas con IA",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/milei-no-publico-fotos-de-su-habitacion-en-cali-imagenes-fueron-hechas-con-ia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 11 Aug 2026 01:13:55 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
