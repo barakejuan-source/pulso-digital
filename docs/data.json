@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-12T19:06:31.466Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-12T20:51:32.048Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Gobierno de Abelardo De La Espriella no asistirá al congreso de la Andi en Cartagena debido a la emergencia nacional por el terremoto de 7,4",
+      "title": "Gobierno de Abelardo De La Espriella se ausentará del Congreso de la Andi en Cartagena para atender la emergencia por el terremoto de magnitud 7,4",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-no-asistira-al-congreso-de-la-andi-en-cartagena-debido-a-la-emergencia-nacional-por-el-terremoto-de-7-3577863",
       "source": "El Tiempo",
-      "pubDate": "2026-08-12T11:41:01-05:00",
+      "pubDate": "2026-08-12T15:26:40-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -83,14 +83,6 @@
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260812-en-directo-ue-destinar%C3%A1-2-millones-de-euros-en-ayudas-tras-terremoto-que-deja-m%C3%A1s-de-250-muertos-en-colombia",
       "source": "France 24",
       "pubDate": "Wed, 12 Aug 2026 08:02:05 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella habló del rescate de Daniela Largo tras pasar 36 horas atrapada en escombros en Pereira por terremoto: 'Bajo ruinas de hotel'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hablo-del-rescate-de-daniela-largo-tras-pasar-36-horas-atrapada-en-escombros-en-pereira-por-terremoto-bajo-ruinas-de-hotel-3577776",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-11T23:05:29-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
