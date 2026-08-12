@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T02:11:49.607Z",
+  "updatedAt": "2026-08-12T05:41:03.237Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,26 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Los equipos de rescate en Colombia buscan sobrevivientes tras el potente terremoto que dejó al menos 181 muertos y más de 2.500 heridos",
+      "title": "Segunda noche de búsqueda de sobrevivientes en Colombia tras el potente terremoto que dejó al menos 181 muertos y más de 2.500 heridos",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-08-12T02:11:49.412Z",
+      "pubDate": "2026-08-12T05:41:03.111Z",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Primer bombardeo en el Catatumbo bajo el mando de Abelardo de la Espriella: la Defensoría del Pueblo denunció afectación a civiles",
-      "link": "https://www.infobae.com/colombia/2026/08/12/primer-bombardeo-en-el-catatumbo-bajo-el-mando-de-abelardo-de-la-espriella-la-defensoria-del-pueblo-denuncio-afectacion-a-civiles/",
-      "source": "Infobae",
-      "pubDate": "Wed, 12 Aug 2026 01:54:37 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Quién es Lina María Garrido, la nueva directora de la Agencia Nacional de Tierras?",
-      "link": "https://www.eltiempo.com/politica/quien-es-lina-maria-garrido-la-nueva-directora-de-la-agencia-nacional-de-tierras-3577610",
+      "title": "Abelardo De La Espriella habló del rescate de Daniela Largo tras pasar 36 horas atrapada en escombros en Pereira por terremoto: 'Bajo ruinas de hotel'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hablo-del-rescate-de-daniela-largo-tras-pasar-36-horas-atrapada-en-escombros-en-pereira-por-terremoto-bajo-ruinas-de-hotel-3577776",
       "source": "El Tiempo",
-      "pubDate": "2026-08-11T19:37:58-05:00",
+      "pubDate": "2026-08-11T23:05:29-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Atención | Presidente Abelardo De La Espriella firmó decreto que declara desastre nacional tras terremoto de 7,4 en Colombia: 'Atender la tragedia'",
+      "link": "https://www.eltiempo.com/politica/gobierno/atencion-presidente-abelardo-de-la-espriella-firmo-decreto-que-declara-desastre-nacional-tras-terremoto-de-7-4-en-colombia-atender-la-tragedia-3577775",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-11T22:36:47-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Informe desde Pereira: llegan brigadas desde otras ciudades para unirse a los rescates",
+      "link": "https://www.france24.com/es/video/20260812-informe-desde-pereira-llegan-brigadas-desde-otras-ciudades-para-unirse-a-los-rescates",
+      "source": "France 24",
+      "pubDate": "Wed, 12 Aug 2026 01:53:16 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,22 +83,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-declarara-la-emergencia-economica-y-social-por-terremoto-en-el-suroccidente-3577641",
       "source": "El Tiempo",
       "pubDate": "2026-08-11T17:10:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia: ¿qué tan preparada estaba ante el potente sismo y cómo está respondiendo el Gobierno de De la Espriella?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260811-colombia-qu%C3%A9-tan-preparada-estaba-ante-el-potente-sismo-y-c%C3%B3mo-est%C3%A1-respondiendo-el-gobierno-de-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Tue, 11 Aug 2026 18:36:31 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella da nuevo balances de víctimas tras terremoto: 181 fallecidos y 2.595 heridos a nivel nacional",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-da-nuevo-balances-de-victimas-tras-terremoto-181-fallecidos-y-2-595-heridos-a-nivel-nacional-3577624",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-11T12:37:46-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
