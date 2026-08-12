@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T05:41:03.237Z",
+  "updatedAt": "2026-08-12T07:38:47.599Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -50,7 +50,15 @@
       "title": "Segunda noche de búsqueda de sobrevivientes en Colombia tras el potente terremoto que dejó al menos 181 muertos y más de 2.500 heridos",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-08-12T05:41:03.111Z",
+      "pubDate": "2026-08-12T07:38:47.467Z",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Atención | Presidente Abelardo De La Espriella firmó decreto que declara desastre nacional tras terremoto de 7,4 en Colombia: 'Atender la tragedia'",
+      "link": "https://www.eltiempo.com/politica/gobierno/atencion-presidente-abelardo-de-la-espriella-firmo-decreto-que-declara-desastre-nacional-tras-terremoto-de-7-4-en-colombia-atender-la-tragedia-3577775",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-12T00:58:37-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,14 +67,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-hablo-del-rescate-de-daniela-largo-tras-pasar-36-horas-atrapada-en-escombros-en-pereira-por-terremoto-bajo-ruinas-de-hotel-3577776",
       "source": "El Tiempo",
       "pubDate": "2026-08-11T23:05:29-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Atención | Presidente Abelardo De La Espriella firmó decreto que declara desastre nacional tras terremoto de 7,4 en Colombia: 'Atender la tragedia'",
-      "link": "https://www.eltiempo.com/politica/gobierno/atencion-presidente-abelardo-de-la-espriella-firmo-decreto-que-declara-desastre-nacional-tras-terremoto-de-7-4-en-colombia-atender-la-tragedia-3577775",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-11T22:36:47-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
