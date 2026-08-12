@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T22:48:00.838Z",
+  "updatedAt": "2026-08-12T02:11:49.607Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -50,7 +50,23 @@
       "title": "Los equipos de rescate en Colombia buscan sobrevivientes tras el potente terremoto que dejó al menos 181 muertos y más de 2.500 heridos",
       "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-08-11T22:48:00.676Z",
+      "pubDate": "2026-08-12T02:11:49.412Z",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Primer bombardeo en el Catatumbo bajo el mando de Abelardo de la Espriella: la Defensoría del Pueblo denunció afectación a civiles",
+      "link": "https://www.infobae.com/colombia/2026/08/12/primer-bombardeo-en-el-catatumbo-bajo-el-mando-de-abelardo-de-la-espriella-la-defensoria-del-pueblo-denuncio-afectacion-a-civiles/",
+      "source": "Infobae",
+      "pubDate": "Wed, 12 Aug 2026 01:54:37 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Quién es Lina María Garrido, la nueva directora de la Agencia Nacional de Tierras?",
+      "link": "https://www.eltiempo.com/politica/quien-es-lina-maria-garrido-la-nueva-directora-de-la-agencia-nacional-de-tierras-3577610",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-11T19:37:58-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,22 +75,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-declarara-la-emergencia-economica-y-social-por-terremoto-en-el-suroccidente-3577641",
       "source": "El Tiempo",
       "pubDate": "2026-08-11T17:10:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella entregó el balance de la situación en Manizales tras el temblor de magnitud 7,4: hay cinco muertos y más de 100 heridos",
-      "link": "https://www.infobae.com/colombia/2026/08/11/abelardo-de-la-espriella-entrego-el-balance-de-la-situacion-en-manizales-tras-el-temblor-de-magnitud-74-hay-cinco-muertos-y-mas-de-100-heridos/",
-      "source": "Infobae",
-      "pubDate": "Tue, 11 Aug 2026 22:04:17 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El giro a la ultraderecha: efectos para la democracia y los derechos",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/el-giro-a-la-ultraderecha-efectos-para-la-democracia-y-los-derechos/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 11 Aug 2026 20:57:39 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -91,22 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-da-nuevo-balances-de-victimas-tras-terremoto-181-fallecidos-y-2-595-heridos-a-nivel-nacional-3577624",
       "source": "El Tiempo",
       "pubDate": "2026-08-11T12:37:46-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Quién es Lina María Garrido, la nueva directora de la Agencia Nacional de Tierras?",
-      "link": "https://www.eltiempo.com/politica/quien-es-lina-maria-garrido-la-nueva-directora-de-la-agencia-nacional-de-tierras-3577610",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-11T11:25:22-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia sigue a Trump y atribuye a Israel la \"soberanía\" sobre los Altos del Golán sirios ocupados",
-      "link": "https://www.france24.com/es/video/20260811-colombia-sigue-a-trump-y-atribuye-a-israel-la-soberan%C3%ADa-sobre-los-altos-del-gol%C3%A1n-sirios-ocupados-1",
-      "source": "France 24",
-      "pubDate": "Tue, 11 Aug 2026 15:17:06 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
