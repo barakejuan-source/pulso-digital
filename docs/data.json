@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-13T19:07:08.344Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-13T20:48:58.910Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Ministra de Transporte removió a Óscar Torres y designó a Ricardo Ayerbe en la presidencia de la ANI ",
-      "link": "https://www.infobae.com/colombia/2026/08/13/ministra-de-transporte-removio-a-oscar-torres-y-designo-a-ricardo-ayerbe-en-la-presidencia-de-la-ani/",
+      "title": "Abelardo de la Espriella también se reunió con la fiscal General Luz Adriana Camargo: estos fueron los temas que abordaron",
+      "link": "https://www.infobae.com/colombia/2026/08/13/abelardo-de-la-espriella-tambien-se-reunio-con-la-fiscal-general-luz-adriana-camargo-estos-fueron-los-temas-que-abordaron/",
       "source": "Infobae",
-      "pubDate": "Thu, 13 Aug 2026 18:58:57 +0000",
+      "pubDate": "Thu, 13 Aug 2026 20:23:25 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,22 +59,6 @@
       "link": "https://www.france24.com/es/video/20260813-contin%C3%BAa-la-b%C3%BAsqueda-de-sobrevivientes-en-colombia-de-la-espriella-anuncia-creaci%C3%B3n-de-fondo",
       "source": "France 24",
       "pubDate": "Thu, 13 Aug 2026 18:54:39 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Tras el terremoto en Colombia, la universitaria petrista Gabriela Muñoz cuestionó al gobierno de Abelardo de la Espriella: “Por encima de cualquier ideología”",
-      "link": "https://www.infobae.com/colombia/2026/08/13/tras-el-terremoto-en-colombia-la-universitaria-petrista-gabriela-munoz-cuestiono-al-gobierno-de-abelardo-de-la-espriella-por-encima-de-cualquier-ideologia/",
-      "source": "Infobae",
-      "pubDate": "Thu, 13 Aug 2026 18:53:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Polémica por decisión del Gobierno de rechazar ayudas extranjeras tras el terremoto de 7.4 en Colombia: citan a debate de control político al canciller Omar Bula",
-      "link": "https://www.infobae.com/colombia/2026/08/13/polemica-por-decision-del-gobierno-de-rechazar-ayudas-extranjeras-tras-el-terremoto-de-74-en-colombia-citan-a-debate-de-control-politico-al-canciller-omar-bula/",
-      "source": "Infobae",
-      "pubDate": "Thu, 13 Aug 2026 18:37:09 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
