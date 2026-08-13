@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T22:45:36.335Z",
+  "updatedAt": "2026-08-13T02:13:52.747Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 5,
+      "trendsScore": 3,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 2,
+      "finalScore": 1,
       "momentum": {
-        "value": 0,
+        "value": -50,
         "direction": "flat"
       },
-      "probability": 2.4
+      "probability": 1.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,25 +42,41 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 97.6
+      "probability": 98.8
     }
   ],
   "articles": [
     {
-      "title": "Terremoto en Colombia: el presidente Abelardo de la Espriella confirmó que declarará emergencia económica por la tragedia que enluta al país",
-      "link": "https://www.infobae.com/colombia/2026/08/12/terremoto-en-colombia-el-presidente-abelardo-de-la-espriella-confirmo-que-declarara-emergencia-economica-por-la-tragedia-que-enluta-al-pais/",
-      "source": "Infobae",
-      "pubDate": "Wed, 12 Aug 2026 22:42:20 +0000",
+      "title": "Colombia y los Altos del Golán: De la Espriella da un golpe diplomático al reconocer una soberanía israelí",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260813-colombia-y-los-altos-del-gol%C3%A1n-de-la-espriella-da-un-golpe-diplom%C3%A1tico-al-reconocer-una-soberan%C3%ADa-israel%C3%AD",
+      "source": "France 24",
+      "pubDate": "Thu, 13 Aug 2026 01:59:17 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cepeda arremetió contra De la Espriella tras anuncio de EE. UU. de lanzar operaciones militares desde Colombia: “Entrega nuestra soberanía” ",
-      "link": "https://www.infobae.com/colombia/2026/08/12/ivan-cepeda-arremetio-contra-de-la-espriella-tras-anuncio-de-ee-uu-de-lanzar-operaciones-militares-desde-colombia-entrega-nuestra-soberania/",
+      "title": "Terremoto en Colombia: qué es la emergencia económica que declarará Abelardo de la Espriella y por qué “cada peso girado quedará expuesto”",
+      "link": "https://www.infobae.com/colombia/2026/08/13/terremoto-en-colombia-que-es-la-emergencia-economica-que-declarara-abelardo-de-la-espriella-y-por-que-cada-peso-girado-quedara-expuesto/",
       "source": "Infobae",
-      "pubDate": "Wed, 12 Aug 2026 22:33:23 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Thu, 13 Aug 2026 01:02:36 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella declara emergencia económica por el terremoto",
+      "link": "https://www.lasillavacia.com/en-vivo/abelardo-de-la-espriella-declara-emergencia-economica-por-el-terremoto/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 12 Aug 2026 23:22:08 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El presidente Abelardo De La Espriella confirmó que declarará la emergencia económica en el país para atender la emergencia tras el terremoto",
+      "link": "https://www.eltiempo.com/politica/el-presidente-abelardo-de-la-espriella-confirmo-que-declarara-la-emergencia-economica-en-el-pais-para-atender-la-emergencia-tras-del-terremoto-3577991",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-12T17:51:12-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "El jefe del Pentágono asegura que De la Espriella autorizó \"operaciones militares conjuntas\" en Colombia",
@@ -83,14 +99,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/ungrd-aerocivil-dian-y-ant-los-ultimos-nombramientos-con-los-que-abelardo-de-la-espriella-sigue-armando-su-gobierno-3577867",
       "source": "El Tiempo",
       "pubDate": "2026-08-12T11:30:55-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Creación de subcuenta temporal 'Sismo 2026' y otras medidas que contempla el decreto mediante el cual se declaró el desastre nacional por el terremoto",
-      "link": "https://www.eltiempo.com/politica/gobierno/creacion-de-subcuenta-temporal-sismo-2026-y-otras-medidas-que-contempla-el-decreto-mediante-el-cual-se-declaro-el-desastre-nacional-por-el-terremoto-3577801",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-12T07:28:14-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
