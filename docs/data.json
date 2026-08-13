@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-13T20:48:58.910Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-13T22:47:13.795Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,34 @@
   ],
   "articles": [
     {
+      "title": "Terremoto en Colombia: China anunció millonaria donación para atender a los damnificados en el Eje Cafetero, Cali y Chocó",
+      "link": "https://www.infobae.com/colombia/2026/08/13/terremoto-en-colombia-china-anuncio-millonaria-donacion-para-atender-a-los-damnificados-en-el-eje-cafetero-cali-y-choco/",
+      "source": "Infobae",
+      "pubDate": "Thu, 13 Aug 2026 22:39:42 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Abelardo de la Espriella también se reunió con la fiscal General Luz Adriana Camargo: estos fueron los temas que abordaron",
       "link": "https://www.infobae.com/colombia/2026/08/13/abelardo-de-la-espriella-tambien-se-reunio-con-la-fiscal-general-luz-adriana-camargo-estos-fueron-los-temas-que-abordaron/",
       "source": "Infobae",
-      "pubDate": "Thu, 13 Aug 2026 20:23:25 +0000",
+      "pubDate": "Thu, 13 Aug 2026 22:21:30 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Los nombramientos que generan ruido en el gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-nombramientos-que-generan-ruido-en-el-gobierno-de-abelardo-de-la-espriella-3578265",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-13T17:07:52-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Los últimos nombramientos y movidas del gobierno Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-ultimos-nombramientos-y-movidas-del-gobierno-abelardo-de-la-espriella-3578253",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-13T16:30:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,14 +83,6 @@
       "link": "https://www.france24.com/es/video/20260813-contin%C3%BAa-la-b%C3%BAsqueda-de-sobrevivientes-en-colombia-de-la-espriella-anuncia-creaci%C3%B3n-de-fondo",
       "source": "France 24",
       "pubDate": "Thu, 13 Aug 2026 18:54:39 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El presidente Abelardo De La Espriella confirmó que declarará la emergencia económica en el país para atender la emergencia tras el terremoto",
-      "link": "https://www.eltiempo.com/politica/el-presidente-abelardo-de-la-espriella-confirmo-que-declarara-la-emergencia-economica-en-el-pais-para-atender-la-emergencia-tras-del-terremoto-3577991",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-13T11:46:48-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
