@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-13T09:16:40.269Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-13T11:03:32.383Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 3,
+      "trendsScore": 5,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 1,
+      "finalScore": 2,
       "momentum": {
-        "value": 0,
+        "value": 100,
         "direction": "flat"
       },
-      "probability": 1.2
+      "probability": 2.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,18 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 98.8
+      "probability": 97.6
     }
   ],
   "articles": [
+    {
+      "title": "El presidente Abelardo De La Espriella confirmó que declarará la emergencia económica en el país para atender la emergencia tras el terremoto",
+      "link": "https://www.eltiempo.com/politica/el-presidente-abelardo-de-la-espriella-confirmo-que-declarara-la-emergencia-economica-en-el-pais-para-atender-la-emergencia-tras-del-terremoto-3577991",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-13T05:58:02-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Las principales medidas que ha tomado el gobierno de Abelardo De La Espriella en sus primeros días de mandato tras emergencia por terremoto de 7,4",
       "link": "https://www.eltiempo.com/politica/gobierno/las-principales-medidas-que-ha-tomado-el-gobierno-de-abelardo-de-la-espriella-en-sus-primeros-dias-de-mandato-tras-emergencia-por-terremoto-de-7-3578047",
@@ -59,14 +67,6 @@
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260813-colombia-y-los-altos-del-gol%C3%A1n-de-la-espriella-da-un-golpe-diplom%C3%A1tico-al-reconocer-una-soberan%C3%ADa-israel%C3%AD",
       "source": "France 24",
       "pubDate": "Thu, 13 Aug 2026 01:59:17 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El presidente Abelardo De La Espriella confirmó que declarará la emergencia económica en el país para atender la emergencia tras el terremoto",
-      "link": "https://www.eltiempo.com/politica/el-presidente-abelardo-de-la-espriella-confirmo-que-declarara-la-emergencia-economica-en-el-pais-para-atender-la-emergencia-tras-del-terremoto-3577991",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-12T17:51:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
