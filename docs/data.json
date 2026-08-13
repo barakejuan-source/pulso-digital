@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T17:00:12.786Z",
+  "updatedAt": "2026-08-13T19:07:08.344Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,8 +18,8 @@
       "youtubeViews": 86144,
       "finalScore": 40,
       "momentum": {
-        "value": 1900,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 50
     },
@@ -39,13 +39,53 @@
       "youtubeViews": 0,
       "finalScore": 40,
       "momentum": {
-        "value": -51.2,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 50
     }
   ],
   "articles": [
+    {
+      "title": "Ministra de Transporte removió a Óscar Torres y designó a Ricardo Ayerbe en la presidencia de la ANI ",
+      "link": "https://www.infobae.com/colombia/2026/08/13/ministra-de-transporte-removio-a-oscar-torres-y-designo-a-ricardo-ayerbe-en-la-presidencia-de-la-ani/",
+      "source": "Infobae",
+      "pubDate": "Thu, 13 Aug 2026 18:58:57 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Continúa la búsqueda de sobrevivientes en Colombia; De la Espriella anuncia creación de fondo",
+      "link": "https://www.france24.com/es/video/20260813-contin%C3%BAa-la-b%C3%BAsqueda-de-sobrevivientes-en-colombia-de-la-espriella-anuncia-creaci%C3%B3n-de-fondo",
+      "source": "France 24",
+      "pubDate": "Thu, 13 Aug 2026 18:54:39 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Tras el terremoto en Colombia, la universitaria petrista Gabriela Muñoz cuestionó al gobierno de Abelardo de la Espriella: “Por encima de cualquier ideología”",
+      "link": "https://www.infobae.com/colombia/2026/08/13/tras-el-terremoto-en-colombia-la-universitaria-petrista-gabriela-munoz-cuestiono-al-gobierno-de-abelardo-de-la-espriella-por-encima-de-cualquier-ideologia/",
+      "source": "Infobae",
+      "pubDate": "Thu, 13 Aug 2026 18:53:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Polémica por decisión del Gobierno de rechazar ayudas extranjeras tras el terremoto de 7.4 en Colombia: citan a debate de control político al canciller Omar Bula",
+      "link": "https://www.infobae.com/colombia/2026/08/13/polemica-por-decision-del-gobierno-de-rechazar-ayudas-extranjeras-tras-el-terremoto-de-74-en-colombia-citan-a-debate-de-control-politico-al-canciller-omar-bula/",
+      "source": "Infobae",
+      "pubDate": "Thu, 13 Aug 2026 18:37:09 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El presidente Abelardo De La Espriella confirmó que declarará la emergencia económica en el país para atender la emergencia tras el terremoto",
+      "link": "https://www.eltiempo.com/politica/el-presidente-abelardo-de-la-espriella-confirmo-que-declarara-la-emergencia-economica-en-el-pais-para-atender-la-emergencia-tras-del-terremoto-3577991",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-13T11:46:48-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Las principales medidas que ha tomado el gobierno de Abelardo De La Espriella en sus primeros días de mandato tras emergencia por terremoto de 7,4",
       "link": "https://www.eltiempo.com/politica/gobierno/las-principales-medidas-que-ha-tomado-el-gobierno-de-abelardo-de-la-espriella-en-sus-primeros-dias-de-mandato-tras-emergencia-por-terremoto-de-7-3578047",
@@ -59,38 +99,6 @@
       "link": "https://www.eltiempo.com/politica/congreso/jorge-eliecer-laverde-nuevo-contralor-general-respondio-a-los-cuestionamientos-sobre-su-eleccion-en-el-congreso-aqui-no-ha-habido-ningun-acuerdo-3578156",
       "source": "El Tiempo",
       "pubDate": "2026-08-13T11:41:10-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Tras el terremoto de 7,4 en Colombia, llegó brigada de rescatistas estadounidenses: “Salvar vidas”",
-      "link": "https://www.infobae.com/colombia/2026/08/13/tras-el-terremoto-de-74-en-colombia-llego-brigada-de-rescatistas-estadounidenses-salvar-vidas/",
-      "source": "Infobae",
-      "pubDate": "Thu, 13 Aug 2026 16:35:07 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Detector: este video de Abelardo bailando fue tomado días antes del terremoto",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-este-video-de-abelardo-bailando-fue-tomado-dias-antes-del-terremoto/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 13 Aug 2026 15:25:40 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "De la Espriella anuncia medidas de emergencia económica, incluido el \"Fondo Milagro\"",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260813-de-la-espriella-anuncia-medidas-de-emergencia-econ%C3%B3mica-incluido-el-fondo-milagro",
-      "source": "France 24",
-      "pubDate": "Thu, 13 Aug 2026 11:07:43 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El presidente Abelardo De La Espriella confirmó que declarará la emergencia económica en el país para atender la emergencia tras el terremoto",
-      "link": "https://www.eltiempo.com/politica/el-presidente-abelardo-de-la-espriella-confirmo-que-declarara-la-emergencia-economica-en-el-pais-para-atender-la-emergencia-tras-del-terremoto-3577991",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-13T05:58:02-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
