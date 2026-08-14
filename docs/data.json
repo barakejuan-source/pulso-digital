@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-14T11:00:30.686Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-14T13:14:56.049Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -67,22 +67,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-ultimos-nombramientos-y-movidas-del-gobierno-abelardo-de-la-espriella-3578253",
       "source": "El Tiempo",
       "pubDate": "2026-08-13T16:30:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Continúa la búsqueda de sobrevivientes en Colombia; De la Espriella anuncia creación de fondo",
-      "link": "https://www.france24.com/es/video/20260813-contin%C3%BAa-la-b%C3%BAsqueda-de-sobrevivientes-en-colombia-de-la-espriella-anuncia-creaci%C3%B3n-de-fondo",
-      "source": "France 24",
-      "pubDate": "Thu, 13 Aug 2026 18:54:39 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Jorge Eliécer Laverde, nuevo contralor general, respondió a los cuestionamientos sobre su elección en el Congreso: 'Aquí no ha habido ningún acuerdo'",
-      "link": "https://www.eltiempo.com/politica/congreso/jorge-eliecer-laverde-nuevo-contralor-general-respondio-a-los-cuestionamientos-sobre-su-eleccion-en-el-congreso-aqui-no-ha-habido-ningun-acuerdo-3578156",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-13T11:41:10-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
