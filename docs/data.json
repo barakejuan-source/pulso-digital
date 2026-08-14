@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-13T22:47:13.795Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-14T02:11:48.739Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Terremoto en Colombia: China anunció millonaria donación para atender a los damnificados en el Eje Cafetero, Cali y Chocó",
-      "link": "https://www.infobae.com/colombia/2026/08/13/terremoto-en-colombia-china-anuncio-millonaria-donacion-para-atender-a-los-damnificados-en-el-eje-cafetero-cali-y-choco/",
+      "title": "Abelardo de la Espriella entregó balance tras reunión con el sector de la construcción y reafirmó medidas excepcionales para los damnificados",
+      "link": "https://www.infobae.com/colombia/2026/08/14/abelardo-de-la-espriella-entrego-balance-tras-reunion-con-el-sector-de-la-construccion-y-reafirmo-medidas-excepcionales-para-los-damnificados/",
       "source": "Infobae",
-      "pubDate": "Thu, 13 Aug 2026 22:39:42 +0000",
+      "pubDate": "Fri, 14 Aug 2026 02:05:16 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella también se reunió con la fiscal General Luz Adriana Camargo: estos fueron los temas que abordaron",
-      "link": "https://www.infobae.com/colombia/2026/08/13/abelardo-de-la-espriella-tambien-se-reunio-con-la-fiscal-general-luz-adriana-camargo-estos-fueron-los-temas-que-abordaron/",
-      "source": "Infobae",
-      "pubDate": "Thu, 13 Aug 2026 22:21:30 +0000",
+      "title": "Abelardo De La Espriella y el ministro de Vivienda anunciaron acuerdo con el sector privado para atender zonas afectadas por el terremoto de 7,4",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-y-el-ministro-de-vivienda-anunciaron-acuerdo-con-el-sector-privado-para-atender-zonas-afectadas-por-el-terremoto-de-7-3578304",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-13T20:50:51-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -83,14 +83,6 @@
       "link": "https://www.france24.com/es/video/20260813-contin%C3%BAa-la-b%C3%BAsqueda-de-sobrevivientes-en-colombia-de-la-espriella-anuncia-creaci%C3%B3n-de-fondo",
       "source": "France 24",
       "pubDate": "Thu, 13 Aug 2026 18:54:39 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Las principales medidas que ha tomado el gobierno de Abelardo De La Espriella en sus primeros días de mandato tras emergencia por terremoto de 7,4",
-      "link": "https://www.eltiempo.com/politica/gobierno/las-principales-medidas-que-ha-tomado-el-gobierno-de-abelardo-de-la-espriella-en-sus-primeros-dias-de-mandato-tras-emergencia-por-terremoto-de-7-3578047",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-13T11:43:32-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
