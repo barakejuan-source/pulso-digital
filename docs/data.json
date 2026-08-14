@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-14T18:59:36.371Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-14T20:35:33.490Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Así fue la caótica llegada de Abelardo de la Espriella a Chocó: anunció ‘Plan Marshall’ para reconstruir el departamento",
-      "link": "https://www.infobae.com/colombia/2026/08/14/asi-fue-la-caotica-llegada-de-abelardo-de-la-espriella-a-choco-anuncio-plan-marshall-para-reconstruir-el-departamento/",
-      "source": "Infobae",
-      "pubDate": "Fri, 14 Aug 2026 18:41:20 +0000",
+      "title": "Presidente Abelardo De La Espriella anuncia gerente para la construcción de Chocó tras terremoto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-gerente-la-construccion-de-choco-tras-terremoto-3578488",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-14T15:24:26-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Este es el decreto con el que el gobierno de Abelardo de la Espriella busca que Estados Unidos reduzca el arancel del 12,5 % sobre los productos colombianos",
-      "link": "https://www.infobae.com/colombia/2026/08/14/este-es-el-decreto-con-el-que-el-gobierno-de-abelaro-de-la-espriella-busca-que-estados-unidos-reduzca-el-arancel-del-125-sobre-los-productos-colombianos/",
-      "source": "Infobae",
-      "pubDate": "Fri, 14 Aug 2026 18:33:27 +0000",
+      "title": "Julia Eva Pretelt es la nueva superSociedades",
+      "link": "https://www.lasillavacia.com/en-vivo/julia-eva-pretelt-es-la-nueva-supersociedades/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 14 Aug 2026 19:18:47 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
