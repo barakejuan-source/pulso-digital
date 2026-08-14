@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T14:55:59.141Z",
+  "updatedAt": "2026-08-14T16:58:52.275Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,26 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Administración de Abelardo De La Espriella declara insubsistentes a cinco embajadores del gobierno Petro que no presentaron su renuncia",
-      "link": "https://www.eltiempo.com/politica/gobierno/administracion-de-abelardo-de-la-espriella-declara-insubsistentes-a-cinco-embajadores-del-gobierno-petro-que-no-presentaron-su-renuncia-3578402",
+      "title": "Abelardo de la Espriella declaró insubsistentes a cinco embajadores que se habrían negado a renunciar",
+      "link": "https://www.infobae.com/colombia/2026/08/14/abelardo-de-la-espriella-declaro-insubsistentes-a-cinco-embajadores-que-se-habrian-negado-a-renunciar/",
+      "source": "Infobae",
+      "pubDate": "Fri, 14 Aug 2026 16:25:01 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El pastor y exsenador John Milton Rodríguez fue nombrado liquidador del Ministerio de la Igualdad: releva al exministro Alfredo Acosta",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-pastor-y-exsenador-john-milton-rodriguez-fue-nombrado-liquidador-del-ministerio-de-la-igualdad-releva-al-exministro-alfredo-acosta-3578415",
       "source": "El Tiempo",
-      "pubDate": "2026-08-14T09:47:30-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella confirmó la reincorporación a la Policía de los generales Alejandro Barrera, Norberto Mujica y Ricardo Alarcón: habrá cambios en la institución ",
-      "link": "https://www.infobae.com/colombia/2026/08/14/abelardo-de-la-espriella-confirmo-la-reincorporacion-a-la-policia-de-los-generales-alejandro-barrera-norberto-mujica-y-ricardo-alarcon-habra-cambios-en-la-institucion/",
-      "source": "Infobae",
-      "pubDate": "Fri, 14 Aug 2026 14:38:19 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Vocera del presidente Abelardo de la Espriella criticó permiso del Senado para que Gustavo Petro salga del país por un año: “Se quiere volar”",
-      "link": "https://www.infobae.com/colombia/2026/08/14/vocera-del-presidente-abelardo-de-la-espriella-critico-permiso-del-senado-para-que-gustavo-petro-salga-del-pais-por-un-ano-se-quiere-volar/",
-      "source": "Infobae",
-      "pubDate": "Fri, 14 Aug 2026 14:14:43 +0000",
+      "pubDate": "2026-08-14T10:54:02-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -83,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-nombramientos-que-generan-ruido-en-el-gobierno-de-abelardo-de-la-espriella-3578265",
       "source": "El Tiempo",
       "pubDate": "2026-08-13T17:07:52-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los últimos nombramientos y movidas del gobierno Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-ultimos-nombramientos-y-movidas-del-gobierno-abelardo-de-la-espriella-3578253",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-13T16:30:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
