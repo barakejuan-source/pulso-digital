@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-14T02:11:48.739Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-14T05:41:08.349Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 5,
+      "trendsScore": 8,
       "youtubeScore": 100,
       "sentimentScore": 26,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 24
       },
       "youtubeViews": 86144,
-      "finalScore": 40,
+      "finalScore": 41,
       "momentum": {
-        "value": 0,
+        "value": 2.5,
         "direction": "flat"
       },
-      "probability": 50
+      "probability": 50.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,15 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 50
+      "probability": 49.4
     }
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella entregó balance tras reunión con el sector de la construcción y reafirmó medidas excepcionales para los damnificados",
-      "link": "https://www.infobae.com/colombia/2026/08/14/abelardo-de-la-espriella-entrego-balance-tras-reunion-con-el-sector-de-la-construccion-y-reafirmo-medidas-excepcionales-para-los-damnificados/",
-      "source": "Infobae",
-      "pubDate": "Fri, 14 Aug 2026 02:05:16 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella y el ministro de Vivienda anunciaron acuerdo con el sector privado para atender zonas afectadas por el terremoto de 7,4",
+      "title": "Presidente Abelardo De La Espriella y Minvivienda anunciaron acuerdo con sector privado para reconstrucción de zonas afectadas por el terremoto de 7,4",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-y-el-ministro-de-vivienda-anunciaron-acuerdo-con-el-sector-privado-para-atender-zonas-afectadas-por-el-terremoto-de-7-3578304",
       "source": "El Tiempo",
-      "pubDate": "2026-08-13T20:50:51-05:00",
+      "pubDate": "2026-08-13T23:00:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
