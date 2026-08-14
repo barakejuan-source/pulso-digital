@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-14T13:14:56.049Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-14T14:55:59.141Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -46,6 +46,30 @@
     }
   ],
   "articles": [
+    {
+      "title": "Administración de Abelardo De La Espriella declara insubsistentes a cinco embajadores del gobierno Petro que no presentaron su renuncia",
+      "link": "https://www.eltiempo.com/politica/gobierno/administracion-de-abelardo-de-la-espriella-declara-insubsistentes-a-cinco-embajadores-del-gobierno-petro-que-no-presentaron-su-renuncia-3578402",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-14T09:47:30-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella confirmó la reincorporación a la Policía de los generales Alejandro Barrera, Norberto Mujica y Ricardo Alarcón: habrá cambios en la institución ",
+      "link": "https://www.infobae.com/colombia/2026/08/14/abelardo-de-la-espriella-confirmo-la-reincorporacion-a-la-policia-de-los-generales-alejandro-barrera-norberto-mujica-y-ricardo-alarcon-habra-cambios-en-la-institucion/",
+      "source": "Infobae",
+      "pubDate": "Fri, 14 Aug 2026 14:38:19 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Vocera del presidente Abelardo de la Espriella criticó permiso del Senado para que Gustavo Petro salga del país por un año: “Se quiere volar”",
+      "link": "https://www.infobae.com/colombia/2026/08/14/vocera-del-presidente-abelardo-de-la-espriella-critico-permiso-del-senado-para-que-gustavo-petro-salga-del-pais-por-un-ano-se-quiere-volar/",
+      "source": "Infobae",
+      "pubDate": "Fri, 14 Aug 2026 14:14:43 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Presidente Abelardo De La Espriella y Minvivienda anunciaron acuerdo con sector privado para reconstrucción de zonas afectadas por el terremoto de 7,4",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-y-el-ministro-de-vivienda-anunciaron-acuerdo-con-el-sector-privado-para-atender-zonas-afectadas-por-el-terremoto-de-7-3578304",
