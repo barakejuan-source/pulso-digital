@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-14T20:35:33.490Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-14T22:27:56.276Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
+      "title": "Bolsonaro vuelve a recortar distancia con Lula en eventual segunda vuelta, según sondeo",
+      "link": "https://www.infobae.com/america/agencias/2026/08/14/bolsonaro-vuelve-a-recortar-distancia-con-lula-en-eventual-segunda-vuelta-segun-sondeo/",
+      "source": "Infobae",
+      "pubDate": "Fri, 14 Aug 2026 22:16:35 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Tutela busca frenar operaciones militares extranjeras tras ingreso de Colombia al Escudo de las Américas: avanza queja contra Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/08/14/tutela-busca-frenar-operaciones-militares-extranjeras-tras-ingreso-de-colombia-al-escudo-de-las-americas-avanza-queja-contra-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Fri, 14 Aug 2026 22:13:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella anuncia gerente para la construcción de Chocó tras terremoto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-gerente-la-construccion-de-choco-tras-terremoto-3578488",
       "source": "El Tiempo",
-      "pubDate": "2026-08-14T15:24:26-05:00",
+      "pubDate": "2026-08-14T16:01:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
