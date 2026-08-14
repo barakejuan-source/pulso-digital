@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-14T05:41:08.349Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-14T07:37:45.309Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 86144,
       "finalScore": 41,
       "momentum": {
-        "value": 2.5,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 50.6
