@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T16:29:34.546Z",
+  "updatedAt": "2026-08-15T18:35:10.093Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Ejército Nacional desarticuló un laboratorio de coca del ELN en Cauca; hallaron 1.836 kilos de droga",
+      "link": "https://www.infobae.com/colombia/2026/08/15/ejercito-nacional-desarticulo-un-laboratorio-de-coca-del-eln-en-cauca-hallaron-1836-kilos-de-droga/",
+      "source": "Infobae",
+      "pubDate": "Sat, 15 Aug 2026 18:04:10 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Terremoto en Colombia: ¿qué viene ahora para el nuevo Gobierno?",
       "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260815-terremoto-en-colombia-qu%C3%A9-viene-ahora-para-el-nuevo-gobierno",
       "source": "France 24",
@@ -67,14 +75,6 @@
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260815-terremoto-en-colombia-limit%C3%B3-el-nuevo-gobierno-la-ayuda-internacional",
       "source": "France 24",
       "pubDate": "Sat, 15 Aug 2026 00:04:09 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El pastor y exsenador John Milton Rodríguez fue nombrado liquidador del Ministerio de la Igualdad: releva al exministro Alfredo Acosta",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-pastor-y-exsenador-john-milton-rodriguez-fue-nombrado-liquidador-del-ministerio-de-la-igualdad-releva-al-exministro-alfredo-acosta-3578415",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-14T10:54:02-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
