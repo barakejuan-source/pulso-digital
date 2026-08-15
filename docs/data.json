@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T18:35:10.093Z",
+  "updatedAt": "2026-08-15T20:26:59.132Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Ejército Nacional desarticuló un laboratorio de coca del ELN en Cauca; hallaron 1.836 kilos de droga",
-      "link": "https://www.infobae.com/colombia/2026/08/15/ejercito-nacional-desarticulo-un-laboratorio-de-coca-del-eln-en-cauca-hallaron-1836-kilos-de-droga/",
-      "source": "Infobae",
-      "pubDate": "Sat, 15 Aug 2026 18:04:10 +0000",
+      "title": "Presidente Abelardo De La Espriella habla de su recorrido por los lugares afectados por el terremoto: ‘Colombia no se gobierna a la distancia’",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-habla-de-su-recorrido-por-los-lugares-afectados-por-el-terremoto-colombia-no-se-gobierna-a-la-distancia-3578641",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-15T14:17:07-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,14 +67,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-gerente-la-construccion-de-choco-tras-terremoto-3578488",
       "source": "El Tiempo",
       "pubDate": "2026-08-14T21:15:51-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Terremoto en Colombia: ¿Limitó el nuevo Gobierno la ayuda internacional?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260815-terremoto-en-colombia-limit%C3%B3-el-nuevo-gobierno-la-ayuda-internacional",
-      "source": "France 24",
-      "pubDate": "Sat, 15 Aug 2026 00:04:09 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
