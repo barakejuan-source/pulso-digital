@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:27:56.276Z",
+  "updatedAt": "2026-08-15T01:25:09.903Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 8,
+      "trendsScore": 9,
       "youtubeScore": 100,
       "sentimentScore": 26,
       "sentimentPct": {
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Bolsonaro vuelve a recortar distancia con Lula en eventual segunda vuelta, según sondeo",
-      "link": "https://www.infobae.com/america/agencias/2026/08/14/bolsonaro-vuelve-a-recortar-distancia-con-lula-en-eventual-segunda-vuelta-segun-sondeo/",
-      "source": "Infobae",
-      "pubDate": "Fri, 14 Aug 2026 22:16:35 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Terremoto en Colombia: ¿Limitó el nuevo Gobierno la ayuda internacional?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260815-terremoto-en-colombia-limit%C3%B3-el-nuevo-gobierno-la-ayuda-internacional",
+      "source": "France 24",
+      "pubDate": "Sat, 15 Aug 2026 00:04:09 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Tutela busca frenar operaciones militares extranjeras tras ingreso de Colombia al Escudo de las Américas: avanza queja contra Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/08/14/tutela-busca-frenar-operaciones-militares-extranjeras-tras-ingreso-de-colombia-al-escudo-de-las-americas-avanza-queja-contra-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Fri, 14 Aug 2026 22:13:00 +0000",
+      "title": "Informe desde Quibdó: De la Espriella anuncia plan de reconstrucción del Chocó",
+      "link": "https://www.france24.com/es/video/20260814-informe-desde-quibd%C3%B3-de-la-espriella-anuncia-plan-de-reconstrucci%C3%B3n-del-choc%C3%B3",
+      "source": "France 24",
+      "pubDate": "Fri, 14 Aug 2026 23:08:59 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,14 +67,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-gerente-la-construccion-de-choco-tras-terremoto-3578488",
       "source": "El Tiempo",
       "pubDate": "2026-08-14T16:01:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Julia Eva Pretelt es la nueva superSociedades",
-      "link": "https://www.lasillavacia.com/en-vivo/julia-eva-pretelt-es-la-nueva-supersociedades/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 14 Aug 2026 19:18:47 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
