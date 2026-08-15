@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T12:43:43.291Z",
+  "updatedAt": "2026-08-15T14:27:13.245Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Terremoto en Colombia: ¿qué viene ahora para el nuevo Gobierno?",
+      "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260815-terremoto-en-colombia-qu%C3%A9-viene-ahora-para-el-nuevo-gobierno",
+      "source": "France 24",
+      "pubDate": "Sat, 15 Aug 2026 13:58:46 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Presidente Abelardo De La Espriella anuncia gerente para la construcción de Chocó tras terremoto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-gerente-la-construccion-de-choco-tras-terremoto-3578488",
