@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T20:27:38.123Z",
+  "updatedAt": "2026-08-16T22:25:41.881Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Sacudida en el MinTIC: aceptan renuncia de secretaria general tres días después de asumir el cargo",
-      "link": "https://www.infobae.com/colombia/2026/08/16/sacudida-en-el-mintic-aceptan-renuncia-de-secretaria-general-tres-dias-despues-de-asumir-el-cargo/",
+      "title": "Temblor de 7,4 en Colombia el 10 de agosto EN VIVO: Abelardo de la Espriella pone en marcha el buque hospital Benkos Biohó para atender a damnificados por el terremoto",
+      "link": "https://www.infobae.com/colombia/2026/08/14/temblor-de-74-en-colombia-el-10-de-agosto-se-actualizo-el-numero-de-fallecidos-en-todo-el-pais/",
       "source": "Infobae",
-      "pubDate": "Sun, 16 Aug 2026 20:02:42 +0000",
+      "pubDate": "Sun, 16 Aug 2026 22:19:31 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Cambio en la contratación del PAE haría que el gobierno de Abelardo de la Espriella se ahorre más de $170 billones: tendría 100 días",
+      "link": "https://www.infobae.com/colombia/2026/08/16/cambio-en-la-contratacion-del-pae-haria-que-el-gobierno-de-abelardo-de-la-espriella-se-ahorre-mas-de-170-billones-tendria-100-dias/",
+      "source": "Infobae",
+      "pubDate": "Sun, 16 Aug 2026 22:12:14 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo De La Espriella frena llegada de funcionarios relacionados con la administración de Gustavo Petro",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-frena-llegada-de-funcionarios-relacionados-con-la-administracion-de-gustavo-petro-3578788",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-16T15:28:04-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Informe desde Río de Janeiro: Lula da Silva y Bolsonaro inician campaña presidencial",
+      "link": "https://www.france24.com/es/video/20260816-informe-desde-r%C3%ADo-de-janeiro-lula-da-silva-y-bolsonaro-inician-campa%C3%B1a-presidencial",
+      "source": "France 24",
+      "pubDate": "Sun, 16 Aug 2026 19:41:22 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Presidente Abelardo De La Espriella anuncia atención especial para el sistema de salud de Buenaventura tras desastre por el terremoto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-atencion-especial-para-el-sistema-de-salud-de-buenaventura-tras-desastre-por-el-terremoto-3578775",
       "source": "El Tiempo",
-      "pubDate": "2026-08-16T13:43:48-05:00",
+      "pubDate": "2026-08-16T14:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
