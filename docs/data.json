@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T22:26:18.041Z",
+  "updatedAt": "2026-08-16T01:35:57.796Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella habló con Donald Trump: 'Le pedí que considerara la suspensión temporal de los altos aranceles'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-hablo-con-donald-trump-le-pedi-que-considerara-la-suspension-temporal-de-los-altos-aranceles-3578664",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-15T17:22:34-05:00",
+      "title": "Abelardo de la Espriella reaccionó a la muerte de la actriz, escritora y empresaria Yamile Humar: “Una huella entrañable”     ",
+      "link": "https://www.infobae.com/colombia/2026/08/16/abelardo-de-la-espriella-reacciono-a-la-muerte-de-la-actriz-escritora-y-empresaria-yamile-humar-una-huella-entranable/",
+      "source": "Infobae",
+      "pubDate": "Sun, 16 Aug 2026 00:53:50 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella pidió a Donald Trump suspender los aranceles a productos colombianos por el terremoto del 10 de agosto",
-      "link": "https://www.infobae.com/colombia/2026/08/15/abelardo-de-la-espriella-pidio-a-donald-trump-suspender-los-aranceles-a-productos-colombianos-por-el-terremoto-del-10-de-agosto/",
+      "title": "Abelardo de la Espriella ordenó a su ministra TIC revisar los nombramientos que se están haciendo en la cartera: “Verifique rigurosamente”",
+      "link": "https://www.infobae.com/colombia/2026/08/16/abelardo-de-la-espriella-ordeno-a-su-ministra-tic-revisar-los-nombramientos-que-se-estan-haciendo-en-la-cartera-verifique-rigurosamente/",
       "source": "Infobae",
-      "pubDate": "Sat, 15 Aug 2026 21:52:55 +0000",
+      "pubDate": "Sun, 16 Aug 2026 00:11:44 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Sobre Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/opinion/sobre-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 15 Aug 2026 23:25:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella habló con Donald Trump: 'Le pedí que considerara la suspensión temporal de los altos aranceles'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-hablo-con-donald-trump-le-pedi-que-considerara-la-suspension-temporal-de-los-altos-aranceles-3578664",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-15T17:35:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
