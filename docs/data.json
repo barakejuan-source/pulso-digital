@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T16:29:59.176Z",
+  "updatedAt": "2026-08-16T18:34:35.334Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,22 @@
   ],
   "articles": [
     {
+      "title": "Abelardo de la Espriella confirmó que Jaime Gilinski donará $150.000 millones para la reconstrucción de Cali: “Gesto de solidaridad”",
+      "link": "https://www.infobae.com/colombia/2026/08/16/abelardo-de-la-espriella-confirmo-que-jaime-gilinski-donara-150000-millones-para-la-reconstruccion-de-cali-gesto-de-solidaridad/",
+      "source": "Infobae",
+      "pubDate": "Sun, 16 Aug 2026 18:26:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella y el nuevo contralor, Jorge Laverde, se reúnen por segunda vez tras la elección del pasado miércoles",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-y-el-nuevo-contralor-jorge-laverde-se-reunen-por-segunda-vez-tras-la-eleccion-del-pasado-miercoles-3578773",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-16T13:03:55-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella le pidió a la ministra Alexandra Falla revisar nombramientos en MinTIC: ‘Verifique rigurosamente’",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-le-pide-a-alexandra-falla-revisar-nombramientos-en-mintic-verifique-rigurosamente-3578724",
       "source": "El Tiempo",
@@ -67,30 +83,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/la-tragedia-por-el-terremoto-marco-la-primera-semana-de-la-nueva-administracion-de-abelardo-de-la-espriella-3578675",
       "source": "El Tiempo",
       "pubDate": "2026-08-15T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Sobre Abelardo de la Espriella",
-      "link": "https://www.lasillavacia.com/opinion/sobre-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 15 Aug 2026 23:25:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella habló con Donald Trump: 'Le pedí que considerara la suspensión temporal de los altos aranceles'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-hablo-con-donald-trump-le-pedi-que-considerara-la-suspension-temporal-de-los-altos-aranceles-3578664",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-15T17:35:39-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Miguel Uribe Londoño, padre de Miguel Uribe Turbay, será el embajador de Colombia ante el Reino Unido en el gobierno de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/miguel-uribe-londono-padre-de-miguel-uribe-turbay-sera-el-embajador-de-colombia-ante-el-reino-unido-en-el-gobierno-de-abelardo-de-la-espriella-3578654",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-15T16:22:27-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
