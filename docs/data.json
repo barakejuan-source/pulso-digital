@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:34:35.334Z",
+  "updatedAt": "2026-08-16T20:27:38.123Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella confirmó que Jaime Gilinski donará $150.000 millones para la reconstrucción de Cali: “Gesto de solidaridad”",
-      "link": "https://www.infobae.com/colombia/2026/08/16/abelardo-de-la-espriella-confirmo-que-jaime-gilinski-donara-150000-millones-para-la-reconstruccion-de-cali-gesto-de-solidaridad/",
+      "title": "Sacudida en el MinTIC: aceptan renuncia de secretaria general tres días después de asumir el cargo",
+      "link": "https://www.infobae.com/colombia/2026/08/16/sacudida-en-el-mintic-aceptan-renuncia-de-secretaria-general-tres-dias-despues-de-asumir-el-cargo/",
       "source": "Infobae",
-      "pubDate": "Sun, 16 Aug 2026 18:26:00 +0000",
+      "pubDate": "Sun, 16 Aug 2026 20:02:42 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella anuncia atención especial para el sistema de salud de Buenaventura tras desastre por el terremoto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-atencion-especial-para-el-sistema-de-salud-de-buenaventura-tras-desastre-por-el-terremoto-3578775",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-16T13:43:48-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
