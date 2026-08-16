@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T03:04:24.879Z",
+  "updatedAt": "2026-08-16T04:40:34.923Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 86144,
       "finalScore": 42,
       "momentum": {
-        "value": 2.4,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 51.2
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Llueven críticas a Petro por publicar información falsa sobre un hecho de violencia ocurrido en El Tarra y atribuirlo al Gobierno: “Oportunista”",
-      "link": "https://www.infobae.com/colombia/2026/08/16/llueven-criticas-a-petro-por-publicar-informacion-falsa-sobre-un-hecho-de-violencia-ocurrido-en-el-tarra-y-atribuirlo-al-gobierno-oportunista/",
-      "source": "Infobae",
-      "pubDate": "Sun, 16 Aug 2026 02:23:29 +0000",
+      "title": "Presidente Abelardo De La Espriella continúa la conformación de su equipo en medio de la emergencia: estos fueron los nombramientos de la semana",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-continua-la-conformacion-de-su-equipo-en-medio-de-la-emergencia-estos-fueron-los-nombramientos-de-la-semana-3578685",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-15T22:16:45-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abogada de Epa Colombia negó que Abelardo de la Espriella aprobara su traslado a Ibagué y denunció “tortura psicológica” por parte del Inpec",
-      "link": "https://www.infobae.com/colombia/2026/08/16/abogada-de-epa-colombia-nego-que-abelardo-de-la-espriella-aprobara-su-traslado-a-ibague-y-denuncio-tortura-psicologica-por-parte-del-inpec/",
-      "source": "Infobae",
-      "pubDate": "Sun, 16 Aug 2026 02:15:19 +0000",
+      "title": "La tragedia por el terremoto marcó la primera semana de la nueva administración de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/la-tragedia-por-el-terremoto-marco-la-primera-semana-de-la-nueva-administracion-de-abelardo-de-la-espriella-3578675",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-15T22:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -91,22 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-habla-de-su-recorrido-por-los-lugares-afectados-por-el-terremoto-colombia-no-se-gobierna-a-la-distancia-3578641",
       "source": "El Tiempo",
       "pubDate": "2026-08-15T14:17:07-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Terremoto en Colombia: ¿qué viene ahora para el nuevo Gobierno?",
-      "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260815-terremoto-en-colombia-qu%C3%A9-viene-ahora-para-el-nuevo-gobierno",
-      "source": "France 24",
-      "pubDate": "Sat, 15 Aug 2026 13:58:46 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anuncia gerente para la construcción de Chocó tras terremoto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-gerente-la-construccion-de-choco-tras-terremoto-3578488",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-14T21:15:51-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
