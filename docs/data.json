@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T01:35:57.796Z",
+  "updatedAt": "2026-08-16T03:04:24.879Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 10,
       "youtubeScore": 100,
       "sentimentScore": 26,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 24
       },
       "youtubeViews": 86144,
-      "finalScore": 41,
+      "finalScore": 42,
       "momentum": {
-        "value": 0,
+        "value": 2.4,
         "direction": "flat"
       },
-      "probability": 50.6
+      "probability": 51.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 49.4
+      "probability": 48.8
     }
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella reaccionó a la muerte de la actriz, escritora y empresaria Yamile Humar: “Una huella entrañable”     ",
-      "link": "https://www.infobae.com/colombia/2026/08/16/abelardo-de-la-espriella-reacciono-a-la-muerte-de-la-actriz-escritora-y-empresaria-yamile-humar-una-huella-entranable/",
+      "title": "Llueven críticas a Petro por publicar información falsa sobre un hecho de violencia ocurrido en El Tarra y atribuirlo al Gobierno: “Oportunista”",
+      "link": "https://www.infobae.com/colombia/2026/08/16/llueven-criticas-a-petro-por-publicar-informacion-falsa-sobre-un-hecho-de-violencia-ocurrido-en-el-tarra-y-atribuirlo-al-gobierno-oportunista/",
       "source": "Infobae",
-      "pubDate": "Sun, 16 Aug 2026 00:53:50 +0000",
+      "pubDate": "Sun, 16 Aug 2026 02:23:29 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella ordenó a su ministra TIC revisar los nombramientos que se están haciendo en la cartera: “Verifique rigurosamente”",
-      "link": "https://www.infobae.com/colombia/2026/08/16/abelardo-de-la-espriella-ordeno-a-su-ministra-tic-revisar-los-nombramientos-que-se-estan-haciendo-en-la-cartera-verifique-rigurosamente/",
+      "title": "Abogada de Epa Colombia negó que Abelardo de la Espriella aprobara su traslado a Ibagué y denunció “tortura psicológica” por parte del Inpec",
+      "link": "https://www.infobae.com/colombia/2026/08/16/abogada-de-epa-colombia-nego-que-abelardo-de-la-espriella-aprobara-su-traslado-a-ibague-y-denuncio-tortura-psicologica-por-parte-del-inpec/",
       "source": "Infobae",
-      "pubDate": "Sun, 16 Aug 2026 00:11:44 +0000",
+      "pubDate": "Sun, 16 Aug 2026 02:15:19 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
