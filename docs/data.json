@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-16T22:25:41.881Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-17T01:27:32.374Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -9,19 +9,19 @@
       "color": "#E63946",
       "trendsScore": 10,
       "youtubeScore": 100,
-      "sentimentScore": 26,
+      "sentimentScore": 18,
       "sentimentPct": {
-        "positive": 26,
-        "negative": 50,
-        "neutral": 24
+        "positive": 18,
+        "negative": 56,
+        "neutral": 26
       },
-      "youtubeViews": 86144,
-      "finalScore": 42,
+      "youtubeViews": 57287,
+      "finalScore": 39,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -7.1,
+        "direction": "down"
       },
-      "probability": 51.2
+      "probability": 49.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,15 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 48.8
+      "probability": 50.6
     }
   ],
   "articles": [
     {
-      "title": "Temblor de 7,4 en Colombia el 10 de agosto EN VIVO: Abelardo de la Espriella pone en marcha el buque hospital Benkos Biohó para atender a damnificados por el terremoto",
-      "link": "https://www.infobae.com/colombia/2026/08/14/temblor-de-74-en-colombia-el-10-de-agosto-se-actualizo-el-numero-de-fallecidos-en-todo-el-pais/",
-      "source": "Infobae",
-      "pubDate": "Sun, 16 Aug 2026 22:19:31 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cambio en la contratación del PAE haría que el gobierno de Abelardo de la Espriella se ahorre más de $170 billones: tendría 100 días",
-      "link": "https://www.infobae.com/colombia/2026/08/16/cambio-en-la-contratacion-del-pae-haria-que-el-gobierno-de-abelardo-de-la-espriella-se-ahorre-mas-de-170-billones-tendria-100-dias/",
-      "source": "Infobae",
-      "pubDate": "Sun, 16 Aug 2026 22:12:14 +0000",
+      "title": "Presidente Abelardo De La Espriella anuncia atención especial para el sistema de salud de Buenaventura tras desastre por el terremoto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-atencion-especial-para-el-sistema-de-salud-de-buenaventura-tras-desastre-por-el-terremoto-3578775",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-16T20:01:53-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -77,14 +69,6 @@
       "pubDate": "Sun, 16 Aug 2026 19:41:22 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anuncia atención especial para el sistema de salud de Buenaventura tras desastre por el terremoto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-atencion-especial-para-el-sistema-de-salud-de-buenaventura-tras-desastre-por-el-terremoto-3578775",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-16T14:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Abelardo De La Espriella y el nuevo contralor, Jorge Laverde, se reúnen por segunda vez tras la elección del pasado miércoles",
