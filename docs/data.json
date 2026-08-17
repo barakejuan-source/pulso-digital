@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T12:50:57.736Z",
+  "updatedAt": "2026-08-17T14:32:17.649Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Vélez, dueño de Nubank, aportará 100 mil millones para afectados por terremoto",
+      "link": "https://www.lasillavacia.com/en-vivo/velez-dueno-de-nubank-aportara-100-mil-millones-para-afectados-por-terremoto/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 17 Aug 2026 14:30:07 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella anuncia atención especial para el sistema de salud de Buenaventura tras desastre por el terremoto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-atencion-especial-para-el-sistema-de-salud-de-buenaventura-tras-desastre-por-el-terremoto-3578775",
       "source": "El Tiempo",
@@ -91,14 +99,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-continua-la-conformacion-de-su-equipo-en-medio-de-la-emergencia-estos-fueron-los-nombramientos-de-la-semana-3578685",
       "source": "El Tiempo",
       "pubDate": "2026-08-15T22:16:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La tragedia por el terremoto marcó la primera semana de la nueva administración de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/la-tragedia-por-el-terremoto-marco-la-primera-semana-de-la-nueva-administracion-de-abelardo-de-la-espriella-3578675",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-15T22:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
