@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-17T20:31:21.524Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-17T22:28:53.276Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella enfrenta un nuevo descuadre de dinero por el terremoto y confirman que tendría que gastar más: “Nos vamos a endeudar”",
-      "link": "https://www.infobae.com/colombia/2026/08/17/abelardo-de-la-espriella-enfrenta-un-nuevo-descuadre-de-dinero-por-el-terremoto-y-confirman-que-tendria-que-gastar-mas-nos-vamos-a-endeudar/",
+      "title": "Colombia envió el buque ARC ‘La Guajira’ a Miami con el fin de traer ayuda humanitaria por el terremoto",
+      "link": "https://www.infobae.com/colombia/2026/08/17/colombia-envio-el-buque-arc-la-guajira-a-miami-con-el-fin-de-traer-ayuda-humanitaria-por-el-terremoto/",
       "source": "Infobae",
-      "pubDate": "Mon, 17 Aug 2026 20:18:12 +0000",
+      "pubDate": "Mon, 17 Aug 2026 22:28:16 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella exaltó a los rescatistas que enfrentan la emergencia tras el terremoto: “Gracias por no rendirse”",
+      "link": "https://www.infobae.com/colombia/2026/08/17/abelardo-de-la-espriella-exalto-a-los-rescatistas-que-enfrentan-la-emergencia-tras-el-terremoto-gracias-por-no-rendirse/",
+      "source": "Infobae",
+      "pubDate": "Mon, 17 Aug 2026 22:03:37 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "David Vélez, dueño de Nubank, reaccionó a lo que dijo Abelardo de la Espriella sobre la millonaria donación que hizo para las víctimas del terremoto",
+      "link": "https://www.infobae.com/colombia/2026/08/17/david-velez-dueno-de-nubank-reacciono-a-lo-que-dijo-abelardo-de-la-espriella-sobre-la-millonaria-donacion-que-hizo-para-las-victimas-del-terremoto/",
+      "source": "Infobae",
+      "pubDate": "Mon, 17 Aug 2026 21:45:55 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -103,26 +119,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Informe desde Río de Janeiro: Lula da Silva y Bolsonaro inician campaña presidencial",
-      "link": "https://www.france24.com/es/video/20260816-informe-desde-r%C3%ADo-de-janeiro-lula-da-silva-y-bolsonaro-inician-campa%C3%B1a-presidencial",
-      "source": "France 24",
-      "pubDate": "Sun, 16 Aug 2026 19:41:22 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Abelardo De La Espriella y el nuevo contralor, Jorge Laverde, se reúnen por segunda vez tras la elección del pasado miércoles",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-y-el-nuevo-contralor-jorge-laverde-se-reunen-por-segunda-vez-tras-la-eleccion-del-pasado-miercoles-3578773",
       "source": "El Tiempo",
       "pubDate": "2026-08-16T13:03:55-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella le pidió a la ministra Alexandra Falla revisar nombramientos en MinTIC: ‘Verifique rigurosamente’",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-le-pide-a-alexandra-falla-revisar-nombramientos-en-mintic-verifique-rigurosamente-3578724",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-16T08:01:49-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
