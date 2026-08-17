@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T01:27:32.374Z",
+  "updatedAt": "2026-08-17T03:03:50.289Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -18,8 +18,8 @@
       "youtubeViews": 57287,
       "finalScore": 39,
       "momentum": {
-        "value": -7.1,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 49.4
     },
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "David Vélez, dueño de NuBank, aportó una millonada para las víctimas del terremoto en Colombia: Abelardo de la Espriella dijo cuánto fue",
+      "link": "https://www.infobae.com/colombia/2026/08/17/david-velez-dueno-de-nubank-aporto-una-millonada-para-las-victimas-del-terremoto-en-colombia-abelardo-de-la-espriella-dijo-cuanto-fue/",
+      "source": "Infobae",
+      "pubDate": "Mon, 17 Aug 2026 01:48:08 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Presidente Abelardo De La Espriella anuncia atención especial para el sistema de salud de Buenaventura tras desastre por el terremoto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-atencion-especial-para-el-sistema-de-salud-de-buenaventura-tras-desastre-por-el-terremoto-3578775",
