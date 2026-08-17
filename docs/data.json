@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-17T18:44:15.711Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-17T20:31:21.524Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,26 +47,18 @@
   ],
   "articles": [
     {
+      "title": "Abelardo de la Espriella enfrenta un nuevo descuadre de dinero por el terremoto y confirman que tendría que gastar más: “Nos vamos a endeudar”",
+      "link": "https://www.infobae.com/colombia/2026/08/17/abelardo-de-la-espriella-enfrenta-un-nuevo-descuadre-de-dinero-por-el-terremoto-y-confirman-que-tendria-que-gastar-mas-nos-vamos-a-endeudar/",
+      "source": "Infobae",
+      "pubDate": "Mon, 17 Aug 2026 20:18:12 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Terremoto en Colombia: ¿por qué está en riesgo la continuidad en el cargo del recién nombrado ministro de Vivienda?",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260817-terremoto-en-colombia-por-qu%C3%A9-est%C3%A1-en-riesgo-la-continuidad-en-el-cargo-del-reci%C3%A9n-nombrado-ministro-de-vivienda",
       "source": "France 24",
       "pubDate": "Mon, 17 Aug 2026 18:10:42 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella confirmó a María Consuelo Araújo como embajadora de Colombia en EE. UU.: “Ha llegado el beneplácito”",
-      "link": "https://www.infobae.com/colombia/2026/08/17/abelardo-de-la-espriella-confirmo-a-maria-consuelo-araujo-como-embajadora-de-colombia-en-ee-uu-ha-llegado-el-beneplacito/",
-      "source": "Infobae",
-      "pubDate": "Mon, 17 Aug 2026 18:03:02 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Diana Ángel arremetió contra Abelardo de la Espriella por la entrega de balones a niños: “De Señorita Colombia a Papá Noel”",
-      "link": "https://www.infobae.com/colombia/2026/08/17/diana-angel-arremetio-contra-abelardo-de-la-espriella-por-la-entrega-de-balones-a-ninos-de-senorita-colombia-a-papa-noel/",
-      "source": "Infobae",
-      "pubDate": "Mon, 17 Aug 2026 17:57:43 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
