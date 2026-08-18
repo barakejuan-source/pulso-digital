@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-18T06:50:06.874Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-18T08:41:46.806Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
+      "title": "Petro pide derecho a réplica tras alocución de Abelardo de la Espriella y cuestiona respuesta al terremoto",
+      "link": "https://www.infobae.com/colombia/2026/08/18/petro-pide-derecho-a-replica-tras-alocucion-de-abelardo-de-la-espriella-y-cuestiona-respuesta-al-terremoto/",
+      "source": "Infobae",
+      "pubDate": "Tue, 18 Aug 2026 08:30:52 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Temblor de 7,4 en Colombia el 10 de agosto EN VIVO: pérdidas por daños llegarían a $30 billones, según estimación preliminar",
       "link": "https://www.infobae.com/colombia/2026/08/18/terremoto-en-colombia-perdidas-por-danos-llegarian-a-30-billones-segun-estimacion-preliminar/",
       "source": "Infobae",
-      "pubDate": "Tue, 18 Aug 2026 06:30:50 +0000",
+      "pubDate": "Tue, 18 Aug 2026 08:10:27 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
