@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-18T14:37:55.022Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-18T16:36:20.005Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Coordinar y evitar la corrupción: los retos del Plan Milagro de Reconstrucción del gobierno de Abelardo De La Espriella tras el terremoto",
+      "link": "https://www.eltiempo.com/politica/gobierno/coordinar-y-evitar-la-corrupcion-los-retos-del-plan-milagro-de-reconstruccion-del-gobierno-de-abelardo-de-la-espriella-tras-el-terremoto-3579021",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-18T09:58:35-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "En directo: reconstrucción tras terremoto en Colombia costará más de USD 9.500 millones; vuelve a temblar en Chocó",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260818-en-directo-reconstrucci%C3%B3n-tras-terremoto-en-colombia-costar%C3%A1-m%C3%A1s-de-usd-9-500-millones-vuelve-a-temblar-en-choc%C3%B3",
       "source": "France 24",
@@ -59,14 +67,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/cinco-departamentos-concentran-perdidas-estimadas-en-30-billones-por-terremoto-segun-estimacion-revelada-por-el-presidente-abelardo-de-la-espriella-3578962",
       "source": "El Tiempo",
       "pubDate": "2026-08-18T08:56:28-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Coordinar y evitar la corrupción: los retos del Plan Milagro de Reconstrucción del Gobierno de Abelardo De La Espriella tras el terremoto",
-      "link": "https://www.eltiempo.com/politica/gobierno/coordinar-y-evitar-la-corrupcion-los-retos-del-plan-milagro-de-reconstruccion-del-gobierno-de-abelardo-de-la-espriella-tras-el-terremoto-3579021",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-18T08:40:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
