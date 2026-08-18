@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-18T01:23:41.537Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-18T02:59:24.124Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 10,
+      "trendsScore": 11,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 57287,
-      "finalScore": 39,
+      "finalScore": 40,
       "momentum": {
-        "value": 0,
+        "value": 2.6,
         "direction": "flat"
       },
-      "probability": 49.4
+      "probability": 50
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 50.6
+      "probability": 50
     }
   ],
   "articles": [
     {
-      "title": "'No hay en mi gobierno tolerancia alguna con la corrupción': presidente Abelardo De La Espriella en alocución de balance por el terremoto",
-      "link": "https://www.eltiempo.com/politica/gobierno/no-hay-en-mi-gobierno-tolerancia-alguna-con-la-corrupcion-presidente-de-la-espriella-en-alocucion-de-balance-por-el-terremoto-3578951",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-17T20:15:14-05:00",
+      "title": "Abelardo de la Espriella invitó a los bancos a reducir las tasas de interés y anunció subsidios destinados para la reconstrucción tras el terremoto",
+      "link": "https://www.infobae.com/colombia/2026/08/18/abelardo-de-la-espriella-insto-a-los-bancos-a-reducir-las-tasas-de-interes-y-anuncio-subsidios-destinados-para-la-reconstruccion-tras-el-terremoto/",
+      "source": "Infobae",
+      "pubDate": "Tue, 18 Aug 2026 02:31:48 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella entregó el primer balance del terremoto de magnitud 7,4: “La tierra tembló, pero Colombia no se quebró”",
-      "link": "https://www.infobae.com/colombia/2026/08/18/abelardo-de-la-espriella-entrego-el-primer-balance-del-terremoto-de-magnitud-74-la-tierra-temblo-pero-colombia-no-se-quebro/",
+      "title": "Temblor de 7,4 en Colombia el 10 de agosto: 289 fallecidos, 4.187 heridos y 143 desaparecidos, registra Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/08/14/temblor-de-74-en-colombia-el-10-de-agosto-se-actualizo-el-numero-de-fallecidos-en-todo-el-pais/",
       "source": "Infobae",
-      "pubDate": "Tue, 18 Aug 2026 01:13:28 +0000",
+      "pubDate": "Tue, 18 Aug 2026 02:29:32 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,15 +66,39 @@
       "title": "‘Pérdidas físicas cercanas a los 30 billones de pesos’: presidente Abelardo De La Espriella sobre daños tras el terremoto en Colombia",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-habla-tras-el-terremoto-y-la-primera-semana-de-su-gobierno-3578946",
       "source": "El Tiempo",
-      "pubDate": "2026-08-17T20:00:16-05:00",
+      "pubDate": "2026-08-17T21:27:01-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Temblor de 7,4 en Colombia el 10 de agosto EN VIVO: 289 fallecidos, 4.187 heridos y 143 desaparecidos, registra Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/08/14/temblor-de-74-en-colombia-el-10-de-agosto-se-actualizo-el-numero-de-fallecidos-en-todo-el-pais/",
+      "title": "'No hay en mi gobierno tolerancia alguna con la corrupción': presidente Abelardo De La Espriella en alocución de balance por el terremoto",
+      "link": "https://www.eltiempo.com/politica/gobierno/no-hay-en-mi-gobierno-tolerancia-alguna-con-la-corrupcion-presidente-de-la-espriella-en-alocucion-de-balance-por-el-terremoto-3578951",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-17T21:24:33-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Terremoto en Colombia: Cifras de muertos dadas por Abelardo de la Espriella y Medicina Legal no coinciden y ya hay críticas en redes sociales ",
+      "link": "https://www.infobae.com/colombia/2026/08/18/terremoto-en-colombia-cifras-de-muertos-dadas-por-abelardo-de-la-espriella-y-medicina-legal-no-coinciden-y-ya-hay-criticas-en-redes-sociales/",
       "source": "Infobae",
-      "pubDate": "Tue, 18 Aug 2026 00:40:13 +0000",
+      "pubDate": "Tue, 18 Aug 2026 02:17:32 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Video: Este sería el momento exacto del secuestro de tres policías en la vía Cúcuta-Ocaña; el carro fue abandonado con grafiti de Farc-EP",
+      "link": "https://www.infobae.com/colombia/2026/08/17/video-tres-policias-adscritos-a-la-dijin-fueron-secuestrados-mientras-se-movilizaban-por-la-via-cucuta-ocana/",
+      "source": "Infobae",
+      "pubDate": "Tue, 18 Aug 2026 01:51:17 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella anuncia el ‘Fondo Milagro’, para estructurar la reconstrucción del país tras el terremoto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-el-fondo-milagro-para-estructurar-la-reconstruccion-del-pais-tras-el-terremoto-3578957",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-17T20:50:24-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -82,39 +106,23 @@
       "title": "Abelardo de la Espriella dio a conocer la millonada que costará la reconstrucción de las ciudades impactadas por el terremoto del 10 de agosto ",
       "link": "https://www.infobae.com/colombia/2026/08/18/abelardo-de-la-espriella-dio-a-conocer-la-millonada-que-costara-la-reconstruccion-de-las-ciudades-impactadas-por-el-terremoto-del-10-de-agosto/",
       "source": "Infobae",
-      "pubDate": "Tue, 18 Aug 2026 00:26:08 +0000",
+      "pubDate": "Tue, 18 Aug 2026 01:38:05 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cepeda exigió la renuncia de Jaime Andrés Beltrán tras polémica aparición en playas de Santa Marta en plena emergencia: “Es indigno” ",
-      "link": "https://www.infobae.com/colombia/2026/08/17/ivan-cepeda-exigio-la-renuncia-de-jaime-andres-beltran-tras-polemica-aparicion-en-playas-de-santa-marta-en-plena-emergencia-es-indigno/",
-      "source": "Infobae",
-      "pubDate": "Mon, 17 Aug 2026 23:53:58 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Abelardo de la Espriella entrega balance a una semana del terremoto en Colombia",
+      "link": "https://www.france24.com/es/video/20260818-abelardo-de-la-espriella-entrega-balance-a-una-semana-del-terremoto-en-colombia",
+      "source": "France 24",
+      "pubDate": "Tue, 18 Aug 2026 01:32:26 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Terremoto en Colombia: ¿por qué está en riesgo la continuidad en el cargo del recién nombrado ministro de Vivienda?",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260817-terremoto-en-colombia-por-qu%C3%A9-est%C3%A1-en-riesgo-la-continuidad-en-el-cargo-del-reci%C3%A9n-nombrado-ministro-de-vivienda",
       "source": "France 24",
       "pubDate": "Mon, 17 Aug 2026 18:10:42 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "María Consuelo Araújo, nueva embajadora de Colombia en Estados Unidos",
-      "link": "https://www.lasillavacia.com/en-vivo/maria-consuelo-araujo-nueva-embajadora-de-colombia-en-estados-unidos/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 17 Aug 2026 17:49:17 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella frena llegada de funcionarios relacionados con la administración de Gustavo Petro",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-frena-llegada-de-funcionarios-relacionados-con-la-administracion-de-gustavo-petro-3578788",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-16T15:28:04-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
