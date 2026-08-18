@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-17T22:28:53.276Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-18T01:23:41.537Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,28 +47,52 @@
   ],
   "articles": [
     {
-      "title": "Colombia envió el buque ARC ‘La Guajira’ a Miami con el fin de traer ayuda humanitaria por el terremoto",
-      "link": "https://www.infobae.com/colombia/2026/08/17/colombia-envio-el-buque-arc-la-guajira-a-miami-con-el-fin-de-traer-ayuda-humanitaria-por-el-terremoto/",
-      "source": "Infobae",
-      "pubDate": "Mon, 17 Aug 2026 22:28:16 +0000",
+      "title": "'No hay en mi gobierno tolerancia alguna con la corrupción': presidente Abelardo De La Espriella en alocución de balance por el terremoto",
+      "link": "https://www.eltiempo.com/politica/gobierno/no-hay-en-mi-gobierno-tolerancia-alguna-con-la-corrupcion-presidente-de-la-espriella-en-alocucion-de-balance-por-el-terremoto-3578951",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-17T20:15:14-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella exaltó a los rescatistas que enfrentan la emergencia tras el terremoto: “Gracias por no rendirse”",
-      "link": "https://www.infobae.com/colombia/2026/08/17/abelardo-de-la-espriella-exalto-a-los-rescatistas-que-enfrentan-la-emergencia-tras-el-terremoto-gracias-por-no-rendirse/",
+      "title": "Abelardo de la Espriella entregó el primer balance del terremoto de magnitud 7,4: “La tierra tembló, pero Colombia no se quebró”",
+      "link": "https://www.infobae.com/colombia/2026/08/18/abelardo-de-la-espriella-entrego-el-primer-balance-del-terremoto-de-magnitud-74-la-tierra-temblo-pero-colombia-no-se-quebro/",
       "source": "Infobae",
-      "pubDate": "Mon, 17 Aug 2026 22:03:37 +0000",
+      "pubDate": "Tue, 18 Aug 2026 01:13:28 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "David Vélez, dueño de Nubank, reaccionó a lo que dijo Abelardo de la Espriella sobre la millonaria donación que hizo para las víctimas del terremoto",
-      "link": "https://www.infobae.com/colombia/2026/08/17/david-velez-dueno-de-nubank-reacciono-a-lo-que-dijo-abelardo-de-la-espriella-sobre-la-millonaria-donacion-que-hizo-para-las-victimas-del-terremoto/",
-      "source": "Infobae",
-      "pubDate": "Mon, 17 Aug 2026 21:45:55 +0000",
+      "title": "‘Pérdidas físicas cercanas a los 30 billones de pesos’: presidente Abelardo De La Espriella sobre daños tras el terremoto en Colombia",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-habla-tras-el-terremoto-y-la-primera-semana-de-su-gobierno-3578946",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-17T20:00:16-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Temblor de 7,4 en Colombia el 10 de agosto EN VIVO: 289 fallecidos, 4.187 heridos y 143 desaparecidos, registra Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/08/14/temblor-de-74-en-colombia-el-10-de-agosto-se-actualizo-el-numero-de-fallecidos-en-todo-el-pais/",
+      "source": "Infobae",
+      "pubDate": "Tue, 18 Aug 2026 00:40:13 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella dio a conocer la millonada que costará la reconstrucción de las ciudades impactadas por el terremoto del 10 de agosto ",
+      "link": "https://www.infobae.com/colombia/2026/08/18/abelardo-de-la-espriella-dio-a-conocer-la-millonada-que-costara-la-reconstruccion-de-las-ciudades-impactadas-por-el-terremoto-del-10-de-agosto/",
+      "source": "Infobae",
+      "pubDate": "Tue, 18 Aug 2026 00:26:08 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda exigió la renuncia de Jaime Andrés Beltrán tras polémica aparición en playas de Santa Marta en plena emergencia: “Es indigno” ",
+      "link": "https://www.infobae.com/colombia/2026/08/17/ivan-cepeda-exigio-la-renuncia-de-jaime-andres-beltran-tras-polemica-aparicion-en-playas-de-santa-marta-en-plena-emergencia-es-indigno/",
+      "source": "Infobae",
+      "pubDate": "Mon, 17 Aug 2026 23:53:58 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Terremoto en Colombia: ¿por qué está en riesgo la continuidad en el cargo del recién nombrado ministro de Vivienda?",
@@ -87,42 +111,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo reparte balones con logo de “Defensores de la Patria” en Buenaventura",
-      "link": "https://www.lasillavacia.com/en-vivo/abelardo-reparte-balones-con-logo-de-defensores-de-la-patria-en-buenaventura/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 17 Aug 2026 15:27:19 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Vélez, dueño de Nubank, aportará 100 mil millones para afectados por terremoto",
-      "link": "https://www.lasillavacia.com/en-vivo/velez-dueno-de-nubank-aportara-100-mil-millones-para-afectados-por-terremoto/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 17 Aug 2026 14:30:07 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anuncia atención especial para el sistema de salud de Buenaventura tras desastre por el terremoto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-atencion-especial-para-el-sistema-de-salud-de-buenaventura-tras-desastre-por-el-terremoto-3578775",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-16T20:01:53-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Gobierno de Abelardo De La Espriella frena llegada de funcionarios relacionados con la administración de Gustavo Petro",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-frena-llegada-de-funcionarios-relacionados-con-la-administracion-de-gustavo-petro-3578788",
       "source": "El Tiempo",
       "pubDate": "2026-08-16T15:28:04-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella y el nuevo contralor, Jorge Laverde, se reúnen por segunda vez tras la elección del pasado miércoles",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-y-el-nuevo-contralor-jorge-laverde-se-reunen-por-segunda-vez-tras-la-eleccion-del-pasado-miercoles-3578773",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-16T13:03:55-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
