@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-19T01:25:30.205Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-19T03:01:30.438Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Hay nuevo presidente del Icetex: Richard Caicedo toma las riendas de la entidad y con varias tareas pendientes",
-      "link": "https://www.infobae.com/colombia/2026/08/19/hay-nuevo-presidente-del-icetex-richard-caicedo-toma-las-riendas-de-la-entidad-y-con-varias-tareas-pendientes/",
+      "title": "Gustavo Petro no podría participar en réplica del Pacto Histórico a Abelardo de la Espriella, según expresidente del Congreso: ¿qué dice la ley?",
+      "link": "https://www.infobae.com/colombia/2026/08/19/gustavo-petro-no-podria-participar-en-replica-del-pacto-historico-a-abelardo-de-la-espriella-segun-expresidente-del-congreso-que-dice-la-ley/",
       "source": "Infobae",
-      "pubDate": "Wed, 19 Aug 2026 01:01:10 +0000",
+      "pubDate": "Wed, 19 Aug 2026 02:34:03 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,14 +67,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/los-9-comportamientos-del-gobierno-petro-que-abelardo-de-la-espriella-califico-como-nocivos-para-el-estado-en-su-libro-de-la-verdad-3579155",
       "source": "El Tiempo",
       "pubDate": "2026-08-18T14:53:12-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Balance en Colombia: De la Espriella cifra recuperación en USD 9.500 millones; Petro cuestiona al Gobierno",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260818-balance-en-colombia-de-la-espriella-anticipa-una-reconstrucci%C3%B3n-dura-petro-cuestiona-al-gobierno",
-      "source": "France 24",
-      "pubDate": "Tue, 18 Aug 2026 16:47:14 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
