@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-19T14:38:08.588Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-19T16:35:52.814Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,26 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Petristas reaccionaron al “libro de la verdad” presentado por Abelardo de la Espriella que denuncia supuestos actos de corrupción: “Mentiras”",
-      "link": "https://www.infobae.com/colombia/2026/08/19/petristas-reaccionaron-al-libro-de-la-verdad-presentado-por-abelardo-de-la-espriella-que-denuncia-supuestos-actos-de-corrupcion-mentiras/",
-      "source": "Infobae",
-      "pubDate": "Wed, 19 Aug 2026 14:32:59 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "Duerma informado con las claves de este 18 de agosto de 2026",
       "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-18-de-agosto-de-2026/",
       "source": "La Silla Vacía",
       "pubDate": "Wed, 19 Aug 2026 00:07:06 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los 9 comportamientos del gobierno Petro que el presidente Abelardo De La Espriella calificó como nocivos para el Estado en su 'Libro de la Verdad'",
-      "link": "https://www.eltiempo.com/politica/gobierno/los-9-comportamientos-del-gobierno-petro-que-abelardo-de-la-espriella-califico-como-nocivos-para-el-estado-en-su-libro-de-la-verdad-3579155",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-18T14:53:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
