@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T20:34:15.935Z",
+  "updatedAt": "2026-08-19T22:29:13.701Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella confirmó la captura de ‘Ever’, cabecilla de Los Costeños, y lanzó ultimátum: “Se acabó la contemplación”",
-      "link": "https://www.infobae.com/colombia/2026/08/19/abelardo-de-la-espriella-confirmo-la-captura-de-ever-cabecilla-de-los-costenos-y-lanzo-ultimatum-se-acabo-la-contemplacion/",
+      "title": "Terremoto en Colombia: Medicina Legal entregó nuevo reporte de muertes por cuenta de la tragedia; la cifra registró un ligero aumento",
+      "link": "https://www.infobae.com/colombia/2026/08/19/terremoto-en-colombia-medicina-legal-entrego-nuevo-reporte-de-muertes-por-cuenta-de-la-tragedia-la-cifra-registro-un-ligero-aumento/",
       "source": "Infobae",
-      "pubDate": "Wed, 19 Aug 2026 20:24:03 +0000",
+      "pubDate": "Wed, 19 Aug 2026 22:26:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Terremoto en Colombia: Abelardo de la Espriella dio reporte actualizado de víctimas",
+      "link": "https://www.infobae.com/colombia/2026/08/19/terremoto-en-colombia-abelardo-de-la-espriella-dio-reporte-actualizado-de-victimas/",
+      "source": "Infobae",
+      "pubDate": "Wed, 19 Aug 2026 22:18:39 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella confirma que este miércoles se firmará la emergencia económica y social: se hará durante el consejo de ministros",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirma-que-este-miercoles-se-firmara-la-emergencia-economica-y-social-se-hara-durante-el-consejo-de-ministros-3579505",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-19T17:09:25-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Senador Andrés Forero sobre las denuncias del 'libro de la verdad' en el sector salud: 'Se recogió lo que denuncié del Hospital San Juan de Dios'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/senador-andres-forero-sobre-las-denuncias-del-libro-de-la-verdad-en-el-sector-salud-se-recogio-lo-que-denuncie-del-hospital-san-juan-de-dios-3579484",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-19T16:12:25-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo De La Espriella nombra a los directores del DANE, Invias, Sena, SAE, entre otras entidades",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-nombra-a-los-directores-del-dane-invias-sena-sae-entre-otras-entidades-3579478",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-19T15:36:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
