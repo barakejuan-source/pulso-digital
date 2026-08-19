@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T22:28:25.968Z",
+  "updatedAt": "2026-08-19T01:25:30.205Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 11,
+      "trendsScore": 12,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "José Manuel Restrepo confirmó que la reconstrucción en Caldas requerirá 1,4 billones de pesos: anunció cruciales medidas para frenar la especulación",
-      "link": "https://www.infobae.com/colombia/2026/08/18/jose-manuel-restrepo-confirmo-que-la-reconstruccion-en-caldas-requerira-14-billones-de-pesos-anuncio-cruciales-medidas-para-frenar-la-especulacion/",
+      "title": "Hay nuevo presidente del Icetex: Richard Caicedo toma las riendas de la entidad y con varias tareas pendientes",
+      "link": "https://www.infobae.com/colombia/2026/08/19/hay-nuevo-presidente-del-icetex-richard-caicedo-toma-las-riendas-de-la-entidad-y-con-varias-tareas-pendientes/",
       "source": "Infobae",
-      "pubDate": "Tue, 18 Aug 2026 22:17:11 +0000",
+      "pubDate": "Wed, 19 Aug 2026 01:01:10 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Bukele y su impacto en la campaña de Abelardo de la Espriella: videos virales, mano dura y una elección 2026 atravesada por la inseguridad en Colombia",
-      "link": "https://www.infobae.com/el-salvador/2026/08/18/bukele-y-su-impacto-en-la-campana-de-abelardo-de-la-espriella-videos-virales-mano-dura-y-una-eleccion-2026-atravesada-por-la-inseguridad-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Tue, 18 Aug 2026 22:00:37 +0000",
+      "title": "Duerma informado con las claves de este 18 de agosto de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-18-de-agosto-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 19 Aug 2026 00:07:06 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,22 +75,6 @@
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260818-balance-en-colombia-de-la-espriella-anticipa-una-reconstrucci%C3%B3n-dura-petro-cuestiona-al-gobierno",
       "source": "France 24",
       "pubDate": "Tue, 18 Aug 2026 16:47:14 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Coordinar y evitar la corrupción: los retos del Plan Milagro de Reconstrucción del gobierno de Abelardo De La Espriella tras el terremoto",
-      "link": "https://www.eltiempo.com/politica/gobierno/coordinar-y-evitar-la-corrupcion-los-retos-del-plan-milagro-de-reconstruccion-del-gobierno-de-abelardo-de-la-espriella-tras-el-terremoto-3579021",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-18T09:58:35-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "En directo: De la Espriella afirma que EE.UU. evalúa suspender temporalmente los aranceles a Colombia tras el terremoto",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260818-en-directo-reconstrucci%C3%B3n-tras-terremoto-en-colombia-costar%C3%A1-m%C3%A1s-de-usd-9-500-millones-vuelve-a-temblar-en-choc%C3%B3",
-      "source": "France 24",
-      "pubDate": "Tue, 18 Aug 2026 14:25:48 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
