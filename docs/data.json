@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T03:00:39.847Z",
+  "updatedAt": "2026-08-20T04:41:33.183Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 15,
+      "trendsScore": 14,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -47,20 +47,12 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella ya firmó el decreto que declara el estado de emergencia económica y social en Colombia: este es el documento",
-      "link": "https://www.infobae.com/colombia/2026/08/20/abelardo-de-la-espriella-ya-firmo-el-decreto-que-declara-el-estado-de-emergencia-economica-en-colombia-este-es-el-documento/",
+      "title": "Gustavo Petro arremetió contra Abelardo de la Espriella, mientras el país lucha por superar la emergencia: habló de “limosnas” de los empresarios",
+      "link": "https://www.infobae.com/colombia/2026/08/20/gustavo-petro-arremetio-contra-abelardo-de-la-espriella-mientras-el-pais-lucha-por-superar-la-emergencia-incapacidad-de-empalme/",
       "source": "Infobae",
-      "pubDate": "Thu, 20 Aug 2026 02:38:28 +0000",
+      "pubDate": "Thu, 20 Aug 2026 04:16:39 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Réplica de Gustavo Petro e Iván Cepeda desató una ola de reacciones entre el oficialismo y la oposición: los llamaron “cínicos”",
-      "link": "https://www.infobae.com/colombia/2026/08/20/replica-de-gustavo-petro-e-ivan-cepeda-desato-una-ola-de-reacciones-entre-el-oficialismo-y-la-oposicion-los-llamaron-cinicos/",
-      "source": "Infobae",
-      "pubDate": "Thu, 20 Aug 2026 02:34:15 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Gobierno de Abelardo De La Espriella firma decreto que declara emergencia económica en 15 departamentos para hacerle frente a crisis tras el terremoto",
