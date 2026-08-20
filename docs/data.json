@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T22:29:13.701Z",
+  "updatedAt": "2026-08-20T01:24:45.885Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 12,
+      "trendsScore": 15,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 57287,
-      "finalScore": 40,
+      "finalScore": 41,
       "momentum": {
-        "value": 0,
+        "value": 2.5,
         "direction": "flat"
       },
-      "probability": 50
+      "probability": 50.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,39 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 50
+      "probability": 49.4
     }
   ],
   "articles": [
     {
-      "title": "Terremoto en Colombia: Medicina Legal entregó nuevo reporte de muertes por cuenta de la tragedia; la cifra registró un ligero aumento",
-      "link": "https://www.infobae.com/colombia/2026/08/19/terremoto-en-colombia-medicina-legal-entrego-nuevo-reporte-de-muertes-por-cuenta-de-la-tragedia-la-cifra-registro-un-ligero-aumento/",
+      "title": "Gustavo Petro arremetió contra Abelardo de la Espriella, mientras el país lucha por superar la emergencia: “Incapacidad de empalme”",
+      "link": "https://www.infobae.com/colombia/2026/08/20/gustavo-petro-arremetio-contra-abelardo-de-la-espriella-mientras-el-pais-lucha-por-superar-la-emergencia-incapacidad-de-empalme/",
       "source": "Infobae",
-      "pubDate": "Wed, 19 Aug 2026 22:26:48 +0000",
+      "pubDate": "Thu, 20 Aug 2026 01:16:21 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Terremoto en Colombia: Abelardo de la Espriella dio reporte actualizado de víctimas",
-      "link": "https://www.infobae.com/colombia/2026/08/19/terremoto-en-colombia-abelardo-de-la-espriella-dio-reporte-actualizado-de-victimas/",
+      "title": "En réplica oficial, la oposición da su visión de cómo atender la emergencia tras el terremoto en Colombia",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/en-replica-oficial-la-oposicion-da-su-vision-de-como-atender-la-emergencia-tras-el-terremoto-en-colombia-3579536",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-19T20:15:54-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Gustavo Petro reaccionó a las duras críticas de Abelardo de la Espriella y dijo cómo dejó a Colpensiones, la Dian, el FNA y la deuda de Colombia",
+      "link": "https://www.infobae.com/colombia/2026/08/20/gustavo-petro-reacciono-a-las-duras-criticas-de-abelardo-de-la-espriella-y-dijo-como-dejo-a-colpensiones-la-dian-el-fna-y-la-deuda-de-colombia/",
       "source": "Infobae",
-      "pubDate": "Wed, 19 Aug 2026 22:18:39 +0000",
+      "pubDate": "Thu, 20 Aug 2026 01:04:57 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno Petro le quedó debiendo a los atletas casi $30.000 millones, según el Ministerio del Deporte",
+      "link": "https://www.infobae.com/colombia/deportes/2026/08/20/gobierno-petro-le-quedo-debiendo-a-los-atletas-casi-30000-millones-segun-el-ministerio-del-deporte/",
+      "source": "Infobae",
+      "pubDate": "Thu, 20 Aug 2026 01:00:54 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,7 +82,7 @@
       "title": "Presidente Abelardo De La Espriella confirma que este miércoles se firmará la emergencia económica y social: se hará durante el consejo de ministros",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirma-que-este-miercoles-se-firmara-la-emergencia-economica-y-social-se-hara-durante-el-consejo-de-ministros-3579505",
       "source": "El Tiempo",
-      "pubDate": "2026-08-19T17:09:25-05:00",
+      "pubDate": "2026-08-19T17:27:02-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
