@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T14:40:40.528Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-20T16:39:54.115Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 16,
+      "trendsScore": 15,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 57287,
-      "finalScore": 42,
+      "finalScore": 41,
       "momentum": {
-        "value": 0,
+        "value": -2.4,
         "direction": "flat"
       },
-      "probability": 51.2
+      "probability": 50.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,31 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 48.8
+      "probability": 49.4
     }
   ],
   "articles": [
     {
-      "title": "Iván Cepeda trató de “darle clase” de gobierno a Abelardo de la Espriella tras declaratoria de emergencia económica: “Es indispensable actuar” ",
-      "link": "https://www.infobae.com/colombia/2026/08/20/ivan-cepeda-trato-de-darle-clase-de-gobierno-a-abelardo-de-la-espriella-tras-declaratoria-de-emergencia-economica-es-indispensable-actuar/",
+      "title": "Él es Pablo Rivas Herazo, el nuevo superintendente financiero designado por el gobierno de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/08/20/el-es-pablo-rivas-herazo-el-nuevo-superintendente-financiero-designado-por-el-gobierno-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Thu, 20 Aug 2026 14:35:12 +0000",
+      "pubDate": "Thu, 20 Aug 2026 16:31:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Aida Quilcué respaldó la réplica realizada por Gusatavo Petro e Iván Cepeda a las declaraciones de Abelardo de la Espriella: “Seguiremos trabajando y defendiendo los derechos del pueblo”",
+      "link": "https://www.infobae.com/colombia/2026/08/20/aida-quilcue-respaldo-la-replica-realizada-por-gusatavo-petro-e-ivan-cepeda-a-las-declaraciones-de-abelardo-de-la-espriella-seguiremos-trabajando-y-defendiendo-los-derechos-del-pueblo/",
+      "source": "Infobae",
+      "pubDate": "Thu, 20 Aug 2026 16:19:43 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Daniel Briceño cuestionó a Iván Cepeda por pedir que se le quite la prima de servicio a los congresista para atender a las víctimas del terremoto: “Dé ejemplo y comience a donarla”",
+      "link": "https://www.infobae.com/colombia/2026/08/20/daniel-briceno-cuestiono-a-ivan-cepeda-por-pedir-que-se-le-quite-la-prima-de-servicio-a-los-congresista-para-atender-a-las-victimas-del-terremoto-de-ejemplo-y-comience-a-donarla/",
+      "source": "Infobae",
+      "pubDate": "Thu, 20 Aug 2026 16:13:26 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -59,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-firma-decreto-que-declara-la-emergencia-economica-para-hacerle-frente-a-crisis-tras-terremoto-3579549",
       "source": "El Tiempo",
       "pubDate": "2026-08-20T09:25:16-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo de la Espriella ordenó suspender la programación de las emisoras de paz en Colombia",
-      "link": "https://www.infobae.com/colombia/2026/08/20/gobierno-de-abelardo-de-la-espriella-ordeno-suspender-la-programacion-de-las-emisoras-de-paz-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Thu, 20 Aug 2026 14:23:11 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -91,14 +99,6 @@
       "link": "https://www.eltiempo.com/politica/partidos-politicos/senador-andres-forero-sobre-las-denuncias-del-libro-de-la-verdad-en-el-sector-salud-se-recogio-lo-que-denuncie-del-hospital-san-juan-de-dios-3579484",
       "source": "El Tiempo",
       "pubDate": "2026-08-19T16:12:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella nombra a los directores del DANE, Invias, Sena, SAE, entre otras entidades",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-nombra-a-los-directores-del-dane-invias-sena-sae-entre-otras-entidades-3579478",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-19T15:36:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
