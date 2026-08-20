@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T10:35:00.454Z",
+  "updatedAt": "2026-08-20T12:56:01.715Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 57287,
       "finalScore": 42,
       "momentum": {
-        "value": 2.4,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 51.2
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Políticos de izquierda reaccionaron a la declaraciones de Gustavo Petro sobre el ‘Libro de la Verdad’: “La estupidez del sectarismo”",
+      "link": "https://www.infobae.com/colombia/2026/08/20/politicos-de-izquierda-reaccionaron-a-la-declaraciones-de-gustavo-petro-sobre-el-libro-de-la-verdad-la-estupidez-del-sectarismo/",
+      "source": "Infobae",
+      "pubDate": "Thu, 20 Aug 2026 12:50:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Gobierno de Abelardo De La Espriella firma decreto que declara emergencia económica en 15 departamentos para hacerle frente a crisis tras el terremoto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-firma-decreto-que-declara-la-emergencia-economica-para-hacerle-frente-a-crisis-tras-terremoto-3579549",
