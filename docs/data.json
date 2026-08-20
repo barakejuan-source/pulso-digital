@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T18:44:20.086Z",
+  "updatedAt": "2026-08-20T20:33:06.895Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 14,
+      "trendsScore": 15,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella decretó la emergencia económica: que efectos tendrá en los 15 departamentos afectados por el terremoto",
-      "link": "https://www.infobae.com/colombia/2026/08/20/abelardo-de-la-espriella-decreto-la-emergencia-economica-que-efectos-tendra-en-los-15-departamentos-afectados-por-el-terremoto/",
+      "title": "Abelardo de la Espriella anunció oficialmente la cúpula militar durante su gobierno: el general Erick Rodríguez es el nuevo comandante de las FF.MM.",
+      "link": "https://www.infobae.com/colombia/2026/08/20/abelardo-de-la-espriella-anuncio-oficialmente-la-cupula-militar-durante-su-gobierno-el-general-erick-rodriguez-es-el-nuevo-comandante-de-las-ffmm/",
       "source": "Infobae",
-      "pubDate": "Thu, 20 Aug 2026 18:23:17 +0000",
+      "pubDate": "Thu, 20 Aug 2026 20:09:43 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El ministro de Ambiente Fabio Arjona hizo precisiones sobre decisión relacionada con el páramo de Santurbán: “Dejemos de repetir como loros”",
+      "link": "https://www.infobae.com/colombia/2026/08/20/el-ministro-de-ambiente-fabio-arjona-hizo-precisiones-sobre-decision-relacionada-con-el-paramo-de-santurban-dejemos-de-repetir-como-loros/",
+      "source": "Infobae",
+      "pubDate": "Thu, 20 Aug 2026 20:08:40 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,14 +67,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-presidente-de-colombia-anuncio-acuerdo-con-aseguradoras-para-pagos-a-los-damnificados-por-el-terremoto-seran-agilizados-3579715",
       "source": "El Tiempo",
       "pubDate": "2026-08-20T12:51:41-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella firma decreto que declara emergencia económica en 15 departamentos para hacerle frente a crisis tras el terremoto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-firma-decreto-que-declara-la-emergencia-economica-para-hacerle-frente-a-crisis-tras-terremoto-3579549",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-20T09:25:16-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
