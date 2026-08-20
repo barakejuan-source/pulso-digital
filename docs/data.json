@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T20:33:06.895Z",
+  "updatedAt": "2026-08-20T22:32:16.594Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 15,
+      "trendsScore": 14,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -46,22 +46,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Abelardo de la Espriella anunció oficialmente la cúpula militar durante su gobierno: el general Erick Rodríguez es el nuevo comandante de las FF.MM.",
-      "link": "https://www.infobae.com/colombia/2026/08/20/abelardo-de-la-espriella-anuncio-oficialmente-la-cupula-militar-durante-su-gobierno-el-general-erick-rodriguez-es-el-nuevo-comandante-de-las-ffmm/",
-      "source": "Infobae",
-      "pubDate": "Thu, 20 Aug 2026 20:09:43 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El ministro de Ambiente Fabio Arjona hizo precisiones sobre decisión relacionada con el páramo de Santurbán: “Dejemos de repetir como loros”",
-      "link": "https://www.infobae.com/colombia/2026/08/20/el-ministro-de-ambiente-fabio-arjona-hizo-precisiones-sobre-decision-relacionada-con-el-paramo-de-santurban-dejemos-de-repetir-como-loros/",
-      "source": "Infobae",
-      "pubDate": "Thu, 20 Aug 2026 20:08:40 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
     {
       "title": "Abelardo De La Espriella, presidente de Colombia, anunció acuerdo con aseguradoras para pagos a los damnificados por el terremoto: 'Serán agilizados'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-presidente-de-colombia-anuncio-acuerdo-con-aseguradoras-para-pagos-a-los-damnificados-por-el-terremoto-seran-agilizados-3579715",
