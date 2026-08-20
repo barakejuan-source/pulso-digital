@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-20T12:56:01.715Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-20T14:40:40.528Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Políticos de izquierda reaccionaron a la declaraciones de Gustavo Petro sobre el ‘Libro de la Verdad’: “La estupidez del sectarismo”",
-      "link": "https://www.infobae.com/colombia/2026/08/20/politicos-de-izquierda-reaccionaron-a-la-declaraciones-de-gustavo-petro-sobre-el-libro-de-la-verdad-la-estupidez-del-sectarismo/",
+      "title": "Iván Cepeda trató de “darle clase” de gobierno a Abelardo de la Espriella tras declaratoria de emergencia económica: “Es indispensable actuar” ",
+      "link": "https://www.infobae.com/colombia/2026/08/20/ivan-cepeda-trato-de-darle-clase-de-gobierno-a-abelardo-de-la-espriella-tras-declaratoria-de-emergencia-economica-es-indispensable-actuar/",
       "source": "Infobae",
-      "pubDate": "Thu, 20 Aug 2026 12:50:58 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Thu, 20 Aug 2026 14:35:12 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Gobierno de Abelardo De La Espriella firma decreto que declara emergencia económica en 15 departamentos para hacerle frente a crisis tras el terremoto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-firma-decreto-que-declara-la-emergencia-economica-para-hacerle-frente-a-crisis-tras-terremoto-3579549",
       "source": "El Tiempo",
-      "pubDate": "2026-08-19T21:32:19-05:00",
+      "pubDate": "2026-08-20T09:25:16-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo de la Espriella ordenó suspender la programación de las emisoras de paz en Colombia",
+      "link": "https://www.infobae.com/colombia/2026/08/20/gobierno-de-abelardo-de-la-espriella-ordeno-suspender-la-programacion-de-las-emisoras-de-paz-en-colombia/",
+      "source": "Infobae",
+      "pubDate": "Thu, 20 Aug 2026 14:23:11 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
