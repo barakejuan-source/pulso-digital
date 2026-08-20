@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T01:24:45.885Z",
+  "updatedAt": "2026-08-20T03:00:39.847Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 57287,
       "finalScore": 41,
       "momentum": {
-        "value": 2.5,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 50.6
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Gustavo Petro arremetió contra Abelardo de la Espriella, mientras el país lucha por superar la emergencia: “Incapacidad de empalme”",
-      "link": "https://www.infobae.com/colombia/2026/08/20/gustavo-petro-arremetio-contra-abelardo-de-la-espriella-mientras-el-pais-lucha-por-superar-la-emergencia-incapacidad-de-empalme/",
+      "title": "Abelardo de la Espriella ya firmó el decreto que declara el estado de emergencia económica y social en Colombia: este es el documento",
+      "link": "https://www.infobae.com/colombia/2026/08/20/abelardo-de-la-espriella-ya-firmo-el-decreto-que-declara-el-estado-de-emergencia-economica-en-colombia-este-es-el-documento/",
       "source": "Infobae",
-      "pubDate": "Thu, 20 Aug 2026 01:16:21 +0000",
+      "pubDate": "Thu, 20 Aug 2026 02:38:28 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Réplica de Gustavo Petro e Iván Cepeda desató una ola de reacciones entre el oficialismo y la oposición: los llamaron “cínicos”",
+      "link": "https://www.infobae.com/colombia/2026/08/20/replica-de-gustavo-petro-e-ivan-cepeda-desato-una-ola-de-reacciones-entre-el-oficialismo-y-la-oposicion-los-llamaron-cinicos/",
+      "source": "Infobae",
+      "pubDate": "Thu, 20 Aug 2026 02:34:15 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Gobierno de Abelardo De La Espriella firma decreto que declara emergencia económica en 15 departamentos para hacerle frente a crisis tras el terremoto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-firma-decreto-que-declara-la-emergencia-economica-para-hacerle-frente-a-crisis-tras-terremoto-3579549",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-19T21:32:19-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -61,22 +77,6 @@
       "pubDate": "2026-08-19T20:15:54-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Gustavo Petro reaccionó a las duras críticas de Abelardo de la Espriella y dijo cómo dejó a Colpensiones, la Dian, el FNA y la deuda de Colombia",
-      "link": "https://www.infobae.com/colombia/2026/08/20/gustavo-petro-reacciono-a-las-duras-criticas-de-abelardo-de-la-espriella-y-dijo-como-dejo-a-colpensiones-la-dian-el-fna-y-la-deuda-de-colombia/",
-      "source": "Infobae",
-      "pubDate": "Thu, 20 Aug 2026 01:04:57 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno Petro le quedó debiendo a los atletas casi $30.000 millones, según el Ministerio del Deporte",
-      "link": "https://www.infobae.com/colombia/deportes/2026/08/20/gobierno-petro-le-quedo-debiendo-a-los-atletas-casi-30000-millones-segun-el-ministerio-del-deporte/",
-      "source": "Infobae",
-      "pubDate": "Thu, 20 Aug 2026 01:00:54 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Presidente Abelardo De La Espriella confirma que este miércoles se firmará la emergencia económica y social: se hará durante el consejo de ministros",
