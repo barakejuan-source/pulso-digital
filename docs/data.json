@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T18:41:29.646Z",
+  "updatedAt": "2026-08-21T20:30:30.708Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 57287,
       "finalScore": 40,
       "momentum": {
-        "value": 2.6,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 50
@@ -47,10 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Fecode respondió a declaración de la ministra de Educación Viviane Morales quien denunció supuestos intentos de imponer “ideología de género” en los colegios: “Una absoluta y total mentira”",
+      "title": "Fecode respondió afirmación de la ministra de Educación Viviane Morales de supuestos intentos de imponer “ideología de género” en los colegios: “Una absoluta y total mentira”",
       "link": "https://www.infobae.com/colombia/2026/08/21/fecode-respondio-a-declaracion-de-la-ministra-de-educacion-viviane-morales-quien-denuncio-supuestos-intentos-de-imponer-ideologia-de-genero-en-los-colegios-una-absoluta-y-total-mentira/",
       "source": "Infobae",
-      "pubDate": "Fri, 21 Aug 2026 18:34:47 +0000",
+      "pubDate": "Fri, 21 Aug 2026 20:22:11 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Esta habría sido la confesión de Gabriela Muñoz en medio de la polémica por asignación de esquema de protección por parte de la UNP: “No siento vergüenza de reconocer mis privilegios”",
+      "link": "https://www.infobae.com/colombia/2026/08/21/esta-habria-sido-la-confesion-de-gabriela-munoz-en-medio-de-la-polemica-por-asignacion-de-esquema-de-proteccion-por-parte-de-la-unp-no-siento-verguenza-de-reconocer-mis-privilegios/",
+      "source": "Infobae",
+      "pubDate": "Fri, 21 Aug 2026 20:07:13 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Quién es quién en las embajadas clave de Colombia que ya confirmó el presidente Abelardo De La Espriella?",
+      "link": "https://www.eltiempo.com/politica/gobierno/quien-es-quien-en-las-embajadas-clave-de-colombia-que-ya-confirmo-el-presidente-abelardo-de-la-espriella-3580047",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-21T14:52:12-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo de la Espriella hizo balance de la atención de la emergencia luego del terremoto de 7,4",
+      "link": "https://www.infobae.com/colombia/2026/08/21/gobierno-de-abelardo-de-la-espriella-hizo-balance-de-la-atencion-de-la-emergencia-luego-por-el-terremoto-de-74/",
+      "source": "Infobae",
+      "pubDate": "Fri, 21 Aug 2026 19:48:49 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,15 +82,7 @@
       "title": "Gustavo Petro criticó el decreto de emergencia económica que firmó Abelardo de la Espriella para enfrentar la crisis por el terremoto: “Endeudar a la clase media”",
       "link": "https://www.infobae.com/colombia/2026/08/21/gustavo-petro-critico-el-decreto-de-emergencia-economica-que-firmo-abelardo-de-la-espriella-para-enfrentar-la-crisis-por-el-terremoto-endeudar-a-la-clase-media/",
       "source": "Infobae",
-      "pubDate": "Fri, 21 Aug 2026 18:21:17 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Marbelle defendió a Abelardo de la Espriella por sus viajes en helicóptero y lanzó pulla a Francia Márquez",
-      "link": "https://www.infobae.com/colombia/2026/08/21/marbelle-defendio-a-abelardo-de-la-espriella-por-sus-viajes-en-helicoptero-y-lanzo-pulla-a-francia-marquez/",
-      "source": "Infobae",
-      "pubDate": "Fri, 21 Aug 2026 18:16:42 +0000",
+      "pubDate": "Fri, 21 Aug 2026 19:47:15 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -93,14 +109,6 @@
       "pubDate": "Fri, 21 Aug 2026 01:10:25 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "\"Arrestar o matar”: Renan Santos, el candidato antisistema que confronta a Lula y a Flávio Bolsonaro",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260820-arrestar-o-matar-renan-santos-el-candidato-antisistema-que-confronta-a-lula-y-a-fl%C3%A1vio-bolsonaro",
-      "source": "France 24",
-      "pubDate": "Thu, 20 Aug 2026 23:18:46 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
