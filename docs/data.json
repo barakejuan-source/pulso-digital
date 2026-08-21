@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T12:55:11.802Z",
+  "updatedAt": "2026-08-21T14:40:22.700Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 10,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Estos son los 26 oficiales que saldrán de las Fuerzas Militares tras la instalación de la nueva cúpula militar ordenada por el presidente Abelardo de la Espriella: “Tengo que rodearme de los mejores”",
-      "link": "https://www.infobae.com/colombia/2026/08/21/estos-son-los-26-oficiales-que-saldran-de-las-fuerzas-militares-tras-la-instalacion-de-la-nueva-cupula-militar-ordenada-por-el-presidente-abelardo-de-la-espriella-tengo-que-rodearme-de-los-mejores/",
+      "title": "Ella es Isadora Fernández Posada que fue nombrada por Abelardo de la Espriella como la nueva directora de la Uspec: estas serán sus funciones",
+      "link": "https://www.infobae.com/colombia/2026/08/21/ella-es-isadora-fernandez-posada-que-fue-nombrada-por-abelardo-de-la-espriella-como-la-nueva-directora-de-la-uspec-estas-seran-sus-funciones/",
       "source": "Infobae",
-      "pubDate": "Fri, 21 Aug 2026 12:44:26 +0000",
+      "pubDate": "Fri, 21 Aug 2026 14:07:48 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
