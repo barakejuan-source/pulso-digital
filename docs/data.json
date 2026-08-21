@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-21T20:30:30.708Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-21T22:29:32.164Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,20 +47,12 @@
   ],
   "articles": [
     {
-      "title": "Fecode respondió afirmación de la ministra de Educación Viviane Morales de supuestos intentos de imponer “ideología de género” en los colegios: “Una absoluta y total mentira”",
-      "link": "https://www.infobae.com/colombia/2026/08/21/fecode-respondio-a-declaracion-de-la-ministra-de-educacion-viviane-morales-quien-denuncio-supuestos-intentos-de-imponer-ideologia-de-genero-en-los-colegios-una-absoluta-y-total-mentira/",
+      "title": "Abelardo de la Espriella posesionó a Samuel Bluman como director de ProColombia: “Trabajaremos para atraer más inversión”",
+      "link": "https://www.infobae.com/colombia/2026/08/21/abelardo-de-la-espriella-posesiono-a-samuel-bluman-como-director-de-procolombia-trabajaremos-para-atraer-mas-inversion/",
       "source": "Infobae",
-      "pubDate": "Fri, 21 Aug 2026 20:22:11 +0000",
+      "pubDate": "Fri, 21 Aug 2026 22:10:26 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Esta habría sido la confesión de Gabriela Muñoz en medio de la polémica por asignación de esquema de protección por parte de la UNP: “No siento vergüenza de reconocer mis privilegios”",
-      "link": "https://www.infobae.com/colombia/2026/08/21/esta-habria-sido-la-confesion-de-gabriela-munoz-en-medio-de-la-polemica-por-asignacion-de-esquema-de-proteccion-por-parte-de-la-unp-no-siento-verguenza-de-reconocer-mis-privilegios/",
-      "source": "Infobae",
-      "pubDate": "Fri, 21 Aug 2026 20:07:13 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "¿Quién es quién en las embajadas clave de Colombia que ya confirmó el presidente Abelardo De La Espriella?",
@@ -71,42 +63,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gobierno de Abelardo de la Espriella hizo balance de la atención de la emergencia luego del terremoto de 7,4",
-      "link": "https://www.infobae.com/colombia/2026/08/21/gobierno-de-abelardo-de-la-espriella-hizo-balance-de-la-atencion-de-la-emergencia-luego-por-el-terremoto-de-74/",
-      "source": "Infobae",
-      "pubDate": "Fri, 21 Aug 2026 19:48:49 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gustavo Petro criticó el decreto de emergencia económica que firmó Abelardo de la Espriella para enfrentar la crisis por el terremoto: “Endeudar a la clase media”",
-      "link": "https://www.infobae.com/colombia/2026/08/21/gustavo-petro-critico-el-decreto-de-emergencia-economica-que-firmo-abelardo-de-la-espriella-para-enfrentar-la-crisis-por-el-terremoto-endeudar-a-la-clase-media/",
-      "source": "Infobae",
-      "pubDate": "Fri, 21 Aug 2026 19:47:15 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Las razones por las que Abelardo De La Espriella objetó la ley que buscaba frenar la disminución de requisitos en cargos públicos",
       "link": "https://www.eltiempo.com/politica/congreso/las-razones-por-las-que-abelardo-de-la-espriella-objeto-la-ley-que-buscaba-frenar-la-disminucion-de-requisitos-en-cargos-publicos-3580030",
       "source": "El Tiempo",
       "pubDate": "2026-08-21T11:57:08-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El presidente Abelardo de la Espriella objetó ley del senador uribista Hernán Cadavid que buscaba privilegiar el mérito en cargos públicos",
-      "link": "https://www.eltiempo.com/politica/congreso/presidente-abelardo-de-la-espriella-objeto-ley-del-senador-uribista-hernan-cadavid-que-buscaba-privilegiar-el-merito-en-cargos-publicos-3579969",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-21T10:41:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cuba se queda aislada: al bloqueo petrolero se suma el rechazo diplomático en la región",
-      "link": "https://www.france24.com/es/video/20260821-cuba-se-queda-aislada-al-bloqueo-petrolero-se-suma-el-rechazo-diplom%C3%A1tico-en-la-regi%C3%B3n",
-      "source": "France 24",
-      "pubDate": "Fri, 21 Aug 2026 01:10:25 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
