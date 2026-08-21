@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-21T16:39:09.814Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-21T18:41:29.646Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 10,
+      "trendsScore": 11,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 57287,
-      "finalScore": 39,
+      "finalScore": 40,
       "momentum": {
-        "value": 0,
+        "value": 2.6,
         "direction": "flat"
       },
-      "probability": 49.4
+      "probability": 50
     },
     {
       "id": "abelardo_espriella",
@@ -42,31 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 50.6
+      "probability": 50
     }
   ],
   "articles": [
     {
-      "title": "El candidato presidencial francés Philippe compara Ceuta con la isla francesa de Mayotte",
-      "link": "https://www.infobae.com/america/agencias/2026/08/21/el-candidato-presidencial-frances-philippe-compara-ceuta-con-la-isla-francesa-de-mayotte/",
+      "title": "Fecode respondió a declaración de la ministra de Educación Viviane Morales quien denunció supuestos intentos de imponer “ideología de género” en los colegios: “Una absoluta y total mentira”",
+      "link": "https://www.infobae.com/colombia/2026/08/21/fecode-respondio-a-declaracion-de-la-ministra-de-educacion-viviane-morales-quien-denuncio-supuestos-intentos-de-imponer-ideologia-de-genero-en-los-colegios-una-absoluta-y-total-mentira/",
       "source": "Infobae",
-      "pubDate": "Fri, 21 Aug 2026 16:17:49 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Fri, 21 Aug 2026 18:34:47 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gustavo Petro criticó el decreto de emergencia económica que firmó Abelardo de la Espriella para enfrentar la crisis por el terremoto: “Endeudar a la clase media”",
+      "link": "https://www.infobae.com/colombia/2026/08/21/gustavo-petro-critico-el-decreto-de-emergencia-economica-que-firmo-abelardo-de-la-espriella-para-enfrentar-la-crisis-por-el-terremoto-endeudar-a-la-clase-media/",
+      "source": "Infobae",
+      "pubDate": "Fri, 21 Aug 2026 18:21:17 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Marbelle defendió a Abelardo de la Espriella por sus viajes en helicóptero y lanzó pulla a Francia Márquez",
+      "link": "https://www.infobae.com/colombia/2026/08/21/marbelle-defendio-a-abelardo-de-la-espriella-por-sus-viajes-en-helicoptero-y-lanzo-pulla-a-francia-marquez/",
+      "source": "Infobae",
+      "pubDate": "Fri, 21 Aug 2026 18:16:42 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Las razones por las que Abelardo De La Espriella objetó la ley que buscaba frenar la disminución de requisitos en cargos públicos",
+      "link": "https://www.eltiempo.com/politica/congreso/las-razones-por-las-que-abelardo-de-la-espriella-objeto-la-ley-que-buscaba-frenar-la-disminucion-de-requisitos-en-cargos-publicos-3580030",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-21T11:57:08-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "El presidente Abelardo de la Espriella objetó ley del senador uribista Hernán Cadavid que buscaba privilegiar el mérito en cargos públicos",
       "link": "https://www.eltiempo.com/politica/congreso/presidente-abelardo-de-la-espriella-objeto-ley-del-senador-uribista-hernan-cadavid-que-buscaba-privilegiar-el-merito-en-cargos-publicos-3579969",
       "source": "El Tiempo",
       "pubDate": "2026-08-21T10:41:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desayune informado con las movidas de este 21 de agosto de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-21-de-agosto-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 21 Aug 2026 12:30:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -79,36 +95,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Duerma informado con las claves de este 20 de agosto de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-20-de-agosto-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 21 Aug 2026 00:15:09 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobernadores y sectores políticos respaldan los nuevos nombramientos de la cúpula militar del gobierno de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobernadores-y-sectores-politicos-respaldan-los-nuevos-nombramientos-de-la-cupula-militar-del-gobierno-de-abelardo-de-la-espriella-3579846",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-20T18:55:30-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "\"Arrestar o matar”: Renan Santos, el candidato antisistema que confronta a Lula y a Flávio Bolsonaro",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260820-arrestar-o-matar-renan-santos-el-candidato-antisistema-que-confronta-a-lula-y-a-fl%C3%A1vio-bolsonaro",
       "source": "France 24",
       "pubDate": "Thu, 20 Aug 2026 23:18:46 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo De La Espriella oficializa nombramientos en el DNP, Función Pública, Ideam, Uspec, Inpec y otras entidades",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-oficializa-nombramientos-en-el-dnp-funcion-publica-ideam-uspec-inpec-y-otras-entidades-3579819",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-20T17:37:35-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
