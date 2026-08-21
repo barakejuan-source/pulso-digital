@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T01:29:00.784Z",
+  "updatedAt": "2026-08-21T03:07:11.089Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 10,
+      "trendsScore": 8,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 57287,
       "finalScore": 39,
       "momentum": {
-        "value": -4.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 49.4
@@ -53,22 +53,6 @@
       "pubDate": "Fri, 21 Aug 2026 01:10:25 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella anunció oficialmente la cúpula militar durante su gobierno: el general Erick Rodríguez es el nuevo comandante de las FF.MM.",
-      "link": "https://www.infobae.com/colombia/2026/08/20/abelardo-de-la-espriella-anuncio-oficialmente-la-cupula-militar-durante-su-gobierno-el-general-erick-rodriguez-es-el-nuevo-comandante-de-las-ffmm/",
-      "source": "Infobae",
-      "pubDate": "Fri, 21 Aug 2026 01:03:30 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El Centro Democrático pidió investigar presunta infiltración del esquema de seguridad de Miguel Uribe Turbay: “Graves denuncias”",
-      "link": "https://www.infobae.com/colombia/2026/08/21/el-centro-democratico-pidio-investigar-presunta-infiltracion-del-esquema-de-seguridad-de-miguel-uribe-turbay-graves-denuncias/",
-      "source": "Infobae",
-      "pubDate": "Fri, 21 Aug 2026 00:38:28 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Duerma informado con las claves de este 20 de agosto de 2026",
