@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-21T14:40:22.700Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-21T16:39:09.814Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Ella es Isadora Fernández Posada que fue nombrada por Abelardo de la Espriella como la nueva directora de la Uspec: estas serán sus funciones",
-      "link": "https://www.infobae.com/colombia/2026/08/21/ella-es-isadora-fernandez-posada-que-fue-nombrada-por-abelardo-de-la-espriella-como-la-nueva-directora-de-la-uspec-estas-seran-sus-funciones/",
+      "title": "El candidato presidencial francés Philippe compara Ceuta con la isla francesa de Mayotte",
+      "link": "https://www.infobae.com/america/agencias/2026/08/21/el-candidato-presidencial-frances-philippe-compara-ceuta-con-la-isla-francesa-de-mayotte/",
       "source": "Infobae",
-      "pubDate": "Fri, 21 Aug 2026 14:07:48 +0000",
+      "pubDate": "Fri, 21 Aug 2026 16:17:49 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "El presidente Abelardo de la Espriella objetó ley del senador uribista Hernán Cadavid que buscaba privilegiar el mérito en cargos públicos",
+      "link": "https://www.eltiempo.com/politica/congreso/presidente-abelardo-de-la-espriella-objeto-ley-del-senador-uribista-hernan-cadavid-que-buscaba-privilegiar-el-merito-en-cargos-publicos-3579969",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-21T10:41:45-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -99,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-oficializa-nombramientos-en-el-dnp-funcion-publica-ideam-uspec-inpec-y-otras-entidades-3579819",
       "source": "El Tiempo",
       "pubDate": "2026-08-20T17:37:35-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella, presidente de Colombia, anunció acuerdo con aseguradoras para pagos a los damnificados por el terremoto: 'Serán agilizados'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-presidente-de-colombia-anuncio-acuerdo-con-aseguradoras-para-pagos-a-los-damnificados-por-el-terremoto-seran-agilizados-3579715",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-20T12:51:41-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
