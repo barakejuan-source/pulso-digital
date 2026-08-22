@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T18:35:45.834Z",
+  "updatedAt": "2026-08-22T20:27:22.528Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella celebró reducción de tasas de interés para vivienda en zonas afectadas y pidió extender la medida a todo el sector",
-      "link": "https://www.infobae.com/colombia/2026/08/22/abelardo-de-la-espriella-celebro-reduccion-de-tasas-de-interes-para-vivienda-en-zonas-afectadas-y-pidio-extender-la-medida-a-todo-el-sector/",
-      "source": "Infobae",
-      "pubDate": "Sat, 22 Aug 2026 18:31:04 +0000",
+      "title": "Presidente Abelardo De La Espriella entrega balance del terremoto en Colombia este 22 de agosto de 2026: víctimas, damnificados y municipios afectados",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-tras-el-sismo-en-colombia-victimas-damnificados-y-municipios-afectados-3580263",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-22T13:51:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -61,22 +61,6 @@
       "pubDate": "Sat, 22 Aug 2026 18:00:36 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo de la Espriella ordenó cerrar oficinas de ProColombia para instalarlas en sedes diplomáticas: “Ahorramos unos recursos”",
-      "link": "https://www.infobae.com/colombia/2026/08/22/abelardo-de-la-espriella-ordeno-cerrar-oficinas-de-procolombia-para-instalarlas-en-sedes-diplomaticas-ahorramos-unos-recursos/",
-      "source": "Infobae",
-      "pubDate": "Sat, 22 Aug 2026 17:42:11 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella entrega balance del sismo en Colombia este 22 de agosto de 2026: víctimas, damnificados y municipios afectados",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-tras-el-sismo-en-colombia-victimas-damnificados-y-municipios-afectados-3580263",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-22T12:33:12-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Tragedia, donaciones, corrupción y primeras damas",
@@ -115,14 +99,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-reporto-operativos-contra-el-clan-del-golfo-y-la-terraza-rescate-de-secuestrados-e-incautacion-de-marihuana-3580228",
       "source": "El Tiempo",
       "pubDate": "2026-08-22T08:08:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Histórico: la USO, sindicato de Ecopetrol, respalda plan energético y de fracking del Presidente Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/historico-la-uso-sindicato-de-ecopetrol-respalda-plan-energetico-y-de-fracking-del-presidente-abelardo-de-la-espriella-3580142",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-21T18:10:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
