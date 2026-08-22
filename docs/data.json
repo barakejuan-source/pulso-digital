@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T02:58:04.096Z",
+  "updatedAt": "2026-08-22T04:37:08.105Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 7,
+      "trendsScore": 6,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -47,26 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Gobierno de Abelardo de la Espriella nombró al nuevo director del Ideam: este es el perfil de Andrés Herkrath Sanclemente",
-      "link": "https://www.infobae.com/colombia/2026/08/22/gobierno-de-abelardo-de-la-espriella-nombro-al-nuevo-director-del-ideam-este-es-el-perfil-de-andres-herkrath-sanclemente/",
-      "source": "Infobae",
-      "pubDate": "Sat, 22 Aug 2026 02:47:37 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Supernotariado frenó entrega de notarías en todo el país por orden de Abelardo de la Espriella e inició una auditoría forense",
-      "link": "https://www.infobae.com/colombia/2026/08/22/supernotariado-freno-entrega-de-notarias-en-todo-el-pais-por-orden-de-abelardo-de-la-espriella-e-inicio-una-auditoria-forense/",
-      "source": "Infobae",
-      "pubDate": "Sat, 22 Aug 2026 02:22:13 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo de la Espriella firmó decreto para reactivar la exportación de carbón a Israel",
-      "link": "https://www.infobae.com/colombia/2026/08/22/gobierno-de-abelardo-de-la-espriella-ya-tiene-listo-el-decreto-para-reactivar-la-exportacion-de-carbon-a-israel/",
-      "source": "Infobae",
-      "pubDate": "Sat, 22 Aug 2026 01:56:14 +0000",
+      "title": "Gobierno de Abelardo De La Espriella anunció que Colombia retomará exportaciones de carbón a Israel tras la suspensión en 2024",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncio-que-colombia-retomara-exportaciones-de-carbon-a-israel-tras-la-suspension-en-3580184",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-21T22:02:06-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -83,14 +67,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/quien-es-quien-en-las-embajadas-clave-de-colombia-que-ya-confirmo-el-presidente-abelardo-de-la-espriella-3580047",
       "source": "El Tiempo",
       "pubDate": "2026-08-21T14:52:12-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Las razones por las que Abelardo De La Espriella objetó la ley que buscaba frenar la disminución de requisitos en cargos públicos",
-      "link": "https://www.eltiempo.com/politica/congreso/las-razones-por-las-que-abelardo-de-la-espriella-objeto-la-ley-que-buscaba-frenar-la-disminucion-de-requisitos-en-cargos-publicos-3580030",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-21T11:57:08-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
