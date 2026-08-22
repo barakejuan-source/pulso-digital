@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-21T22:29:32.164Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-22T01:24:25.653Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 11,
+      "trendsScore": 7,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 57287,
-      "finalScore": 40,
+      "finalScore": 38,
       "momentum": {
-        "value": 0,
+        "value": -5,
         "direction": "flat"
       },
-      "probability": 50
+      "probability": 48.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 50
+      "probability": 51.3
     }
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella posesionó a Samuel Bluman como director de ProColombia: “Trabajaremos para atraer más inversión”",
-      "link": "https://www.infobae.com/colombia/2026/08/21/abelardo-de-la-espriella-posesiono-a-samuel-bluman-como-director-de-procolombia-trabajaremos-para-atraer-mas-inversion/",
+      "title": "Gobierno de Abelardo de la Espriella ya tiene listo el decreto para reactivar la exportación de carbón a Israel",
+      "link": "https://www.infobae.com/colombia/2026/08/22/gobierno-de-abelardo-de-la-espriella-ya-tiene-listo-el-decreto-para-reactivar-la-exportacion-de-carbon-a-israel/",
       "source": "Infobae",
-      "pubDate": "Fri, 21 Aug 2026 22:10:26 +0000",
+      "pubDate": "Sat, 22 Aug 2026 01:19:46 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Histórico: la USO, sindicato de Ecopetrol, respalda plan energético y de fracking del Presidente Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/historico-la-uso-sindicato-de-ecopetrol-respalda-plan-energetico-y-de-fracking-del-presidente-abelardo-de-la-espriella-3580142",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-21T18:10:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
