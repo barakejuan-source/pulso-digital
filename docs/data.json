@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T16:29:29.140Z",
+  "updatedAt": "2026-08-22T18:35:45.834Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,46 @@
   ],
   "articles": [
     {
+      "title": "Abelardo de la Espriella celebró reducción de tasas de interés para vivienda en zonas afectadas y pidió extender la medida a todo el sector",
+      "link": "https://www.infobae.com/colombia/2026/08/22/abelardo-de-la-espriella-celebro-reduccion-de-tasas-de-interes-para-vivienda-en-zonas-afectadas-y-pidio-extender-la-medida-a-todo-el-sector/",
+      "source": "Infobae",
+      "pubDate": "Sat, 22 Aug 2026 18:31:04 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Lula y Bolsonaro se dirigirán a sus seguidores en Río de Janeiro en eventos simultáneos",
+      "link": "https://www.france24.com/es/video/20260822-lula-y-bolsonaro-se-dirigir%C3%A1n-a-sus-seguidores-en-r%C3%ADo-de-janeiro-en-eventos-simult%C3%A1neos",
+      "source": "France 24",
+      "pubDate": "Sat, 22 Aug 2026 18:00:36 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella ordenó cerrar oficinas de ProColombia para instalarlas en sedes diplomáticas: “Ahorramos unos recursos”",
+      "link": "https://www.infobae.com/colombia/2026/08/22/abelardo-de-la-espriella-ordeno-cerrar-oficinas-de-procolombia-para-instalarlas-en-sedes-diplomaticas-ahorramos-unos-recursos/",
+      "source": "Infobae",
+      "pubDate": "Sat, 22 Aug 2026 17:42:11 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella entrega balance del sismo en Colombia este 22 de agosto de 2026: víctimas, damnificados y municipios afectados",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-tras-el-sismo-en-colombia-victimas-damnificados-y-municipios-afectados-3580263",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-22T12:33:12-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Tragedia, donaciones, corrupción y primeras damas",
+      "link": "https://www.lasillavacia.com/opinion/tragedia-donaciones-corrupcion-y-primeras-damas/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 22 Aug 2026 16:54:04 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "La Siguiente Movida: ¿Qué busca el presidente con las batallas ideológicas que abre?",
       "link": "https://www.lasillavacia.com/opinion/la-siguiente-movida-que-busca-el-presidente-con-las-batallas-ideologicas-que-abre/",
       "source": "La Silla Vacía",
@@ -79,26 +119,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Tragedia, donaciones, corrupción y primeras damas",
-      "link": "https://www.lasillavacia.com/opinion/tragedia-donaciones-corrupcion-y-primeras-damas/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 22 Aug 2026 12:31:53 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Histórico: la USO, sindicato de Ecopetrol, respalda plan energético y de fracking del Presidente Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/historico-la-uso-sindicato-de-ecopetrol-respalda-plan-energetico-y-de-fracking-del-presidente-abelardo-de-la-espriella-3580142",
       "source": "El Tiempo",
       "pubDate": "2026-08-21T18:10:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Quién es quién en las embajadas clave de Colombia que ya confirmó el presidente Abelardo De La Espriella?",
-      "link": "https://www.eltiempo.com/politica/gobierno/quien-es-quien-en-las-embajadas-clave-de-colombia-que-ya-confirmo-el-presidente-abelardo-de-la-espriella-3580047",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-21T14:52:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
