@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T20:27:22.528Z",
+  "updatedAt": "2026-08-22T22:26:41.193Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
+      "title": "¿Quién es Samuel Bluman, el empresario designado como nuevo director de ProColombia por el presidente Abelardo De La Espriella?",
+      "link": "https://www.eltiempo.com/politica/gobierno/quien-es-samuel-bluman-el-empresario-designado-como-nuevo-director-de-procolombia-por-el-presidente-abelardo-de-la-espriella-3580233",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-22T16:21:41-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella entrega balance del terremoto en Colombia este 22 de agosto de 2026: víctimas, damnificados y municipios afectados",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-tras-el-sismo-en-colombia-victimas-damnificados-y-municipios-afectados-3580263",
       "source": "El Tiempo",
-      "pubDate": "2026-08-22T13:51:21-05:00",
+      "pubDate": "2026-08-22T16:19:23-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,22 +83,6 @@
       "link": "https://www.lasillavacia.com/opinion/la-siguiente-movida-que-busca-el-presidente-con-las-batallas-ideologicas-que-abre/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 22 Aug 2026 15:18:44 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella anunció que Colombia retomará exportaciones de carbón a Israel tras la suspensión en 2024",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncio-que-colombia-retomara-exportaciones-de-carbon-a-israel-tras-la-suspension-en-3580184",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-22T10:01:37-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Quién es Samuel Bluman, el empresario designado como nuevo director de ProColombia por el presidente Abelardo De La Espriella?",
-      "link": "https://www.eltiempo.com/politica/gobierno/quien-es-samuel-bluman-el-empresario-designado-como-nuevo-director-de-procolombia-por-el-presidente-abelardo-de-la-espriella-3580233",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-22T09:10:32-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
