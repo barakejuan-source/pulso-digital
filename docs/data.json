@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T14:26:26.560Z",
+  "updatedAt": "2026-08-22T16:29:29.140Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,22 @@
   ],
   "articles": [
     {
+      "title": "La Siguiente Movida: ¿Qué busca el presidente con las batallas ideológicas que abre?",
+      "link": "https://www.lasillavacia.com/opinion/la-siguiente-movida-que-busca-el-presidente-con-las-batallas-ideologicas-que-abre/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 22 Aug 2026 15:18:44 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo De La Espriella anunció que Colombia retomará exportaciones de carbón a Israel tras la suspensión en 2024",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncio-que-colombia-retomara-exportaciones-de-carbon-a-israel-tras-la-suspension-en-3580184",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-22T10:01:37-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "¿Quién es Samuel Bluman, el empresario designado como nuevo director de ProColombia por el presidente Abelardo De La Espriella?",
       "link": "https://www.eltiempo.com/politica/gobierno/quien-es-samuel-bluman-el-empresario-designado-como-nuevo-director-de-procolombia-por-el-presidente-abelardo-de-la-espriella-3580233",
       "source": "El Tiempo",
@@ -67,14 +83,6 @@
       "link": "https://www.lasillavacia.com/opinion/tragedia-donaciones-corrupcion-y-primeras-damas/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 22 Aug 2026 12:31:53 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella anunció que Colombia retomará exportaciones de carbón a Israel tras la suspensión en 2024",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncio-que-colombia-retomara-exportaciones-de-carbon-a-israel-tras-la-suspension-en-3580184",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-21T22:02:06-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
