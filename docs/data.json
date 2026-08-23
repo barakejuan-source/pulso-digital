@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T04:41:30.883Z",
+  "updatedAt": "2026-08-23T06:47:14.235Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -46,6 +46,22 @@
     }
   ],
   "articles": [
+    {
+      "title": "Abelardo de la Espriella reporta más de 12.000 kilos de cocaína incautados desde el 7 de agosto",
+      "link": "https://www.infobae.com/colombia/2026/08/23/abelardo-de-la-espriella-reporta-mas-de-12000-kilos-de-cocaina-incautados-desde-el-7-de-agosto/",
+      "source": "Infobae",
+      "pubDate": "Sun, 23 Aug 2026 06:28:01 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Tras cumbre con empresarios, presidente Abelardo De La Espriella anuncia créditos a menor costo para damnificados",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/tras-cumbre-con-empresarios-presidente-anuncia-creditos-a-menor-costo-para-damnificados-3580372",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-23T00:03:13-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Las alertas que deja el 'Libro de la verdad' del presidente Abelardo De La Espriella sobre la administración de Gustavo Petro",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/las-alertas-que-deja-el-libro-de-la-verdad-del-presidente-abelardo-de-la-espriella-sobre-la-administracion-de-gustavo-petro-3580331",
