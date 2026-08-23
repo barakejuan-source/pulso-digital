@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T22:26:41.193Z",
+  "updatedAt": "2026-08-23T01:37:28.806Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 6,
+      "trendsScore": 4,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 26
       },
       "youtubeViews": 57287,
-      "finalScore": 38,
+      "finalScore": 37,
       "momentum": {
-        "value": 0,
+        "value": -2.6,
         "direction": "flat"
       },
-      "probability": 48.7
+      "probability": 48.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,25 +42,41 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.3
+      "probability": 51.9
     }
   ],
   "articles": [
     {
-      "title": "¿Quién es Samuel Bluman, el empresario designado como nuevo director de ProColombia por el presidente Abelardo De La Espriella?",
-      "link": "https://www.eltiempo.com/politica/gobierno/quien-es-samuel-bluman-el-empresario-designado-como-nuevo-director-de-procolombia-por-el-presidente-abelardo-de-la-espriella-3580233",
+      "title": "Lula y Flávio Bolsonaro protagonizan actos simultáneos de campaña en Río de Janeiro, Brasil",
+      "link": "https://www.france24.com/es/video/20260823-lula-y-fl%C3%A1vio-bolsonaro-protagonizan-actos-simult%C3%A1neos-de-campa%C3%B1a-en-r%C3%ADo-de-janeiro-brasil",
+      "source": "France 24",
+      "pubDate": "Sun, 23 Aug 2026 01:03:28 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella concretó con banqueros reducción de tasas de vivienda para damnificados por el terremoto",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-concreto-con-banqueros-reduccion-de-tasas-de-vivienda-para-damnificados-por-el-terremoto-3580341",
       "source": "El Tiempo",
-      "pubDate": "2026-08-22T16:21:41-05:00",
+      "pubDate": "2026-08-22T19:35:48-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella entrega balance del terremoto en Colombia este 22 de agosto de 2026: víctimas, damnificados y municipios afectados",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-tras-el-sismo-en-colombia-victimas-damnificados-y-municipios-afectados-3580263",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-22T16:19:23-05:00",
+      "title": "Abelardo de la Espriella se reunió con los empresarios más importantes del país: viajarán a Chocó para diseñar un plan de recuperación",
+      "link": "https://www.infobae.com/colombia/2026/08/23/abelardo-de-la-espriella-se-reunio-con-los-empresarios-mas-importantes-del-pais-viajaran-a-choco-para-disenar-un-plan-de-recuperacion/",
+      "source": "Infobae",
+      "pubDate": "Sun, 23 Aug 2026 00:03:17 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "“La seguridad de su familia es prioridad”: Rodrigo Lara a María Claudia Tarazona",
+      "link": "https://www.lasillavacia.com/en-vivo/la-seguridad-de-su-familia-es-prioridad-rodrigo-lara-a-maria-claudia-tarazona/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 22 Aug 2026 23:10:41 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Lula y Bolsonaro se dirigirán a sus seguidores en Río de Janeiro en eventos simultáneos",
@@ -83,14 +99,6 @@
       "link": "https://www.lasillavacia.com/opinion/la-siguiente-movida-que-busca-el-presidente-con-las-batallas-ideologicas-que-abre/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 22 Aug 2026 15:18:44 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella reportó operativos contra el Clan del Golfo y ‘La Terraza’, rescate de secuestrados e incautación de marihuana",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-reporto-operativos-contra-el-clan-del-golfo-y-la-terraza-rescate-de-secuestrados-e-incautacion-de-marihuana-3580228",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-22T08:08:25-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
