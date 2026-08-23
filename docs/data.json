@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T01:37:28.806Z",
+  "updatedAt": "2026-08-23T03:06:50.106Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 57287,
       "finalScore": 37,
       "momentum": {
-        "value": -2.6,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.1
@@ -47,28 +47,28 @@
   ],
   "articles": [
     {
+      "title": "Dos generales en retiro llegarían a altos cargos del gobierno del presidente Abelardo De la Espriella / En Secreto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/dos-generales-en-retiro-llegarian-a-altos-cargos-del-gobierno-del-presidente-abelardo-de-la-espriella-en-secreto-3580295",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-22T22:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella concretó con banqueros reducción de tasas de vivienda para damnificados por el terremoto",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-concreto-con-banqueros-reduccion-de-tasas-de-vivienda-para-damnificados-por-el-terremoto-3580341",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-22T21:23:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Lula y Flávio Bolsonaro protagonizan actos simultáneos de campaña en Río de Janeiro, Brasil",
       "link": "https://www.france24.com/es/video/20260823-lula-y-fl%C3%A1vio-bolsonaro-protagonizan-actos-simult%C3%A1neos-de-campa%C3%B1a-en-r%C3%ADo-de-janeiro-brasil",
       "source": "France 24",
       "pubDate": "Sun, 23 Aug 2026 01:03:28 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella concretó con banqueros reducción de tasas de vivienda para damnificados por el terremoto",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-concreto-con-banqueros-reduccion-de-tasas-de-vivienda-para-damnificados-por-el-terremoto-3580341",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-22T19:35:48-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella se reunió con los empresarios más importantes del país: viajarán a Chocó para diseñar un plan de recuperación",
-      "link": "https://www.infobae.com/colombia/2026/08/23/abelardo-de-la-espriella-se-reunio-con-los-empresarios-mas-importantes-del-pais-viajaran-a-choco-para-disenar-un-plan-de-recuperacion/",
-      "source": "Infobae",
-      "pubDate": "Sun, 23 Aug 2026 00:03:17 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "“La seguridad de su familia es prioridad”: Rodrigo Lara a María Claudia Tarazona",
