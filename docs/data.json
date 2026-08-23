@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T03:06:50.106Z",
+  "updatedAt": "2026-08-23T04:41:30.883Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 5,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Las alertas que deja el 'Libro de la verdad' del presidente Abelardo De La Espriella sobre la administración de Gustavo Petro",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/las-alertas-que-deja-el-libro-de-la-verdad-del-presidente-abelardo-de-la-espriella-sobre-la-administracion-de-gustavo-petro-3580331",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-22T22:40:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Dos generales en retiro llegarían a altos cargos del gobierno del presidente Abelardo De la Espriella / En Secreto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/dos-generales-en-retiro-llegarian-a-altos-cargos-del-gobierno-del-presidente-abelardo-de-la-espriella-en-secreto-3580295",
