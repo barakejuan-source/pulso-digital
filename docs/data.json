@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T10:28:17.769Z",
+  "updatedAt": "2026-08-23T12:47:02.513Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 5,
+      "trendsScore": 4,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Estos son los 167 presos que el Inpec trasladó antes de la posesión de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/08/23/estos-son-los-167-presos-que-el-inpec-traslado-antes-de-la-posesion-de-abelardo-de-la-espriella/",
+      "title": "Así recibe Abelardo de la Espriella el país en materia de desempleo: estos son los retos a los que se enfrenta ",
+      "link": "https://www.infobae.com/colombia/2026/08/23/asi-recibe-abelardo-de-la-espriella-el-pais-en-materia-de-desempleo-estos-son-los-retos-a-los-que-se-enfrenta/",
       "source": "Infobae",
-      "pubDate": "Sun, 23 Aug 2026 09:03:13 +0000",
+      "pubDate": "Sun, 23 Aug 2026 11:49:21 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
