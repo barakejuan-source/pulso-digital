@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T14:27:48.183Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-23T16:30:55.601Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -46,6 +46,22 @@
     }
   ],
   "articles": [
+    {
+      "title": "Presidente Abelardo de la Espriella informó medidas del Gobierno ante incendios en Tolima: “No están solos”",
+      "link": "https://www.infobae.com/colombia/2026/08/23/presidente-abelardo-de-la-espriella-informo-medidas-del-gobierno-ante-incendios-en-tolima-no-estan-solos/",
+      "source": "Infobae",
+      "pubDate": "Sun, 23 Aug 2026 16:02:30 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De la Espriella ordena revisar cámaras fotomultas en todo el país para evitar abusos contra conductores",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-ordena-revisar-camaras-fotomultas-en-todo-el-pais-para-evitar-abusos-contra-conductores-3580389",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-23T10:46:40-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Tras cumbre con empresarios, presidente Abelardo De La Espriella anuncia créditos a menor costo para damnificados",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/tras-cumbre-con-empresarios-presidente-anuncia-creditos-a-menor-costo-para-damnificados-3580372",
@@ -101,14 +117,6 @@
       "pubDate": "Sat, 22 Aug 2026 18:00:36 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Tragedia, donaciones, corrupción y primeras damas",
-      "link": "https://www.lasillavacia.com/opinion/tragedia-donaciones-corrupcion-y-primeras-damas/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 22 Aug 2026 16:54:04 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
