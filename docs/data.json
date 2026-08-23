@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T18:34:53.258Z",
+  "updatedAt": "2026-08-23T20:28:39.997Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 5,
+      "trendsScore": 4,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Ministerio de Transporte confirmó que revisará el funcionamiento de las fotomultas en Colombia tras orden de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/08/23/ministerio-de-transporte-confirmo-que-revisara-el-funcionamiento-de-las-fotomultas-en-colombia-tras-orden-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Sun, 23 Aug 2026 18:25:40 +0000",
+      "title": "Tras cumbre con empresarios, presidente Abelardo De La Espriella anuncia créditos a menor costo para damnificados",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/tras-cumbre-con-empresarios-presidente-anuncia-creditos-a-menor-costo-para-damnificados-3580372",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-23T14:39:40-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -63,26 +63,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella confirmó control del incendio en Gualanday, Tolima, tras riesgo sobre el gasoducto: “Estricta vigilancia”",
-      "link": "https://www.infobae.com/colombia/2026/08/23/abelardo-de-la-espriella-confirmo-control-del-incendio-en-gualanday-tolima-tras-riesgo-sobre-el-gasoducto-estricta-vigilancia/",
-      "source": "Infobae",
-      "pubDate": "Sun, 23 Aug 2026 17:31:55 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Presidente Abelardo De la Espriella ordena revisar cámaras fotomultas en todo el país para evitar abusos contra conductores",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-ordena-revisar-camaras-fotomultas-en-todo-el-pais-para-evitar-abusos-contra-conductores-3580389",
       "source": "El Tiempo",
       "pubDate": "2026-08-23T10:46:40-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Tras cumbre con empresarios, presidente Abelardo De La Espriella anuncia créditos a menor costo para damnificados",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/tras-cumbre-con-empresarios-presidente-anuncia-creditos-a-menor-costo-para-damnificados-3580372",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-23T00:03:13-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -103,26 +87,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella concretó con banqueros reducción de tasas de vivienda para damnificados por el terremoto",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-concreto-con-banqueros-reduccion-de-tasas-de-vivienda-para-damnificados-por-el-terremoto-3580341",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-22T21:23:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Lula y Flávio Bolsonaro protagonizan actos simultáneos de campaña en Río de Janeiro, Brasil",
       "link": "https://www.france24.com/es/video/20260823-lula-y-fl%C3%A1vio-bolsonaro-protagonizan-actos-simult%C3%A1neos-de-campa%C3%B1a-en-r%C3%ADo-de-janeiro-brasil",
       "source": "France 24",
       "pubDate": "Sun, 23 Aug 2026 01:03:28 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "“La seguridad de su familia es prioridad”: Rodrigo Lara a María Claudia Tarazona",
-      "link": "https://www.lasillavacia.com/en-vivo/la-seguridad-de-su-familia-es-prioridad-rodrigo-lara-a-maria-claudia-tarazona/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 22 Aug 2026 23:10:41 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
