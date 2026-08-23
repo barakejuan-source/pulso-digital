@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T16:30:55.601Z",
+  "updatedAt": "2026-08-23T18:34:53.258Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 5,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo de la Espriella informó medidas del Gobierno ante incendios en Tolima: “No están solos”",
-      "link": "https://www.infobae.com/colombia/2026/08/23/presidente-abelardo-de-la-espriella-informo-medidas-del-gobierno-ante-incendios-en-tolima-no-estan-solos/",
+      "title": "Ministerio de Transporte confirmó que revisará el funcionamiento de las fotomultas en Colombia tras orden de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/08/23/ministerio-de-transporte-confirmo-que-revisara-el-funcionamiento-de-las-fotomultas-en-colombia-tras-orden-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Sun, 23 Aug 2026 16:02:30 +0000",
+      "pubDate": "Sun, 23 Aug 2026 18:25:40 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "MinTransporte anuncia revisión nacional de las fotomultas y sus criterios de operación tras las declaraciones del presidente Abelardo de la Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/mintransporte-anuncia-revision-nacional-de-las-fotomultas-y-sus-criterios-de-operacion-tras-las-declaraciones-del-presidente-abelardo-de-la-espriella-3580411",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-23T13:04:22-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella confirmó control del incendio en Gualanday, Tolima, tras riesgo sobre el gasoducto: “Estricta vigilancia”",
+      "link": "https://www.infobae.com/colombia/2026/08/23/abelardo-de-la-espriella-confirmo-control-del-incendio-en-gualanday-tolima-tras-riesgo-sobre-el-gasoducto-estricta-vigilancia/",
+      "source": "Infobae",
+      "pubDate": "Sun, 23 Aug 2026 17:31:55 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -107,14 +123,6 @@
       "link": "https://www.lasillavacia.com/en-vivo/la-seguridad-de-su-familia-es-prioridad-rodrigo-lara-a-maria-claudia-tarazona/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 22 Aug 2026 23:10:41 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Lula y Bolsonaro se dirigirán a sus seguidores en Río de Janeiro en eventos simultáneos",
-      "link": "https://www.france24.com/es/video/20260822-lula-y-bolsonaro-se-dirigir%C3%A1n-a-sus-seguidores-en-r%C3%ADo-de-janeiro-en-eventos-simult%C3%A1neos",
-      "source": "France 24",
-      "pubDate": "Sat, 22 Aug 2026 18:00:36 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
