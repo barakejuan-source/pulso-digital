@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T12:47:02.513Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-23T14:27:48.183Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -46,14 +46,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Así recibe Abelardo de la Espriella el país en materia de desempleo: estos son los retos a los que se enfrenta ",
-      "link": "https://www.infobae.com/colombia/2026/08/23/asi-recibe-abelardo-de-la-espriella-el-pais-en-materia-de-desempleo-estos-son-los-retos-a-los-que-se-enfrenta/",
-      "source": "Infobae",
-      "pubDate": "Sun, 23 Aug 2026 11:49:21 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
     {
       "title": "Tras cumbre con empresarios, presidente Abelardo De La Espriella anuncia créditos a menor costo para damnificados",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/tras-cumbre-con-empresarios-presidente-anuncia-creditos-a-menor-costo-para-damnificados-3580372",
@@ -115,14 +107,6 @@
       "link": "https://www.lasillavacia.com/opinion/tragedia-donaciones-corrupcion-y-primeras-damas/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 22 Aug 2026 16:54:04 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La Siguiente Movida: ¿Qué busca el presidente con las batallas ideológicas que abre?",
-      "link": "https://www.lasillavacia.com/opinion/la-siguiente-movida-que-busca-el-presidente-con-las-batallas-ideologicas-que-abre/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 22 Aug 2026 15:18:44 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
