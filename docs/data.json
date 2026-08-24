@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T04:50:58.901Z",
+  "updatedAt": "2026-08-24T07:05:28.379Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De la Espriella ordena revisar cámaras fotomultas en todo el país para evitar abusos contra conductores",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-ordena-revisar-camaras-fotomultas-en-todo-el-pais-para-evitar-abusos-contra-conductores-3580389",
+      "title": "Human Rights Watch pide a Abelardo de la Espriella fortalecer medidas contra el reclutamiento de menores en Colombia",
+      "link": "https://www.infobae.com/colombia/2026/08/24/human-rights-watch-pide-a-abelardo-de-la-espriella-fortalecer-medidas-contra-el-reclutamiento-de-menores-en-colombia/",
+      "source": "Infobae",
+      "pubDate": "Mon, 24 Aug 2026 06:22:03 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Vicepresidente José Manuel Restrepo anuncia más denuncias de presunta corrupción en administración de Gustavo Petro: 'Solamente la punta del iceberg'",
+      "link": "https://www.eltiempo.com/politica/gobierno/vicepresidente-jose-manuel-restrepo-anuncia-mas-denuncias-de-presunta-corrupcion-en-administracion-de-gustavo-petro-solamente-la-punta-del-iceberg-3580498",
       "source": "El Tiempo",
-      "pubDate": "2026-08-23T19:05:40-05:00",
+      "pubDate": "2026-08-24T00:10:45-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
