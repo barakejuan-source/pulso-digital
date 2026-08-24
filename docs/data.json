@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T10:41:13.252Z",
+  "updatedAt": "2026-08-24T12:57:15.706Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,22 @@
   ],
   "articles": [
     {
+      "title": "Iván Cepeda acusó a Viviane Morales de perseguir al magisterio por señalamientos de ideología de género en los colegios: “Una cruzada fundamentalista”",
+      "link": "https://www.infobae.com/colombia/2026/08/24/ivan-cepeda-acuso-a-viviane-morales-de-perseguir-al-magisterio-por-senalamientos-de-ideologia-de-genero-en-los-colegios-una-cruzada-fundamentalista/",
+      "source": "Infobae",
+      "pubDate": "Mon, 24 Aug 2026 12:19:16 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella recibió una economía dependiente del gasto público",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/abelardo-de-la-espriella-recibio-una-economia-dependiente-del-gasto-publico/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 24 Aug 2026 12:03:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Vicepresidente José Manuel Restrepo anuncia más denuncias de presunta corrupción en administración de Gustavo Petro: 'Solamente la punta del iceberg'",
       "link": "https://www.eltiempo.com/politica/gobierno/vicepresidente-jose-manuel-restrepo-anuncia-mas-denuncias-de-presunta-corrupcion-en-administracion-de-gustavo-petro-solamente-la-punta-del-iceberg-3580498",
       "source": "El Tiempo",
@@ -59,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/ministra-de-transporte-elsa-noguera-se-pronuncio-sobre-la-revision-de-camaras-de-fotomultas-donde-encontremos-abusos-actuaremos-3580443",
       "source": "El Tiempo",
       "pubDate": "2026-08-23T17:35:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "MinTransporte anuncia revisión nacional de las fotomultas y sus criterios de operación tras las declaraciones del presidente Abelardo de la Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/mintransporte-anuncia-revision-nacional-de-las-fotomultas-y-sus-criterios-de-operacion-tras-las-declaraciones-del-presidente-abelardo-de-la-espriella-3580411",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-23T17:09:37-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
