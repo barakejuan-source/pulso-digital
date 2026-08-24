@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T16:42:31.000Z",
+  "updatedAt": "2026-08-24T18:45:33.734Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,20 +47,28 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De la Espriella anuncia subsidio de arriendo de $875.452 por tres meses para damnificados del terremoto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/hoy-inicia-la-reconstruccion-de-colombia-de-la-espriella-anuncia-apoyo-economico-de-875-452-durante-tres-meses-para-afectados-por-terremoto-3580574",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-24T10:50:50-05:00",
+      "title": "Abelardo de la Espriella reveló desde el Chocó nuevo balance oficial del terremoto en Colombia: 329 muertos y 234 desaparecidos",
+      "link": "https://www.infobae.com/colombia/2026/08/24/abelardo-de-la-espriella-revelo-desde-el-choco-nuevo-balance-oficial-del-terremoto-en-colombia-329-muertos-y-234-desaparecidos/",
+      "source": "Infobae",
+      "pubDate": "Mon, 24 Aug 2026 18:09:45 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo nominará a Joaquín Gutiérrez a presidencia de Ecopetrol",
-      "link": "https://www.lasillavacia.com/en-vivo/abelardo-nominara-a-joaquin-gutierrez-a-presidencia-de-ecopetrol/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 24 Aug 2026 15:49:19 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Subsidio de arrendamiento para los damnificados por el terremoto: Abelardo de la Espriella reveló de cuánto será el auxilio que se comenzará a entregar desde el 26 de agosto",
+      "link": "https://www.infobae.com/colombia/2026/08/24/subsidio-de-arrendamiento-para-los-damnificados-por-el-terremoto-abelardo-de-la-espriella-revelo-de-cuanto-sera-el-auxilio-que-se-comenzara-a-entregar-desde-el-26-de-agosto/",
+      "source": "Infobae",
+      "pubDate": "Mon, 24 Aug 2026 17:57:36 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De la Espriella anuncia subsidio de arriendo de $875.452 por tres meses para damnificados del terremoto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/hoy-inicia-la-reconstruccion-de-colombia-de-la-espriella-anuncia-apoyo-economico-de-875-452-durante-tres-meses-para-afectados-por-terremoto-3580574",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-24T12:43:53-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Vicepresidente José Manuel Restrepo anuncia más denuncias de presunta corrupción en administración de Gustavo Petro: 'Solamente la punta del iceberg'",
