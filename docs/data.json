@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-24T14:46:52.365Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-24T16:42:31.000Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,42 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Nueva demanda contra la elección del presidente Abelardo de la Espriella: Consejo de Estado tomó decisión sobre la suspensión provisional",
-      "link": "https://www.infobae.com/colombia/2026/08/24/nueva-demanda-contra-la-eleccion-del-presidente-abelardo-de-la-espriella-consejo-de-estado-tomo-decision-sobre-la-suspension-provisional/",
-      "source": "Infobae",
-      "pubDate": "Mon, 24 Aug 2026 14:28:29 +0000",
+      "title": "Presidente Abelardo De la Espriella anuncia subsidio de arriendo de $875.452 por tres meses para damnificados del terremoto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/hoy-inicia-la-reconstruccion-de-colombia-de-la-espriella-anuncia-apoyo-economico-de-875-452-durante-tres-meses-para-afectados-por-terremoto-3580574",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-24T10:50:50-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gobierno de Abelardo de la Espriella posesionaría esta semana a Sandra Bessudo como directora de Parques Nacionales: esta es la oficialización de su nombramiento",
-      "link": "https://www.infobae.com/colombia/2026/08/24/gobierno-de-abelardo-de-la-espriella-posesionaria-esta-semana-a-sandra-bessudo-como-directora-de-parques-nacionales-esta-es-la-oficializacion-de-su-nombramiento/",
-      "source": "Infobae",
-      "pubDate": "Mon, 24 Aug 2026 14:28:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella recibió una economía dependiente del gasto público",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/abelardo-de-la-espriella-recibio-una-economia-dependiente-del-gasto-publico/",
+      "title": "Abelardo nominará a Joaquín Gutiérrez a presidencia de Ecopetrol",
+      "link": "https://www.lasillavacia.com/en-vivo/abelardo-nominara-a-joaquin-gutierrez-a-presidencia-de-ecopetrol/",
       "source": "La Silla Vacía",
-      "pubDate": "Mon, 24 Aug 2026 12:03:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Mon, 24 Aug 2026 15:49:19 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Vicepresidente José Manuel Restrepo anuncia más denuncias de presunta corrupción en administración de Gustavo Petro: 'Solamente la punta del iceberg'",
       "link": "https://www.eltiempo.com/politica/gobierno/vicepresidente-jose-manuel-restrepo-anuncia-mas-denuncias-de-presunta-corrupcion-en-administracion-de-gustavo-petro-solamente-la-punta-del-iceberg-3580498",
       "source": "El Tiempo",
       "pubDate": "2026-08-24T00:10:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ministra de Transporte, Elsa Noguera, se pronunció sobre la revisión de cámaras de fotomultas: 'Donde encontremos abusos, actuaremos'",
-      "link": "https://www.eltiempo.com/politica/gobierno/ministra-de-transporte-elsa-noguera-se-pronuncio-sobre-la-revision-de-camaras-de-fotomultas-donde-encontremos-abusos-actuaremos-3580443",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-23T17:35:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
