@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T03:07:30.255Z",
+  "updatedAt": "2026-08-24T04:50:58.901Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,30 +47,6 @@
   ],
   "articles": [
     {
-      "title": "Juan Daniel Oviedo cuestiona debate sobre “ideología de género”: pide educación con evidencia",
-      "link": "https://www.infobae.com/colombia/2026/08/24/juan-daniel-oviedo-cuestiona-debate-sobre-ideologia-de-genero-pide-educacion-con-evidencia/",
-      "source": "Infobae",
-      "pubDate": "Mon, 24 Aug 2026 02:41:18 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "El Gobierno activó en Barranquilla un plan de choque con refuerzo policial y Fuerzas Especiales tras un consejo de seguridad",
-      "link": "https://www.infobae.com/colombia/2026/08/24/el-gobierno-activo-en-barranquilla-un-plan-de-choque-con-refuerzo-policial-y-fuerzas-especiales-tras-un-consejo-de-seguridad/",
-      "source": "Infobae",
-      "pubDate": "Mon, 24 Aug 2026 02:13:19 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella ordenó una ofensiva militar contra el hurto de combustibles y crudo: advirtió vínculos con el narcotráfico",
-      "link": "https://www.infobae.com/colombia/2026/08/24/abelardo-de-la-espriella-ordeno-una-ofensiva-militar-contra-el-hurto-de-combustibles-y-crudo-advirtio-vinculos-con-el-narcotrafico/",
-      "source": "Infobae",
-      "pubDate": "Mon, 24 Aug 2026 01:53:10 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Presidente Abelardo De la Espriella ordena revisar cámaras fotomultas en todo el país para evitar abusos contra conductores",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-ordena-revisar-camaras-fotomultas-en-todo-el-pais-para-evitar-abusos-contra-conductores-3580389",
       "source": "El Tiempo",
@@ -93,14 +69,6 @@
       "pubDate": "2026-08-23T17:09:37-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Lula y Flávio Bolsonaro protagonizan actos simultáneos de campaña en Río de Janeiro, Brasil",
-      "link": "https://www.france24.com/es/video/20260823-lula-y-fl%C3%A1vio-bolsonaro-protagonizan-actos-simult%C3%A1neos-de-campa%C3%B1a-en-r%C3%ADo-de-janeiro-brasil",
-      "source": "France 24",
-      "pubDate": "Sun, 23 Aug 2026 01:03:28 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
