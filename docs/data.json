@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T01:29:12.671Z",
+  "updatedAt": "2026-08-24T03:07:30.255Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Así será como en realidad se sentirá el bajonazo en la tasa de vivienda para los afectados por el terremoto del 10 de agosto",
-      "link": "https://www.infobae.com/colombia/2026/08/24/asi-sera-como-en-realidad-se-sentira-el-bajonazo-en-la-tasa-de-vivienda-para-los-afectados-por-el-terremoto-del-10-de-agosto/",
+      "title": "Juan Daniel Oviedo cuestiona debate sobre “ideología de género”: pide educación con evidencia",
+      "link": "https://www.infobae.com/colombia/2026/08/24/juan-daniel-oviedo-cuestiona-debate-sobre-ideologia-de-genero-pide-educacion-con-evidencia/",
       "source": "Infobae",
-      "pubDate": "Mon, 24 Aug 2026 00:25:45 +0000",
+      "pubDate": "Mon, 24 Aug 2026 02:41:18 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "El Gobierno activó en Barranquilla un plan de choque con refuerzo policial y Fuerzas Especiales tras un consejo de seguridad",
+      "link": "https://www.infobae.com/colombia/2026/08/24/el-gobierno-activo-en-barranquilla-un-plan-de-choque-con-refuerzo-policial-y-fuerzas-especiales-tras-un-consejo-de-seguridad/",
+      "source": "Infobae",
+      "pubDate": "Mon, 24 Aug 2026 02:13:19 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella ordenó una ofensiva militar contra el hurto de combustibles y crudo: advirtió vínculos con el narcotráfico",
+      "link": "https://www.infobae.com/colombia/2026/08/24/abelardo-de-la-espriella-ordeno-una-ofensiva-militar-contra-el-hurto-de-combustibles-y-crudo-advirtio-vinculos-con-el-narcotrafico/",
+      "source": "Infobae",
+      "pubDate": "Mon, 24 Aug 2026 01:53:10 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,22 +91,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/mintransporte-anuncia-revision-nacional-de-las-fotomultas-y-sus-criterios-de-operacion-tras-las-declaraciones-del-presidente-abelardo-de-la-espriella-3580411",
       "source": "El Tiempo",
       "pubDate": "2026-08-23T17:09:37-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Tras cumbre con empresarios, presidente Abelardo De La Espriella anuncia créditos a menor costo para damnificados",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/tras-cumbre-con-empresarios-presidente-anuncia-creditos-a-menor-costo-para-damnificados-3580372",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-23T14:39:40-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Las alertas que deja el 'Libro de la verdad' del presidente Abelardo De La Espriella sobre la administración de Gustavo Petro",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/las-alertas-que-deja-el-libro-de-la-verdad-del-presidente-abelardo-de-la-espriella-sobre-la-administracion-de-gustavo-petro-3580331",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-22T22:40:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
