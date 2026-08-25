@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-25T03:02:59.976Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-25T04:43:17.358Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 3,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -47,26 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Gustavo Petro ‘sacó pecho’ por su gestión económica, pese a las alertas del actual Gobierno: “Fitch Ratings nos da la razón”",
-      "link": "https://www.infobae.com/colombia/2026/08/25/gustavo-petro-saco-pecho-por-su-gestion-economica-pese-a-las-alertas-del-actual-gobierno-fitch-ratings-nos-da-la-razon/",
+      "title": "Murió Fabio Torres, ‘El Rector’ de la publicidad vallenata: Abelardo de la Espriella lamentó su fallecimiento",
+      "link": "https://www.infobae.com/colombia/2026/08/25/murio-fabio-torres-el-rector-de-la-publicidad-vallenata-abelardo-de-la-espriella-lamento-su-fallecimiento/",
       "source": "Infobae",
-      "pubDate": "Tue, 25 Aug 2026 02:36:26 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella presentó su primera declaración de renta como presidente: estos fueron los movimientos que reportó al asumir el cargo ",
-      "link": "https://www.infobae.com/colombia/2026/08/25/abelardo-de-la-espriella-presento-su-primera-declaracion-de-renta-como-presidente-estos-fueron-los-movimientos-que-reporto-al-asumir-el-cargo/",
-      "source": "Infobae",
-      "pubDate": "Tue, 25 Aug 2026 02:27:43 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anuncia subsidio de arriendo de $ 875.452 por tres meses para damnificados del terremoto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/hoy-inicia-la-reconstruccion-de-colombia-de-la-espriella-anuncia-apoyo-economico-de-875-452-durante-tres-meses-para-afectados-por-terremoto-3580574",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-24T20:24:05-05:00",
+      "pubDate": "Tue, 25 Aug 2026 03:37:17 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
