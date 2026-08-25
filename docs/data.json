@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-25T16:41:33.815Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-25T18:44:00.438Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 3,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -47,18 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella advirtió a los funcionarios de su Gobierno: aseguró que quien 'resulte envuelto en un escándalo, para afuera'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-advirtio-a-los-funcionarios-de-su-gobierno-aseguro-que-quien-resulte-envuelto-en-un-escandalo-para-afuera-3580895",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-25T11:28:05-05:00",
+      "title": "Gustavo Petro arremetió contra propuesta del gobierno de Abelardo de la Espriella de autorizar a privados para administrar colegios públicos: “Un sistema de embrutecimiento”",
+      "link": "https://www.infobae.com/colombia/2026/08/25/petro-arremetio-contra-propuesta-del-gobierno-de-abelardo-de-la-espriella-de-autorizar-a-privados-aministrar-colegios-publicos-un-sistema-de-embrutecimiento/",
+      "source": "Infobae",
+      "pubDate": "Tue, 25 Aug 2026 18:38:08 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella posesionó al nuevo contralor general de la República: así fue el acto celebrado en La Dorada, Caldas",
-      "link": "https://www.infobae.com/colombia/2026/08/25/abelardo-de-la-espriella-posesiono-al-nuevo-contralor-general-de-la-republica-asi-fue-el-acto-celebrado-en-la-dorada-caldas/",
+      "title": "Consejo Nacional Electoral reveló el balance final de la gestión 2022-2026 con novedoso dato sobre los votantes en Colombia",
+      "link": "https://www.infobae.com/colombia/2026/08/25/consejo-nacional-electoral-revelo-el-balance-final-de-la-gestion-2022-2026-con-novedoso-dato-sobre-los-votantes-en-colombia/",
       "source": "Infobae",
-      "pubDate": "Tue, 25 Aug 2026 16:22:38 +0000",
+      "pubDate": "Tue, 25 Aug 2026 18:19:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Carlos Caicedo, el excandidato presidencial señalado de abusar de una menor de edad, salió del país: su abogada aseguró que no se fugó",
+      "link": "https://www.infobae.com/colombia/2026/08/25/carlos-caicedo-el-excandidato-presidencial-senalado-de-abusar-de-una-menor-de-edad-salio-del-pais-su-abogada-aseguro-que-no-se-fugo/",
+      "source": "Infobae",
+      "pubDate": "Tue, 25 Aug 2026 18:15:52 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Terremoto: 331 personas fallecidas y 240 siguen desaparecidas",
+      "link": "https://www.lasillavacia.com/en-vivo/terremoto-331-personas-fallecidas-y-240-siguen-desaparecidas/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 25 Aug 2026 17:25:39 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella advirtió a los funcionarios de su Gobierno: aseguró que quien 'resulte envuelto en un escándalo, para afuera'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-advirtio-a-los-funcionarios-de-su-gobierno-aseguro-que-quien-resulte-envuelto-en-un-escandalo-para-afuera-3580895",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-25T12:16:38-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/ministro-rodrigo-lara-preciso-alcance-de-operativos-contra-migrantes-y-anuncio-que-se-presentara-al-congreso-un-nuevo-estatuto-antiterrorista-3580809",
       "source": "El Tiempo",
       "pubDate": "2026-08-25T08:17:39-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia: De la Espriella ordena deportaciones de migrantes irregulares y vinculados con delitos",
-      "link": "https://www.france24.com/es/video/20260825-colombia-de-la-espriella-ordena-deportaciones-de-migrantes-irregulares-y-vinculados-con-delitos",
-      "source": "France 24",
-      "pubDate": "Tue, 25 Aug 2026 00:46:50 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
