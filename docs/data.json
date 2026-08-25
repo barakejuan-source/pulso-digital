@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-25T14:50:54.670Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-25T16:41:33.815Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,26 +47,18 @@
   ],
   "articles": [
     {
-      "title": "El gobierno de Abelardo de la Espriella se metió en la polémica por el manejo de la caja de compensación Comfenalco Antioquia: la Ministra del Trabajo exigió investigación por manejo de $1 billón",
-      "link": "https://www.infobae.com/colombia/2026/08/25/el-gobierno-de-abelardo-de-la-espriella-se-metio-en-la-polemica-por-el-manejo-de-la-caja-de-compensacion-comfenalco-antioquia-la-ministra-del-trabajo-exigio-investigacion-por-manejo-de-1-billon/",
-      "source": "Infobae",
-      "pubDate": "Tue, 25 Aug 2026 14:43:11 +0000",
+      "title": "Presidente Abelardo De La Espriella advirtió a los funcionarios de su Gobierno: aseguró que quien 'resulte envuelto en un escándalo, para afuera'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-advirtio-a-los-funcionarios-de-su-gobierno-aseguro-que-quien-resulte-envuelto-en-un-escandalo-para-afuera-3580895",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-25T11:28:05-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gustavo Petro se refirió a la reunión que sostuvo el Pacto Histórico y lanzó dura crítica a Abelardo de la Espriella: “Tecnofascismo”",
-      "link": "https://www.infobae.com/colombia/2026/08/25/gustavo-petro-se-refirio-a-la-reunion-que-sostuvo-el-pacto-historico-y-lanzo-dura-critica-a-abelardo-de-la-espriella-tecnofascismo/",
+      "title": "Abelardo de la Espriella posesionó al nuevo contralor general de la República: así fue el acto celebrado en La Dorada, Caldas",
+      "link": "https://www.infobae.com/colombia/2026/08/25/abelardo-de-la-espriella-posesiono-al-nuevo-contralor-general-de-la-republica-asi-fue-el-acto-celebrado-en-la-dorada-caldas/",
       "source": "Infobae",
-      "pubDate": "Tue, 25 Aug 2026 14:39:43 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella presentó su primera declaración de renta como presidente: estos fueron los movimientos que reportó al asumir el cargo ",
-      "link": "https://www.infobae.com/colombia/2026/08/25/abelardo-de-la-espriella-presento-su-primera-declaracion-de-renta-como-presidente-estos-fueron-los-movimientos-que-reporto-al-asumir-el-cargo/",
-      "source": "Infobae",
-      "pubDate": "Tue, 25 Aug 2026 14:25:47 +0000",
+      "pubDate": "Tue, 25 Aug 2026 16:22:38 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -79,26 +71,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Todos los hombres del presidente",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/todos-los-hombres-del-presidente/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 25 Aug 2026 11:59:56 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Colombia: De la Espriella ordena deportaciones de migrantes irregulares y vinculados con delitos",
       "link": "https://www.france24.com/es/video/20260825-colombia-de-la-espriella-ordena-deportaciones-de-migrantes-irregulares-y-vinculados-con-delitos",
       "source": "France 24",
       "pubDate": "Tue, 25 Aug 2026 00:46:50 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "De la Espriella estrena su política migratoria en Colombia con un anuncio de operativos y deportaciones",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260824-de-la-espriella-estrena-su-pol%C3%ADtica-migratoria-en-colombia-con-un-anuncio-de-operativos-y-deportaciones",
-      "source": "France 24",
-      "pubDate": "Mon, 24 Aug 2026 21:29:47 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
