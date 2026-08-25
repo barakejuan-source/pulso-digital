@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T10:37:19.628Z",
+  "updatedAt": "2026-08-25T12:53:47.291Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Todos los hombres del presidente",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/todos-los-hombres-del-presidente/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 25 Aug 2026 11:59:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Colombia: De la Espriella ordena deportaciones de migrantes irregulares y vinculados con delitos",
       "link": "https://www.france24.com/es/video/20260825-colombia-de-la-espriella-ordena-deportaciones-de-migrantes-irregulares-y-vinculados-con-delitos",
