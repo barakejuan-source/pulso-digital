@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T20:33:39.776Z",
+  "updatedAt": "2026-08-25T22:32:02.771Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,28 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 3,
-      "youtubeScore": 100,
-      "sentimentScore": 18,
-      "sentimentPct": {
-        "positive": 18,
-        "negative": 56,
-        "neutral": 26
-      },
-      "youtubeViews": 57287,
-      "finalScore": 37,
-      "momentum": {
-        "value": 0,
-        "direction": "flat"
-      },
-      "probability": 48.1
-    },
-    {
-      "id": "abelardo_espriella",
-      "name": "Abelardo de la Espriella",
-      "party": "Defensores de la Patria",
-      "color": "#1D3557",
-      "trendsScore": 100,
+      "trendsScore": 4,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -37,28 +16,49 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 40,
+      "finalScore": 2,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -94.6,
+        "direction": "down"
       },
-      "probability": 51.9
+      "probability": 2.6
+    },
+    {
+      "id": "abelardo_espriella",
+      "name": "Abelardo de la Espriella",
+      "party": "Defensores de la Patria",
+      "color": "#1D3557",
+      "trendsScore": 100,
+      "youtubeScore": 100,
+      "sentimentScore": 18,
+      "sentimentPct": {
+        "positive": 18,
+        "negative": 56,
+        "neutral": 26
+      },
+      "youtubeViews": 107161,
+      "finalScore": 75,
+      "momentum": {
+        "value": 87.5,
+        "direction": "up"
+      },
+      "probability": 97.4
     }
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella corrigió su declaración de renta y aclaró sus conflictos de intereses: así están sus cuentas en Colombia, EE. UU. e Italia",
-      "link": "https://www.infobae.com/colombia/2026/08/25/abelardo-de-la-espriella-corrigio-su-declaracion-de-renta-y-aclaro-sus-conflictos-de-intereses-asi-estan-sus-cuentas-en-colombia-ee-uu-e-italia/",
-      "source": "Infobae",
-      "pubDate": "Tue, 25 Aug 2026 20:27:44 +0000",
+      "title": "Los representantes Daniel Briceño y Carol Borda radicaron proyecto para eliminar los 'impuestos saludables'",
+      "link": "https://www.eltiempo.com/politica/congreso/los-representantes-daniel-briceno-y-carol-borda-radicaron-proyecto-para-eliminar-los-impuestos-saludables-3581007",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-25T17:18:46-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Terremoto: 331 personas fallecidas y 240 siguen desaparecidas",
-      "link": "https://www.lasillavacia.com/en-vivo/terremoto-331-personas-fallecidas-y-240-siguen-desaparecidas/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 25 Aug 2026 17:25:39 +0000",
+      "title": "Presidente Abelardo De La Espriella declara insubsistente a Wilmar Mejía como director de la UIAF: ya había presentado su renuncia al cargo",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-declara-insubsistente-a-wilmar-mejia-como-director-de-la-uiaf-ya-habia-presentado-su-renuncia-al-cargo-3580984",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-25T16:02:54-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
