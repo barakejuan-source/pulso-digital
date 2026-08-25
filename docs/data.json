@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:31:01.834Z",
+  "updatedAt": "2026-08-25T01:25:35.859Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 3,
+      "trendsScore": 4,
       "youtubeScore": 100,
       "sentimentScore": 18,
       "sentimentPct": {
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella denuncia que los incendios en Tolima son “gravísimos”: “Están siendo provocados deliberadamente”",
-      "link": "https://www.infobae.com/colombia/2026/08/24/abelardo-de-la-espriella-denuncia-que-los-incendios-en-tolima-son-gravisimos-estan-siendo-provocados-deliberadamente/",
+      "title": "Colombia: De la Espriella ordena deportaciones de migrantes irregulares y vinculados con delitos",
+      "link": "https://www.france24.com/es/video/20260825-colombia-de-la-espriella-ordena-deportaciones-de-migrantes-irregulares-y-vinculados-con-delitos",
+      "source": "France 24",
+      "pubDate": "Tue, 25 Aug 2026 00:46:50 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "“Todo les parece malo”: María Fernanda Cabal arremetió contra la oposición y evocó las fiestas con “noviecitas prepago” de Petro",
+      "link": "https://www.infobae.com/colombia/2026/08/24/todo-les-parece-malo-maria-fernanda-cabal-arremetio-contra-la-oposicion-y-evoco-las-fiestas-con-noviecitas-prepago-de-petro/",
       "source": "Infobae",
-      "pubDate": "Mon, 24 Aug 2026 22:23:18 +0000",
+      "pubDate": "Tue, 25 Aug 2026 00:05:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella anuncia subsidio de arriendo de $ 875.452 por tres meses para damnificados del terremoto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/hoy-inicia-la-reconstruccion-de-colombia-de-la-espriella-anuncia-apoyo-economico-de-875-452-durante-tres-meses-para-afectados-por-terremoto-3580574",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-24T18:21:03-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,14 +75,6 @@
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260824-de-la-espriella-estrena-su-pol%C3%ADtica-migratoria-en-colombia-con-un-anuncio-de-operativos-y-deportaciones",
       "source": "France 24",
       "pubDate": "Mon, 24 Aug 2026 21:29:47 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anuncia subsidio de arriendo de $ 875.452 por tres meses para damnificados del terremoto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/hoy-inicia-la-reconstruccion-de-colombia-de-la-espriella-anuncia-apoyo-economico-de-875-452-durante-tres-meses-para-afectados-por-terremoto-3580574",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-24T14:51:14-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
