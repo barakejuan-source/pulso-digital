@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T12:59:46.193Z",
+  "updatedAt": "2026-08-26T14:49:10.044Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Por presión del gobierno de Abelardo de la Espriella, Carolina Soto Losada ya no será presidenta de la Cámara Colombiana de Infraestructura: “Independencia de las decisiones del sector privado”",
-      "link": "https://www.infobae.com/colombia/2026/08/26/por-presion-del-gobierno-de-abelardo-de-la-espriella-carolina-soto-losada-ya-no-sera-presidenta-de-la-camara-colombiana-de-infraestructura-independencia-de-las-decisiones-del-sector-privado/",
+      "title": "Las imágenes de Viviana Marín en Estados Unidos antes de que le cancelaran la visa por decir que le iba a hacer “invivible” el país a Abelardo de la Espriella: “No tiene derecho a ingresar” ",
+      "link": "https://www.infobae.com/colombia/2026/08/26/las-imagenes-de-viviana-marin-en-estados-unidos-antes-de-que-le-cancelaran-la-visa-por-decir-que-le-iba-a-hacer-invivible-el-pais-a-abelardo-de-la-espriella-no-tiene-derecho-a-ingresar/",
       "source": "Infobae",
-      "pubDate": "Wed, 26 Aug 2026 12:50:43 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Agmeth Escaf se despachó contra Abelardo de la Espriella por orden de deportar migrantes irregulares: “¿El siguiente paso será un ICE colombiano?”",
-      "link": "https://www.infobae.com/colombia/2026/08/26/agmeth-escaf-se-despacho-contra-abelardo-de-la-espriella-por-orden-de-deportar-migrantes-irregulares-el-siguiente-paso-sera-un-ice-colombiano/",
-      "source": "Infobae",
-      "pubDate": "Wed, 26 Aug 2026 12:45:02 +0000",
+      "pubDate": "Wed, 26 Aug 2026 14:31:41 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,15 +58,15 @@
       "title": "Las razones por las que el presidente Abelardo De La Espriella sí despacharía desde la Casa de Nariño luego de descartarla",
       "link": "https://www.eltiempo.com/politica/gobierno/las-razones-por-las-que-el-presidente-abelardo-de-la-espriella-si-despacharia-desde-la-casa-de-narino-luego-de-descartarla-3581103",
       "source": "El Tiempo",
-      "pubDate": "2026-08-26T07:43:41-05:00",
+      "pubDate": "2026-08-26T08:12:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Coronel Jorge Delgado, apartado del esquema de seguridad de Abelardo de la Espriella, aseguró que hay un ‘complot’ en su contra: “Defenderé mi nombre”",
-      "link": "https://www.infobae.com/colombia/2026/08/26/coronel-jorge-delgado-apartado-del-esquema-de-seguridad-de-abelardo-de-la-espriella-aseguro-que-hay-un-complot-en-su-contra-defendere-mi-nombre/",
-      "source": "Infobae",
-      "pubDate": "Wed, 26 Aug 2026 12:40:18 +0000",
+      "title": "EE.UU. revocó visa a militante de la Juco por oponerse a Abelardo",
+      "link": "https://www.lasillavacia.com/en-vivo/ee-uu-revoco-visa-a-militante-de-la-juco-por-oponerse-a-abelardo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 26 Aug 2026 13:05:19 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -103,28 +95,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo De La Espriella decidió que también gobernará desde la Casa de Nariño: equipo alista el Palacio para su llegada",
-      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-decidio-que-tambien-gobernara-desde-la-casa-de-narino-equipo-alista-el-palacio-para-su-llegada-3581041",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-25T21:03:19-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Quién es Iván Cepeda Castro",
       "link": "https://www.lasillavacia.com/quien-es-quien/ivan-cepeda/",
       "source": "La Silla Vacía",
       "pubDate": "Wed, 26 Aug 2026 00:52:56 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "El presidente Abelardo De La Espriella designó a la exconcejal Clara Lucía Sandoval como gerente para Bogotá",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-designo-a-la-exconcejal-clara-lucia-sandoval-como-gerente-para-bogota-3581033",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-25T19:01:01-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
