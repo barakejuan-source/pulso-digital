@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T16:51:19.378Z",
+  "updatedAt": "2026-08-26T19:50:57.372Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,34 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Iván Cepeda reveló quiénes harán parte de su ‘gabinete por la vida’, para hacerle oposición al gobierno de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/08/26/ivan-cepeda-revelo-quienes-haran-parte-de-su-gabinete-por-la-vida-para-hacerle-oposicion-al-gobierno-de-abelardo-de-la-espriella/",
+      "title": "Gustavo Petro arremetió contra Abelardo de la Espriella por propuesta de reducir el Estado: “Es un suicidio”",
+      "link": "https://www.infobae.com/colombia/2026/08/26/gustavo-petro-arremetio-contra-abelardo-de-la-espriella-por-propuesta-de-reducir-el-estado-es-un-suicidio/",
       "source": "Infobae",
-      "pubDate": "Wed, 26 Aug 2026 16:46:45 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Wed, 26 Aug 2026 19:13:44 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "A lo Bukele, Abelardo de la Espriella publicó video del traslado de presos con el cabello cortado y uniformes: “Fin a las zonas de confort”",
+      "link": "https://www.infobae.com/colombia/2026/08/26/a-lo-bukele-abelardo-de-la-espriella-publico-video-del-traslado-de-presos-con-el-cabello-cortado-y-uniformes-fin-a-las-zonas-de-confort/",
+      "source": "Infobae",
+      "pubDate": "Wed, 26 Aug 2026 19:11:22 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella reconoció la nueva cúpula militar: prohibió a sus funcionarios adelantar diálogos con cualquier grupo armado",
+      "link": "https://www.infobae.com/colombia/2026/08/26/abelardo-de-la-espriella-reconocio-la-nueva-cupula-militar-prohibio-a-sus-funcionarios-adelantar-dialogos-con-cualquier-grupo-armado/",
+      "source": "Infobae",
+      "pubDate": "Wed, 26 Aug 2026 19:10:46 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella reafirmó que construirá megacárceles en Colombia: “Mantengo intacto mi compromiso”",
+      "link": "https://www.infobae.com/colombia/2026/08/26/abelardo-de-la-espriella-reafirmo-que-construira-megacarceles-en-colombia-mantengo-intacto-mi-compromiso/",
+      "source": "Infobae",
+      "pubDate": "Wed, 26 Aug 2026 19:09:29 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Las razones por las que el presidente Abelardo De La Espriella sí despacharía desde la Casa de Nariño luego de descartarla",
       "link": "https://www.eltiempo.com/politica/gobierno/las-razones-por-las-que-el-presidente-abelardo-de-la-espriella-si-despacharia-desde-la-casa-de-narino-luego-de-descartarla-3581103",
       "source": "El Tiempo",
       "pubDate": "2026-08-26T08:12:39-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "EE.UU. revocó visa a militante de la Juco por oponerse a Abelardo",
-      "link": "https://www.lasillavacia.com/en-vivo/ee-uu-revoco-visa-a-militante-de-la-juco-por-oponerse-a-abelardo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 26 Aug 2026 13:05:19 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Elección del nuevo CNE le da al gobierno de Abelardo su primera victoria en el Congreso",
-      "link": "https://www.lasillavacia.com/silla-nacional/lara-politicos-y-malas-cuentas-del-pacto-asi-se-eligio-al-nuevo-cne/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 26 Aug 2026 07:13:58 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
