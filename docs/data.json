@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T01:29:15.458Z",
+  "updatedAt": "2026-08-26T03:09:53.911Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 1,
       "momentum": {
-        "value": -50,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 1.3
@@ -47,18 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Alcaldesa de Buenaventura elogió a Abelardo De La Espriella y criticó duramente al expresidente Gustavo Petro: 'Esta sí es la patria milagro'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/alcaldesa-de-buenaventura-elogio-a-abelardo-de-la-espriella-y-critico-duramente-al-expresidente-gustavo-petro-esta-si-es-la-patria-milagro-3581038",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-25T20:25:15-05:00",
+      "title": "Elecciones 2026: ¿qué cargos elegiremos el 4 de octubre?",
+      "link": "https://www.infobae.com/peru/2026/08/26/elecciones-2026-que-cargos-elegiremos-el-4-de-octubre/",
+      "source": "Infobae",
+      "pubDate": "Wed, 26 Aug 2026 03:02:41 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Venezolanos en el limbo: ¿cómo queda la mayor población migrante de Colombia con De la Espriella?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260826-venezolanos-en-el-limbo-c%C3%B3mo-queda-la-mayor-poblaci%C3%B3n-migrante-de-colombia-ante-de-la-espriella",
+      "source": "France 24",
+      "pubDate": "Wed, 26 Aug 2026 02:16:54 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidencia confirmó que se cometieron errores al publicar la hoja de vida de Abelardo de la Espriella en el Sigep II: qué pasó",
-      "link": "https://www.infobae.com/colombia/2026/08/26/presidencia-confirmo-que-se-cometieron-errores-al-publicar-la-hoja-de-vida-de-abelardo-de-la-espriella-en-el-sigep-ii-que-paso/",
+      "title": "Presidencia hizo aclaraciones sobre la situación tributaria de Abelardo de la Espriella: “Ha cumplido sus obligaciones”",
+      "link": "https://www.infobae.com/colombia/2026/08/26/presidencia-hizo-aclaraciones-sobre-la-situacion-tributaria-de-abelardo-de-la-espriella-ha-cumplido-sus-obligaciones/",
       "source": "Infobae",
-      "pubDate": "Wed, 26 Aug 2026 01:18:50 +0000",
+      "pubDate": "Wed, 26 Aug 2026 02:15:07 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella decidió que también gobernará desde la Casa de Nariño: equipo alista el Palacio para su llegada",
+      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-decidio-que-tambien-gobernara-desde-la-casa-de-narino-equipo-alista-el-palacio-para-su-llegada-3581041",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-25T21:03:19-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Alcaldesa de Buenaventura elogió a Abelardo De La Espriella y criticó duramente al expresidente Gustavo Petro: 'Esta sí es la patria milagro'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/alcaldesa-de-buenaventura-elogio-a-abelardo-de-la-espriella-y-critico-duramente-al-expresidente-gustavo-petro-esta-si-es-la-patria-milagro-3581038",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-25T20:25:15-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -69,30 +93,6 @@
       "pubDate": "Wed, 26 Aug 2026 00:52:56 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Hoteles en Colombia se quejaron de la baja ocupación que tuvieron en el primer semestre de 2026 y piden soluciones a Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/08/26/hoteles-en-colombia-se-quejaron-de-la-baja-ocupacion-que-tuvieron-en-el-primer-semestre-de-2026-y-piden-soluciones-a-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Wed, 26 Aug 2026 00:33:58 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella oficializó a la exconcejal Clara Lucía Sandoval como la nueva gerente para Bogotá: así trabajará con el alcalde Galán",
-      "link": "https://www.infobae.com/colombia/2026/08/25/abelardo-de-la-espriella-oficializo-a-la-exconcejal-clara-lucia-sandoval-como-la-nueva-gerente-para-bogota-asi-trabajara-con-el-alcalde-galan/",
-      "source": "Infobae",
-      "pubDate": "Wed, 26 Aug 2026 00:28:35 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella decidió que también gobernará desde la Casa de Nariño: equipo alista el Palacio para su llegada",
-      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-decidio-que-tambien-gobernara-desde-la-casa-de-narino-equipo-alista-el-palacio-para-su-llegada-3581041",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-25T19:07:08-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "El presidente Abelardo De La Espriella designó a la exconcejal Clara Lucía Sandoval como gerente para Bogotá",
