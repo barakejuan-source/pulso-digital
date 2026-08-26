@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T03:09:53.911Z",
+  "updatedAt": "2026-08-26T04:44:03.815Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,12 +47,12 @@
   ],
   "articles": [
     {
-      "title": "Elecciones 2026: ¿qué cargos elegiremos el 4 de octubre?",
-      "link": "https://www.infobae.com/peru/2026/08/26/elecciones-2026-que-cargos-elegiremos-el-4-de-octubre/",
-      "source": "Infobae",
-      "pubDate": "Wed, 26 Aug 2026 03:02:41 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Alcaldesa de Buenaventura elogió al presidente Abelardo De La Espriella y cuestionó el manejo de gobiernos anteriores: 'Esta sí es la patria milagro'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/alcaldesa-de-buenaventura-elogio-a-abelardo-de-la-espriella-y-critico-duramente-al-expresidente-gustavo-petro-esta-si-es-la-patria-milagro-3581038",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-25T22:47:35-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Venezolanos en el limbo: ¿cómo queda la mayor población migrante de Colombia con De la Espriella?",
@@ -63,26 +63,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidencia hizo aclaraciones sobre la situación tributaria de Abelardo de la Espriella: “Ha cumplido sus obligaciones”",
-      "link": "https://www.infobae.com/colombia/2026/08/26/presidencia-hizo-aclaraciones-sobre-la-situacion-tributaria-de-abelardo-de-la-espriella-ha-cumplido-sus-obligaciones/",
-      "source": "Infobae",
-      "pubDate": "Wed, 26 Aug 2026 02:15:07 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Abelardo De La Espriella decidió que también gobernará desde la Casa de Nariño: equipo alista el Palacio para su llegada",
       "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-decidio-que-tambien-gobernara-desde-la-casa-de-narino-equipo-alista-el-palacio-para-su-llegada-3581041",
       "source": "El Tiempo",
       "pubDate": "2026-08-25T21:03:19-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Alcaldesa de Buenaventura elogió a Abelardo De La Espriella y criticó duramente al expresidente Gustavo Petro: 'Esta sí es la patria milagro'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/alcaldesa-de-buenaventura-elogio-a-abelardo-de-la-espriella-y-critico-duramente-al-expresidente-gustavo-petro-esta-si-es-la-patria-milagro-3581038",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-25T20:25:15-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
