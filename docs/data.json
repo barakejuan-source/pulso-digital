@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T10:39:21.514Z",
+  "updatedAt": "2026-08-26T12:59:46.193Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,7 +47,39 @@
   ],
   "articles": [
     {
-      "title": "Lara, políticos y malas cuentas del Pacto: así se eligió al nuevo CNE",
+      "title": "Por presión del gobierno de Abelardo de la Espriella, Carolina Soto Losada ya no será presidenta de la Cámara Colombiana de Infraestructura: “Independencia de las decisiones del sector privado”",
+      "link": "https://www.infobae.com/colombia/2026/08/26/por-presion-del-gobierno-de-abelardo-de-la-espriella-carolina-soto-losada-ya-no-sera-presidenta-de-la-camara-colombiana-de-infraestructura-independencia-de-las-decisiones-del-sector-privado/",
+      "source": "Infobae",
+      "pubDate": "Wed, 26 Aug 2026 12:50:43 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Agmeth Escaf se despachó contra Abelardo de la Espriella por orden de deportar migrantes irregulares: “¿El siguiente paso será un ICE colombiano?”",
+      "link": "https://www.infobae.com/colombia/2026/08/26/agmeth-escaf-se-despacho-contra-abelardo-de-la-espriella-por-orden-de-deportar-migrantes-irregulares-el-siguiente-paso-sera-un-ice-colombiano/",
+      "source": "Infobae",
+      "pubDate": "Wed, 26 Aug 2026 12:45:02 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Las razones por las que el presidente Abelardo De La Espriella sí despacharía desde la Casa de Nariño luego de descartarla",
+      "link": "https://www.eltiempo.com/politica/gobierno/las-razones-por-las-que-el-presidente-abelardo-de-la-espriella-si-despacharia-desde-la-casa-de-narino-luego-de-descartarla-3581103",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-26T07:43:41-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Coronel Jorge Delgado, apartado del esquema de seguridad de Abelardo de la Espriella, aseguró que hay un ‘complot’ en su contra: “Defenderé mi nombre”",
+      "link": "https://www.infobae.com/colombia/2026/08/26/coronel-jorge-delgado-apartado-del-esquema-de-seguridad-de-abelardo-de-la-espriella-aseguro-que-hay-un-complot-en-su-contra-defendere-mi-nombre/",
+      "source": "Infobae",
+      "pubDate": "Wed, 26 Aug 2026 12:40:18 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elección del nuevo CNE le da al gobierno de Abelardo su primera victoria en el Congreso",
       "link": "https://www.lasillavacia.com/silla-nacional/lara-politicos-y-malas-cuentas-del-pacto-asi-se-eligio-al-nuevo-cne/",
       "source": "La Silla Vacía",
       "pubDate": "Wed, 26 Aug 2026 07:13:58 +0000",
@@ -91,30 +123,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-designo-a-la-exconcejal-clara-lucia-sandoval-como-gerente-para-bogota-3581033",
       "source": "El Tiempo",
       "pubDate": "2026-08-25T19:01:01-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De la Espriella pidió al nuevo contralor, Jorge Eliécer Laverde, crear un grupo élite para investigar recursos del gobierno de Gustavo Petro",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-pidio-al-nuevo-contralor-jorge-eliecer-laverde-crear-un-grupo-elite-para-investigar-recursos-del-gobierno-de-gustavo-petro-3581005",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-25T18:00:31-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los representantes Daniel Briceño y Carol Borda radicaron proyecto para eliminar los 'impuestos saludables'",
-      "link": "https://www.eltiempo.com/politica/congreso/los-representantes-daniel-briceno-y-carol-borda-radicaron-proyecto-para-eliminar-los-impuestos-saludables-3581007",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-25T17:26:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella declara insubsistente a Wilmar Mejía como director de la UIAF: ya había presentado su renuncia al cargo",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-declara-insubsistente-a-wilmar-mejia-como-director-de-la-uiaf-ya-habia-presentado-su-renuncia-al-cargo-3580984",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-25T16:02:54-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
