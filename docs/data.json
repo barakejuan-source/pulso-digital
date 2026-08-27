@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T08:20:26.279Z",
+  "updatedAt": "2026-08-27T20:14:12.634Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,58 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella anuncia la extradición de cinco cabecillas, entre ellos alias Araña, y ratifica el fin de la paz total",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-la-extradicion-de-cinco-cabecillas-entre-ellos-alias-arana-y-ratifica-el-fin-de-la-paz-total-3581348",
+      "title": "El Servicio Postal de EE. UU. informa que entraron en vigor las restricciones al voto por correo",
+      "link": "https://www.infobae.com/estados-unidos/2026/08/27/el-servicio-postal-de-ee-uu-informa-que-entraron-en-vigor-las-restricciones-al-voto-por-correo/",
+      "source": "Infobae",
+      "pubDate": "Thu, 27 Aug 2026 20:03:53 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Incendios forestales en Tolima y otras regiones hoy, 27 de agosto, en VIVO: presidente anunció $50 millones de recompensa por presuntos saboteadores",
+      "link": "https://www.infobae.com/colombia/2026/08/25/incendios-forestales-en-tolima-y-otras-regiones-hoy-25-de-agosto-siga-en-vivo-el-reporte-del-desastre-natural/",
+      "source": "Infobae",
+      "pubDate": "Thu, 27 Aug 2026 20:01:41 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Jerome Sanabria calificó decisión de la Corte sobre la reforma pensional de Petro como una “vergüenza” y propuso una contrarreforma: “A disposición de Salvación Nacional, Centro Democrático y Cambio Radical”",
+      "link": "https://www.infobae.com/colombia/2026/08/27/jerome-sanabria-califico-decision-de-la-corte-sobre-la-reforma-pensional-de-petro-como-una-verguenza-y-propuso-una-contrarreforma-a-disposicion-de-salvacion-nacional-centro-democratico-y-cambio-radical/",
+      "source": "Infobae",
+      "pubDate": "Thu, 27 Aug 2026 20:00:44 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Antonella Petro criticó a la directora del Icbf por la directriz de no usar la palabra “niña” en lenguaje institucional: “Deben ser nombradas con todas las letras”",
+      "link": "https://www.infobae.com/colombia/2026/08/27/antonella-petro-critico-a-la-directora-del-icbf-por-la-directriz-de-no-usar-la-palabra-nina-en-lenguaje-institucional-deben-ser-nombradas-con-todas-las-letras/",
+      "source": "Infobae",
+      "pubDate": "Thu, 27 Aug 2026 19:47:38 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Las primeras reacciones del Congreso al nuevo Presupuesto General de 2027 radicado por el gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/congreso/las-primeras-reacciones-del-congreso-al-nuevo-presupuesto-general-de-2027-radicado-por-el-gobierno-de-abelardo-de-la-espriella-3581569",
       "source": "El Tiempo",
-      "pubDate": "2026-08-26T19:22:43-05:00",
+      "pubDate": "2026-08-27T14:46:26-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Quién reemplazará a Juliana Guerrero en la Universidad Popular del Cesar tras la nueva lista de delegados del Gobierno de Abelardo De La Espriella?",
+      "link": "https://www.eltiempo.com/politica/gobierno/quien-reemplazara-a-juliana-guerrero-en-la-universidad-popular-del-cesar-tras-la-nueva-lista-de-delegados-del-gobierno-de-abelardo-de-la-espriella-3581581",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-27T14:30:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo De La Espriella expide circular con la hoja de ruta para denunciar posibles irregularidades de la administración Petro",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-expide-circular-con-la-hoja-de-ruta-para-denunciar-posibles-irregularidades-de-la-administracion-petro-3581549",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-27T12:33:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
