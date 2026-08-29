@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T16:27:35.793Z",
+  "updatedAt": "2026-08-29T20:41:19.042Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,20 +47,28 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella propone reducción a la mitad de multas de tránsito y de otros trámites viales",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-propone-reduccion-a-la-mitad-de-multas-de-transito-y-de-otros-tramites-viales-3582076",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-29T11:17:35-05:00",
+      "title": "Petro alertó por el aumento de la deuda con el presupuesto para 2027 y lanzó fuerte advertencia: “Demostrando inexperiencia e improvisación”",
+      "link": "https://www.infobae.com/colombia/2026/08/29/petro-alerto-por-el-aumento-de-la-deuda-con-el-presupuesto-para-2027-y-lanzo-fuerte-advertencia-demostrando-inexperiencia-e-improvisacion/",
+      "source": "Infobae",
+      "pubDate": "Sat, 29 Aug 2026 20:15:49 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Lula criticó a Flávio Bolsonaro por negar el cambio climático: “Es irresponsable de quien aspira a gobernar un país” ",
-      "link": "https://www.infobae.com/america/america-latina/2026/08/29/lula-critico-a-flavio-bolsonaro-por-negar-el-cambio-climatico-es-irresponsable-de-quien-aspira-a-gobernar-un-pais/",
-      "source": "Infobae",
-      "pubDate": "Sat, 29 Aug 2026 15:59:43 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Operación Diamante deja 111 capturados por secuestro y extorsión, según Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/operacion-diamante-deja-111-capturados-por-secuestro-y-extorsion-segun-abelardo-de-la-espriella-3582107",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-29T15:12:09-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella propone reducción a la mitad de multas de tránsito y de otros trámites viales",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-propone-reduccion-a-la-mitad-de-multas-de-transito-y-de-otros-tramites-viales-3582076",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-29T12:18:02-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Presidente Abelardo De La Espriella anunció captura de alias 'Fantasma' por tráfico de cocaína y vínculos con las Farc: es solicitado en extradición",
