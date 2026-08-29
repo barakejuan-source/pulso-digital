@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T20:41:19.042Z",
+  "updatedAt": "2026-08-29T23:58:58.984Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Petro alertó por el aumento de la deuda con el presupuesto para 2027 y lanzó fuerte advertencia: “Demostrando inexperiencia e improvisación”",
-      "link": "https://www.infobae.com/colombia/2026/08/29/petro-alerto-por-el-aumento-de-la-deuda-con-el-presupuesto-para-2027-y-lanzo-fuerte-advertencia-demostrando-inexperiencia-e-improvisacion/",
+      "title": "Presidente Abelardo De La Espriella propone reducción a la mitad de multas de tránsito y de otros trámites viales",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-propone-reduccion-a-la-mitad-de-multas-de-transito-y-de-otros-tramites-viales-3582076",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-29T18:18:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo De La Espriella confirma extradición de oficial retirado de la Armada solicitado por Estados Unidos por narcotráfico",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-confirma-extradicion-de-oficial-retirado-de-la-armada-solicitado-por-estados-unidos-por-narcotrafico-3582127",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-29T17:42:48-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Decoración política de interiores: Botero pinta a Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/opinion/decoracion-politica-de-interiores-botero-pinta-a-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 29 Aug 2026 22:37:11 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Operación Diamante deja 111 detenidos y desmantela redes de secuestro y extorsión: “Golpe contundente contra las mafias”",
+      "link": "https://www.infobae.com/colombia/2026/08/29/operacion-diamante-deja-111-detenidos-y-desmantela-redes-de-secuestro-y-extorsion-golpe-contundente-contra-las-mafias/",
       "source": "Infobae",
-      "pubDate": "Sat, 29 Aug 2026 20:15:49 +0000",
+      "pubDate": "Sat, 29 Aug 2026 22:20:06 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,14 +83,6 @@
       "link": "https://www.eltiempo.com/politica/operacion-diamante-deja-111-capturados-por-secuestro-y-extorsion-segun-abelardo-de-la-espriella-3582107",
       "source": "El Tiempo",
       "pubDate": "2026-08-29T15:12:09-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella propone reducción a la mitad de multas de tránsito y de otros trámites viales",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-propone-reduccion-a-la-mitad-de-multas-de-transito-y-de-otros-tramites-viales-3582076",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-29T12:18:02-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
