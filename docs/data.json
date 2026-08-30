@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-30T11:33:31.850Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-08-30T16:21:10.593Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "‘Detrás hay mafias de Barranquilla’: De La Espriella propone reformar código de tránsito",
+      "link": "https://www.lasillavacia.com/en-vivo/detras-hay-mafias-de-barranquilla-de-la-espriella-sobre-reformar-codigo-de-transito/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 30 Aug 2026 14:05:34 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Presidente Abelardo De La Espriella confirma que Lucas, el niño que le pidió ayuda por su grave condición, ya recibe atención: 'Tengo medio corazón'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirma-que-lucas-el-nino-que-le-pidio-ayuda-por-su-grave-condicion-ya-recibe-atencion-tengo-medio-corazon-3582146",
