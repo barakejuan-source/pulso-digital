@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-30T16:21:10.593Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-30T20:47:50.654Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 2,
+      "trendsScore": 4,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 1,
+      "finalScore": 2,
       "momentum": {
-        "value": 0,
+        "value": 100,
         "direction": "flat"
       },
-      "probability": 1.3
+      "probability": 2.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,26 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 98.7
+      "probability": 97.4
     }
   ],
   "articles": [
+    {
+      "title": "Ministerio de Transporte inició la preparación del borrador del nuevo Código Nacional de Tránsito tras anuncio de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/08/30/ministerio-de-transporte-inicio-la-preparacion-del-borrador-del-nuevo-codigo-nacional-de-transito-tras-anuncio-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Sun, 30 Aug 2026 20:17:54 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo De La Espriella oficializó que prepara nuevo Código Nacional de Tránsito: estas son las reformas que plantea el Mintransporte",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-oficializa-que-prepara-nuevo-codigo-nacional-de-transito-estas-son-las-reformas-que-plantea-3582222",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-30T13:45:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "‘Detrás hay mafias de Barranquilla’: De La Espriella propone reformar código de tránsito",
       "link": "https://www.lasillavacia.com/en-vivo/detras-hay-mafias-de-barranquilla-de-la-espriella-sobre-reformar-codigo-de-transito/",
@@ -87,26 +103,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella propone reducción a la mitad de multas de tránsito y de otros trámites viales",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-propone-reduccion-a-la-mitad-de-multas-de-transito-y-de-otros-tramites-viales-3582076",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-29T18:18:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Gobierno de Abelardo De La Espriella confirma extradición de oficial retirado de la Armada solicitado por Estados Unidos por narcotráfico",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-confirma-extradicion-de-oficial-retirado-de-la-armada-solicitado-por-estados-unidos-por-narcotrafico-3582127",
       "source": "El Tiempo",
       "pubDate": "2026-08-29T17:42:48-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Decoración política de interiores: Botero pinta a Abelardo de la Espriella",
-      "link": "https://www.lasillavacia.com/opinion/decoracion-politica-de-interiores-botero-pinta-a-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 29 Aug 2026 22:37:11 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
