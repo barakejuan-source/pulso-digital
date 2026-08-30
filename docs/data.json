@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T05:12:57.210Z",
+  "updatedAt": "2026-08-30T11:33:31.850Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Presidente Abelardo De La Espriella confirma que Lucas, el niño que le pidió ayuda por su grave condición, ya recibe atención: 'Tengo medio corazón'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirma-que-lucas-el-nino-que-le-pidio-ayuda-por-su-grave-condicion-ya-recibe-atencion-tengo-medio-corazon-3582146",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-30T00:14:28-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "‘Gobierno Petro no actuó contra reclutadores de menores’: Paloma Valencia alerta por situación con grupos armados",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/gobierno-petro-no-actuo-contra-reclutadores-de-menores-paloma-valencia-alerta-por-situacion-con-grupos-armados-3582114",
       "source": "El Tiempo",
@@ -59,14 +67,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-anuncia-nuevas-medidas-por-la-transparencia-del-estado-vamos-a-revisar-cada-rincon-del-para-deshacer-la-roscas-3582145",
       "source": "El Tiempo",
       "pubDate": "2026-08-29T21:34:40-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo de la Espriella confirma que Lucas, el niño que le pidió ayuda por su grave condición, ya recibe atención: 'Tengo medio corazón'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirma-que-lucas-el-nino-que-le-pidio-ayuda-por-su-grave-condicion-ya-recibe-atencion-tengo-medio-corazon-3582146",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-29T21:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
