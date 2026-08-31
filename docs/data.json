@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-31T17:28:56.819Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-08-31T22:39:56.129Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 2,
+      "trendsScore": 4,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 1,
+      "finalScore": 2,
       "momentum": {
-        "value": 0,
+        "value": 100,
         "direction": "flat"
       },
-      "probability": 1.3
+      "probability": 2.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,87 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 98.7
+      "probability": 97.4
     }
   ],
   "articles": [
+    {
+      "title": "Presupuesto de 2027 confirma problemas económicos que le dejó el Gobierno Petro a Abelardo de la Espriella: “Implicó mayor deuda”",
+      "link": "https://www.infobae.com/colombia/2026/08/31/presupuesto-de-2027-confirma-problemas-economicos-que-le-dejo-el-gobierno-petro-a-abelardo-de-la-espriella-implico-mayor-deuda/",
+      "source": "Infobae",
+      "pubDate": "Mon, 31 Aug 2026 21:48:29 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda hace llamado a la calma en el Pacto: 'No permitamos que las ambiciones personales, los intereses particulares y egoístas nos desvíen'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-hace-llamado-a-la-calma-en-el-pacto-no-permitamos-que-las-ambiciones-personales-los-intereses-particulares-y-egoistas-nos-desvien-3582490",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-31T16:11:07-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Alianza Verde decidirá esta semana si es partido de opositor o independiente al gobierno de Abelardo De La Espriella: las cuentas están reñidas",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/alianza-verde-decidira-esta-semana-si-es-partido-de-opositor-o-independiente-al-gobierno-de-abelardo-de-la-espriella-las-cuentas-estan-renidas-3582476",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-31T15:31:11-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Carolina Gómez confirma que ya no será vocera e iría a otro cargo en el gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/carolina-gomez-confirma-que-ya-no-sera-vocera-e-iria-a-otro-cargo-en-el-gobierno-de-abelardo-de-la-espriella-3582433",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-31T13:55:54-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Así avanza el gobierno de Abelardo De La Espriella con el desmonte de la ‘paz total’: ¿qué mesas faltan por cerrar?",
       "link": "https://www.eltiempo.com/politica/proceso-de-paz/asi-avanza-el-gobierno-de-abelardo-de-la-espriella-con-el-desmonte-de-la-paz-total-que-mesas-faltan-por-cerrar-3582419",
       "source": "El Tiempo",
       "pubDate": "2026-08-31T12:27:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella declaró insubsistentes a otros cinco funcionarios de Gustavo Petro que se habían negado a renunciar",
-      "link": "https://www.infobae.com/colombia/2026/08/31/abelardo-de-la-espriella-declaro-insubsistentes-a-otros-cinco-funcionarios-de-gustavo-petro-que-se-habian-negado-a-renunciar/",
-      "source": "Infobae",
-      "pubDate": "Mon, 31 Aug 2026 17:12:09 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abogado de Gustavo Petro refutó a Daniel Briceño tras respaldar las excusas de Abelardo de la Espriella: “Nadie le está prohibiendo creer ni orar” ",
-      "link": "https://www.infobae.com/colombia/2026/08/31/abogado-de-gustavo-petro-refuto-a-daniel-briceno-tras-respaldar-las-excusas-de-abelardo-de-la-espriella-nadie-le-esta-prohibiendo-creer-ni-orar/",
-      "source": "Infobae",
-      "pubDate": "Mon, 31 Aug 2026 17:03:23 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Quién es Amparo López Pico, la nueva directora del Hospital Militar Central designada por el gobierno de Abelardo de la Espriella ",
-      "link": "https://www.infobae.com/colombia/2026/08/31/quien-es-amparo-lopez-pico-la-nueva-directora-del-hospital-militar-central-designada-por-el-gobierno-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Mon, 31 Aug 2026 16:35:31 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Carlos Suárez, asesor de Abelardo De La Espriella, anunció que impugnarán tutela que ordenó al Presidente disculparse por acto religioso en posesión",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/carlos-suarez-asesor-de-abelardo-de-la-espriella-anuncio-que-impugnaran-tutela-que-ordeno-al-presidente-disculparse-por-acto-religioso-en-posesion-3582406",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-31T11:33:36-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella confirmó bombardeo en Guaviare contra estructuras de alias Iván Mordisco: 'La ofensiva no se detiene'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirmo-bombardeo-en-guaviare-contra-estructuras-de-alias-ivan-mordisco-la-ofensiva-no-se-detiene-3582348",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-31T09:45:54-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Qué responde el Gobierno colombiano tras el bombardeo contra disidencias de las FARC en el que murieron tres menores?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260831-qu%C3%A9-responde-el-gobierno-colombiano-tras-el-bombardeo-contra-disidencias-de-las-farc-en-el-que-murieron-tres-menores",
-      "source": "France 24",
-      "pubDate": "Mon, 31 Aug 2026 14:32:04 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella ofrece excusas por acto religioso de invocación durante su posesión, tras fallo de tutela",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ofrece-excusas-por-acto-religioso-de-invocacion-durante-su-posesion-tras-fallo-de-tutela-3582259",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-31T07:52:51-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cuerpo élite de inteligencia e inspecciones sorpresa: así funcionará el bloque anticorrupción del gobierno de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/cuerpo-elite-de-inteligencia-e-inspecciones-sorpresa-asi-funcionara-el-bloque-anticorrupcion-del-gobierno-de-abelardo-de-la-espriella-3582306",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-31T07:38:58-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "De la Espriella derriba la 'Paz Total' de Petro: ¿Es un retroceso para la paz en Colombia?",
-      "link": "https://www.france24.com/es/video/20260830-de-la-espriella-derriba-la-paz-total-de-petro-es-un-retroceso-para-la-paz-en-colombia",
-      "source": "France 24",
-      "pubDate": "Sun, 30 Aug 2026 23:13:23 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
