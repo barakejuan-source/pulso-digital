@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T11:22:11.181Z",
+  "updatedAt": "2026-09-01T16:19:03.789Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,66 @@
   ],
   "articles": [
     {
-      "title": "Magistrado del abelardismo en CNE está detrás del derroche de testigos electorales  ",
-      "link": "https://www.lasillavacia.com/silla-nacional/magistrado-del-abelardismo-en-cne-esta-detras-del-derroche-de-testigos-electorales/",
+      "title": "El CNE tomó decisión definitiva sobre presuntas irregularidades en la financiación de la campaña de Iván Cepeda",
+      "link": "https://www.infobae.com/colombia/2026/09/01/el-cne-tomo-decision-definitiva-sobre-presuntas-irregularidades-en-la-financiacion-de-la-campana-de-ivan-cepeda/",
+      "source": "Infobae",
+      "pubDate": "Tue, 01 Sep 2026 16:15:34 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Presidencia impugnó tutela que le ordenó a Abelardo de la Espriella ofrecer disculpas por vulnerar la “neutralidad religiosa”: “Vulneró el principio de separación de poderes”",
+      "link": "https://www.infobae.com/colombia/2026/09/01/presidencia-impugno-tutela-que-le-ordeno-a-abelardo-de-la-espriella-ofrecer-disculpas-por-vulnerar-la-neutralidad-religiosa-vulnero-el-principio-de-separacion-de-poderes/",
+      "source": "Infobae",
+      "pubDate": "Tue, 01 Sep 2026 16:05:24 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidencia de Abelardo de la Espriella habría definido su relación con los medios: sin ruedas de prensa y entrevistas solo con los ‘amigos’",
+      "link": "https://www.infobae.com/colombia/2026/09/01/presidencia-de-abelardo-de-la-espriella-habria-definido-su-relacion-con-los-medios-sin-ruedas-de-prensa-y-entrevistas-solo-con-los-amigos/",
+      "source": "Infobae",
+      "pubDate": "Tue, 01 Sep 2026 16:04:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ejército de Colombia bombardea a disidencias de las FARC y deja 20 muertos en Guaviare",
+      "link": "https://www.france24.com/es/video/20260901-ej%C3%A9rcito-de-colombia-bombardea-a-disidencias-de-las-farc-y-deja-20-muertos-en-guaviare",
+      "source": "France 24",
+      "pubDate": "Tue, 01 Sep 2026 15:45:40 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Consejo Nacional Electoral no investigará a Iván Cepeda por denuncias sobre presunta financiación irregular en la consulta del Pacto Histórico",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/consejo-nacional-electoral-no-investigara-a-ivan-cepeda-por-denuncias-sobre-presunta-financiacion-irregular-en-la-consulta-del-pacto-historico-3582646",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-01T10:14:23-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "CNE no investigará a Iván Cepeda por financiación de su campaña",
+      "link": "https://www.lasillavacia.com/en-vivo/cne-no-investigara-a-ivan-cepeda-por-financiacion-de-su-campana/",
       "source": "La Silla Vacía",
-      "pubDate": "Tue, 01 Sep 2026 06:00:00 +0000",
+      "pubDate": "Tue, 01 Sep 2026 15:08:34 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella confirma golpe a disidencias de 'Mordisco': en bombardeo fue dado de baja cabecilla en Guaviare",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirma-golpe-a-disidencias-de-mordisco-en-bombardeo-fue-dado-de-baja-cabecilla-de-la-estructura-en-guaviare-3582556",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-01T07:28:38-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella convocó a consejo de seguridad tras atentado terrorista en Cúcuta: 'Vamos a perseguir con mano de hierro'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-convoco-a-consejo-de-seguridad-tras-atentado-terrorista-en-cucuta-vamos-a-perseguir-con-mano-de-hierro-3582589",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-01T07:27:37-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -61,38 +117,6 @@
       "pubDate": "2026-08-31T23:45:04-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Caracol Televisión termina programa de Camila Zuluaga en Blu Radio",
-      "link": "https://www.lasillavacia.com/en-vivo/caracol-television-termina-programa-de-camila-zuluaga-en-blu-radio/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 01 Sep 2026 03:56:33 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella confirma golpe a disidencias de 'Mordisco': en bombardeo fue dado de baja cabecilla en Guaviare",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirma-golpe-a-disidencias-de-mordisco-en-bombardeo-fue-dado-de-baja-cabecilla-de-la-estructura-en-guaviare-3582556",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-31T21:07:09-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Anuncios clave de la alocución del presidente Abelardo De La Espriella: incendios forestales, reconstrucción tras terremoto, subsidios y 'paz total'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/anuncios-clave-de-la-alocucion-del-presidente-abelardo-de-la-espriella-incendios-forestales-reconstruccion-tras-terremoto-subsidios-y-paz-total-3582474",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-31T17:26:48-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda hace llamado a la calma en el Pacto: 'No permitamos que las ambiciones personales, los intereses particulares y egoístas nos desvíen'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-hace-llamado-a-la-calma-en-el-pacto-no-permitamos-que-las-ambiciones-personales-los-intereses-particulares-y-egoistas-nos-desvien-3582490",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-31T16:11:07-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
