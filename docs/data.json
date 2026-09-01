@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T16:19:03.789Z",
+  "updatedAt": "2026-09-01T20:48:14.664Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 8,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 4,
+      "finalScore": 3,
       "momentum": {
-        "value": 0,
+        "value": -25,
         "direction": "flat"
       },
-      "probability": 5.1
+      "probability": 3.8
     },
     {
       "id": "abelardo_espriella",
@@ -42,31 +42,15 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 94.9
+      "probability": 96.2
     }
   ],
   "articles": [
     {
-      "title": "El CNE tomó decisión definitiva sobre presuntas irregularidades en la financiación de la campaña de Iván Cepeda",
-      "link": "https://www.infobae.com/colombia/2026/09/01/el-cne-tomo-decision-definitiva-sobre-presuntas-irregularidades-en-la-financiacion-de-la-campana-de-ivan-cepeda/",
-      "source": "Infobae",
-      "pubDate": "Tue, 01 Sep 2026 16:15:34 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Presidencia impugnó tutela que le ordenó a Abelardo de la Espriella ofrecer disculpas por vulnerar la “neutralidad religiosa”: “Vulneró el principio de separación de poderes”",
-      "link": "https://www.infobae.com/colombia/2026/09/01/presidencia-impugno-tutela-que-le-ordeno-a-abelardo-de-la-espriella-ofrecer-disculpas-por-vulnerar-la-neutralidad-religiosa-vulnero-el-principio-de-separacion-de-poderes/",
-      "source": "Infobae",
-      "pubDate": "Tue, 01 Sep 2026 16:05:24 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidencia de Abelardo de la Espriella habría definido su relación con los medios: sin ruedas de prensa y entrevistas solo con los ‘amigos’",
-      "link": "https://www.infobae.com/colombia/2026/09/01/presidencia-de-abelardo-de-la-espriella-habria-definido-su-relacion-con-los-medios-sin-ruedas-de-prensa-y-entrevistas-solo-con-los-amigos/",
-      "source": "Infobae",
-      "pubDate": "Tue, 01 Sep 2026 16:04:48 +0000",
+      "title": "Presidente Abelardo De La Espriella posesionó a los nuevos magistrados del Consejo Nacional Electoral (CNE)",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-posesiono-a-los-nuevos-magistrados-del-consejo-nacional-electoral-cne-3582686",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-01T14:36:08-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -85,38 +69,6 @@
       "pubDate": "2026-09-01T10:14:23-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "CNE no investigará a Iván Cepeda por financiación de su campaña",
-      "link": "https://www.lasillavacia.com/en-vivo/cne-no-investigara-a-ivan-cepeda-por-financiacion-de-su-campana/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 01 Sep 2026 15:08:34 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella confirma golpe a disidencias de 'Mordisco': en bombardeo fue dado de baja cabecilla en Guaviare",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirma-golpe-a-disidencias-de-mordisco-en-bombardeo-fue-dado-de-baja-cabecilla-de-la-estructura-en-guaviare-3582556",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-01T07:28:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella convocó a consejo de seguridad tras atentado terrorista en Cúcuta: 'Vamos a perseguir con mano de hierro'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-convoco-a-consejo-de-seguridad-tras-atentado-terrorista-en-cucuta-vamos-a-perseguir-con-mano-de-hierro-3582589",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-01T07:27:37-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El contundente mensaje del presidente Abelardo De La Espriella a alias Iván Mordisco tras operaciones militares en el Guaviare: 'Vamos detrás de ti'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-contundente-mensaje-del-presidente-abelardo-de-la-espriella-a-alias-ivan-mordisco-tras-operaciones-militares-en-el-guaviare-vamos-detras-de-ti-3582565",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-31T23:45:04-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
