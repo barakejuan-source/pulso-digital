@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T20:48:14.664Z",
+  "updatedAt": "2026-09-01T23:53:57.437Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 3,
       "momentum": {
-        "value": -25,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 3.8
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Duro mensaje del presidente Abelardo De La Espriella tras atentado en Cúcuta: 'No vamos a permitir que ningún mandatario se alinee con los bandidos'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/duro-mensaje-del-presidente-abelardo-de-la-espriella-tras-atentado-en-cucuta-no-vamos-a-permitir-que-ningun-mandatario-se-alinee-con-los-bandidos-3582795",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-01T17:45:48-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella posesionó a los nuevos magistrados del Consejo Nacional Electoral (CNE)",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-posesiono-a-los-nuevos-magistrados-del-consejo-nacional-electoral-cne-3582686",
       "source": "El Tiempo",
@@ -61,14 +69,6 @@
       "pubDate": "Tue, 01 Sep 2026 15:45:40 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Consejo Nacional Electoral no investigará a Iván Cepeda por denuncias sobre presunta financiación irregular en la consulta del Pacto Histórico",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/consejo-nacional-electoral-no-investigara-a-ivan-cepeda-por-denuncias-sobre-presunta-financiacion-irregular-en-la-consulta-del-pacto-historico-3582646",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-01T10:14:23-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
