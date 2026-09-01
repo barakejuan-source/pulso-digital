@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T04:18:50.412Z",
+  "updatedAt": "2026-09-01T11:22:11.181Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 4,
       "momentum": {
-        "value": 100,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 5.1
@@ -47,12 +47,20 @@
   ],
   "articles": [
     {
-      "title": "Santiago Botero, excandidato presidencial conocido como “Balín”, responde a demanda en Nueva York por Finsocial y anuncia defensa",
-      "link": "https://www.infobae.com/colombia/2026/09/01/santiago-botero-excandidato-presidencial-conocido-como-balin-responde-a-demanda-en-nueva-york-por-finsocial-y-anuncia-defensa/",
-      "source": "Infobae",
-      "pubDate": "Tue, 01 Sep 2026 04:12:58 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Magistrado del abelardismo en CNE está detrás del derroche de testigos electorales  ",
+      "link": "https://www.lasillavacia.com/silla-nacional/magistrado-del-abelardismo-en-cne-esta-detras-del-derroche-de-testigos-electorales/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 01 Sep 2026 06:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El contundente mensaje del presidente Abelardo De La Espriella a alias Iván Mordisco tras operaciones militares en el Guaviare: 'Vamos detrás de ti'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-contundente-mensaje-del-presidente-abelardo-de-la-espriella-a-alias-ivan-mordisco-tras-operaciones-militares-en-el-guaviare-vamos-detras-de-ti-3582565",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-31T23:45:04-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Caracol Televisión termina programa de Camila Zuluaga en Blu Radio",
@@ -85,14 +93,6 @@
       "pubDate": "2026-08-31T16:11:07-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Alianza Verde decidirá esta semana si es partido de opositor o independiente al gobierno de Abelardo De La Espriella: las cuentas están reñidas",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/alianza-verde-decidira-esta-semana-si-es-partido-de-opositor-o-independiente-al-gobierno-de-abelardo-de-la-espriella-las-cuentas-estan-renidas-3582476",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-31T15:31:11-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
