@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T22:39:56.129Z",
+  "updatedAt": "2026-09-01T04:18:50.412Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 9,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 2,
+      "finalScore": 4,
       "momentum": {
         "value": 100,
         "direction": "flat"
       },
-      "probability": 2.6
+      "probability": 5.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,39 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 97.4
+      "probability": 94.9
     }
   ],
   "articles": [
     {
-      "title": "Presupuesto de 2027 confirma problemas económicos que le dejó el Gobierno Petro a Abelardo de la Espriella: “Implicó mayor deuda”",
-      "link": "https://www.infobae.com/colombia/2026/08/31/presupuesto-de-2027-confirma-problemas-economicos-que-le-dejo-el-gobierno-petro-a-abelardo-de-la-espriella-implico-mayor-deuda/",
+      "title": "Santiago Botero, excandidato presidencial conocido como “Balín”, responde a demanda en Nueva York por Finsocial y anuncia defensa",
+      "link": "https://www.infobae.com/colombia/2026/09/01/santiago-botero-excandidato-presidencial-conocido-como-balin-responde-a-demanda-en-nueva-york-por-finsocial-y-anuncia-defensa/",
       "source": "Infobae",
-      "pubDate": "Mon, 31 Aug 2026 21:48:29 +0000",
+      "pubDate": "Tue, 01 Sep 2026 04:12:58 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Caracol Televisión termina programa de Camila Zuluaga en Blu Radio",
+      "link": "https://www.lasillavacia.com/en-vivo/caracol-television-termina-programa-de-camila-zuluaga-en-blu-radio/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 01 Sep 2026 03:56:33 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella confirma golpe a disidencias de 'Mordisco': en bombardeo fue dado de baja cabecilla en Guaviare",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirma-golpe-a-disidencias-de-mordisco-en-bombardeo-fue-dado-de-baja-cabecilla-de-la-estructura-en-guaviare-3582556",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-31T21:07:09-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Anuncios clave de la alocución del presidente Abelardo De La Espriella: incendios forestales, reconstrucción tras terremoto, subsidios y 'paz total'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/anuncios-clave-de-la-alocucion-del-presidente-abelardo-de-la-espriella-incendios-forestales-reconstruccion-tras-terremoto-subsidios-y-paz-total-3582474",
+      "source": "El Tiempo",
+      "pubDate": "2026-08-31T17:26:48-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,22 +91,6 @@
       "link": "https://www.eltiempo.com/politica/partidos-politicos/alianza-verde-decidira-esta-semana-si-es-partido-de-opositor-o-independiente-al-gobierno-de-abelardo-de-la-espriella-las-cuentas-estan-renidas-3582476",
       "source": "El Tiempo",
       "pubDate": "2026-08-31T15:31:11-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Carolina Gómez confirma que ya no será vocera e iría a otro cargo en el gobierno de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/carolina-gomez-confirma-que-ya-no-sera-vocera-e-iria-a-otro-cargo-en-el-gobierno-de-abelardo-de-la-espriella-3582433",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-31T13:55:54-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así avanza el gobierno de Abelardo De La Espriella con el desmonte de la ‘paz total’: ¿qué mesas faltan por cerrar?",
-      "link": "https://www.eltiempo.com/politica/proceso-de-paz/asi-avanza-el-gobierno-de-abelardo-de-la-espriella-con-el-desmonte-de-la-paz-total-que-mesas-faltan-por-cerrar-3582419",
-      "source": "El Tiempo",
-      "pubDate": "2026-08-31T12:27:45-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
