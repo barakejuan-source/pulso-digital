@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-02T03:40:34.073Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-09-02T08:36:06.709Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 8,
+      "trendsScore": 11,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 3,
+      "finalScore": 4,
       "momentum": {
-        "value": 0,
+        "value": 33.3,
         "direction": "flat"
       },
-      "probability": 3.8
+      "probability": 5.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,26 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 96.2
+      "probability": 94.9
     }
   ],
   "articles": [
+    {
+      "title": "Abelardo de la Espriella reportó golpe al Clan del Golfo en Antioquia: 2 capturados y un menor recuperado",
+      "link": "https://www.infobae.com/colombia/2026/09/02/abelardo-de-la-espriella-reporto-golpe-al-clan-del-golfo-en-antioquia-2-capturados-y-un-menor-recuperado/",
+      "source": "Infobae",
+      "pubDate": "Wed, 02 Sep 2026 08:22:27 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella afirmó que el Ejército Nacional frustró un posible atentado del Eln en Cúcuta: 'Los vamos a perseguir y combatir'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-afirmo-que-el-ejercito-nacional-frustro-un-posible-atentado-del-eln-en-cucuta-los-vamos-a-perseguir-y-combatir-3582862",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-02T02:12:33-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Miller Soto debutó como vocero del gobierno de Abelardo De La Espriella: habló del niño Lucas, reforma al Código de Tránsito y reestructurar el Estado",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/miller-soto-debuto-como-vocero-del-gobierno-de-abelardo-de-la-espriella-hablo-del-caso-del-nino-lucas-y-de-reforma-del-codigo-nacional-de-transito-3582853",
