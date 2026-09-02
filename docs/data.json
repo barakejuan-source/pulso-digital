@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T14:13:07.957Z",
+  "updatedAt": "2026-09-02T19:18:53.842Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -21,7 +21,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 5.1
+      "probability": 5.3
     },
     {
       "id": "abelardo_espriella",
@@ -30,51 +30,43 @@
       "color": "#1D3557",
       "trendsScore": 100,
       "youtubeScore": 100,
-      "sentimentScore": 18,
+      "sentimentScore": 8,
       "sentimentPct": {
-        "positive": 18,
-        "negative": 56,
-        "neutral": 26
+        "positive": 8,
+        "negative": 70,
+        "neutral": 22
       },
-      "youtubeViews": 107161,
-      "finalScore": 75,
+      "youtubeViews": 206263,
+      "finalScore": 72,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -4,
+        "direction": "down"
       },
-      "probability": 94.9
+      "probability": 94.7
     }
   ],
   "articles": [
     {
-      "title": "Ana Cristina Restrepo aseguró que su programa en Blu Radio fue cancelado por presión del Gobierno de Abelardo de la Espriella: “Le incomodaba”",
-      "link": "https://www.infobae.com/colombia/2026/09/02/ana-cristina-restrepo-aseguro-que-su-programa-en-blu-radio-fue-cancelado-por-presion-del-gobierno-de-abelardo-de-la-espriella-le-incomodaba/",
-      "source": "Infobae",
-      "pubDate": "Wed, 02 Sep 2026 13:56:39 +0000",
+      "title": "Papa León XIV y presidente Abelardo De La Espriella hablaron por teléfono en la mañana del miércoles: terremoto fue uno de los temas",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/papa-leon-xiv-y-presidente-abelardo-de-la-espriella-hablaron-por-telefono-en-la-manana-del-miercoles-terremoto-fue-uno-de-los-temas-3582982",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-02T11:53:35-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gabriela Muñoz respondió a cuenta de seguidores de Abelardo de la Espriella que afirmó que juntarse con Petro es perjudicial: “Lecciones de moral”",
-      "link": "https://www.infobae.com/colombia/2026/09/02/gabriela-munoz-respondio-a-cuenta-de-seguidores-de-abelardo-de-la-espriella-que-afirmo-que-juntarse-con-petro-es-perjudicial-lecciones-de-moral/",
-      "source": "Infobae",
-      "pubDate": "Wed, 02 Sep 2026 13:49:27 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Terremoto: Senado invita a Nubia Córdoba a exponer situación del Chocó",
+      "link": "https://www.lasillavacia.com/en-vivo/terremoto-senado-invita-a-nubia-cordoba-a-exponer-situacion-del-choco/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 02 Sep 2026 15:41:03 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Presidente Abelardo De La Espriella anuncia 18 capturas y 7 sometimientos contra el Clan del Golfo",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-18-capturas-y-7-sometimientos-contra-el-clan-del-golfo-3582905",
       "source": "El Tiempo",
       "pubDate": "2026-09-02T08:35:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los palacios de Abelardo",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/los-palacios-de-abelardo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 02 Sep 2026 12:37:28 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -99,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/miller-soto-debuto-como-vocero-del-gobierno-de-abelardo-de-la-espriella-hablo-del-caso-del-nino-lucas-y-de-reforma-del-codigo-nacional-de-transito-3582853",
       "source": "El Tiempo",
       "pubDate": "2026-09-01T22:12:06-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Duro mensaje del presidente Abelardo De La Espriella tras atentado en Cúcuta: 'No vamos a permitir que ningún mandatario se alinee con los bandidos'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/duro-mensaje-del-presidente-abelardo-de-la-espriella-tras-atentado-en-cucuta-no-vamos-a-permitir-que-ningun-mandatario-se-alinee-con-los-bandidos-3582795",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-01T17:45:48-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
