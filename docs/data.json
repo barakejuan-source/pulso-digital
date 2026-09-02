@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T08:36:06.709Z",
+  "updatedAt": "2026-09-02T14:13:07.957Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 11,
+      "trendsScore": 10,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 4,
       "momentum": {
-        "value": 33.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 5.1
@@ -47,10 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella reportó golpe al Clan del Golfo en Antioquia: 2 capturados y un menor recuperado",
-      "link": "https://www.infobae.com/colombia/2026/09/02/abelardo-de-la-espriella-reporto-golpe-al-clan-del-golfo-en-antioquia-2-capturados-y-un-menor-recuperado/",
+      "title": "Ana Cristina Restrepo aseguró que su programa en Blu Radio fue cancelado por presión del Gobierno de Abelardo de la Espriella: “Le incomodaba”",
+      "link": "https://www.infobae.com/colombia/2026/09/02/ana-cristina-restrepo-aseguro-que-su-programa-en-blu-radio-fue-cancelado-por-presion-del-gobierno-de-abelardo-de-la-espriella-le-incomodaba/",
       "source": "Infobae",
-      "pubDate": "Wed, 02 Sep 2026 08:22:27 +0000",
+      "pubDate": "Wed, 02 Sep 2026 13:56:39 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gabriela Muñoz respondió a cuenta de seguidores de Abelardo de la Espriella que afirmó que juntarse con Petro es perjudicial: “Lecciones de moral”",
+      "link": "https://www.infobae.com/colombia/2026/09/02/gabriela-munoz-respondio-a-cuenta-de-seguidores-de-abelardo-de-la-espriella-que-afirmo-que-juntarse-con-petro-es-perjudicial-lecciones-de-moral/",
+      "source": "Infobae",
+      "pubDate": "Wed, 02 Sep 2026 13:49:27 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella anuncia 18 capturas y 7 sometimientos contra el Clan del Golfo",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-18-capturas-y-7-sometimientos-contra-el-clan-del-golfo-3582905",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-02T08:35:50-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Los palacios de Abelardo",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/los-palacios-de-abelardo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 02 Sep 2026 12:37:28 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Fuerte cruce de mensajes entre Miguel Polo Polo y María Fernanda Cabal; exaliados chocan: 'Al final tuve razón. Abelardo era el único candidato capaz'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/fuerte-cruce-de-mensajes-entre-miguel-polo-polo-y-maria-fernanda-cabal-exaliados-chocan-al-final-tuve-razon-abelardo-era-el-unico-candidato-capaz-3582869",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-02T06:19:51-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
