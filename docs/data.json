@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T19:18:53.842Z",
+  "updatedAt": "2026-09-02T22:28:40.086Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -39,58 +39,42 @@
       "youtubeViews": 206263,
       "finalScore": 72,
       "momentum": {
-        "value": -4,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 94.7
     }
   ],
   "articles": [
     {
+      "title": "Extorsiones, ocupaciones ilegales, amenazas y hasta trabajos forzados: así es el dominio en el Caquetá de las disidencias de Calarcá que están en la mira de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/09/02/extorsiones-ocupasiones-ilegales-amenazas-y-hasta-trabajos-forzados-asi-es-el-dominio-en-el-caqueta-de-las-disidencias-de-calarca-que-estan-en-la-mira-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Wed, 02 Sep 2026 21:00:21 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "“Hay sectores del uribismo empeñados en atacar al presidente”: Simón Molina",
+      "link": "https://www.lasillavacia.com/silla-nacional/hay-sectores-del-uribismo-empenados-en-atacar-al-presidente-simon-molina/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 02 Sep 2026 20:55:47 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "'La U' se declara oficialmente como partido de gobierno tras reunión conjunta de sus bancadas de Senado y Cámara",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/la-u-se-declara-oficialmente-como-partido-de-gobierno-tras-reunion-conjunta-de-sus-bancadas-de-senado-y-camara-3583040",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-02T14:48:52-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Papa León XIV y presidente Abelardo De La Espriella hablaron por teléfono en la mañana del miércoles: terremoto fue uno de los temas",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/papa-leon-xiv-y-presidente-abelardo-de-la-espriella-hablaron-por-telefono-en-la-manana-del-miercoles-terremoto-fue-uno-de-los-temas-3582982",
       "source": "El Tiempo",
       "pubDate": "2026-09-02T11:53:35-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Terremoto: Senado invita a Nubia Córdoba a exponer situación del Chocó",
-      "link": "https://www.lasillavacia.com/en-vivo/terremoto-senado-invita-a-nubia-cordoba-a-exponer-situacion-del-choco/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 02 Sep 2026 15:41:03 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anuncia 18 capturas y 7 sometimientos contra el Clan del Golfo",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-18-capturas-y-7-sometimientos-contra-el-clan-del-golfo-3582905",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-02T08:35:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Fuerte cruce de mensajes entre Miguel Polo Polo y María Fernanda Cabal; exaliados chocan: 'Al final tuve razón. Abelardo era el único candidato capaz'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/fuerte-cruce-de-mensajes-entre-miguel-polo-polo-y-maria-fernanda-cabal-exaliados-chocan-al-final-tuve-razon-abelardo-era-el-unico-candidato-capaz-3582869",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-02T06:19:51-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella afirmó que el Ejército Nacional frustró un posible atentado del Eln en Cúcuta: 'Los vamos a perseguir y combatir'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-afirmo-que-el-ejercito-nacional-frustro-un-posible-atentado-del-eln-en-cucuta-los-vamos-a-perseguir-y-combatir-3582862",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-02T02:12:33-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Miller Soto debutó como vocero del gobierno de Abelardo De La Espriella: habló del niño Lucas, reforma al Código de Tránsito y reestructurar el Estado",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/miller-soto-debuto-como-vocero-del-gobierno-de-abelardo-de-la-espriella-hablo-del-caso-del-nino-lucas-y-de-reforma-del-codigo-nacional-de-transito-3582853",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-01T22:12:06-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
