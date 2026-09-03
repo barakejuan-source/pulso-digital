@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-02T22:28:40.086Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-09-03T03:40:07.996Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,12 +47,12 @@
   ],
   "articles": [
     {
-      "title": "Extorsiones, ocupaciones ilegales, amenazas y hasta trabajos forzados: así es el dominio en el Caquetá de las disidencias de Calarcá que están en la mira de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/09/02/extorsiones-ocupasiones-ilegales-amenazas-y-hasta-trabajos-forzados-asi-es-el-dominio-en-el-caqueta-de-las-disidencias-de-calarca-que-estan-en-la-mira-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Wed, 02 Sep 2026 21:00:21 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Encuesta indica que Lula lidera en Brasil, aunque hay empate técnico en eventual segunda vuelta",
+      "link": "https://www.france24.com/es/video/20260903-encuesta-indica-que-lula-lidera-en-brasil-aunque-hay-empate-t%C3%A9cnico-en-eventual-segunda-vuelta",
+      "source": "France 24",
+      "pubDate": "Thu, 03 Sep 2026 01:56:25 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "“Hay sectores del uribismo empeñados en atacar al presidente”: Simón Molina",
@@ -67,14 +67,6 @@
       "link": "https://www.eltiempo.com/politica/partidos-politicos/la-u-se-declara-oficialmente-como-partido-de-gobierno-tras-reunion-conjunta-de-sus-bancadas-de-senado-y-camara-3583040",
       "source": "El Tiempo",
       "pubDate": "2026-09-02T14:48:52-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Papa León XIV y presidente Abelardo De La Espriella hablaron por teléfono en la mañana del miércoles: terremoto fue uno de los temas",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/papa-leon-xiv-y-presidente-abelardo-de-la-espriella-hablaron-por-telefono-en-la-manana-del-miercoles-terremoto-fue-uno-de-los-temas-3582982",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-02T11:53:35-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
