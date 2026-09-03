@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T14:16:14.447Z",
+  "updatedAt": "2026-09-03T19:12:41.656Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,44 +47,76 @@
   ],
   "articles": [
     {
-      "title": "Políticos cuestionaron a Abelardo de la Espriella por la forma como presentaron los cuerpos de los terroristas muertos en bombardeo contra las disidencias: “Siguen teniendo dignidad” ",
-      "link": "https://www.infobae.com/colombia/2026/09/03/politicos-cuestionaron-a-abelardo-de-la-espriella-por-caminar-sobre-cadaveres-tras-bombardeo-a-las-disidencias-siguen-teniendo-dignidad/",
+      "title": "Estos fueron algunos de los principales aportantes a la campaña de Abelardo de la Espriella en segunda vuelta: varios terminaron con cargos en el Gobierno",
+      "link": "https://www.infobae.com/colombia/2026/09/03/estos-fueron-algunos-de-los-principales-aportantes-a-la-campana-de-abelardo-de-la-espriella-en-segunda-vuelta-varios-terminaron-con-cargos-en-el-gobierno/",
       "source": "Infobae",
-      "pubDate": "Thu, 03 Sep 2026 14:11:11 +0000",
+      "pubDate": "Thu, 03 Sep 2026 19:04:04 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella anunció nuevos equipos de seguridad para cárcel a la que trasladaron peligrosos criminales: “Vamos a cerrarles todos los espacios”",
-      "link": "https://www.infobae.com/colombia/2026/09/03/abelardo-de-la-espriella-anuncio-nuevos-equipos-de-seguridad-para-carcel-a-la-que-trasladaron-peligrosos-criminales-vamos-a-cerrarles-todos-los-espacios/",
+      "title": "Gustavo Petro tuvo incómodo momento con seguidor de Abelardo de la Espriella durante su vuelo a México: “Estamos firmes por la patria” ",
+      "link": "https://www.infobae.com/colombia/2026/09/03/gustavo-petro-tuvo-incomodo-momento-con-seguidor-de-abelardo-de-la-espriella-durante-su-vuelo-a-mexico-estamos-firmes-por-la-patria/",
       "source": "Infobae",
-      "pubDate": "Thu, 03 Sep 2026 14:04:16 +0000",
+      "pubDate": "Thu, 03 Sep 2026 18:58:42 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Influenciador, dueño de medios y aliado: Javier Negre, el parlante de la derecha",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/influenciador-dueno-de-medios-y-aliado-javier-negre-el-parlante-de-la-derecha/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 03 Sep 2026 12:31:54 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desayune informado con las movidas de este 3 de septiembre de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-3-de-septiembre-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 03 Sep 2026 12:30:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Encuesta indica que Lula lidera en Brasil, aunque hay empate técnico en eventual segunda vuelta",
-      "link": "https://www.france24.com/es/video/20260903-encuesta-indica-que-lula-lidera-en-brasil-aunque-hay-empate-t%C3%A9cnico-en-eventual-segunda-vuelta",
+      "title": "Directo Latam y el cambio de la ministra de Educación de Colombia y el fin de las mesas de diálogo",
+      "link": "https://www.france24.com/es/video/20260903-directo-latam-y-el-cambio-de-la-ministra-de-educaci%C3%B3n-de-colombia-y-el-fin-de-las-mesas-de-di%C3%A1logo",
       "source": "France 24",
-      "pubDate": "Thu, 03 Sep 2026 01:56:25 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Thu, 03 Sep 2026 18:56:33 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo de la Espriella actualizó las directrices para su relación con los medios: entrevistas con los ministros deberán ser autorizadas por Presidencia",
+      "link": "https://www.infobae.com/colombia/2026/09/03/gobierno-de-abelardo-de-la-espriella-actualizo-las-directrices-para-su-relacion-con-los-medios-entrevistas-con-los-ministros-deberan-ser-autorizadas-por-presidencia/",
+      "source": "Infobae",
+      "pubDate": "Thu, 03 Sep 2026 18:55:41 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Motín en la cárcel El Bosque de Barranquilla por operativo del Inpec: habría varios heridos",
+      "link": "https://www.infobae.com/colombia/2026/09/03/motin-en-la-carcel-el-bosque-de-barranquilla-por-operativo-del-inpec-hay-varios-heridos/",
+      "source": "Infobae",
+      "pubDate": "Thu, 03 Sep 2026 18:33:54 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Partido Alianza Verde se declara en independencia frente al gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/partido-alianza-verde-se-declara-en-independencia-frente-al-gobierno-de-abelardo-de-la-espriella-3583323",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-03T13:00:40-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿A qué le apuesta el Gobierno de Abelardo De La Espriella con su política de comunicaciones y relacionamiento con la prensa?",
+      "link": "https://www.eltiempo.com/politica/gobierno/esta-es-la-politica-de-comunicaciones-del-gobierno-entrevistas-con-autorizacion-previa-de-presidencia-y-limites-en-el-uso-de-cuentas-personales-3583309",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-03T12:58:27-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Esta es la directiva presidencial que define lineamientos de comunicación del Gobierno de Abelardo De La Espriella y atención a medios y prensa",
+      "link": "https://www.eltiempo.com/politica/gobierno/esta-es-la-directiva-presidencial-que-define-lineamientos-de-comunicacion-del-gobierno-y-atencion-a-medios-de-comunicacion-3583293",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-03T11:21:14-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Este es Miguel Gómez Martínez",
+      "link": "https://www.lasillavacia.com/quien-es-quien/miguel-gomez-martinez/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 03 Sep 2026 15:44:33 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     }
   ]
 }
