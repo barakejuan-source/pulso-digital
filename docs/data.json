@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T18:55:46.645Z",
+  "updatedAt": "2026-09-04T22:15:06.267Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Colombianos tendrán que pagar más impuestos para cubrir el déficit fiscal durante el gobierno de Abelardo de la Espriella, advirtió la codirectora del Banco de la República",
-      "link": "https://www.infobae.com/colombia/2026/09/04/colombianos-tendran-que-pagar-mas-impuestos-para-cubrir-el-deficit-fiscal-durante-el-gobierno-de-abelardo-de-la-espriella-advirtio-la-codirectora-del-banco-de-la-republica/",
-      "source": "Infobae",
-      "pubDate": "Fri, 04 Sep 2026 18:40:09 +0000",
+      "title": "Guerra abierta en el Supremo de Brasil: la crisis judicial estalla a un mes de las elecciones",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260904-guerra-abierta-en-el-supremo-de-brasil-la-crisis-judicial-estalla-a-un-mes-de-las-elecciones",
+      "source": "France 24",
+      "pubDate": "Fri, 04 Sep 2026 21:43:55 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Las movidas detrás de la declaratoria de la Alianza Verde como partido independiente al gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/las-movidas-detras-de-la-declaratoria-de-la-alianza-verde-como-partido-independiente-al-gobierno-de-abelardo-de-la-espriella-3583710",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-04T16:36:43-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "¿De la Espriella busca limitar la liberta de prensa en Colombia?",
-      "link": "https://www.france24.com/es/video/20260904-de-la-espriella-busca-limitar-la-liberta-de-prensa-en-colombia",
+      "title": "¿Abelardo de la Espriella busca limitar la libertad de prensa en Colombia?",
+      "link": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260904-abelardo-de-la-espriella-busca-limitar-la-libertad-de-prensa-en-colombia",
       "source": "France 24",
-      "pubDate": "Fri, 04 Sep 2026 18:20:08 GMT",
+      "pubDate": "Fri, 04 Sep 2026 19:02:39 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -115,14 +123,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/estos-son-todos-los-golpes-contra-cabecillas-de-grupos-armados-que-ha-dado-el-gobierno-de-abelardo-de-la-espriella-desde-el-inicio-de-su-mandato-3583511",
       "source": "El Tiempo",
       "pubDate": "2026-09-04T07:35:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella se reunió con los embajadores Mauricio Gaona y María Consuelo Araújo: 'Abrir puertas y atraer inversión'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-reunio-con-los-embajadores-mauricio-gaona-y-maria-consuelo-araujo-abrir-puertas-y-atraer-inversion-3583483",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-03T23:05:24-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
