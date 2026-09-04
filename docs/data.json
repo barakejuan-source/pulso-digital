@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T03:46:57.384Z",
+  "updatedAt": "2026-09-04T08:40:33.459Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 11,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,6 +47,22 @@
   ],
   "articles": [
     {
+      "title": "De Euclides a Colpatria: los poderes que toca la reforma al tránsito de Abelardo",
+      "link": "https://www.lasillavacia.com/silla-nacional/de-euclides-a-colpatria-los-poderes-que-toca-la-reforma-al-transito-de-abelardo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 04 Sep 2026 06:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella se reunió con los embajadores Mauricio Gaona y María Consuelo Araújo: 'Abrir puertas y atraer inversión'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-reunio-con-los-embajadores-mauricio-gaona-y-maria-consuelo-araujo-abrir-puertas-y-atraer-inversion-3583483",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-03T23:05:24-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Cambio Radical se declara oficialmente partido de Gobierno del presidente Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/cambio-radical-se-declara-oficialmente-partido-de-gobierno-bajo-la-administracion-del-presidente-abelardo-de-la-espriella-3583444",
       "source": "El Tiempo",
@@ -67,14 +83,6 @@
       "link": "https://www.eltiempo.com/politica/partidos-politicos/partido-alianza-verde-se-declara-en-independencia-frente-al-gobierno-de-abelardo-de-la-espriella-3583323",
       "source": "El Tiempo",
       "pubDate": "2026-09-03T14:11:01-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿A qué le apuesta el Gobierno de Abelardo De La Espriella con su política de comunicaciones y relacionamiento con la prensa?",
-      "link": "https://www.eltiempo.com/politica/gobierno/esta-es-la-politica-de-comunicaciones-del-gobierno-entrevistas-con-autorizacion-previa-de-presidencia-y-limites-en-el-uso-de-cuentas-personales-3583309",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-03T12:58:27-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
