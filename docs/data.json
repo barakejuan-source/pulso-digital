@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T14:06:54.063Z",
+  "updatedAt": "2026-09-04T18:55:46.645Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 10,
+      "trendsScore": 11,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,18 +47,50 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella dio detalles de la muerte de ‘Bendito Menor’ en La Guajira: “Hoy ha llegado el fin”",
-      "link": "https://www.infobae.com/colombia/2026/09/04/abelardo-de-la-espriella-dio-detalles-de-la-muerte-de-bendito-menor-en-la-guajira-hoy-ha-llegado-el-fin/",
+      "title": "Colombianos tendrán que pagar más impuestos para cubrir el déficit fiscal durante el gobierno de Abelardo de la Espriella, advirtió la codirectora del Banco de la República",
+      "link": "https://www.infobae.com/colombia/2026/09/04/colombianos-tendran-que-pagar-mas-impuestos-para-cubrir-el-deficit-fiscal-durante-el-gobierno-de-abelardo-de-la-espriella-advirtio-la-codirectora-del-banco-de-la-republica/",
       "source": "Infobae",
-      "pubDate": "Fri, 04 Sep 2026 14:00:43 +0000",
+      "pubDate": "Fri, 04 Sep 2026 18:40:09 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "'Se dio de baja a uno de los más peligrosos delincuentes': presidente Abelardo De La Espriella tras abatimiento de 'Bendito Menor'",
+      "title": "¿De la Espriella busca limitar la liberta de prensa en Colombia?",
+      "link": "https://www.france24.com/es/video/20260904-de-la-espriella-busca-limitar-la-liberta-de-prensa-en-colombia",
+      "source": "France 24",
+      "pubDate": "Fri, 04 Sep 2026 18:20:08 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Rubio desembarca en los Andes: la apuesta de Trump por consolidar un bloque de aliados en América Latina",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260904-rubio-desembarca-en-los-andes-la-apuesta-de-trump-por-consolidar-un-bloque-de-aliados-en-am%C3%A9rica-latina",
+      "source": "France 24",
+      "pubDate": "Fri, 04 Sep 2026 17:53:18 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Mandatarios locales y congresistas reaccionan a muerte de alias Bendito Menor en Riohacha: 'respaldamos este resultado'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/mandatarios-locales-y-congresistas-reaccionan-a-abatimiento-de-alias-bendito-menor-en-riohacha-respaldamos-este-resultado-3583558",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-04T10:55:53-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella y su contundente frase tras la muerte de 'Bendito Menor': 'Este miserable ahora está a buen recaudo del infierno'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-y-su-contundente-frase-tras-la-muerte-de-bendito-menor-este-miserable-ahora-esta-a-buen-recaudo-del-infierno-3583557",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-04T10:51:14-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella confirma muerte de 'Bendito Menor' en Riohacha: 'se dio de baja a uno de los más peligrosos delincuentes'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/se-dio-de-baja-a-uno-de-los-mas-peligrosos-delincuentes-presidente-abelardo-de-la-espriella-tras-abatimiento-de-bendito-menor-3583538",
       "source": "El Tiempo",
-      "pubDate": "2026-09-04T08:47:13-05:00",
+      "pubDate": "2026-09-04T09:50:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,7 +98,7 @@
       "title": "Sigue el desmonte de la 'paz total': Gobierno acabó los diálogos con Comuneros del Sur y las bandas de Medellín",
       "link": "https://www.eltiempo.com/politica/proceso-de-paz/sigue-el-desmonte-de-la-paz-total-gobierno-acabo-los-dialogos-con-comuneros-del-sur-y-las-bandas-de-medellin-3583525",
       "source": "El Tiempo",
-      "pubDate": "2026-09-04T08:31:27-05:00",
+      "pubDate": "2026-09-04T09:28:28-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -79,14 +111,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Desayune informado con las movidas de este 4 de septiembre de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-4-de-septiembre-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 04 Sep 2026 12:36:47 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Estos son todos los golpes contra cabecillas de grupos armados que ha dado el Gobierno de Abelardo De La Espriella desde el inicio de su mandato",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/estos-son-todos-los-golpes-contra-cabecillas-de-grupos-armados-que-ha-dado-el-gobierno-de-abelardo-de-la-espriella-desde-el-inicio-de-su-mandato-3583511",
       "source": "El Tiempo",
@@ -95,34 +119,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "De Euclides a Colpatria: los poderes que toca la reforma al tránsito de Abelardo",
-      "link": "https://www.lasillavacia.com/silla-nacional/de-euclides-a-colpatria-los-poderes-que-toca-la-reforma-al-transito-de-abelardo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 04 Sep 2026 06:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Presidente Abelardo De La Espriella se reunió con los embajadores Mauricio Gaona y María Consuelo Araújo: 'Abrir puertas y atraer inversión'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-reunio-con-los-embajadores-mauricio-gaona-y-maria-consuelo-araujo-abrir-puertas-y-atraer-inversion-3583483",
       "source": "El Tiempo",
       "pubDate": "2026-09-03T23:05:24-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cambio Radical se declara oficialmente partido de Gobierno del presidente Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/cambio-radical-se-declara-oficialmente-partido-de-gobierno-bajo-la-administracion-del-presidente-abelardo-de-la-espriella-3583444",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-03T18:56:03-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La Justicia colombiana ordena a De la Espriella no bombardear objetivos donde se presuma que hay menores",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260903-la-justicia-colombiana-ordena-a-de-la-espriella-no-bombardear-objetivos-donde-se-presuma-que-hay-menores",
-      "source": "France 24",
-      "pubDate": "Thu, 03 Sep 2026 21:37:26 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
