@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T03:40:19.394Z",
+  "updatedAt": "2026-09-05T08:13:15.766Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 10,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -46,30 +46,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Armada incautó casi cuatro toneladas de marihuana en dos operativos fluviales en Amazonas: los paquetes tenían la imagen de Pablo Escobar  ",
-      "link": "https://www.infobae.com/colombia/2026/09/05/armada-incauto-casi-cuatro-toneladas-de-marihuana-en-dos-operativos-fluviales-en-amazonas-los-paquetes-tenian-la-imagen-de-pablo-escobar/",
-      "source": "Infobae",
-      "pubDate": "Sat, 05 Sep 2026 02:48:59 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella anunció que liquidará las EPS “que no sean viables” para corregir “el desastre que dejó el régimen”",
-      "link": "https://www.infobae.com/colombia/2026/09/05/abelardo-de-la-espriella-anuncio-que-liquidara-las-eps-que-no-sean-viables-para-corregir-el-desastre-que-dejo-el-regimen/",
-      "source": "Infobae",
-      "pubDate": "Sat, 05 Sep 2026 02:35:12 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El Gobierno impulsará una reforma al Sistema General de Regalías para financiar obras regionales de gran escala en Colombia",
-      "link": "https://www.infobae.com/colombia/2026/09/05/el-gobierno-impulsara-una-reforma-al-sistema-general-de-regalias-para-financiar-obras-regionales-de-gran-escala-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Sat, 05 Sep 2026 02:26:21 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
     {
       "title": "Los gobernadores y el presidente Abelardo De La Espriella se reunieron en Mompox: seguridad y descentralización, los principales temas",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-gobernadores-y-el-presidente-abelardo-de-la-espriella-se-reunieron-en-mompox-seguridad-y-descentralizacion-los-principales-temas-3583755",
@@ -123,14 +99,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/se-dio-de-baja-a-uno-de-los-mas-peligrosos-delincuentes-presidente-abelardo-de-la-espriella-tras-abatimiento-de-bendito-menor-3583538",
       "source": "El Tiempo",
       "pubDate": "2026-09-04T09:50:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Sigue el desmonte de la 'paz total': Gobierno acabó los diálogos con Comuneros del Sur y las bandas de Medellín",
-      "link": "https://www.eltiempo.com/politica/proceso-de-paz/sigue-el-desmonte-de-la-paz-total-gobierno-acabo-los-dialogos-con-comuneros-del-sur-y-las-bandas-de-medellin-3583525",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-04T09:28:28-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
