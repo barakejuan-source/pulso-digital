@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T13:20:07.976Z",
+  "updatedAt": "2026-09-05T16:40:11.930Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Magnicidio de Miguel Uribe Turbay: Procuraduría dio a conocer los errores en el esquema de seguridad del precandidato presidencial   ",
+      "link": "https://www.infobae.com/colombia/2026/09/05/magnicidio-de-miguel-uribe-turbay-procuraduria-dio-a-conocer-los-errores-en-el-esquema-de-seguridad-del-precandidato-presidencial/",
+      "source": "Infobae",
+      "pubDate": "Sat, 05 Sep 2026 15:47:03 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "Las movidas detrás de la declaratoria de la Alianza Verde como partido independiente al gobierno de Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/las-movidas-detras-de-la-declaratoria-de-la-alianza-verde-como-partido-independiente-al-gobierno-de-abelardo-de-la-espriella-3583710",
       "source": "El Tiempo",
@@ -67,22 +75,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-gobernadores-y-el-presidente-abelardo-de-la-espriella-se-reunieron-en-mompox-seguridad-y-descentralizacion-los-principales-temas-3583755",
       "source": "El Tiempo",
       "pubDate": "2026-09-04T19:38:31-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Guerra abierta en el Supremo de Brasil: la crisis judicial estalla a un mes de las elecciones",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260904-guerra-abierta-en-el-supremo-de-brasil-la-crisis-judicial-estalla-a-un-mes-de-las-elecciones",
-      "source": "France 24",
-      "pubDate": "Fri, 04 Sep 2026 21:43:55 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Mandatarios locales y congresistas reaccionan a muerte de alias Bendito Menor en Riohacha: 'respaldamos este resultado'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/mandatarios-locales-y-congresistas-reaccionan-a-abatimiento-de-alias-bendito-menor-en-riohacha-respaldamos-este-resultado-3583558",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-04T10:55:53-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
