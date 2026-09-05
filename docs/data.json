@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T22:15:06.267Z",
+  "updatedAt": "2026-09-05T03:40:19.394Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 11,
+      "trendsScore": 9,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,6 +47,38 @@
   ],
   "articles": [
     {
+      "title": "Armada incautó casi cuatro toneladas de marihuana en dos operativos fluviales en Amazonas: los paquetes tenían la imagen de Pablo Escobar  ",
+      "link": "https://www.infobae.com/colombia/2026/09/05/armada-incauto-casi-cuatro-toneladas-de-marihuana-en-dos-operativos-fluviales-en-amazonas-los-paquetes-tenian-la-imagen-de-pablo-escobar/",
+      "source": "Infobae",
+      "pubDate": "Sat, 05 Sep 2026 02:48:59 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella anunció que liquidará las EPS “que no sean viables” para corregir “el desastre que dejó el régimen”",
+      "link": "https://www.infobae.com/colombia/2026/09/05/abelardo-de-la-espriella-anuncio-que-liquidara-las-eps-que-no-sean-viables-para-corregir-el-desastre-que-dejo-el-regimen/",
+      "source": "Infobae",
+      "pubDate": "Sat, 05 Sep 2026 02:35:12 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El Gobierno impulsará una reforma al Sistema General de Regalías para financiar obras regionales de gran escala en Colombia",
+      "link": "https://www.infobae.com/colombia/2026/09/05/el-gobierno-impulsara-una-reforma-al-sistema-general-de-regalias-para-financiar-obras-regionales-de-gran-escala-en-colombia/",
+      "source": "Infobae",
+      "pubDate": "Sat, 05 Sep 2026 02:26:21 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Los gobernadores y el presidente Abelardo De La Espriella se reunieron en Mompox: seguridad y descentralización, los principales temas",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-gobernadores-y-el-presidente-abelardo-de-la-espriella-se-reunieron-en-mompox-seguridad-y-descentralizacion-los-principales-temas-3583755",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-04T19:38:31-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Guerra abierta en el Supremo de Brasil: la crisis judicial estalla a un mes de las elecciones",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260904-guerra-abierta-en-el-supremo-de-brasil-la-crisis-judicial-estalla-a-un-mes-de-las-elecciones",
       "source": "France 24",
@@ -67,14 +99,6 @@
       "link": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260904-abelardo-de-la-espriella-busca-limitar-la-libertad-de-prensa-en-colombia",
       "source": "France 24",
       "pubDate": "Fri, 04 Sep 2026 19:02:39 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Rubio desembarca en los Andes: la apuesta de Trump por consolidar un bloque de aliados en América Latina",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260904-rubio-desembarca-en-los-andes-la-apuesta-de-trump-por-consolidar-un-bloque-de-aliados-en-am%C3%A9rica-latina",
-      "source": "France 24",
-      "pubDate": "Fri, 04 Sep 2026 17:53:18 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -107,22 +131,6 @@
       "link": "https://www.eltiempo.com/politica/proceso-de-paz/sigue-el-desmonte-de-la-paz-total-gobierno-acabo-los-dialogos-con-comuneros-del-sur-y-las-bandas-de-medellin-3583525",
       "source": "El Tiempo",
       "pubDate": "2026-09-04T09:28:28-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Embajadores ante EE.UU. y Naciones Unidas se preparan para asumir los destinos clave para la diplomacia del presidente Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/embajadores-ante-ee-uu-y-naciones-unidas-se-preparan-para-asumir-los-destinos-clave-para-la-diplomacia-del-presidente-abelardo-de-la-espriella-3583494",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-04T07:46:26-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Estos son todos los golpes contra cabecillas de grupos armados que ha dado el Gobierno de Abelardo De La Espriella desde el inicio de su mandato",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/estos-son-todos-los-golpes-contra-cabecillas-de-grupos-armados-que-ha-dado-el-gobierno-de-abelardo-de-la-espriella-desde-el-inicio-de-su-mandato-3583511",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-04T07:35:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
