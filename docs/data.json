@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T08:13:15.766Z",
+  "updatedAt": "2026-09-05T13:20:07.976Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,22 @@
   ],
   "articles": [
     {
+      "title": "Las movidas detrás de la declaratoria de la Alianza Verde como partido independiente al gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/las-movidas-detras-de-la-declaratoria-de-la-alianza-verde-como-partido-independiente-al-gobierno-de-abelardo-de-la-espriella-3583710",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-05T06:57:59-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella se pronunció tras el asesinato de dos militares durante ataque del Eln en Ocaña, Norte de Santander: 'Se van a arrepentir'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-se-pronuncio-tras-el-asesinato-de-dos-militares-durante-ataque-del-eln-en-ocana-norte-de-santander-se-van-a-arrepentir-3583796",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-05T04:12:42-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Los gobernadores y el presidente Abelardo De La Espriella se reunieron en Mompox: seguridad y descentralización, los principales temas",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-gobernadores-y-el-presidente-abelardo-de-la-espriella-se-reunieron-en-mompox-seguridad-y-descentralizacion-los-principales-temas-3583755",
       "source": "El Tiempo",
@@ -63,22 +79,6 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Las movidas detrás de la declaratoria de la Alianza Verde como partido independiente al gobierno de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/las-movidas-detras-de-la-declaratoria-de-la-alianza-verde-como-partido-independiente-al-gobierno-de-abelardo-de-la-espriella-3583710",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-04T16:36:43-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Abelardo de la Espriella busca limitar la libertad de prensa en Colombia?",
-      "link": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260904-abelardo-de-la-espriella-busca-limitar-la-libertad-de-prensa-en-colombia",
-      "source": "France 24",
-      "pubDate": "Fri, 04 Sep 2026 19:02:39 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Mandatarios locales y congresistas reaccionan a muerte de alias Bendito Menor en Riohacha: 'respaldamos este resultado'",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/mandatarios-locales-y-congresistas-reaccionan-a-abatimiento-de-alias-bendito-menor-en-riohacha-respaldamos-este-resultado-3583558",
       "source": "El Tiempo",
@@ -91,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-y-su-contundente-frase-tras-la-muerte-de-bendito-menor-este-miserable-ahora-esta-a-buen-recaudo-del-infierno-3583557",
       "source": "El Tiempo",
       "pubDate": "2026-09-04T10:51:14-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella confirma muerte de 'Bendito Menor' en Riohacha: 'se dio de baja a uno de los más peligrosos delincuentes'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/se-dio-de-baja-a-uno-de-los-mas-peligrosos-delincuentes-presidente-abelardo-de-la-espriella-tras-abatimiento-de-bendito-menor-3583538",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-04T09:50:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
