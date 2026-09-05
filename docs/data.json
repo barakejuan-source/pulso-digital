@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T20:07:26.590Z",
+  "updatedAt": "2026-09-05T23:39:39.573Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 11,
+      "trendsScore": 10,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -46,22 +46,6 @@
     }
   ],
   "articles": [
-    {
-      "title": "Abelardo de la Espriella confirmó el traslado de 39 presos de Barranquilla a otras cárceles: “La justicia se hará respetar”",
-      "link": "https://www.infobae.com/colombia/2026/09/05/abelardo-de-la-espriella-confirmo-el-traslado-de-39-presos-de-barranquilla-a-otras-carceles-la-justicia-se-hara-respetar/",
-      "source": "Infobae",
-      "pubDate": "Sat, 05 Sep 2026 19:16:28 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda se refirió a la visita del secretario de Estado, Marco Rubio, a Colombia: “Sellar compromisos de intervención”",
-      "link": "https://www.infobae.com/colombia/2026/09/05/ivan-cepeda-se-refirio-a-la-visita-del-secretario-de-estado-marco-rubio-a-colombia-sellar-compromisos-de-intervencion/",
-      "source": "Infobae",
-      "pubDate": "Sat, 05 Sep 2026 19:13:45 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
     {
       "title": "Las movidas detrás de la declaratoria de la Alianza Verde como partido independiente al gobierno de Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/las-movidas-detras-de-la-declaratoria-de-la-alianza-verde-como-partido-independiente-al-gobierno-de-abelardo-de-la-espriella-3583710",
