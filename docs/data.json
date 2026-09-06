@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T13:29:52.188Z",
+  "updatedAt": "2026-09-06T16:47:50.185Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 17,
+      "trendsScore": 15,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 7,
+      "finalScore": 6,
       "momentum": {
-        "value": 16.7,
+        "value": -14.3,
         "direction": "flat"
       },
-      "probability": 8.9
+      "probability": 7.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,26 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 91.1
+      "probability": 92.3
     }
   ],
   "articles": [
+    {
+      "title": "Presidente Abelardo De La Espriella entrega nuevo balance de la ofensiva militar: '7 narcoterroristas murieron en desarrollo de operaciones'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-de-la-ofensiva-militar-7-narcoterroristas-murieron-en-desarrollo-de-operaciones-3583958",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-06T10:17:46-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La dura respuesta de Abelardo De La Espriella al exgobernador de Nariño Camilo Romero: ‘Los políticos son empleados del pueblo’",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/la-dura-respuesta-de-abelardo-de-la-espriella-al-exgobernador-de-narino-camilo-romero-los-politicos-son-empleados-del-pueblo-3583946",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-06T09:02:09-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Así es la nueva apuesta de seguridad del gobierno de Abelardo De La Espriella en las regiones de la mano de los gobernadores",
       "link": "https://www.eltiempo.com/politica/gobierno/asi-es-la-nueva-apuesta-de-seguridad-del-gobierno-de-abelardo-de-la-espriella-en-las-regiones-de-la-mano-de-los-gobernadores-3583861",
@@ -67,14 +83,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-se-pronuncio-tras-el-asesinato-de-dos-militares-durante-ataque-del-eln-en-ocana-norte-de-santander-se-van-a-arrepentir-3583796",
       "source": "El Tiempo",
       "pubDate": "2026-09-05T04:12:42-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los gobernadores y el presidente Abelardo De La Espriella se reunieron en Mompox: seguridad y descentralización, los principales temas",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-gobernadores-y-el-presidente-abelardo-de-la-espriella-se-reunieron-en-mompox-seguridad-y-descentralizacion-los-principales-temas-3583755",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-04T19:38:31-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
