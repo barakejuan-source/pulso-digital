@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T23:39:39.573Z",
+  "updatedAt": "2026-09-06T03:42:09.710Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 10,
+      "trendsScore": 17,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 4,
+      "finalScore": 7,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": 75,
+        "direction": "up"
       },
-      "probability": 5.3
+      "probability": 8.9
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 94.7
+      "probability": 91.1
     }
   ],
   "articles": [
     {
-      "title": "Las movidas detrás de la declaratoria de la Alianza Verde como partido independiente al gobierno de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/las-movidas-detras-de-la-declaratoria-de-la-alianza-verde-como-partido-independiente-al-gobierno-de-abelardo-de-la-espriella-3583710",
+      "title": "Un Presidente en las regiones: así ha gobernado Abelardo De La Espriella durante su primer mes",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/un-presidente-en-las-regiones-asi-ha-gobernado-abelardo-de-la-espriella-durante-su-primer-mes-3583864",
       "source": "El Tiempo",
-      "pubDate": "2026-09-05T06:57:59-05:00",
+      "pubDate": "2026-09-05T22:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así es la nueva apuesta de seguridad del gobierno de Abelardo De La Espriella en las regiones de la mano de los gobernadores",
+      "link": "https://www.eltiempo.com/politica/gobierno/asi-es-la-nueva-apuesta-de-seguridad-del-gobierno-de-abelardo-de-la-espriella-en-las-regiones-de-la-mano-de-los-gobernadores-3583861",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-05T22:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-gobernadores-y-el-presidente-abelardo-de-la-espriella-se-reunieron-en-mompox-seguridad-y-descentralizacion-los-principales-temas-3583755",
       "source": "El Tiempo",
       "pubDate": "2026-09-04T19:38:31-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella y su contundente frase tras la muerte de 'Bendito Menor': 'Este miserable ahora está a buen recaudo del infierno'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-y-su-contundente-frase-tras-la-muerte-de-bendito-menor-este-miserable-ahora-esta-a-buen-recaudo-del-infierno-3583557",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-04T10:51:14-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
