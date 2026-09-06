@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:12:32.733Z",
+  "updatedAt": "2026-09-06T23:38:20.862Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 5,
       "momentum": {
-        "value": -16.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 6.5
@@ -47,26 +47,34 @@
   ],
   "articles": [
     {
-      "title": "“¡Están advertidos, miserables!”: Abelardo de la Espriella ordena ir por los hombres armados que escoltaron el funeral de Bendito Menor en La Guajira         ",
-      "link": "https://www.infobae.com/colombia/2026/09/06/estan-advertidos-miserables-abelardo-de-la-espriella-ordena-ir-por-los-hombres-armados-que-escoltaron-el-funeral-de-bendito-menor-en-la-guajira/",
-      "source": "Infobae",
-      "pubDate": "Sun, 06 Sep 2026 20:09:37 +0000",
+      "title": "Presidente Abelardo De La Espriella llega al Chocó, de la mano de empresarios, para presentar hoja de ruta de la reconstrucción luego del terremoto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-llega-al-choco-de-la-mano-de-empresarios-para-presentar-hoja-de-ruta-de-la-reconstruccion-luego-del-terremoto-3583994",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-06T17:24:26-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Con corridos a todo volumen y ráfagas de disparos: videos muestran la despedida criminal de Bendito Menor en Riohacha",
-      "link": "https://www.infobae.com/colombia/2026/09/06/con-corridos-a-todo-volumen-y-rafagas-de-disparos-videos-muestran-la-despedida-criminal-de-bendito-menor-en-riohacha/",
+      "title": "Giorgia Meloni, primera ministra de Italia, agradeció saludo de Abelardo de la Espriella: “Continuaremos trabajando juntos”",
+      "link": "https://www.infobae.com/colombia/2026/09/06/giorgia-meloni-primera-ministra-de-italia-agradecio-saludo-de-abelardo-de-la-espriella-continuaremos-trabajando-juntos/",
       "source": "Infobae",
-      "pubDate": "Sun, 06 Sep 2026 19:54:09 +0000",
+      "pubDate": "Sun, 06 Sep 2026 22:16:42 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella felicitó a Giorgia Meloni por liderar el Gobierno más longevo de la posguerra italiana: “Mis mejores deseos”",
-      "link": "https://www.infobae.com/colombia/2026/09/06/abelardo-de-la-espriella-felicito-a-giorgia-meloni-por-liderar-el-gobierno-mas-longevo-de-la-posguerra-italiana-mis-mejores-deseos/",
-      "source": "Infobae",
-      "pubDate": "Sun, 06 Sep 2026 19:11:49 +0000",
+      "title": "‘Plan Energía Ya’: medidas del presidente Abelardo De la Espriella para evitar racionamiento por El Niño; habrá reducción de tarifas",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-anuncia-medidas-para-hacerle-frente-al-fenomeno-de-el-nino-se-premiara-a-quienes-ahorren-energia-3584020",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-06T17:10:38-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Un Presidente en las regiones: así ha gobernado Abelardo De La Espriella durante su primer mes",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/un-presidente-en-las-regiones-asi-ha-gobernado-abelardo-de-la-espriella-durante-su-primer-mes-3583864",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-06T16:32:07-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -91,22 +99,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/asi-es-la-nueva-apuesta-de-seguridad-del-gobierno-de-abelardo-de-la-espriella-en-las-regiones-de-la-mano-de-los-gobernadores-3583861",
       "source": "El Tiempo",
       "pubDate": "2026-09-06T07:50:19-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Un Presidente en las regiones: así ha gobernado Abelardo De La Espriella durante su primer mes",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/un-presidente-en-las-regiones-asi-ha-gobernado-abelardo-de-la-espriella-durante-su-primer-mes-3583864",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-05T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella se pronunció tras el asesinato de dos militares durante ataque del Eln en Ocaña, Norte de Santander: 'Se van a arrepentir'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-se-pronuncio-tras-el-asesinato-de-dos-militares-durante-ataque-del-eln-en-ocana-norte-de-santander-se-van-a-arrepentir-3583796",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-05T04:12:42-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
