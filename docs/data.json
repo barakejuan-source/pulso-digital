@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T16:47:50.185Z",
+  "updatedAt": "2026-09-06T20:12:32.733Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 15,
+      "trendsScore": 13,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 6,
+      "finalScore": 5,
       "momentum": {
-        "value": -14.3,
+        "value": -16.7,
         "direction": "flat"
       },
-      "probability": 7.7
+      "probability": 6.5
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 92.3
+      "probability": 93.5
     }
   ],
   "articles": [
+    {
+      "title": "“¡Están advertidos, miserables!”: Abelardo de la Espriella ordena ir por los hombres armados que escoltaron el funeral de Bendito Menor en La Guajira         ",
+      "link": "https://www.infobae.com/colombia/2026/09/06/estan-advertidos-miserables-abelardo-de-la-espriella-ordena-ir-por-los-hombres-armados-que-escoltaron-el-funeral-de-bendito-menor-en-la-guajira/",
+      "source": "Infobae",
+      "pubDate": "Sun, 06 Sep 2026 20:09:37 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Con corridos a todo volumen y ráfagas de disparos: videos muestran la despedida criminal de Bendito Menor en Riohacha",
+      "link": "https://www.infobae.com/colombia/2026/09/06/con-corridos-a-todo-volumen-y-rafagas-de-disparos-videos-muestran-la-despedida-criminal-de-bendito-menor-en-riohacha/",
+      "source": "Infobae",
+      "pubDate": "Sun, 06 Sep 2026 19:54:09 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella felicitó a Giorgia Meloni por liderar el Gobierno más longevo de la posguerra italiana: “Mis mejores deseos”",
+      "link": "https://www.infobae.com/colombia/2026/09/06/abelardo-de-la-espriella-felicito-a-giorgia-meloni-por-liderar-el-gobierno-mas-longevo-de-la-posguerra-italiana-mis-mejores-deseos/",
+      "source": "Infobae",
+      "pubDate": "Sun, 06 Sep 2026 19:11:49 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "De la Espriella, un mes de poder en Colombia: terremoto, mano dura y una Presidencia que busca controlar el mensaje",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260906-de-la-espriella-un-mes-de-poder-en-colombia-terremoto-mano-dura-y-una-presidencia-que-busca-controlar-el-mensaje",
+      "source": "France 24",
+      "pubDate": "Sun, 06 Sep 2026 17:12:22 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Presidente Abelardo De La Espriella entrega nuevo balance de la ofensiva militar: '7 narcoterroristas murieron en desarrollo de operaciones'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-de-la-ofensiva-militar-7-narcoterroristas-murieron-en-desarrollo-de-operaciones-3583958",
       "source": "El Tiempo",
       "pubDate": "2026-09-06T10:17:46-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La dura respuesta de Abelardo De La Espriella al exgobernador de Nariño Camilo Romero: ‘Los políticos son empleados del pueblo’",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/la-dura-respuesta-de-abelardo-de-la-espriella-al-exgobernador-de-narino-camilo-romero-los-politicos-son-empleados-del-pueblo-3583946",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-06T09:02:09-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
