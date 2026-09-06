@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T03:42:09.710Z",
+  "updatedAt": "2026-09-06T08:30:08.119Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 17,
+      "trendsScore": 16,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 7,
+      "finalScore": 6,
       "momentum": {
-        "value": 75,
-        "direction": "up"
+        "value": -14.3,
+        "direction": "flat"
       },
-      "probability": 8.9
+      "probability": 7.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,26 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 91.1
+      "probability": 92.3
     }
   ],
   "articles": [
+    {
+      "title": "Murió Luciana Rojas, la bebé de 8 meses cuya familia pedía un traslado urgente de Neiva a Bogotá",
+      "link": "https://www.infobae.com/colombia/2026/09/06/murio-luciana-rojas-la-bebe-de-8-meses-cuya-familia-pedia-un-traslado-urgente-de-neiva-a-bogota/",
+      "source": "Infobae",
+      "pubDate": "Sun, 06 Sep 2026 07:31:22 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Los obstáculos que enfrenta Abelardo de la Espriella para aprobar su presupuesto de $634,9 billones",
+      "link": "https://www.infobae.com/colombia/2026/09/06/los-obstaculos-que-enfrenta-abelardo-de-la-espriella-para-aprobar-su-presupuesto-de-6349-billones/",
+      "source": "Infobae",
+      "pubDate": "Sun, 06 Sep 2026 06:34:21 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Un Presidente en las regiones: así ha gobernado Abelardo De La Espriella durante su primer mes",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/un-presidente-en-las-regiones-asi-ha-gobernado-abelardo-de-la-espriella-durante-su-primer-mes-3583864",
