@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T19:43:42.533Z",
+  "updatedAt": "2026-09-07T22:39:37.452Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 21,
+      "trendsScore": 19,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 8,
       "momentum": {
-        "value": -11.1,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 10
@@ -47,10 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella llegó a Quibdó para coordinar la recuperación tras el terremoto: cumbre con empresarios",
-      "link": "https://www.infobae.com/colombia/2026/09/07/presidente-abelardo-de-la-espriella-llego-a-quibdo-para-coordinar-la-recuperacion-tras-el-terremoto-cumbre-con-empresarios/",
+      "title": "Partido Liberal se declara como partido de gobierno durante la administración de Abelardo De La Espriella, aunque 'manifiesta su derecho a discrepar'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/partido-liberal-se-declara-como-partido-de-gobierno-durante-la-administracion-de-abelardo-de-la-espriella-aunque-manifiesta-su-derecho-a-discrepar-3584289",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-07T17:34:26-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Lula y Flávio Bolsonaro, empatados con un 41 % en una eventual segunda vuelta electoral",
+      "link": "https://www.infobae.com/america/agencias/2026/09/07/lula-y-flavio-bolsonaro-empatados-con-un-41-en-una-eventual-segunda-vuelta-electoral/",
       "source": "Infobae",
-      "pubDate": "Mon, 07 Sep 2026 19:23:59 +0000",
+      "pubDate": "Mon, 07 Sep 2026 22:31:07 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Cuál es el balance del primer mes de Abelardo de la Espriella en el poder?",
+      "link": "https://www.france24.com/es/video/20260907-cu%C3%A1l-es-el-balance-del-primer-mes-de-abelardo-de-la-espriella-en-el-poder",
+      "source": "France 24",
+      "pubDate": "Mon, 07 Sep 2026 21:28:57 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella anunció gerente para la reconstrucción del Chocó y otras medidas para potenciar el departamento",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-gerente-para-la-reconstruccion-del-choco-y-otras-medidas-para-potenciar-el-departamento-3584245",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-07T16:23:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,38 +83,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/exembajadora-en-paraguay-adela-maria-maestre-sera-la-vicecanciller-de-colombia-3584196",
       "source": "El Tiempo",
       "pubDate": "2026-09-07T12:04:59-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Francia: ¿qué marcará la carrera por la sucesión de Macron?",
-      "link": "https://www.france24.com/es/programas/en-primera-plana/20260907-francia-qu%C3%A9-marcar%C3%A1-la-carrera-por-la-sucesi%C3%B3n-de-macron",
-      "source": "France 24",
-      "pubDate": "Mon, 07 Sep 2026 15:04:02 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Estos son los empresarios que viajarán al Chocó con el presidente Abelardo De La Espriella para labores de reconstrucción tras el terremoto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/estos-son-los-diez-empresarios-que-viajaran-al-choco-con-el-presidente-abelardo-de-la-espriella-para-labores-de-reconstruccion-tras-terremoto-3584097",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-07T09:14:30-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella presenta balance del primer mes de gobierno: reporta 15.401 capturas y 71,8 toneladas de estupefacientes incautados",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-presenta-balance-de-seguridad-del-primer-mes-de-su-gobierno-reporta-15-401-capturas-y-71-8-toneladas-de-estupefacientes-incautados-3584105",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-07T07:27:57-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El Gobierno de Abelardo De La Espriella firmó el decreto que oficializa al exprocurador Alejandro Ordóñez como nuevo embajador de Colombia ante la OEA",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-firmo-el-decreto-que-oficializa-al-exprocurador-alejandro-ordonez-como-nuevo-embajador-de-colombia-ante-la-oea-3584103",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-07T07:25:29-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
