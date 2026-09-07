@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:38:20.862Z",
+  "updatedAt": "2026-09-07T03:41:59.756Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 13,
+      "trendsScore": 22,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 5,
+      "finalScore": 9,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": 80,
+        "direction": "up"
       },
-      "probability": 6.5
+      "probability": 11.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,39 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 93.5
+      "probability": 88.9
     }
   ],
   "articles": [
+    {
+      "title": "Así está la gobernabilidad del presidente Abelardo De La Espriella, a un mes de su llegada al poder",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-esta-la-gobernabilidad-del-presidente-abelardo-de-la-espriella-a-un-mes-de-su-llegada-al-poder-3584025",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-06T22:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "10 grandes empresarios de Colombia llegarán a Chocó junto a Abelardo de la Espriella para definir un plan de reconstrucción",
+      "link": "https://www.infobae.com/colombia/2026/09/07/10-grandes-empresarios-de-colombia-llegaran-a-choco-junto-a-abelardo-de-la-espriella-para-definir-un-plan-de-reconstruccion/",
+      "source": "Infobae",
+      "pubDate": "Mon, 07 Sep 2026 02:21:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El presidente Abelardo De La Espriella pone la lupa sobre las fotomultas: cerca de 40.000 comparendos podrían ser irregulares",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-abelardo-de-la-espriella-pone-la-lupa-sobre-las-fotomultas-cerca-de-40-000-comparendos-podrian-ser-irregulares-3584041",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-06T20:17:31-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Presidente Abelardo De La Espriella llega al Chocó, de la mano de empresarios, para presentar hoja de ruta de la reconstrucción luego del terremoto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-llega-al-choco-de-la-mano-de-empresarios-para-presentar-hoja-de-ruta-de-la-reconstruccion-luego-del-terremoto-3583994",
       "source": "El Tiempo",
       "pubDate": "2026-09-06T17:24:26-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Giorgia Meloni, primera ministra de Italia, agradeció saludo de Abelardo de la Espriella: “Continuaremos trabajando juntos”",
-      "link": "https://www.infobae.com/colombia/2026/09/06/giorgia-meloni-primera-ministra-de-italia-agradecio-saludo-de-abelardo-de-la-espriella-continuaremos-trabajando-juntos/",
-      "source": "Infobae",
-      "pubDate": "Sun, 06 Sep 2026 22:16:42 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -91,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-de-la-ofensiva-militar-7-narcoterroristas-murieron-en-desarrollo-de-operaciones-3583958",
       "source": "El Tiempo",
       "pubDate": "2026-09-06T10:17:46-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así es la nueva apuesta de seguridad del gobierno de Abelardo De La Espriella en las regiones de la mano de los gobernadores",
-      "link": "https://www.eltiempo.com/politica/gobierno/asi-es-la-nueva-apuesta-de-seguridad-del-gobierno-de-abelardo-de-la-espriella-en-las-regiones-de-la-mano-de-los-gobernadores-3583861",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-06T07:50:19-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
