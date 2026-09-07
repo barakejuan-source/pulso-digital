@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T09:07:44.382Z",
+  "updatedAt": "2026-09-07T15:38:21.632Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,42 @@
   ],
   "articles": [
     {
+      "title": "Francia: ¿qué marcará la carrera por la sucesión de Macron?",
+      "link": "https://www.france24.com/es/programas/en-primera-plana/20260907-francia-qu%C3%A9-marcar%C3%A1-la-carrera-por-la-sucesi%C3%B3n-de-macron",
+      "source": "France 24",
+      "pubDate": "Mon, 07 Sep 2026 15:04:02 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Estos son los empresarios que viajarán al Chocó con el presidente Abelardo De La Espriella para labores de reconstrucción tras el terremoto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/estos-son-los-diez-empresarios-que-viajaran-al-choco-con-el-presidente-abelardo-de-la-espriella-para-labores-de-reconstruccion-tras-terremoto-3584097",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-07T09:14:30-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Así está la gobernabilidad del presidente Abelardo De La Espriella, a un mes de su llegada al poder",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-esta-la-gobernabilidad-del-presidente-abelardo-de-la-espriella-a-un-mes-de-su-llegada-al-poder-3584025",
       "source": "El Tiempo",
-      "pubDate": "2026-09-06T22:01:00-05:00",
+      "pubDate": "2026-09-07T07:50:21-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella presenta balance del primer mes de gobierno: reporta 15.401 capturas y 71,8 toneladas de estupefacientes incautados",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-presenta-balance-de-seguridad-del-primer-mes-de-su-gobierno-reporta-15-401-capturas-y-71-8-toneladas-de-estupefacientes-incautados-3584105",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-07T07:27:57-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El Gobierno de Abelardo De La Espriella firmó el decreto que oficializa al exprocurador Alejandro Ordóñez como nuevo embajador de Colombia ante la OEA",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-firmo-el-decreto-que-oficializa-al-exprocurador-alejandro-ordonez-como-nuevo-embajador-de-colombia-ante-la-oea-3584103",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-07T07:25:29-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -63,42 +95,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella llega al Chocó, de la mano de empresarios, para presentar hoja de ruta de la reconstrucción luego del terremoto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-llega-al-choco-de-la-mano-de-empresarios-para-presentar-hoja-de-ruta-de-la-reconstruccion-luego-del-terremoto-3583994",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-06T17:24:26-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "‘Plan Energía Ya’: medidas del presidente Abelardo De la Espriella para evitar racionamiento por El Niño; habrá reducción de tarifas",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-anuncia-medidas-para-hacerle-frente-al-fenomeno-de-el-nino-se-premiara-a-quienes-ahorren-energia-3584020",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-06T17:10:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Un Presidente en las regiones: así ha gobernado Abelardo De La Espriella durante su primer mes",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/un-presidente-en-las-regiones-asi-ha-gobernado-abelardo-de-la-espriella-durante-su-primer-mes-3583864",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-06T16:32:07-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "De la Espriella, un mes de poder en Colombia: terremoto, mano dura y una Presidencia que busca controlar el mensaje",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260906-de-la-espriella-un-mes-de-poder-en-colombia-terremoto-mano-dura-y-una-presidencia-que-busca-controlar-el-mensaje",
       "source": "France 24",
       "pubDate": "Sun, 06 Sep 2026 17:12:22 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella entrega nuevo balance de la ofensiva militar: '7 narcoterroristas murieron en desarrollo de operaciones'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-de-la-ofensiva-militar-7-narcoterroristas-murieron-en-desarrollo-de-operaciones-3583958",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-06T10:17:46-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
