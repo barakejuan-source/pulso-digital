@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T15:38:21.632Z",
+  "updatedAt": "2026-09-07T19:43:42.533Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 22,
+      "trendsScore": 21,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 9,
+      "finalScore": 8,
       "momentum": {
-        "value": 0,
+        "value": -11.1,
         "direction": "flat"
       },
-      "probability": 11.1
+      "probability": 10
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,26 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 88.9
+      "probability": 90
     }
   ],
   "articles": [
+    {
+      "title": "Abelardo de la Espriella llegó a Quibdó para coordinar la recuperación tras el terremoto: cumbre con empresarios",
+      "link": "https://www.infobae.com/colombia/2026/09/07/presidente-abelardo-de-la-espriella-llego-a-quibdo-para-coordinar-la-recuperacion-tras-el-terremoto-cumbre-con-empresarios/",
+      "source": "Infobae",
+      "pubDate": "Mon, 07 Sep 2026 19:23:59 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Exembajadora en Paraguay Adela María Maestre será la vicecanciller del presidente Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/exembajadora-en-paraguay-adela-maria-maestre-sera-la-vicecanciller-de-colombia-3584196",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-07T12:04:59-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Francia: ¿qué marcará la carrera por la sucesión de Macron?",
       "link": "https://www.france24.com/es/programas/en-primera-plana/20260907-francia-qu%C3%A9-marcar%C3%A1-la-carrera-por-la-sucesi%C3%B3n-de-macron",
@@ -63,14 +79,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Así está la gobernabilidad del presidente Abelardo De La Espriella, a un mes de su llegada al poder",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-esta-la-gobernabilidad-del-presidente-abelardo-de-la-espriella-a-un-mes-de-su-llegada-al-poder-3584025",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-07T07:50:21-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Abelardo De La Espriella presenta balance del primer mes de gobierno: reporta 15.401 capturas y 71,8 toneladas de estupefacientes incautados",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-presenta-balance-de-seguridad-del-primer-mes-de-su-gobierno-reporta-15-401-capturas-y-71-8-toneladas-de-estupefacientes-incautados-3584105",
       "source": "El Tiempo",
@@ -83,22 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-firmo-el-decreto-que-oficializa-al-exprocurador-alejandro-ordonez-como-nuevo-embajador-de-colombia-ante-la-oea-3584103",
       "source": "El Tiempo",
       "pubDate": "2026-09-07T07:25:29-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El presidente Abelardo De La Espriella pone la lupa sobre las fotomultas: cerca de 40.000 comparendos podrían ser irregulares",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-abelardo-de-la-espriella-pone-la-lupa-sobre-las-fotomultas-cerca-de-40-000-comparendos-podrian-ser-irregulares-3584041",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-06T20:17:31-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "De la Espriella, un mes de poder en Colombia: terremoto, mano dura y una Presidencia que busca controlar el mensaje",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260906-de-la-espriella-un-mes-de-poder-en-colombia-terremoto-mano-dura-y-una-presidencia-que-busca-controlar-el-mensaje",
-      "source": "France 24",
-      "pubDate": "Sun, 06 Sep 2026 17:12:22 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
