@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T03:41:59.756Z",
+  "updatedAt": "2026-09-07T09:07:44.382Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,8 +18,8 @@
       "youtubeViews": 0,
       "finalScore": 9,
       "momentum": {
-        "value": 80,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 11.1
     },
@@ -51,14 +51,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-esta-la-gobernabilidad-del-presidente-abelardo-de-la-espriella-a-un-mes-de-su-llegada-al-poder-3584025",
       "source": "El Tiempo",
       "pubDate": "2026-09-06T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "10 grandes empresarios de Colombia llegarán a Chocó junto a Abelardo de la Espriella para definir un plan de reconstrucción",
-      "link": "https://www.infobae.com/colombia/2026/09/07/10-grandes-empresarios-de-colombia-llegaran-a-choco-junto-a-abelardo-de-la-espriella-para-definir-un-plan-de-reconstruccion/",
-      "source": "Infobae",
-      "pubDate": "Mon, 07 Sep 2026 02:21:56 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
