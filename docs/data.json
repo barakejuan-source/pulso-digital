@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T19:21:10.274Z",
+  "updatedAt": "2026-09-08T22:29:30.260Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 9,
       "momentum": {
-        "value": 12.5,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 11.1
@@ -47,42 +47,50 @@
   ],
   "articles": [
     {
-      "title": "Marco Rubio, secretario de Estado de Estados Unidos, llegó a Barranquilla para reunirse con el presidente de Colombia Abelardo de la Espriella ",
-      "link": "https://www.infobae.com/colombia/2026/09/08/secretario-de-estado-marco-rubio-llego-a-barranquilla-asi-sera-la-reunion-con-el-presidente-de-colombia-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Tue, 08 Sep 2026 19:13:25 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así combatirá Abelardo de la Espriella las redes internacionales de narcotráfico en el Pacífico: “Es hora de ser más audaces” ",
-      "link": "https://www.infobae.com/colombia/2026/09/08/asi-combatira-abelardo-de-la-espriella-las-redes-internacionales-de-narcotrafico-en-el-pacifico-es-hora-de-ser-mas-audaces/",
-      "source": "Infobae",
-      "pubDate": "Tue, 08 Sep 2026 19:10:21 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Experto explicó qué cambia con el decreto que levantó la suspensión del porte de armas en Colombia ",
+      "title": "Porte de armas en Colombia: expertos explican qué cambia con el decreto firmado por Abelardo de la Espriella que levantó la suspensión",
       "link": "https://www.infobae.com/colombia/2026/09/08/experto-explico-que-cambia-con-el-decreto-que-levanto-la-suspension-del-porte-de-armas-en-colombia/",
       "source": "Infobae",
-      "pubDate": "Tue, 08 Sep 2026 19:04:30 +0000",
+      "pubDate": "Tue, 08 Sep 2026 22:21:49 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "EN VIVO l Marco Rubio se reúne con el presidente de Colombia Abelardo de la Espriella: el secretario de Estado llegó a Barranquilla",
+      "title": "Gobierno de Abelardo De La Espriella pavimentó la aprobación del monto: partidos afines convencidos de aceptar los 634,9 billones del presupuesto 2027",
+      "link": "https://www.eltiempo.com/politica/congreso/gobierno-de-abelardo-de-la-espriella-pavimento-la-aprobacion-del-monto-partidos-afines-convencidos-de-aceptar-los-634-9-billones-del-presupuesto-3584587",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-08T17:14:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella entregó detalles de su reunión con Marco Rubio en Barranquilla: “Avanzamos en una agenda conjunta”",
+      "link": "https://www.infobae.com/colombia/2026/09/08/abelardo-de-la-espriella-entrego-detalles-de-su-reunion-con-marco-rubio-en-barranquilla-avanzamos-en-una-agenda-conjunta/",
+      "source": "Infobae",
+      "pubDate": "Tue, 08 Sep 2026 22:12:10 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda hizo advertencia por decreto sobre porte de armas que firmó De la Espriella: “No es el camino para proteger la vida”",
+      "link": "https://www.infobae.com/colombia/2026/09/08/ivan-cepeda-hizo-advertencia-por-decreto-sobre-porte-de-armas-que-firmo-de-la-espriella-no-es-el-camino-para-proteger-la-vida/",
+      "source": "Infobae",
+      "pubDate": "Tue, 08 Sep 2026 22:03:17 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "EN VIVO l Marco Rubio finalizó la reunión con el presidente de Colombia, Abelardo de la Espriella: estos fueron los temas abordados",
       "link": "https://www.infobae.com/colombia/2026/09/08/marco-rubio-se-reune-con-el-presidente-de-colombia-abelardo-de-la-espriella-en-vivo-los-detalles-del-encuentro-en-barranquilla/",
       "source": "Infobae",
-      "pubDate": "Tue, 08 Sep 2026 19:00:58 +0000",
+      "pubDate": "Tue, 08 Sep 2026 22:01:41 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Senadora del Pacto Histórico anunció que demandará decreto de Abelardo de la Espriella que pretende legalizar el porte de armas en Colombia: “Una medida sumamente peligrosa” ",
-      "link": "https://www.infobae.com/colombia/2026/09/08/senadora-del-pacto-historico-anuncio-que-demandara-decreto-de-abelardo-de-la-espriella-que-pretende-legalizar-el-porte-de-armas-en-colombia-una-medida-sumamente-peligrosa/",
+      "title": "Marco Rubio contó el curioso momento en que conoció a Abelardo de la Espriella antes de que “se volviera loco y se metiera a presidente”",
+      "link": "https://www.infobae.com/colombia/2026/09/08/marco-rubio-conto-el-curioso-momento-en-que-conocio-a-abelardo-de-la-espriella-antes-de-que-se-volviera-loco-y-se-metiera-a-presidente/",
       "source": "Infobae",
-      "pubDate": "Tue, 08 Sep 2026 18:54:37 +0000",
+      "pubDate": "Tue, 08 Sep 2026 21:49:13 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -99,46 +107,6 @@
       "link": "https://www.lasillavacia.com/en-vivo/tatyana-orozco-es-nueva-la-directora-de-la-camara-de-infraestructura/",
       "source": "La Silla Vacía",
       "pubDate": "Tue, 08 Sep 2026 17:49:59 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Quiénes podrán acceder al porte legal de armas en Colombia tras el fin de la suspensión general? Las condiciones y reglas del nuevo decreto",
-      "link": "https://www.eltiempo.com/politica/gobierno/quienes-podran-acceder-al-porte-legal-de-armas-en-colombia-tras-el-fin-de-la-suspension-general-las-condiciones-y-reglas-del-nuevo-decreto-3584464",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-08T11:31:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella firmó decreto que levanta suspensión general de permisos para porte de armas de fuego en Colombia",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-firmo-decreto-que-levanta-suspension-general-de-permisos-para-porte-de-armas-de-fuego-en-colombia-3584457",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-08T11:18:57-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "‘No tengo competencia para establecer contactos ni diálogos con actores armados y no lo voy a hacer’: gobernador de Nariño, Luis Alfonso Escobar",
-      "link": "https://www.eltiempo.com/politica/proceso-de-paz/no-tengo-competencia-para-establecer-contactos-ni-dialogos-con-actores-armados-y-no-lo-voy-a-hacer-gobernador-de-narino-luis-alfonso-escobar-3584463",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-08T11:04:05-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Marco Rubio visita Barranquilla para reforzar lazos entre EE. UU. y Colombia",
-      "link": "https://www.france24.com/es/video/20260908-marco-rubio-visita-barranquilla-para-reforzar-lazos-entre-ee-uu-y-colombia",
-      "source": "France 24",
-      "pubDate": "Tue, 08 Sep 2026 14:30:44 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Plan Marshall para el Chocó: los cinco proyectos clave del gobierno de Abelardo De La Espriella para la reconstrucción e integración tras el terremoto",
-      "link": "https://www.eltiempo.com/politica/gobierno/plan-marshall-para-el-choco-los-cinco-proyectos-clave-del-gobierno-de-abelardo-de-la-espriella-para-la-reconstruccion-e-integracion-tras-el-terremoto-3584392",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-08T09:24:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
