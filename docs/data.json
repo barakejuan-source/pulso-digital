@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T08:44:47.070Z",
+  "updatedAt": "2026-09-08T14:16:12.807Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 24,
+      "trendsScore": 21,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 10,
+      "finalScore": 8,
       "momentum": {
-        "value": 11.1,
+        "value": -20,
         "direction": "flat"
       },
-      "probability": 12.2
+      "probability": 10
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,71 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 87.8
+      "probability": 90
     }
   ],
   "articles": [
     {
-      "title": "Colombia y EE.UU. buscan sellar nuevo rumbo de la relación con encuentro entre el presidente Abelardo De La Espriella y Marco Rubio",
+      "title": "Plan Marshall para el Chocó: los cinco proyectos clave del gobierno de Abelardo De La Espriella para la reconstrucción e integración tras el terremoto",
+      "link": "https://www.eltiempo.com/politica/gobierno/plan-marshall-para-el-choco-los-cinco-proyectos-clave-del-gobierno-de-abelardo-de-la-espriella-para-la-reconstruccion-e-integracion-tras-el-terremoto-3584392",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-08T09:12:49-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Lucas Murillo, niño con cardiopatía que pidió la ayuda de Abelardo de la Espriella, fue sorprendido por la estrella del Bayern Munich Luis Díaz: “Espero que sigas mejorando y de muy buena manera” ",
+      "link": "https://www.infobae.com/colombia/2026/09/08/lucas-murillo-nino-con-cardiopatia-que-pidio-la-ayuda-de-abelardo-de-la-espriella-fue-sorprendido-por-la-estrella-del-bayern-munich-luis-diaz-espero-que-sigas-mejorando-y-de-muy-buena-manera/",
+      "source": "Infobae",
+      "pubDate": "Tue, 08 Sep 2026 14:12:37 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Una ‘vaki’ para comprar bolsas para cadáveres de terroristas dados de baja por la administración de Abelardo de la Espriella, la polémica propuesta de Jota Pe Hernández: “Necesitamos cerca de 30.000”",
+      "link": "https://www.infobae.com/colombia/2026/09/08/una-vaki-para-comprar-bolsas-para-cadaveres-de-terroristas-dados-de-baja-por-la-administracion-de-abelardo-de-la-espriella-la-polemica-propuesta-de-jota-pe-hernandez-necesitamos-cerca-de-30000/",
+      "source": "Infobae",
+      "pubDate": "Tue, 08 Sep 2026 14:10:28 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Quién es Marco Rubio? El secretario de Estado de EE. UU. que visita Colombia y se reunirá con el presidente Abelardo De La Espriella en Barranquilla",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-marco-rubio-el-secretario-de-estado-de-ee-uu-que-visita-colombia-y-se-reunira-con-el-presidente-abelardo-de-la-espriella-en-barranquilla-3584395",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-08T09:06:27-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Marco Rubio se reúne con el presidente de Colombia Abelardo de la Espriella: EN VIVO los detalles del encuentro en Barranquilla",
+      "link": "https://www.infobae.com/colombia/2026/09/08/marco-rubio-se-reune-con-el-presidente-de-colombia-abelardo-de-la-espriella-en-vivo-los-detalles-del-encuentro-en-barranquilla/",
+      "source": "Infobae",
+      "pubDate": "Tue, 08 Sep 2026 13:54:24 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia y EE. UU. buscan sellar nuevo rumbo de la relación con encuentro entre el presidente Abelardo De La Espriella y Marco Rubio",
       "link": "https://www.eltiempo.com/politica/gobierno/colombia-y-ee-uu-buscan-sellar-nuevo-rumbo-de-la-relacion-con-encuentro-entre-el-presidente-abelardo-de-la-espriella-y-marco-rubio-3584257",
       "source": "El Tiempo",
-      "pubDate": "2026-09-07T22:01:00-05:00",
+      "pubDate": "2026-09-08T07:38:50-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Y la oposición?",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/y-la-oposicion/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 08 Sep 2026 12:34:44 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella reporta operativo en Magdalena: 11 capturados y un menor aprehendido por extorsión y tráfico de armas",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/operativo-en-magdalena-capturan-a-11-personas-y-aprehenden-a-un-menor-por-extorsion-y-trafico-de-armas-incautaron-nueve-armas-de-fuego-3584367",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-08T04:55:47-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,22 +131,6 @@
       "link": "https://www.france24.com/es/video/20260907-cu%C3%A1l-es-el-balance-del-primer-mes-de-abelardo-de-la-espriella-en-el-poder",
       "source": "France 24",
       "pubDate": "Mon, 07 Sep 2026 21:28:57 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anunció gerente para la reconstrucción del Chocó y otras medidas para potenciar el departamento",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-gerente-para-la-reconstruccion-del-choco-y-otras-medidas-para-potenciar-el-departamento-3584245",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-07T16:23:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Exembajadora en Paraguay Adela María Maestre será la vicecanciller del presidente Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/exembajadora-en-paraguay-adela-maria-maestre-sera-la-vicecanciller-de-colombia-3584196",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-07T12:04:59-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
