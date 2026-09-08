@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T22:39:37.452Z",
+  "updatedAt": "2026-09-08T03:46:41.508Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 19,
+      "trendsScore": 22,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 8,
+      "finalScore": 9,
       "momentum": {
-        "value": 0,
+        "value": 12.5,
         "direction": "flat"
       },
-      "probability": 10
+      "probability": 11.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,25 +42,41 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 90
+      "probability": 88.9
     }
   ],
   "articles": [
     {
-      "title": "Partido Liberal se declara como partido de gobierno durante la administración de Abelardo De La Espriella, aunque 'manifiesta su derecho a discrepar'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/partido-liberal-se-declara-como-partido-de-gobierno-durante-la-administracion-de-abelardo-de-la-espriella-aunque-manifiesta-su-derecho-a-discrepar-3584289",
+      "title": "Colombia y EE.UU. buscan sellar nuevo rumbo de la relación con encuentro entre el presidente Abelardo De La Espriella y Marco Rubio",
+      "link": "https://www.eltiempo.com/politica/gobierno/colombia-y-ee-uu-buscan-sellar-nuevo-rumbo-de-la-relacion-con-encuentro-entre-el-presidente-abelardo-de-la-espriella-y-marco-rubio-3584257",
       "source": "El Tiempo",
-      "pubDate": "2026-09-07T17:34:26-05:00",
+      "pubDate": "2026-09-07T22:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Lula y Flávio Bolsonaro, empatados con un 41 % en una eventual segunda vuelta electoral",
-      "link": "https://www.infobae.com/america/agencias/2026/09/07/lula-y-flavio-bolsonaro-empatados-con-un-41-en-una-eventual-segunda-vuelta-electoral/",
+      "title": "Casi 15.000 capturas y 23 cabecillas neutralizados durante el primer mes del gobierno de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/09/08/casi-15000-capturas-y-23-cabecillas-neutralizados-durante-el-primer-mes-del-gobierno-de-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Mon, 07 Sep 2026 22:31:07 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Tue, 08 Sep 2026 02:38:57 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Trump - De la Espriella: tres claves de la visita de Marco Rubio a Colombia",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260908-trump-de-la-espriella-tres-claves-de-la-visita-de-marco-rubio-a-colombia",
+      "source": "France 24",
+      "pubDate": "Tue, 08 Sep 2026 01:06:45 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Partido Liberal se declara como partido de gobierno durante la administración de Abelardo De La Espriella, aunque 'manifiesta su derecho a discrepar'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/partido-liberal-se-declara-como-partido-de-gobierno-durante-la-administracion-de-abelardo-de-la-espriella-aunque-manifiesta-su-derecho-a-discrepar-3584289",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-07T17:44:30-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "¿Cuál es el balance del primer mes de Abelardo de la Espriella en el poder?",
