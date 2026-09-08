@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T14:16:12.807Z",
+  "updatedAt": "2026-09-08T19:21:10.274Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 21,
+      "trendsScore": 22,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 8,
+      "finalScore": 9,
       "momentum": {
-        "value": -20,
+        "value": 12.5,
         "direction": "flat"
       },
-      "probability": 10
+      "probability": 11.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,95 +42,103 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 90
+      "probability": 88.9
     }
   ],
   "articles": [
     {
+      "title": "Marco Rubio, secretario de Estado de Estados Unidos, llegó a Barranquilla para reunirse con el presidente de Colombia Abelardo de la Espriella ",
+      "link": "https://www.infobae.com/colombia/2026/09/08/secretario-de-estado-marco-rubio-llego-a-barranquilla-asi-sera-la-reunion-con-el-presidente-de-colombia-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Tue, 08 Sep 2026 19:13:25 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así combatirá Abelardo de la Espriella las redes internacionales de narcotráfico en el Pacífico: “Es hora de ser más audaces” ",
+      "link": "https://www.infobae.com/colombia/2026/09/08/asi-combatira-abelardo-de-la-espriella-las-redes-internacionales-de-narcotrafico-en-el-pacifico-es-hora-de-ser-mas-audaces/",
+      "source": "Infobae",
+      "pubDate": "Tue, 08 Sep 2026 19:10:21 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Experto explicó qué cambia con el decreto que levantó la suspensión del porte de armas en Colombia ",
+      "link": "https://www.infobae.com/colombia/2026/09/08/experto-explico-que-cambia-con-el-decreto-que-levanto-la-suspension-del-porte-de-armas-en-colombia/",
+      "source": "Infobae",
+      "pubDate": "Tue, 08 Sep 2026 19:04:30 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "EN VIVO l Marco Rubio se reúne con el presidente de Colombia Abelardo de la Espriella: el secretario de Estado llegó a Barranquilla",
+      "link": "https://www.infobae.com/colombia/2026/09/08/marco-rubio-se-reune-con-el-presidente-de-colombia-abelardo-de-la-espriella-en-vivo-los-detalles-del-encuentro-en-barranquilla/",
+      "source": "Infobae",
+      "pubDate": "Tue, 08 Sep 2026 19:00:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Senadora del Pacto Histórico anunció que demandará decreto de Abelardo de la Espriella que pretende legalizar el porte de armas en Colombia: “Una medida sumamente peligrosa” ",
+      "link": "https://www.infobae.com/colombia/2026/09/08/senadora-del-pacto-historico-anuncio-que-demandara-decreto-de-abelardo-de-la-espriella-que-pretende-legalizar-el-porte-de-armas-en-colombia-una-medida-sumamente-peligrosa/",
+      "source": "Infobae",
+      "pubDate": "Tue, 08 Sep 2026 18:54:37 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella consolida mayoría oficialista en el Congreso con el respaldo de 2 de cada 3 curules: así queda el mapa político",
+      "link": "https://www.eltiempo.com/politica/congreso/presidente-abelardo-de-la-espriella-consolida-mayoria-oficialista-en-el-congreso-con-el-respaldo-de-2-de-cada-3-curules-asi-queda-el-mapa-politico-3584451",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-08T12:57:58-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Con el guiño de Abelardo, Tatyana Orozco asume en la CCI",
+      "link": "https://www.lasillavacia.com/en-vivo/tatyana-orozco-es-nueva-la-directora-de-la-camara-de-infraestructura/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 08 Sep 2026 17:49:59 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Quiénes podrán acceder al porte legal de armas en Colombia tras el fin de la suspensión general? Las condiciones y reglas del nuevo decreto",
+      "link": "https://www.eltiempo.com/politica/gobierno/quienes-podran-acceder-al-porte-legal-de-armas-en-colombia-tras-el-fin-de-la-suspension-general-las-condiciones-y-reglas-del-nuevo-decreto-3584464",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-08T11:31:38-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella firmó decreto que levanta suspensión general de permisos para porte de armas de fuego en Colombia",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-firmo-decreto-que-levanta-suspension-general-de-permisos-para-porte-de-armas-de-fuego-en-colombia-3584457",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-08T11:18:57-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "‘No tengo competencia para establecer contactos ni diálogos con actores armados y no lo voy a hacer’: gobernador de Nariño, Luis Alfonso Escobar",
+      "link": "https://www.eltiempo.com/politica/proceso-de-paz/no-tengo-competencia-para-establecer-contactos-ni-dialogos-con-actores-armados-y-no-lo-voy-a-hacer-gobernador-de-narino-luis-alfonso-escobar-3584463",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-08T11:04:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Marco Rubio visita Barranquilla para reforzar lazos entre EE. UU. y Colombia",
+      "link": "https://www.france24.com/es/video/20260908-marco-rubio-visita-barranquilla-para-reforzar-lazos-entre-ee-uu-y-colombia",
+      "source": "France 24",
+      "pubDate": "Tue, 08 Sep 2026 14:30:44 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Plan Marshall para el Chocó: los cinco proyectos clave del gobierno de Abelardo De La Espriella para la reconstrucción e integración tras el terremoto",
       "link": "https://www.eltiempo.com/politica/gobierno/plan-marshall-para-el-choco-los-cinco-proyectos-clave-del-gobierno-de-abelardo-de-la-espriella-para-la-reconstruccion-e-integracion-tras-el-terremoto-3584392",
       "source": "El Tiempo",
-      "pubDate": "2026-09-08T09:12:49-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Lucas Murillo, niño con cardiopatía que pidió la ayuda de Abelardo de la Espriella, fue sorprendido por la estrella del Bayern Munich Luis Díaz: “Espero que sigas mejorando y de muy buena manera” ",
-      "link": "https://www.infobae.com/colombia/2026/09/08/lucas-murillo-nino-con-cardiopatia-que-pidio-la-ayuda-de-abelardo-de-la-espriella-fue-sorprendido-por-la-estrella-del-bayern-munich-luis-diaz-espero-que-sigas-mejorando-y-de-muy-buena-manera/",
-      "source": "Infobae",
-      "pubDate": "Tue, 08 Sep 2026 14:12:37 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Una ‘vaki’ para comprar bolsas para cadáveres de terroristas dados de baja por la administración de Abelardo de la Espriella, la polémica propuesta de Jota Pe Hernández: “Necesitamos cerca de 30.000”",
-      "link": "https://www.infobae.com/colombia/2026/09/08/una-vaki-para-comprar-bolsas-para-cadaveres-de-terroristas-dados-de-baja-por-la-administracion-de-abelardo-de-la-espriella-la-polemica-propuesta-de-jota-pe-hernandez-necesitamos-cerca-de-30000/",
-      "source": "Infobae",
-      "pubDate": "Tue, 08 Sep 2026 14:10:28 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Quién es Marco Rubio? El secretario de Estado de EE. UU. que visita Colombia y se reunirá con el presidente Abelardo De La Espriella en Barranquilla",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-marco-rubio-el-secretario-de-estado-de-ee-uu-que-visita-colombia-y-se-reunira-con-el-presidente-abelardo-de-la-espriella-en-barranquilla-3584395",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-08T09:06:27-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Marco Rubio se reúne con el presidente de Colombia Abelardo de la Espriella: EN VIVO los detalles del encuentro en Barranquilla",
-      "link": "https://www.infobae.com/colombia/2026/09/08/marco-rubio-se-reune-con-el-presidente-de-colombia-abelardo-de-la-espriella-en-vivo-los-detalles-del-encuentro-en-barranquilla/",
-      "source": "Infobae",
-      "pubDate": "Tue, 08 Sep 2026 13:54:24 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia y EE. UU. buscan sellar nuevo rumbo de la relación con encuentro entre el presidente Abelardo De La Espriella y Marco Rubio",
-      "link": "https://www.eltiempo.com/politica/gobierno/colombia-y-ee-uu-buscan-sellar-nuevo-rumbo-de-la-relacion-con-encuentro-entre-el-presidente-abelardo-de-la-espriella-y-marco-rubio-3584257",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-08T07:38:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Y la oposición?",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/y-la-oposicion/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 08 Sep 2026 12:34:44 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella reporta operativo en Magdalena: 11 capturados y un menor aprehendido por extorsión y tráfico de armas",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/operativo-en-magdalena-capturan-a-11-personas-y-aprehenden-a-un-menor-por-extorsion-y-trafico-de-armas-incautaron-nueve-armas-de-fuego-3584367",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-08T04:55:47-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Trump - De la Espriella: tres claves de la visita de Marco Rubio a Colombia",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260908-trump-de-la-espriella-tres-claves-de-la-visita-de-marco-rubio-a-colombia",
-      "source": "France 24",
-      "pubDate": "Tue, 08 Sep 2026 01:06:45 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Partido Liberal se declara como partido de gobierno durante la administración de Abelardo De La Espriella, aunque 'manifiesta su derecho a discrepar'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/partido-liberal-se-declara-como-partido-de-gobierno-durante-la-administracion-de-abelardo-de-la-espriella-aunque-manifiesta-su-derecho-a-discrepar-3584289",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-07T17:44:30-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Cuál es el balance del primer mes de Abelardo de la Espriella en el poder?",
-      "link": "https://www.france24.com/es/video/20260907-cu%C3%A1l-es-el-balance-del-primer-mes-de-abelardo-de-la-espriella-en-el-poder",
-      "source": "France 24",
-      "pubDate": "Mon, 07 Sep 2026 21:28:57 GMT",
+      "pubDate": "2026-09-08T09:24:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
