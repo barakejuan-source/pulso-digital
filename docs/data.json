@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T03:46:41.508Z",
+  "updatedAt": "2026-09-08T08:44:47.070Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 22,
+      "trendsScore": 24,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 9,
+      "finalScore": 10,
       "momentum": {
-        "value": 12.5,
+        "value": 11.1,
         "direction": "flat"
       },
-      "probability": 11.1
+      "probability": 12.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,7 +42,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 88.9
+      "probability": 87.8
     }
   ],
   "articles": [
@@ -51,14 +51,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/colombia-y-ee-uu-buscan-sellar-nuevo-rumbo-de-la-relacion-con-encuentro-entre-el-presidente-abelardo-de-la-espriella-y-marco-rubio-3584257",
       "source": "El Tiempo",
       "pubDate": "2026-09-07T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Casi 15.000 capturas y 23 cabecillas neutralizados durante el primer mes del gobierno de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/09/08/casi-15000-capturas-y-23-cabecillas-neutralizados-durante-el-primer-mes-del-gobierno-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Tue, 08 Sep 2026 02:38:57 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
