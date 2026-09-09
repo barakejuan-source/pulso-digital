@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T14:16:58.374Z",
+  "updatedAt": "2026-09-09T19:10:54.263Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Nueva reclamentación sobre el porte legal de armas en Colombia entró en vigencia: ya fue publicado en el Diario Oficial el Decreto 1368 firmado por Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/09/09/nueva-reclamentacion-sobre-el-porte-legal-de-armas-en-colombia-entro-en-vigencia-ya-fue-publicado-en-el-diario-oficial-el-decreto-1368-firmado-por-abelardo-de-la-espriella/",
+      "title": "Continúa el traslado de internos de cárceles por orden de Abelardo de la Espriella, ahora le llegó el turno a políticos de alto perfil: el exrepresentante Andrés Calle y el exalcalde Víctor Gamboa harían parte de la lista",
+      "link": "https://www.infobae.com/colombia/2026/09/09/continua-el-traslado-de-internos-de-carceles-por-orden-de-abelardo-de-la-espriella-ahora-le-llego-el-turno-a-politicos-de-alto-perfil-el-exrepresentante-andres-calle-y-el-exalcalde-victor-gamboa-harian-parte-de-la-lista/",
       "source": "Infobae",
-      "pubDate": "Wed, 09 Sep 2026 13:55:05 +0000",
+      "pubDate": "Wed, 09 Sep 2026 19:07:43 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Defensora del Pueblo criticó a Abelardo de la Espriella por impulsar la deportación de migrantes irregulares de Colombia: “También tienen derechos” ",
+      "link": "https://www.infobae.com/colombia/2026/09/09/defensora-del-pueblo-critico-a-abelardo-de-la-espriella-por-impulsar-la-deportacion-de-migrantes-irregulares-de-colombia-tambien-tienen-derechos/",
+      "source": "Infobae",
+      "pubDate": "Wed, 09 Sep 2026 18:58:41 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella lamentó la muerte de Juliana Ávila, estudiante de Los Andes que falleció en la Maratón de Medellín",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-lamento-la-muerte-de-juliana-avila-estudiante-de-los-andes-que-fallecio-en-la-media-maraton-de-medellin-3584719",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-09T12:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,46 +91,6 @@
       "link": "https://www.france24.com/es/video/20260909-colombia-flexibiliza-el-porte-de-armas-cu%C3%A1l-es-el-riesgo-de-la-medida",
       "source": "France 24",
       "pubDate": "Wed, 09 Sep 2026 02:06:45 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "EE. UU. y Colombia firman acuerdos para \"reconstruir\" el país y fortalecer su relación",
-      "link": "https://www.france24.com/es/video/20260909-ee-uu-y-colombia-firman-acuerdos-para-reconstruir-el-pa%C3%ADs-y-fortalecer-su-relaci%C3%B3n",
-      "source": "France 24",
-      "pubDate": "Wed, 09 Sep 2026 02:04:59 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Duerma informado con las claves de este 8 de septiembre de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-8-de-septiembre-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 09 Sep 2026 00:19:07 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Marco Rubio respondió a petición del presidente Abelardo De La Espriella de abrir consulado de Estados Unidos en Barranquilla: 'No estoy en contra'",
-      "link": "https://www.eltiempo.com/politica/gobierno/marco-rubio-respondio-a-peticion-de-presidente-abelardo-de-la-espriella-de-abrir-consulado-de-estados-unidos-en-barranquilla-me-encanta-estar-aqui-3584599",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-08T18:46:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "EE. UU. y Colombia: Rubio vislumbra una \"época dorada\" de relaciones tras reunirse con De la Espriella",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260908-ee-uu-y-colombia-rubio-vislumbra-una-%C3%A9poca-dorada-de-relaciones-tras-reunirse-con-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Tue, 08 Sep 2026 23:32:22 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella pavimentó la aprobación del monto: partidos afines convencidos de aceptar los 634,9 billones del presupuesto 2027",
-      "link": "https://www.eltiempo.com/politica/congreso/gobierno-de-abelardo-de-la-espriella-pavimento-la-aprobacion-del-monto-partidos-afines-convencidos-de-aceptar-los-634-9-billones-del-presupuesto-3584587",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-08T17:14:05-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
