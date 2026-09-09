@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T08:51:03.989Z",
+  "updatedAt": "2026-09-09T14:16:58.374Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Alias ‘Silvana Guerrero’: quién es la cabecilla del ELN que es prioridad para las Fuerzas Militares por orden de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/09/09/alias-silvana-guerrero-quien-es-la-cabecilla-del-eln-que-es-prioridad-para-las-fuerzas-militares-por-orden-de-abelardo-de-la-espriella/",
+      "title": "Nueva reclamentación sobre el porte legal de armas en Colombia entró en vigencia: ya fue publicado en el Diario Oficial el Decreto 1368 firmado por Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/09/09/nueva-reclamentacion-sobre-el-porte-legal-de-armas-en-colombia-entro-en-vigencia-ya-fue-publicado-en-el-diario-oficial-el-decreto-1368-firmado-por-abelardo-de-la-espriella/",
       "source": "Infobae",
-      "pubDate": "Wed, 09 Sep 2026 08:23:36 +0000",
+      "pubDate": "Wed, 09 Sep 2026 13:55:05 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "De la Espriella levanta la suspensión general al porte de armas en Colombia: ¿qué cambia y cuáles son los riesgos?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260909-de-la-espriella-levanta-la-suspensi%C3%B3n-general-al-porte-de-armas-en-colombia-qu%C3%A9-cambia-y-cu%C3%A1les-son-los-riesgos",
+      "source": "France 24",
+      "pubDate": "Wed, 09 Sep 2026 13:49:03 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Marco Rubio anuncia una 'nueva etapa de cooperación' entre Estados Unidos y Colombia tras su reunión con el presidente Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/marco-rubio-anuncia-una-nueva-etapa-de-cooperacion-entre-estados-unidos-y-colombia-tras-su-reunion-con-el-presidente-abelardo-de-la-espriella-3584662",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-09T06:55:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
