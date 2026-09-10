@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T03:50:18.778Z",
+  "updatedAt": "2026-09-10T08:49:01.030Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 7,
       "momentum": {
-        "value": -12.5,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 8.9
@@ -50,23 +50,7 @@
       "title": "Presidente Abelardo De La Espriella y su gabinete firman los 11 decretos de la emergencia económica y social para atender el desastre por terremoto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-y-su-gabinete-firman-los-11-decretos-de-la-emergencia-economica-y-social-para-atender-el-desastre-por-terremoto-3584956",
       "source": "El Tiempo",
-      "pubDate": "2026-09-09T22:31:39-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella desmonta otra pieza de la Paz Total de Petro: revoca a negociadores con ELN y Clan del Golfo",
-      "link": "https://www.infobae.com/colombia/2026/09/10/abelardo-de-la-espriella-desmonta-otra-pieza-de-la-paz-total-de-petro-revoca-a-negociadores-con-eln-y-clan-del-golfo/",
-      "source": "Infobae",
-      "pubDate": "Thu, 10 Sep 2026 03:30:42 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El Gobierno reglamentó la Ley Ángel: así deberán responder las autoridades ante el maltrato animal en Colombia",
-      "link": "https://www.infobae.com/colombia/2026/09/10/el-gobierno-reglamento-la-ley-angel-asi-deberan-responder-las-autoridades-ante-el-maltrato-animal-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Thu, 10 Sep 2026 03:04:08 +0000",
+      "pubDate": "2026-09-09T22:44:20-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
