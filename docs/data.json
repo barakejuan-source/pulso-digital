@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T14:10:22.800Z",
+  "updatedAt": "2026-09-10T19:02:22.739Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 18,
+      "trendsScore": 17,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,58 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Gobierno de Abelardo De La Espriella, el de mejor evaluación en Latinoamérica, según Latam Pulse de Atlas Intel y Bloomberg",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-el-de-mejor-evaluacion-en-latinoamerica-segun-latam-pulse-de-atlas-intel-y-bloomberg-3584985",
+      "title": "Abelardo De La Espriella revocó a todos los representantes que dejó Gustavo Petro y pasados gobiernos en cámaras de comercio del país.",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-revoco-a-todos-los-representantes-que-dejo-gustavo-petro-y-pasados-gobiernos-en-camaras-de-comercio-del-pais-3585118",
       "source": "El Tiempo",
-      "pubDate": "2026-09-10T07:24:27-05:00",
+      "pubDate": "2026-09-10T13:05:46-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Juez ordena a la Presidencia retirar videos de Abelardo De La Espriella caminando entre cuerpos de disidentes abatidos, tras tutela",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/juez-ordena-a-la-presidencia-retirar-videos-de-abelardo-de-la-espriella-caminando-entre-cuerpos-de-disidentes-abatidos-tras-tutela-3584968",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-10T07:11:51-05:00",
+      "title": "Primera encuesta del presidente De la Espriella: 52% positivo, 43% negativo",
+      "link": "https://www.lasillavacia.com/en-vivo/primera-encuesta-del-presidente-de-la-espriella-52-positivo-43-negativo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 10 Sep 2026 17:52:23 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Acá puede consultar y descargar los once decretos de emergencia económica y social que emitió el Gobierno de Abelardo De La Espriella tras terremoto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/aca-puede-consultar-y-descargar-los-once-decretos-de-emergencia-economica-y-social-que-emitio-el-gobierno-de-abelardo-de-la-espriella-tras-terremoto-3584979",
+      "title": "Estatuto del Trabajo: lo que se sabe del proyecto del gobierno de Abelardo De La Espriella para unificar más de 30 años de normas laborales dispersas",
+      "link": "https://www.eltiempo.com/politica/gobierno/estatuto-del-trabajo-lo-que-se-sabe-del-proyecto-del-gobierno-de-abelardo-de-la-espriella-para-unificar-mas-de-30-anos-de-normas-laborales-dispersas-3585094",
       "source": "El Tiempo",
-      "pubDate": "2026-09-10T06:35:00-05:00",
+      "pubDate": "2026-09-10T12:23:52-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella y su gabinete firman los 11 decretos de la emergencia económica y social para atender el desastre por terremoto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-y-su-gabinete-firman-los-11-decretos-de-la-emergencia-economica-y-social-para-atender-el-desastre-por-terremoto-3584956",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-09T22:44:20-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Qué implicaciones tiene la gira de Marco Rubio por Colombia, Ecuador y Perú?",
-      "link": "https://www.france24.com/es/video/20260910-qu%C3%A9-implicaciones-tiene-la-gira-de-marco-rubio-por-colombia-ecuador-y-per%C3%BA",
+      "title": "Un juez de Colombia ordena a De la Espriella retirar temporalmente imágenes en las que aparece junto a cadáveres",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260910-un-juez-de-colombia-ordena-a-de-la-espriella-retirar-temporalmente-im%C3%A1genes-en-las-que-aparece-junto-a-cad%C3%A1veres",
       "source": "France 24",
-      "pubDate": "Thu, 10 Sep 2026 02:42:29 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia: De la Espriella firma decreto que pone fin a suspensión general al porte de armas",
-      "link": "https://www.france24.com/es/video/20260910-colombia-de-la-espriella-firma-decreto-que-pone-fin-a-suspensi%C3%B3n-general-al-porte-de-armas",
-      "source": "France 24",
-      "pubDate": "Thu, 10 Sep 2026 00:14:40 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Ajustes o censura?: qué pasa con las Emisoras de Paz en Colombia con la llegada de De la Espriella",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260909-ajustes-o-censura-qu%C3%A9-pasa-con-las-emisoras-de-paz-en-colombia-con-la-llegada-de-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Wed, 09 Sep 2026 23:50:29 GMT",
+      "pubDate": "Thu, 10 Sep 2026 16:03:31 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
