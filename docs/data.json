@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T19:02:22.739Z",
+  "updatedAt": "2026-09-10T22:22:43.061Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 17,
+      "trendsScore": 18,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Abelardo De La Espriella revocó a todos los representantes que dejó Gustavo Petro y pasados gobiernos en cámaras de comercio del país.",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-revoco-a-todos-los-representantes-que-dejo-gustavo-petro-y-pasados-gobiernos-en-camaras-de-comercio-del-pais-3585118",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-10T13:05:46-05:00",
+      "title": "Salario mínimo de 2027: Gobierno de Abelardo de la Espriella dio indicios de cómo será la negociación del próximo aumento",
+      "link": "https://www.infobae.com/colombia/2026/09/10/salario-minimo-de-2027-gobierno-de-abelardo-de-la-espriella-dio-indicios-de-como-sera-la-negociacion-del-proximo-aumento/",
+      "source": "Infobae",
+      "pubDate": "Thu, 10 Sep 2026 21:56:37 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Primera encuesta del presidente De la Espriella: 52% positivo, 43% negativo",
-      "link": "https://www.lasillavacia.com/en-vivo/primera-encuesta-del-presidente-de-la-espriella-52-positivo-43-negativo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 10 Sep 2026 17:52:23 +0000",
+      "title": "Abelardo De La Espriella revocó a todos los representantes que dejó Gustavo Petro y pasados gobiernos en cámaras de comercio del país.",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-revoco-a-todos-los-representantes-que-dejo-gustavo-petro-y-pasados-gobiernos-en-camaras-de-comercio-del-pais-3585118",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-10T13:05:46-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
