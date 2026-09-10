@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T22:23:05.728Z",
+  "updatedAt": "2026-09-10T03:50:18.778Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 19,
+      "trendsScore": 18,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 8,
+      "finalScore": 7,
       "momentum": {
-        "value": 0,
+        "value": -12.5,
         "direction": "flat"
       },
-      "probability": 10
+      "probability": 8.9
     },
     {
       "id": "abelardo_espriella",
@@ -42,31 +42,55 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 90
+      "probability": 91.1
     }
   ],
   "articles": [
     {
-      "title": "Porte de armas en Colombia: expertos explican qué cambia con el decreto firmado por Abelardo de la Espriella que levantó la suspensión",
-      "link": "https://www.infobae.com/colombia/2026/09/08/experto-explico-que-cambia-con-el-decreto-que-levanto-la-suspension-del-porte-de-armas-en-colombia/",
-      "source": "Infobae",
-      "pubDate": "Wed, 09 Sep 2026 21:47:59 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella lamentó la muerte de Juliana Ávila, estudiante de Los Andes que falleció en la Maratón de Medellín",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-lamento-la-muerte-de-juliana-avila-estudiante-de-los-andes-que-fallecio-en-la-media-maraton-de-medellin-3584719",
+      "title": "Presidente Abelardo De La Espriella y su gabinete firman los 11 decretos de la emergencia económica y social para atender el desastre por terremoto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-y-su-gabinete-firman-los-11-decretos-de-la-emergencia-economica-y-social-para-atender-el-desastre-por-terremoto-3584956",
       "source": "El Tiempo",
-      "pubDate": "2026-09-09T12:01:00-05:00",
+      "pubDate": "2026-09-09T22:31:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "De la Espriella levanta la suspensión general al porte de armas en Colombia: ¿qué cambia y cuáles son los riesgos?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260909-de-la-espriella-levanta-la-suspensi%C3%B3n-general-al-porte-de-armas-en-colombia-qu%C3%A9-cambia-y-cu%C3%A1les-son-los-riesgos",
+      "title": "Abelardo de la Espriella desmonta otra pieza de la Paz Total de Petro: revoca a negociadores con ELN y Clan del Golfo",
+      "link": "https://www.infobae.com/colombia/2026/09/10/abelardo-de-la-espriella-desmonta-otra-pieza-de-la-paz-total-de-petro-revoca-a-negociadores-con-eln-y-clan-del-golfo/",
+      "source": "Infobae",
+      "pubDate": "Thu, 10 Sep 2026 03:30:42 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El Gobierno reglamentó la Ley Ángel: así deberán responder las autoridades ante el maltrato animal en Colombia",
+      "link": "https://www.infobae.com/colombia/2026/09/10/el-gobierno-reglamento-la-ley-angel-asi-deberan-responder-las-autoridades-ante-el-maltrato-animal-en-colombia/",
+      "source": "Infobae",
+      "pubDate": "Thu, 10 Sep 2026 03:04:08 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Qué implicaciones tiene la gira de Marco Rubio por Colombia, Ecuador y Perú?",
+      "link": "https://www.france24.com/es/video/20260910-qu%C3%A9-implicaciones-tiene-la-gira-de-marco-rubio-por-colombia-ecuador-y-per%C3%BA",
       "source": "France 24",
-      "pubDate": "Wed, 09 Sep 2026 13:49:03 GMT",
+      "pubDate": "Thu, 10 Sep 2026 02:42:29 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia: De la Espriella firma decreto que pone fin a suspensión general al porte de armas",
+      "link": "https://www.france24.com/es/video/20260910-colombia-de-la-espriella-firma-decreto-que-pone-fin-a-suspensi%C3%B3n-general-al-porte-de-armas",
+      "source": "France 24",
+      "pubDate": "Thu, 10 Sep 2026 00:14:40 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Ajustes o censura?: qué pasa con las Emisoras de Paz en Colombia con la llegada de De la Espriella",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260909-ajustes-o-censura-qu%C3%A9-pasa-con-las-emisoras-de-paz-en-colombia-con-la-llegada-de-de-la-espriella",
+      "source": "France 24",
+      "pubDate": "Wed, 09 Sep 2026 23:50:29 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
