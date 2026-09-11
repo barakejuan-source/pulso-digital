@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-10T22:22:43.061Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-09-11T03:47:12.532Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,14 +47,6 @@
   ],
   "articles": [
     {
-      "title": "Salario mínimo de 2027: Gobierno de Abelardo de la Espriella dio indicios de cómo será la negociación del próximo aumento",
-      "link": "https://www.infobae.com/colombia/2026/09/10/salario-minimo-de-2027-gobierno-de-abelardo-de-la-espriella-dio-indicios-de-como-sera-la-negociacion-del-proximo-aumento/",
-      "source": "Infobae",
-      "pubDate": "Thu, 10 Sep 2026 21:56:37 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Abelardo De La Espriella revocó a todos los representantes que dejó Gustavo Petro y pasados gobiernos en cámaras de comercio del país.",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-revoco-a-todos-los-representantes-que-dejo-gustavo-petro-y-pasados-gobiernos-en-camaras-de-comercio-del-pais-3585118",
       "source": "El Tiempo",
@@ -67,14 +59,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/estatuto-del-trabajo-lo-que-se-sabe-del-proyecto-del-gobierno-de-abelardo-de-la-espriella-para-unificar-mas-de-30-anos-de-normas-laborales-dispersas-3585094",
       "source": "El Tiempo",
       "pubDate": "2026-09-10T12:23:52-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Un juez de Colombia ordena a De la Espriella retirar temporalmente imágenes en las que aparece junto a cadáveres",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260910-un-juez-de-colombia-ordena-a-de-la-espriella-retirar-temporalmente-im%C3%A1genes-en-las-que-aparece-junto-a-cad%C3%A1veres",
-      "source": "France 24",
-      "pubDate": "Thu, 10 Sep 2026 16:03:31 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
