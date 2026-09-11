@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T14:09:24.068Z",
+  "updatedAt": "2026-09-11T19:03:52.469Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,50 @@
   ],
   "articles": [
     {
-      "title": "Daniel Quintero salió en defensa de su hermano, Miguel, imputado por la Fiscalía por corrupción: “Sin una sola prueba”",
-      "link": "https://www.infobae.com/colombia/2026/09/11/daniel-quintero-salio-en-defensa-de-su-hermano-miguel-tras-ser-imputado-por-la-fiscalia-por-corrupcion-sin-una-sola-prueba/",
+      "title": "Defensora del Pueblo Iris Marín criticó orden de Abelardo de la Espriella de deportar inmigrantes irregulares: “No es delito”",
+      "link": "https://www.infobae.com/colombia/2026/09/11/defensora-del-pueblo-iris-marin-critico-orden-de-abelardo-de-la-espriella-de-deportar-inmigrantes-irregulares-no-es-delito/",
       "source": "Infobae",
-      "pubDate": "Fri, 11 Sep 2026 13:32:33 +0000",
+      "pubDate": "Fri, 11 Sep 2026 19:01:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Terremoto: gobierno no tiene datos de daños de 204 municipios",
+      "link": "https://www.lasillavacia.com/en-vivo/terremoto-gobierno-no-tiene-datos-de-danos-de-204-municipios/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 11 Sep 2026 18:56:47 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Estos son los puntos del nuevo estatuto del trabajo del gobierno de Abelardo de la Espriella que rechaza la CUT: “Afectan directamente los derechos de los trabajadores”",
+      "link": "https://www.infobae.com/colombia/2026/09/11/estos-son-los-puntos-del-nuevo-estatuto-del-trabajo-del-gobierno-de-abelardo-de-la-espriella-que-rechaza-la-cut-afectan-directamente-los-derechos-de-los-trabajadores/",
+      "source": "Infobae",
+      "pubDate": "Fri, 11 Sep 2026 18:24:30 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Con De la Espriella no ha subido el dólar ni ha caído la inversión extranjera ",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/con-de-la-espriella-no-ha-subido-el-dolar-ni-ha-caido-la-inversion-extranjera/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 11 Sep 2026 17:13:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Bolsonaro, bajo sospecha de corrupción: ¿por qué es investigado y qué impacto tendría en las presidenciales de Brasil?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260911-bolsonaro-bajo-sospecha-de-corrupci%C3%B3n-por-qu%C3%A9-es-investigado-y-qu%C3%A9-impacto-tendr%C3%ADa-en-las-presidenciales-de-brasil",
+      "source": "France 24",
+      "pubDate": "Fri, 11 Sep 2026 16:49:34 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Abelardo De La Espriella revocó a todos los representantes que dejó Gustavo Petro y pasados gobiernos en cámaras de comercio del país.",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-revoco-a-todos-los-representantes-que-dejo-gustavo-petro-y-pasados-gobiernos-en-camaras-de-comercio-del-pais-3585118",
+      "title": "Presidente Abelardo De La Espriella hace balance sobre el fin de diálogos con grupos armados y desmonte de negociaciones: 'Se acabó la falsa paz'",
+      "link": "https://www.eltiempo.com/politica/proceso-de-paz/dimos-por-terminados-todos-los-procesos-de-dialogo-y-espacios-sociojuridicos-presidente-de-la-espriella-confirma-fin-de-la-paz-total-3585321",
       "source": "El Tiempo",
-      "pubDate": "2026-09-10T13:05:46-05:00",
+      "pubDate": "2026-09-11T09:46:15-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
