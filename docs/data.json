@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T20:22:05.061Z",
+  "updatedAt": "2026-09-12T23:53:00.391Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella da una semana a Mindefensa y Minjusticia para lograr el sometimiento de alias ‘Pinocho’: ‘No hay negociaciones’",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-da-una-semana-a-mindefensa-y-minjusticia-para-lograr-el-sometimiento-de-alias-pinocho-no-hay-negociaciones-3585602",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-12T13:56:42-05:00",
+      "title": "En un mes, la Dian aprehendió más de $30.000 millones en contrabando e incautó drones utilizados por criminales: “Se acabó la vagabundería”",
+      "link": "https://www.infobae.com/colombia/2026/09/12/en-un-mes-la-dian-aprehendio-mas-de-30000-millones-en-contrabando-e-incauto-drones-utilizados-por-criminales-se-acabo-la-vagabunderia/",
+      "source": "Infobae",
+      "pubDate": "Sat, 12 Sep 2026 23:25:11 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Jefe del Cneb pide a De la Espriella reanudar diálogos",
+      "link": "https://www.lasillavacia.com/en-vivo/jefe-del-cneb-pide-a-de-la-espriella-reanudar-dialogos/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 12 Sep 2026 23:13:28 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,7 +66,31 @@
       "title": "Presidente Abelardo De La Espriella donó su primer sueldo a hogares geriátricos de Quimbaya: 'Fue una promesa sagrada que hice y la voy a cumplir'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-dono-su-primer-sueldo-a-hogares-geriatricos-de-quimbaya-fue-una-promesa-sagrada-que-hice-y-la-voy-a-cumplir-3585564",
       "source": "El Tiempo",
-      "pubDate": "2026-09-12T09:49:45-05:00",
+      "pubDate": "2026-09-12T16:33:22-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella da una semana a Mindefensa y Minjusticia para lograr el sometimiento de alias ‘Pinocho’: ‘No hay negociaciones’",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-da-una-semana-a-mindefensa-y-minjusticia-para-lograr-el-sometimiento-de-alias-pinocho-no-hay-negociaciones-3585602",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-12T16:30:25-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella anunció que se restringirá el ingreso de precursores químicos, partes de drones y maquinaria amarilla al país",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-que-se-restringira-el-ingreso-de-precursores-quimicos-partes-de-drones-y-maquinaria-amarilla-al-pais-3585622",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-12T15:52:33-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Shakira, ¿futura presidenta de Colombia? La información falsa tras las respuestas al terremoto",
+      "link": "https://www.france24.com/es/video/20260912-shakira-futura-presidenta-de-colombia-la-informaci%C3%B3n-falsa-tras-las-respuestas-al-terremoto",
+      "source": "France 24",
+      "pubDate": "Sat, 12 Sep 2026 20:35:17 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,14 +99,6 @@
       "link": "https://www.france24.com/es/video/20260912-expropietario-del-banco-master-en-el-centro-del-esc%C3%A1ndalo-que-salpica-a-fl%C3%A1vio-bolsonaro",
       "source": "France 24",
       "pubDate": "Sat, 12 Sep 2026 03:18:57 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "A siete meses de las elecciones, Marine Le Pen lidera las encuestas en Francia",
-      "link": "https://www.france24.com/es/video/20260912-a-siete-meses-de-las-elecciones-marine-le-pen-lidera-las-encuestas-en-francia",
-      "source": "France 24",
-      "pubDate": "Sat, 12 Sep 2026 01:25:35 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
