@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T22:21:58.974Z",
+  "updatedAt": "2026-09-12T03:50:28.266Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 18,
+      "trendsScore": 19,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 7,
+      "finalScore": 8,
       "momentum": {
-        "value": 0,
+        "value": 14.3,
         "direction": "flat"
       },
-      "probability": 8.9
+      "probability": 10
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,26 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 91.1
+      "probability": 90
     }
   ],
   "articles": [
+    {
+      "title": "Abelardo de la Espriella confirmó que cada mes donará su sueldo a causas sociales, tras entregar el primero a dos ancianatos de Quindío ",
+      "link": "https://www.infobae.com/colombia/2026/09/12/abelardo-de-la-espriella-confirmo-que-cada-mes-donara-su-sueldo-a-causas-sociales-tras-entregar-el-primero-a-dos-ancianatos-de-quindio/",
+      "source": "Infobae",
+      "pubDate": "Sat, 12 Sep 2026 02:39:03 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "A siete meses de las elecciones, Marine Le Pen lidera las encuestas en Francia",
+      "link": "https://www.france24.com/es/video/20260912-a-siete-meses-de-las-elecciones-marine-le-pen-lidera-las-encuestas-en-francia",
+      "source": "France 24",
+      "pubDate": "Sat, 12 Sep 2026 01:25:35 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "Este video de marchas en Pasto contra Abelardo es de junio, no reciente",
       "link": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/este-video-de-marchas-en-pasto-contra-abelardo-es-de-junio-no-reciente/",
@@ -69,14 +85,6 @@
       "pubDate": "Fri, 11 Sep 2026 18:56:47 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Bolsonaro, bajo sospecha de corrupción: ¿por qué es investigado y qué impacto tendría en las presidenciales de Brasil?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260911-bolsonaro-bajo-sospecha-de-corrupci%C3%B3n-por-qu%C3%A9-es-investigado-y-qu%C3%A9-impacto-tendr%C3%ADa-en-las-presidenciales-de-brasil",
-      "source": "France 24",
-      "pubDate": "Fri, 11 Sep 2026 16:49:34 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
