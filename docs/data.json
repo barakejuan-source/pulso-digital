@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T03:50:28.266Z",
+  "updatedAt": "2026-09-12T08:31:10.504Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 8,
       "momentum": {
-        "value": 14.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 10
@@ -47,12 +47,12 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella confirmó que cada mes donará su sueldo a causas sociales, tras entregar el primero a dos ancianatos de Quindío ",
-      "link": "https://www.infobae.com/colombia/2026/09/12/abelardo-de-la-espriella-confirmo-que-cada-mes-donara-su-sueldo-a-causas-sociales-tras-entregar-el-primero-a-dos-ancianatos-de-quindio/",
-      "source": "Infobae",
-      "pubDate": "Sat, 12 Sep 2026 02:39:03 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Expropietario del Banco Master, en el centro del escándalo que salpica a Flávio Bolsonaro",
+      "link": "https://www.france24.com/es/video/20260912-expropietario-del-banco-master-en-el-centro-del-esc%C3%A1ndalo-que-salpica-a-fl%C3%A1vio-bolsonaro",
+      "source": "France 24",
+      "pubDate": "Sat, 12 Sep 2026 03:18:57 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "A siete meses de las elecciones, Marine Le Pen lidera las encuestas en Francia",
