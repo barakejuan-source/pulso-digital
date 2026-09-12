@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T08:31:10.504Z",
+  "updatedAt": "2026-09-12T13:27:34.349Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 19,
+      "trendsScore": 20,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -46,6 +46,22 @@
     }
   ],
   "articles": [
+    {
+      "title": "De $5 a $27 millones tendría que gastar una persona en promedio para poder tener un arma de fuego en Colombia: la lista completa",
+      "link": "https://www.infobae.com/colombia/2026/09/12/de-5-a-27-millones-tendria-que-gastar-una-persona-en-promedio-para-poder-tener-un-arma-de-fuego-en-colombia-la-lista-completa/",
+      "source": "Infobae",
+      "pubDate": "Sat, 12 Sep 2026 13:16:34 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda se refirió nuevamente a los señalamientos del ministro de Defensa en su contra de impulsar el “voto fusil” en las presidenciales: “No ha presentado pruebas”",
+      "link": "https://www.infobae.com/colombia/2026/09/12/ivan-cepeda-se-refirio-nuevamente-a-los-senalamientos-del-ministro-de-defensa-en-su-contra-de-impulsar-el-voto-fusil-en-las-presidenciales-no-ha-presentado-pruebas/",
+      "source": "Infobae",
+      "pubDate": "Sat, 12 Sep 2026 12:31:15 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
     {
       "title": "Expropietario del Banco Master, en el centro del escándalo que salpica a Flávio Bolsonaro",
       "link": "https://www.france24.com/es/video/20260912-expropietario-del-banco-master-en-el-centro-del-esc%C3%A1ndalo-que-salpica-a-fl%C3%A1vio-bolsonaro",
