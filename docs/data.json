@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T16:51:53.561Z",
+  "updatedAt": "2026-09-12T20:22:05.061Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Presidente Abelardo De La Espriella da una semana a Mindefensa y Minjusticia para lograr el sometimiento de alias ‘Pinocho’: ‘No hay negociaciones’",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-da-una-semana-a-mindefensa-y-minjusticia-para-lograr-el-sometimiento-de-alias-pinocho-no-hay-negociaciones-3585602",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-12T13:56:42-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella donó su primer sueldo a hogares geriátricos de Quimbaya: 'Fue una promesa sagrada que hice y la voy a cumplir'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-dono-su-primer-sueldo-a-hogares-geriatricos-de-quimbaya-fue-una-promesa-sagrada-que-hice-y-la-voy-a-cumplir-3585564",
       "source": "El Tiempo",
@@ -67,14 +75,6 @@
       "link": "https://www.france24.com/es/video/20260912-a-siete-meses-de-las-elecciones-marine-le-pen-lidera-las-encuestas-en-francia",
       "source": "France 24",
       "pubDate": "Sat, 12 Sep 2026 01:25:35 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Fabio Bolsonaro, investigado por presunto desvío de dinero público",
-      "link": "https://www.france24.com/es/video/20260911-fabio-bolsonaro-investigado-por-presunto-desv%C3%ADo-de-dinero-p%C3%BAblico",
-      "source": "France 24",
-      "pubDate": "Fri, 11 Sep 2026 19:48:52 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
