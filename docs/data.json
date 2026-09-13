@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-12T23:53:00.391Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-09-13T03:58:50.233Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "En un mes, la Dian aprehendió más de $30.000 millones en contrabando e incautó drones utilizados por criminales: “Se acabó la vagabundería”",
-      "link": "https://www.infobae.com/colombia/2026/09/12/en-un-mes-la-dian-aprehendio-mas-de-30000-millones-en-contrabando-e-incauto-drones-utilizados-por-criminales-se-acabo-la-vagabunderia/",
-      "source": "Infobae",
-      "pubDate": "Sat, 12 Sep 2026 23:25:11 +0000",
+      "title": "Jorge Mora, Ministro de Defensa, responde al presidente Abelardo De La Espriella por alias ‘Pinocho’: ‘No habrá impunidad ni permisividad’",
+      "link": "https://www.eltiempo.com/politica/gobierno/jorge-mora-ministro-de-defensa-responde-al-presidente-abelardo-de-la-espriella-por-alias-pinocho-no-habra-impunidad-ni-permisividad-3585663",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-12T21:43:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -93,14 +93,6 @@
       "pubDate": "Sat, 12 Sep 2026 20:35:17 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Expropietario del Banco Master, en el centro del escándalo que salpica a Flávio Bolsonaro",
-      "link": "https://www.france24.com/es/video/20260912-expropietario-del-banco-master-en-el-centro-del-esc%C3%A1ndalo-que-salpica-a-fl%C3%A1vio-bolsonaro",
-      "source": "France 24",
-      "pubDate": "Sat, 12 Sep 2026 03:18:57 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
