@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-13T03:58:50.233Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-09-13T09:27:17.496Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 19,
+      "trendsScore": 21,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "El refuerzo para Abelardo De La Espriella en el Congreso y el plan de la Cancillería con los pasaportes / En Secreto",
+      "link": "https://www.eltiempo.com/politica/gobierno/el-refuerzo-para-abelardo-de-la-espriella-en-el-congreso-y-el-plan-de-la-cancilleria-con-los-pasaportes-en-secreto-3585631",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-12T23:43:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Jorge Mora, Ministro de Defensa, responde al presidente Abelardo De La Espriella por alias ‘Pinocho’: ‘No habrá impunidad ni permisividad’",
       "link": "https://www.eltiempo.com/politica/gobierno/jorge-mora-ministro-de-defensa-responde-al-presidente-abelardo-de-la-espriella-por-alias-pinocho-no-habra-impunidad-ni-permisividad-3585663",
       "source": "El Tiempo",
@@ -59,14 +67,6 @@
       "link": "https://www.lasillavacia.com/en-vivo/jefe-del-cneb-pide-a-de-la-espriella-reanudar-dialogos/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 12 Sep 2026 23:13:28 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella donó su primer sueldo a hogares geriátricos de Quimbaya: 'Fue una promesa sagrada que hice y la voy a cumplir'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-dono-su-primer-sueldo-a-hogares-geriatricos-de-quimbaya-fue-una-promesa-sagrada-que-hice-y-la-voy-a-cumplir-3585564",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-12T16:33:22-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
