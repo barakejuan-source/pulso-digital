@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T18:39:11.400Z",
+  "updatedAt": "2026-09-13T22:15:42.081Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 22,
+      "trendsScore": 20,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 9,
+      "finalScore": 8,
       "momentum": {
-        "value": 12.5,
+        "value": -11.1,
         "direction": "flat"
       },
-      "probability": 11.1
+      "probability": 10
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,26 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 88.9
+      "probability": 90
     }
   ],
   "articles": [
+    {
+      "title": "La Paz Total, atravesada entre la expansión armada y la defensa de los diálogos territoriales: esta es la radiografía de un fracaso consumado ",
+      "link": "https://www.infobae.com/colombia/2026/09/13/la-paz-total-atravesada-entre-la-expansion-armada-y-la-defensa-de-los-dialogos-territoriales-esta-es-la-radiografia-de-un-fracaso-consumado/",
+      "source": "Infobae",
+      "pubDate": "Sun, 13 Sep 2026 21:00:25 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Pase la tarde de domingo con esta selección de columnas de opinión",
+      "link": "https://www.lasillavacia.com/en-vivo/pase-la-tarde-de-domingo-con-esta-seleccion-de-columnas-de-opinion/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 13 Sep 2026 19:43:45 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "El refuerzo para Abelardo De La Espriella en el Congreso y el plan de la Cancillería con los pasaportes / En Secreto",
       "link": "https://www.eltiempo.com/politica/gobierno/el-refuerzo-para-abelardo-de-la-espriella-en-el-congreso-y-el-plan-de-la-cancilleria-con-los-pasaportes-en-secreto-3585631",
