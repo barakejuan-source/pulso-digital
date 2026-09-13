@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T09:27:17.496Z",
+  "updatedAt": "2026-09-13T14:12:02.747Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 21,
+      "trendsScore": 20,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Presidente Abelardo De La Espriella reporta 19 capturas y golpes al narcotráfico en las últimas 24 horas",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-reporta-19-capturas-y-golpes-al-narcotrafico-en-las-ultimas-24-horas-3585687",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-13T08:52:08-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "El refuerzo para Abelardo De La Espriella en el Congreso y el plan de la Cancillería con los pasaportes / En Secreto",
       "link": "https://www.eltiempo.com/politica/gobierno/el-refuerzo-para-abelardo-de-la-espriella-en-el-congreso-y-el-plan-de-la-cancilleria-con-los-pasaportes-en-secreto-3585631",
