@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T19:08:01.771Z",
+  "updatedAt": "2026-09-14T23:02:10.449Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 7,
       "momentum": {
-        "value": 16.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 8.9
@@ -46,6 +46,30 @@
     }
   ],
   "articles": [
+    {
+      "title": "Keiko Fujimori figura entre los cuatro presidentes con mayor aprobación en Latinoamérica, según ranking",
+      "link": "https://www.infobae.com/peru/2026/09/14/keiko-fujimori-figura-entre-los-cuatro-presidentes-con-mayor-aprobacion-en-latinoamerica-segun-ranking/",
+      "source": "Infobae",
+      "pubDate": "Mon, 14 Sep 2026 23:00:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella declara insubsistente a Ricardo Valencia Ramírez como director del Dane y nombra a Juan Manuel Alvarado Nivia",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-declara-insubsistente-a-ricardo-valencia-ramirez-como-director-del-dane-y-nombra-a-juan-manuel-alvarado-nivia-3586038",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-14T17:45:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gustavo Petro e Iván Cepeda anunciaron que solicitarán réplica a la alocución de Abelardo de la Espriella tras fuertes señalamientos en su contra: “Rechazo la acusación de corrupción”",
+      "link": "https://www.infobae.com/colombia/2026/09/14/gustavo-petro-e-ivan-cepeda-canunciaron-que-solicitaran-replica-a-la-alocucion-de-abelardo-de-la-espriella-tras-fuertes-senalamientos-en-su-contra-rechazo-la-acusacion-de-corrupcion/",
+      "source": "Infobae",
+      "pubDate": "Mon, 14 Sep 2026 22:05:56 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
     {
       "title": "Salvación Nacional y Centro Democrático intensifican pulso entre derechas: ¿qué efectos tendrá de cara a las elecciones regionales?",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/salvacion-nacional-y-centro-democratico-intensifican-pulso-entre-derechas-que-efectos-tendra-de-cara-a-las-elecciones-regionales-3585927",
@@ -91,14 +115,6 @@
       "link": "https://www.eltiempo.com/politica/congreso/entrevista-honorio-henriquez-presidente-del-congreso-revisaremos-los-decretos-de-la-emergencia-economica-3585811",
       "source": "El Tiempo",
       "pubDate": "2026-09-14T06:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "'La autonomía universitaria no significa autonomía en orden público': Gobierno creará protocolo para actuar en universidades en caso de disturbios",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/la-autonomia-universitaria-no-significa-autonomia-en-orden-publico-gobierno-creara-protocolo-para-actuar-en-universidades-en-caso-de-disturbios-3585809",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-13T22:46:35-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
