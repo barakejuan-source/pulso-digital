@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-14T04:06:06.182Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-09-14T12:14:57.861Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 6,
       "momentum": {
-        "value": -25,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 7.7
@@ -47,6 +47,22 @@
   ],
   "articles": [
     {
+      "title": "Entrevista | Honorio Henríquez, presidente del Congreso: 'Revisaremos los decretos de la emergencia económica'",
+      "link": "https://www.eltiempo.com/politica/congreso/entrevista-honorio-henriquez-presidente-del-congreso-revisaremos-los-decretos-de-la-emergencia-economica-3585811",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-14T06:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "'Saquearon al país': Presidente Abelardo De La Espriella anuncia medidas económicas de urgencia y señala a Gustavo Petro de grave estado financiero",
+      "link": "https://www.eltiempo.com/politica/gobierno/saquearon-al-pais-presidente-de-la-espriella-anuncia-medidas-economicas-de-urgencia-y-senala-a-gustavo-petro-de-grave-estado-financiero-3585782",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-14T00:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "'La autonomía universitaria no significa autonomía en orden público': Gobierno creará protocolo para actuar en universidades en caso de disturbios",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/la-autonomia-universitaria-no-significa-autonomia-en-orden-publico-gobierno-creara-protocolo-para-actuar-en-universidades-en-caso-de-disturbios-3585809",
       "source": "El Tiempo",
@@ -63,34 +79,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "'Saquearon al país': Presidente Abelardo De La Espriella anuncia medidas económicas de urgencia y señala a Gustavo Petro de grave estado financiero",
-      "link": "https://www.eltiempo.com/politica/gobierno/saquearon-al-pais-presidente-de-la-espriella-anuncia-medidas-economicas-de-urgencia-y-senala-a-gustavo-petro-de-grave-estado-financiero-3585782",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-13T21:04:49-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Pase la tarde de domingo con esta selección de columnas de opinión",
       "link": "https://www.lasillavacia.com/en-vivo/pase-la-tarde-de-domingo-con-esta-seleccion-de-columnas-de-opinion/",
       "source": "La Silla Vacía",
       "pubDate": "Sun, 13 Sep 2026 19:43:45 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El refuerzo para Abelardo De La Espriella en el Congreso y el plan de la Cancillería con los pasaportes / En Secreto",
-      "link": "https://www.eltiempo.com/politica/gobierno/el-refuerzo-para-abelardo-de-la-espriella-en-el-congreso-y-el-plan-de-la-cancilleria-con-los-pasaportes-en-secreto-3585631",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-13T10:19:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Jorge Mora, Ministro de Defensa, responde al presidente Abelardo De La Espriella por alias ‘Pinocho’: ‘No habrá impunidad ni permisividad’",
-      "link": "https://www.eltiempo.com/politica/gobierno/jorge-mora-ministro-de-defensa-responde-al-presidente-abelardo-de-la-espriella-por-alias-pinocho-no-habra-impunidad-ni-permisividad-3585663",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-12T21:43:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
