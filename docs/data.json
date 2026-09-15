@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T11:23:55.875Z",
+  "updatedAt": "2026-09-15T16:36:13.780Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 14,
+      "trendsScore": 12,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 6,
+      "finalScore": 5,
       "momentum": {
-        "value": 0,
+        "value": -16.7,
         "direction": "flat"
       },
-      "probability": 7.7
+      "probability": 6.5
     },
     {
       "id": "abelardo_espriella",
@@ -42,21 +42,37 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 92.3
+      "probability": 93.5
     }
   ],
   "articles": [
     {
-      "title": "Salvación Nacional y Centro Democrático intensifican pulso entre derechas: ¿qué efectos tendrá de cara a las elecciones regionales?",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/salvacion-nacional-y-centro-democratico-intensifican-pulso-entre-derechas-que-efectos-tendra-de-cara-a-las-elecciones-regionales-3585927",
+      "title": "Moción de censura contra el ministro Jaime Andrés Beltrán: así está el pulso de las fuerzas en el Senado",
+      "link": "https://www.infobae.com/colombia/2026/09/15/mocion-de-censura-contra-el-ministro-jaime-andres-beltran-asi-esta-el-pulso-de-las-fuerzas-en-el-senado/",
+      "source": "Infobae",
+      "pubDate": "Tue, 15 Sep 2026 16:11:26 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ricardo Valencia responde a su salida del Dane tras ser declarado insubsistente por presidente Abelardo De La Espriella: 'No encontraba anomalías'",
+      "link": "https://www.eltiempo.com/politica/gobierno/ricardo-valencia-responde-a-su-salida-del-dane-tras-ser-declarado-insubsistente-por-presidente-abelardo-de-la-espriella-no-encontraba-anomalias-3586134",
       "source": "El Tiempo",
-      "pubDate": "2026-09-14T21:57:53-05:00",
+      "pubDate": "2026-09-15T10:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo De La Espriella tiene las mayorías en moción de censura contra el ministro de Vivienda, Jaime Andrés Beltrán",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-tiene-las-mayorias-en-mocion-de-censura-contra-el-ministro-de-vivienda-jaime-andres-beltran-3586141",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-15T08:48:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
       "title": "Colombia anuncia acuerdos de seguridad con Estados Unidos",
-      "link": "https://www.france24.com/es/video/20260915-colombia-anuncia-acuerdos-de-seguridad-con-estados-unidos",
+      "link": "http://www.france24.com/es/video/20260915-colombia-anuncia-acuerdos-de-seguridad-con-estados-unidos",
       "source": "France 24",
       "pubDate": "Tue, 15 Sep 2026 01:24:35 GMT",
       "candidateId": "abelardo_espriella",
@@ -75,22 +91,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-declara-insubsistente-a-ricardo-valencia-ramirez-como-director-del-dane-y-nombra-a-juan-manuel-alvarado-nivia-3586038",
       "source": "El Tiempo",
       "pubDate": "2026-09-14T18:23:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella volvió a hablar de apertura de un consulado de EE. UU. en Barranquilla tras reunión con Marco Rubio: 'Etapa más importante'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-volvio-a-hablar-de-apertura-de-un-consulado-de-ee-uu-en-barranquilla-tras-reunion-con-marco-rubio-etapa-mas-importante-3585890",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-14T11:30:21-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Políticos reaccionan a plan del Gobierno para intervenir en campus universitarios en caso de disturbios",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/politicos-reaccionan-a-plan-del-gobierno-para-intervenir-en-campus-universitarios-en-caso-de-disturbios-3585860",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-14T09:04:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
