@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T04:17:08.809Z",
+  "updatedAt": "2026-09-15T11:23:55.875Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 6,
       "momentum": {
-        "value": -14.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 7.7
