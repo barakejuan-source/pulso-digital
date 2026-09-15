@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T16:36:13.780Z",
+  "updatedAt": "2026-09-15T21:02:04.270Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 12,
+      "trendsScore": 13,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 5,
       "momentum": {
-        "value": -16.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 6.5
@@ -47,14 +47,6 @@
   ],
   "articles": [
     {
-      "title": "Moción de censura contra el ministro Jaime Andrés Beltrán: así está el pulso de las fuerzas en el Senado",
-      "link": "https://www.infobae.com/colombia/2026/09/15/mocion-de-censura-contra-el-ministro-jaime-andres-beltran-asi-esta-el-pulso-de-las-fuerzas-en-el-senado/",
-      "source": "Infobae",
-      "pubDate": "Tue, 15 Sep 2026 16:11:26 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Ricardo Valencia responde a su salida del Dane tras ser declarado insubsistente por presidente Abelardo De La Espriella: 'No encontraba anomalías'",
       "link": "https://www.eltiempo.com/politica/gobierno/ricardo-valencia-responde-a-su-salida-del-dane-tras-ser-declarado-insubsistente-por-presidente-abelardo-de-la-espriella-no-encontraba-anomalias-3586134",
       "source": "El Tiempo",
@@ -67,30 +59,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-tiene-las-mayorias-en-mocion-de-censura-contra-el-ministro-de-vivienda-jaime-andres-beltran-3586141",
       "source": "El Tiempo",
       "pubDate": "2026-09-15T08:48:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia anuncia acuerdos de seguridad con Estados Unidos",
-      "link": "http://www.france24.com/es/video/20260915-colombia-anuncia-acuerdos-de-seguridad-con-estados-unidos",
-      "source": "France 24",
-      "pubDate": "Tue, 15 Sep 2026 01:24:35 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anunció que la Dian incautó mercancía ilegal extranjera avaluada en $10.000 millones: 'La legalidad se defiende'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-que-la-dian-incauto-mercancia-ilegal-extranjera-avaluada-en-10-000-millones-la-legalidad-se-defiende-3586063",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-14T19:17:22-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella declara insubsistente a Ricardo Valencia Ramírez como director del Dane y nombra a Juan Manuel Alvarado Nivia",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-declara-insubsistente-a-ricardo-valencia-ramirez-como-director-del-dane-y-nombra-a-juan-manuel-alvarado-nivia-3586038",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-14T18:23:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
