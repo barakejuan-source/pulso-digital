@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T13:16:48.042Z",
+  "updatedAt": "2026-09-16T18:03:09.140Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 10,
+      "trendsScore": 9,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,28 +47,76 @@
   ],
   "articles": [
     {
-      "title": "Sacerdote hizo polémicos cuestionamientos a los feligreses durante su sermón y se refirió al presidente Abelardo de la Espriella caminando entre cadáveres: “Toca es plomo”",
-      "link": "https://www.infobae.com/colombia/2026/09/15/sacerdote-hizo-serios-cuestionamientos-a-los-feligreses-durante-su-sermon-y-se-refirio-al-presidente-abelardo-de-la-espriella-caminando-entre-cadaveres-toca-es-plomo/",
+      "title": "Lucas Murillo, niño con condición cardíaca que suplicó a Abelardo de la Espriella que le salvara la vida, entrará a la lista de trasplante de órganos",
+      "link": "https://www.infobae.com/colombia/2026/09/16/lucas-murillo-nino-con-condicion-cardiaca-que-suplico-a-abelardo-de-la-espriella-que-le-salvara-la-vida-entrara-a-la-lista-de-trasplante-de-organos/",
       "source": "Infobae",
-      "pubDate": "Wed, 16 Sep 2026 12:42:01 +0000",
+      "pubDate": "Wed, 16 Sep 2026 18:01:44 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "La nueva embajadora de Colombia en Estados Unidos, María Consuelo Araújo, entregó sus credenciales a Donald Trump: así fue el encuentro ",
-      "link": "https://www.infobae.com/colombia/2026/09/16/la-nueva-embajadora-en-estados-unidos-maria-consuelo-araujo-entrego-sus-credenciales-a-donald-trump-asi-fue-el-encuentro/",
+      "title": "Pacto Histórico quiere sacar al ministro de Defensa Jorge Enrique Mora: lo someterán a moción de censura por bombardeo en el que murieron tres menores",
+      "link": "https://www.infobae.com/colombia/2026/09/16/pacto-historico-quiere-sacar-al-ministro-de-defensa-jorge-enrique-mora-lo-someteran-a-mocion-de-censura-por-bombardeo-en-el-que-murieron-tres-menores/",
       "source": "Infobae",
-      "pubDate": "Wed, 16 Sep 2026 12:33:51 +0000",
+      "pubDate": "Wed, 16 Sep 2026 17:46:43 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Desayune informado con las movidas de este 16 de septiembre de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-16-de-septiembre-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 16 Sep 2026 12:20:00 +0000",
+      "title": "No hubo sobrevivientes en el accidente de la avioneta de la misión médica accidentada tras despegar del Chocó: el presidente Abelardo de la Espriella confirmó la noticia",
+      "link": "https://www.infobae.com/colombia/2026/09/16/no-hubo-sobrevivientes-en-el-accidente-de-la-avioneta-de-la-mision-medica-accidentada-tras-despegar-del-choco-el-presidente-abelardo-de-la-espriella-confirmo-la-noticia/",
+      "source": "Infobae",
+      "pubDate": "Wed, 16 Sep 2026 17:44:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Orlando Abello, socio de Abelardo de la Espriella en su oficina de abogados, será el nuevo embajador de Colombia ante Costa Rica: esta es su hoja de vida",
+      "link": "https://www.infobae.com/colombia/2026/09/16/orlando-abello-socio-de-abelardo-de-la-espriella-en-su-oficina-de-abogados-sera-el-nuevo-embajador-de-colombia-ante-costa-rica-esta-es-su-hoja-de-vida/",
+      "source": "Infobae",
+      "pubDate": "Wed, 16 Sep 2026 17:42:41 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Estados Unidos mantiene descertificación a Colombia en lucha antidrogas: así se aplicará la medida",
+      "link": "http://www.france24.com/es/am%C3%A9rica-latina/20260916-ee-uu-mantiene-descertificaci%C3%B3n-a-colombia-en-lucha-antidrogas-espera-avances-en-nuevo-gobierno",
+      "source": "France 24",
+      "pubDate": "Wed, 16 Sep 2026 16:53:05 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "'Es el reflejo del desgobierno de los últimos cuatro años': embajadora María Consuelo Araújo se pronunció tras descertificación a Colombia",
+      "link": "https://www.eltiempo.com/politica/gobierno/es-el-resultado-del-desgobierno-de-los-ultimos-cuatro-anos-embajadora-maria-consuelo-araujo-se-pronuncio-tras-descertificacion-a-colombia-3586473",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-16T10:53:37-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Cuál es el panorama en el politizado Supremo brasileño previo a las elecciones?",
+      "link": "http://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260916-cu%C3%A1l-es-el-panorama-en-el-politizado-supremo-brasile%C3%B1o-previo-a-las-elecciones",
+      "source": "France 24",
+      "pubDate": "Wed, 16 Sep 2026 14:55:13 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Cuál es el panorama en el politizado Supremo brasileño previo a las elecciones?",
+      "link": "http://www.france24.com/es/video/20260916-cu%C3%A1l-es-el-panorama-en-el-politizado-supremo-brasile%C3%B1o-previo-a-las-elecciones",
+      "source": "France 24",
+      "pubDate": "Wed, 16 Sep 2026 14:36:20 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Fiscalía General de la Nación inspeccionó sede de Polo Democrático Alternativo en Bogotá: esta fue la razón de operativo y su relación con Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/fiscalia-general-de-la-nacion-inspecciono-sede-de-polo-democratico-alternativo-en-bogota-esta-fue-la-razon-de-operativo-y-su-relacion-con-ivan-cepeda-3586451",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-16T09:04:38-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Abelardo De La Espriella, presidente de Colombia, anuncia 187 proyectos en su primer paquete de ‘victorias tempranas’: 'De frente y con hechos'",
