@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T21:02:04.270Z",
+  "updatedAt": "2026-09-16T00:04:22.333Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 13,
+      "trendsScore": 9,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 5,
+      "finalScore": 4,
       "momentum": {
-        "value": 0,
+        "value": -20,
         "direction": "flat"
       },
-      "probability": 6.5
+      "probability": 5.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,25 +42,8 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 93.5
+      "probability": 94.7
     }
   ],
-  "articles": [
-    {
-      "title": "Ricardo Valencia responde a su salida del Dane tras ser declarado insubsistente por presidente Abelardo De La Espriella: 'No encontraba anomalías'",
-      "link": "https://www.eltiempo.com/politica/gobierno/ricardo-valencia-responde-a-su-salida-del-dane-tras-ser-declarado-insubsistente-por-presidente-abelardo-de-la-espriella-no-encontraba-anomalias-3586134",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-15T10:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella tiene las mayorías en moción de censura contra el ministro de Vivienda, Jaime Andrés Beltrán",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-tiene-las-mayorias-en-mocion-de-censura-contra-el-ministro-de-vivienda-jaime-andres-beltran-3586141",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-15T08:48:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    }
-  ]
+  "articles": []
 }
