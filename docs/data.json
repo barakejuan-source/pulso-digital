@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T18:03:09.140Z",
+  "updatedAt": "2026-09-16T22:46:55.987Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 11,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,34 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Lucas Murillo, niño con condición cardíaca que suplicó a Abelardo de la Espriella que le salvara la vida, entrará a la lista de trasplante de órganos",
-      "link": "https://www.infobae.com/colombia/2026/09/16/lucas-murillo-nino-con-condicion-cardiaca-que-suplico-a-abelardo-de-la-espriella-que-le-salvara-la-vida-entrara-a-la-lista-de-trasplante-de-organos/",
+      "title": "María Consuelo Araújo posó con Donald Trump en la Casa Blanca al presentar sus cartas credenciales como embajadora de Colombia",
+      "link": "https://www.infobae.com/colombia/2026/09/16/maria-consuelo-araujo-poso-con-donald-trump-en-la-casa-blanca-al-presentar-sus-cartas-credenciales-como-embajadora-de-colombia/",
       "source": "Infobae",
-      "pubDate": "Wed, 16 Sep 2026 18:01:44 +0000",
+      "pubDate": "Wed, 16 Sep 2026 22:18:10 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Pacto Histórico quiere sacar al ministro de Defensa Jorge Enrique Mora: lo someterán a moción de censura por bombardeo en el que murieron tres menores",
-      "link": "https://www.infobae.com/colombia/2026/09/16/pacto-historico-quiere-sacar-al-ministro-de-defensa-jorge-enrique-mora-lo-someteran-a-mocion-de-censura-por-bombardeo-en-el-que-murieron-tres-menores/",
-      "source": "Infobae",
-      "pubDate": "Wed, 16 Sep 2026 17:46:43 +0000",
+      "title": "Presidente Abelardo De La Espriella se reunirá el próximo martes con la presidenta de Costa Rica, Laura Fernández Delgado",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-reunira-el-proximo-martes-con-la-presidenta-de-costa-rica-laura-fernandez-delgado-3586611",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-16T17:06:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "No hubo sobrevivientes en el accidente de la avioneta de la misión médica accidentada tras despegar del Chocó: el presidente Abelardo de la Espriella confirmó la noticia",
-      "link": "https://www.infobae.com/colombia/2026/09/16/no-hubo-sobrevivientes-en-el-accidente-de-la-avioneta-de-la-mision-medica-accidentada-tras-despegar-del-choco-el-presidente-abelardo-de-la-espriella-confirmo-la-noticia/",
-      "source": "Infobae",
-      "pubDate": "Wed, 16 Sep 2026 17:44:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Orlando Abello, socio de Abelardo de la Espriella en su oficina de abogados, será el nuevo embajador de Colombia ante Costa Rica: esta es su hoja de vida",
-      "link": "https://www.infobae.com/colombia/2026/09/16/orlando-abello-socio-de-abelardo-de-la-espriella-en-su-oficina-de-abogados-sera-el-nuevo-embajador-de-colombia-ante-costa-rica-esta-es-su-hoja-de-vida/",
-      "source": "Infobae",
-      "pubDate": "Wed, 16 Sep 2026 17:42:41 +0000",
+      "title": "Gobierno de Abelardo De La Espriella se la juega por un civil para dirigir a Indumil: Lucas Eduardo Ariza será su nuevo presidente",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-se-la-juega-por-un-civil-para-dirigir-a-indumil-lucas-eduardo-ariza-sera-su-nuevo-presidente-3586582",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-16T15:42:28-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -117,30 +109,6 @@
       "pubDate": "2026-09-16T09:04:38-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo De La Espriella, presidente de Colombia, anuncia 187 proyectos en su primer paquete de ‘victorias tempranas’: 'De frente y con hechos'",
-      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-presidente-de-colombia-anuncia-187-proyectos-en-su-primer-paquete-de-victorias-tempranas-de-frente-y-con-hechos-3586422",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-16T07:05:57-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella ordenó el traslado de 120 presos de Buenaventura a cárceles de otras regiones de Colombia: 'Bien motiladitos'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordeno-el-traslado-de-120-presos-de-buenaventura-a-carceles-de-otras-regiones-de-colombia-3586379",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-16T06:15:39-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Oposición hace réplica a la alocución presidencial de Abelardo De La Espriella sobre las finanzas de la Nación",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/oposicion-hace-replica-a-la-alocucion-presidencial-de-abelardo-de-la-espriella-sobre-las-finanzas-de-la-nacion-3586360",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-15T20:42:14-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
