@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T00:04:22.333Z",
+  "updatedAt": "2026-09-16T07:26:38.990Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 4,
       "momentum": {
-        "value": -20,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 5.3
@@ -45,5 +45,30 @@
       "probability": 94.7
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Fiscalía inspeccionó sede del Polo Democrático por presuntas irregularidades en financiación de consulta del Pacto Histórico",
+      "link": "https://www.infobae.com/colombia/2026/09/16/fiscalia-inspecciono-sede-del-polo-democratico-por-presuntas-irregularidades-en-financiacion-de-consulta-del-pacto-historico/",
+      "source": "Infobae",
+      "pubDate": "Wed, 16 Sep 2026 07:06:58 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella ordenó el traslado de 120 presos de Buenaventura a cárceles de otras regiones de Colombia: 'Bien motiladitos'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordeno-el-traslado-de-120-presos-de-buenaventura-a-carceles-de-otras-regiones-de-colombia-3586379",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-15T23:48:59-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Oposición hace réplica a la alocución presidencial de Abelardo De La Espriella sobre las finanzas de la Nación",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/oposicion-hace-replica-a-la-alocucion-presidencial-de-abelardo-de-la-espriella-sobre-las-finanzas-de-la-nacion-3586360",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-15T20:42:14-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    }
+  ]
 }
