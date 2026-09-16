@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T07:26:38.990Z",
+  "updatedAt": "2026-09-16T13:16:48.042Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 10,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,18 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Fiscalía inspeccionó sede del Polo Democrático por presuntas irregularidades en financiación de consulta del Pacto Histórico",
-      "link": "https://www.infobae.com/colombia/2026/09/16/fiscalia-inspecciono-sede-del-polo-democratico-por-presuntas-irregularidades-en-financiacion-de-consulta-del-pacto-historico/",
+      "title": "Sacerdote hizo polémicos cuestionamientos a los feligreses durante su sermón y se refirió al presidente Abelardo de la Espriella caminando entre cadáveres: “Toca es plomo”",
+      "link": "https://www.infobae.com/colombia/2026/09/15/sacerdote-hizo-serios-cuestionamientos-a-los-feligreses-durante-su-sermon-y-se-refirio-al-presidente-abelardo-de-la-espriella-caminando-entre-cadaveres-toca-es-plomo/",
       "source": "Infobae",
-      "pubDate": "Wed, 16 Sep 2026 07:06:58 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Wed, 16 Sep 2026 12:42:01 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La nueva embajadora de Colombia en Estados Unidos, María Consuelo Araújo, entregó sus credenciales a Donald Trump: así fue el encuentro ",
+      "link": "https://www.infobae.com/colombia/2026/09/16/la-nueva-embajadora-en-estados-unidos-maria-consuelo-araujo-entrego-sus-credenciales-a-donald-trump-asi-fue-el-encuentro/",
+      "source": "Infobae",
+      "pubDate": "Wed, 16 Sep 2026 12:33:51 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Desayune informado con las movidas de este 16 de septiembre de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-16-de-septiembre-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 16 Sep 2026 12:20:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella, presidente de Colombia, anuncia 187 proyectos en su primer paquete de ‘victorias tempranas’: 'De frente y con hechos'",
+      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-presidente-de-colombia-anuncia-187-proyectos-en-su-primer-paquete-de-victorias-tempranas-de-frente-y-con-hechos-3586422",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-16T07:05:57-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Presidente Abelardo De La Espriella ordenó el traslado de 120 presos de Buenaventura a cárceles de otras regiones de Colombia: 'Bien motiladitos'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordeno-el-traslado-de-120-presos-de-buenaventura-a-carceles-de-otras-regiones-de-colombia-3586379",
       "source": "El Tiempo",
-      "pubDate": "2026-09-15T23:48:59-05:00",
+      "pubDate": "2026-09-16T06:15:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
