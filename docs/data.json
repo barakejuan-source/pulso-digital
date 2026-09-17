@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T11:18:14.515Z",
+  "updatedAt": "2026-09-17T16:34:45.456Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 7,
+      "trendsScore": 8,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,6 +47,38 @@
   ],
   "articles": [
     {
+      "title": "Digno Palomino, jefe de “Los Pepes”, será trasladado a la cárcel de máxima seguridad de Palogordo en Girón, Santander: este es el prontuario del criminal",
+      "link": "https://www.infobae.com/colombia/2026/09/17/digno-palomino-jefe-de-los-pepes-sera-trasladado-a-la-carcel-de-maxima-seguridad-de-palogordo-en-giron-santander-este-es-el-prontuario-del-criminal/",
+      "source": "Infobae",
+      "pubDate": "Thu, 17 Sep 2026 16:10:26 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo de la Espriella tomó importante decisión sobre la intervención en la EPS Famisanar: continuará en funcionamiento",
+      "link": "https://www.infobae.com/colombia/2026/09/17/gobierno-de-abelardo-de-la-espriella-tomo-importante-decision-sobre-la-intervencion-en-la-eps-famisanar-continuara-en-funcionamiento/",
+      "source": "Infobae",
+      "pubDate": "Thu, 17 Sep 2026 16:07:05 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella se reunió con representantes de comunidades indígenas en Barranquilla: ¿de qué hablaron?",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-se-reunio-con-representantes-de-comunidades-indigenas-en-barranquilla-de-que-hablaron-3586728",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-17T07:54:22-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella posesionó a la nueva ministra de Educación, Ilva Myriam Hoyos",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-posesiono-a-la-nueva-ministra-de-educacion-ilva-myriam-hoyos-3586718",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-17T07:07:24-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Gobierno de Abelardo De La Espriella se la juega por un civil para dirigir a Indumil: Lucas Eduardo Ariza será su nuevo presidente",
       "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-se-la-juega-por-un-civil-para-dirigir-a-indumil-lucas-eduardo-ariza-sera-su-nuevo-presidente-3586582",
       "source": "El Tiempo",
@@ -59,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-reunira-el-proximo-martes-con-la-presidenta-de-costa-rica-laura-fernandez-delgado-3586611",
       "source": "El Tiempo",
       "pubDate": "2026-09-16T17:06:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "'Es el reflejo del desgobierno de los últimos cuatro años': embajadora María Consuelo Araújo se pronunció tras la descertificación a Colombia",
-      "link": "https://www.eltiempo.com/politica/gobierno/es-el-resultado-del-desgobierno-de-los-ultimos-cuatro-anos-embajadora-maria-consuelo-araujo-se-pronuncio-tras-descertificacion-a-colombia-3586473",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-16T10:53:37-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
