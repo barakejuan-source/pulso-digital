@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T22:46:55.987Z",
+  "updatedAt": "2026-09-17T04:08:59.282Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 11,
+      "trendsScore": 8,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 4,
+      "finalScore": 3,
       "momentum": {
-        "value": 0,
+        "value": -25,
         "direction": "flat"
       },
-      "probability": 5.3
+      "probability": 4
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,15 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 94.7
+      "probability": 96
     }
   ],
   "articles": [
     {
-      "title": "María Consuelo Araújo posó con Donald Trump en la Casa Blanca al presentar sus cartas credenciales como embajadora de Colombia",
-      "link": "https://www.infobae.com/colombia/2026/09/16/maria-consuelo-araujo-poso-con-donald-trump-en-la-casa-blanca-al-presentar-sus-cartas-credenciales-como-embajadora-de-colombia/",
-      "source": "Infobae",
-      "pubDate": "Wed, 16 Sep 2026 22:18:10 +0000",
+      "title": "Gobierno de Abelardo De La Espriella se la juega por un civil para dirigir a Indumil: Lucas Eduardo Ariza será su nuevo presidente",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-se-la-juega-por-un-civil-para-dirigir-a-indumil-lucas-eduardo-ariza-sera-su-nuevo-presidente-3586582",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-16T18:26:05-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -63,52 +63,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gobierno de Abelardo De La Espriella se la juega por un civil para dirigir a Indumil: Lucas Eduardo Ariza será su nuevo presidente",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-se-la-juega-por-un-civil-para-dirigir-a-indumil-lucas-eduardo-ariza-sera-su-nuevo-presidente-3586582",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-16T15:42:28-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Estados Unidos mantiene descertificación a Colombia en lucha antidrogas: así se aplicará la medida",
-      "link": "http://www.france24.com/es/am%C3%A9rica-latina/20260916-ee-uu-mantiene-descertificaci%C3%B3n-a-colombia-en-lucha-antidrogas-espera-avances-en-nuevo-gobierno",
-      "source": "France 24",
-      "pubDate": "Wed, 16 Sep 2026 16:53:05 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "'Es el reflejo del desgobierno de los últimos cuatro años': embajadora María Consuelo Araújo se pronunció tras descertificación a Colombia",
+      "title": "'Es el reflejo del desgobierno de los últimos cuatro años': embajadora María Consuelo Araújo se pronunció tras la descertificación a Colombia",
       "link": "https://www.eltiempo.com/politica/gobierno/es-el-resultado-del-desgobierno-de-los-ultimos-cuatro-anos-embajadora-maria-consuelo-araujo-se-pronuncio-tras-descertificacion-a-colombia-3586473",
       "source": "El Tiempo",
       "pubDate": "2026-09-16T10:53:37-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Cuál es el panorama en el politizado Supremo brasileño previo a las elecciones?",
-      "link": "http://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260916-cu%C3%A1l-es-el-panorama-en-el-politizado-supremo-brasile%C3%B1o-previo-a-las-elecciones",
-      "source": "France 24",
-      "pubDate": "Wed, 16 Sep 2026 14:55:13 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Cuál es el panorama en el politizado Supremo brasileño previo a las elecciones?",
-      "link": "http://www.france24.com/es/video/20260916-cu%C3%A1l-es-el-panorama-en-el-politizado-supremo-brasile%C3%B1o-previo-a-las-elecciones",
-      "source": "France 24",
-      "pubDate": "Wed, 16 Sep 2026 14:36:20 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Fiscalía General de la Nación inspeccionó sede de Polo Democrático Alternativo en Bogotá: esta fue la razón de operativo y su relación con Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/fiscalia-general-de-la-nacion-inspecciono-sede-de-polo-democratico-alternativo-en-bogota-esta-fue-la-razon-de-operativo-y-su-relacion-con-ivan-cepeda-3586451",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-16T09:04:38-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
