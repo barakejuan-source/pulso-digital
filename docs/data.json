@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T10:51:33.119Z",
+  "updatedAt": "2026-09-18T16:05:54.035Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 8,
+      "trendsScore": 7,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Los proyectos más importantes a los que les apostará el Gobierno de Abelardo De La Espriella en el primer año legislativo",
-      "link": "https://www.eltiempo.com/politica/gobierno/los-proyectos-mas-importantes-a-los-que-les-apostara-el-gobierno-de-abelardo-de-la-espriella-en-el-primer-ano-legislativo-3586840",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-17T13:23:34-05:00",
+      "title": "Abelardo De la Espriella modificó por tercera vez su declaración de bienes e incorporó nuevas deudas: así quedaron las cuentas    ",
+      "link": "https://www.infobae.com/colombia/2026/09/18/abelardo-de-la-espriella-modifico-por-tercera-vez-su-declaracion-de-bienes-e-incorporo-nuevas-deudas-asi-quedaron-las-cuentas/",
+      "source": "Infobae",
+      "pubDate": "Fri, 18 Sep 2026 16:00:39 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Estos son los 15 decretos que expidió Abelardo de la Espriella para atender la emergencia por el terremoto del 10 de agosto: incluye medidas en salud, transporte, vivienda, impuestos y empleo ",
+      "link": "https://www.infobae.com/colombia/2026/09/18/estos-son-los-15-decretos-que-expidio-abelardo-de-la-espriella-para-atender-la-emergencia-por-el-terremoto-del-10-de-agosto-incluye-medidas-en-salud-transporte-vivienda-impuestos-y-empleo/",
+      "source": "Infobae",
+      "pubDate": "Fri, 18 Sep 2026 15:54:46 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella reaccionó a la absolución del coronel (r) Luis Alfonso Plazas Vega en Estados Unidos: “Se hizo justicia con un héroe de la Patria”",
+      "link": "https://www.infobae.com/colombia/2026/09/18/abelardo-de-la-espriella-reacciono-a-la-absolucion-del-coronel-r-luis-alfonso-plazas-vega-en-estados-unidos-se-hizo-justicia-con-un-heroe-de-la-patria/",
+      "source": "Infobae",
+      "pubDate": "Fri, 18 Sep 2026 15:51:11 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
