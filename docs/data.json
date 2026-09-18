@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T21:07:03.091Z",
+  "updatedAt": "2026-09-18T00:01:27.534Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 8,
+      "trendsScore": 9,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 3,
+      "finalScore": 4,
       "momentum": {
-        "value": 0,
+        "value": 33.3,
         "direction": "flat"
       },
-      "probability": 4
+      "probability": 5.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,39 +42,15 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 96
+      "probability": 94.7
     }
   ],
   "articles": [
-    {
-      "title": "Abelardo de la Espriella ordenó investigar a la Universidad de La Guajira: “Que se revisen las actuaciones del señor rector”",
-      "link": "https://www.infobae.com/colombia/2026/09/17/abelardo-de-la-espriella-ordeno-investigar-a-la-universidad-de-la-guajira-que-se-revisen-las-actuaciones-del-senor-rector/",
-      "source": "Infobae",
-      "pubDate": "Thu, 17 Sep 2026 21:02:38 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ateos reaccionaron a fallo de juez que le ordenó a Abelardo de la Espriella abstenerse de usar su investidura pública para realizar actos religiosos oficiales",
-      "link": "https://www.infobae.com/colombia/2026/09/17/ateos-entutelaron-a-abelardo-de-la-espriella-y-un-juez-le-ordeno-abstenerse-de-usar-su-investidura-publica-para-realizar-actos-religiosos-oficiales/",
-      "source": "Infobae",
-      "pubDate": "Thu, 17 Sep 2026 20:37:23 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
     {
       "title": "Los proyectos más importantes a los que les apostará el Gobierno de Abelardo De La Espriella en el primer año legislativo",
       "link": "https://www.eltiempo.com/politica/gobierno/los-proyectos-mas-importantes-a-los-que-les-apostara-el-gobierno-de-abelardo-de-la-espriella-en-el-primer-ano-legislativo-3586840",
       "source": "El Tiempo",
       "pubDate": "2026-09-17T13:23:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella se reunió con representantes de comunidades indígenas en Barranquilla: ¿de qué hablaron?",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-se-reunio-con-representantes-de-comunidades-indigenas-en-barranquilla-de-que-hablaron-3586728",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-17T07:54:22-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
