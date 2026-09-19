@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T10:34:46.388Z",
+  "updatedAt": "2026-09-19T15:38:16.454Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 21,
+      "trendsScore": 19,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 8,
       "momentum": {
-        "value": -11.1,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 10
@@ -47,12 +47,12 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella no pateó bolsas con cadáveres de Operación Azarías",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/abelardo-de-la-espriella-no-pateo-bolsas-con-cadaveres-de-operacion-azarias/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 18 Sep 2026 22:25:50 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Lista de candidatos a la alcaldía de San Juan de Lurigancho en las Elecciones 2026",
+      "link": "https://www.infobae.com/peru/2026/09/15/conoce-la-lista-de-candidatos-a-la-alcaldia-de-san-juan-de-lurigancho-para-las-elecciones-2026/",
+      "source": "Infobae",
+      "pubDate": "Sat, 19 Sep 2026 15:20:34 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Juez ordena al Ministerio de Defensa entregar en 48 horas información completa sobre los vuelos del presidente Abelardo De La Espriella",
