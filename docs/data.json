@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T00:00:37.558Z",
+  "updatedAt": "2026-09-19T04:29:13.186Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 22,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 4,
+      "finalScore": 9,
       "momentum": {
-        "value": 100,
-        "direction": "flat"
+        "value": 125,
+        "direction": "up"
       },
-      "probability": 5.3
+      "probability": 11.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,18 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 94.7
+      "probability": 88.9
     }
   ],
   "articles": [
+    {
+      "title": "Iván Cepeda informó que respaldará las movilizaciones contra el gobierno de Abelardo de la Espriella por presuntas amenazas a derechos",
+      "link": "https://www.infobae.com/colombia/2026/09/19/ivan-cepeda-informo-que-respaldara-las-movilizaciones-contra-el-gobierno-de-abelardo-de-la-espriella-por-presuntas-amenazas-a-derechos/",
+      "source": "Infobae",
+      "pubDate": "Sat, 19 Sep 2026 03:01:13 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
     {
       "title": "Abelardo de la Espriella no pateó bolsas con cadáveres de Operación Azarías",
       "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/abelardo-de-la-espriella-no-pateo-bolsas-con-cadaveres-de-operacion-azarias/",
