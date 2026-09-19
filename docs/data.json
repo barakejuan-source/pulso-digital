@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T20:39:24.013Z",
+  "updatedAt": "2026-09-19T00:00:37.558Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 6,
+      "trendsScore": 9,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 2,
+      "finalScore": 4,
       "momentum": {
-        "value": -33.3,
+        "value": 100,
         "direction": "flat"
       },
-      "probability": 2.7
+      "probability": 5.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,39 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 97.3
+      "probability": 94.7
     }
   ],
   "articles": [
     {
-      "title": "Juez ordena al Ministerio de Defensa entregar información completa sobre los vuelos del presidente Abelardo De La Espriella en 48 horas",
+      "title": "Abelardo de la Espriella no pateó bolsas con cadáveres de Operación Azarías",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/abelardo-de-la-espriella-no-pateo-bolsas-con-cadaveres-de-operacion-azarias/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 18 Sep 2026 22:25:50 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Juez ordena al Ministerio de Defensa entregar en 48 horas información completa sobre los vuelos del presidente Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/gobierno/juez-ordena-al-ministerio-de-defensa-entregar-informacion-completa-sobre-los-vuelos-del-presidente-abelardo-de-la-espriella-en-48-horas-3587132",
       "source": "El Tiempo",
-      "pubDate": "2026-09-18T14:08:57-05:00",
+      "pubDate": "2026-09-18T16:44:31-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella palpitó la intervención de Colombia en la Asamblea de la ONU: 'Va a generar un gran impacto'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-palpito-la-intervencion-de-colombia-en-la-asamblea-de-la-onu-va-generar-un-gran-impacto-3587178",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-18T16:15:37-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Lo que busca el presidente Abelardo De La Espriella al lograr mayorías cercanas en la junta directiva y la presidencia de Ecopetrol",
+      "link": "https://www.eltiempo.com/politica/gobierno/lo-que-busca-el-presidente-abelardo-de-la-espriella-al-lograr-mayorias-cercanas-en-la-junta-directiva-y-la-presidencia-de-ecopetrol-3587172",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-18T15:56:48-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
