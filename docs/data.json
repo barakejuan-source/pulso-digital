@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T18:30:47.420Z",
+  "updatedAt": "2026-09-19T22:16:27.106Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 21,
+      "trendsScore": 17,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 8,
+      "finalScore": 7,
       "momentum": {
-        "value": 0,
+        "value": -12.5,
         "direction": "flat"
       },
-      "probability": 10
+      "probability": 8.9
     },
     {
       "id": "abelardo_espriella",
@@ -42,17 +42,8 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 90
+      "probability": 91.1
     }
   ],
-  "articles": [
-    {
-      "title": "Concejal de Bogotá hizo advertencia luego de que Iván Cepeda convocó movilizaciones en todo el país: “La misma jugadita de siempre”",
-      "link": "https://www.infobae.com/colombia/2026/09/19/concejal-de-bogota-hizo-advertencia-luego-de-que-ivan-cepeda-convoco-movilizaciones-en-todo-el-pais-la-misma-jugadita-de-siempre/",
-      "source": "Infobae",
-      "pubDate": "Sat, 19 Sep 2026 17:54:42 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    }
-  ]
+  "articles": []
 }
