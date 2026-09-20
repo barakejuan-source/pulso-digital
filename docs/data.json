@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T18:35:35.842Z",
+  "updatedAt": "2026-09-20T22:17:59.275Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 20,
+      "trendsScore": 19,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de La Espriella respondió a la carta enviada por el presidente de la JEP a la CPI: “No comparto ni acepto el contenido”",
-      "link": "https://www.infobae.com/colombia/2026/09/20/abelardo-de-la-espriella-respondio-a-la-carta-enviada-por-el-presidente-de-la-jep-a-la-cpi-no-comparto-ni-acepto-el-contenido/",
-      "source": "Infobae",
-      "pubDate": "Sun, 20 Sep 2026 18:29:42 +0000",
+      "title": "Abelardo De La Espriella respondió al presidente de la JEP tras enviar carta a la CPI por presupuesto del tribunal: 'No es asfixia ni venganza'",
+      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-respondio-al-presidente-de-la-jep-tras-enviar-carta-a-la-cpi-por-presupuesto-del-tribunal-no-es-asfixia-ni-venganza-3587487",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-20T15:26:23-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
