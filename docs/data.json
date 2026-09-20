@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T22:16:27.106Z",
+  "updatedAt": "2026-09-20T04:08:22.866Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 17,
+      "trendsScore": 19,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 7,
+      "finalScore": 8,
       "momentum": {
-        "value": -12.5,
+        "value": 14.3,
         "direction": "flat"
       },
-      "probability": 8.9
+      "probability": 10
     },
     {
       "id": "abelardo_espriella",
@@ -42,7 +42,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 91.1
+      "probability": 90
     }
   ],
   "articles": []
