@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T15:44:13.607Z",
+  "updatedAt": "2026-09-20T18:35:35.842Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 8,
       "momentum": {
-        "value": 14.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 10
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Defensoría del Pueblo pidió a Abelardo de la Espriella que aclare cómo la Policía intervendría en las universidades públicas: “Puede restringir la protesta”",
-      "link": "https://www.infobae.com/colombia/2026/09/20/defensoria-del-pueblo-le-pidio-a-abelardo-de-la-espriella-que-aclare-como-la-policia-intervendria-en-las-universidades-publicas-puede-restringir-la-protesta/",
+      "title": "Abelardo de La Espriella respondió a la carta enviada por el presidente de la JEP a la CPI: “No comparto ni acepto el contenido”",
+      "link": "https://www.infobae.com/colombia/2026/09/20/abelardo-de-la-espriella-respondio-a-la-carta-enviada-por-el-presidente-de-la-jep-a-la-cpi-no-comparto-ni-acepto-el-contenido/",
       "source": "Infobae",
-      "pubDate": "Sun, 20 Sep 2026 14:47:38 +0000",
+      "pubDate": "Sun, 20 Sep 2026 18:29:42 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
