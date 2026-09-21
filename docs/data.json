@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T22:17:59.275Z",
+  "updatedAt": "2026-09-21T04:06:11.328Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 19,
+      "trendsScore": 20,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -50,7 +50,7 @@
       "title": "Abelardo De La Espriella respondió al presidente de la JEP tras enviar carta a la CPI por presupuesto del tribunal: 'No es asfixia ni venganza'",
       "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-respondio-al-presidente-de-la-jep-tras-enviar-carta-a-la-cpi-por-presupuesto-del-tribunal-no-es-asfixia-ni-venganza-3587487",
       "source": "El Tiempo",
-      "pubDate": "2026-09-20T15:26:23-05:00",
+      "pubDate": "2026-09-20T17:19:42-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,14 +59,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-hace-balance-de-seguridad-tras-operativos-de-los-ultimos-dias-van-mas-de-22-000-delincuentes-capturados-3587411",
       "source": "El Tiempo",
       "pubDate": "2026-09-20T07:34:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "De electo a elegido: Abelardo y la disputa de la fe",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/de-electo-a-elegido-abelardo-y-la-disputa-de-la-fe/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 20 Sep 2026 12:00:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
