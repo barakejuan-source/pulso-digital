@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T12:22:52.017Z",
+  "updatedAt": "2026-09-21T19:10:00.104Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,26 +47,34 @@
   ],
   "articles": [
     {
-      "title": "El vicepresidente José Manuel Restrepo llegó a Estados Unidos para la Asamblea de la ONU y fue recibido por el Subsecretario de Estado con una particular petición: “Tengo muchas ganas de reunirme con usted” ",
-      "link": "https://www.infobae.com/colombia/2026/09/21/el-vicepresidente-jose-manuel-restrepo-llego-a-estados-unidos-para-la-asamblea-de-la-onu-y-fue-recibido-por-el-subsecretario-de-estado-con-una-particular-peticion-tengo-muchas-ganas-de-reunirme-con-usted/",
+      "title": "Gobierno de Abelardo de la Espriella aceptaría sometimiento de alias Digno Palomino, cabecilla de Los Pepes: pidió a la Fiscalía evaluar la solicitud",
+      "link": "https://www.infobae.com/colombia/2026/09/21/gobierno-de-abelardo-de-la-espriella-aceptaria-sometimiento-de-alias-digno-palomino-cabecilla-de-los-pepes-pidio-a-la-fiscalia-evaluar-la-solicitud/",
       "source": "Infobae",
-      "pubDate": "Mon, 21 Sep 2026 12:05:43 +0000",
+      "pubDate": "Mon, 21 Sep 2026 19:05:23 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Ser el Bukele colombiano no acaba con el narcotráfico",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/ser-el-bukele-colombiano-no-acaba-con-el-narcotrafico/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Iván Cepeda anunció tutela contra Abelardo de la Espriella por presunta incursión de tropas extranjeras en Colombia: “No he sido consultado” ",
+      "link": "https://www.infobae.com/colombia/2026/09/21/ivan-cepeda-anuncio-tutela-contra-abelardo-de-la-espriella-por-presunta-incursion-de-tropas-extranjeras-en-colombia-no-he-sido-consultado/",
+      "source": "Infobae",
+      "pubDate": "Mon, 21 Sep 2026 18:43:50 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "Abelardo De La Espriella respondió al presidente de la JEP tras enviar carta a la CPI por presupuesto del tribunal: 'No es asfixia ni venganza'",
-      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-respondio-al-presidente-de-la-jep-tras-enviar-carta-a-la-cpi-por-presupuesto-del-tribunal-no-es-asfixia-ni-venganza-3587487",
+      "title": "Gobierno de Abelardo De La Espriella retiró candidatura de Carolina Olarte a la Corte Penal Internacional (CPI)",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-retiro-candidatura-de-carolina-olarte-a-la-corte-penal-internacional-cpi-3587712",
       "source": "El Tiempo",
-      "pubDate": "2026-09-21T06:31:00-05:00",
+      "pubDate": "2026-09-21T13:27:16-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia y Venezuela no acordaron deportar migrantes y pagarles miles de dólares",
+      "link": "https://www.france24.com/es/programas/des-informando/20260921-colombia-y-venezuela-no-acordaron-deportar-migrantes-y-pagarles-miles-de-d%C3%B3lares",
+      "source": "France 24",
+      "pubDate": "Mon, 21 Sep 2026 14:56:23 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
