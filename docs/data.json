@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T04:06:11.328Z",
+  "updatedAt": "2026-09-21T12:22:52.017Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Abelardo De La Espriella respondió al presidente de la JEP tras enviar carta a la CPI por presupuesto del tribunal: 'No es asfixia ni venganza'",
-      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-respondio-al-presidente-de-la-jep-tras-enviar-carta-a-la-cpi-por-presupuesto-del-tribunal-no-es-asfixia-ni-venganza-3587487",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-20T17:19:42-05:00",
+      "title": "El vicepresidente José Manuel Restrepo llegó a Estados Unidos para la Asamblea de la ONU y fue recibido por el Subsecretario de Estado con una particular petición: “Tengo muchas ganas de reunirme con usted” ",
+      "link": "https://www.infobae.com/colombia/2026/09/21/el-vicepresidente-jose-manuel-restrepo-llego-a-estados-unidos-para-la-asamblea-de-la-onu-y-fue-recibido-por-el-subsecretario-de-estado-con-una-particular-peticion-tengo-muchas-ganas-de-reunirme-con-usted/",
+      "source": "Infobae",
+      "pubDate": "Mon, 21 Sep 2026 12:05:43 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De la Espriella hace balance de seguridad tras operativos de los últimos días: van más de 22.000 delincuentes capturados",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-hace-balance-de-seguridad-tras-operativos-de-los-ultimos-dias-van-mas-de-22-000-delincuentes-capturados-3587411",
+      "title": "Ser el Bukele colombiano no acaba con el narcotráfico",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/ser-el-bukele-colombiano-no-acaba-con-el-narcotrafico/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 21 Sep 2026 12:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella respondió al presidente de la JEP tras enviar carta a la CPI por presupuesto del tribunal: 'No es asfixia ni venganza'",
+      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-respondio-al-presidente-de-la-jep-tras-enviar-carta-a-la-cpi-por-presupuesto-del-tribunal-no-es-asfixia-ni-venganza-3587487",
       "source": "El Tiempo",
-      "pubDate": "2026-09-20T07:34:00-05:00",
+      "pubDate": "2026-09-21T06:31:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
