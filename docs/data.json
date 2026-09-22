@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T23:06:20.246Z",
+  "updatedAt": "2026-09-22T04:02:37.403Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 20,
+      "trendsScore": 18,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 8,
+      "finalScore": 7,
       "momentum": {
-        "value": 0,
+        "value": -12.5,
         "direction": "flat"
       },
-      "probability": 10
+      "probability": 8.9
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,18 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 90
+      "probability": 91.1
     }
   ],
   "articles": [
+    {
+      "title": "Abelardo de la Espriella anuncia plan de choque en salud para destrabar la atención de 1.069.196 pacientes",
+      "link": "https://www.infobae.com/colombia/2026/09/22/abelardo-de-la-espriella-anuncia-plan-de-choque-en-salud-para-destrabar-la-atencion-de-1069196-pacientes/",
+      "source": "Infobae",
+      "pubDate": "Tue, 22 Sep 2026 03:00:37 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Papá del presidente Abelardo De La Espriella es sometido a una intervención quirúrgica del corazón este lunes 21 de septiembre: 'Oren por mí'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/papa-del-presidente-abelardo-de-la-espriella-sera-sometido-a-una-intervencion-quirurgica-este-lunes-21-de-septiembre-corazon-abierto-3587725",
