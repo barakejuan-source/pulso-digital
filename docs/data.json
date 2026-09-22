@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-22T11:14:40.094Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-09-22T16:38:34.583Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Papá del presidente Abelardo De La Espriella es sometido a una intervención quirúrgica del corazón este lunes 21 de septiembre: 'Oren por mí'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/papa-del-presidente-abelardo-de-la-espriella-sera-sometido-a-una-intervencion-quirurgica-este-lunes-21-de-septiembre-corazon-abierto-3587725",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-21T14:43:13-05:00",
+      "title": "Abelardo de la Espriella tendría su propia moneda: bañada en oro, con un tigre y las iniciales del presidente",
+      "link": "https://www.infobae.com/colombia/2026/09/22/abelardo-de-la-espriella-tendria-su-propia-moneda-banada-en-oro-con-un-tigre-y-las-iniciales-del-presidente/",
+      "source": "Infobae",
+      "pubDate": "Tue, 22 Sep 2026 16:19:51 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gobierno de Abelardo De La Espriella retiró candidatura de la exembajadora Carolina Olarte a la Corte Penal Internacional (CPI)",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-retiro-candidatura-de-carolina-olarte-a-la-corte-penal-internacional-cpi-3587712",
+      "title": "Quién es alias Pinocho, el máximo cabecila de Los Pachenca que se convirtió en el próximo objetivo del presidente Abelardo de la Espriella: “Sigues tú”",
+      "link": "https://www.infobae.com/colombia/2026/09/22/quien-es-alias-pinocho-el-maximo-cabecila-de-los-pachenca-que-se-convirtio-en-el-proximo-objetivo-del-presidente-abelardo-de-la-espriella-sigues-tu/",
+      "source": "Infobae",
+      "pubDate": "Tue, 22 Sep 2026 16:06:01 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "‘No acepto el paro armado’: presidente Abelardo De La Espriella tras acciones de Autodefensas de la Sierra por muerte de alias ‘Cholo’",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/no-acepto-el-paro-armado-presidente-abelardo-de-la-espriella-tras-acciones-de-autodefensas-de-la-sierra-por-muerte-de-alias-cholo-3587894",
       "source": "El Tiempo",
-      "pubDate": "2026-09-21T14:29:20-05:00",
+      "pubDate": "2026-09-22T08:04:04-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así funcionará plan de choque en salud del Gobierno de Abelardo De la Espriella para descongestionar atención de pacientes y entrega de medicamentos",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-funcionara-plan-de-choque-en-salud-del-gobierno-de-abelardo-de-la-espriella-para-descongestionar-atencion-de-pacientes-y-entrega-de-medicamentos-3587857",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-22T06:18:17-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
