@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-22T16:38:34.583Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-09-22T21:04:21.026Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,34 +47,50 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella tendría su propia moneda: bañada en oro, con un tigre y las iniciales del presidente",
-      "link": "https://www.infobae.com/colombia/2026/09/22/abelardo-de-la-espriella-tendria-su-propia-moneda-banada-en-oro-con-un-tigre-y-las-iniciales-del-presidente/",
+      "title": "Salvatore Mancuso ya no será gestor de paz: el Gobierno de Abelardo de la Espriella revocó su designación",
+      "link": "https://www.infobae.com/colombia/2026/09/22/salvatore-mancuso-ya-no-sera-gestor-de-paz-el-gobierno-de-abelardo-de-la-espriella-revoco-su-designacion/",
       "source": "Infobae",
-      "pubDate": "Tue, 22 Sep 2026 16:19:51 +0000",
+      "pubDate": "Tue, 22 Sep 2026 21:01:14 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Quién es alias Pinocho, el máximo cabecila de Los Pachenca que se convirtió en el próximo objetivo del presidente Abelardo de la Espriella: “Sigues tú”",
-      "link": "https://www.infobae.com/colombia/2026/09/22/quien-es-alias-pinocho-el-maximo-cabecila-de-los-pachenca-que-se-convirtio-en-el-proximo-objetivo-del-presidente-abelardo-de-la-espriella-sigues-tu/",
+      "title": "Roberto Sánchez irá a juicio oral por presunta información falsa sobre aportes de campaña ante la ONPE",
+      "link": "https://www.infobae.com/peru/2026/09/22/roberto-sanchez-ira-a-juicio-oral-por-presunta-informacion-falsa-sobre-aportes-de-campana-ante-la-onpe/",
       "source": "Infobae",
-      "pubDate": "Tue, 22 Sep 2026 16:06:01 +0000",
+      "pubDate": "Tue, 22 Sep 2026 20:52:43 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Laura Fernández promete cerrar el paso a narcotraficantes que salgan de Colombia y anuncia alianza con Abelardo de la Espriella",
+      "link": "https://www.infobae.com/costa-rica/2026/09/22/laura-fernandez-promete-cerrar-el-paso-a-narcotraficantes-que-salgan-de-colombia-y-anuncia-alianza-con-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Tue, 22 Sep 2026 20:47:45 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "‘No acepto el paro armado’: presidente Abelardo De La Espriella tras acciones de Autodefensas de la Sierra por muerte de alias ‘Cholo’",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/no-acepto-el-paro-armado-presidente-abelardo-de-la-espriella-tras-acciones-de-autodefensas-de-la-sierra-por-muerte-de-alias-cholo-3587894",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-22T08:04:04-05:00",
+      "title": "Así fue la reunión entre el presidente colombiano Abelardo de la Espriella y la mandataria costarricense Laura Fernández",
+      "link": "https://www.infobae.com/colombia/2026/09/22/asi-fue-la-reunion-entre-el-presidente-colombiano-abelardo-de-la-espriella-y-la-mandataria-costarricense-laura-fernandez/",
+      "source": "Infobae",
+      "pubDate": "Tue, 22 Sep 2026 20:38:55 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Así funcionará plan de choque en salud del Gobierno de Abelardo De la Espriella para descongestionar atención de pacientes y entrega de medicamentos",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-funcionara-plan-de-choque-en-salud-del-gobierno-de-abelardo-de-la-espriella-para-descongestionar-atencion-de-pacientes-y-entrega-de-medicamentos-3587857",
+      "title": "Presidente Abelardo De La Espriella se reunió en Barranquilla con su homóloga de Costa Rica, Laura Fernández Delgado",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-reunio-en-barranquilla-con-su-homologa-de-costa-rica-laura-fernandez-delgado-3588033",
       "source": "El Tiempo",
-      "pubDate": "2026-09-22T06:18:17-05:00",
+      "pubDate": "2026-09-22T14:18:58-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Dapre cotiza nueva moneda protocolaria del Gobierno de Abelardo De La Espriella: tendría un tigre de ojos verdes y símbolos de seguridad presidencial",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/dapre-cotiza-nueva-moneda-protocolaria-del-gobierno-de-abelardo-de-la-espriella-tendria-un-tigre-de-ojos-verdes-y-simbolos-de-seguridad-presidencial-3587964",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-22T13:11:26-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
