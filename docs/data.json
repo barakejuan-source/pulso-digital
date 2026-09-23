@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T18:20:25.245Z",
+  "updatedAt": "2026-09-23T22:50:52.468Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 18,
+      "trendsScore": 17,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,26 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Cámara de Representantes respaldó ley del Centro Democrático que busca mantener los méritos para acceder a cargos públicos, a pesar de las objeciones de Abelardo de la Espriella: Corte Constitucional revisará articulado ",
-      "link": "https://www.infobae.com/colombia/2026/09/23/camara-de-representantes-respaldo-ley-del-centro-democratico-que-busca-mantener-los-meritos-para-acceder-a-cargos-publicos-a-pesar-de-las-objeciones-de-abelardo-de-la-espriella-corte-constitucional-revisara-articulado/",
+      "title": "Rodrigo Lara se refirió a la aparición de Abelardo de la Espriella portando un arma en Santa Marta: “Está en terreno”",
+      "link": "https://www.infobae.com/colombia/2026/09/23/rodrigo-lara-se-refirio-a-la-aparicion-de-abelardo-de-la-espriella-portando-un-arma-en-santa-marta-esta-en-terreno/",
       "source": "Infobae",
-      "pubDate": "Wed, 23 Sep 2026 18:14:31 +0000",
+      "pubDate": "Wed, 23 Sep 2026 22:35:19 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Madre de joven muerto durante operativo contra alias Cholo le envió mensaje a Abelardo de la Espriella: “Fue asesinado inocentemente”",
-      "link": "https://www.infobae.com/colombia/2026/09/23/madre-de-joven-muerto-durante-operativo-contra-alias-cholo-le-envio-mensaje-a-abelardo-de-la-espriella-fue-asesinado-inocentemente/",
+      "title": "El padre de Abelardo de la Espriella habló de su cirugía a corazón abierto y relató un episodio de delirio que experimentó: “Horrible, de pesadilla”",
+      "link": "https://www.infobae.com/colombia/2026/09/23/el-padre-de-abelardo-de-la-espriella-hablo-de-su-cirugia-a-corazon-abierto-y-relato-un-episodio-de-delirio-que-experimento-horrible-de-pesadilla/",
       "source": "Infobae",
-      "pubDate": "Wed, 23 Sep 2026 17:48:34 +0000",
+      "pubDate": "Wed, 23 Sep 2026 22:24:51 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El presidente del Congreso ofreció disculpas públicas por acto religioso durante la posesión presidencial de Abelardo de la Espriella: “Seguiremos trabajando de la mano de Dios”",
-      "link": "https://www.infobae.com/colombia/2026/09/23/el-presidente-del-congreso-ofrecio-disculpas-publicas-por-acto-religioso-durante-la-posesion-presidencial-de-abelardo-de-la-espriella-seguiremos-trabajando-de-la-mano-de-dios/",
-      "source": "Infobae",
-      "pubDate": "Wed, 23 Sep 2026 17:43:39 +0000",
+      "title": "En acatamiento a fallo judicial, presidente del Congreso pide excusas públicas por acto religioso en la posesión presidencial de De La Espriella",
+      "link": "https://www.eltiempo.com/politica/congreso/en-acatamiento-a-fallo-judicial-presidente-del-congreso-pide-excusas-publicas-por-acto-religioso-en-la-posesion-presidencial-de-de-la-espriella-3588355",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-23T14:49:11-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordena-trasladar-a-carceles-de-maxima-seguridad-a-76-vinculados-con-las-autodefensas-conquistadoras-de-la-sierra-3588266",
       "source": "El Tiempo",
       "pubDate": "2026-09-23T12:02:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Aparte del Dapre, Carlos Ríos será director encargado de la ARN",
-      "link": "https://www.lasillavacia.com/en-vivo/aparte-del-dapre-carlos-rios-sera-director-encargado-de-la-arn/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 23 Sep 2026 15:33:11 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
