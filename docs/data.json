@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T21:04:21.026Z",
+  "updatedAt": "2026-09-23T00:10:04.348Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,34 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Salvatore Mancuso ya no será gestor de paz: el Gobierno de Abelardo de la Espriella revocó su designación",
-      "link": "https://www.infobae.com/colombia/2026/09/22/salvatore-mancuso-ya-no-sera-gestor-de-paz-el-gobierno-de-abelardo-de-la-espriella-revoco-su-designacion/",
+      "title": "Abelardo de la Espriella solicita a Laura Fernández eliminar el requisito de visa para que los colombianos ingresen a Costa Rica",
+      "link": "https://www.infobae.com/costa-rica/2026/09/22/abelardo-de-la-espriella-solicita-a-laura-fernandez-eliminar-el-requisito-de-visa-para-que-los-colombianos-ingresen-a-costa-rica/",
       "source": "Infobae",
-      "pubDate": "Tue, 22 Sep 2026 21:01:14 +0000",
+      "pubDate": "Tue, 22 Sep 2026 23:07:57 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Roberto Sánchez irá a juicio oral por presunta información falsa sobre aportes de campaña ante la ONPE",
-      "link": "https://www.infobae.com/peru/2026/09/22/roberto-sanchez-ira-a-juicio-oral-por-presunta-informacion-falsa-sobre-aportes-de-campana-ante-la-onpe/",
-      "source": "Infobae",
-      "pubDate": "Tue, 22 Sep 2026 20:52:43 +0000",
+      "title": "Brasil: cómo la crisis del Tribunal Supremo remece las elecciones a la Presidencia",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260922-brasil-c%C3%B3mo-la-crisis-del-tribunal-supremo-remece-las-elecciones-a-la-presidencia",
+      "source": "France 24",
+      "pubDate": "Tue, 22 Sep 2026 21:56:43 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Laura Fernández promete cerrar el paso a narcotraficantes que salgan de Colombia y anuncia alianza con Abelardo de la Espriella",
-      "link": "https://www.infobae.com/costa-rica/2026/09/22/laura-fernandez-promete-cerrar-el-paso-a-narcotraficantes-que-salgan-de-colombia-y-anuncia-alianza-con-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Tue, 22 Sep 2026 20:47:45 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así fue la reunión entre el presidente colombiano Abelardo de la Espriella y la mandataria costarricense Laura Fernández",
-      "link": "https://www.infobae.com/colombia/2026/09/22/asi-fue-la-reunion-entre-el-presidente-colombiano-abelardo-de-la-espriella-y-la-mandataria-costarricense-laura-fernandez/",
-      "source": "Infobae",
-      "pubDate": "Tue, 22 Sep 2026 20:38:55 +0000",
+      "title": "Gobierno de Abelardo De La Espriella revocó la designación de Salvatore Mancuso como gestor de paz",
+      "link": "https://www.eltiempo.com/politica/proceso-de-paz/gobierno-de-abelardo-de-la-espriella-revoco-la-designacion-de-salvatore-mancuso-como-gestor-de-paz-3588076",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-22T16:08:31-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
