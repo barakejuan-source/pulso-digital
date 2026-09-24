@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T22:50:52.468Z",
+  "updatedAt": "2026-09-24T03:53:42.585Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 17,
+      "trendsScore": 18,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,18 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Rodrigo Lara se refirió a la aparición de Abelardo de la Espriella portando un arma en Santa Marta: “Está en terreno”",
-      "link": "https://www.infobae.com/colombia/2026/09/23/rodrigo-lara-se-refirio-a-la-aparicion-de-abelardo-de-la-espriella-portando-un-arma-en-santa-marta-esta-en-terreno/",
-      "source": "Infobae",
-      "pubDate": "Wed, 23 Sep 2026 22:35:19 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El padre de Abelardo de la Espriella habló de su cirugía a corazón abierto y relató un episodio de delirio que experimentó: “Horrible, de pesadilla”",
-      "link": "https://www.infobae.com/colombia/2026/09/23/el-padre-de-abelardo-de-la-espriella-hablo-de-su-cirugia-a-corazon-abierto-y-relato-un-episodio-de-delirio-que-experimento-horrible-de-pesadilla/",
-      "source": "Infobae",
-      "pubDate": "Wed, 23 Sep 2026 22:24:51 +0000",
+      "title": "Colombia: la turística Santa Marta es militarizada ante la arremetida de un grupo narcoparamilitar",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260924-colombia-la-tur%C3%ADstica-santa-marta-es-militarizada-ante-la-arremetida-de-un-grupo-narcoparamilitar",
+      "source": "France 24",
+      "pubDate": "Thu, 24 Sep 2026 00:52:41 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,14 +59,6 @@
       "link": "https://www.eltiempo.com/politica/congreso/en-acatamiento-a-fallo-judicial-presidente-del-congreso-pide-excusas-publicas-por-acto-religioso-en-la-posesion-presidencial-de-de-la-espriella-3588355",
       "source": "El Tiempo",
       "pubDate": "2026-09-23T14:49:11-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella ordena trasladar a cárceles de máxima seguridad a 76 vinculados con 'Los Pachenca': 'No permitiré que sigan ordenando'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordena-trasladar-a-carceles-de-maxima-seguridad-a-76-vinculados-con-las-autodefensas-conquistadoras-de-la-sierra-3588266",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-23T12:02:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
