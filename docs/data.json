@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T03:53:42.585Z",
+  "updatedAt": "2026-09-24T09:09:25.667Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 18,
+      "trendsScore": 19,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 7,
+      "finalScore": 8,
       "momentum": {
-        "value": 0,
+        "value": 14.3,
         "direction": "flat"
       },
-      "probability": 8.9
+      "probability": 10
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,18 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 91.1
+      "probability": 90
     }
   ],
   "articles": [
+    {
+      "title": "Con poca resistencia, Congreso avanza presupuesto del gobierno De la Espriella ",
+      "link": "https://www.lasillavacia.com/silla-nacional/con-poca-resistencia-congreso-avanza-presupuesto-del-gobierno-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 24 Sep 2026 06:20:37 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Colombia: la turística Santa Marta es militarizada ante la arremetida de un grupo narcoparamilitar",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260924-colombia-la-tur%C3%ADstica-santa-marta-es-militarizada-ante-la-arremetida-de-un-grupo-narcoparamilitar",
