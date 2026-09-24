@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T09:09:25.667Z",
+  "updatedAt": "2026-09-24T14:49:04.498Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 8,
       "momentum": {
-        "value": 14.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 10
@@ -47,18 +47,58 @@
   ],
   "articles": [
     {
-      "title": "Con poca resistencia, Congreso avanza presupuesto del gobierno De la Espriella ",
-      "link": "https://www.lasillavacia.com/silla-nacional/con-poca-resistencia-congreso-avanza-presupuesto-del-gobierno-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 24 Sep 2026 06:20:37 +0000",
+      "title": "Abelardo de la Espriella siguió patrullando armado en su ofensiva contra los grupos armados ilegales: “Bienvenido a la patria milagro”",
+      "link": "https://www.infobae.com/colombia/2026/09/24/abelardo-de-la-espriella-siguio-patrullando-con-los-militares-en-ofensiva-contra-los-grupos-armados-ilegales-bienvenido-a-la-patria-milagro/",
+      "source": "Infobae",
+      "pubDate": "Thu, 24 Sep 2026 14:43:03 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Colombia: la turística Santa Marta es militarizada ante la arremetida de un grupo narcoparamilitar",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260924-colombia-la-tur%C3%ADstica-santa-marta-es-militarizada-ante-la-arremetida-de-un-grupo-narcoparamilitar",
-      "source": "France 24",
-      "pubDate": "Thu, 24 Sep 2026 00:52:41 GMT",
+      "title": "Mary Luz Herrán, exesposa de Gustavo Petro, reveló la “fobia” que tenía el expresidente por las armas en el M-19 y lo comparó con Abelardo de la Espriella: “¡Qué diferencia!”",
+      "link": "https://www.infobae.com/colombia/2026/09/24/mary-luz-herran-exesposa-de-gustavo-petro-revelo-la-fobia-que-tenia-el-expresidente-por-las-armas-en-el-m-19-y-lo-comparo-con-abelardo-de-la-espriella-que-diferencia/",
+      "source": "Infobae",
+      "pubDate": "Thu, 24 Sep 2026 14:41:41 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo de la Espriella modificará los estatutos del Acuerdo de Paz, aseguró el Canciller: “En función de las prioridades que ha dictado el presidente”",
+      "link": "https://www.infobae.com/colombia/2026/09/24/gobierno-de-abelardo-de-la-espriella-modificara-los-estatutos-del-acuerdo-de-paz-aseguro-el-canciller-en-funcion-de-las-prioridades-que-ha-dictado-el-presidente/",
+      "source": "Infobae",
+      "pubDate": "Thu, 24 Sep 2026 14:41:14 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El radio, la pistola y Cristo Rey: lo que hay detrás de los símbolos del presidente Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-radio-la-pistola-y-cristo-rey-lo-que-hay-detras-de-los-simbolos-del-presidente-abelardo-de-la-espriella-3588324",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-24T09:38:40-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La ONU advirtió sobre el impacto de la fumigación aérea de cultivos ilícitos que propuso Abelardo de la Espriella en las comunidades afrocolombianas: “Exclusión racial y criminalización”",
+      "link": "https://www.infobae.com/colombia/2026/09/24/la-onu-advirtio-sobre-el-impacto-de-la-fumigacion-aerea-de-cultivos-ilicitos-que-propuso-abelardo-de-la-espriella-en-las-comunidades-afrocolombianas-exclusion-racial-y-criminalizacion/",
+      "source": "Infobae",
+      "pubDate": "Thu, 24 Sep 2026 14:16:16 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Canciller Omar Bula asegura que Colombia 'remoldeará' el Acuerdo de Paz de 2016 en función de las prioridades del gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/proceso-de-paz/canciller-omar-bula-asegura-que-colombia-remoldeara-el-acuerdo-de-paz-de-2016-en-funcion-de-las-prioridades-del-gobierno-de-abelardo-de-la-espriella-3588554",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-24T09:06:08-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Con poca resistencia, Congreso avanza Presupuesto del gobierno De la Espriella ",
+      "link": "https://www.lasillavacia.com/silla-nacional/con-poca-resistencia-congreso-avanza-presupuesto-del-gobierno-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 24 Sep 2026 06:20:37 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
