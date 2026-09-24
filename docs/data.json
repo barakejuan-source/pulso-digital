@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T19:54:37.023Z",
+  "updatedAt": "2026-09-24T23:07:35.338Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 7,
       "momentum": {
-        "value": -12.5,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 8.9
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Transición en Venezuela, lucha contra el terrorismo, ajustes a la ONU e inversión en Colombia: claves del discurso que leyó Restrepo en Nueva York",
-      "link": "https://www.eltiempo.com/politica/gobierno/vicepresidente-jose-manuel-restrepo-habla-ante-la-asamblea-general-de-la-onu-las-claves-de-su-discurso-3588643",
+      "title": "Gobierno de Abelardo De La Espriella anuncia la ruptura de relaciones diplomáticas con Irán",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncia-la-ruptura-de-relaciones-diplomaticas-con-iran-3588731",
       "source": "El Tiempo",
-      "pubDate": "2026-09-24T14:48:04-05:00",
+      "pubDate": "2026-09-24T17:27:30-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo De La Espriella rompe oficialmente relaciones diplomáticas con Irán",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-rompe-oficialmente-relaciones-diplomaticas-con-iran-3588732",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-24T16:56:40-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Video | El momento cuando Abelardo De La Espriella habló con un capturado en operación contra microtráfico en Cali: 'Bienvenido a la Patria Milagro'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/video-asi-fue-el-encuentro-de-abelardo-de-la-espriella-con-un-capturado-en-operacion-contra-microtrafico-en-cali-bienvenido-a-la-patria-milagro-3588688",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-24T16:15:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,7 +74,7 @@
       "title": "Así fue la llamada del vicepresidente José Manuel Restrepo con el presidente Abelardo De La Espriella tras su discurso en la ONU: 'Salió maravilloso'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-fue-la-llamada-del-vicepresidente-jose-manuel-restrepo-con-el-presidente-abelardo-de-la-espriella-tras-su-discurso-en-la-onu-detalles-3588674",
       "source": "El Tiempo",
-      "pubDate": "2026-09-24T14:33:49-05:00",
+      "pubDate": "2026-09-24T15:51:46-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/rodrigo-lara-ministro-del-interior-respondio-a-criticas-al-presidente-abelardo-de-la-espriella-por-llevar-un-arma-durante-operativos-en-santa-marta-3588602",
       "source": "El Tiempo",
       "pubDate": "2026-09-24T11:57:32-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El radio, la pistola y Cristo Rey: lo que hay detrás de los símbolos del presidente Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-radio-la-pistola-y-cristo-rey-lo-que-hay-detras-de-los-simbolos-del-presidente-abelardo-de-la-espriella-3588324",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-24T09:38:40-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
