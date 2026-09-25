@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T23:07:35.338Z",
+  "updatedAt": "2026-09-25T04:09:01.309Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Gobierno de Abelardo De La Espriella anuncia la ruptura de relaciones diplomáticas con Irán",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncia-la-ruptura-de-relaciones-diplomaticas-con-iran-3588731",
+      "title": "Reacciones al pedido de renuncia de Abelardo De La Espriella al presidente de Colpensiones tras su presentación ante la Comisión Séptima",
+      "link": "https://www.eltiempo.com/politica/gobierno/reacciones-al-pedido-de-renuncia-de-abelardo-de-la-espriella-al-presidente-de-colpensiones-tras-su-presentacion-ante-la-comision-septima-del-senado-3588804",
       "source": "El Tiempo",
-      "pubDate": "2026-09-24T17:27:30-05:00",
+      "pubDate": "2026-09-24T23:02:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo De La Espriella le pidió la renuncia al director de Colpensiones por críticas a su presentación ante la Comisión Séptima",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-le-pidio-la-renuncia-al-director-de-colpensiones-por-criticas-a-su-presentacion-ante-la-comision-septima-3588755",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-24T21:59:10-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia rompe relaciones con Irán y profundiza su giro hacia Israel y Estados Unidos",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260925-colombia-rompe-relaciones-con-ir%C3%A1n-y-profundiza-su-giro-hacia-israel-y-estados-unidos",
+      "source": "France 24",
+      "pubDate": "Fri, 25 Sep 2026 01:55:03 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,7 +74,31 @@
       "title": "Gobierno de Abelardo De La Espriella rompe oficialmente relaciones diplomáticas con Irán",
       "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-rompe-oficialmente-relaciones-diplomaticas-con-iran-3588732",
       "source": "El Tiempo",
-      "pubDate": "2026-09-24T16:56:40-05:00",
+      "pubDate": "2026-09-24T20:54:51-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Duerma informado con las claves de este 24 de septiembre de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-24-de-septiembre-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 25 Sep 2026 00:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así funcionó el músculo mediático de Negre en la campaña abelardista en Colombia",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/asi-funciono-el-musculo-mediatico-de-negre-en-la-campana-abelardista-en-colombia/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 24 Sep 2026 23:59:03 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo De La Espriella anuncia la ruptura de relaciones diplomáticas con Irán",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncia-la-ruptura-de-relaciones-diplomaticas-con-iran-3588731",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-24T17:27:30-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,22 +115,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-fue-la-llamada-del-vicepresidente-jose-manuel-restrepo-con-el-presidente-abelardo-de-la-espriella-tras-su-discurso-en-la-onu-detalles-3588674",
       "source": "El Tiempo",
       "pubDate": "2026-09-24T15:51:46-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella firmó la resolución que autoriza la extradición a Estados Unidos de Allende Perilla, mano derecha de alias Iván Márquez",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-firmo-la-resolucion-que-autoriza-la-extradicion-a-estados-unidos-de-allende-perilla-mano-derecha-de-alias-ivan-marquez-3588609",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-24T13:19:26-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Rodrigo Lara respondió a críticas al presidente Abelardo De La Espriella por portar arma durante operativo en Santa Marta: 'Enfrentando a criminales'",
-      "link": "https://www.eltiempo.com/politica/gobierno/rodrigo-lara-ministro-del-interior-respondio-a-criticas-al-presidente-abelardo-de-la-espriella-por-llevar-un-arma-durante-operativos-en-santa-marta-3588602",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-24T11:57:32-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
