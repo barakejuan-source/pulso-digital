@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T11:29:53.244Z",
+  "updatedAt": "2026-09-25T16:53:19.296Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 18,
+      "trendsScore": 19,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 7,
+      "finalScore": 8,
       "momentum": {
-        "value": 0,
+        "value": 14.3,
         "direction": "flat"
       },
-      "probability": 8.9
+      "probability": 10
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 91.1
+      "probability": 90
     }
   ],
   "articles": [
     {
-      "title": "Estas son las razones por las que el Gobierno del presidente Abelardo De La Espriella rompió relaciones con Irán: 'Seguridad nacional y hemisférica'",
-      "link": "https://www.eltiempo.com/politica/gobierno/estas-son-las-razones-por-las-que-el-gobierno-del-presidente-abelardo-de-la-espriella-rompio-relaciones-con-iran-seguridad-nacional-y-hemisferica-3588814",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-25T04:31:34-05:00",
+      "title": "Canciller de Colombia anunció una nueva era en las relaciones con Argentina: habrá mayor cooperación en la lucha contra el narcotráfico, el tráfico de armas y la trata de personas",
+      "link": "https://www.infobae.com/colombia/2026/09/25/canciller-de-colombia-anuncio-una-nueva-era-en-las-relaciones-con-la-argentina-habra-mayor-cooperacion-en-la-lucha-contra-el-narcotrafico-el-trafico-de-armas-y-la-trata-de-personas/",
+      "source": "Infobae",
+      "pubDate": "Fri, 25 Sep 2026 16:27:49 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Arranca extradición de Araña a EE.UU. Primero hará parada en Barranquilla",
+      "link": "https://www.lasillavacia.com/en-vivo/arranca-extradicion-de-arana-a-ee-uu-primero-hara-parada-en-barranquilla/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 25 Sep 2026 15:02:03 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,7 +66,15 @@
       "title": "Reacciones al pedido de renuncia de Abelardo De La Espriella al presidente de Colpensiones tras su presentación ante la Comisión Séptima",
       "link": "https://www.eltiempo.com/politica/gobierno/reacciones-al-pedido-de-renuncia-de-abelardo-de-la-espriella-al-presidente-de-colpensiones-tras-su-presentacion-ante-la-comision-septima-del-senado-3588804",
       "source": "El Tiempo",
-      "pubDate": "2026-09-24T23:12:26-05:00",
+      "pubDate": "2026-09-25T07:25:13-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Estas son las razones por las que el Gobierno del presidente Abelardo De La Espriella rompió relaciones con Irán: 'Seguridad nacional y hemisférica'",
+      "link": "https://www.eltiempo.com/politica/gobierno/estas-son-las-razones-por-las-que-el-gobierno-del-presidente-abelardo-de-la-espriella-rompio-relaciones-con-iran-seguridad-nacional-y-hemisferica-3588814",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-25T04:31:34-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -87,34 +103,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Duerma informado con las claves de este 24 de septiembre de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-claves-de-este-24-de-septiembre-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 25 Sep 2026 00:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así funcionó el músculo mediático de Negre en la campaña abelardista en Colombia",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/asi-funciono-el-musculo-mediatico-de-negre-en-la-campana-abelardista-en-colombia/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 24 Sep 2026 23:59:03 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Gobierno de Abelardo De La Espriella anuncia la ruptura de relaciones diplomáticas con Irán",
       "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncia-la-ruptura-de-relaciones-diplomaticas-con-iran-3588731",
       "source": "El Tiempo",
       "pubDate": "2026-09-24T17:27:30-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Video | El momento cuando Abelardo De La Espriella habló con un capturado en operación contra microtráfico en Cali: 'Bienvenido a la Patria Milagro'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/video-asi-fue-el-encuentro-de-abelardo-de-la-espriella-con-un-capturado-en-operacion-contra-microtrafico-en-cali-bienvenido-a-la-patria-milagro-3588688",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-24T16:15:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
