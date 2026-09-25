@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T16:53:19.296Z",
+  "updatedAt": "2026-09-25T21:17:58.241Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 19,
+      "trendsScore": 18,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 8,
+      "finalScore": 7,
       "momentum": {
-        "value": 14.3,
+        "value": -12.5,
         "direction": "flat"
       },
-      "probability": 10
+      "probability": 8.9
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,31 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 90
+      "probability": 91.1
     }
   ],
   "articles": [
     {
-      "title": "Canciller de Colombia anunció una nueva era en las relaciones con Argentina: habrá mayor cooperación en la lucha contra el narcotráfico, el tráfico de armas y la trata de personas",
-      "link": "https://www.infobae.com/colombia/2026/09/25/canciller-de-colombia-anuncio-una-nueva-era-en-las-relaciones-con-la-argentina-habra-mayor-cooperacion-en-la-lucha-contra-el-narcotrafico-el-trafico-de-armas-y-la-trata-de-personas/",
-      "source": "Infobae",
-      "pubDate": "Fri, 25 Sep 2026 16:27:49 +0000",
+      "title": "Presidente Abelardo De La Espriella se pronunció tras extradición de alias Araña, cabecilla de 'Comandos de Frontera', a Estados Unidos",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-tras-extradicion-de-alias-arana-cabecilla-de-comandos-de-frontera-a-estados-unidos-3589016",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-25T15:59:14-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Arranca extradición de Araña a EE.UU. Primero hará parada en Barranquilla",
-      "link": "https://www.lasillavacia.com/en-vivo/arranca-extradicion-de-arana-a-ee-uu-primero-hara-parada-en-barranquilla/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 25 Sep 2026 15:02:03 +0000",
+      "title": "El caso de David Murcia Guzmán y el supuesto uso político de las gestorías de paz durante el gobierno de Gustavo Petro",
+      "link": "https://www.eltiempo.com/politica/gobierno/el-caso-de-david-murcia-guzman-y-el-supuesto-uso-politico-de-las-gestorias-de-paz-durante-el-gobierno-de-gustavo-petro-3589004",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-25T15:41:41-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El presidente Abelardo De La Espriella anunció 72 capturas y 6 'narcoterroristas' dados de baja en las últimas 24 horas",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-abelardo-de-la-espriella-anuncio-72-capturas-y-6-narcoterroristas-dados-de-baja-en-las-ultimas-24-horas-3588966",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-25T15:10:43-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,38 +83,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/estas-son-las-razones-por-las-que-el-gobierno-del-presidente-abelardo-de-la-espriella-rompio-relaciones-con-iran-seguridad-nacional-y-hemisferica-3588814",
       "source": "El Tiempo",
       "pubDate": "2026-09-25T04:31:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella le pidió la renuncia al director de Colpensiones por críticas a su presentación ante la Comisión Séptima",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-le-pidio-la-renuncia-al-director-de-colpensiones-por-criticas-a-su-presentacion-ante-la-comision-septima-3588755",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-24T21:59:10-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia rompe relaciones con Irán y profundiza su giro hacia Israel y Estados Unidos",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260925-colombia-rompe-relaciones-con-ir%C3%A1n-y-profundiza-su-giro-hacia-israel-y-estados-unidos",
-      "source": "France 24",
-      "pubDate": "Fri, 25 Sep 2026 01:55:03 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella rompe oficialmente relaciones diplomáticas con Irán",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-rompe-oficialmente-relaciones-diplomaticas-con-iran-3588732",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-24T20:54:51-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella anuncia la ruptura de relaciones diplomáticas con Irán",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncia-la-ruptura-de-relaciones-diplomaticas-con-iran-3588731",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-24T17:27:30-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
