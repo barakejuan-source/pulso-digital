@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T04:09:01.309Z",
+  "updatedAt": "2026-09-25T11:29:53.244Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
+      "title": "Estas son las razones por las que el Gobierno del presidente Abelardo De La Espriella rompió relaciones con Irán: 'Seguridad nacional y hemisférica'",
+      "link": "https://www.eltiempo.com/politica/gobierno/estas-son-las-razones-por-las-que-el-gobierno-del-presidente-abelardo-de-la-espriella-rompio-relaciones-con-iran-seguridad-nacional-y-hemisferica-3588814",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-25T04:31:34-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Reacciones al pedido de renuncia de Abelardo De La Espriella al presidente de Colpensiones tras su presentación ante la Comisión Séptima",
       "link": "https://www.eltiempo.com/politica/gobierno/reacciones-al-pedido-de-renuncia-de-abelardo-de-la-espriella-al-presidente-de-colpensiones-tras-su-presentacion-ante-la-comision-septima-del-senado-3588804",
       "source": "El Tiempo",
-      "pubDate": "2026-09-24T23:02:05-05:00",
+      "pubDate": "2026-09-24T23:12:26-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -107,14 +115,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/video-asi-fue-el-encuentro-de-abelardo-de-la-espriella-con-un-capturado-en-operacion-contra-microtrafico-en-cali-bienvenido-a-la-patria-milagro-3588688",
       "source": "El Tiempo",
       "pubDate": "2026-09-24T16:15:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así fue la llamada del vicepresidente José Manuel Restrepo con el presidente Abelardo De La Espriella tras su discurso en la ONU: 'Salió maravilloso'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/asi-fue-la-llamada-del-vicepresidente-jose-manuel-restrepo-con-el-presidente-abelardo-de-la-espriella-tras-su-discurso-en-la-onu-detalles-3588674",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-24T15:51:46-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
