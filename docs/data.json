@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T12:48:59.722Z",
+  "updatedAt": "2026-09-26T17:41:35.417Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 21,
+      "trendsScore": 22,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 8,
+      "finalScore": 9,
       "momentum": {
-        "value": 0,
+        "value": 12.5,
         "direction": "flat"
       },
-      "probability": 10
+      "probability": 11.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 90
+      "probability": 88.9
     }
   ],
   "articles": [
     {
-      "title": "Otty Patiño desmiente versión de David Murcia sobre gestoría de paz: “Jamás se contempló”",
-      "link": "https://www.infobae.com/colombia/2026/09/26/otty-patino-desmiente-version-de-david-murcia-sobre-gestoria-de-paz-jamas-se-contemplo/",
+      "title": "Miembros de mesa en las Elecciones 2026: pagos, beneficios, multas y todo lo que debes saber si te toca cumplir ese rol el 4 de octubre",
+      "link": "https://www.infobae.com/peru/2026/09/23/miembros-de-mesa-2026-pago-de-s165-beneficios-multas-y-todo-lo-que-debes-saber-para-las-elecciones-regionales-y-municipales/",
       "source": "Infobae",
-      "pubDate": "Sat, 26 Sep 2026 12:24:09 +0000",
+      "pubDate": "Sat, 26 Sep 2026 17:33:24 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo De La Espriella, presidente de Colombia, entrega balance actualizado de operativos de la Fuerza Pública: 47 capturas",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-entrega-balance-actualizado-de-operativos-de-la-fuerza-publica-47-capturas-3589155",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-26T09:10:40-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
