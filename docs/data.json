@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T13:41:28.381Z",
+  "updatedAt": "2026-09-27T18:09:59.220Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -8,6 +8,27 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 2,
+      "youtubeScore": 100,
+      "sentimentScore": 15,
+      "sentimentPct": {
+        "positive": 15.4,
+        "negative": 48.7,
+        "neutral": 35.9
+      },
+      "youtubeViews": 7128,
+      "finalScore": 35,
+      "momentum": {
+        "value": 3400,
+        "direction": "up"
+      },
+      "probability": 46.7
+    },
+    {
+      "id": "abelardo_espriella",
+      "name": "Abelardo de la Espriella",
+      "party": "Defensores de la Patria",
+      "color": "#1D3557",
+      "trendsScore": 100,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,36 +37,23 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 1,
+      "finalScore": 40,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -44.4,
+        "direction": "down"
       },
-      "probability": 1.4
-    },
-    {
-      "id": "abelardo_espriella",
-      "name": "Abelardo de la Espriella",
-      "party": "Defensores de la Patria",
-      "color": "#1D3557",
-      "trendsScore": 100,
-      "youtubeScore": 100,
-      "sentimentScore": 8,
-      "sentimentPct": {
-        "positive": 8,
-        "negative": 70,
-        "neutral": 22
-      },
-      "youtubeViews": 206263,
-      "finalScore": 72,
-      "momentum": {
-        "value": 0,
-        "direction": "flat"
-      },
-      "probability": 98.6
+      "probability": 53.3
     }
   ],
   "articles": [
+    {
+      "title": "Expresidente Álvaro Uribe felicita al gobierno de Abelardo De La Espriella por muerte de alias Robinson, vinculado a magnicidio de Miguel Uribe Turbay",
+      "link": "https://www.eltiempo.com/politica/gobierno/expresidente-alvaro-uribe-felicita-al-gobierno-de-abelardo-de-la-espriella-por-muerte-de-alias-robinson-vinculado-a-magnicidio-de-miguel-uribe-turbay-3589319",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-27T12:53:22-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Símbolos y redes sociales: el estilo de gobernar del presidente Abelardo De La Espriella en sus 50 días de mandato",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/simbolos-y-redes-sociales-el-estilo-de-gobernar-del-presidente-abelardo-de-la-espriella-en-sus-50-dias-de-mandato-3589101",
@@ -83,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-lanzo-una-advertencia-contra-ivan-marquez-tras-extradicion-de-alias-arana-a-ee-uu-vamos-a-dar-de-baja-3589121",
       "source": "El Tiempo",
       "pubDate": "2026-09-25T22:37:44-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella se pronunció sobre extradición de alias Araña a Estados Unidos: 'Más que la entrega de un criminal'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-tras-extradicion-de-alias-arana-cabecilla-de-comandos-de-frontera-a-estados-unidos-3589016",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-25T18:49:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
