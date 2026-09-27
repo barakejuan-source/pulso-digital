@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T07:49:15.038Z",
+  "updatedAt": "2026-09-27T13:41:28.381Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 1,
+      "trendsScore": 2,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 0,
+      "finalScore": 1,
       "momentum": {
         "value": 0,
         "direction": "flat"
       },
-      "probability": 0
+      "probability": 1.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,18 +42,10 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 100
+      "probability": 98.6
     }
   ],
   "articles": [
-    {
-      "title": "Incautación de marihuana en Huila: anunciaron decomiso de 4,2 toneladas en la vía Neiva-Castilla",
-      "link": "https://www.infobae.com/colombia/2026/09/27/incautacion-de-marihuana-en-huila-anunciaron-decomiso-de-42-toneladas-en-la-via-neiva-castilla/",
-      "source": "Infobae",
-      "pubDate": "Sun, 27 Sep 2026 06:59:25 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
     {
       "title": "Símbolos y redes sociales: el estilo de gobernar del presidente Abelardo De La Espriella en sus 50 días de mandato",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/simbolos-y-redes-sociales-el-estilo-de-gobernar-del-presidente-abelardo-de-la-espriella-en-sus-50-dias-de-mandato-3589101",
