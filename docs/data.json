@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T20:50:13.039Z",
+  "updatedAt": "2026-09-27T00:22:37.101Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 22,
+      "trendsScore": 1,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 9,
+      "finalScore": 0,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -100,
+        "direction": "down"
       },
-      "probability": 11.1
+      "probability": 0
     },
     {
       "id": "abelardo_espriella",
@@ -42,47 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 88.9
+      "probability": 100
     }
   ],
   "articles": [
     {
-      "title": "Ningún candidato del PSOE a la Alcaldía de Córdoba alcanza el 50% y se citan el 3 de octubre a la segunda vuelta",
-      "link": "https://www.infobae.com/espana/agencias/2026/09/26/ningun-candidato-del-psoe-a-la-alcaldia-de-cordoba-alcanza-el-50-y-se-citan-el-3-de-octubre-a-la-segunda-vuelta/",
+      "title": "Cámara de Representantes respaldó ley del Centro Democrático que busca mantener los méritos para acceder a cargos públicos, a pesar de las objeciones de Abelardo de la Espriella: Corte Constitucional revisará articulado ",
+      "link": "https://www.infobae.com/colombia/2026/09/23/camara-de-representantes-respaldo-ley-del-centro-democratico-que-busca-mantener-los-meritos-para-acceder-a-cargos-publicos-a-pesar-de-las-objeciones-de-abelardo-de-la-espriella-corte-constitucional-revisara-articulado/",
       "source": "Infobae",
-      "pubDate": "Sat, 26 Sep 2026 20:46:07 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Sun, 27 Sep 2026 00:08:06 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Las alertas del presidente Abelardo De La Espriella sobre centros educativos: pide ponerle la lupa a universidades de La Guajira y Pamplona",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-le-pide-a-ministra-de-educacion-que-haga-vigilancia-especial-a-universidad-de-pamplona-por-posibles-malos-manejos-3589208",
       "source": "El Tiempo",
       "pubDate": "2026-09-26T15:03:54-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella designó a Beatriz Eugenia Vélez como nueva presidenta de Colpensiones",
-      "link": "https://www.infobae.com/colombia/2026/09/26/abelardo-de-la-espriella-designo-a-beatriz-eugenia-velez-como-nueva-presidenta-de-colpensiones/",
-      "source": "Infobae",
-      "pubDate": "Sat, 26 Sep 2026 19:53:03 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Elecciones 2026: miembros de mesa tendrán su última capacitación este domingo 27 de septiembre",
-      "link": "https://www.infobae.com/peru/2026/09/26/elecciones-2026-miembros-de-mesa-tendran-su-ultima-capacitacion-este-domingo-27-de-septiembre/",
-      "source": "Infobae",
-      "pubDate": "Sat, 26 Sep 2026 19:52:14 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo de la Espriella ordenó a ministra de Educación vigilancia inmediata a la Universidad de Pamplona tras denuncias sobre manejos contractuales",
-      "link": "https://www.infobae.com/colombia/2026/09/26/abelardo-de-la-espriella-ordeno-a-ministra-de-educacion-vigilancia-inmediata-a-la-universidad-de-pamplona-tras-denuncias-sobre-manejos-contractuales/",
-      "source": "Infobae",
-      "pubDate": "Sat, 26 Sep 2026 19:50:18 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
