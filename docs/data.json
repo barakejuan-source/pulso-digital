@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T00:22:37.101Z",
+  "updatedAt": "2026-09-27T07:49:15.038Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,8 +18,8 @@
       "youtubeViews": 0,
       "finalScore": 0,
       "momentum": {
-        "value": -100,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 0
     },
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Cámara de Representantes respaldó ley del Centro Democrático que busca mantener los méritos para acceder a cargos públicos, a pesar de las objeciones de Abelardo de la Espriella: Corte Constitucional revisará articulado ",
-      "link": "https://www.infobae.com/colombia/2026/09/23/camara-de-representantes-respaldo-ley-del-centro-democratico-que-busca-mantener-los-meritos-para-acceder-a-cargos-publicos-a-pesar-de-las-objeciones-de-abelardo-de-la-espriella-corte-constitucional-revisara-articulado/",
+      "title": "Incautación de marihuana en Huila: anunciaron decomiso de 4,2 toneladas en la vía Neiva-Castilla",
+      "link": "https://www.infobae.com/colombia/2026/09/27/incautacion-de-marihuana-en-huila-anunciaron-decomiso-de-42-toneladas-en-la-via-neiva-castilla/",
       "source": "Infobae",
-      "pubDate": "Sun, 27 Sep 2026 00:08:06 +0000",
+      "pubDate": "Sun, 27 Sep 2026 06:59:25 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Símbolos y redes sociales: el estilo de gobernar del presidente Abelardo De La Espriella en sus 50 días de mandato",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/simbolos-y-redes-sociales-el-estilo-de-gobernar-del-presidente-abelardo-de-la-espriella-en-sus-50-dias-de-mandato-3589101",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-26T22:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Beatriz Eugenia Vélez es la nueva directora de Colpensiones: presidente Abelardo De La Espriella anuncia designación tras relevo exprés en la entidad",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/beatriz-eugenia-velez-es-la-nueva-directora-de-colpensiones-presidente-abelardo-de-la-espriella-anuncia-designacion-tras-relevo-expres-en-la-entidad-3589200",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-26T15:45:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-le-pide-a-ministra-de-educacion-que-haga-vigilancia-especial-a-universidad-de-pamplona-por-posibles-malos-manejos-3589208",
       "source": "El Tiempo",
       "pubDate": "2026-09-26T15:03:54-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Beatriz Eugenia Vélez es la nueva directora de Colpensiones: presidente Abelardo De La Espriella anuncia designación tras relevo exprés en la entidad",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/beatriz-eugenia-velez-es-la-nueva-directora-de-colpensiones-presidente-abelardo-de-la-espriella-anuncia-designacion-tras-relevo-expres-en-la-entidad-3589200",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-26T14:45:23-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -91,22 +99,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-tras-extradicion-de-alias-arana-cabecilla-de-comandos-de-frontera-a-estados-unidos-3589016",
       "source": "El Tiempo",
       "pubDate": "2026-09-25T18:49:12-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El caso de David Murcia Guzmán y el supuesto uso político de las gestorías de paz durante el gobierno de Gustavo Petro",
-      "link": "https://www.eltiempo.com/politica/gobierno/el-caso-de-david-murcia-guzman-y-el-supuesto-uso-politico-de-las-gestorias-de-paz-durante-el-gobierno-de-gustavo-petro-3589004",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-25T15:41:41-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El presidente Abelardo De La Espriella anunció 72 capturas y 6 'narcoterroristas' dados de baja en las últimas 24 horas",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-abelardo-de-la-espriella-anuncio-72-capturas-y-6-narcoterroristas-dados-de-baja-en-las-ultimas-24-horas-3588966",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-25T15:10:43-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
