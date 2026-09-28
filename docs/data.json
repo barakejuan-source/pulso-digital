@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T04:30:13.704Z",
+  "updatedAt": "2026-09-28T13:19:36.831Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella anuncia plan de choque en el sistema de salud y compra de cartera vía Adres: 'Seguimiento paciente por paciente'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-plan-de-choque-en-el-sistema-de-salud-y-compra-de-cartera-via-adres-seguimiento-paciente-por-paciente-3589382",
+      "title": "Abelardo de la Espriella hizo propuesta para que acusados de corrupción delaten a sus cómplices en el Gobierno Petro: “Tendrán un castigo atenuado” ",
+      "link": "https://www.infobae.com/colombia/2026/09/28/abelardo-de-la-espriella-propuso-negociar-con-acusados-por-corrupcion-en-el-gobierno-petro-tendran-un-castigo-atenuado/",
+      "source": "Infobae",
+      "pubDate": "Mon, 28 Sep 2026 12:54:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella: los siete mensajes clave y frases de su alocución de este domingo 27 de septiembre",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-los-siete-mensajes-clave-y-frases-de-su-alocucion-de-este-domingo-27-de-septiembre-3589403",
       "source": "El Tiempo",
-      "pubDate": "2026-09-27T22:45:00-05:00",
+      "pubDate": "2026-09-28T07:47:27-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,7 +66,23 @@
       "title": "El presidente Abelardo De La Espriella anuncia que buscará al Fondo Monetario Internacional para salir de la crisis fiscal",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-abelardo-de-la-espriella-habla-en-alocucion-sobre-medidas-economicas-y-de-seguridad-3589362",
       "source": "El Tiempo",
-      "pubDate": "2026-09-27T21:18:16-05:00",
+      "pubDate": "2026-09-28T06:30:44-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella habla de beneficios para investigados por corrupción que colaboren con la justicia: 'Si entregan las pruebas'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-habla-de-beneficios-para-investigados-por-corrupcion-que-colaboren-con-la-justicia-si-entregan-las-pruebas-3589363",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-27T23:25:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella anuncia plan de choque en el sistema de salud y compra de cartera vía Adres: 'Seguimiento paciente por paciente'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-plan-de-choque-en-el-sistema-de-salud-y-compra-de-cartera-via-adres-seguimiento-paciente-por-paciente-3589382",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-27T22:45:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,22 +99,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-informa-traslado-de-miembros-de-autodefensas-de-la-sierra-a-carceles-lejos-del-caribe-es-separarlos-de-zonas-de-influencia-3589332",
       "source": "El Tiempo",
       "pubDate": "2026-09-27T14:08:17-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Expresidente Álvaro Uribe felicita al gobierno de Abelardo De La Espriella por muerte de alias Robinson, vinculado a magnicidio de Miguel Uribe Turbay",
-      "link": "https://www.eltiempo.com/politica/gobierno/expresidente-alvaro-uribe-felicita-al-gobierno-de-abelardo-de-la-espriella-por-muerte-de-alias-robinson-vinculado-a-magnicidio-de-miguel-uribe-turbay-3589319",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-27T12:53:22-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Símbolos y redes sociales: el estilo de gobernar del presidente Abelardo De La Espriella en sus 50 días de mandato",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/simbolos-y-redes-sociales-el-estilo-de-gobernar-del-presidente-abelardo-de-la-espriella-en-sus-50-dias-de-mandato-3589101",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-26T22:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
