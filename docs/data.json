@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T22:54:34.532Z",
+  "updatedAt": "2026-09-28T04:30:13.704Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,20 +47,28 @@
   ],
   "articles": [
     {
+      "title": "Presidente Abelardo De La Espriella anuncia plan de choque en el sistema de salud y compra de cartera vía Adres: 'Seguimiento paciente por paciente'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-plan-de-choque-en-el-sistema-de-salud-y-compra-de-cartera-via-adres-seguimiento-paciente-por-paciente-3589382",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-27T22:45:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El presidente Abelardo De La Espriella anuncia que buscará al Fondo Monetario Internacional para salir de la crisis fiscal",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-abelardo-de-la-espriella-habla-en-alocucion-sobre-medidas-economicas-y-de-seguridad-3589362",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-27T21:18:16-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Flávio Bolsonaro: el heredero que navega sobre la ola ultraderechista global en busca de un nombre propio",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260927-fl%C3%A1vio-bolsonaro-el-heredero-que-navega-sobre-la-ola-ultraderechista-global-en-busca-de-un-nombre-propio",
       "source": "France 24",
       "pubDate": "Sun, 27 Sep 2026 21:38:36 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Daniel Noboa envió mensaje a Abelardo de la Espriella tras captura de esposa e hija de alias Fito: “Juntos y con resultados”",
-      "link": "https://www.infobae.com/colombia/2026/09/27/daniel-noboa-envio-mensaje-a-abelardo-de-la-espriella-tras-captura-de-esposa-e-hija-de-alias-fito-juntos-y-con-resultados/",
-      "source": "Infobae",
-      "pubDate": "Sun, 27 Sep 2026 21:21:07 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Abelardo De La Espriella informa traslado de miembros de Autodefensas de la Sierra a cárceles lejos del Caribe: 'Es separarlos de zonas de influencia'",
@@ -83,22 +91,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/simbolos-y-redes-sociales-el-estilo-de-gobernar-del-presidente-abelardo-de-la-espriella-en-sus-50-dias-de-mandato-3589101",
       "source": "El Tiempo",
       "pubDate": "2026-09-26T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Beatriz Eugenia Vélez es la nueva directora de Colpensiones: presidente Abelardo De La Espriella anuncia designación tras relevo exprés en la entidad",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/beatriz-eugenia-velez-es-la-nueva-directora-de-colpensiones-presidente-abelardo-de-la-espriella-anuncia-designacion-tras-relevo-expres-en-la-entidad-3589200",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-26T15:45:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Las alertas del presidente Abelardo De La Espriella sobre centros educativos: pide ponerle la lupa a universidades de La Guajira y Pamplona",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-le-pide-a-ministra-de-educacion-que-haga-vigilancia-especial-a-universidad-de-pamplona-por-posibles-malos-manejos-3589208",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-26T15:03:54-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
