@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T20:27:26.965Z",
+  "updatedAt": "2026-09-29T01:37:35.074Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,20 +47,28 @@
   ],
   "articles": [
     {
-      "title": "Brasil: Lula amplía ventaja sobre Bolsonaro en sondeos de primera vuelta; habría empate técnico en un balotaje",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260928-brasil-lula-ampl%C3%ADa-ventaja-sobre-bolsonaro-en-sondeos-de-primera-vuelta-habr%C3%ADa-empate-t%C3%A9cnico-en-un-balotaje",
-      "source": "France 24",
-      "pubDate": "Mon, 28 Sep 2026 17:11:29 GMT",
+      "title": "El Gobierno cambia el reparto de tutelas contra el Presidente: ahora llegarán al Consejo de Estado",
+      "link": "https://www.infobae.com/colombia/2026/09/28/el-gobierno-cambia-el-reparto-de-tutelas-contra-el-presidente-ahora-llegaran-al-consejo-de-estado/",
+      "source": "Infobae",
+      "pubDate": "Tue, 29 Sep 2026 00:38:40 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Un distrito de Lima Sur llega a las Elecciones 2026 con 35% más electores y una quebrada bajo alerta: las dudas que persisten",
+      "link": "https://www.infobae.com/peru/2026/09/28/un-distrito-de-lima-sur-llega-a-las-elecciones-2026-con-35-mas-electores-y-una-quebrada-bajo-alerta-las-dudas-que-persisten/",
+      "source": "Infobae",
+      "pubDate": "Mon, 28 Sep 2026 23:44:44 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Presidente Abelardo De La Espriella: los siete mensajes clave y frases de su alocución de este domingo 27 de septiembre",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-los-siete-mensajes-clave-y-frases-de-su-alocucion-de-este-domingo-27-de-septiembre-3589403",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-28T07:47:27-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Miguel Uribe Londoño reclamó avances en la investigación por el magnicidio de su hijo: “¿Quién dio la orden?”",
+      "link": "https://www.infobae.com/colombia/2026/09/28/miguel-uribe-londono-reclamo-avances-en-la-investigacion-por-el-magnicidio-de-su-hijo-quien-dio-la-orden/",
+      "source": "Infobae",
+      "pubDate": "Mon, 28 Sep 2026 23:40:48 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
