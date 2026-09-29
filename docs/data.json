@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T16:29:49.474Z",
+  "updatedAt": "2026-09-29T22:03:29.888Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 1,
+      "trendsScore": 4,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 35.9
       },
       "youtubeViews": 7128,
-      "finalScore": 35,
+      "finalScore": 36,
       "momentum": {
-        "value": 0,
+        "value": 2.9,
         "direction": "flat"
       },
-      "probability": 46.7
+      "probability": 47.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,49 +42,8 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 53.3
+      "probability": 52.6
     }
   ],
-  "articles": [
-    {
-      "title": "El excandidato presidencial Georgescu, encarcelado por una presunta estafa en Rumanía",
-      "link": "https://www.infobae.com/america/agencias/2026/09/29/el-excandidato-presidencial-georgescu-encarcelado-por-una-presunta-estafa-en-rumania/",
-      "source": "Infobae",
-      "pubDate": "Tue, 29 Sep 2026 16:17:44 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones 2026 Callao: Lista de candidatos a las alcaldías de Bellavista, Ventanilla, La Perla, La Punta, Ventanilla y Mi Perú",
-      "link": "https://www.infobae.com/peru/2026/09/29/elecciones-2026-callao-lista-de-candidatos-a-las-alcaldias-de-bellavista-ventanilla-la-perla-la-punta-ventanilla-y-mi-peru/",
-      "source": "Infobae",
-      "pubDate": "Tue, 29 Sep 2026 16:17:27 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Pacto Histórico rechazó el acercamiento del gobierno de Abelardo de la Espriella al FMI: “Nos dejó una deuda en la pandemia” ",
-      "link": "https://www.infobae.com/colombia/2026/09/29/pacto-historico-rechazo-el-acercamiento-del-gobierno-de-abelardo-de-la-espriella-al-fmi-nos-dejo-una-deuda-en-la-pandemia/",
-      "source": "Infobae",
-      "pubDate": "Tue, 29 Sep 2026 16:12:55 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella ordenó repatriar al soldado Henry Camargo, quien se encuentra en Nueva York padeciendo una afección pulmonar",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordeno-repatriar-al-soldado-henry-camargo-quien-se-encuentra-en-nueva-york-padeciendo-una-afeccion-pulmonar-3589708",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-29T08:08:11-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Jordan Bardella demandará a Mediapart por una investigación sobre presuntos mensajes antisemitas",
-      "link": "https://www.france24.com/es/francia/20260929-jordan-bardella-demanda-a-mediapart-por-una-investigaci%C3%B3n-sobre-presuntos-mensajes-antisemitas",
-      "source": "France 24",
-      "pubDate": "Tue, 29 Sep 2026 12:46:27 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    }
-  ]
+  "articles": []
 }
