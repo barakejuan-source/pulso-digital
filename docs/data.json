@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-30T18:56:58.680Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-09-30T23:35:53.036Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 7,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 35.9
       },
       "youtubeViews": 7128,
-      "finalScore": 38,
+      "finalScore": 37,
       "momentum": {
-        "value": 0,
+        "value": -2.6,
         "direction": "flat"
       },
-      "probability": 48.7
+      "probability": 48.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,55 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.3
+      "probability": 51.9
     }
   ],
   "articles": [
     {
-      "title": "Gobierno de Abelardo de la Espriella revocó resolución de Gustavo Petro sobre la reserva de Santurbán: Ministerio de Ambiente aseguró que detectó fallas ",
-      "link": "https://www.infobae.com/colombia/2026/09/30/gobierno-de-abelardo-de-la-espriella-revoco-resolucion-de-gustavo-petro-sobre-la-reserva-de-santurban-ministerio-de-ambiente-aseguro-que-detecto-fallas/",
-      "source": "Infobae",
-      "pubDate": "Wed, 30 Sep 2026 18:38:54 +0000",
+      "title": "Las peticiones del cuarto manifiesto del centro político al presidente Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/las-peticiones-del-cuarto-manifiesto-del-centro-politico-al-presidente-abelardo-de-la-espriella-3590279",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-30T16:46:33-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Candidatos a la alcaldía de El Agustino: lista completa de postulantes y partidos políticos en las Elecciones 2026",
-      "link": "https://www.infobae.com/peru/2026/09/30/candidatos-a-la-alcaldia-de-el-agustino-lista-completa-de-postulantes-y-partidos-politicos-en-las-elecciones-2026/",
-      "source": "Infobae",
-      "pubDate": "Wed, 30 Sep 2026 18:21:15 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Gobierno de Abelardo De La Espriella prepara sistema de información sobre las guardias indígenas: ya hay borrador del decreto",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-prepara-sistema-de-informacion-sobre-las-guardias-indigenas-ya-hay-borrador-del-decreto-3590280",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-30T16:43:02-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Por qué el Centro Democrático mantiene su respaldo a Abelardo De La Espriella pese a los ataques de los aliados del Gobierno?",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/por-que-el-centro-democratico-mantiene-su-respaldo-a-abelardo-de-la-espriella-pese-a-los-ataques-de-los-aliados-del-gobierno-3590227",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-30T16:31:45-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Las respuestas del gobierno de Abelardo De La Espriella ante las dudas por los pilotos de aspersión con glufosinato en Putumayo",
+      "link": "https://www.eltiempo.com/politica/congreso/las-respuestas-del-gobierno-de-abelardo-de-la-espriella-ante-las-dudas-por-los-pilotos-de-aspersion-con-glufosinato-en-putumayo-3590220",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-30T14:40:10-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Con la magistrada Cristina Lombana, Abelardo De La Espriella inicia la construcción de su bloque anticorrupción: ¿cuál es el alcance de la figura?",
       "link": "https://www.eltiempo.com/politica/gobierno/con-la-magistrada-cristina-lombana-abelardo-de-la-espriella-inicia-la-construccion-de-su-bloque-anticorrupcion-cual-es-el-alcance-de-la-figura-3590148",
       "source": "El Tiempo",
       "pubDate": "2026-09-30T11:18:09-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Atención: Gobierno de Abelardo De La Espriella levanta el racionamiento preventivo de gas natural",
-      "link": "https://www.eltiempo.com/politica/gobierno/atencion-gobierno-de-abelardo-de-la-espriella-levanta-el-racionamiento-preventivo-de-gas-natural-3590057",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-30T10:46:04-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella nombra oficialmente a Lucas Eduardo Ariza Buitrago como nuevo presidente de Indumil",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-nombra-oficialmente-a-lucas-eduardo-ariza-buitrago-como-nuevo-presidente-de-indumil-3590042",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-30T02:26:19-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella asegura que ha firmado 105 extradiciones en 53 días de su administración: 'El número seguirá creciendo'",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-asegura-que-ha-firmado-105-extradiciones-en-53-dias-de-su-administracion-el-numero-seguira-creciendo-3590029",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-29T22:36:27-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
