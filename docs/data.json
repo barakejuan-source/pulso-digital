@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-30T12:11:30.510Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-09-30T18:56:58.680Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 7128,
       "finalScore": 38,
       "momentum": {
-        "value": 2.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.7
@@ -47,10 +47,34 @@
   ],
   "articles": [
     {
+      "title": "Gobierno de Abelardo de la Espriella revocó resolución de Gustavo Petro sobre la reserva de Santurbán: Ministerio de Ambiente aseguró que detectó fallas ",
+      "link": "https://www.infobae.com/colombia/2026/09/30/gobierno-de-abelardo-de-la-espriella-revoco-resolucion-de-gustavo-petro-sobre-la-reserva-de-santurban-ministerio-de-ambiente-aseguro-que-detecto-fallas/",
+      "source": "Infobae",
+      "pubDate": "Wed, 30 Sep 2026 18:38:54 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Candidatos a la alcaldía de El Agustino: lista completa de postulantes y partidos políticos en las Elecciones 2026",
+      "link": "https://www.infobae.com/peru/2026/09/30/candidatos-a-la-alcaldia-de-el-agustino-lista-completa-de-postulantes-y-partidos-politicos-en-las-elecciones-2026/",
+      "source": "Infobae",
+      "pubDate": "Wed, 30 Sep 2026 18:21:15 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Con la magistrada Cristina Lombana, Abelardo De La Espriella inicia la construcción de su bloque anticorrupción: ¿cuál es el alcance de la figura?",
+      "link": "https://www.eltiempo.com/politica/gobierno/con-la-magistrada-cristina-lombana-abelardo-de-la-espriella-inicia-la-construccion-de-su-bloque-anticorrupcion-cual-es-el-alcance-de-la-figura-3590148",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-30T11:18:09-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Atención: Gobierno de Abelardo De La Espriella levanta el racionamiento preventivo de gas natural",
       "link": "https://www.eltiempo.com/politica/gobierno/atencion-gobierno-de-abelardo-de-la-espriella-levanta-el-racionamiento-preventivo-de-gas-natural-3590057",
       "source": "El Tiempo",
-      "pubDate": "2026-09-30T06:57:15-05:00",
+      "pubDate": "2026-09-30T10:46:04-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -69,22 +93,6 @@
       "pubDate": "2026-09-29T22:36:27-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De la Espriella designa a la magistrada Cristina Lombana en la Secretaría de Transparencia y anuncia bloque de búsqueda contra la corrupción",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-designa-a-la-magistrada-cristina-lombana-en-la-secretaria-de-transparencia-y-anuncia-bloque-de-busqueda-contra-la-corrupcion-3589990",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-29T19:01:40-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Río de Janeiro, la cuna del bolsonarismo objetivo de campaña de Lula da Silva",
-      "link": "https://www.france24.com/es/video/20260929-r%C3%ADo-de-janeiro-la-cuna-del-bolsonarismo-objetivo-de-campa%C3%B1a-de-lula-da-silva",
-      "source": "France 24",
-      "pubDate": "Tue, 29 Sep 2026 22:45:36 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
