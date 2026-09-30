@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T04:45:46.545Z",
+  "updatedAt": "2026-09-30T12:11:30.510Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 7,
+      "trendsScore": 9,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 35.9
       },
       "youtubeViews": 7128,
-      "finalScore": 37,
+      "finalScore": 38,
       "momentum": {
-        "value": 2.8,
+        "value": 2.7,
         "direction": "flat"
       },
-      "probability": 48.1
+      "probability": 48.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,26 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.9
+      "probability": 51.3
     }
   ],
   "articles": [
+    {
+      "title": "Atención: Gobierno de Abelardo De La Espriella levanta el racionamiento preventivo de gas natural",
+      "link": "https://www.eltiempo.com/politica/gobierno/atencion-gobierno-de-abelardo-de-la-espriella-levanta-el-racionamiento-preventivo-de-gas-natural-3590057",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-30T06:57:15-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella nombra oficialmente a Lucas Eduardo Ariza Buitrago como nuevo presidente de Indumil",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-nombra-oficialmente-a-lucas-eduardo-ariza-buitrago-como-nuevo-presidente-de-indumil-3590042",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-30T02:26:19-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Presidente Abelardo De La Espriella asegura que ha firmado 105 extradiciones en 53 días de su administración: 'El número seguirá creciendo'",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-asegura-que-ha-firmado-105-extradiciones-en-53-dias-de-su-administracion-el-numero-seguira-creciendo-3590029",
