@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T23:35:53.036Z",
+  "updatedAt": "2026-10-01T04:58:07.798Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 7,
+      "trendsScore": 5,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 7128,
       "finalScore": 37,
       "momentum": {
-        "value": -2.6,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.1
@@ -46,6 +46,22 @@
     }
   ],
   "articles": [
+    {
+      "title": "Miguel Arrázola, el pastor del 'No' que ve al presidente Abelardo De la Espriella como un enviado de Dios y será embajador en El Salvador",
+      "link": "https://www.eltiempo.com/politica/gobierno/miguel-arrazola-el-pastor-del-no-que-ve-al-presidente-abelardo-de-la-espriella-como-un-enviado-de-dios-y-sera-embajador-en-el-salvador-3590269",
+      "source": "El Tiempo",
+      "pubDate": "2026-09-30T22:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La seguridad marca las elecciones en Brasil: Lula y Bolsonaro, con planes opuestos",
+      "link": "https://www.france24.com/es/video/20261001-la-seguridad-marca-las-elecciones-en-brasil-lula-y-bolsonaro-con-planes-opuestos",
+      "source": "France 24",
+      "pubDate": "Thu, 01 Oct 2026 00:35:59 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "Las peticiones del cuarto manifiesto del centro político al presidente Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/las-peticiones-del-cuarto-manifiesto-del-centro-politico-al-presidente-abelardo-de-la-espriella-3590279",
@@ -75,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/congreso/las-respuestas-del-gobierno-de-abelardo-de-la-espriella-ante-las-dudas-por-los-pilotos-de-aspersion-con-glufosinato-en-putumayo-3590220",
       "source": "El Tiempo",
       "pubDate": "2026-09-30T14:40:10-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Con la magistrada Cristina Lombana, Abelardo De La Espriella inicia la construcción de su bloque anticorrupción: ¿cuál es el alcance de la figura?",
-      "link": "https://www.eltiempo.com/politica/gobierno/con-la-magistrada-cristina-lombana-abelardo-de-la-espriella-inicia-la-construccion-de-su-bloque-anticorrupcion-cual-es-el-alcance-de-la-figura-3590148",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-30T11:18:09-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
