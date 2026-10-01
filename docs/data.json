@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-01T19:21:38.929Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-10-01T23:48:08.035Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 5,
+      "trendsScore": 6,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,50 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Congresista Mario Díaz-Balart elogió la gestión de Abelardo de la Espriella en sus primeros dos meses: “No esperaba que fuese tan rápido” ",
-      "link": "https://www.infobae.com/colombia/2026/10/01/congresista-mario-diaz-balart-elogio-la-gestion-de-abelardo-de-la-espriella-en-sus-primeros-dos-meses-no-esperaba-que-fuese-tan-rapido/",
+      "title": "Lucas Bove, diputado de San Pablo: “Flávio Bolsonaro va a pasar al frente en la elección”",
+      "link": "https://www.infobae.com/america/mundo/2026/10/01/lucas-bove-diputado-de-san-pablo-flavio-bolsonaro-va-a-pasar-al-frente-en-la-eleccion/",
       "source": "Infobae",
-      "pubDate": "Thu, 01 Oct 2026 19:09:22 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Thu, 01 Oct 2026 23:23:17 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Habló el exmilitar hospitalizado en EE.UU. que Abelardo de la Espriella ordenó repatriar: “Me van a regalar ese milagro”",
-      "link": "https://www.infobae.com/colombia/2026/10/01/hablo-el-exmilitar-hospitalizado-en-ee-uu-que-abelardo-de-la-espriella-ordeno-repatriar-me-van-a-regalar-ese-milagro/",
-      "source": "Infobae",
-      "pubDate": "Thu, 01 Oct 2026 19:04:43 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Firma de abogados de Abelardo de la Espriella enfrenta un pleito con la esposa de Jaime Vives, quien sería el nuevo gerente de Coljuegos: de qué se trata",
-      "link": "https://www.infobae.com/colombia/2026/10/01/firma-de-abogados-de-abelardo-de-la-espriella-enfrenta-un-pleito-con-la-esposa-de-jaime-vives-quien-seria-el-nuevo-gerente-de-coljuegos-de-que-se-trata/",
-      "source": "Infobae",
-      "pubDate": "Thu, 01 Oct 2026 19:01:03 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella reveló cuántas horas duerme a diario desde que es presidente: “Vamos a tener conversaciones en la madrugada”",
-      "link": "https://www.infobae.com/colombia/2026/10/01/abelardo-de-la-espriella-revelo-cuantas-horas-duerme-a-diario-desde-que-es-presidente-vamos-a-tener-conversaciones-en-la-madrugada/",
-      "source": "Infobae",
-      "pubDate": "Thu, 01 Oct 2026 18:55:10 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Levy Rincón aseguró que la UNP le quitó otra vez su esquema de seguridad y arremetió contra el gobierno de Abelardo de la Espriella: “La orden es asesinarme” ",
-      "link": "https://www.infobae.com/colombia/2026/10/01/levy-rincon-aseguro-que-la-unp-le-quito-otra-vez-su-esquema-de-seguridad-y-arremetio-contra-el-gobierno-de-abelardo-de-la-espriella-la-orden-es-asesinarme/",
-      "source": "Infobae",
-      "pubDate": "Thu, 01 Oct 2026 18:52:29 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella ordena revertir el aumento de la gasolina correspondiente al mes de octubre",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordena-revertir-el-aumento-de-la-gasolina-correspondiente-al-mes-de-octubre-3590450",
+      "title": "Presidente Abelardo De La Espriella compartió imágenes del traslado de Juan Guillermo Monsalve a la cárcel de Boyacá: 'Bienvenido a la Patria Milagro'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-compartio-las-primeras-imagenes-del-traslado-de-juan-guillermo-monsalve-bienvenido-a-la-patria-milagro-3590570",
       "source": "El Tiempo",
-      "pubDate": "2026-10-01T11:01:16-05:00",
+      "pubDate": "2026-10-01T18:22:25-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Por qué Nicolás Gómez, jefe de despacho de Abelardo De La Espriella, fue nombrado alcalde ad hoc de Cali?",
+      "link": "https://www.eltiempo.com/politica/gobierno/por-que-nicolas-gomez-jefe-de-despacho-de-abelardo-de-la-espriella-fue-nombrado-alcalde-ad-hoc-de-cali-3590538",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-01T18:21:51-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella encabezó el Relevo de Guardia de la Casa de Nariño, un acto protocolario sin presencia de un jefe de Estado desde 2019",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-encabezo-el-relevo-de-guardia-de-la-casa-de-narino-un-acto-protocolario-sin-presencia-de-un-jefe-de-estado-desde-3590575",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-01T17:53:43-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Directo Latam y las alarmas por el posible regreso de las ejecuciones extrajudiciales en Colombia",
+      "link": "https://www.france24.com/es/video/20261001-directo-latam-y-las-alarmas-por-el-posible-regreso-de-las-ejecuciones-extrajudiciales-en-colombia",
+      "source": "France 24",
+      "pubDate": "Thu, 01 Oct 2026 21:53:54 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -101,14 +93,6 @@
       "pubDate": "Thu, 01 Oct 2026 15:51:12 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella posesiona a Cindy Palma Aguirre como nueva directora de la Agencia de Renovación del Territorio",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-posesiona-a-cindy-palma-aguirre-como-nueva-directora-de-la-agencia-de-renovacion-del-territorio-3590398",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-01T08:06:12-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
