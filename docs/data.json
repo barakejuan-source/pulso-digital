@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T04:58:07.798Z",
+  "updatedAt": "2026-10-01T12:45:12.250Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,22 @@
   ],
   "articles": [
     {
+      "title": "Concejal le pidió a Abelardo de la Espriella que se adelante un operativo en el nuevo ‘Bronx’ de Bogotá: “Hay madres buscando a sus hijos”",
+      "link": "https://www.infobae.com/colombia/2026/10/01/concejal-le-pidio-a-abelardo-de-la-espriella-que-se-adelante-un-operativo-en-el-nuevo-bronx-de-bogota-hay-madres-buscando-a-sus-hijos/",
+      "source": "Infobae",
+      "pubDate": "Thu, 01 Oct 2026 12:25:15 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella desautoriza a persona cercana a su familia señalada de intrigar por nombramientos: 'Rechazo estas prácticas'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-desautoriza-a-persona-cercana-a-su-familia-senalada-de-intrigar-por-nombramientos-rechazo-estas-practicas-3590370",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-01T06:38:39-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Miguel Arrázola, el pastor del 'No' que ve al presidente Abelardo De la Espriella como un enviado de Dios y será embajador en El Salvador",
       "link": "https://www.eltiempo.com/politica/gobierno/miguel-arrazola-el-pastor-del-no-que-ve-al-presidente-abelardo-de-la-espriella-como-un-enviado-de-dios-y-sera-embajador-en-el-salvador-3590269",
       "source": "El Tiempo",
@@ -83,14 +99,6 @@
       "link": "https://www.eltiempo.com/politica/partidos-politicos/por-que-el-centro-democratico-mantiene-su-respaldo-a-abelardo-de-la-espriella-pese-a-los-ataques-de-los-aliados-del-gobierno-3590227",
       "source": "El Tiempo",
       "pubDate": "2026-09-30T16:31:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Las respuestas del gobierno de Abelardo De La Espriella ante las dudas por los pilotos de aspersión con glufosinato en Putumayo",
-      "link": "https://www.eltiempo.com/politica/congreso/las-respuestas-del-gobierno-de-abelardo-de-la-espriella-ante-las-dudas-por-los-pilotos-de-aspersion-con-glufosinato-en-putumayo-3590220",
-      "source": "El Tiempo",
-      "pubDate": "2026-09-30T14:40:10-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
