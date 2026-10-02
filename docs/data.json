@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T04:48:28.801Z",
+  "updatedAt": "2026-10-02T12:09:24.232Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,26 +47,18 @@
   ],
   "articles": [
     {
-      "title": "El Gobierno pone la lupa en Brasil: escenario parejo, el rol de Milei y los gestos ante un eventual balotaje",
-      "link": "https://www.infobae.com/politica/2026/10/02/el-gobierno-pone-la-lupa-en-brasil-escenario-parejo-el-rol-de-milei-y-los-gestos-ante-un-eventual-balotaje/",
-      "source": "Infobae",
-      "pubDate": "Fri, 02 Oct 2026 04:27:19 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Presidente Abelardo De La Espriella nombra a Jaime Gregorio Vives Pinedo como nuevo presidente de Coljuegos tras la renuncia de Marco Emilio Hincapié",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-nombra-a-jaime-gregorio-vives-pinedo-como-nuevo-presidente-de-coljuegos-tras-la-renuncia-de-marco-emilio-hincapie-3590643",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-02T03:29:22-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Presidente Abelardo De La Espriella compartió imágenes del traslado de Juan Guillermo Monsalve a la cárcel de Boyacá: 'Bienvenido a la Patria Milagro'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-compartio-las-primeras-imagenes-del-traslado-de-juan-guillermo-monsalve-bienvenido-a-la-patria-milagro-3590570",
       "source": "El Tiempo",
       "pubDate": "2026-10-01T19:23:56-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Por qué Nicolás Gómez, jefe de despacho de Abelardo De La Espriella, fue nombrado alcalde ad hoc de Cali?",
-      "link": "https://www.eltiempo.com/politica/gobierno/por-que-nicolas-gomez-jefe-de-despacho-de-abelardo-de-la-espriella-fue-nombrado-alcalde-ad-hoc-de-cali-3590538",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-01T18:21:51-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
