@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-02T19:06:25.132Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-10-02T23:39:03.913Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 6,
+      "trendsScore": 7,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,44 +47,12 @@
   ],
   "articles": [
     {
-      "title": "Abelardo De La Espriella anunció medidas sobre licencias de empresas de seguridad por presuntos nexos criminales y control de armas: 'Voy por todos'",
+      "title": "Abelardo De La Espriella anunció medidas contra empresas de seguridad por presuntos nexos criminales y control de armas: 'Voy por todos'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-anuncio-medidas-sobre-licencias-de-empresas-de-seguridad-por-presuntos-nexos-criminales-y-control-de-armas-voy-por-todos-3590795",
       "source": "El Tiempo",
       "pubDate": "2026-10-02T13:38:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Candidatos a la alcaldía de Punta Hermosa: lista completa de postulantes y partidos políticos en las Elecciones 2026",
-      "link": "https://www.infobae.com/peru/2026/10/02/candidatos-a-la-alcaldia-de-punta-hermosa-lista-completa-de-postulantes-y-partidos-politicos-en-las-elecciones-2026/",
-      "source": "Infobae",
-      "pubDate": "Fri, 02 Oct 2026 18:35:31 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Gobierno de Abelardo de la Espriella le prestaría plata a las EPS para superar la crisis en el sistema de salud: esta es la propuesta",
-      "link": "https://www.infobae.com/colombia/2026/10/02/gobierno-de-abelardo-de-la-espriella-le-prestaria-plata-a-las-eps-para-superar-la-crisis-en-el-sistema-de-salud-esta-es-la-propuesta/",
-      "source": "Infobae",
-      "pubDate": "Fri, 02 Oct 2026 18:15:55 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella nombra a Jaime Gregorio Vives Pinedo como nuevo presidente de Coljuegos tras la renuncia de Marco Emilio Hincapié",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-nombra-a-jaime-gregorio-vives-pinedo-como-nuevo-presidente-de-coljuegos-tras-la-renuncia-de-marco-emilio-hincapie-3590643",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-02T10:53:31-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Brasil: ¿seguirá Lula o volverá el bolsonarismo?",
-      "link": "https://www.france24.com/es/programas/el-debate/20261002-brasil-seguir%C3%A1-lula-o-volver%C3%A1-el-bolsonarismo",
-      "source": "France 24",
-      "pubDate": "Fri, 02 Oct 2026 13:10:36 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
