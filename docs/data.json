@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T23:48:08.035Z",
+  "updatedAt": "2026-10-02T04:48:28.801Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Lucas Bove, diputado de San Pablo: “Flávio Bolsonaro va a pasar al frente en la elección”",
-      "link": "https://www.infobae.com/america/mundo/2026/10/01/lucas-bove-diputado-de-san-pablo-flavio-bolsonaro-va-a-pasar-al-frente-en-la-eleccion/",
+      "title": "El Gobierno pone la lupa en Brasil: escenario parejo, el rol de Milei y los gestos ante un eventual balotaje",
+      "link": "https://www.infobae.com/politica/2026/10/02/el-gobierno-pone-la-lupa-en-brasil-escenario-parejo-el-rol-de-milei-y-los-gestos-ante-un-eventual-balotaje/",
       "source": "Infobae",
-      "pubDate": "Thu, 01 Oct 2026 23:23:17 +0000",
+      "pubDate": "Fri, 02 Oct 2026 04:27:19 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -58,7 +58,7 @@
       "title": "Presidente Abelardo De La Espriella compartió imágenes del traslado de Juan Guillermo Monsalve a la cárcel de Boyacá: 'Bienvenido a la Patria Milagro'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-compartio-las-primeras-imagenes-del-traslado-de-juan-guillermo-monsalve-bienvenido-a-la-patria-milagro-3590570",
       "source": "El Tiempo",
-      "pubDate": "2026-10-01T18:22:25-05:00",
+      "pubDate": "2026-10-01T19:23:56-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -77,22 +77,6 @@
       "pubDate": "2026-10-01T17:53:43-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Directo Latam y las alarmas por el posible regreso de las ejecuciones extrajudiciales en Colombia",
-      "link": "https://www.france24.com/es/video/20261001-directo-latam-y-las-alarmas-por-el-posible-regreso-de-las-ejecuciones-extrajudiciales-en-colombia",
-      "source": "France 24",
-      "pubDate": "Thu, 01 Oct 2026 21:53:54 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Brasil: Río de Janeiro, la cuna del bolsonarismo objetivo de campaña de Lula da Silva",
-      "link": "https://www.france24.com/es/video/20261001-brasil-r%C3%ADo-de-janeiro-la-cuna-del-bolsonarismo-objetivo-de-campa%C3%B1a-de-lula-da-silva",
-      "source": "France 24",
-      "pubDate": "Thu, 01 Oct 2026 15:51:12 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
