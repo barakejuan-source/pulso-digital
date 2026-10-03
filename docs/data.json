@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T19:10:57.485Z",
+  "updatedAt": "2026-10-03T22:47:15.328Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 6,
+      "trendsScore": 5,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella inauguró la ruta Montería-Panamá y pidió a Satena avanzar en una conexión directa con Miami: “24 horas desde ya”",
-      "link": "https://www.infobae.com/colombia/2026/10/03/abelardo-de-la-espriella-inauguro-la-ruta-monteria-panama-y-pidio-a-satena-avanzar-en-una-conexion-directa-con-miami-24-horas-desde-ya/",
-      "source": "Infobae",
-      "pubDate": "Sat, 03 Oct 2026 18:40:50 +0000",
+      "title": "Presidente Abelardo De La Espriella inauguró ruta aérea entre Montería y Ciudad de Panamá",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-inauguro-ruta-area-entre-monteria-y-ciudad-de-panama-3591040",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-03T17:37:46-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-balance-de-operativos-contra-el-crimen-en-el-ultimo-dia-neutralizado-terry-y-55-capturas-3590961",
       "source": "El Tiempo",
       "pubDate": "2026-10-03T07:40:02-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anuncia duro golpe a disidencias de alias Iván Mordisco en Nariño: reporta un muerto y $675 millones incautados",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-duro-golpe-a-disidencias-de-alias-ivan-mordisco-en-narino-reportan-un-muerto-y-675-millones-incautados-3590914",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-02T21:10:20-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
