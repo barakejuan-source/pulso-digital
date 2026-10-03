@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T04:31:00.634Z",
+  "updatedAt": "2026-10-03T11:20:42.642Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 6,
+      "trendsScore": 7,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Brasil llega a las elecciones del domingo con una paradoja que desvela a analistas e inversores",
-      "link": "https://www.infobae.com/opinion/2026/10/03/brasil-llega-a-las-elecciones-del-domingo-con-una-paradoja-que-desvela-a-analistas-e-inversores/",
+      "title": "Elecciones Brasil 2026, en vivo: a un día de los comicios, Lula da Silva y Flávio Bolsonaro buscan definir el resultado en primera vuelta",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/03/en-vivo-elecciones-brasil-2026/",
       "source": "Infobae",
-      "pubDate": "Sat, 03 Oct 2026 04:12:18 +0000",
+      "pubDate": "Sat, 03 Oct 2026 11:01:11 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
