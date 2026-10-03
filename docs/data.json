@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T11:20:42.642Z",
+  "updatedAt": "2026-10-03T15:59:26.029Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,26 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Elecciones Brasil 2026, en vivo: a un día de los comicios, Lula da Silva y Flávio Bolsonaro buscan definir el resultado en primera vuelta",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/03/en-vivo-elecciones-brasil-2026/",
+      "title": "‘Petro y Hollman Morris dejaron la radio pública en la ruina’, revela gobierno de Abelardo De La Espriella: crisis en RTVC",
+      "link": "https://www.eltiempo.com/politica/gobierno/petro-y-hollman-morris-dejaron-la-radio-publica-en-la-ruina-revela-gobierno-de-abelardo-de-la-espriella-crisis-en-rtvc-3590962",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-03T10:29:19-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda aclaró si Gustavo Petro le apuntaría a la alcaldía de Bogotá en el 2027: “Veremos”",
+      "link": "https://www.infobae.com/colombia/2026/10/03/ivan-cepeda-aclaro-si-gustavo-petro-le-apuntaria-a-la-alcaldia-de-bogota-en-el-2027-veremos/",
       "source": "Infobae",
-      "pubDate": "Sat, 03 Oct 2026 11:01:11 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Sat, 03 Oct 2026 15:27:10 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella pidió declarar insubsistente al director nacional de Bomberos tras denuncias de presunta corrupción: “No habrá contemplaciones”  ",
+      "link": "https://www.infobae.com/colombia/2026/10/03/abelardo-de-la-espriella-pidio-declarar-insubsistente-al-director-nacional-de-bomberos-tras-denuncias-de-presunta-corrupcion-no-habra-contemplaciones/",
+      "source": "Infobae",
+      "pubDate": "Sat, 03 Oct 2026 15:13:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella entrega balance de operativos contra el crimen en el último día: neutralizado ‘Terry’ y 55 capturas",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-balance-de-operativos-contra-el-crimen-en-el-ultimo-dia-neutralizado-terry-y-55-capturas-3590961",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-03T07:40:02-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Presidente Abelardo De La Espriella anuncia duro golpe a disidencias de alias Iván Mordisco en Nariño: reporta un muerto y $675 millones incautados",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-duro-golpe-a-disidencias-de-alias-ivan-mordisco-en-narino-reportan-un-muerto-y-675-millones-incautados-3590914",
       "source": "El Tiempo",
       "pubDate": "2026-10-02T21:10:20-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella anunció medidas contra empresas de seguridad por presuntos nexos criminales y control de armas: 'Voy por todos'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-anuncio-medidas-sobre-licencias-de-empresas-de-seguridad-por-presuntos-nexos-criminales-y-control-de-armas-voy-por-todos-3590795",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-02T13:38:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
