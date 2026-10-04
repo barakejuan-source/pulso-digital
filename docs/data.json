@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T22:47:15.328Z",
+  "updatedAt": "2026-10-04T05:02:35.516Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 5,
+      "trendsScore": 6,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,6 +47,22 @@
   ],
   "articles": [
     {
+      "title": "Presidente Abelardo De La Espriella donó nuevamente su sueldo para respaldar a estudiantes destacados de Montería y mujeres con cáncer de mama",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-dono-nuevamente-su-sueldo-para-respaldar-a-estudiantes-destacados-de-monteria-y-mujeres-con-cancer-de-mama-3591080",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-03T22:10:17-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella ordena visita a la Universidad de Córdoba y apunta a su rector: 'Se quiere atornillar con corrupción'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordena-inspeccion-a-la-universidad-de-cordoba-y-su-rector-se-quiere-atornillar-con-corrupcion-3591056",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-03T19:25:15-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella inauguró ruta aérea entre Montería y Ciudad de Panamá",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-inauguro-ruta-area-entre-monteria-y-ciudad-de-panama-3591040",
       "source": "El Tiempo",
@@ -59,22 +75,6 @@
       "link": "https://www.lasillavacia.com/red-de-expertos/cambiarle-el-desenlace-abelardo-y-la-tradicion-critica-afrocolombiana/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 03 Oct 2026 18:31:37 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "‘Petro y Hollman Morris dejaron la radio pública en la ruina’, revela gobierno de Abelardo De La Espriella: crisis en RTVC",
-      "link": "https://www.eltiempo.com/politica/gobierno/petro-y-hollman-morris-dejaron-la-radio-publica-en-la-ruina-revela-gobierno-de-abelardo-de-la-espriella-crisis-en-rtvc-3590962",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-03T10:29:19-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella entrega balance de operativos contra el crimen en el último día: neutralizado ‘Terry’ y 55 capturas",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-balance-de-operativos-contra-el-crimen-en-el-ultimo-dia-neutralizado-terry-y-55-capturas-3590961",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-03T07:40:02-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
