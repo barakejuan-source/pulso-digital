@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T16:49:46.647Z",
+  "updatedAt": "2026-10-04T21:03:43.936Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,28 +47,44 @@
   ],
   "articles": [
     {
-      "title": "Verónica Linares bromea con la edad de Federico Salazar en las Elecciones 2026: “Pronto ya no vas a tener que votar”",
-      "link": "https://www.infobae.com/peru/2026/10/04/veronica-linares-bromea-con-la-edad-de-federico-salazar-en-las-elecciones-2026-pronto-ya-no-vas-a-tener-que-votar/",
+      "title": "EN VIVO | Elecciones en Brasil: Flávio Bolsonaro encabeza el escrutinio tras la difusión de los primeros resultados oficiales ",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/04/en-vivo-elecciones-brasil-2026/",
       "source": "Infobae",
-      "pubDate": "Sun, 04 Oct 2026 16:40:27 +0000",
+      "pubDate": "Sun, 04 Oct 2026 21:00:51 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Abelardo de la Espriella lanzó ultimátum al alcalde de Sincelejo por presunta corrupción en la ciudad: “Se acabó la politiquería”",
-      "link": "https://www.infobae.com/colombia/2026/10/04/abelardo-de-la-espriella-lanzo-ultimatum-al-alcalde-de-sincelejo-por-presunta-corrupcion-en-la-ciudad-se-acabo-la-politiqueria/",
+      "title": "Yahir Acuña, alcalde de Sincelejo, respondió a Abelardo de la Espriella tras lanzarle un ultimátum: “Ese video está editado y manipulado”",
+      "link": "https://www.infobae.com/colombia/2026/10/04/yahir-acuna-alcalde-de-sincelejo-respondio-a-abelardo-de-la-espriella-tras-lanzarle-un-ultimatum-ese-video-esta-editado-y-manipulado/",
       "source": "Infobae",
-      "pubDate": "Sun, 04 Oct 2026 16:20:02 +0000",
+      "pubDate": "Sun, 04 Oct 2026 20:52:56 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "En directo: el ministerio de Justicia de Brasil reporta 214 incidentes electorales en la jornada",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261004-en-directo-elecciones-en-brasil-comienza-la-votaci%C3%B3n-para-elegir-presidente",
-      "source": "France 24",
-      "pubDate": "Sun, 04 Oct 2026 11:49:59 GMT",
+      "title": "A la espera de los primeros resultados, Milei sigue con optimismo la elección en Brasil y respaldó a Bolsonaro en redes ",
+      "link": "https://www.infobae.com/politica/2026/10/04/a-la-espera-de-los-primeros-resultados-milei-sigue-con-optimismo-la-eleccion-en-brasil-y-respaldo-a-bolsonaro-en-redes/",
+      "source": "Infobae",
+      "pubDate": "Sun, 04 Oct 2026 20:04:36 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones 2026: intervienen a electores en Machupicchu y Pimentel por presuntamente fotografiar sus votos en la cámara secreta",
+      "link": "https://www.infobae.com/peru/2026/10/04/elecciones-2026-intervienen-a-electores-en-machupicchu-y-pimentel-por-presuntamente-fotografiar-sus-votos-en-la-camara-secreta/",
+      "source": "Infobae",
+      "pubDate": "Sun, 04 Oct 2026 19:59:38 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella asegura que ya hay 'agentes encubiertos en la administración pública' para investigar a los corruptos",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-asegura-que-ya-hay-agentes-encubiertos-en-la-administracion-publica-para-investigar-a-los-corruptos-3591120",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-04T12:06:42-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Presidente Abelardo De La Espriella donó nuevamente su sueldo para respaldar a estudiantes destacados de Montería y mujeres con cáncer de mama",
