@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T08:40:06.098Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-10-05T19:11:18.604Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,6 +47,78 @@
   ],
   "articles": [
     {
+      "title": "Presidente Abelardo de la Espriella lidera la activación de la Fuerza de Tarea Urano, en Valledupar: este el objetivo militar  ",
+      "link": "https://www.infobae.com/colombia/2026/10/05/presidente-abelardo-de-la-espriella-lidera-la-activacion-de-la-fuerza-de-tarea-urano-en-valledupar-este-el-objetivo-militar/",
+      "source": "Infobae",
+      "pubDate": "Mon, 05 Oct 2026 18:49:38 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Segunda Vuelta en las Elecciones Regionales: ¿cuándo se realiza?",
+      "link": "https://www.infobae.com/peru/2026/10/05/segunda-vuelta-en-las-elecciones-regionales-cuando-se-realiza/",
+      "source": "Infobae",
+      "pubDate": "Mon, 05 Oct 2026 18:25:39 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "La dinastía Bolsonaro se fortalece: prensa brasileña sobre la primera vuelta electoral",
+      "link": "https://www.france24.com/es/programas/revista-de-prensa/20261005-la-dinast%C3%ADa-bolsonaro-se-fortalece-prensa-brasile%C3%B1a-sobre-la-primera-vuelta-electoral",
+      "source": "France 24",
+      "pubDate": "Mon, 05 Oct 2026 18:10:51 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Brasil: Bolsonaro dice que el país “quiere cambio” y Lula busca remontar",
+      "link": "https://www.lasillavacia.com/en-vivo/brasil-bolsonaro-dice-que-el-pais-quiere-cambio-y-lula-busca-remontar/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 05 Oct 2026 16:17:23 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "\"Solo faltan días para el rescate Brasil\": Bolsonaro celebra la victoria sobre Lula",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261005-solo-faltan-d%C3%ADas-para-el-rescate-brasil-bolsonaro-celebra-la-victoria-sobre-lula",
+      "source": "France 24",
+      "pubDate": "Mon, 05 Oct 2026 16:10:56 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Flávio Bolsonaro y Lula da Silva se preparan para el balotaje en Brasil",
+      "link": "https://www.france24.com/es/video/20261005-fl%C3%A1vio-bolsonaro-y-lula-da-silva-se-preparan-para-el-balotaje-en-brasil",
+      "source": "France 24",
+      "pubDate": "Mon, 05 Oct 2026 15:59:56 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Los alcances de la revisión al acuerdo de paz que prepara el gobierno de Abelardo De La Espriella: ¿qué dirá ante el Consejo de Seguridad?",
+      "link": "https://www.eltiempo.com/politica/proceso-de-paz/los-alcances-de-la-revision-al-acuerdo-de-paz-que-prepara-el-gobierno-de-abelardo-de-la-espriella-que-dira-ante-el-consejo-de-seguridad-3591157",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-05T10:58:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Los resultados de la primera vuelta revelan un avance conservador en Brasil?",
+      "link": "https://www.france24.com/es/video/20261005-los-resultados-de-la-primera-vuelta-revelan-un-avance-conservador-en-brasil",
+      "source": "France 24",
+      "pubDate": "Mon, 05 Oct 2026 13:28:38 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Padre del presidente Abelardo De La Espriella responde a mención de Yahir Acuña tras enfrentamiento con el primer mandatario",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/padre-del-presidente-abelardo-de-la-espriella-responde-a-mencion-de-yahir-acuna-tras-enfrentamiento-con-el-primer-mandatario-3591225",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-05T08:10:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Elecciones en Brasil: Flávio Bolsonaro y Lula da Silva van a una segunda vuelta en la que el presidente enfrenta una difícil remontada",
       "link": "https://www.bbc.com/mundo/articles/c62e9knnnnnro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
@@ -55,90 +127,10 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Los alcances de la revisión al acuerdo de paz que prepara el gobierno de Abelardo De La Espriella: ¿qué dirá ante el Consejo de Seguridad?",
-      "link": "https://www.eltiempo.com/politica/proceso-de-paz/los-alcances-de-la-revision-al-acuerdo-de-paz-que-prepara-el-gobierno-de-abelardo-de-la-espriella-que-dira-ante-el-consejo-de-seguridad-3591157",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-04T23:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Brasil: la derecha de Bolsonaro se fortalece en las regiones, con un triunfo holgado en São Paulo",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261005-brasil-la-derecha-de-bolsonaro-se-fortalece-en-las-regiones-con-un-triunfo-holgado-en-s%C3%A3o-paulo",
-      "source": "France 24",
-      "pubDate": "Mon, 05 Oct 2026 03:19:28 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Lula y Bolsonaro se enfrentan en el balotaje en Brasil: ¿qué se puede concluir de la primera vuelta?",
-      "link": "https://www.france24.com/es/video/20261005-lula-y-bolsonaro-se-enfrentan-en-el-balotaje-en-brasil-qu%C3%A9-se-puede-concluir-de-la-primera-vuelta",
-      "source": "France 24",
-      "pubDate": "Mon, 05 Oct 2026 03:11:09 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella asegura que ya hay 'agentes encubiertos en la administración pública' para investigar a los corruptos",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-asegura-que-ya-hay-agentes-encubiertos-en-la-administracion-publica-para-investigar-a-los-corruptos-3591120",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-04T21:55:59-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Lula y Bolsonaro van al balotaje: ¿Es posible disminuir el Estado brasileño?",
-      "link": "https://www.france24.com/es/video/20261005-lula-y-bolsonaro-van-al-balotaje-es-posible-disminuir-el-estado-brasile%C3%B1o",
-      "source": "France 24",
-      "pubDate": "Mon, 05 Oct 2026 02:49:22 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Juan Agulló: \"A diferencia de otros países de Latinoamérica, Brasil es un competidor directo\"",
-      "link": "https://www.france24.com/es/video/20261005-juan-agull%C3%B3-a-diferencia-de-otros-pa%C3%ADses-de-latinoam%C3%A9rica-brasil-es-un-competidor-directo",
-      "source": "France 24",
-      "pubDate": "Mon, 05 Oct 2026 02:47:01 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Simone Pitta: \"Con esta primera vuelta se puede ver una consolidación del bolsonarismo en Brasil\"",
-      "link": "https://www.france24.com/es/video/20261005-simone-pitta-con-esta-primera-vuelta-se-puede-ver-una-consolidaci%C3%B3n-del-bolsonarismo-en-brasil",
-      "source": "France 24",
-      "pubDate": "Mon, 05 Oct 2026 02:46:40 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Cómo se compara Flávio Bolsonaro con su padre Jair y cuánto cambia el duelo con Lula por la presidencia de Brasil 4 años después",
       "link": "https://www.bbc.com/mundo/articles/cqvgjdkrmr7ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
       "pubDate": "Mon, 05 Oct 2026 02:39:05 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Flávio Bolsonaro y Lula da Silva se enfrentarán en el balotaje en Brasil",
-      "link": "https://www.france24.com/es/video/20261005-fl%C3%A1vio-bolsonaro-y-lula-da-silva-se-enfrentar%C3%A1n-en-el-balotaje-en-brasil",
-      "source": "France 24",
-      "pubDate": "Mon, 05 Oct 2026 00:32:48 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Flávio Bolsonaro y Lula da Silva se enfrentarán en una segunda vuelta en Brasil",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261005-fl%C3%A1vio-bolsonaro-y-lula-da-silva-se-enfrentar%C3%A1n-en-una-segunda-vuelta-en-brasil",
-      "source": "France 24",
-      "pubDate": "Mon, 05 Oct 2026 00:08:00 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Flávio Bolsonaro y Lula da Silva se enfrentarán en una segunda vuelta en Brasil",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261004-en-directo-elecciones-en-brasil-comienza-la-votaci%C3%B3n-para-elegir-presidente",
-      "source": "France 24",
-      "pubDate": "Sun, 04 Oct 2026 23:56:34 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
