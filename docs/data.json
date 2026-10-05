@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T00:34:48.687Z",
+  "updatedAt": "2026-10-05T08:40:06.098Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 7128,
       "finalScore": 38,
       "momentum": {
-        "value": 2.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.7
@@ -47,82 +47,82 @@
   ],
   "articles": [
     {
+      "title": "Elecciones en Brasil: Flávio Bolsonaro y Lula da Silva van a una segunda vuelta en la que el presidente enfrenta una difícil remontada",
+      "link": "https://www.bbc.com/mundo/articles/c62e9knnnnnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 05 Oct 2026 07:14:25 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Los alcances de la revisión al acuerdo de paz que prepara el gobierno de Abelardo De La Espriella: ¿qué dirá ante el Consejo de Seguridad?",
+      "link": "https://www.eltiempo.com/politica/proceso-de-paz/los-alcances-de-la-revision-al-acuerdo-de-paz-que-prepara-el-gobierno-de-abelardo-de-la-espriella-que-dira-ante-el-consejo-de-seguridad-3591157",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-04T23:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Brasil: la derecha de Bolsonaro se fortalece en las regiones, con un triunfo holgado en São Paulo",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261005-brasil-la-derecha-de-bolsonaro-se-fortalece-en-las-regiones-con-un-triunfo-holgado-en-s%C3%A3o-paulo",
+      "source": "France 24",
+      "pubDate": "Mon, 05 Oct 2026 03:19:28 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Lula y Bolsonaro se enfrentan en el balotaje en Brasil: ¿qué se puede concluir de la primera vuelta?",
+      "link": "https://www.france24.com/es/video/20261005-lula-y-bolsonaro-se-enfrentan-en-el-balotaje-en-brasil-qu%C3%A9-se-puede-concluir-de-la-primera-vuelta",
+      "source": "France 24",
+      "pubDate": "Mon, 05 Oct 2026 03:11:09 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella asegura que ya hay 'agentes encubiertos en la administración pública' para investigar a los corruptos",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-asegura-que-ya-hay-agentes-encubiertos-en-la-administracion-publica-para-investigar-a-los-corruptos-3591120",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-04T21:55:59-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Lula y Bolsonaro van al balotaje: ¿Es posible disminuir el Estado brasileño?",
+      "link": "https://www.france24.com/es/video/20261005-lula-y-bolsonaro-van-al-balotaje-es-posible-disminuir-el-estado-brasile%C3%B1o",
+      "source": "France 24",
+      "pubDate": "Mon, 05 Oct 2026 02:49:22 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Juan Agulló: \"A diferencia de otros países de Latinoamérica, Brasil es un competidor directo\"",
+      "link": "https://www.france24.com/es/video/20261005-juan-agull%C3%B3-a-diferencia-de-otros-pa%C3%ADses-de-latinoam%C3%A9rica-brasil-es-un-competidor-directo",
+      "source": "France 24",
+      "pubDate": "Mon, 05 Oct 2026 02:47:01 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Simone Pitta: \"Con esta primera vuelta se puede ver una consolidación del bolsonarismo en Brasil\"",
+      "link": "https://www.france24.com/es/video/20261005-simone-pitta-con-esta-primera-vuelta-se-puede-ver-una-consolidaci%C3%B3n-del-bolsonarismo-en-brasil",
+      "source": "France 24",
+      "pubDate": "Mon, 05 Oct 2026 02:46:40 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Cómo se compara Flávio Bolsonaro con su padre Jair y cuánto cambia el duelo con Lula por la presidencia de Brasil 4 años después",
+      "link": "https://www.bbc.com/mundo/articles/cqvgjdkrmr7ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 05 Oct 2026 02:39:05 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "Flávio Bolsonaro y Lula da Silva se enfrentarán en el balotaje en Brasil",
       "link": "https://www.france24.com/es/video/20261005-fl%C3%A1vio-bolsonaro-y-lula-da-silva-se-enfrentar%C3%A1n-en-el-balotaje-en-brasil",
       "source": "France 24",
       "pubDate": "Mon, 05 Oct 2026 00:32:48 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Flávio, el heredero de Jair Bolsonaro que se medirá a Lula en la segunda vuelta",
-      "link": "https://www.infobae.com/america/agencias/2026/10/05/flavio-el-heredero-de-jair-bolsonaro-que-se-medira-a-lula-en-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Mon, 05 Oct 2026 00:30:33 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "EN VIVO | Elecciones en Brasil: tras la confirmación del balotaje, se esperan los pronunciamientos de Lula y Bolsonaro",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/04/en-vivo-elecciones-brasil-2026/",
-      "source": "Infobae",
-      "pubDate": "Mon, 05 Oct 2026 00:26:54 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Segunda vuelta Elecciones Regionales 2026: estas son las 14 regiones que volverían a votar",
-      "link": "https://www.infobae.com/peru/2026/10/02/si-ningun-candidato-llega-al-30-de-los-votos-peru-tendra-una-segunda-vuelta-regional-el-29-de-noviembre/",
-      "source": "Infobae",
-      "pubDate": "Mon, 05 Oct 2026 00:26:44 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Flávio Bolsonaro y Lula da Silva disputarán la presidencia de Brasil en segunda vuelta",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/05/flavio-bolsonaro-y-lula-da-silva-disputaran-la-presidencia-de-brasil-en-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Mon, 05 Oct 2026 00:24:35 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "El expresidente Manuel Merino iría a segunda vuelta en Tumbes, según resultados a boca de urna de las Elecciones Regionales 2026",
-      "link": "https://www.infobae.com/peru/2026/10/05/el-expresidente-manuel-merino-iria-a-segunda-vuelta-en-tumbes-segun-resultados-a-boca-de-urna-de-las-elecciones-regionales-2026/",
-      "source": "Infobae",
-      "pubDate": "Mon, 05 Oct 2026 00:21:08 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "“Espero que pronto podamos empezar a trabajar juntos”, Javier Milei felicitó a Flávio Bolsonaro por el triunfo parcial en Brasil ",
-      "link": "https://www.infobae.com/politica/2026/10/05/espero-que-pronto-podamos-empezar-a-trabajar-juntos-javier-milei-felicito-a-flavio-bolsonaro-por-el-triunfo-parcial-en-brasil/",
-      "source": "Infobae",
-      "pubDate": "Mon, 05 Oct 2026 00:19:49 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Lula y Flávio Bolsonaro disputarán la Presidencia de Brasil en segunda vuelta",
-      "link": "https://www.infobae.com/america/agencias/2026/10/05/lula-y-flavio-bolsonaro-disputaran-la-presidencia-de-brasil-en-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Mon, 05 Oct 2026 00:15:51 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Milei sigue con optimismo la elección en Brasil y respaldó a Bolsonaro en redes ",
-      "link": "https://www.infobae.com/politica/2026/10/04/a-la-espera-de-los-primeros-resultados-milei-sigue-con-optimismo-la-eleccion-en-brasil-y-respaldo-a-bolsonaro-en-redes/",
-      "source": "Infobae",
-      "pubDate": "Mon, 05 Oct 2026 00:12:23 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones en Brasil: Flávio Bolsonaro y Lula da Silva van a una segunda vuelta en la que el presidente enfrenta una difícil remontada",
-      "link": "https://www.bbc.com/mundo/articles/c62e9knnnnnro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 05 Oct 2026 00:10:03 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -135,10 +135,10 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Resultados de las elecciones 2026 en la región Junín: Fernando Orihuela lidera el boca de urna de Datum con 32,1%",
-      "link": "https://www.infobae.com/peru/2026/10/04/resultados-de-las-elecciones-2026-en-la-region-junin-fernando-orihuela-lidera-el-boca-de-urna-de-datum-con-321/",
-      "source": "Infobae",
-      "pubDate": "Mon, 05 Oct 2026 00:06:22 +0000",
+      "title": "Flávio Bolsonaro y Lula da Silva se enfrentarán en una segunda vuelta en Brasil",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261004-en-directo-elecciones-en-brasil-comienza-la-votaci%C3%B3n-para-elegir-presidente",
+      "source": "France 24",
+      "pubDate": "Sun, 04 Oct 2026 23:56:34 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
