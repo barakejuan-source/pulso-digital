@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T19:11:18.604Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-10-06T01:15:43.144Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo de la Espriella lidera la activación de la Fuerza de Tarea Urano, en Valledupar: este el objetivo militar  ",
-      "link": "https://www.infobae.com/colombia/2026/10/05/presidente-abelardo-de-la-espriella-lidera-la-activacion-de-la-fuerza-de-tarea-urano-en-valledupar-este-el-objetivo-militar/",
+      "title": "Lula dijo que intentará movilizar a los 30 millones de brasileños que no votaron para revertir la ventaja de Bolsonaro",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/06/lula-dijo-que-intentara-movilizar-a-los-30-millones-de-brasilenos-que-no-votaron-para-revertir-la-ventaja-de-bolsonaro/",
       "source": "Infobae",
-      "pubDate": "Mon, 05 Oct 2026 18:49:38 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Tue, 06 Oct 2026 00:49:20 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Segunda Vuelta en las Elecciones Regionales: ¿cuándo se realiza?",
-      "link": "https://www.infobae.com/peru/2026/10/05/segunda-vuelta-en-las-elecciones-regionales-cuando-se-realiza/",
+      "title": "Jair Bolsonaro pidió a la Corte Suprema de Brasil que le permita recibir a su hijo Flávio antes del balotaje",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/06/jair-bolsonaro-pidio-a-la-corte-suprema-de-brasil-que-le-permita-recibir-a-su-hijo-flavio-antes-del-balotaje/",
       "source": "Infobae",
-      "pubDate": "Mon, 05 Oct 2026 18:25:39 +0000",
+      "pubDate": "Tue, 06 Oct 2026 00:04:18 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "El ex presidente Michel Temer y el derrotado Romeu Zema respaldaron a Flávio Bolsonaro para la segunda vuelta en Brasil",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/06/el-ex-presidente-michel-temer-y-el-derrotado-romeu-zema-respaldaron-a-flavio-bolsonaro-para-la-segunda-vuelta-en-brasil/",
+      "source": "Infobae",
+      "pubDate": "Tue, 06 Oct 2026 00:03:05 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Cómo queda el balance de poder en Brasil?",
+      "link": "https://www.france24.com/es/programas/en-contexto/20261005-c%C3%B3mo-queda-el-balance-de-poder-en-brasil",
+      "source": "France 24",
+      "pubDate": "Mon, 05 Oct 2026 21:55:27 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -67,14 +83,6 @@
       "link": "https://www.france24.com/es/programas/revista-de-prensa/20261005-la-dinast%C3%ADa-bolsonaro-se-fortalece-prensa-brasile%C3%B1a-sobre-la-primera-vuelta-electoral",
       "source": "France 24",
       "pubDate": "Mon, 05 Oct 2026 18:10:51 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Brasil: Bolsonaro dice que el país “quiere cambio” y Lula busca remontar",
-      "link": "https://www.lasillavacia.com/en-vivo/brasil-bolsonaro-dice-que-el-pais-quiere-cambio-y-lula-busca-remontar/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 05 Oct 2026 16:17:23 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -91,22 +99,6 @@
       "link": "https://www.france24.com/es/video/20261005-fl%C3%A1vio-bolsonaro-y-lula-da-silva-se-preparan-para-el-balotaje-en-brasil",
       "source": "France 24",
       "pubDate": "Mon, 05 Oct 2026 15:59:56 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Los alcances de la revisión al acuerdo de paz que prepara el gobierno de Abelardo De La Espriella: ¿qué dirá ante el Consejo de Seguridad?",
-      "link": "https://www.eltiempo.com/politica/proceso-de-paz/los-alcances-de-la-revision-al-acuerdo-de-paz-que-prepara-el-gobierno-de-abelardo-de-la-espriella-que-dira-ante-el-consejo-de-seguridad-3591157",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-05T10:58:05-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Los resultados de la primera vuelta revelan un avance conservador en Brasil?",
-      "link": "https://www.france24.com/es/video/20261005-los-resultados-de-la-primera-vuelta-revelan-un-avance-conservador-en-brasil",
-      "source": "France 24",
-      "pubDate": "Mon, 05 Oct 2026 13:28:38 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
