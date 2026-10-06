@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T08:47:23.983Z",
+  "updatedAt": "2026-10-06T16:43:05.793Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 8,
+      "trendsScore": 9,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,28 +47,12 @@
   ],
   "articles": [
     {
-      "title": "Elecciones 2026: Mack Donny, Renato Rossini, Leslie Castillo y más: los famosos que buscaron un cargo político, pero no fueron elegidos",
-      "link": "https://www.infobae.com/peru/2026/10/06/elecciones-2026-mack-donny-renato-rossini-leslie-castillo-y-mas-los-famosos-que-buscaron-un-cargo-politico-pero-no-fueron-elegidos/",
+      "title": "Iván Cepeda salió en defensa de Gustavo Petro y le lanzó advertencia al Gobierno De la Espriella: “No nos vamos a dejar vetar”",
+      "link": "https://www.infobae.com/colombia/2026/10/06/ivan-cepeda-salio-en-defensa-de-gustavo-petro-y-le-lanzo-advertencia-al-gobierno-de-la-espriella-no-nos-vamos-a-dejar-vetar/",
       "source": "Infobae",
-      "pubDate": "Tue, 06 Oct 2026 07:02:27 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Cómo queda el balance de poder en Brasil?",
-      "link": "https://www.france24.com/es/programas/en-contexto/20261005-c%C3%B3mo-queda-el-balance-de-poder-en-brasil",
-      "source": "France 24",
-      "pubDate": "Mon, 05 Oct 2026 21:55:27 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Padre del presidente Abelardo De La Espriella responde a mención de Yahir Acuña tras enfrentamiento con el primer mandatario",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/padre-del-presidente-abelardo-de-la-espriella-responde-a-mencion-de-yahir-acuna-tras-enfrentamiento-con-el-primer-mandatario-3591225",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-05T08:10:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Tue, 06 Oct 2026 16:31:58 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Elecciones en Brasil: Flávio Bolsonaro y Lula da Silva van a una segunda vuelta en la que el presidente enfrenta una difícil remontada",
