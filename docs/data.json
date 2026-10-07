@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T22:31:06.727Z",
+  "updatedAt": "2026-10-07T05:05:21.858Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 5,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 35.9
       },
       "youtubeViews": 7128,
-      "finalScore": 38,
+      "finalScore": 37,
       "momentum": {
-        "value": 0,
+        "value": -2.6,
         "direction": "flat"
       },
-      "probability": 48.7
+      "probability": 48.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,33 +42,25 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.3
+      "probability": 51.9
     }
   ],
   "articles": [
     {
-      "title": "Dos partidos de centroderecha anuncian su respaldo a Flávio Bolsonaro para segunda vuelta",
-      "link": "https://www.infobae.com/america/agencias/2026/10/06/dos-partidos-de-centroderecha-anuncian-su-respaldo-a-flavio-bolsonaro-para-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Tue, 06 Oct 2026 22:16:46 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Salario mínimo de 2027: Gobierno de Abelardo de la Espriella puso la primera condición a trabajadores y empresarios para el próximo aumento",
-      "link": "https://www.infobae.com/colombia/2026/10/06/salario-minimo-de-2027-gobierno-de-abelardo-de-la-espriella-puso-la-primera-condicion-a-trabajadores-y-empresarios-para-el-proximo-aumento/",
-      "source": "Infobae",
-      "pubDate": "Tue, 06 Oct 2026 22:11:10 +0000",
+      "title": "Primicia | Exmagistrado del CNE aterrizó en el gobierno de Abelardo De La Espriella como asesor jurídico: este es el contrato",
+      "link": "https://www.eltiempo.com/politica/gobierno/exmagistrado-del-cne-aterrizo-en-el-gobierno-de-abelardo-de-la-espriella-como-asesor-juridico-este-es-el-contrato-3591733",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-06T22:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "La Libertad: resultados de las elecciones regionales 2026 y quién será el gobernador",
-      "link": "https://www.infobae.com/peru/2026/10/06/la-libertad-resultados-de-las-elecciones-regionales-2026-y-quien-sera-el-gobernador/",
-      "source": "Infobae",
-      "pubDate": "Tue, 06 Oct 2026 21:56:35 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Abelardo De La Espriella posesionó a Beatriz Eugenia Vélez como nueva directora de Colpensiones tras relevo en la entidad: perfil de la funcionaria",
+      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-posesiono-a-beatriz-eugenia-velez-como-nueva-directora-de-colpensiones-tras-relevo-en-la-entidad-perfil-de-la-funcionaria-3591787",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-06T21:25:25-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "¿Podrá el gobierno de Abelardo De La Espriella revertir la baja ejecución presupuestal que heredó de la administración de Gustavo Petro?",
