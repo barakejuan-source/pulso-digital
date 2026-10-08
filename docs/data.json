@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-08T17:18:05.170Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-10-08T23:07:04.269Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 2,
+      "trendsScore": 5,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 35.9
       },
       "youtubeViews": 7128,
-      "finalScore": 35,
+      "finalScore": 37,
       "momentum": {
-        "value": 0,
+        "value": 5.7,
         "direction": "flat"
       },
-      "probability": 46.7
+      "probability": 48.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,39 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 53.3
+      "probability": 51.9
     }
   ],
   "articles": [
     {
-      "title": "De qué hablaron Abelardo de la Espriella y Flávio Bolsonaro durante su encuentro virtual previo a la segunda vuelta en Brasil: “Quiero que les vaya bien a nuestros vecinos” ",
-      "link": "https://www.infobae.com/colombia/2026/10/08/de-que-hablaron-abelardo-de-la-espriella-y-flavio-bolsonaro-durante-su-encuentro-virtual-previo-a-la-segunda-vuelta-en-brasil-quiero-que-les-vaya-bien-a-nuestros-vecinos/",
+      "title": "Primer campanazo de la ONU al gobierno de Abelardo de la Espriella: alertó por la financiación y continuidad del acuerdo de paz de 2016",
+      "link": "https://www.infobae.com/colombia/2026/10/08/primer-campanazo-de-la-onu-al-gobierno-de-abelardo-de-la-espriella-alerto-por-la-financiacion-y-continuidad-del-acuerdo-de-paz-de-2016/",
       "source": "Infobae",
-      "pubDate": "Thu, 08 Oct 2026 16:58:42 +0000",
+      "pubDate": "Thu, 08 Oct 2026 22:32:04 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Bolsonaro lidera la primera encuesta previa a la segunda vuelta Presidencial de Brasil",
+      "link": "https://www.infobae.com/america/agencias/2026/10/08/bolsonaro-lidera-la-primera-encuesta-previa-a-la-segunda-vuelta-presidencial-de-brasil/",
+      "source": "Infobae",
+      "pubDate": "Thu, 08 Oct 2026 22:16:12 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Las similitudes y diferencias de los estatutos anticorrupción del gobierno De La Espriella y el de Uribe: el país retoma el debate 20 años después",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/las-similitudes-y-diferencias-de-los-estatutos-anticorrupcion-del-gobierno-de-la-espriella-y-el-de-uribe-el-pais-retoma-el-debate-20-anos-despues-3592316",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-08T16:21:45-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Directo Latam y el apoyo de De la Espriella a exmilitares acusados por asesinato de Jovenel Moïse",
+      "link": "https://www.france24.com/es/video/20261008-directo-latam-y-el-apoyo-de-de-la-espriella-a-exmilitares-acusados-por-asesinato-de-jovenel-mo%C3%AFse",
+      "source": "France 24",
+      "pubDate": "Thu, 08 Oct 2026 18:55:35 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -61,38 +85,6 @@
       "pubDate": "2026-10-08T11:18:47-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El senador Hernán Cadavid defiende el estatuto antiterrorista",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/el-senador-hernan-cadavid-defiende-el-estatuto-antiterrorista-3592180",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-08T09:41:42-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella se refirió a quienes ordenaron el asesinato de Miguel Uribe Turbay: 'Los voy a cazar uno a uno'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-se-refirio-a-quienes-ordenaron-el-asesinato-de-miguel-uribe-turbay-los-voy-a-cazar-uno-a-uno-3592104",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-08T07:15:55-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desayune informado con las claves de este 8 de octubre de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-8-de-octubre-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 08 Oct 2026 12:15:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "De La Espriella propone a Flávio Bolsonaro estrechar lazos con Brasil para una ofensiva contra el narcoterrorismo: 'Sin seguridad no tenemos nada'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-propone-a-flavio-bolsonaro-estrechar-lazos-con-brasil-para-una-ofensiva-contra-el-narcoterrorismo-sin-seguridad-no-tenemos-nada-3592058",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-07T19:13:32-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Cómo se compara Flávio Bolsonaro con su padre Jair y cuánto cambia el duelo con Lula por la presidencia de Brasil 4 años después",
