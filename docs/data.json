@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T08:36:30.592Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-10-08T17:18:05.170Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,20 +47,44 @@
   ],
   "articles": [
     {
-      "title": "Abelardo De La Espriella se refirió a quienes ordenaron el asesinato de Miguel Uribe Turbay: 'Los voy a cazar uno a uno'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-se-refirio-a-quienes-ordenaron-el-asesinato-de-miguel-uribe-turbay-los-voy-a-cazar-uno-a-uno-3592104",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-07T23:45:33-05:00",
+      "title": "De qué hablaron Abelardo de la Espriella y Flávio Bolsonaro durante su encuentro virtual previo a la segunda vuelta en Brasil: “Quiero que les vaya bien a nuestros vecinos” ",
+      "link": "https://www.infobae.com/colombia/2026/10/08/de-que-hablaron-abelardo-de-la-espriella-y-flavio-bolsonaro-durante-su-encuentro-virtual-previo-a-la-segunda-vuelta-en-brasil-quiero-que-les-vaya-bien-a-nuestros-vecinos/",
+      "source": "Infobae",
+      "pubDate": "Thu, 08 Oct 2026 16:58:42 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "\"Dictadura nunca más\": marcha masiva en Río contra Bolsonaro a días del balotaje con Lula",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261008-dictadura-nunca-m%C3%A1s-marcha-masiva-en-r%C3%ADo-contra-bolsonaro-a-d%C3%ADas-del-balotaje-con-lula",
-      "source": "France 24",
-      "pubDate": "Thu, 08 Oct 2026 01:42:25 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "De La Espriella presenta la ruta para el Plan Nacional de Desarrollo 2026-2030 con 334 proyectos clave: zonas afectadas por terremoto serán prioridad",
+      "link": "https://www.eltiempo.com/politica/gobierno/de-la-espriella-presenta-la-ruta-para-el-plan-nacional-de-desarrollo-2026-2030-con-334-proyectos-clave-zonas-afectadas-por-terremoto-seran-prioridad-3592218",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-08T11:18:47-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El senador Hernán Cadavid defiende el estatuto antiterrorista",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/el-senador-hernan-cadavid-defiende-el-estatuto-antiterrorista-3592180",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-08T09:41:42-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella se refirió a quienes ordenaron el asesinato de Miguel Uribe Turbay: 'Los voy a cazar uno a uno'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-se-refirio-a-quienes-ordenaron-el-asesinato-de-miguel-uribe-turbay-los-voy-a-cazar-uno-a-uno-3592104",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-08T07:15:55-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Desayune informado con las claves de este 8 de octubre de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-8-de-octubre-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 08 Oct 2026 12:15:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "De La Espriella propone a Flávio Bolsonaro estrechar lazos con Brasil para una ofensiva contra el narcoterrorismo: 'Sin seguridad no tenemos nada'",
@@ -69,38 +93,6 @@
       "pubDate": "2026-10-07T19:13:32-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella expide directrices para la austeridad en el Ejecutivo: encuentros virtuales sobre comisiones al exterior",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-expide-directrices-para-la-austeridad-en-el-ejecutivo-encuentro-virtuales-sobre-comisiones-al-exterior-3592052",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-07T18:23:28-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Efectos de transformar la Orinoquía en despensa mundial: El Espectador",
-      "link": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/efectos-de-transformar-la-orinoquia-en-despensa-mundial-el-espectador/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 07 Oct 2026 22:45:29 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "\"Bolsonaro nunca más\": miles marchan en Río contra Flávio Bolsonaro antes del balotaje",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261007-bolsonaro-nunca-m%C3%A1s-miles-marchan-en-r%C3%ADo-contra-fl%C3%A1vio-bolsonaro-antes-del-balotaje",
-      "source": "France 24",
-      "pubDate": "Wed, 07 Oct 2026 21:28:49 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Embajador Alejandro Ordóñez se estrenó en la OEA con duros cuestionamientos al Sistema Interamericano de Derechos Humanos (SIDH): esto dijo",
-      "link": "https://www.eltiempo.com/politica/gobierno/embajador-alejandro-ordonez-se-estreno-en-la-oea-con-duros-cuestionamientos-al-sistema-interamericano-de-derechos-humanos-sidh-esto-dijo-3592009",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-07T16:19:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Cómo se compara Flávio Bolsonaro con su padre Jair y cuánto cambia el duelo con Lula por la presidencia de Brasil 4 años después",
