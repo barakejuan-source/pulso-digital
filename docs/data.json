@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T00:05:26.760Z",
+  "updatedAt": "2026-10-08T08:36:30.592Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 7128,
       "finalScore": 35,
       "momentum": {
-        "value": -2.8,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 46.7
@@ -47,18 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Citan a debate de control político al canciller Omar Bula tras discurso de Alejandro Ordóñez ante la OEA: “Oscurantismo disfrazado”",
-      "link": "https://www.infobae.com/colombia/2026/10/07/citan-a-debate-de-control-politico-al-canciller-omar-bula-tras-discurso-de-alejandro-ordonez-ante-la-oea-oscurantismo-disfrazado/",
-      "source": "Infobae",
-      "pubDate": "Wed, 07 Oct 2026 23:56:25 +0000",
+      "title": "Abelardo De La Espriella se refirió a quienes ordenaron el asesinato de Miguel Uribe Turbay: 'Los voy a cazar uno a uno'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-se-refirio-a-quienes-ordenaron-el-asesinato-de-miguel-uribe-turbay-los-voy-a-cazar-uno-a-uno-3592104",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-07T23:45:33-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Flávio Bolsonaro suma el apoyo de otros dos partidos de derecha para la segunda vuelta",
-      "link": "https://www.infobae.com/america/agencias/2026/10/07/flavio-bolsonaro-suma-el-apoyo-de-otros-dos-partidos-de-derecha-para-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Wed, 07 Oct 2026 23:30:44 +0000",
+      "title": "\"Dictadura nunca más\": marcha masiva en Río contra Bolsonaro a días del balotaje con Lula",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261008-dictadura-nunca-m%C3%A1s-marcha-masiva-en-r%C3%ADo-contra-bolsonaro-a-d%C3%ADas-del-balotaje-con-lula",
+      "source": "France 24",
+      "pubDate": "Thu, 08 Oct 2026 01:42:25 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "De La Espriella propone a Flávio Bolsonaro estrechar lazos con Brasil para una ofensiva contra el narcoterrorismo: 'Sin seguridad no tenemos nada'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-propone-a-flavio-bolsonaro-estrechar-lazos-con-brasil-para-una-ofensiva-contra-el-narcoterrorismo-sin-seguridad-no-tenemos-nada-3592058",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-07T19:13:32-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -71,14 +79,6 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Segunda vuelta regional 2026: cuándo sería y cuáles son las regiones que tendrían que volver a las urnas para elegir a su próximo gobernador",
-      "link": "https://www.infobae.com/peru/2026/10/06/segunda-vuelta-regional-2026-cuando-seria-y-cuales-son-las-regiones-que-tendrian-que-volver-a-las-urnas-para-elegir-a-su-proximo-gobernador/",
-      "source": "Infobae",
-      "pubDate": "Wed, 07 Oct 2026 22:58:20 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Efectos de transformar la Orinoquía en despensa mundial: El Espectador",
       "link": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/efectos-de-transformar-la-orinoquia-en-despensa-mundial-el-espectador/",
       "source": "La Silla Vacía",
@@ -87,18 +87,18 @@
       "candidateColor": "#1D3557"
     },
     {
+      "title": "\"Bolsonaro nunca más\": miles marchan en Río contra Flávio Bolsonaro antes del balotaje",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261007-bolsonaro-nunca-m%C3%A1s-miles-marchan-en-r%C3%ADo-contra-fl%C3%A1vio-bolsonaro-antes-del-balotaje",
+      "source": "France 24",
+      "pubDate": "Wed, 07 Oct 2026 21:28:49 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "Embajador Alejandro Ordóñez se estrenó en la OEA con duros cuestionamientos al Sistema Interamericano de Derechos Humanos (SIDH): esto dijo",
       "link": "https://www.eltiempo.com/politica/gobierno/embajador-alejandro-ordonez-se-estreno-en-la-oea-con-duros-cuestionamientos-al-sistema-interamericano-de-derechos-humanos-sidh-esto-dijo-3592009",
       "source": "El Tiempo",
       "pubDate": "2026-10-07T16:19:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella dio la orden de terminar contrato de Altus Baquero, exmagistrado del CNE, en el Ministerio del Interior",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-dio-la-orden-de-terminar-contrato-de-altus-baquero-exmagistrado-del-cne-en-el-ministerio-del-interior-3591871",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-07T12:41:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
