@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T23:07:04.269Z",
+  "updatedAt": "2026-10-09T05:19:17.625Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 5,
+      "trendsScore": 6,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 7128,
       "finalScore": 37,
       "momentum": {
-        "value": 5.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.1
@@ -47,18 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Primer campanazo de la ONU al gobierno de Abelardo de la Espriella: alertó por la financiación y continuidad del acuerdo de paz de 2016",
-      "link": "https://www.infobae.com/colombia/2026/10/08/primer-campanazo-de-la-onu-al-gobierno-de-abelardo-de-la-espriella-alerto-por-la-financiacion-y-continuidad-del-acuerdo-de-paz-de-2016/",
+      "title": "Bolsonaro lidera el primer sondeo para el balotaje en Brasil con cuatro puntos de ventaja sobre Lula, según Datafolha",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/09/bolsonaro-lidera-el-primer-sondeo-para-el-balotaje-en-brasil-con-cuatro-puntos-de-ventaja-sobre-lula-segun-datafolha/",
       "source": "Infobae",
-      "pubDate": "Thu, 08 Oct 2026 22:32:04 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Bolsonaro lidera la primera encuesta previa a la segunda vuelta Presidencial de Brasil",
-      "link": "https://www.infobae.com/america/agencias/2026/10/08/bolsonaro-lidera-la-primera-encuesta-previa-a-la-segunda-vuelta-presidencial-de-brasil/",
-      "source": "Infobae",
-      "pubDate": "Thu, 08 Oct 2026 22:16:12 +0000",
+      "pubDate": "Fri, 09 Oct 2026 05:17:12 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -85,14 +77,6 @@
       "pubDate": "2026-10-08T11:18:47-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cómo se compara Flávio Bolsonaro con su padre Jair y cuánto cambia el duelo con Lula por la presidencia de Brasil 4 años después",
-      "link": "https://www.bbc.com/mundo/articles/cqvgjdkrmr7ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 05 Oct 2026 02:39:05 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
