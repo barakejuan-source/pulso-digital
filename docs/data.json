@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T19:21:58.536Z",
+  "updatedAt": "2026-10-09T23:54:37.834Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,12 +47,52 @@
   ],
   "articles": [
     {
-      "title": "El JNE decidirá hoy la fecha final para la segunda vuelta en regiones",
-      "link": "https://www.infobae.com/peru/2026/10/09/el-jne-decidira-hoy-la-fecha-final-para-la-segunda-vuelta-en-regiones/",
+      "title": "Abelardo de la Espriella expresó su solidaridad con Panamá tras el terremoto de magnitud 7,6 y ofreció ayuda de Colombia: “No está sola”",
+      "link": "https://www.infobae.com/colombia/2026/10/09/abelardo-de-la-espriella-expreso-su-solidaridad-con-panama-tras-el-terremoto-de-magnitud-76-y-ofrecio-ayuda-de-colombia/",
       "source": "Infobae",
-      "pubDate": "Fri, 09 Oct 2026 19:09:38 +0000",
+      "pubDate": "Fri, 09 Oct 2026 22:57:42 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El Gobierno de Brasil amplía por 30 días los subsidios a los combustibles antes de la segunda vuelta",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/09/el-gobierno-de-brasil-amplia-por-30-dias-los-subsidios-a-los-combustibles-antes-de-la-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Fri, 09 Oct 2026 22:46:10 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "Quién es Hitler Mussolini, el candidato que ganó en un pequeño distrito de Huánuco, en Perú, por solo 25 votos",
+      "link": "https://www.infobae.com/peru/2026/10/09/quien-es-hitler-mussolini-el-candidato-que-gano-en-un-pequeno-distrito-de-huanuco-en-peru-por-solo-25-votos/",
+      "source": "Infobae",
+      "pubDate": "Fri, 09 Oct 2026 22:45:12 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Cancillería habilita canales consulares de emergencia en Panamá tras el terremoto: autoridades no han reportado víctimas hasta el momento",
+      "link": "https://www.eltiempo.com/politica/gobierno/cancilleria-habilita-canales-consulares-de-emergencia-en-panama-tras-el-terremoto-autoridades-no-han-reportado-victimas-hasta-el-momento-3592638",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-09T16:30:58-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ministra de Salud, Ana María Vesga, le responde con título en mano a Jennifer Pedraza, quien la acusó de 'inflar su perfil': 'Bienvenido el control'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/ministra-de-salud-ana-maria-vesga-le-responde-con-titulo-en-mano-a-jennifer-pedraza-quien-la-acuso-de-inflar-su-perfil-bienvenido-el-control-3592467",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-09T15:35:01-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella se pronunció tras fuerte terremoto de 7,7 en Panamá este viernes 9 de octubre: 'Cuenten con respaldo de Colombia'",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-se-pronuncio-tras-fuerte-terremoto-de-7-6-en-panama-este-viernes-9-de-octubre-cuenten-con-respaldo-de-colombia-3592601",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-09T14:27:42-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Datafolha ubica a Bolsonaro por encima de Lula, pero mantiene el empate técnico en Brasil",
@@ -67,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-nombra-a-juan-carlos-velez-uribe-como-embajador-de-colombia-en-ecuador-3592503",
       "source": "El Tiempo",
       "pubDate": "2026-10-09T11:13:43-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ministra de Salud, Ana María Vesga, le responde con título en mano a Jennifer Pedraza, quien la acusó de 'inflar su perfil': 'Bienvenido el control'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/ministra-de-salud-ana-maria-vesga-le-responde-con-titulo-en-mano-a-jennifer-pedraza-quien-la-acuso-de-inflar-su-perfil-bienvenido-el-control-3592467",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-09T10:15:52-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
