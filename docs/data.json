@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-09T05:19:17.625Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-10-09T12:52:04.002Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,14 +47,6 @@
   ],
   "articles": [
     {
-      "title": "Bolsonaro lidera el primer sondeo para el balotaje en Brasil con cuatro puntos de ventaja sobre Lula, según Datafolha",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/09/bolsonaro-lidera-el-primer-sondeo-para-el-balotaje-en-brasil-con-cuatro-puntos-de-ventaja-sobre-lula-segun-datafolha/",
-      "source": "Infobae",
-      "pubDate": "Fri, 09 Oct 2026 05:17:12 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Las similitudes y diferencias de los estatutos anticorrupción del gobierno De La Espriella y el de Uribe: el país retoma el debate 20 años después",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/las-similitudes-y-diferencias-de-los-estatutos-anticorrupcion-del-gobierno-de-la-espriella-y-el-de-uribe-el-pais-retoma-el-debate-20-anos-despues-3592316",
       "source": "El Tiempo",
@@ -67,14 +59,6 @@
       "link": "https://www.france24.com/es/video/20261008-directo-latam-y-el-apoyo-de-de-la-espriella-a-exmilitares-acusados-por-asesinato-de-jovenel-mo%C3%AFse",
       "source": "France 24",
       "pubDate": "Thu, 08 Oct 2026 18:55:35 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "De La Espriella presenta la ruta para el Plan Nacional de Desarrollo 2026-2030 con 334 proyectos clave: zonas afectadas por terremoto serán prioridad",
-      "link": "https://www.eltiempo.com/politica/gobierno/de-la-espriella-presenta-la-ruta-para-el-plan-nacional-de-desarrollo-2026-2030-con-334-proyectos-clave-zonas-afectadas-por-terremoto-seran-prioridad-3592218",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-08T11:18:47-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
