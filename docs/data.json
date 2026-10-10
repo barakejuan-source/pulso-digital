@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T18:20:04.369Z",
+  "updatedAt": "2026-10-10T23:22:29.734Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 7128,
       "finalScore": 38,
       "momentum": {
-        "value": 2.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.7
@@ -47,18 +47,42 @@
   ],
   "articles": [
     {
+      "title": "Presidente Abelardo De La Espriella ordena investigación en la Fuerza Aérea tras escándalo de Eva Ferrer y Verónica Alcocer",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordena-investigacion-en-la-fuerza-aerea-tras-escandalo-de-eva-ferrer-y-veronica-alcocer-3592807",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-10T17:41:39-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El presidente Abelardo De La Espriella interrumpió su discurso en Cartagena para auxiliar a un asistente que se desmayó",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-abelardo-de-la-espriella-interrumpio-su-discurso-en-cartagena-para-auxiliar-a-un-asistente-que-se-desmayo-3592804",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-10T17:19:21-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda cita a debate de control político al ministro de Agricultura",
+      "link": "https://www.lasillavacia.com/en-vivo/ivan-cepeda-cita-a-debate-de-control-politico-al-ministro-de-agricultura/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 10 Oct 2026 21:42:33 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo de la Espriella lanzó ultimátum a grupos terroristas que no se sometan a la justicia:“Se acabó el tiempo de jugar a los congelados”",
+      "link": "https://www.infobae.com/colombia/2026/10/10/abelardo-de-la-espriella-lanzo-ultimatum-a-grupos-terroristas-que-no-se-sometan-a-la-justiciase-acabo-el-tiempo-de-jugar-a-los-congelados/",
+      "source": "Infobae",
+      "pubDate": "Sat, 10 Oct 2026 21:34:42 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Brasil: Lula subsidia combustibles y Flávio Bolsonaro promete un ministerio de la Prosperidad",
       "link": "https://www.france24.com/es/video/20261010-brasil-lula-recorta-impuestos-a-combustibles-y-bolsonaro-promete-ministerio-de-la-prosperidad",
       "source": "France 24",
       "pubDate": "Sat, 10 Oct 2026 16:29:23 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Protestas estudiantiles: ¿por qué y cómo están remeciendo a Francia?",
-      "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20261010-protestas-estudiantiles-por-qu%C3%A9-y-c%C3%B3mo-est%C3%A1n-remeciendo-a-francia",
-      "source": "France 24",
-      "pubDate": "Sat, 10 Oct 2026 01:33:14 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -75,14 +99,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-se-pronuncio-tras-fuerte-terremoto-de-7-6-en-panama-este-viernes-9-de-octubre-cuenten-con-respaldo-de-colombia-3592601",
       "source": "El Tiempo",
       "pubDate": "2026-10-09T14:27:42-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella nombra a Juan Carlos Vélez Uribe en el cargo de embajador de Colombia en Ecuador",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-nombra-a-juan-carlos-velez-uribe-como-embajador-de-colombia-en-ecuador-3592503",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-09T11:13:43-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
