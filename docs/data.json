@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T23:54:37.834Z",
+  "updatedAt": "2026-10-10T05:04:00.493Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 6,
+      "trendsScore": 7,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,26 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella expresó su solidaridad con Panamá tras el terremoto de magnitud 7,6 y ofreció ayuda de Colombia: “No está sola”",
-      "link": "https://www.infobae.com/colombia/2026/10/09/abelardo-de-la-espriella-expreso-su-solidaridad-con-panama-tras-el-terremoto-de-magnitud-76-y-ofrecio-ayuda-de-colombia/",
-      "source": "Infobae",
-      "pubDate": "Fri, 09 Oct 2026 22:57:42 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El Gobierno de Brasil amplía por 30 días los subsidios a los combustibles antes de la segunda vuelta",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/09/el-gobierno-de-brasil-amplia-por-30-dias-los-subsidios-a-los-combustibles-antes-de-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Fri, 09 Oct 2026 22:46:10 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Quién es Hitler Mussolini, el candidato que ganó en un pequeño distrito de Huánuco, en Perú, por solo 25 votos",
-      "link": "https://www.infobae.com/peru/2026/10/09/quien-es-hitler-mussolini-el-candidato-que-gano-en-un-pequeno-distrito-de-huanuco-en-peru-por-solo-25-votos/",
-      "source": "Infobae",
-      "pubDate": "Fri, 09 Oct 2026 22:45:12 +0000",
+      "title": "Protestas estudiantiles: ¿por qué y cómo están remeciendo a Francia?",
+      "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20261010-protestas-estudiantiles-por-qu%C3%A9-y-c%C3%B3mo-est%C3%A1n-remeciendo-a-francia",
+      "source": "France 24",
+      "pubDate": "Sat, 10 Oct 2026 01:33:14 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -79,28 +63,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Ministra de Salud, Ana María Vesga, le responde con título en mano a Jennifer Pedraza, quien la acusó de 'inflar su perfil': 'Bienvenido el control'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/ministra-de-salud-ana-maria-vesga-le-responde-con-titulo-en-mano-a-jennifer-pedraza-quien-la-acuso-de-inflar-su-perfil-bienvenido-el-control-3592467",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-09T15:35:01-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Presidente Abelardo De La Espriella se pronunció tras fuerte terremoto de 7,7 en Panamá este viernes 9 de octubre: 'Cuenten con respaldo de Colombia'",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-se-pronuncio-tras-fuerte-terremoto-de-7-6-en-panama-este-viernes-9-de-octubre-cuenten-con-respaldo-de-colombia-3592601",
       "source": "El Tiempo",
       "pubDate": "2026-10-09T14:27:42-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Datafolha ubica a Bolsonaro por encima de Lula, pero mantiene el empate técnico en Brasil",
-      "link": "https://www.france24.com/es/video/20261009-datafolha-ubica-a-bolsonaro-por-encima-de-lula-pero-mantiene-el-empate-t%C3%A9cnico-en-brasil",
-      "source": "France 24",
-      "pubDate": "Fri, 09 Oct 2026 18:01:51 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Gobierno de Abelardo De La Espriella nombra a Juan Carlos Vélez Uribe en el cargo de embajador de Colombia en Ecuador",
