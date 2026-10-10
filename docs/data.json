@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T12:09:40.721Z",
+  "updatedAt": "2026-10-10T18:20:04.369Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 7,
+      "trendsScore": 8,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 35.9
       },
       "youtubeViews": 7128,
-      "finalScore": 37,
+      "finalScore": 38,
       "momentum": {
-        "value": 0,
+        "value": 2.7,
         "direction": "flat"
       },
-      "probability": 48.1
+      "probability": 48.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,17 +42,17 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.9
+      "probability": 51.3
     }
   ],
   "articles": [
     {
-      "title": "Eva Ferrer acusó a Verónica Alcocer de liderar una red que traficaba droga, armas y dólares de forma ilícita: Petro también resultó salpicado ",
-      "link": "https://www.infobae.com/colombia/2026/10/10/eva-ferrer-acuso-a-veronica-alcocer-de-liderar-una-red-que-traficaba-droga-armas-y-dolares-de-forma-ilicita-petro-tambien-resulto-salpicado/",
-      "source": "Infobae",
-      "pubDate": "Sat, 10 Oct 2026 11:53:30 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Brasil: Lula subsidia combustibles y Flávio Bolsonaro promete un ministerio de la Prosperidad",
+      "link": "https://www.france24.com/es/video/20261010-brasil-lula-recorta-impuestos-a-combustibles-y-bolsonaro-promete-ministerio-de-la-prosperidad",
+      "source": "France 24",
+      "pubDate": "Sat, 10 Oct 2026 16:29:23 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Protestas estudiantiles: ¿por qué y cómo están remeciendo a Francia?",
