@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T04:52:19.751Z",
+  "updatedAt": "2026-10-11T12:23:30.062Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,22 @@
   ],
   "articles": [
     {
+      "title": "Gobierno rechaza atentado contra dos dragoneantes del Inpec y denuncia amenazas contra funcionarios, incluido el presidente Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-rechaza-atentado-contra-dos-dragoneantes-del-inpec-y-denuncia-amenazas-contra-funcionarios-incluido-el-presidente-abelardo-de-la-espriella-3592851",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-11T01:34:20-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella define la hoja de ruta a seguir para la participación de Colombia en el Consejo de Seguridad de la ONU",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-define-la-hoja-de-ruta-a-seguir-para-la-participacion-de-colombia-en-el-consejo-de-seguridad-de-la-onu-3592849",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-11T00:32:48-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "La apuesta del Gobierno con los agentes encubiertos para luchar contra la corrupción y el papel clave que jugará Cristina Lombana",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/la-apuesta-del-gobierno-con-los-agentes-encubiertos-para-luchar-contra-la-corrupcion-y-el-papel-clave-que-jugara-cristina-lombana-3592822",
       "source": "El Tiempo",
@@ -63,26 +79,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Lula da Silva y Flávio Bolsonaro buscaron aliento en sus bastiones electorales antes de la recta final hacia el balotaje",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/11/lula-da-silva-y-flavio-bolsonaro-buscaron-aliento-en-sus-bastiones-electorales-antes-de-la-recta-final-hacia-el-balotaje/",
-      "source": "Infobae",
-      "pubDate": "Sun, 11 Oct 2026 03:16:36 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Presidente Abelardo De La Espriella ordena investigación en la Fuerza Aérea tras escándalo de Eva Ferrer y Verónica Alcocer",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordena-investigacion-en-la-fuerza-aerea-tras-escandalo-de-eva-ferrer-y-veronica-alcocer-3592807",
       "source": "El Tiempo",
       "pubDate": "2026-10-10T17:41:39-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El presidente Abelardo De La Espriella interrumpió su discurso en Cartagena para auxiliar a un asistente que se desmayó",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-abelardo-de-la-espriella-interrumpio-su-discurso-en-cartagena-para-auxiliar-a-un-asistente-que-se-desmayo-3592804",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-10T17:19:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -93,14 +93,6 @@
       "pubDate": "Sat, 10 Oct 2026 21:42:33 +0000",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Brasil: Lula subsidia combustibles y Flávio Bolsonaro promete un ministerio de la Prosperidad",
-      "link": "https://www.france24.com/es/video/20261010-brasil-lula-recorta-impuestos-a-combustibles-y-bolsonaro-promete-ministerio-de-la-prosperidad",
-      "source": "France 24",
-      "pubDate": "Sat, 10 Oct 2026 16:29:23 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
