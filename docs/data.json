@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T12:23:30.062Z",
+  "updatedAt": "2026-10-11T18:43:50.824Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 8,
+      "trendsScore": 9,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Brasil: Lula denuncia restricciones de Meta en redes sociales antes del balotaje",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261011-brasil-lula-denuncia-restricciones-de-meta-en-redes-sociales-antes-del-balotaje",
+      "source": "France 24",
+      "pubDate": "Sun, 11 Oct 2026 08:19:43 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "Gobierno rechaza atentado contra dos dragoneantes del Inpec y denuncia amenazas contra funcionarios, incluido el presidente Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/gobierno/gobierno-rechaza-atentado-contra-dos-dragoneantes-del-inpec-y-denuncia-amenazas-contra-funcionarios-incluido-el-presidente-abelardo-de-la-espriella-3592851",
       "source": "El Tiempo",
@@ -75,14 +83,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/los-detalles-de-la-agenda-legislativa-que-llevara-el-gobierno-de-abelardo-de-la-espriella-al-congreso-3592796",
       "source": "El Tiempo",
       "pubDate": "2026-10-10T22:30:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella ordena investigación en la Fuerza Aérea tras escándalo de Eva Ferrer y Verónica Alcocer",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordena-investigacion-en-la-fuerza-aerea-tras-escandalo-de-eva-ferrer-y-veronica-alcocer-3592807",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-10T17:41:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
