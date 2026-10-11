@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T23:22:29.734Z",
+  "updatedAt": "2026-10-11T04:52:19.751Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,30 @@
   ],
   "articles": [
     {
+      "title": "La apuesta del Gobierno con los agentes encubiertos para luchar contra la corrupción y el papel clave que jugará Cristina Lombana",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/la-apuesta-del-gobierno-con-los-agentes-encubiertos-para-luchar-contra-la-corrupcion-y-el-papel-clave-que-jugara-cristina-lombana-3592822",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-10T22:50:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Los detalles de la agenda legislativa que llevará el gobierno de Abelardo De La Espriella al Congreso",
+      "link": "https://www.eltiempo.com/politica/gobierno/los-detalles-de-la-agenda-legislativa-que-llevara-el-gobierno-de-abelardo-de-la-espriella-al-congreso-3592796",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-10T22:30:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Lula da Silva y Flávio Bolsonaro buscaron aliento en sus bastiones electorales antes de la recta final hacia el balotaje",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/11/lula-da-silva-y-flavio-bolsonaro-buscaron-aliento-en-sus-bastiones-electorales-antes-de-la-recta-final-hacia-el-balotaje/",
+      "source": "Infobae",
+      "pubDate": "Sun, 11 Oct 2026 03:16:36 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella ordena investigación en la Fuerza Aérea tras escándalo de Eva Ferrer y Verónica Alcocer",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordena-investigacion-en-la-fuerza-aerea-tras-escandalo-de-eva-ferrer-y-veronica-alcocer-3592807",
       "source": "El Tiempo",
@@ -71,36 +95,12 @@
       "candidateColor": "#E63946"
     },
     {
-      "title": "Abelardo de la Espriella lanzó ultimátum a grupos terroristas que no se sometan a la justicia:“Se acabó el tiempo de jugar a los congelados”",
-      "link": "https://www.infobae.com/colombia/2026/10/10/abelardo-de-la-espriella-lanzo-ultimatum-a-grupos-terroristas-que-no-se-sometan-a-la-justiciase-acabo-el-tiempo-de-jugar-a-los-congelados/",
-      "source": "Infobae",
-      "pubDate": "Sat, 10 Oct 2026 21:34:42 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Brasil: Lula subsidia combustibles y Flávio Bolsonaro promete un ministerio de la Prosperidad",
       "link": "https://www.france24.com/es/video/20261010-brasil-lula-recorta-impuestos-a-combustibles-y-bolsonaro-promete-ministerio-de-la-prosperidad",
       "source": "France 24",
       "pubDate": "Sat, 10 Oct 2026 16:29:23 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Cancillería habilita canales consulares de emergencia en Panamá tras el terremoto: autoridades no han reportado víctimas hasta el momento",
-      "link": "https://www.eltiempo.com/politica/gobierno/cancilleria-habilita-canales-consulares-de-emergencia-en-panama-tras-el-terremoto-autoridades-no-han-reportado-victimas-hasta-el-momento-3592638",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-09T16:30:58-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella se pronunció tras fuerte terremoto de 7,7 en Panamá este viernes 9 de octubre: 'Cuenten con respaldo de Colombia'",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-se-pronuncio-tras-fuerte-terremoto-de-7-6-en-panama-este-viernes-9-de-octubre-cuenten-con-respaldo-de-colombia-3592601",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-09T14:27:42-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
