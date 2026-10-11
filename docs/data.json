@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T18:43:50.824Z",
+  "updatedAt": "2026-10-11T23:32:08.900Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,30 @@
   ],
   "articles": [
     {
+      "title": "Presidente Abelardo De La Espriella habría ordenado el regreso a Colombia de exjefa de seguridad de Verónica Alcocer, tras señalamientos de Eva Ferrer",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-habria-ordenado-el-regreso-a-colombia-de-exjefa-de-seguridad-de-veronica-alcocer-tras-senalamientos-de-eva-ferrer-3592928",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-11T18:03:14-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La Misión de Verificación presenta informe ante Consejo de Seguridad de la ONU en medio de expectativa por prórroga de su presencia en Colombia",
+      "link": "https://www.eltiempo.com/politica/proceso-de-paz/la-mision-de-verificacion-presenta-informe-ante-consejo-de-seguridad-de-la-onu-en-medio-de-expectativa-por-prorroga-de-su-presencia-en-colombia-3592920",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-11T16:03:24-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella condena atentado y amenazas contra guardias del Inpec y lanza contundente advertencia: 'Los traslados continuarán'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-condena-atentado-y-amenazas-contra-guardias-del-inpec-y-lanza-contundente-advertencia-los-traslados-continuaran-3592914",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-11T14:08:12-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Brasil: Lula denuncia restricciones de Meta en redes sociales antes del balotaje",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261011-brasil-lula-denuncia-restricciones-de-meta-en-redes-sociales-antes-del-balotaje",
       "source": "France 24",
@@ -77,22 +101,6 @@
       "pubDate": "2026-10-10T22:50:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los detalles de la agenda legislativa que llevará el gobierno de Abelardo De La Espriella al Congreso",
-      "link": "https://www.eltiempo.com/politica/gobierno/los-detalles-de-la-agenda-legislativa-que-llevara-el-gobierno-de-abelardo-de-la-espriella-al-congreso-3592796",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-10T22:30:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda cita a debate de control político al ministro de Agricultura",
-      "link": "https://www.lasillavacia.com/en-vivo/ivan-cepeda-cita-a-debate-de-control-politico-al-ministro-de-agricultura/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 10 Oct 2026 21:42:33 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
