@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T14:51:23.133Z",
+  "updatedAt": "2026-10-12T22:50:12.865Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 7,
+      "trendsScore": 6,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,10 +47,50 @@
   ],
   "articles": [
     {
+      "title": "La Virgen de Aparecida concentra la disputa religiosa antes del balotaje brasileño: Lula y Flávio Bolsonaro asisten a misas separadas ",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/12/la-virgen-de-aparecida-concentra-la-disputa-religiosa-antes-del-balotaje-brasileno-lula-y-flavio-bolsonaro-asisten-a-misas-separadas/",
+      "source": "Infobae",
+      "pubDate": "Mon, 12 Oct 2026 22:14:17 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Francis Allison plantea una segunda vuelta en elecciones municipales para Lima: “Absolutamente válido”",
+      "link": "https://www.infobae.com/peru/2026/10/12/francis-allison-plantea-una-segunda-vuelta-en-elecciones-municipales-para-lima-absolutamente-valido/",
+      "source": "Infobae",
+      "pubDate": "Mon, 12 Oct 2026 22:11:27 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Lula endureció su discurso sobre seguridad a dos semanas del balotaje contra Flávio Bolsonaro",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/12/lula-endurecio-su-discurso-sobre-seguridad-a-dos-semanas-del-balotaje-contra-flavio-bolsonaro/",
+      "source": "Infobae",
+      "pubDate": "Mon, 12 Oct 2026 21:51:57 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella sostuvo una llamada con Marco Rubio, secretario de Estado de EE. UU., por más de 15 minutos: de qué conversaron",
+      "link": "https://www.infobae.com/colombia/2026/10/12/abelardo-de-la-esprilla-sostuvo-una-llamada-con-marco-rubio-secretario-de-estado-de-ee-uu-por-mas-de-15-minutos-de-que-conversaron/",
+      "source": "Infobae",
+      "pubDate": "Mon, 12 Oct 2026 21:51:07 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella y Marco Rubio hablaron nuevamente sobre los desafíos que enfrenta Colombia",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-y-marco-rubio-hablaron-nuevamente-sobre-los-desafios-que-enfrenta-colombia-3593042",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-12T16:46:50-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella se pronunció sobre atentado en la vía Panamericana: ‘Cada agresión de los narcoterroristas tendrá consecuencias’",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-sobre-atentado-en-la-via-panamericana-cada-agresion-de-los-narcoterroristas-tendra-consecuencias-3592986",
       "source": "El Tiempo",
-      "pubDate": "2026-10-12T08:53:05-05:00",
+      "pubDate": "2026-10-12T12:45:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,22 +115,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-condena-atentado-y-amenazas-contra-guardias-del-inpec-y-lanza-contundente-advertencia-los-traslados-continuaran-3592914",
       "source": "El Tiempo",
       "pubDate": "2026-10-11T14:08:12-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno rechaza atentado contra dos dragoneantes del Inpec y denuncia amenazas contra funcionarios, incluido el presidente Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-rechaza-atentado-contra-dos-dragoneantes-del-inpec-y-denuncia-amenazas-contra-funcionarios-incluido-el-presidente-abelardo-de-la-espriella-3592851",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-11T01:34:20-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella define la hoja de ruta a seguir para la participación de Colombia en el Consejo de Seguridad de la ONU",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-define-la-hoja-de-ruta-a-seguir-para-la-participacion-de-colombia-en-el-consejo-de-seguridad-de-la-onu-3592849",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-11T00:32:48-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
