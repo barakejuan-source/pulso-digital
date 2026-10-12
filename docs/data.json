@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T23:32:08.900Z",
+  "updatedAt": "2026-10-12T05:07:19.652Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 7,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 35.9
       },
       "youtubeViews": 7128,
-      "finalScore": 38,
+      "finalScore": 37,
       "momentum": {
-        "value": 0,
+        "value": -2.6,
         "direction": "flat"
       },
-      "probability": 48.7
+      "probability": 48.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,7 +42,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.3
+      "probability": 51.9
     }
   ],
   "articles": [
@@ -69,14 +69,6 @@
       "pubDate": "2026-10-11T14:08:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Brasil: Lula denuncia restricciones de Meta en redes sociales antes del balotaje",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261011-brasil-lula-denuncia-restricciones-de-meta-en-redes-sociales-antes-del-balotaje",
-      "source": "France 24",
-      "pubDate": "Sun, 11 Oct 2026 08:19:43 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Gobierno rechaza atentado contra dos dragoneantes del Inpec y denuncia amenazas contra funcionarios, incluido el presidente Abelardo De La Espriella",
