@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T22:50:12.865Z",
+  "updatedAt": "2026-10-13T06:06:57.984Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,74 +47,58 @@
   ],
   "articles": [
     {
-      "title": "La Virgen de Aparecida concentra la disputa religiosa antes del balotaje brasileño: Lula y Flávio Bolsonaro asisten a misas separadas ",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/12/la-virgen-de-aparecida-concentra-la-disputa-religiosa-antes-del-balotaje-brasileno-lula-y-flavio-bolsonaro-asisten-a-misas-separadas/",
-      "source": "Infobae",
-      "pubDate": "Mon, 12 Oct 2026 22:14:17 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Francis Allison plantea una segunda vuelta en elecciones municipales para Lima: “Absolutamente válido”",
-      "link": "https://www.infobae.com/peru/2026/10/12/francis-allison-plantea-una-segunda-vuelta-en-elecciones-municipales-para-lima-absolutamente-valido/",
-      "source": "Infobae",
-      "pubDate": "Mon, 12 Oct 2026 22:11:27 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Lula endureció su discurso sobre seguridad a dos semanas del balotaje contra Flávio Bolsonaro",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/12/lula-endurecio-su-discurso-sobre-seguridad-a-dos-semanas-del-balotaje-contra-flavio-bolsonaro/",
-      "source": "Infobae",
-      "pubDate": "Mon, 12 Oct 2026 21:51:57 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo de la Espriella sostuvo una llamada con Marco Rubio, secretario de Estado de EE. UU., por más de 15 minutos: de qué conversaron",
-      "link": "https://www.infobae.com/colombia/2026/10/12/abelardo-de-la-esprilla-sostuvo-una-llamada-con-marco-rubio-secretario-de-estado-de-ee-uu-por-mas-de-15-minutos-de-que-conversaron/",
-      "source": "Infobae",
-      "pubDate": "Mon, 12 Oct 2026 21:51:07 +0000",
+      "title": "‘Que ejerzan su derecho de manera pacífica’: presidente Abelardo De La Espriella envía mensaje a organizadores de protestas del 14 de octubre",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/que-ejerzan-su-derecho-de-manera-pacifica-presidente-abelardo-de-la-espriella-envia-mensaje-a-organizadores-de-protestas-del-14-de-octubre-3593091",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-12T22:40:22-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De la Espriella reiteró que el asesinato de Miguel Uribe no quedará impune y buscará a los autores intelectuales: 'Todo el peso de la ley'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-reitero-que-el-asesinato-de-miguel-uribe-no-quedara-impune-y-buscara-a-los-autores-intelectuales-todo-el-peso-de-la-ley-3593090",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-12T22:05:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella da detalles de las primeras entregas del Fondo Milagro para la reconstrucción tras terremoto: 'Sin intermediarios'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-da-detalles-de-las-primeras-entregas-del-fondo-milagro-para-la-reconstruccion-tras-terremoto-sin-intermediarios-3593086",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-12T22:01:22-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Alocución presidencial: energía, seguridad, Estatuto Antiterrorista, Marchas",
+      "link": "https://www.lasillavacia.com/en-vivo/alocucion-presidencial-energia-seguridad-estatuto-antiterrorista-marchas/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 13 Oct 2026 02:50:10 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Orden público, estatuto antiterrorismo y marchas del 14 de octubre: ejes de la alocución del presidente Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-dirige-al-pais-este-lunes-12-de-octubre-en-alocucion-3593070",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-12T21:47:01-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Quién conquista el voto religioso? Lula da Silva y Bolsonaro se disputan el apoyo católico",
+      "link": "https://www.france24.com/es/video/20261013-qui%C3%A9n-conquista-el-voto-religioso-lula-da-silva-y-bolsonaro-se-disputan-el-apoyo-cat%C3%B3lico",
+      "source": "France 24",
+      "pubDate": "Tue, 13 Oct 2026 01:01:50 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Presidente Abelardo De La Espriella y Marco Rubio hablaron nuevamente sobre los desafíos que enfrenta Colombia",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-y-marco-rubio-hablaron-nuevamente-sobre-los-desafios-que-enfrenta-colombia-3593042",
       "source": "El Tiempo",
       "pubDate": "2026-10-12T16:46:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella se pronunció sobre atentado en la vía Panamericana: ‘Cada agresión de los narcoterroristas tendrá consecuencias’",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-sobre-atentado-en-la-via-panamericana-cada-agresion-de-los-narcoterroristas-tendra-consecuencias-3592986",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-12T12:45:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella habría ordenado el regreso a Colombia de exjefa de seguridad de Verónica Alcocer, tras señalamientos de Eva Ferrer",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-habria-ordenado-el-regreso-a-colombia-de-exjefa-de-seguridad-de-veronica-alcocer-tras-senalamientos-de-eva-ferrer-3592928",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-11T18:03:14-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La Misión de Verificación presenta informe ante Consejo de Seguridad de la ONU en medio de expectativa por prórroga de su presencia en Colombia",
-      "link": "https://www.eltiempo.com/politica/proceso-de-paz/la-mision-de-verificacion-presenta-informe-ante-consejo-de-seguridad-de-la-onu-en-medio-de-expectativa-por-prorroga-de-su-presencia-en-colombia-3592920",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-11T16:03:24-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella condena atentado y amenazas contra guardias del Inpec y lanza contundente advertencia: 'Los traslados continuarán'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-condena-atentado-y-amenazas-contra-guardias-del-inpec-y-lanza-contundente-advertencia-los-traslados-continuaran-3592914",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-11T14:08:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
