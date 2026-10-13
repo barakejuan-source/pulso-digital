@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T06:06:57.984Z",
+  "updatedAt": "2026-10-13T15:47:41.903Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,26 +47,26 @@
   ],
   "articles": [
     {
-      "title": "‘Que ejerzan su derecho de manera pacífica’: presidente Abelardo De La Espriella envía mensaje a organizadores de protestas del 14 de octubre",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/que-ejerzan-su-derecho-de-manera-pacifica-presidente-abelardo-de-la-espriella-envia-mensaje-a-organizadores-de-protestas-del-14-de-octubre-3593091",
+      "title": "'Un paro que solo busca engañar al pueblo': presidente Abelardo De La Espriella cuestiona a los convocantes de las manifestaciones del 14 de octubre",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/un-paro-que-solo-busca-enganar-al-pueblo-presidente-abelardo-de-la-espriella-cuestiona-a-los-convocantes-de-las-manifestaciones-del-14-de-octubre-3593172",
       "source": "El Tiempo",
-      "pubDate": "2026-10-12T22:40:22-05:00",
+      "pubDate": "2026-10-13T10:03:18-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo De la Espriella reiteró que el asesinato de Miguel Uribe no quedará impune y buscará a los autores intelectuales: 'Todo el peso de la ley'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-reitero-que-el-asesinato-de-miguel-uribe-no-quedara-impune-y-buscara-a-los-autores-intelectuales-todo-el-peso-de-la-ley-3593090",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-12T22:05:00-05:00",
+      "title": "Desayune informado con las movidas de este 13 de octubre de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-13-de-octubre-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 13 Oct 2026 12:15:00 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella da detalles de las primeras entregas del Fondo Milagro para la reconstrucción tras terremoto: 'Sin intermediarios'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-da-detalles-de-las-primeras-entregas-del-fondo-milagro-para-la-reconstruccion-tras-terremoto-sin-intermediarios-3593086",
+      "title": "Los cinco mensajes clave de la alocución del presidente Abelardo De la Espriella este lunes 12 de octubre",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-cinco-mensajes-clave-de-la-alocucion-del-presidente-abelardo-de-la-espriella-este-lunes-12-de-octubre-3593107",
       "source": "El Tiempo",
-      "pubDate": "2026-10-12T22:01:22-05:00",
+      "pubDate": "2026-10-13T06:59:52-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -79,28 +79,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Orden público, estatuto antiterrorismo y marchas del 14 de octubre: ejes de la alocución del presidente Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-dirige-al-pais-este-lunes-12-de-octubre-en-alocucion-3593070",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-12T21:47:01-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "¿Quién conquista el voto religioso? Lula da Silva y Bolsonaro se disputan el apoyo católico",
       "link": "https://www.france24.com/es/video/20261013-qui%C3%A9n-conquista-el-voto-religioso-lula-da-silva-y-bolsonaro-se-disputan-el-apoyo-cat%C3%B3lico",
       "source": "France 24",
       "pubDate": "Tue, 13 Oct 2026 01:01:50 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella y Marco Rubio hablaron nuevamente sobre los desafíos que enfrenta Colombia",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-y-marco-rubio-hablaron-nuevamente-sobre-los-desafios-que-enfrenta-colombia-3593042",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-12T16:46:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
