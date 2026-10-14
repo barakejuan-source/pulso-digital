@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:59:42.050Z",
+  "updatedAt": "2026-10-14T07:18:24.549Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,28 +47,44 @@
   ],
   "articles": [
     {
+      "title": "Presidente Abelardo De La Espriella se pronunció tras firmar decreto que establece nuevas reglas para la protesta: 'La violencia no se tolera'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-sobre-decreto-que-protege-garantias-de-quienes-protestan-pacificamente-la-violencia-no-se-tolera-3593374",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-13T23:10:48-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella se pronunció tras bloqueos en la avenida Circunvalar, en Bogotá: 'Estamos listos para defender a Colombia'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-tras-bloqueos-en-la-avenida-circunvalar-en-bogota-estamos-listos-para-defender-a-colombia-3593344",
       "source": "El Tiempo",
-      "pubDate": "2026-10-13T19:50:20-05:00",
+      "pubDate": "2026-10-13T22:56:44-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gustavo Petro llamó “mentiroso” a Abelardo de la Espriella por la sequía que se avecina: “Nosotros sí preparamos a Colombia”",
-      "link": "https://www.infobae.com/colombia/2026/10/14/gustavo-petro-llamo-mentiroso-a-abelardo-de-la-espriella-por-la-sequia-que-se-avecina-nosotros-si-preparamos-a-colombia/",
-      "source": "Infobae",
-      "pubDate": "Wed, 14 Oct 2026 00:34:50 +0000",
+      "title": "Brasil: Lula da Silva y Bolsonaro se disputan voto religioso",
+      "link": "https://www.france24.com/es/video/20261014-brasil-lula-da-silva-y-bolsonaro-se-disputan-voto-religioso",
+      "source": "France 24",
+      "pubDate": "Wed, 14 Oct 2026 03:12:23 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Quién es quién en las presidencias y mesas directivas de las empresas del Estado durante el gobierno de Abelardo De La Espriella?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-quien-en-las-presidencias-y-mesas-directivas-de-las-empresas-del-estado-durante-el-gobierno-de-abelardo-de-la-espriella-3593334",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-13T22:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cepeda cuestionó a De la Espriella por asegurar que hay “instigadores de la maldad” en las movilizaciones: “Intención de estigmatizar”",
-      "link": "https://www.infobae.com/colombia/2026/10/14/ivan-cepeda-cuestiono-a-de-la-espriella-por-asegurar-que-hay-instigadores-de-la-maldad-en-las-movilizaciones-intencion-de-estigmatizar/",
-      "source": "Infobae",
-      "pubDate": "Wed, 14 Oct 2026 00:09:32 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Recortes de la JEP en Colombia: ¿está en riesgo la búsqueda e identificación de desaparecidos?",
+      "link": "https://www.france24.com/es/video/20261014-recortes-de-la-jep-en-colombia-est%C3%A1-en-riesgo-la-b%C3%BAsqueda-e-identificaci%C3%B3n-de-desaparecidos",
+      "source": "France 24",
+      "pubDate": "Wed, 14 Oct 2026 00:20:57 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Gobierno de Abelardo De La Espriella radica oficialmente la ley de sometimiento en el Congreso",
@@ -77,14 +93,6 @@
       "pubDate": "2026-10-13T16:53:56-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Directo a... Río de Janeiro y las campañas de Lula y Bolsonaro a pocos días de la segunda vuelta",
-      "link": "https://www.france24.com/es/video/20261013-directo-a-r%C3%ADo-de-janeiro-y-las-campa%C3%B1as-de-lula-y-bolsonaro-a-pocos-d%C3%AFas-de-la-segunda-vuelta",
-      "source": "France 24",
-      "pubDate": "Tue, 13 Oct 2026 16:03:05 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
