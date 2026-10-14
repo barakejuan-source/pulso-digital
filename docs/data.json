@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:05:18.753Z",
+  "updatedAt": "2026-10-14T00:59:42.050Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 7,
+      "trendsScore": 5,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -47,10 +47,34 @@
   ],
   "articles": [
     {
+      "title": "Presidente Abelardo De La Espriella se pronunció tras bloqueos en la avenida Circunvalar, en Bogotá: 'Estamos listos para defender a Colombia'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-tras-bloqueos-en-la-avenida-circunvalar-en-bogota-estamos-listos-para-defender-a-colombia-3593344",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-13T19:50:20-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gustavo Petro llamó “mentiroso” a Abelardo de la Espriella por la sequía que se avecina: “Nosotros sí preparamos a Colombia”",
+      "link": "https://www.infobae.com/colombia/2026/10/14/gustavo-petro-llamo-mentiroso-a-abelardo-de-la-espriella-por-la-sequia-que-se-avecina-nosotros-si-preparamos-a-colombia/",
+      "source": "Infobae",
+      "pubDate": "Wed, 14 Oct 2026 00:34:50 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda cuestionó a De la Espriella por asegurar que hay “instigadores de la maldad” en las movilizaciones: “Intención de estigmatizar”",
+      "link": "https://www.infobae.com/colombia/2026/10/14/ivan-cepeda-cuestiono-a-de-la-espriella-por-asegurar-que-hay-instigadores-de-la-maldad-en-las-movilizaciones-intencion-de-estigmatizar/",
+      "source": "Infobae",
+      "pubDate": "Wed, 14 Oct 2026 00:09:32 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
       "title": "Gobierno de Abelardo De La Espriella radica oficialmente la ley de sometimiento en el Congreso",
       "link": "https://www.eltiempo.com/politica/congreso/gobierno-de-abelardo-de-la-espriella-radica-oficialmente-la-ley-de-sometimiento-en-el-congreso-3593261",
       "source": "El Tiempo",
-      "pubDate": "2026-10-13T15:49:44-05:00",
+      "pubDate": "2026-10-13T16:53:56-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -61,14 +85,6 @@
       "pubDate": "Tue, 13 Oct 2026 16:03:05 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "'Un paro que solo busca engañar al pueblo': presidente Abelardo De La Espriella cuestiona a los convocantes de las manifestaciones del 14 de octubre",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/un-paro-que-solo-busca-enganar-al-pueblo-presidente-abelardo-de-la-espriella-cuestiona-a-los-convocantes-de-las-manifestaciones-del-14-de-octubre-3593172",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-13T10:03:18-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
