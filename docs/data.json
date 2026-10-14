@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:18:24.549Z",
+  "updatedAt": "2026-10-14T13:28:05.604Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,70 @@
   ],
   "articles": [
     {
+      "title": "Marchas del 14 de octubre en Colombia provocaron el aplazamiento de un partido de la Liga BetPlay por temas de seguridad",
+      "link": "https://www.infobae.com/colombia/deportes/2026/10/14/marchas-del-14-de-octubre-en-colombia-provocaron-el-aplazamiento-de-un-partido-de-la-liga-betplay-por-temas-de-seguridad/",
+      "source": "Infobae",
+      "pubDate": "Wed, 14 Oct 2026 13:26:11 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella le ordenó a los funcionarios del Gobierno trabajar presencialmente durante la jornada de protestas de este miércoles 14 de octubre",
+      "link": "https://www.infobae.com/colombia/2026/10/14/abelardo-de-la-espriella-le-ordeno-a-los-funcionarios-del-gobierno-trabajar-presencialmente-durante-la-jornada-de-protestas-de-este-miercoles-14-de-octubre/",
+      "source": "Infobae",
+      "pubDate": "Wed, 14 Oct 2026 13:20:18 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo de la Espriella propuso excluir la reforma rural de la verificación de la ONU y Juan Manuel Santos lo cuestionó: “Obligación constitucional”",
+      "link": "https://www.infobae.com/colombia/2026/10/14/juan-manuel-santos-cuestiono-que-el-gobierno-propuso-excluir-la-reforma-rural-integral-de-la-mision-de-verificacion-de-la-onu-obligacion-constitucional/",
+      "source": "Infobae",
+      "pubDate": "Wed, 14 Oct 2026 13:15:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia abre su embajada en Jerusalén y marca un giro en sus relaciones con Israel",
+      "link": "https://www.france24.com/es/medio-oriente/20261014-colombia-abre-su-embajada-en-jerusal%C3%A9n-y-marca-un-giro-en-sus-relaciones-con-israel",
+      "source": "France 24",
+      "pubDate": "Wed, 14 Oct 2026 13:07:05 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gustavo Petro criticó la llegada de Carlos Suárez, el estratega de la campaña de Abelardo de la Espriella, a la junta directiva de Ecopetrol: “Ahora sí estamos como Venezuela”",
+      "link": "https://www.infobae.com/colombia/2026/10/14/gustavo-petro-critico-la-llegada-de-carlos-suarez-el-estratega-de-la-campana-de-abelardo-de-la-espriella-a-la-junta-directiva-de-ecopetrol-ahora-si-estamos-como-venezuela/",
+      "source": "Infobae",
+      "pubDate": "Wed, 14 Oct 2026 13:04:03 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Sectores de oposición demandan el decreto con nuevas disposiciones para la protesta social del gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/congreso/sectores-de-oposicion-demandan-el-decreto-con-nuevas-disposiciones-para-la-protesta-social-del-gobierno-de-abelardo-de-la-espriella-3593412",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-14T08:01:04-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella anuncia baja de miembro del frente 57 de las disidencias de las Farc tras combates del Ejército en Valle del Cauca",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-de-la-espriella-anuncia-baja-de-miembro-de-frente-57-de-disidencias-de-las-farc-en-valle-del-cauca-no-habra-tregua-para-estos-miserables-3593385",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-14T06:22:23-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Quién es quién en las presidencias y mesas directivas de las empresas del Estado durante el gobierno de Abelardo De La Espriella?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-quien-en-las-presidencias-y-mesas-directivas-de-las-empresas-del-estado-durante-el-gobierno-de-abelardo-de-la-espriella-3593334",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-14T05:51:55-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella se pronunció tras firmar decreto que establece nuevas reglas para la protesta: 'La violencia no se tolera'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-sobre-decreto-que-protege-garantias-de-quienes-protestan-pacificamente-la-violencia-no-se-tolera-3593374",
       "source": "El Tiempo",
@@ -71,26 +135,10 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "¿Quién es quién en las presidencias y mesas directivas de las empresas del Estado durante el gobierno de Abelardo De La Espriella?",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/quien-es-quien-en-las-presidencias-y-mesas-directivas-de-las-empresas-del-estado-durante-el-gobierno-de-abelardo-de-la-espriella-3593334",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-13T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Recortes de la JEP en Colombia: ¿está en riesgo la búsqueda e identificación de desaparecidos?",
       "link": "https://www.france24.com/es/video/20261014-recortes-de-la-jep-en-colombia-est%C3%A1-en-riesgo-la-b%C3%BAsqueda-e-identificaci%C3%B3n-de-desaparecidos",
       "source": "France 24",
       "pubDate": "Wed, 14 Oct 2026 00:20:57 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella radica oficialmente la ley de sometimiento en el Congreso",
-      "link": "https://www.eltiempo.com/politica/congreso/gobierno-de-abelardo-de-la-espriella-radica-oficialmente-la-ley-de-sometimiento-en-el-congreso-3593261",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-13T16:53:56-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
