@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T14:46:43.616Z",
+  "updatedAt": "2026-10-15T19:47:10.367Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,34 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Gustavo Petro llegó lavado a la Plaza de Bolívar y saludó a los asistentes de la marcha contra Abelardo de la Espriella: “Así se responde ante la adversidad” ",
-      "link": "https://www.infobae.com/colombia/2026/10/15/gustavo-petro-llego-lavado-a-la-plaza-de-bolivar-y-saludo-a-los-asistentes-de-la-marcha-contra-abelardo-de-la-espriella-asi-se-responde-ante-la-adversidad/",
+      "title": "¿Segunda vuelta en Cusco? Es falso que sea ilegal no contabilizar los votos de Progresemos",
+      "link": "https://www.infobae.com/peru/2026/10/15/segunda-vuelta-en-cusco-es-falso-que-sea-ilegal-no-contabilizar-los-votos-de-progresemos/",
       "source": "Infobae",
-      "pubDate": "Thu, 15 Oct 2026 14:30:31 +0000",
+      "pubDate": "Thu, 15 Oct 2026 19:31:07 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Benjamín Netanyahu elogió al presidente Abelardo De La Espriella tras inauguración de embajada de Colombia en Israel: 'Una gran valentía y visión'",
+      "link": "https://www.eltiempo.com/politica/gobierno/benjamin-netanyahu-elogio-al-presidente-abelardo-de-la-espriella-tras-inauguracion-de-embajada-de-colombia-en-israel-una-gran-valentia-y-vision-3593821",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-15T14:22:54-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Banderas del ELN habrían aparecido durante las marchas contra Abelardo de la Espriella en Pasto: manifestantes aclararon la situación ",
-      "link": "https://www.infobae.com/colombia/2026/10/15/banderas-del-eln-habrian-aparecido-durante-las-marchas-contra-abelardo-de-la-espriella-en-pasto-manifestantes-aclararon-la-situacion/",
-      "source": "Infobae",
-      "pubDate": "Thu, 15 Oct 2026 14:22:31 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Luego de las marchas: la reorganización del movimiento social",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/luego-de-las-marchas-la-reorganizacion-del-movimiento-social/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 15 Oct 2026 12:44:10 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desayune informado con las movidas de este 15 de octubre de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-15-de-octubre-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 15 Oct 2026 12:20:00 +0000",
+      "title": "Directo Latam y la jornada de manifestaciones contra De la Espriella en Colombia",
+      "link": "https://www.france24.com/es/video/20261015-directo-latam-y-la-jornada-de-manifestaciones-contra-de-la-espriella-en-colombia",
+      "source": "France 24",
+      "pubDate": "Thu, 15 Oct 2026 17:06:28 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -91,38 +83,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-balance-de-las-manifestaciones-en-las-que-participaron-62-000-personas-en-todo-el-pais-pacificas-3593664",
       "source": "El Tiempo",
       "pubDate": "2026-10-14T23:05:01-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Brasil: el partido de Lula denunciará a Meta ante la OEA por presunta “interferencia” electoral",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261015-brasil-el-partido-de-lula-denunciar%C3%A1-a-meta-ante-la-oea-por-presunta-interferencia-electoral",
-      "source": "France 24",
-      "pubDate": "Thu, 15 Oct 2026 02:01:41 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Informe desde Bogotá: la oposición marchó pacíficamente pese a las advertencias de De la Espriella",
-      "link": "https://www.france24.com/es/video/20261015-informe-desde-bogot%C3%A1-la-oposici%C3%B3n-march%C3%B3-pac%C3%ADficamente-pese-a-las-advertencias-de-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Thu, 15 Oct 2026 01:51:05 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia vive su primer paro nacional contra De la Espriella en medio de denuncias de “intimidación”",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261015-colombia-vive-su-primer-paro-nacional-contra-de-la-espriella-en-medio-de-denuncias-de-intimidaci%C3%B3n",
-      "source": "France 24",
-      "pubDate": "Thu, 15 Oct 2026 01:13:35 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Estos son los lineamientos del Gobierno de Abelardo De La Espriella para los procedimientos de consulta previa con pueblos étnicos",
-      "link": "https://www.eltiempo.com/politica/gobierno/estos-son-los-lineamientos-del-gobierno-de-abelardo-de-la-espriella-para-los-procedimientos-de-consulta-previa-con-pueblos-etnicos-3593617",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-14T18:11:52-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
