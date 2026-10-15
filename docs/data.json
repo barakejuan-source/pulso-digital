@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T19:47:10.367Z",
+  "updatedAt": "2026-10-15T22:58:30.305Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,42 @@
   ],
   "articles": [
     {
-      "title": "¿Segunda vuelta en Cusco? Es falso que sea ilegal no contabilizar los votos de Progresemos",
-      "link": "https://www.infobae.com/peru/2026/10/15/segunda-vuelta-en-cusco-es-falso-que-sea-ilegal-no-contabilizar-los-votos-de-progresemos/",
+      "title": "Mafe Carrascal se defendió de quienes la señalaron de “instrumentalizar” a una menor durante las marchas del 14 de octubre: “Jamás la incité”  ",
+      "link": "https://www.infobae.com/colombia/2026/10/15/mafe-carrascal-se-defendio-de-quienes-la-senalaron-de-instrumentalizar-a-una-menor-durante-las-marchas-del-14-de-octubre-jamas-la-incite/",
       "source": "Infobae",
-      "pubDate": "Thu, 15 Oct 2026 19:31:07 +0000",
+      "pubDate": "Thu, 15 Oct 2026 22:49:07 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella hizo advertencia al Congreso ante “presiones” que se lleguen a ejercer: “Será castigada con toda severidad”",
+      "link": "https://www.infobae.com/colombia/2026/10/15/abelardo-de-la-espriella-hizo-advertencia-al-congreso-ante-presiones-que-se-lleguen-a-ejercer-sera-castigada-con-toda-severidad/",
+      "source": "Infobae",
+      "pubDate": "Thu, 15 Oct 2026 22:46:55 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "A días del balotaje en Brasil, los candidatos priorizan medidas populares en sus planes fiscales",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/15/a-dias-del-balotaje-en-brasil-los-candidatos-priorizan-medidas-populares-en-sus-planes-fiscales/",
+      "source": "Infobae",
+      "pubDate": "Thu, 15 Oct 2026 22:09:27 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "El cuarto candidato más votado descarta apoyar a Lula o a Bolsonaro en la segunda vuelta",
+      "link": "https://www.infobae.com/america/agencias/2026/10/15/el-cuarto-candidato-mas-votado-descarta-apoyar-a-lula-o-a-bolsonaro-en-la-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Thu, 15 Oct 2026 22:02:17 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "‘Con las líneas de investigación que tiene la Fiscalía, procede considerar un crimen de Estado’: Tarazona sobre magnicidio de Miguel Uribe Turbay",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/con-las-lineas-de-investigacion-que-tiene-la-fiscalia-esto-procede-para-ser-un-crimen-de-estado-tarazona-sobre-magnicidio-de-miguel-uribe-turbay-3593827",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-15T16:37:34-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -58,7 +90,7 @@
       "title": "Benjamín Netanyahu elogió al presidente Abelardo De La Espriella tras inauguración de embajada de Colombia en Israel: 'Una gran valentía y visión'",
       "link": "https://www.eltiempo.com/politica/gobierno/benjamin-netanyahu-elogio-al-presidente-abelardo-de-la-espriella-tras-inauguracion-de-embajada-de-colombia-en-israel-una-gran-valentia-y-vision-3593821",
       "source": "El Tiempo",
-      "pubDate": "2026-10-15T14:22:54-05:00",
+      "pubDate": "2026-10-15T15:17:27-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,22 +99,6 @@
       "link": "https://www.france24.com/es/video/20261015-directo-latam-y-la-jornada-de-manifestaciones-contra-de-la-espriella-en-colombia",
       "source": "France 24",
       "pubDate": "Thu, 15 Oct 2026 17:06:28 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Lucas Murillo, el menor que pidió ayuda a Abelardo De La Espriella para una cirugía de corazón, habló tras la intervención: 'Estoy muy feliz'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/lucas-murillo-el-menor-que-pidio-ayuda-a-abelardo-de-la-espriella-para-una-cirugia-de-corazon-hablo-tras-la-intervencion-estoy-muy-feliz-3593674",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-15T03:12:59-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella entrega balance de las manifestaciones y dice que participaron 62.000 personas en todo el país: 'Pacíficas'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-balance-de-las-manifestaciones-en-las-que-participaron-62-000-personas-en-todo-el-pais-pacificas-3593664",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-14T23:05:01-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
