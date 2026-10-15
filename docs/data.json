@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T23:06:42.092Z",
+  "updatedAt": "2026-10-15T03:52:45.587Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 7128,
       "finalScore": 38,
       "momentum": {
-        "value": 2.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.7
@@ -47,34 +47,66 @@
   ],
   "articles": [
     {
-      "title": "Colombia: así avanzan las marchas en rechazo al Gobierno de Abelardo De la Espriella",
-      "link": "https://www.france24.com/es/video/20261014-colombia-as%C3%AD-avanzan-las-marchas-en-rechazo-al-gobierno-de-abelardo-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Wed, 14 Oct 2026 21:45:27 GMT",
+      "title": "Presidente Abelardo De La Espriella entrega balance de las marchas de oposición en las que participaron 62.000 personas en todo el país: 'Pacíficas'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-balance-de-las-manifestaciones-en-las-que-participaron-62-000-personas-en-todo-el-pais-pacificas-3593664",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-14T22:34:45-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "María Claudia Tarazona dice que la orden de asesinar a Miguel Uribe Turbay 'salió del Congreso': el expresidente Álvaro Uribe se pronuncia",
-      "link": "https://www.eltiempo.com/politica/congreso/maria-claudia-tarazona-dice-que-la-orden-de-asesinar-a-miguel-uribe-turbay-salio-del-congreso-el-expresidente-alvaro-uribe-se-pronuncia-3593509",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-14T16:32:07-05:00",
+      "title": "Brasil enmienda su Constitución y aprueba la reducción de la jornada laboral a las puertas de la segunda vuelta",
+      "link": "https://www.infobae.com/america/agencias/2026/10/15/brasil-enmienda-su-constitucion-y-aprueba-la-reduccion-de-la-jornada-laboral-a-las-puertas-de-la-segunda-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Thu, 15 Oct 2026 03:00:56 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "¿Qué implica para Colombia el acercamiento de De la Espriella con Israel?",
-      "link": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20261014-qu%C3%A9-implica-para-colombia-el-acercamiento-de-de-la-espriella-con-israel",
+      "title": "Brasil: el partido de Lula denunciará a Meta ante la OEA por presunta “interferencia” electoral",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261015-brasil-el-partido-de-lula-denunciar%C3%A1-a-meta-ante-la-oea-por-presunta-interferencia-electoral",
       "source": "France 24",
-      "pubDate": "Wed, 14 Oct 2026 18:23:02 GMT",
+      "pubDate": "Thu, 15 Oct 2026 02:01:41 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Informe desde Bogotá: la oposición marchó pacíficamente pese a las advertencias de De la Espriella",
+      "link": "https://www.france24.com/es/video/20261015-informe-desde-bogot%C3%A1-la-oposici%C3%B3n-march%C3%B3-pac%C3%ADficamente-pese-a-las-advertencias-de-de-la-espriella",
+      "source": "France 24",
+      "pubDate": "Thu, 15 Oct 2026 01:51:05 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gobierno de Abelardo De La Espriella expide circular para garantizar asistencia de funcionarios durante jornada de protestas",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-expide-circular-para-garantizar-asistencia-de-funcionarios-durante-jornada-de-protestas-3593432",
+      "title": "Colombia vive su primer paro nacional contra De la Espriella en medio de denuncias de “intimidación”",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261015-colombia-vive-su-primer-paro-nacional-contra-de-la-espriella-en-medio-de-denuncias-de-intimidaci%C3%B3n",
+      "source": "France 24",
+      "pubDate": "Thu, 15 Oct 2026 01:13:35 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Estos son los lineamientos del Gobierno de Abelardo De La Espriella para los procedimientos de consulta previa con pueblos étnicos",
+      "link": "https://www.eltiempo.com/politica/gobierno/estos-son-los-lineamientos-del-gobierno-de-abelardo-de-la-espriella-para-los-procedimientos-de-consulta-previa-con-pueblos-etnicos-3593617",
       "source": "El Tiempo",
-      "pubDate": "2026-10-14T09:01:22-05:00",
+      "pubDate": "2026-10-14T18:11:52-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Informe desde Bogotá: protestas contra De la Espriella, pasadas por agua, pero en normalidad",
+      "link": "https://www.france24.com/es/video/20261014-informe-desde-bogot%C3%A1-protestas-contra-de-la-espriella-pasadas-por-agua-pero-en-normalidad",
+      "source": "France 24",
+      "pubDate": "Wed, 14 Oct 2026 22:48:11 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia: así avanzan las marchas en rechazo al Gobierno de Abelardo De la Espriella",
+      "link": "https://www.france24.com/es/video/20261014-colombia-as%C3%AD-avanzan-las-marchas-en-rechazo-al-gobierno-de-abelardo-de-la-espriella",
+      "source": "France 24",
+      "pubDate": "Wed, 14 Oct 2026 21:45:27 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
