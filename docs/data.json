@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T03:52:45.587Z",
+  "updatedAt": "2026-10-15T09:01:41.789Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,20 +47,20 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella entrega balance de las marchas de oposición en las que participaron 62.000 personas en todo el país: 'Pacíficas'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-balance-de-las-manifestaciones-en-las-que-participaron-62-000-personas-en-todo-el-pais-pacificas-3593664",
+      "title": "Lucas Murillo, el menor que pidió ayuda a Abelardo De La Espriella para una cirugía de corazón, habló tras la intervención: 'Estoy muy feliz'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/lucas-murillo-el-menor-que-pidio-ayuda-a-abelardo-de-la-espriella-para-una-cirugia-de-corazon-hablo-tras-la-intervencion-estoy-muy-feliz-3593674",
       "source": "El Tiempo",
-      "pubDate": "2026-10-14T22:34:45-05:00",
+      "pubDate": "2026-10-15T03:12:59-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Brasil enmienda su Constitución y aprueba la reducción de la jornada laboral a las puertas de la segunda vuelta",
-      "link": "https://www.infobae.com/america/agencias/2026/10/15/brasil-enmienda-su-constitucion-y-aprueba-la-reduccion-de-la-jornada-laboral-a-las-puertas-de-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Thu, 15 Oct 2026 03:00:56 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Presidente Abelardo De La Espriella entrega balance de las manifestaciones y revela que participaron 62.000 personas en todo el país: 'Pacíficas'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-balance-de-las-manifestaciones-en-las-que-participaron-62-000-personas-en-todo-el-pais-pacificas-3593664",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-14T23:05:01-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Brasil: el partido de Lula denunciará a Meta ante la OEA por presunta “interferencia” electoral",
