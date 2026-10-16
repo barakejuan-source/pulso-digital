@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T08:52:30.767Z",
+  "updatedAt": "2026-10-16T14:41:01.190Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 5,
+      "trendsScore": 4,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 35.9
       },
       "youtubeViews": 7128,
-      "finalScore": 37,
+      "finalScore": 36,
       "momentum": {
-        "value": 0,
+        "value": -2.7,
         "direction": "flat"
       },
-      "probability": 48.1
+      "probability": 47.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,17 +42,41 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.9
+      "probability": 52.6
     }
   ],
   "articles": [
     {
-      "title": "Renan Santos, cuarto candidato más votado en las primarias de Brasil, descartó apoyar a Lula o Bolsonaro en el balotaje",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/16/renan-santos-cuarto-candidato-mas-votado-en-las-primaras-de-brasil-descarto-apoyar-a-lula-o-bolsonaro-en-el-balotaje/",
+      "title": "Canciller de Colombia Omar Bula se reunió con el presidente de Israel, Isaac Herzog: “Una nueva etapa de cooperación”",
+      "link": "https://www.infobae.com/colombia/2026/10/16/canciller-omar-bula-se-reunio-con-el-presidente-de-israel-isaac-herzog-una-nueva-etapa-de-cooperacion/",
       "source": "Infobae",
-      "pubDate": "Fri, 16 Oct 2026 07:46:36 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Fri, 16 Oct 2026 14:37:50 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Por qué los ateos de Bogotá le pidieron al presidente Abelardo de la Espriella rectificar: “La cultura de una nación no le pertenece a un credo particular”  ",
+      "link": "https://www.infobae.com/colombia/2026/10/16/por-que-los-ateos-de-bogota-le-pidieron-al-presidente-abelardo-de-la-espriella-rectificar-la-cultura-de-una-nacion-no-le-pertenece-a-un-credo-particular/",
+      "source": "Infobae",
+      "pubDate": "Fri, 16 Oct 2026 14:03:28 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Desayune informado con las movidas de este 16 de octubre de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-16-de-octubre-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 16 Oct 2026 12:30:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Operación Blindaje 360: el presidente Abelardo De La Espriella lidera una ofensiva contra los cabecillas de los grupos criminales en Barranquilla",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/operacion-blindaje-360-el-presidente-abelardo-de-la-espriella-lidera-una-ofensiva-contra-los-cabecillas-de-los-grupos-criminales-en-barranquilla-3593957",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-16T07:27:33-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Rebaja de la jornada laboral y transporte gratuito: Lula apunta a la economía en vísperas del balotaje",
@@ -69,14 +93,6 @@
       "pubDate": "2026-10-15T16:37:34-05:00",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Benjamín Netanyahu elogió al presidente Abelardo De La Espriella tras inauguración de embajada de Colombia en Israel: 'Una gran valentía y visión'",
-      "link": "https://www.eltiempo.com/politica/gobierno/benjamin-netanyahu-elogio-al-presidente-abelardo-de-la-espriella-tras-inauguracion-de-embajada-de-colombia-en-israel-una-gran-valentia-y-vision-3593821",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-15T15:17:27-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
