@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T14:41:01.190Z",
+  "updatedAt": "2026-10-16T19:28:06.600Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 7128,
       "finalScore": 36,
       "momentum": {
-        "value": -2.7,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 47.4
@@ -47,26 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Canciller de Colombia Omar Bula se reunió con el presidente de Israel, Isaac Herzog: “Una nueva etapa de cooperación”",
-      "link": "https://www.infobae.com/colombia/2026/10/16/canciller-omar-bula-se-reunio-con-el-presidente-de-israel-isaac-herzog-una-nueva-etapa-de-cooperacion/",
+      "title": "Argentina extraditará a ciudadano colombiano señalado de participar en el magnicidio de Miguel Uribe Turbay: fue capturado en Buenos Aires",
+      "link": "https://www.infobae.com/colombia/2026/10/16/argentina-extraditara-a-ciudadano-colombiano-senalado-de-participar-en-el-magnicidio-de-miguel-uribe-turbay-fue-capturado-en-buenos-aires/",
       "source": "Infobae",
-      "pubDate": "Fri, 16 Oct 2026 14:37:50 +0000",
+      "pubDate": "Fri, 16 Oct 2026 18:49:50 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella anunció recortes en subsidios y exenciones tributarias: cuáles se afectarían según expertos",
+      "link": "https://www.infobae.com/colombia/2026/10/16/abelardo-de-la-espriella-anuncio-recortes-en-subsidios-y-exenciones-tributarias-cuales-se-afectarian-segun-expertos/",
+      "source": "Infobae",
+      "pubDate": "Fri, 16 Oct 2026 18:49:42 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Por qué los ateos de Bogotá le pidieron al presidente Abelardo de la Espriella rectificar: “La cultura de una nación no le pertenece a un credo particular”  ",
-      "link": "https://www.infobae.com/colombia/2026/10/16/por-que-los-ateos-de-bogota-le-pidieron-al-presidente-abelardo-de-la-espriella-rectificar-la-cultura-de-una-nacion-no-le-pertenece-a-un-credo-particular/",
-      "source": "Infobae",
-      "pubDate": "Fri, 16 Oct 2026 14:03:28 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desayune informado con las movidas de este 16 de octubre de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-16-de-octubre-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 16 Oct 2026 12:30:00 +0000",
+      "title": "Presidente Abelardo De La Espriella declara la guerra al ‘wokismo’: qué significa y por qué genera reacciones divididas",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-declara-la-guerra-al-wokismo-que-significa-y-por-que-genera-reacciones-divididas-3593993",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-16T10:10:02-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -77,22 +77,6 @@
       "pubDate": "2026-10-16T07:27:33-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Rebaja de la jornada laboral y transporte gratuito: Lula apunta a la economía en vísperas del balotaje",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261016-rebaja-de-la-jornada-laboral-y-transporte-gratuito-lula-apunta-a-la-econom%C3%ADa-en-v%C3%ADsperas-del-balotaje",
-      "source": "France 24",
-      "pubDate": "Fri, 16 Oct 2026 02:10:45 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "‘Con las líneas de investigación que tiene la Fiscalía, procede considerar un crimen de Estado’: Tarazona sobre magnicidio de Miguel Uribe Turbay",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/con-las-lineas-de-investigacion-que-tiene-la-fiscalia-esto-procede-para-ser-un-crimen-de-estado-tarazona-sobre-magnicidio-de-miguel-uribe-turbay-3593827",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-15T16:37:34-05:00",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
