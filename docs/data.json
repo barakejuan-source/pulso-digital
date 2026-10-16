@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T03:48:27.863Z",
+  "updatedAt": "2026-10-16T08:52:30.767Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 7128,
       "finalScore": 37,
       "momentum": {
-        "value": -2.6,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 48.1
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Francis Allison toma distancia del pedido de Avanza País para una segunda vuelta en Lima: “Yo no la he hecho”",
-      "link": "https://www.infobae.com/peru/2026/10/16/francis-allison-toma-distancia-del-pedido-de-avanza-pais-para-una-segunda-vuelta-en-lima-yo-no-la-he-hecho/",
+      "title": "Renan Santos, cuarto candidato más votado en las primarias de Brasil, descartó apoyar a Lula o Bolsonaro en el balotaje",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/16/renan-santos-cuarto-candidato-mas-votado-en-las-primaras-de-brasil-descarto-apoyar-a-lula-o-bolsonaro-en-el-balotaje/",
       "source": "Infobae",
-      "pubDate": "Fri, 16 Oct 2026 03:14:27 +0000",
+      "pubDate": "Fri, 16 Oct 2026 07:46:36 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
