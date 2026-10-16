@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T22:58:30.305Z",
+  "updatedAt": "2026-10-16T03:48:27.863Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 8,
+      "trendsScore": 5,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 35.9
       },
       "youtubeViews": 7128,
-      "finalScore": 38,
+      "finalScore": 37,
       "momentum": {
-        "value": 0,
+        "value": -2.6,
         "direction": "flat"
       },
-      "probability": 48.7
+      "probability": 48.1
     },
     {
       "id": "abelardo_espriella",
@@ -42,39 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 51.3
+      "probability": 51.9
     }
   ],
   "articles": [
     {
-      "title": "Mafe Carrascal se defendió de quienes la señalaron de “instrumentalizar” a una menor durante las marchas del 14 de octubre: “Jamás la incité”  ",
-      "link": "https://www.infobae.com/colombia/2026/10/15/mafe-carrascal-se-defendio-de-quienes-la-senalaron-de-instrumentalizar-a-una-menor-durante-las-marchas-del-14-de-octubre-jamas-la-incite/",
+      "title": "Francis Allison toma distancia del pedido de Avanza País para una segunda vuelta en Lima: “Yo no la he hecho”",
+      "link": "https://www.infobae.com/peru/2026/10/16/francis-allison-toma-distancia-del-pedido-de-avanza-pais-para-una-segunda-vuelta-en-lima-yo-no-la-he-hecho/",
       "source": "Infobae",
-      "pubDate": "Thu, 15 Oct 2026 22:49:07 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella hizo advertencia al Congreso ante “presiones” que se lleguen a ejercer: “Será castigada con toda severidad”",
-      "link": "https://www.infobae.com/colombia/2026/10/15/abelardo-de-la-espriella-hizo-advertencia-al-congreso-ante-presiones-que-se-lleguen-a-ejercer-sera-castigada-con-toda-severidad/",
-      "source": "Infobae",
-      "pubDate": "Thu, 15 Oct 2026 22:46:55 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "A días del balotaje en Brasil, los candidatos priorizan medidas populares en sus planes fiscales",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/15/a-dias-del-balotaje-en-brasil-los-candidatos-priorizan-medidas-populares-en-sus-planes-fiscales/",
-      "source": "Infobae",
-      "pubDate": "Thu, 15 Oct 2026 22:09:27 +0000",
+      "pubDate": "Fri, 16 Oct 2026 03:14:27 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "El cuarto candidato más votado descarta apoyar a Lula o a Bolsonaro en la segunda vuelta",
-      "link": "https://www.infobae.com/america/agencias/2026/10/15/el-cuarto-candidato-mas-votado-descarta-apoyar-a-lula-o-a-bolsonaro-en-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Thu, 15 Oct 2026 22:02:17 +0000",
+      "title": "Rebaja de la jornada laboral y transporte gratuito: Lula apunta a la economía en vísperas del balotaje",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261016-rebaja-de-la-jornada-laboral-y-transporte-gratuito-lula-apunta-a-la-econom%C3%ADa-en-v%C3%ADsperas-del-balotaje",
+      "source": "France 24",
+      "pubDate": "Fri, 16 Oct 2026 02:10:45 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -91,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/benjamin-netanyahu-elogio-al-presidente-abelardo-de-la-espriella-tras-inauguracion-de-embajada-de-colombia-en-israel-una-gran-valentia-y-vision-3593821",
       "source": "El Tiempo",
       "pubDate": "2026-10-15T15:17:27-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Directo Latam y la jornada de manifestaciones contra De la Espriella en Colombia",
-      "link": "https://www.france24.com/es/video/20261015-directo-latam-y-la-jornada-de-manifestaciones-contra-de-la-espriella-en-colombia",
-      "source": "France 24",
-      "pubDate": "Thu, 15 Oct 2026 17:06:28 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
