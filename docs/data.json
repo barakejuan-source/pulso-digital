@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:32:48.854Z",
+  "updatedAt": "2026-10-17T16:56:06.815Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 7128,
       "finalScore": 35,
       "momentum": {
-        "value": -2.8,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 46.7
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella declara la guerra al ‘wokismo’: qué significa y por qué genera reacciones divididas",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-declara-la-guerra-al-wokismo-que-significa-y-por-que-genera-reacciones-divididas-3593993",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-16T20:57:47-05:00",
+      "title": "Gobierno de Abelardo de la Espriella entregó un nuevo balance de cargos seleccionados a través el Banco de Talentos: \"Solo bastó su hoja de vida\"",
+      "link": "https://www.infobae.com/colombia/2026/10/17/gobierno-de-abelardo-de-la-espriella-entrego-un-nuevo-balance-de-cargos-seleccionados-a-traves-el-banco-de-talentos-solo-basto-su-hoja-de-vida/",
+      "source": "Infobae",
+      "pubDate": "Sat, 17 Oct 2026 16:52:14 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Operación Blindaje 360: el presidente Abelardo De La Espriella lidera una ofensiva contra los cabecillas de los grupos criminales en Barranquilla",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/operacion-blindaje-360-el-presidente-abelardo-de-la-espriella-lidera-una-ofensiva-contra-los-cabecillas-de-los-grupos-criminales-en-barranquilla-3593957",
+      "title": "Presidente Abelardo De La Espriella declara la guerra al ‘wokismo’: qué significa y por qué genera reacciones divididas",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-declara-la-guerra-al-wokismo-que-significa-y-por-que-genera-reacciones-divididas-3593993",
       "source": "El Tiempo",
-      "pubDate": "2026-10-16T07:27:33-05:00",
+      "pubDate": "2026-10-16T20:57:47-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
