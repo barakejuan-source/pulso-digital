@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T16:56:06.815Z",
+  "updatedAt": "2026-10-17T20:20:45.214Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Gobierno de Abelardo de la Espriella entregó un nuevo balance de cargos seleccionados a través el Banco de Talentos: \"Solo bastó su hoja de vida\"",
-      "link": "https://www.infobae.com/colombia/2026/10/17/gobierno-de-abelardo-de-la-espriella-entrego-un-nuevo-balance-de-cargos-seleccionados-a-traves-el-banco-de-talentos-solo-basto-su-hoja-de-vida/",
+      "title": "Francis Allison toma distancia del pedido de Avanza País para una segunda vuelta en Lima: “Yo no lo he hecho”",
+      "link": "https://www.infobae.com/peru/2026/10/16/francis-allison-toma-distancia-del-pedido-de-avanza-pais-para-una-segunda-vuelta-en-lima-yo-no-la-he-hecho/",
       "source": "Infobae",
-      "pubDate": "Sat, 17 Oct 2026 16:52:14 +0000",
+      "pubDate": "Sat, 17 Oct 2026 19:48:42 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Petro acusó a Abelardo de la Espriella de engañar al Eje Cafetero por decisiones sobre peajes y Aerocafé: “Se vuelve renta para corruptos”",
+      "link": "https://www.infobae.com/colombia/2026/10/17/petro-acuso-a-abelardo-de-la-espriella-de-enganar-al-eje-cafetero-por-decisiones-sobre-peajes-y-aerocafe-se-vuelve-renta-para-corruptos/",
+      "source": "Infobae",
+      "pubDate": "Sat, 17 Oct 2026 19:47:55 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella declara la guerra al ‘wokismo’: qué significa y por qué genera reacciones divididas",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-declara-la-guerra-al-wokismo-que-significa-y-por-que-genera-reacciones-divididas-3593993",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-16T20:57:47-05:00",
+      "title": "Deja Vu: así era el Museo Nacional antes del desmonte de piezas",
+      "link": "https://www.lasillavacia.com/silla-nacional/deja-vu-asi-era-el-museo-nacional-antes-del-desmonte-de-piezas/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 17 Oct 2026 16:57:05 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
