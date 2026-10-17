@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T22:41:51.457Z",
+  "updatedAt": "2026-10-17T03:38:34.181Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 2,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 35.9
       },
       "youtubeViews": 7128,
-      "finalScore": 36,
+      "finalScore": 35,
       "momentum": {
-        "value": 0,
+        "value": -2.8,
         "direction": "flat"
       },
-      "probability": 47.4
+      "probability": 46.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.6
+      "probability": 53.3
     }
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella perdió tutela sobre los convenios mineros con Estados Unidos: tiene 48 horas para hacer públicos los documentos ",
-      "link": "https://www.infobae.com/colombia/2026/10/16/abelardo-de-la-espriella-perdio-tutela-sobre-los-convenios-mineros-con-estados-unidos-tiene-48-horas-para-hacer-publicos-los-documentos/",
+      "title": "María José Pizarro le respondió a Abelardo de la Espriella por declaraciones contra Carlos Pizarro: “Mi padre es un símbolo de rebeldía”    ",
+      "link": "https://www.infobae.com/colombia/2026/10/17/maria-jose-pizarro-le-respondio-a-abelardo-de-la-espriella-por-declaraciones-contra-carlos-pizarro-mi-padre-es-un-simbolo-de-rebeldia/",
       "source": "Infobae",
-      "pubDate": "Fri, 16 Oct 2026 22:39:44 +0000",
+      "pubDate": "Sat, 17 Oct 2026 02:57:44 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella prometió “una lucha abierta y total contra el wokismo”: de qué se trata esta corriente cultural a la que el Presidente calificó de “cáncer”",
-      "link": "https://www.infobae.com/colombia/2026/10/16/abelardo-de-la-espriella-prometio-una-lucha-abierta-y-total-contra-el-wokismo-de-que-se-trata-esta-corriente-cultural-a-la-que-el-presidente-califico-de-cancer/",
+      "title": "Abelardo de la Espriella realizó un consejo de seguridad en San Andrés: anunció aumento del pie de fuerza contra el narcotráfico     ",
+      "link": "https://www.infobae.com/colombia/2026/10/17/abelardo-de-la-espriella-realizo-un-consejo-de-seguridad-en-san-andres-anuncio-aumento-del-pie-de-fuerza-contra-el-narcotrafico/",
       "source": "Infobae",
-      "pubDate": "Fri, 16 Oct 2026 21:42:14 +0000",
+      "pubDate": "Sat, 17 Oct 2026 02:55:43 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,7 +66,7 @@
       "title": "Presidente Abelardo De La Espriella declara la guerra al ‘wokismo’: qué significa y por qué genera reacciones divididas",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-declara-la-guerra-al-wokismo-que-significa-y-por-que-genera-reacciones-divididas-3593993",
       "source": "El Tiempo",
-      "pubDate": "2026-10-16T10:10:02-05:00",
+      "pubDate": "2026-10-16T20:57:47-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
