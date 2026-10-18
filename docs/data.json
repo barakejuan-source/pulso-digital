@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T08:43:27.036Z",
+  "updatedAt": "2026-10-18T13:51:57.075Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Lula da Silva y Flávio Bolsonaro se enfrentarán cara a cara en su primer debate a una semana del balotaje en Brasil",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/18/lula-da-silva-y-flavio-bolsonaro-se-enfrentaran-cara-a-cara-en-su-primer-debate-a-una-semana-del-balotaje-en-brasil/",
+      "title": "Emmanuel Restrepo, participante de ‘MasterChef Celebrity’, criticó el retiro de piezas del Museo Nacional",
+      "link": "https://www.infobae.com/colombia/2026/10/18/emmanuel-restrepo-participante-de-masterchef-celebrity-que-critico-el-retiro-de-piezas-del-museo-nacional/",
       "source": "Infobae",
-      "pubDate": "Sun, 18 Oct 2026 07:20:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Sun, 18 Oct 2026 13:37:30 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Partido Conservador no hará coaliciones con opositores al gobierno de De La Espriella y tampoco con quienes hayan votado por Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/partido-conservador-no-hara-coaliciones-con-opositores-al-gobierno-de-de-la-espriella-y-tampoco-con-quienes-hayan-votado-por-ivan-cepeda-3594387",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-18T08:35:39-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "‘Matador’ aclaró nuevamente si se arrepiente de su comentario contra la primera dama Ana Lucía Pineda: “¿Valió la pena?” ",
+      "link": "https://www.infobae.com/colombia/2026/10/18/matador-aclaro-nuevamente-si-se-arrepiente-de-su-comentario-contra-la-primera-dama-ana-lucia-pineda-valio-la-pena/",
+      "source": "Infobae",
+      "pubDate": "Sun, 18 Oct 2026 12:57:32 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Los tres mosqueteros que ya le están dando resultados al presidente Abelardo De La Espriella / En Secreto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-tres-mosqueteros-que-ya-le-estan-dando-resultados-al-presidente-abelardo-de-la-espriella-en-secreto-3594302",
       "source": "El Tiempo",
-      "pubDate": "2026-10-17T22:01:00-05:00",
+      "pubDate": "2026-10-18T07:01:23-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia registró protestas por el retiro de obras sobre diversidad sexual, feminismo y paz del Museo Nacional",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261018-colombia-registr%C3%B3-protestas-por-el-retiro-de-obras-sobre-diversidad-sexual-feminismo-y-paz-del-museo-nacional",
+      "source": "France 24",
+      "pubDate": "Sun, 18 Oct 2026 01:57:24 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -69,14 +93,6 @@
       "pubDate": "Sun, 18 Oct 2026 00:33:28 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Deja Vu: así era el Museo Nacional antes del desmonte de piezas",
-      "link": "https://www.lasillavacia.com/silla-nacional/deja-vu-asi-era-el-museo-nacional-antes-del-desmonte-de-piezas/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 17 Oct 2026 16:57:05 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
