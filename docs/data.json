@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T03:45:06.606Z",
+  "updatedAt": "2026-10-18T08:43:27.036Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 7128,
       "finalScore": 36,
       "momentum": {
-        "value": 2.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 47.4
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
+      "title": "Lula da Silva y Flávio Bolsonaro se enfrentarán cara a cara en su primer debate a una semana del balotaje en Brasil",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/18/lula-da-silva-y-flavio-bolsonaro-se-enfrentaran-cara-a-cara-en-su-primer-debate-a-una-semana-del-balotaje-en-brasil/",
+      "source": "Infobae",
+      "pubDate": "Sun, 18 Oct 2026 07:20:00 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "Los tres mosqueteros que ya le están dando resultados al presidente Abelardo De La Espriella / En Secreto",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-tres-mosqueteros-que-ya-le-estan-dando-resultados-al-presidente-abelardo-de-la-espriella-en-secreto-3594302",
       "source": "El Tiempo",
       "pubDate": "2026-10-17T22:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella celebró otro golpe a las ACSN: “Vamos a perseguir a estos narcoterroristas”",
-      "link": "https://www.infobae.com/colombia/2026/10/18/abelardo-de-la-espriella-celebro-otro-golpe-a-las-acsn-vamos-a-perseguir-a-estos-narcoterroristas/",
-      "source": "Infobae",
-      "pubDate": "Sun, 18 Oct 2026 02:12:39 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
