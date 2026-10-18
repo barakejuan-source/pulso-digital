@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T17:11:00.660Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-10-18T20:20:13.102Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,14 +47,6 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella se despachó contra gobernadora y representante de San Andrés en pleno recibimiento a la isla: \"Voy a utilizar toda mi autoridad\"",
-      "link": "https://www.infobae.com/colombia/2026/10/18/abelardo-de-la-espriella-se-despacho-contra-gobernadora-y-representante-de-san-andres-en-pleno-recibimiento-a-la-isla-voy-a-utilizar-toda-mi-autoridad/",
-      "source": "Infobae",
-      "pubDate": "Sun, 18 Oct 2026 16:57:51 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Partido Conservador no hará coaliciones con opositores al gobierno de De La Espriella y tampoco con quienes hayan votado por Iván Cepeda",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/partido-conservador-no-hara-coaliciones-con-opositores-al-gobierno-de-de-la-espriella-y-tampoco-con-quienes-hayan-votado-por-ivan-cepeda-3594387",
       "source": "El Tiempo",
@@ -77,14 +69,6 @@
       "pubDate": "Sun, 18 Oct 2026 01:57:24 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ulises Cortés: 'Los fallos de Meta contra cuentas de candidatos siempre tienen intensión'",
-      "link": "https://www.france24.com/es/video/20261018-ulises-cort%C3%A9s-los-fallos-de-meta-contra-cuentas-de-candidatos-siempre-tienen-intensi%C3%B3n",
-      "source": "France 24",
-      "pubDate": "Sun, 18 Oct 2026 00:33:28 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
