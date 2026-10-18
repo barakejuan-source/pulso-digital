@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T23:52:54.463Z",
+  "updatedAt": "2026-10-18T03:45:06.606Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 2,
+      "trendsScore": 4,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 35.9
       },
       "youtubeViews": 7128,
-      "finalScore": 35,
+      "finalScore": 36,
       "momentum": {
-        "value": 0,
+        "value": 2.9,
         "direction": "flat"
       },
-      "probability": 46.7
+      "probability": 47.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,34 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 53.3
+      "probability": 52.6
     }
   ],
   "articles": [
+    {
+      "title": "Los tres mosqueteros que ya le están dando resultados al presidente Abelardo De La Espriella / En Secreto",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-tres-mosqueteros-que-ya-le-estan-dando-resultados-al-presidente-abelardo-de-la-espriella-en-secreto-3594302",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-17T22:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella celebró otro golpe a las ACSN: “Vamos a perseguir a estos narcoterroristas”",
+      "link": "https://www.infobae.com/colombia/2026/10/18/abelardo-de-la-espriella-celebro-otro-golpe-a-las-acsn-vamos-a-perseguir-a-estos-narcoterroristas/",
+      "source": "Infobae",
+      "pubDate": "Sun, 18 Oct 2026 02:12:39 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ulises Cortés: 'Los fallos de Meta contra cuentas de candidatos siempre tienen intensión'",
+      "link": "https://www.france24.com/es/video/20261018-ulises-cort%C3%A9s-los-fallos-de-meta-contra-cuentas-de-candidatos-siempre-tienen-intensi%C3%B3n",
+      "source": "France 24",
+      "pubDate": "Sun, 18 Oct 2026 00:33:28 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "Deja Vu: así era el Museo Nacional antes del desmonte de piezas",
       "link": "https://www.lasillavacia.com/silla-nacional/deja-vu-asi-era-el-museo-nacional-antes-del-desmonte-de-piezas/",
