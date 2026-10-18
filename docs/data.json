@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T13:51:57.075Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-10-18T17:11:00.660Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Emmanuel Restrepo, participante de ‘MasterChef Celebrity’, criticó el retiro de piezas del Museo Nacional",
-      "link": "https://www.infobae.com/colombia/2026/10/18/emmanuel-restrepo-participante-de-masterchef-celebrity-que-critico-el-retiro-de-piezas-del-museo-nacional/",
+      "title": "Abelardo de la Espriella se despachó contra gobernadora y representante de San Andrés en pleno recibimiento a la isla: \"Voy a utilizar toda mi autoridad\"",
+      "link": "https://www.infobae.com/colombia/2026/10/18/abelardo-de-la-espriella-se-despacho-contra-gobernadora-y-representante-de-san-andres-en-pleno-recibimiento-a-la-isla-voy-a-utilizar-toda-mi-autoridad/",
       "source": "Infobae",
-      "pubDate": "Sun, 18 Oct 2026 13:37:30 +0000",
+      "pubDate": "Sun, 18 Oct 2026 16:57:51 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -61,14 +61,6 @@
       "pubDate": "2026-10-18T08:35:39-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "‘Matador’ aclaró nuevamente si se arrepiente de su comentario contra la primera dama Ana Lucía Pineda: “¿Valió la pena?” ",
-      "link": "https://www.infobae.com/colombia/2026/10/18/matador-aclaro-nuevamente-si-se-arrepiente-de-su-comentario-contra-la-primera-dama-ana-lucia-pineda-valio-la-pena/",
-      "source": "Infobae",
-      "pubDate": "Sun, 18 Oct 2026 12:57:32 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Los tres mosqueteros que ya le están dando resultados al presidente Abelardo De La Espriella / En Secreto",
