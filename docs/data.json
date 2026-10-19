@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T04:29:18.665Z",
+  "updatedAt": "2026-10-19T12:36:14.958Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 7128,
       "finalScore": 35,
       "momentum": {
-        "value": -2.8,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 46.7
@@ -47,12 +47,36 @@
   ],
   "articles": [
     {
-      "title": "Lula y Flávio Bolsonaro intercambian acusaciones de corrupción en su primer debate para la segunda vuelta",
-      "link": "https://www.infobae.com/america/agencias/2026/10/19/lula-y-flavio-bolsonaro-intercambian-acusaciones-de-corrupcion-en-su-primer-debate-para-la-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Mon, 19 Oct 2026 03:45:38 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Desayune informado con las claves de este 19 de octubre de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-19-de-octubre-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 19 Oct 2026 12:18:16 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Lo clave del Estatuto Antiterrorista de Abelardo",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/lo-clave-del-estatuto-antiterrorista-de-abelardo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 19 Oct 2026 12:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Partido Liberal salió en defensa de la representante Elizabeth Jay-Pang tras choque con el presidente Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/partido-liberal-salio-en-defensa-de-la-representante-elizabeth-jay-pang-tras-choque-con-el-presidente-abelardo-de-la-espriella-3594521",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-19T06:24:31-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella sobre San Andrés: anuncios, denuncias y reacciones a sus decisiones sobre la isla",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-sobre-san-andres-anuncios-denuncias-y-reacciones-a-sus-decisiones-sobre-la-isla-3594520",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-19T06:01:26-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Debate en Brasil: una batalla campal en la que el temple de Bolsonaro prevaleció ante un exaltado Lula",
