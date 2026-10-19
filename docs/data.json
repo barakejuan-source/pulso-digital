@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T12:36:14.958Z",
+  "updatedAt": "2026-10-19T19:44:09.683Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,34 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Desayune informado con las claves de este 19 de octubre de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-19-de-octubre-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 19 Oct 2026 12:18:16 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Medio ambiente, extractivismo y Amazonía: qué se juega Brasil en la contienda entre Lula y Bolsonaro",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261019-medio-ambiente-extractivismo-y-amazon%C3%ADa-qu%C3%A9-se-juega-brasil-en-la-contienda-entre-lula-y-bolsonaro",
+      "source": "France 24",
+      "pubDate": "Mon, 19 Oct 2026 19:26:41 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Lo clave del Estatuto Antiterrorista de Abelardo",
-      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/lo-clave-del-estatuto-antiterrorista-de-abelardo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 19 Oct 2026 12:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Partido Liberal salió en defensa de la representante Elizabeth Jay-Pang tras choque con el presidente Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/partido-liberal-salio-en-defensa-de-la-representante-elizabeth-jay-pang-tras-choque-con-el-presidente-abelardo-de-la-espriella-3594521",
+      "title": "Presidente Abelardo De La Espriella habló con representante demócrata Gregory Meeks tras tensiones por mensaje a favor de María Elvira Salazar",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-hablo-con-representante-democrata-gregory-meeks-tras-tensiones-por-mensaje-a-favor-de-maria-elvira-salazar-3594604",
       "source": "El Tiempo",
-      "pubDate": "2026-10-19T06:24:31-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella sobre San Andrés: anuncios, denuncias y reacciones a sus decisiones sobre la isla",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-sobre-san-andres-anuncios-denuncias-y-reacciones-a-sus-decisiones-sobre-la-isla-3594520",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-19T06:01:26-05:00",
+      "pubDate": "2026-10-19T10:43:18-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -85,14 +69,6 @@
       "pubDate": "Mon, 19 Oct 2026 02:51:11 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Abelardo De La Espriella anunció medidas ante presuntas irregularidades en el Hospital Departamental de San Andrés: 'Sin privilegios ni excepciones'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-anuncio-medidas-ante-presuntas-irregularidades-en-el-hospital-departamental-de-san-andres-sin-privilegios-ni-excepciones-3594485",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-18T21:04:16-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
