@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T19:44:09.683Z",
+  "updatedAt": "2026-10-19T23:29:42.774Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,26 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Medio ambiente, extractivismo y Amazonía: qué se juega Brasil en la contienda entre Lula y Bolsonaro",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261019-medio-ambiente-extractivismo-y-amazon%C3%ADa-qu%C3%A9-se-juega-brasil-en-la-contienda-entre-lula-y-bolsonaro",
-      "source": "France 24",
-      "pubDate": "Mon, 19 Oct 2026 19:26:41 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella habló con representante demócrata Gregory Meeks tras tensiones por mensaje a favor de María Elvira Salazar",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-hablo-con-representante-democrata-gregory-meeks-tras-tensiones-por-mensaje-a-favor-de-maria-elvira-salazar-3594604",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-19T10:43:18-05:00",
+      "title": "“Que se conozca todo”: Petro niega declaraciones de Mancuso ",
+      "link": "https://www.lasillavacia.com/en-vivo/que-se-conozca-todo-petro-niega-declaraciones-de-mancuso/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 19 Oct 2026 23:28:13 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Debate en Brasil: una batalla campal en la que el temple de Bolsonaro prevaleció ante un exaltado Lula",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261019-debate-en-brasil-una-batalla-campal-en-la-que-el-temple-de-bolsonaro-prevaleci%C3%B3-ante-un-exaltado-lula",
+      "title": "Ministerio de Justicia pidió a la Fiscalía profundizar la investigación por el magnicidio de Miguel Uribe Turbay",
+      "link": "https://www.infobae.com/colombia/2026/10/19/ministerio-de-justicia-pidio-a-la-fiscalia-profundizar-la-investigacion-por-el-magnicidio-de-miguel-uribe-turbay/",
+      "source": "Infobae",
+      "pubDate": "Mon, 19 Oct 2026 22:36:50 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Benedetti le respondió al presidente Abelardo De La Espriella por sus declaraciones sobre presuntas exigencias del gobierno Petro a exparamilitares",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/benedetti-le-respondio-al-presidente-abelardo-de-la-espriella-por-sus-declaraciones-sobre-presuntas-exigencias-del-gobierno-petro-a-exparamilitares-3594685",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-19T16:32:15-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Medio ambiente, extractivismo y Amazonía: qué se juega Brasil en la contienda entre Bolsonaro y Lula",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261019-medio-ambiente-extractivismo-y-amazon%C3%ADa-qu%C3%A9-se-juega-brasil-en-la-contienda-entre-lula-y-bolsonaro",
       "source": "France 24",
-      "pubDate": "Mon, 19 Oct 2026 02:51:11 GMT",
+      "pubDate": "Mon, 19 Oct 2026 19:26:41 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
