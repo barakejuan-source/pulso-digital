@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T20:20:13.102Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-10-19T00:01:21.376Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,20 +47,20 @@
   ],
   "articles": [
     {
+      "title": "El opositor Juan Sebastián Chamorro pide a la Unión Europea ampliar las sanciones contra el régimen de Nicaragua",
+      "link": "https://www.infobae.com/nicaragua/2026/10/17/el-opositor-juan-sebastian-chamorro-pide-a-la-union-europea-ampliar-las-sanciones-contra-el-regimen-de-nicaragua/",
+      "source": "Infobae",
+      "pubDate": "Sun, 18 Oct 2026 21:54:40 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "Partido Conservador no hará coaliciones con opositores al gobierno de De La Espriella y tampoco con quienes hayan votado por Iván Cepeda",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/partido-conservador-no-hara-coaliciones-con-opositores-al-gobierno-de-de-la-espriella-y-tampoco-con-quienes-hayan-votado-por-ivan-cepeda-3594387",
       "source": "El Tiempo",
       "pubDate": "2026-10-18T08:35:39-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Los tres mosqueteros que ya le están dando resultados al presidente Abelardo De La Espriella / En Secreto",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-tres-mosqueteros-que-ya-le-estan-dando-resultados-al-presidente-abelardo-de-la-espriella-en-secreto-3594302",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-18T07:01:23-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Colombia registró protestas por el retiro de obras sobre diversidad sexual, feminismo y paz del Museo Nacional",
