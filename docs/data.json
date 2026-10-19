@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-19T00:01:21.376Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-10-19T04:29:18.665Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 2,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 35.9
       },
       "youtubeViews": 7128,
-      "finalScore": 36,
+      "finalScore": 35,
       "momentum": {
-        "value": 0,
+        "value": -2.8,
         "direction": "flat"
       },
-      "probability": 47.4
+      "probability": 46.7
     },
     {
       "id": "abelardo_espriella",
@@ -42,31 +42,31 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.6
+      "probability": 53.3
     }
   ],
   "articles": [
     {
-      "title": "El opositor Juan Sebastián Chamorro pide a la Unión Europea ampliar las sanciones contra el régimen de Nicaragua",
-      "link": "https://www.infobae.com/nicaragua/2026/10/17/el-opositor-juan-sebastian-chamorro-pide-a-la-union-europea-ampliar-las-sanciones-contra-el-regimen-de-nicaragua/",
+      "title": "Lula y Flávio Bolsonaro intercambian acusaciones de corrupción en su primer debate para la segunda vuelta",
+      "link": "https://www.infobae.com/america/agencias/2026/10/19/lula-y-flavio-bolsonaro-intercambian-acusaciones-de-corrupcion-en-su-primer-debate-para-la-segunda-vuelta/",
       "source": "Infobae",
-      "pubDate": "Sun, 18 Oct 2026 21:54:40 +0000",
+      "pubDate": "Mon, 19 Oct 2026 03:45:38 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Partido Conservador no hará coaliciones con opositores al gobierno de De La Espriella y tampoco con quienes hayan votado por Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/partido-conservador-no-hara-coaliciones-con-opositores-al-gobierno-de-de-la-espriella-y-tampoco-con-quienes-hayan-votado-por-ivan-cepeda-3594387",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-18T08:35:39-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Debate en Brasil: una batalla campal en la que el temple de Bolsonaro prevaleció ante un exaltado Lula",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261019-debate-en-brasil-una-batalla-campal-en-la-que-el-temple-de-bolsonaro-prevaleci%C3%B3-ante-un-exaltado-lula",
+      "source": "France 24",
+      "pubDate": "Mon, 19 Oct 2026 02:51:11 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Colombia registró protestas por el retiro de obras sobre diversidad sexual, feminismo y paz del Museo Nacional",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261018-colombia-registr%C3%B3-protestas-por-el-retiro-de-obras-sobre-diversidad-sexual-feminismo-y-paz-del-museo-nacional",
-      "source": "France 24",
-      "pubDate": "Sun, 18 Oct 2026 01:57:24 GMT",
+      "title": "Abelardo De La Espriella anunció medidas ante presuntas irregularidades en el Hospital Departamental de San Andrés: 'Sin privilegios ni excepciones'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-anuncio-medidas-ante-presuntas-irregularidades-en-el-hospital-departamental-de-san-andres-sin-privilegios-ni-excepciones-3594485",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-18T21:04:16-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
