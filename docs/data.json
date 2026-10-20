@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-20T16:35:40.275Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-10-20T21:24:57.704Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 2,
+      "trendsScore": 4,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 35.9
       },
       "youtubeViews": 7128,
-      "finalScore": 35,
+      "finalScore": 36,
       "momentum": {
-        "value": 0,
+        "value": 2.9,
         "direction": "flat"
       },
-      "probability": 46.7
+      "probability": 47.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,25 +42,49 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 53.3
+      "probability": 52.6
     }
   ],
   "articles": [
     {
-      "title": "Presidente de la Cámara, Nicolás Barguil, defiende las garantías en la aprobación del Presupuesto de 2027 y confirma que no habrá conciliación",
-      "link": "https://www.eltiempo.com/politica/congreso/presidente-de-la-camara-nicolas-barguil-defiende-las-garantias-en-la-aprobacion-del-presupuesto-de-2027-y-confirma-que-no-habra-conciliacion-3594842",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-20T08:10:44-05:00",
+      "title": "Para Lula, la soberanía de Brasil está en juego en las elecciones",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/20/para-lula-la-soberania-de-brasil-esta-en-juego-en-las-elecciones/",
+      "source": "Infobae",
+      "pubDate": "Tue, 20 Oct 2026 21:21:34 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Angie Rodríguez y Benedetti, a indagación por “Pacto de Valledupar”",
+      "link": "https://www.lasillavacia.com/en-vivo/angie-rodriguez-y-benedetti-a-indagacion-por-pacto-de-valledupar/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 20 Oct 2026 20:28:01 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella se pronunció tras aprobación del Presupuesto General 2027 y agradeció al Congreso: 'Momento decisivo'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-agradece-al-congreso-la-aprobacion-del-presupuesto-general-2027-reconocimiento-especial-por-su-patriotismo-3594829",
+      "title": "Elecciones Brasil 2026: ¿cómo impactan a la Amazonía?",
+      "link": "https://www.france24.com/es/video/20261020-elecciones-brasil-2026-c%C3%B3mo-impactan-a-la-amazon%C3%ADa",
+      "source": "France 24",
+      "pubDate": "Tue, 20 Oct 2026 20:09:41 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella insiste en la fumigación de cultivos ilícitos: ‘Nada ganamos si incautamos, pero no combatimos la raíz’",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-insiste-en-la-fumigacion-de-cultivos-ilicitos-nada-ganamos-si-incautamos-pero-no-combatimos-la-raiz-3594969",
       "source": "El Tiempo",
-      "pubDate": "2026-10-20T07:03:04-05:00",
+      "pubDate": "2026-10-20T13:45:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Elecciones en Brasil: Lula adelanta los pagos de su emblemático programa social antes del balotaje",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261020-elecciones-en-brasil-lula-adelanta-los-pagos-de-su-emblem%C3%A1tico-programa-social-antes-del-balotaje",
+      "source": "France 24",
+      "pubDate": "Tue, 20 Oct 2026 16:55:27 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
