@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T11:10:05.262Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-10-20T16:35:40.275Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Senado aprueba presupuesto de Abelardo, y Cámara debate a medianoche",
-      "link": "https://www.lasillavacia.com/en-vivo/senado-aprueba-presupuesto-de-abelardo-y-camara-debate-a-medianoche/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 20 Oct 2026 05:14:39 +0000",
+      "title": "Presidente de la Cámara, Nicolás Barguil, defiende las garantías en la aprobación del Presupuesto de 2027 y confirma que no habrá conciliación",
+      "link": "https://www.eltiempo.com/politica/congreso/presidente-de-la-camara-nicolas-barguil-defiende-las-garantias-en-la-aprobacion-del-presupuesto-de-2027-y-confirma-que-no-habra-conciliacion-3594842",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-20T08:10:44-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "“Que se conozca todo”: Petro niega declaraciones de Mancuso ",
-      "link": "https://www.lasillavacia.com/en-vivo/que-se-conozca-todo-petro-niega-declaraciones-de-mancuso/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 19 Oct 2026 23:28:13 +0000",
+      "title": "Presidente Abelardo De La Espriella se pronunció tras aprobación del Presupuesto General 2027 y agradeció al Congreso: 'Momento decisivo'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-agradece-al-congreso-la-aprobacion-del-presupuesto-general-2027-reconocimiento-especial-por-su-patriotismo-3594829",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-20T07:03:04-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
