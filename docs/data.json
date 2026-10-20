@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T04:06:42.879Z",
+  "updatedAt": "2026-10-20T11:10:05.262Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,28 +47,20 @@
   ],
   "articles": [
     {
+      "title": "Senado aprueba presupuesto de Abelardo, y Cámara debate a medianoche",
+      "link": "https://www.lasillavacia.com/en-vivo/senado-aprueba-presupuesto-de-abelardo-y-camara-debate-a-medianoche/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 20 Oct 2026 05:14:39 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "“Que se conozca todo”: Petro niega declaraciones de Mancuso ",
       "link": "https://www.lasillavacia.com/en-vivo/que-se-conozca-todo-petro-niega-declaraciones-de-mancuso/",
       "source": "La Silla Vacía",
       "pubDate": "Mon, 19 Oct 2026 23:28:13 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Benedetti le respondió al presidente Abelardo De La Espriella por sus declaraciones sobre presuntas exigencias del gobierno Petro a exparamilitares",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/benedetti-le-respondio-al-presidente-abelardo-de-la-espriella-por-sus-declaraciones-sobre-presuntas-exigencias-del-gobierno-petro-a-exparamilitares-3594685",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-19T16:32:15-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Medio ambiente, extractivismo y Amazonía: qué se juega Brasil en la contienda entre Bolsonaro y Lula",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261019-medio-ambiente-extractivismo-y-amazon%C3%ADa-qu%C3%A9-se-juega-brasil-en-la-contienda-entre-lula-y-bolsonaro",
-      "source": "France 24",
-      "pubDate": "Mon, 19 Oct 2026 19:26:41 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
