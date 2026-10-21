@@ -1,34 +1,13 @@
 {
-  "updatedAt": "2026-10-21T18:31:23.506Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-10-21T23:06:26.834Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 13,
-      "youtubeScore": 100,
-      "sentimentScore": 15,
-      "sentimentPct": {
-        "positive": 15.4,
-        "negative": 48.7,
-        "neutral": 35.9
-      },
-      "youtubeViews": 7128,
-      "finalScore": 40,
-      "momentum": {
-        "value": 0,
-        "direction": "flat"
-      },
-      "probability": 50
-    },
-    {
-      "id": "abelardo_espriella",
-      "name": "Abelardo de la Espriella",
-      "party": "Defensores de la Patria",
-      "color": "#1D3557",
-      "trendsScore": 100,
+      "trendsScore": 9,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -37,46 +16,67 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 40,
+      "finalScore": 4,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -90,
+        "direction": "down"
       },
-      "probability": 50
+      "probability": 4.4
+    },
+    {
+      "id": "abelardo_espriella",
+      "name": "Abelardo de la Espriella",
+      "party": "Defensores de la Patria",
+      "color": "#1D3557",
+      "trendsScore": 100,
+      "youtubeScore": 100,
+      "sentimentScore": 58,
+      "sentimentPct": {
+        "positive": 58,
+        "negative": 22,
+        "neutral": 20
+      },
+      "youtubeViews": 69182,
+      "finalScore": 87,
+      "momentum": {
+        "value": 117.5,
+        "direction": "up"
+      },
+      "probability": 95.6
     }
   ],
   "articles": [
     {
-      "title": "Salvatore Mancuso confirmó que exasesor de Gustavo Petro lo buscó para golpear la candidatura presidencial de Abelardo de La Espriella: así era la estrategia ",
-      "link": "https://www.infobae.com/colombia/2026/10/21/salvatore-mancuso-confirmo-que-exasesor-de-gustavo-petro-lo-busco-para-golpear-la-candidatura-presidencial-de-abelardo-de-la-espriella-asi-era-la-estrategia/",
+      "title": "Paloma Valencia cuestionó a Iván Cepeda tras reconocer corrupción en el gobierno Petro: “Los hechos no se manipulan”   ",
+      "link": "https://www.infobae.com/colombia/2026/10/21/paloma-valencia-cuestiono-a-ivan-cepeda-tras-reconocer-corrupcion-en-el-gobierno-petro-los-hechos-no-se-manipulan/",
       "source": "Infobae",
-      "pubDate": "Wed, 21 Oct 2026 18:24:36 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Wed, 21 Oct 2026 22:25:36 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "El voto del algoritmo en Brasil: ¿qué rol juega la IA?",
+      "link": "https://www.france24.com/es/programas/en-contexto/20261021-el-voto-del-algoritmo-en-brasil-qu%C3%A9-rol-juega-la-ia",
+      "source": "France 24",
+      "pubDate": "Wed, 21 Oct 2026 20:02:05 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Arrancó el debate de Ley de Sometimiento. Negado el archivo",
+      "link": "https://www.lasillavacia.com/en-vivo/arranco-el-debate-de-ley-de-sometimiento-negado-el-archivo/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 21 Oct 2026 19:39:38 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Gobierno de Abelardo De La Espriella confirma que expedirá el presupuesto por decreto tras error de trámite legislativo",
       "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-confirma-que-expedira-el-presupuesto-por-decreto-tras-error-de-tramite-legislativo-3595183",
       "source": "El Tiempo",
-      "pubDate": "2026-10-21T11:35:43-05:00",
+      "pubDate": "2026-10-21T13:40:03-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella anuncia el traslado de 91 presos y el decomiso de elementos prohibidos en cárceles de Santander: 'Son para cumplir condenas'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-anuncia-el-traslado-de-91-presos-y-el-decomiso-de-elementos-prohibidos-en-carceles-de-santander-son-para-cumplir-condenas-3595089",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-21T04:34:35-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Economía o seguridad: Lula y Flávio Bolsonaro apuntalan sus estrategias para el balotaje en Brasil",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261021-econom%C3%ADa-o-seguridad-lula-y-fl%C3%A1vio-bolsonaro-apuntalan-sus-estrategias-para-el-balotaje-en-brasil",
-      "source": "France 24",
-      "pubDate": "Wed, 21 Oct 2026 00:53:41 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
