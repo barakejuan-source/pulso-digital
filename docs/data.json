@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-21T00:28:15.912Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-10-21T07:18:35.977Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 13,
       "youtubeScore": 100,
       "sentimentScore": 15,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 35.9
       },
       "youtubeViews": 7128,
-      "finalScore": 36,
+      "finalScore": 40,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": 11.1,
+        "direction": "up"
       },
-      "probability": 47.4
+      "probability": 50
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,15 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 52.6
+      "probability": 50
     }
   ],
   "articles": [
     {
-      "title": "Flávio Bolsonaro convocó a 400 influenciadores para captar indecisos a cinco días del balotaje en Brasil",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/21/flavio-bolsonaro-convoco-a-400-influenciadores-para-captar-indecisos-a-cinco-dias-del-balotaje-en-brasil/",
-      "source": "Infobae",
-      "pubDate": "Wed, 21 Oct 2026 00:13:32 +0000",
+      "title": "Economía o seguridad: Lula y Flávio Bolsonaro apuntalan sus estrategias para el balotaje en Brasil",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261021-econom%C3%ADa-o-seguridad-lula-y-fl%C3%A1vio-bolsonaro-apuntalan-sus-estrategias-para-el-balotaje-en-brasil",
+      "source": "France 24",
+      "pubDate": "Wed, 21 Oct 2026 00:53:41 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -63,26 +63,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Angie Rodríguez y Benedetti, a indagación por “Pacto de Valledupar”",
-      "link": "https://www.lasillavacia.com/en-vivo/angie-rodriguez-y-benedetti-a-indagacion-por-pacto-de-valledupar/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 20 Oct 2026 20:28:01 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Elecciones Brasil 2026: ¿cómo impactan a la Amazonía?",
       "link": "https://www.france24.com/es/video/20261020-elecciones-brasil-2026-c%C3%B3mo-impactan-a-la-amazon%C3%ADa",
       "source": "France 24",
       "pubDate": "Tue, 20 Oct 2026 20:09:41 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones en Brasil: Lula adelanta los pagos de su emblemático programa social antes del balotaje",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261020-elecciones-en-brasil-lula-adelanta-los-pagos-de-su-emblem%C3%A1tico-programa-social-antes-del-balotaje",
-      "source": "France 24",
-      "pubDate": "Tue, 20 Oct 2026 16:55:27 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
