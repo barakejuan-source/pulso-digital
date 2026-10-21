@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T13:36:44.630Z",
+  "updatedAt": "2026-10-21T18:31:23.506Z",
   "trendsFresh": false,
   "candidates": [
     {
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Desayune informado con las claves de este 21 de octubre de 2026",
-      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-21-de-octubre-de-2026/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 21 Oct 2026 12:20:00 +0000",
+      "title": "Salvatore Mancuso confirmó que exasesor de Gustavo Petro lo buscó para golpear la candidatura presidencial de Abelardo de La Espriella: así era la estrategia ",
+      "link": "https://www.infobae.com/colombia/2026/10/21/salvatore-mancuso-confirmo-que-exasesor-de-gustavo-petro-lo-busco-para-golpear-la-candidatura-presidencial-de-abelardo-de-la-espriella-asi-era-la-estrategia/",
+      "source": "Infobae",
+      "pubDate": "Wed, 21 Oct 2026 18:24:36 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo De La Espriella confirma que expedirá el presupuesto por decreto tras error de trámite legislativo",
+      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-confirma-que-expedira-el-presupuesto-por-decreto-tras-error-de-tramite-legislativo-3595183",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-21T11:35:43-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,14 +75,6 @@
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261021-econom%C3%ADa-o-seguridad-lula-y-fl%C3%A1vio-bolsonaro-apuntalan-sus-estrategias-para-el-balotaje-en-brasil",
       "source": "France 24",
       "pubDate": "Wed, 21 Oct 2026 00:53:41 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones Brasil 2026: ¿cómo impactan a la Amazonía?",
-      "link": "https://www.france24.com/es/video/20261020-elecciones-brasil-2026-c%C3%B3mo-impactan-a-la-amazon%C3%ADa",
-      "source": "France 24",
-      "pubDate": "Tue, 20 Oct 2026 20:09:41 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
