@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-20T21:24:57.704Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-10-21T00:28:15.912Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 7128,
       "finalScore": 36,
       "momentum": {
-        "value": 2.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 47.4
@@ -47,12 +47,20 @@
   ],
   "articles": [
     {
-      "title": "Para Lula, la soberanía de Brasil está en juego en las elecciones",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/20/para-lula-la-soberania-de-brasil-esta-en-juego-en-las-elecciones/",
+      "title": "Flávio Bolsonaro convocó a 400 influenciadores para captar indecisos a cinco días del balotaje en Brasil",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/21/flavio-bolsonaro-convoco-a-400-influenciadores-para-captar-indecisos-a-cinco-dias-del-balotaje-en-brasil/",
       "source": "Infobae",
-      "pubDate": "Tue, 20 Oct 2026 21:21:34 +0000",
+      "pubDate": "Wed, 21 Oct 2026 00:13:32 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella insiste en la fumigación de cultivos ilícitos: ‘Nada ganamos si incautamos, pero no combatimos la raíz’",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-insiste-en-la-fumigacion-de-cultivos-ilicitos-nada-ganamos-si-incautamos-pero-no-combatimos-la-raiz-3594969",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-20T16:48:13-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Angie Rodríguez y Benedetti, a indagación por “Pacto de Valledupar”",
@@ -69,14 +77,6 @@
       "pubDate": "Tue, 20 Oct 2026 20:09:41 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella insiste en la fumigación de cultivos ilícitos: ‘Nada ganamos si incautamos, pero no combatimos la raíz’",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-insiste-en-la-fumigacion-de-cultivos-ilicitos-nada-ganamos-si-incautamos-pero-no-combatimos-la-raiz-3594969",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-20T13:45:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Elecciones en Brasil: Lula adelanta los pagos de su emblemático programa social antes del balotaje",
