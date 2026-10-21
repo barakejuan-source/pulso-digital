@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-21T07:18:35.977Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-10-21T13:36:44.630Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,8 +18,8 @@
       "youtubeViews": 7128,
       "finalScore": 40,
       "momentum": {
-        "value": 11.1,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 50
     },
@@ -47,20 +47,28 @@
   ],
   "articles": [
     {
+      "title": "Desayune informado con las claves de este 21 de octubre de 2026",
+      "link": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-21-de-octubre-de-2026/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 21 Oct 2026 12:20:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella anuncia el traslado de 91 presos y el decomiso de elementos prohibidos en cárceles de Santander: 'Son para cumplir condenas'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-anuncia-el-traslado-de-91-presos-y-el-decomiso-de-elementos-prohibidos-en-carceles-de-santander-son-para-cumplir-condenas-3595089",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-21T04:34:35-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Economía o seguridad: Lula y Flávio Bolsonaro apuntalan sus estrategias para el balotaje en Brasil",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261021-econom%C3%ADa-o-seguridad-lula-y-fl%C3%A1vio-bolsonaro-apuntalan-sus-estrategias-para-el-balotaje-en-brasil",
       "source": "France 24",
       "pubDate": "Wed, 21 Oct 2026 00:53:41 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella insiste en la fumigación de cultivos ilícitos: ‘Nada ganamos si incautamos, pero no combatimos la raíz’",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-insiste-en-la-fumigacion-de-cultivos-ilicitos-nada-ganamos-si-incautamos-pero-no-combatimos-la-raiz-3594969",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-20T16:48:13-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Elecciones Brasil 2026: ¿cómo impactan a la Amazonía?",
