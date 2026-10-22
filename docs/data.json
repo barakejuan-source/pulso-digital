@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T03:55:35.476Z",
+  "updatedAt": "2026-10-22T09:17:20.286Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 2,
       "momentum": {
-        "value": -50,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 2.2
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Sorpresivo relevo en el Ministerio del Interior: ¿qué hay detrás de la salida de Rodrigo Lara y la llegada de Alejandro Ordóñez?",
+      "link": "https://www.eltiempo.com/politica/gobierno/la-sorpresiva-relevo-en-el-ministerio-del-interior-que-hay-detras-de-la-salida-de-rodrigo-lara-y-la-llegada-de-alejandro-ordonez-3595373",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-21T22:56:11-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Perfil de Alejandro Ordóñez, el controversial exprocurador que será el nuevo ministro del Interior del gobierno de Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/gobierno/perfil-de-alejandro-ordonez-el-controversial-exprocurador-que-sera-el-nuevo-ministro-del-interior-del-gobierno-de-abelardo-de-la-espriella-3595370",
       "source": "El Tiempo",
@@ -69,14 +77,6 @@
       "pubDate": "Thu, 22 Oct 2026 02:19:18 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El voto del algoritmo en Brasil: ¿qué rol juega la IA?",
-      "link": "https://www.france24.com/es/programas/en-contexto/20261021-el-voto-del-algoritmo-en-brasil-qu%C3%A9-rol-juega-la-ia",
-      "source": "France 24",
-      "pubDate": "Wed, 21 Oct 2026 20:02:05 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
