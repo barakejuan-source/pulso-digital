@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T09:17:20.286Z",
+  "updatedAt": "2026-10-22T14:58:06.803Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Sorpresivo relevo en el Ministerio del Interior: ¿qué hay detrás de la salida de Rodrigo Lara y la llegada de Alejandro Ordóñez?",
-      "link": "https://www.eltiempo.com/politica/gobierno/la-sorpresiva-relevo-en-el-ministerio-del-interior-que-hay-detras-de-la-salida-de-rodrigo-lara-y-la-llegada-de-alejandro-ordonez-3595373",
+      "title": "Este es el primer video en la cárcel del hombre capturado por amenazar a la primera dama, Ana Lucía Pineda, y a la familia del presidente Abelardo de la Espriella ",
+      "link": "https://www.infobae.com/colombia/2026/10/22/este-es-el-primer-video-en-la-carcel-del-hombre-capturado-por-amenazar-a-la-primera-dama-ana-lucia-pineda-y-a-la-familia-del-presidente-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Thu, 22 Oct 2026 14:50:49 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Carlos Suárez, el poderoso asesor de Abelardo de la Espriella, le dio la bienvenida a Alejandro Ordóñez como nuevo ministro del Interior, en reemplazo de Rodrigo Lara: “Abran paso”",
+      "link": "https://www.infobae.com/colombia/2026/10/22/carlos-suarez-el-poderoso-asesor-de-abelardo-de-la-espriella-le-dio-la-bienvenida-a-alejandro-ordonez-como-nuevo-ministro-del-interior-en-reemplazo-de-rodrigo-lara-abran-paso/",
+      "source": "Infobae",
+      "pubDate": "Thu, 22 Oct 2026 14:50:28 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Congresista del Pacto Histórico aseguró que sacaron a Rodrigo Lara del Ministerio del Interior por hablar bien del asesinado candidato presidencial de la izquierda Bernardo Jaramillo: “Era un gran hombre”",
+      "link": "https://www.infobae.com/colombia/2026/10/22/congresista-del-pacto-historico-aseguro-que-sacaron-a-rodrigo-lara-del-ministerio-del-interior-por-hablar-bien-del-asesinado-candidato-presidencial-de-la-izquierda-bernardo-jaramillo-era-un-gran-hombre/",
+      "source": "Infobae",
+      "pubDate": "Thu, 22 Oct 2026 14:42:07 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella ordenó bombardear al ELN en Nariño: van 8 guerrilleros muertos, según reporte preliminar",
+      "link": "https://www.infobae.com/colombia/2026/10/22/abelardo-de-la-espriella-ordeno-bombardear-al-eln-en-narino-van-8-guerrilleros-muertos-segun-reporte-preliminar/",
+      "source": "Infobae",
+      "pubDate": "Thu, 22 Oct 2026 14:30:53 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Así reaccionó el Congreso a la salida de Rodrigo Lara en pleno debate de la ley de sometimiento: ‘El país necesita estabilidad’",
+      "link": "https://www.eltiempo.com/politica/congreso/asi-reacciono-el-congreso-a-la-salida-de-rodrigo-lara-en-pleno-debate-de-la-ley-de-sometimiento-el-pais-necesita-estabilidad-3595391",
       "source": "El Tiempo",
-      "pubDate": "2026-10-21T22:56:11-05:00",
+      "pubDate": "2026-10-22T07:10:45-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,7 +90,15 @@
       "title": "Perfil de Alejandro Ordóñez, el controversial exprocurador que será el nuevo ministro del Interior del gobierno de Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/gobierno/perfil-de-alejandro-ordonez-el-controversial-exprocurador-que-sera-el-nuevo-ministro-del-interior-del-gobierno-de-abelardo-de-la-espriella-3595370",
       "source": "El Tiempo",
-      "pubDate": "2026-10-21T22:37:41-05:00",
+      "pubDate": "2026-10-22T06:13:29-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Sorpresivo relevo en el Ministerio del Interior: ¿qué hay detrás de la salida de Rodrigo Lara y la llegada de Alejandro Ordóñez?",
+      "link": "https://www.eltiempo.com/politica/gobierno/la-sorpresiva-relevo-en-el-ministerio-del-interior-que-hay-detras-de-la-salida-de-rodrigo-lara-y-la-llegada-de-alejandro-ordonez-3595373",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-21T22:56:11-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -69,14 +109,6 @@
       "pubDate": "Thu, 22 Oct 2026 02:30:20 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Sale Rodrigo Lara de MinInterior luego de hundirse el presupuesto en el Congreso",
-      "link": "https://www.lasillavacia.com/en-vivo/sale-rodrigo-lara-de-mininterior-luego-de-hundirse-el-presupuesto-en-el-congreso/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 22 Oct 2026 02:19:18 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
