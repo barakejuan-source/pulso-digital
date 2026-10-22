@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T19:51:22.578Z",
+  "updatedAt": "2026-10-22T23:04:42.433Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,34 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Flavio Bolsonaro le pidió a Patricia Bullrich un video de apoyo a días del balotaje en Brasil",
-      "link": "https://www.infobae.com/politica/2026/10/22/flavio-bolsonaro-le-pidio-a-patricia-bullrich-un-video-de-apoyo-a-dias-del-balotaje-en-brasil/",
+      "title": "Rafael Nieto salió en defensa de Iván Cepeda e Isabel Zuleta tras la votación de la ley de sometimiento: “Es una soberana tontería”",
+      "link": "https://www.infobae.com/colombia/2026/10/22/rafael-nieto-salio-en-defensa-de-ivan-cepeda-e-isabel-zuleta-tras-la-votacion-de-la-ley-de-sometimiento-es-una-soberana-tonteria/",
       "source": "Infobae",
-      "pubDate": "Thu, 22 Oct 2026 19:43:50 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Thu, 22 Oct 2026 22:56:22 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "El 18 de diciembre inicia el juicio a Roberto Sánchez: Fiscalía pide más de 5 años de prisión",
-      "link": "https://www.infobae.com/peru/2026/10/22/el-18-de-diciembre-inicia-el-juicio-a-roberto-sanchez-fiscalia-pide-mas-de-5-anos-de-prision/",
-      "source": "Infobae",
-      "pubDate": "Thu, 22 Oct 2026 19:35:44 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Capturaron a ‘Kevin Masacre’, señalado sucesor de ‘Bendito Menor’ en las Autodefensas Conquistadoras de la Sierra Nevada",
-      "link": "https://www.infobae.com/colombia/2026/10/22/capturaron-a-kevin-masacre-senalado-sucesor-de-bendito-menor-en-las-autodefensas-conquistadoras-de-la-sierra-nevada/",
-      "source": "Infobae",
-      "pubDate": "Thu, 22 Oct 2026 19:13:14 +0000",
+      "title": "Bombardeo en El Tambo, Cauca, deja nueve muertos del Eln: entre ellos estaría alias 'Marcos Pacífico', cabecilla del Frente de Guerra Suroccidental",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/bombardeo-en-el-tambo-cauca-deja-nueve-muertos-del-eln-entre-ellos-estaria-alias-marcos-pacifico-cabecilla-del-frente-de-guerra-suroccidental-3595588",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-22T17:49:24-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Departamento de Historia y Geografía de la Universidad de los Andes expresó su preocupación por la llamada “batalla cultural” que habría emprendido el gobierno de Abelardo de la Espriella: “Reducen discusiones históricas y culturales complejas a términos superficiales” ",
-      "link": "https://www.infobae.com/colombia/2026/10/22/departamento-de-historia-y-geografia-de-la-universidad-de-los-andes-expreso-su-preocupacion-por-la-llamada-batalla-cultural-que-habria-emprendido-el-gobierno-de-abelardo-de-la-espriella-reducen-discusiones-historicas-y-culturales-complejas-a-terminos-superficiales/",
-      "source": "Infobae",
-      "pubDate": "Thu, 22 Oct 2026 19:12:48 +0000",
+      "title": "‘Proceda, general’: el presidente Abelardo De La Espriella revela video de la orden de bombardeo contra el Eln y anuncia golpe a sus finanzas",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/proceda-general-el-presidente-abelardo-de-la-espriella-revela-video-de-la-orden-de-bombardeo-contra-el-eln-y-anuncia-golpe-a-sus-finanzas-3595611",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-22T17:13:56-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Juvenal Infante será el embajador en China del gobierno de Abelardo De La Espriella: Presidencia publicó hoja de vida",
+      "link": "https://www.eltiempo.com/politica/gobierno/juvenal-infante-sera-el-embajador-en-china-del-gobierno-de-abelardo-de-la-espriella-presidencia-publico-hoja-de-vida-3595612",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-22T16:16:44-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Los 10 puntos de la carta de renuncia que Rodrigo Lara envió al presidente Abelardo De La Espriella antes de dejar el Ministerio del Interior",
+      "link": "https://www.eltiempo.com/politica/gobierno/los-10-puntos-de-la-carta-de-renuncia-que-rodrigo-lara-envio-al-presidente-abelardo-de-la-espriella-antes-de-dejar-el-ministerio-del-interior-3595598",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-22T16:06:25-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -109,22 +117,6 @@
       "pubDate": "Thu, 22 Oct 2026 17:34:50 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Carlos Suárez celebra la llegada de Alejandro Ordóñez al Mininterior: 'Hace ocho años empezamos la batalla y el destino nos vuelve a juntar'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/carlos-suarez-celebra-la-llegada-de-alejandro-ordonez-al-mininterior-hace-ocho-anos-empezamos-la-batalla-y-el-destino-nos-vuelve-a-juntar-3595506",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-22T12:21:26-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así reaccionó el Congreso a la salida de Rodrigo Lara en pleno debate de la ley de sometimiento: ‘El país necesita estabilidad’",
-      "link": "https://www.eltiempo.com/politica/congreso/asi-reacciono-el-congreso-a-la-salida-de-rodrigo-lara-en-pleno-debate-de-la-ley-de-sometimiento-el-pais-necesita-estabilidad-3595391",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-22T07:10:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
