@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T23:06:26.834Z",
+  "updatedAt": "2026-10-22T03:55:35.476Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 6,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 4,
+      "finalScore": 2,
       "momentum": {
-        "value": -90,
-        "direction": "down"
+        "value": -50,
+        "direction": "flat"
       },
-      "probability": 4.4
+      "probability": 2.2
     },
     {
       "id": "abelardo_espriella",
@@ -39,20 +39,36 @@
       "youtubeViews": 69182,
       "finalScore": 87,
       "momentum": {
-        "value": 117.5,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 95.6
+      "probability": 97.8
     }
   ],
   "articles": [
     {
-      "title": "Paloma Valencia cuestionó a Iván Cepeda tras reconocer corrupción en el gobierno Petro: “Los hechos no se manipulan”   ",
-      "link": "https://www.infobae.com/colombia/2026/10/21/paloma-valencia-cuestiono-a-ivan-cepeda-tras-reconocer-corrupcion-en-el-gobierno-petro-los-hechos-no-se-manipulan/",
-      "source": "Infobae",
-      "pubDate": "Wed, 21 Oct 2026 22:25:36 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Perfil de Alejandro Ordóñez, el controversial exprocurador que será el nuevo ministro del Interior del gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/perfil-de-alejandro-ordonez-el-controversial-exprocurador-que-sera-el-nuevo-ministro-del-interior-del-gobierno-de-abelardo-de-la-espriella-3595370",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-21T22:37:41-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La batalla de los simpatizantes de Lula por conquistar el voto en blanco y nulo",
+      "link": "https://www.france24.com/es/video/20261022-la-batalla-de-los-simpatizantes-de-lula-por-conquistar-el-voto-en-blanco-y-nulo",
+      "source": "France 24",
+      "pubDate": "Thu, 22 Oct 2026 02:30:20 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Sale Rodrigo Lara de MinInterior luego de hundirse el presupuesto en el Congreso",
+      "link": "https://www.lasillavacia.com/en-vivo/sale-rodrigo-lara-de-mininterior-luego-de-hundirse-el-presupuesto-en-el-congreso/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 22 Oct 2026 02:19:18 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "El voto del algoritmo en Brasil: ¿qué rol juega la IA?",
@@ -61,22 +77,6 @@
       "pubDate": "Wed, 21 Oct 2026 20:02:05 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Arrancó el debate de Ley de Sometimiento. Negado el archivo",
-      "link": "https://www.lasillavacia.com/en-vivo/arranco-el-debate-de-ley-de-sometimiento-negado-el-archivo/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 21 Oct 2026 19:39:38 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella confirma que expedirá el presupuesto por decreto tras error de trámite legislativo",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-confirma-que-expedira-el-presupuesto-por-decreto-tras-error-de-tramite-legislativo-3595183",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-21T13:40:03-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
