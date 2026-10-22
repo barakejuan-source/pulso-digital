@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T14:58:06.803Z",
+  "updatedAt": "2026-10-22T19:51:22.578Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,34 +47,74 @@
   ],
   "articles": [
     {
-      "title": "Este es el primer video en la cárcel del hombre capturado por amenazar a la primera dama, Ana Lucía Pineda, y a la familia del presidente Abelardo de la Espriella ",
-      "link": "https://www.infobae.com/colombia/2026/10/22/este-es-el-primer-video-en-la-carcel-del-hombre-capturado-por-amenazar-a-la-primera-dama-ana-lucia-pineda-y-a-la-familia-del-presidente-abelardo-de-la-espriella/",
+      "title": "Flavio Bolsonaro le pidió a Patricia Bullrich un video de apoyo a días del balotaje en Brasil",
+      "link": "https://www.infobae.com/politica/2026/10/22/flavio-bolsonaro-le-pidio-a-patricia-bullrich-un-video-de-apoyo-a-dias-del-balotaje-en-brasil/",
       "source": "Infobae",
-      "pubDate": "Thu, 22 Oct 2026 14:50:49 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Carlos Suárez, el poderoso asesor de Abelardo de la Espriella, le dio la bienvenida a Alejandro Ordóñez como nuevo ministro del Interior, en reemplazo de Rodrigo Lara: “Abran paso”",
-      "link": "https://www.infobae.com/colombia/2026/10/22/carlos-suarez-el-poderoso-asesor-de-abelardo-de-la-espriella-le-dio-la-bienvenida-a-alejandro-ordonez-como-nuevo-ministro-del-interior-en-reemplazo-de-rodrigo-lara-abran-paso/",
-      "source": "Infobae",
-      "pubDate": "Thu, 22 Oct 2026 14:50:28 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Congresista del Pacto Histórico aseguró que sacaron a Rodrigo Lara del Ministerio del Interior por hablar bien del asesinado candidato presidencial de la izquierda Bernardo Jaramillo: “Era un gran hombre”",
-      "link": "https://www.infobae.com/colombia/2026/10/22/congresista-del-pacto-historico-aseguro-que-sacaron-a-rodrigo-lara-del-ministerio-del-interior-por-hablar-bien-del-asesinado-candidato-presidencial-de-la-izquierda-bernardo-jaramillo-era-un-gran-hombre/",
-      "source": "Infobae",
-      "pubDate": "Thu, 22 Oct 2026 14:42:07 +0000",
+      "pubDate": "Thu, 22 Oct 2026 19:43:50 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Abelardo de la Espriella ordenó bombardear al ELN en Nariño: van 8 guerrilleros muertos, según reporte preliminar",
-      "link": "https://www.infobae.com/colombia/2026/10/22/abelardo-de-la-espriella-ordeno-bombardear-al-eln-en-narino-van-8-guerrilleros-muertos-segun-reporte-preliminar/",
+      "title": "El 18 de diciembre inicia el juicio a Roberto Sánchez: Fiscalía pide más de 5 años de prisión",
+      "link": "https://www.infobae.com/peru/2026/10/22/el-18-de-diciembre-inicia-el-juicio-a-roberto-sanchez-fiscalia-pide-mas-de-5-anos-de-prision/",
       "source": "Infobae",
-      "pubDate": "Thu, 22 Oct 2026 14:30:53 +0000",
+      "pubDate": "Thu, 22 Oct 2026 19:35:44 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Capturaron a ‘Kevin Masacre’, señalado sucesor de ‘Bendito Menor’ en las Autodefensas Conquistadoras de la Sierra Nevada",
+      "link": "https://www.infobae.com/colombia/2026/10/22/capturaron-a-kevin-masacre-senalado-sucesor-de-bendito-menor-en-las-autodefensas-conquistadoras-de-la-sierra-nevada/",
+      "source": "Infobae",
+      "pubDate": "Thu, 22 Oct 2026 19:13:14 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Departamento de Historia y Geografía de la Universidad de los Andes expresó su preocupación por la llamada “batalla cultural” que habría emprendido el gobierno de Abelardo de la Espriella: “Reducen discusiones históricas y culturales complejas a términos superficiales” ",
+      "link": "https://www.infobae.com/colombia/2026/10/22/departamento-de-historia-y-geografia-de-la-universidad-de-los-andes-expreso-su-preocupacion-por-la-llamada-batalla-cultural-que-habria-emprendido-el-gobierno-de-abelardo-de-la-espriella-reducen-discusiones-historicas-y-culturales-complejas-a-terminos-superficiales/",
+      "source": "Infobae",
+      "pubDate": "Thu, 22 Oct 2026 19:12:48 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Por qué las “élites” votan por Lula y las “periferias” por Bolsonaro?: ‘Estadão’",
+      "link": "https://www.france24.com/es/programas/revista-de-prensa/20261022-por-qu%C3%A9-las-%C3%A9lites-votan-por-lula-y-las-periferias-por-bolsonaro-estad%C3%A3o",
+      "source": "France 24",
+      "pubDate": "Thu, 22 Oct 2026 18:45:58 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Elecciones presidenciales en Brasil: sigue la cobertura del balotaje",
+      "link": "https://www.france24.com/es/video/20261022-elecciones-presidenciales-en-brasil-sigue-la-cobertura-del-balotaje",
+      "source": "France 24",
+      "pubDate": "Thu, 22 Oct 2026 18:38:55 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Así quedó la ley de sometimiento del gobierno de Abelardo De La Espriella tras su debate en las Comisiones Primera",
+      "link": "https://www.eltiempo.com/politica/congreso/asi-quedo-la-ley-de-sometimiento-del-gobierno-de-abelardo-de-la-espriella-tras-su-debate-en-comisiones-primera-3595519",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-22T12:40:21-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Juez ordena a Meta pagar 25.000 millones de dólares por el caso Cambridge Analytica",
+      "link": "https://www.france24.com/es/video/20261022-juez-ordena-a-meta-pagar-25-000-millones-de-d%C3%B3lares-por-el-caso-cambridge-analytica",
+      "source": "France 24",
+      "pubDate": "Thu, 22 Oct 2026 17:34:50 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Carlos Suárez celebra la llegada de Alejandro Ordóñez al Mininterior: 'Hace ocho años empezamos la batalla y el destino nos vuelve a juntar'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/carlos-suarez-celebra-la-llegada-de-alejandro-ordonez-al-mininterior-hace-ocho-anos-empezamos-la-batalla-y-el-destino-nos-vuelve-a-juntar-3595506",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-22T12:21:26-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -85,30 +125,6 @@
       "pubDate": "2026-10-22T07:10:45-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Perfil de Alejandro Ordóñez, el controversial exprocurador que será el nuevo ministro del Interior del gobierno de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/perfil-de-alejandro-ordonez-el-controversial-exprocurador-que-sera-el-nuevo-ministro-del-interior-del-gobierno-de-abelardo-de-la-espriella-3595370",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-22T06:13:29-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Sorpresivo relevo en el Ministerio del Interior: ¿qué hay detrás de la salida de Rodrigo Lara y la llegada de Alejandro Ordóñez?",
-      "link": "https://www.eltiempo.com/politica/gobierno/la-sorpresiva-relevo-en-el-ministerio-del-interior-que-hay-detras-de-la-salida-de-rodrigo-lara-y-la-llegada-de-alejandro-ordonez-3595373",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-21T22:56:11-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La batalla de los simpatizantes de Lula por conquistar el voto en blanco y nulo",
-      "link": "https://www.france24.com/es/video/20261022-la-batalla-de-los-simpatizantes-de-lula-por-conquistar-el-voto-en-blanco-y-nulo",
-      "source": "France 24",
-      "pubDate": "Thu, 22 Oct 2026 02:30:20 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
