@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T19:53:04.299Z",
+  "updatedAt": "2026-10-23T22:59:09.607Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,26 @@
   ],
   "articles": [
     {
-      "title": "El viceministro de Ambiente Gustavo Adolfo Guerrero figuraba como especialista en un programa que no terminó: tuvieron que actualizar su hoja de vida",
-      "link": "https://www.infobae.com/colombia/2026/10/23/el-viceministro-de-ambiente-gustavo-adolfo-guerrero-figuraba-como-especialista-en-un-programa-que-no-termino-tuvieron-que-actualizar-su-hoja-de-vida/",
-      "source": "Infobae",
-      "pubDate": "Fri, 23 Oct 2026 19:44:44 +0000",
+      "title": "Mensaje que le envió Carlos Suárez, asesor de Abelardo De La Espriella, a Rodrigo Lara tras su salida del Ministerio del Interior: 'Futuro brillante'",
+      "link": "https://www.eltiempo.com/politica/gobierno/el-mensaje-que-le-envio-el-asesor-de-abelardo-de-la-espriella-a-rodrigo-lara-tras-su-salida-del-ministerio-del-interior-un-futuro-brillante-3595903",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-23T17:42:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Petro cuestionó a Abelardo de la Espriella y a Ana Lucía Pineda por donaciones para víctimas del terremoto: “Recursos extraídos del dolor de los colombianos”",
-      "link": "https://www.infobae.com/colombia/2026/10/23/petro-cuestiono-a-abelardo-de-la-espriella-y-ana-lucia-pineda-por-donaciones-para-victimas-del-terremoto-la-familia-presidencial-no-tiene-porque-manejar-recursos-de-manera-privado-extraidos-del-dolor-de-los-colombianos/",
+      "title": "Lula y Flavio Bolsonaro se enfrentan en el debate decisivo antes del balotaje en Brasil",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/23/lula-y-flavio-bolsonaro-se-enfrentan-en-el-debate-decisivo-antes-del-balotaje-en-brasil/",
       "source": "Infobae",
-      "pubDate": "Fri, 23 Oct 2026 19:44:38 +0000",
+      "pubDate": "Fri, 23 Oct 2026 22:11:41 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Sindicato de la Cancillería reclamó al gobierno de Abelardo de la Espriella por crisis en los consulados: “La atención no se mejora con discursos”",
+      "link": "https://www.infobae.com/colombia/2026/10/23/sindicato-de-la-cancilleria-reclamo-al-gobierno-de-abelardo-de-la-espriella-por-crisis-en-los-consulados-la-atencion-no-se-mejora-con-discursos/",
+      "source": "Infobae",
+      "pubDate": "Fri, 23 Oct 2026 21:47:51 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -66,7 +74,7 @@
       "title": "Presidente Abelardo De La Espriella se pronuncia sobre la extradición de alias Mocho Olmedo a Estados Unidos: 'Colombia no es refugio de criminales'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncia-sobre-la-extradicion-de-alias-mocho-olmedo-a-estados-unidos-colombia-no-es-refugio-de-criminales-3595855",
       "source": "El Tiempo",
-      "pubDate": "2026-10-23T14:17:47-05:00",
+      "pubDate": "2026-10-23T14:57:35-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -107,14 +115,6 @@
       "link": "https://www.france24.com/es/programas/el-debate/20261023-fl%C3%A1vio-o-lula-qui%C3%A9n-conquistar%C3%A1-a-los-abstencionistas-en-brasil",
       "source": "France 24",
       "pubDate": "Fri, 23 Oct 2026 14:41:13 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Balotaje en Brasil: ¿continuidad del lulismo o vuelta al bolsonarismo?",
-      "link": "https://www.france24.com/es/video/20261023-balotaje-en-brasil-continuidad-del-lulismo-o-vuelta-al-bolsonarismo",
-      "source": "France 24",
-      "pubDate": "Fri, 23 Oct 2026 14:34:05 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
