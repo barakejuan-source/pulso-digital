@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-23T09:16:33.349Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-10-23T14:46:14.346Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 8,
+      "trendsScore": 6,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 3,
+      "finalScore": 2,
       "momentum": {
-        "value": 0,
+        "value": -33.3,
         "direction": "flat"
       },
-      "probability": 3.3
+      "probability": 2.2
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,26 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 96.7
+      "probability": 97.8
     }
   ],
   "articles": [
+    {
+      "title": "El viceministro de Ambiente Gustavo Adolfo Guerrero figuraba como especialista en un programa que no terminó: tuvieron que actualizar su hoja de vida",
+      "link": "https://www.infobae.com/colombia/2026/10/23/el-viceministro-de-ambiente-gustavo-adolfo-guerrero-figuraba-como-especialista-en-un-programa-que-no-termino-tuvieron-que-actualizar-su-hoja-de-vida/",
+      "source": "Infobae",
+      "pubDate": "Fri, 23 Oct 2026 14:13:36 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "3 claves que explican por qué el duelo final entre Flávio Bolsonaro y Lula en Brasil es crucial para América Latina (y para Trump en EE.UU.)",
+      "link": "https://www.bbc.com/mundo/articles/cqrkyj450rmlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Fri, 23 Oct 2026 11:14:47 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "Presidente Abelardo De La Espriella se pronunció tras anunciar el recorte de $13,8 billones en el gasto del Estado: 'Esto apenas comienza'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-tras-anunciar-el-recorte-de-13-8-billones-en-el-gasto-del-estado-esto-apenas-comienza-3595698",
@@ -77,46 +93,6 @@
       "pubDate": "2026-10-22T17:13:56-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Juvenal Infante será el embajador en China del gobierno de Abelardo De La Espriella: Presidencia publicó hoja de vida",
-      "link": "https://www.eltiempo.com/politica/gobierno/juvenal-infante-sera-el-embajador-en-china-del-gobierno-de-abelardo-de-la-espriella-presidencia-publico-hoja-de-vida-3595612",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-22T16:16:44-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los 10 puntos de la carta de renuncia que Rodrigo Lara envió al presidente Abelardo De La Espriella antes de dejar el Ministerio del Interior",
-      "link": "https://www.eltiempo.com/politica/gobierno/los-10-puntos-de-la-carta-de-renuncia-que-rodrigo-lara-envio-al-presidente-abelardo-de-la-espriella-antes-de-dejar-el-ministerio-del-interior-3595598",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-22T16:06:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Por qué las “élites” votan por Lula y las “periferias” por Bolsonaro?: ‘Estadão’",
-      "link": "https://www.france24.com/es/programas/revista-de-prensa/20261022-por-qu%C3%A9-las-%C3%A9lites-votan-por-lula-y-las-periferias-por-bolsonaro-estad%C3%A3o",
-      "source": "France 24",
-      "pubDate": "Thu, 22 Oct 2026 18:45:58 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones presidenciales en Brasil: sigue la cobertura del balotaje",
-      "link": "https://www.france24.com/es/video/20261022-elecciones-presidenciales-en-brasil-sigue-la-cobertura-del-balotaje",
-      "source": "France 24",
-      "pubDate": "Thu, 22 Oct 2026 18:38:55 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Juez ordena a Meta pagar 25.000 millones de dólares por el caso Cambridge Analytica",
-      "link": "https://www.france24.com/es/video/20261022-juez-ordena-a-meta-pagar-25-000-millones-de-d%C3%B3lares-por-el-caso-cambridge-analytica",
-      "source": "France 24",
-      "pubDate": "Thu, 22 Oct 2026 17:34:50 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
