@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T14:46:14.346Z",
+  "updatedAt": "2026-10-23T19:53:04.299Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 2,
       "momentum": {
-        "value": -33.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 2.2
@@ -50,9 +50,73 @@
       "title": "El viceministro de Ambiente Gustavo Adolfo Guerrero figuraba como especialista en un programa que no terminó: tuvieron que actualizar su hoja de vida",
       "link": "https://www.infobae.com/colombia/2026/10/23/el-viceministro-de-ambiente-gustavo-adolfo-guerrero-figuraba-como-especialista-en-un-programa-que-no-termino-tuvieron-que-actualizar-su-hoja-de-vida/",
       "source": "Infobae",
-      "pubDate": "Fri, 23 Oct 2026 14:13:36 +0000",
+      "pubDate": "Fri, 23 Oct 2026 19:44:44 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Petro cuestionó a Abelardo de la Espriella y a Ana Lucía Pineda por donaciones para víctimas del terremoto: “Recursos extraídos del dolor de los colombianos”",
+      "link": "https://www.infobae.com/colombia/2026/10/23/petro-cuestiono-a-abelardo-de-la-espriella-y-ana-lucia-pineda-por-donaciones-para-victimas-del-terremoto-la-familia-presidencial-no-tiene-porque-manejar-recursos-de-manera-privado-extraidos-del-dolor-de-los-colombianos/",
+      "source": "Infobae",
+      "pubDate": "Fri, 23 Oct 2026 19:44:38 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella se pronuncia sobre la extradición de alias Mocho Olmedo a Estados Unidos: 'Colombia no es refugio de criminales'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncia-sobre-la-extradicion-de-alias-mocho-olmedo-a-estados-unidos-colombia-no-es-refugio-de-criminales-3595855",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-23T14:17:47-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Qué plantean Lula y Bolsonaro sobre la Amazonía de cara al balotaje en Brasil?",
+      "link": "https://www.france24.com/es/video/20261023-qu%C3%A9-plantean-lula-y-bolsonaro-sobre-la-amazon%C3%ADa-de-cara-al-balotaje-en-brasil",
+      "source": "France 24",
+      "pubDate": "Fri, 23 Oct 2026 18:57:52 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Brasil: el crecimiento de las favelas expone la crisis de planificación urbana",
+      "link": "https://www.france24.com/es/programas/en-foco/20261023-brasil-el-crecimiento-de-las-favelas-expone-la-crisis-de-planificaci%C3%B3n-urbana",
+      "source": "France 24",
+      "pubDate": "Fri, 23 Oct 2026 16:54:11 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿Censura o \"batalla cultural\"? La polémica que sacude a los museos colombianos",
+      "link": "https://www.france24.com/es/programas/cultura/20261023-censura-o-batalla-cultural-la-pol%C3%A9mica-que-sacude-a-los-museos-colombianos",
+      "source": "France 24",
+      "pubDate": "Fri, 23 Oct 2026 15:47:22 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Rodrigo Lara y los otros funcionarios que han salido del Gobierno del presidente Abelardo De La Espriella en dos meses y medio: esta es la lista",
+      "link": "https://www.eltiempo.com/politica/gobierno/rodrigo-lara-y-los-otros-funcionarios-que-han-salido-del-gobierno-del-presidente-abelardo-de-la-espriella-esta-es-la-lista-3595763",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-23T10:31:23-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Flávio o Lula: ¿quién conquistará a los abstencionistas en Brasil?",
+      "link": "https://www.france24.com/es/programas/el-debate/20261023-fl%C3%A1vio-o-lula-qui%C3%A9n-conquistar%C3%A1-a-los-abstencionistas-en-brasil",
+      "source": "France 24",
+      "pubDate": "Fri, 23 Oct 2026 14:41:13 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Balotaje en Brasil: ¿continuidad del lulismo o vuelta al bolsonarismo?",
+      "link": "https://www.france24.com/es/video/20261023-balotaje-en-brasil-continuidad-del-lulismo-o-vuelta-al-bolsonarismo",
+      "source": "France 24",
+      "pubDate": "Fri, 23 Oct 2026 14:34:05 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "3 claves que explican por qué el duelo final entre Flávio Bolsonaro y Lula en Brasil es crucial para América Latina (y para Trump en EE.UU.)",
@@ -61,38 +125,6 @@
       "pubDate": "Fri, 23 Oct 2026 11:14:47 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella se pronunció tras anunciar el recorte de $13,8 billones en el gasto del Estado: 'Esto apenas comienza'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-tras-anunciar-el-recorte-de-13-8-billones-en-el-gasto-del-estado-esto-apenas-comienza-3595698",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-23T03:10:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella respondió a la carta de renuncia de Rodrigo Lara tras su salida del Ministerio del Interior: 'Valoro su trabajo'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-respondio-a-la-carta-de-renuncia-de-rodrigo-lara-tras-su-salida-del-ministerio-del-interior-valoro-su-trabajo-3595670",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-22T20:08:06-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Bombardeo en El Tambo, Cauca, deja nueve muertos del Eln: entre ellos estaría alias 'Marcos Pacífico', cabecilla del Frente de Guerra Suroccidental",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/bombardeo-en-el-tambo-cauca-deja-nueve-muertos-del-eln-entre-ellos-estaria-alias-marcos-pacifico-cabecilla-del-frente-de-guerra-suroccidental-3595588",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-22T17:49:24-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "‘Proceda, general’: el presidente Abelardo De La Espriella revela video de la orden de bombardeo contra el Eln y anuncia golpe a sus finanzas",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/proceda-general-el-presidente-abelardo-de-la-espriella-revela-video-de-la-orden-de-bombardeo-contra-el-eln-y-anuncia-golpe-a-sus-finanzas-3595611",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-22T17:13:56-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
