@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-23T03:59:39.840Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-10-23T09:16:33.349Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 3,
       "momentum": {
-        "value": 50,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 3.3
@@ -47,18 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Lula da Silva y Flávio Bolsonaro empatan con el 50% de los votos a tres días del balotaje en Brasil, según Datafolha",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/23/lula-da-silva-y-flavio-bolsonaro-empatan-con-el-50-de-los-votos-a-tres-dias-del-balotaje-en-brasil-segun-datafolha/",
-      "source": "Infobae",
-      "pubDate": "Fri, 23 Oct 2026 03:33:57 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Así quedó la ley de sometimiento del gobierno de Abelardo De La Espriella tras su debate en las Comisiones Primera",
-      "link": "https://www.eltiempo.com/politica/congreso/asi-quedo-la-ley-de-sometimiento-del-gobierno-de-abelardo-de-la-espriella-tras-su-debate-en-comisiones-primera-3595519",
+      "title": "Presidente Abelardo De La Espriella se pronunció tras anunciar el recorte de $13,8 billones en el gasto del Estado: 'Esto apenas comienza'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-tras-anunciar-el-recorte-de-13-8-billones-en-el-gasto-del-estado-esto-apenas-comienza-3595698",
       "source": "El Tiempo",
-      "pubDate": "2026-10-22T21:44:27-05:00",
+      "pubDate": "2026-10-23T03:10:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
