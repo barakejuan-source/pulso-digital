@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T23:04:42.433Z",
+  "updatedAt": "2026-10-23T03:59:39.840Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 6,
+      "trendsScore": 8,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 2,
+      "finalScore": 3,
       "momentum": {
-        "value": 0,
+        "value": 50,
         "direction": "flat"
       },
-      "probability": 2.2
+      "probability": 3.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,17 +42,33 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 97.8
+      "probability": 96.7
     }
   ],
   "articles": [
     {
-      "title": "Rafael Nieto salió en defensa de Iván Cepeda e Isabel Zuleta tras la votación de la ley de sometimiento: “Es una soberana tontería”",
-      "link": "https://www.infobae.com/colombia/2026/10/22/rafael-nieto-salio-en-defensa-de-ivan-cepeda-e-isabel-zuleta-tras-la-votacion-de-la-ley-de-sometimiento-es-una-soberana-tonteria/",
+      "title": "Lula da Silva y Flávio Bolsonaro empatan con el 50% de los votos a tres días del balotaje en Brasil, según Datafolha",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/23/lula-da-silva-y-flavio-bolsonaro-empatan-con-el-50-de-los-votos-a-tres-dias-del-balotaje-en-brasil-segun-datafolha/",
       "source": "Infobae",
-      "pubDate": "Thu, 22 Oct 2026 22:56:22 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "pubDate": "Fri, 23 Oct 2026 03:33:57 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Así quedó la ley de sometimiento del gobierno de Abelardo De La Espriella tras su debate en las Comisiones Primera",
+      "link": "https://www.eltiempo.com/politica/congreso/asi-quedo-la-ley-de-sometimiento-del-gobierno-de-abelardo-de-la-espriella-tras-su-debate-en-comisiones-primera-3595519",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-22T21:44:27-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella respondió a la carta de renuncia de Rodrigo Lara tras su salida del Ministerio del Interior: 'Valoro su trabajo'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-respondio-a-la-carta-de-renuncia-de-rodrigo-lara-tras-su-salida-del-ministerio-del-interior-valoro-su-trabajo-3595670",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-22T20:08:06-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Bombardeo en El Tambo, Cauca, deja nueve muertos del Eln: entre ellos estaría alias 'Marcos Pacífico', cabecilla del Frente de Guerra Suroccidental",
@@ -101,14 +117,6 @@
       "pubDate": "Thu, 22 Oct 2026 18:38:55 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Así quedó la ley de sometimiento del gobierno de Abelardo De La Espriella tras su debate en las Comisiones Primera",
-      "link": "https://www.eltiempo.com/politica/congreso/asi-quedo-la-ley-de-sometimiento-del-gobierno-de-abelardo-de-la-espriella-tras-su-debate-en-comisiones-primera-3595519",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-22T12:40:21-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Juez ordena a Meta pagar 25.000 millones de dólares por el caso Cambridge Analytica",
