@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T22:59:09.607Z",
+  "updatedAt": "2026-10-24T03:53:48.130Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 6,
+      "trendsScore": 8,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 2,
+      "finalScore": 3,
       "momentum": {
-        "value": 0,
+        "value": 50,
         "direction": "flat"
       },
-      "probability": 2.2
+      "probability": 3.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,31 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 97.8
+      "probability": 96.7
     }
   ],
   "articles": [
     {
-      "title": "Mensaje que le envió Carlos Suárez, asesor de Abelardo De La Espriella, a Rodrigo Lara tras su salida del Ministerio del Interior: 'Futuro brillante'",
-      "link": "https://www.eltiempo.com/politica/gobierno/el-mensaje-que-le-envio-el-asesor-de-abelardo-de-la-espriella-a-rodrigo-lara-tras-su-salida-del-ministerio-del-interior-un-futuro-brillante-3595903",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-23T17:42:39-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Lula y Flavio Bolsonaro se enfrentan en el debate decisivo antes del balotaje en Brasil",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/23/lula-y-flavio-bolsonaro-se-enfrentan-en-el-debate-decisivo-antes-del-balotaje-en-brasil/",
-      "source": "Infobae",
-      "pubDate": "Fri, 23 Oct 2026 22:11:41 +0000",
+      "title": "La hora de la verdad entre Lula y Bolsonaro: esperanza y cambio, promesas comunes con vías divergentes",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261024-la-hora-de-la-verdad-entre-lula-y-bolsonaro-esperanza-y-cambio-promesas-comunes-con-v%C3%ADas-divergentes",
+      "source": "France 24",
+      "pubDate": "Sat, 24 Oct 2026 03:25:58 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Sindicato de la Cancillería reclamó al gobierno de Abelardo de la Espriella por crisis en los consulados: “La atención no se mejora con discursos”",
-      "link": "https://www.infobae.com/colombia/2026/10/23/sindicato-de-la-cancilleria-reclamo-al-gobierno-de-abelardo-de-la-espriella-por-crisis-en-los-consulados-la-atencion-no-se-mejora-con-discursos/",
+      "title": "Lula y Bolsonaro rebajaron las acusaciones a las campañas y discutieron propuestas en último debate antes del balotaje",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/23/lula-y-flavio-bolsonaro-se-enfrentan-en-el-debate-decisivo-antes-del-balotaje-en-brasil/",
       "source": "Infobae",
-      "pubDate": "Fri, 23 Oct 2026 21:47:51 +0000",
+      "pubDate": "Sat, 24 Oct 2026 03:01:51 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "La campaña presidencial en El Salvador comienza el 27 de octubre rumbo a las elecciones del 2027",
+      "link": "https://www.infobae.com/el-salvador/2026/10/24/la-campana-presidencial-en-el-salvador-comienza-el-27-de-octubre-rumbo-a-las-elecciones-del-2027/",
+      "source": "Infobae",
+      "pubDate": "Sat, 24 Oct 2026 02:39:24 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo de la Espriella entregó detalles del dinero que se manejará en el fondo para la reconstrucción por el terremoto",
+      "link": "https://www.infobae.com/colombia/2026/10/24/abelardo-de-la-espriella-entrego-detalles-del-dinero-que-se-manejara-en-el-fondo-para-la-reconstruccion-por-el-terremoto/",
+      "source": "Infobae",
+      "pubDate": "Sat, 24 Oct 2026 02:37:18 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Mensaje que le envió Carlos Suárez, asesor de Abelardo De La Espriella, a Rodrigo Lara tras su salida del Ministerio del Interior: 'Futuro brillante'",
+      "link": "https://www.eltiempo.com/politica/gobierno/el-mensaje-que-le-envio-el-asesor-de-abelardo-de-la-espriella-a-rodrigo-lara-tras-su-salida-del-ministerio-del-interior-un-futuro-brillante-3595903",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-23T17:47:40-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -87,36 +103,12 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Brasil: el crecimiento de las favelas expone la crisis de planificación urbana",
-      "link": "https://www.france24.com/es/programas/en-foco/20261023-brasil-el-crecimiento-de-las-favelas-expone-la-crisis-de-planificaci%C3%B3n-urbana",
-      "source": "France 24",
-      "pubDate": "Fri, 23 Oct 2026 16:54:11 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿Censura o \"batalla cultural\"? La polémica que sacude a los museos colombianos",
-      "link": "https://www.france24.com/es/programas/cultura/20261023-censura-o-batalla-cultural-la-pol%C3%A9mica-que-sacude-a-los-museos-colombianos",
-      "source": "France 24",
-      "pubDate": "Fri, 23 Oct 2026 15:47:22 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Rodrigo Lara y los otros funcionarios que han salido del Gobierno del presidente Abelardo De La Espriella en dos meses y medio: esta es la lista",
       "link": "https://www.eltiempo.com/politica/gobierno/rodrigo-lara-y-los-otros-funcionarios-que-han-salido-del-gobierno-del-presidente-abelardo-de-la-espriella-esta-es-la-lista-3595763",
       "source": "El Tiempo",
       "pubDate": "2026-10-23T10:31:23-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Flávio o Lula: ¿quién conquistará a los abstencionistas en Brasil?",
-      "link": "https://www.france24.com/es/programas/el-debate/20261023-fl%C3%A1vio-o-lula-qui%C3%A9n-conquistar%C3%A1-a-los-abstencionistas-en-brasil",
-      "source": "France 24",
-      "pubDate": "Fri, 23 Oct 2026 14:41:13 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "3 claves que explican por qué el duelo final entre Flávio Bolsonaro y Lula en Brasil es crucial para América Latina (y para Trump en EE.UU.)",
