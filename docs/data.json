@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T17:17:15.726Z",
+  "updatedAt": "2026-10-24T20:28:47.286Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,42 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Boric envía un sentido mensaje de apoyo a Lula antes de la segunda vuelta en Brasil",
-      "link": "https://www.infobae.com/america/agencias/2026/10/24/boric-envia-un-sentido-mensaje-de-apoyo-a-lula-antes-de-la-segunda-vuelta-en-brasil/",
-      "source": "Infobae",
-      "pubDate": "Sat, 24 Oct 2026 17:01:48 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Elecciones 2026: Brasil enfrenta el riesgo de debilitar su Constitución",
       "link": "https://www.lasillavacia.com/red-de-expertos/red-social/elecciones-2026-brasil-enfrenta-el-riesgo-de-debilitar-su-constitucion/",
       "source": "La Silla Vacía",
       "pubDate": "Sat, 24 Oct 2026 17:00:00 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "JEE rechaza pedido para anular la elección en Lima por cuestionada candidatura de Rafael López Aliaga",
-      "link": "https://www.infobae.com/peru/2026/10/24/jee-rechaza-pedido-para-anular-la-eleccion-en-lima-por-cuestionada-candidatura-de-rafael-lopez-aliaga/",
-      "source": "Infobae",
-      "pubDate": "Sat, 24 Oct 2026 16:45:39 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Flávio Bolsonaro emula a su padre y arrastra a miles en región clave para segunda vuelta",
-      "link": "https://www.infobae.com/america/agencias/2026/10/24/flavio-bolsonaro-emula-a-su-padre-y-arrastra-a-miles-en-region-clave-para-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Sat, 24 Oct 2026 16:16:26 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "La hora de la verdad entre Lula y Bolsonaro: esperanza y cambio, promesas comunes con vías divergentes",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261024-la-hora-de-la-verdad-entre-lula-y-bolsonaro-esperanza-y-cambio-promesas-comunes-con-v%C3%ADas-divergentes",
-      "source": "France 24",
-      "pubDate": "Sat, 24 Oct 2026 03:25:58 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
