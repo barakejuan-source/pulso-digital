@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T08:46:48.010Z",
+  "updatedAt": "2026-10-24T13:54:46.220Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -46,6 +46,38 @@
     }
   ],
   "articles": [
+    {
+      "title": "“Ladrón y mentiroso”: Milei respondió los dichos de Lula sobre su Gobierno durante el debate con Bolsonaro ",
+      "link": "https://www.infobae.com/politica/2026/10/24/ladron-y-mentiroso-milei-respondio-los-dichos-de-lula-sobre-su-gobierno-durante-el-debate-con-bolsonaro/",
+      "source": "Infobae",
+      "pubDate": "Sat, 24 Oct 2026 13:48:49 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Adelina Covo, suegra de Armando Benedetti, dijo que Petro fue “una gran decepción”: también habló de Eva Ferrer, Verónica Alcocer y Juliana Guerrero",
+      "link": "https://www.infobae.com/colombia/2026/10/24/adelina-covo-suegra-de-armando-benedetti-dijo-que-petro-fue-una-gran-decepcion-tambien-hablo-de-eva-ferrer-veronica-alcocer-y-juliana-guerrero/",
+      "source": "Infobae",
+      "pubDate": "Sat, 24 Oct 2026 13:47:55 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El empresario capturado con fines de extradición por EE. UU. que respaldó a De la Espriella antes de la primera vuelta: tendría presunto nexo con Alex Saab",
+      "link": "https://www.infobae.com/colombia/2026/10/24/el-empresario-capturado-con-fines-de-extradicion-por-ee-uu-que-respaldo-a-de-la-espriella-antes-de-la-primera-vuelta-tendria-presunto-nexo-con-alex-saab/",
+      "source": "Infobae",
+      "pubDate": "Sat, 24 Oct 2026 13:37:08 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Los momentos más tensos del último debate entre Lula y Flávio Bolsonaro antes del balotaje en Brasil    ",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/24/los-momentos-mas-tensos-del-ultimo-debate-entre-lula-y-flavio-bolsonaro-antes-del-balotaje-en-brasil/",
+      "source": "Infobae",
+      "pubDate": "Sat, 24 Oct 2026 13:01:53 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "La hora de la verdad entre Lula y Bolsonaro: esperanza y cambio, promesas comunes con vías divergentes",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261024-la-hora-de-la-verdad-entre-lula-y-bolsonaro-esperanza-y-cambio-promesas-comunes-con-v%C3%ADas-divergentes",
