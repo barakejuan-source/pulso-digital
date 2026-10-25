@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T17:31:00.001Z",
+  "updatedAt": "2026-10-25T20:36:34.977Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,28 +47,44 @@
   ],
   "articles": [
     {
-      "title": "Las fotos de la jornada electoral en Brasil: votos, filas y expectativa por un resultado ajustado",
-      "link": "https://www.infobae.com/fotos/2026/10/25/las-fotos-de-la-jornada-electoral-en-brasil-votos-filas-y-expectativa-por-un-resultado-ajustado/",
-      "source": "Infobae",
-      "pubDate": "Sun, 25 Oct 2026 17:22:17 +0000",
+      "title": "Extienden por 2 horas la votación de la ajustada disputa entre Lula y Bolsonaro por la presidencia de Brasil",
+      "link": "https://www.bbc.co.uk/mundo/live/cm5ynp5y1871t?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "2026-10-25T20:36:34.900Z",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Gobierno de Abelardo de la Espriella activó una ruta de protección para Deicy Jiménez tras realizar denuncias sobre Gustavo Petro",
-      "link": "https://www.infobae.com/colombia/2026/10/25/gobierno-de-abelardo-de-la-espriella-activo-una-ruta-de-proteccion-para-deicy-jimenez-tras-realizar-denuncias-sobre-gustavo-petro/",
+      "title": "EN VIVO | Balotaje en Brasil: el TSE difundió los primeros resultados pese a extender el horario de votación dos horas",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/25/elecciones-en-brasil-en-vivo/",
       "source": "Infobae",
-      "pubDate": "Sun, 25 Oct 2026 17:15:44 +0000",
+      "pubDate": "Sun, 25 Oct 2026 20:24:38 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Flávio Bolsonaro o Lula da Silva: las claves de la elección presidencial en Brasil que pueden cambiar la relación con Colombia",
+      "link": "https://www.infobae.com/colombia/2026/10/18/brasil-define-su-futuro-presidencial-en-segunda-vuelta-que-se-juega-colombia-ante-una-victoria-de-flavio-bolsonaro-o-lula-da-silva/",
+      "source": "Infobae",
+      "pubDate": "Sun, 25 Oct 2026 19:52:44 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Denuncian supuesto caso de 'falso positivo' en operación anunciada por Abelardo de la Espriella en Meta: \"Que mate sin investigar quiénes son\"",
-      "link": "https://www.infobae.com/colombia/2026/10/25/denuncian-supuesto-caso-de-falso-positivo-en-operacion-anunciada-por-abelardo-de-la-espriella-en-meta-que-mate-sin-investigar-quienes-son/",
-      "source": "Infobae",
-      "pubDate": "Sun, 25 Oct 2026 16:34:24 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Informe desde São Paulo: ¿Cómo llegan Lula da Silva y Bolsonaro de cara al balotaje?",
+      "link": "https://www.france24.com/es/video/20261025-informe-desde-s%C3%A3o-paulo-c%C3%B3mo-llegan-lula-da-silva-y-bolsonaro-de-cara-al-balotaje",
+      "source": "France 24",
+      "pubDate": "Sun, 25 Oct 2026 18:41:29 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Marien Le Pen: \"Francia no está en este estado por su pueblo sino por sus líderes\"",
+      "link": "https://www.france24.com/es/video/20261025-marien-le-pen-francia-no-est%C3%A1-en-este-estado-por-su-pueblo-sino-por-sus-l%C3%ADderes",
+      "source": "France 24",
+      "pubDate": "Sun, 25 Oct 2026 17:46:55 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Informe desde Río de Janeiro: avanza con normalidad la jornada electoral a pesar de las lluvias",
@@ -79,7 +95,7 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "En directo I Balotaje en Brasil: Lula subraya \"defensa de las conquistas”; Bolsonaro afirma que “llegó el momento del cambio\"",
+      "title": "En directo I Autoridad electoral de Brasil frena conteo del balotaje tras aval del Supremo a ampliar horario de votación",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-en-directo-i-abren-las-urnas-en-brasil-lula-y-bolsonaro-disputan-la-presidencia-en-un-tenso-balotaje",
       "source": "France 24",
       "pubDate": "Sun, 25 Oct 2026 12:05:34 GMT",
@@ -107,30 +123,6 @@
       "link": "https://www.france24.com/es/video/20261025-cierre-de-campa%C3%B1a-de-lula-da-silva-en-sao-paulo-de-cara-al-balotaje-en-brasil",
       "source": "France 24",
       "pubDate": "Sun, 25 Oct 2026 02:37:07 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "En Brasil, Lula y Bolsonaro motivan por última vez a sus seguidores antes de la segunda vuelta",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-en-brasil-lula-y-bolsonaro-motivan-por-%C3%BAltima-vez-a-sus-seguidores-antes-de-la-segunda-vuelta",
-      "source": "France 24",
-      "pubDate": "Sun, 25 Oct 2026 02:26:25 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Entre polarización y desinformación: ¿cómo llega Brasil al balotaje?",
-      "link": "https://www.france24.com/es/video/20261025-entre-polarizaci%C3%B3n-y-desinformaci%C3%B3n-c%C3%B3mo-llega-brasil-al-balotaje",
-      "source": "France 24",
-      "pubDate": "Sun, 25 Oct 2026 01:21:06 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones en Brasil 2026: Lula cierra su campaña en un acto masivo en São Paulo",
-      "link": "https://www.france24.com/es/video/20261025-elecciones-en-brasil-2026-lula-y-fl%C3%A1vio-bolsonaro-cierran-sus-campa%C3%B1as-con-actos-masivos",
-      "source": "France 24",
-      "pubDate": "Sun, 25 Oct 2026 01:20:53 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
