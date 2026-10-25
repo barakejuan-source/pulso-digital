@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T13:03:51.414Z",
+  "updatedAt": "2026-10-25T17:31:00.001Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,15 +47,39 @@
   ],
   "articles": [
     {
-      "title": "Abren las urnas en Brasil para la segunda vuelta presidencial entre Flávio Bolsonaro y Lula",
-      "link": "https://www.infobae.com/america/agencias/2026/10/25/abren-las-urnas-en-brasil-para-la-segunda-vuelta-presidencial-entre-flavio-bolsonaro-y-lula/",
+      "title": "Las fotos de la jornada electoral en Brasil: votos, filas y expectativa por un resultado ajustado",
+      "link": "https://www.infobae.com/fotos/2026/10/25/las-fotos-de-la-jornada-electoral-en-brasil-votos-filas-y-expectativa-por-un-resultado-ajustado/",
       "source": "Infobae",
-      "pubDate": "Sun, 25 Oct 2026 12:31:14 +0000",
+      "pubDate": "Sun, 25 Oct 2026 17:22:17 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "En directo I Abren las urnas en Brasil: Lula y Bolsonaro disputan la Presidencia en un tenso balotaje",
+      "title": "Gobierno de Abelardo de la Espriella activó una ruta de protección para Deicy Jiménez tras realizar denuncias sobre Gustavo Petro",
+      "link": "https://www.infobae.com/colombia/2026/10/25/gobierno-de-abelardo-de-la-espriella-activo-una-ruta-de-proteccion-para-deicy-jimenez-tras-realizar-denuncias-sobre-gustavo-petro/",
+      "source": "Infobae",
+      "pubDate": "Sun, 25 Oct 2026 17:15:44 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Denuncian supuesto caso de 'falso positivo' en operación anunciada por Abelardo de la Espriella en Meta: \"Que mate sin investigar quiénes son\"",
+      "link": "https://www.infobae.com/colombia/2026/10/25/denuncian-supuesto-caso-de-falso-positivo-en-operacion-anunciada-por-abelardo-de-la-espriella-en-meta-que-mate-sin-investigar-quienes-son/",
+      "source": "Infobae",
+      "pubDate": "Sun, 25 Oct 2026 16:34:24 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Informe desde Río de Janeiro: avanza con normalidad la jornada electoral a pesar de las lluvias",
+      "link": "https://www.france24.com/es/video/20261025-informe-desde-r%C3%ADo-de-janeiro-avanza-con-normalidad-la-jornada-electoral-a-pesar-de-las-lluvias",
+      "source": "France 24",
+      "pubDate": "Sun, 25 Oct 2026 13:42:04 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "En directo I Balotaje en Brasil: Lula subraya \"defensa de las conquistas”; Bolsonaro afirma que “llegó el momento del cambio\"",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-en-directo-i-abren-las-urnas-en-brasil-lula-y-bolsonaro-disputan-la-presidencia-en-un-tenso-balotaje",
       "source": "France 24",
       "pubDate": "Sun, 25 Oct 2026 12:05:34 GMT",
