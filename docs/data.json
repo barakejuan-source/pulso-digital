@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T20:28:47.286Z",
+  "updatedAt": "2026-10-25T00:07:03.914Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 8,
+      "trendsScore": 12,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 3,
+      "finalScore": 5,
       "momentum": {
-        "value": 0,
+        "value": 66.7,
         "direction": "flat"
       },
-      "probability": 3.3
+      "probability": 5.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,42 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 96.7
+      "probability": 94.6
     }
   ],
   "articles": [
+    {
+      "title": "Flávio Bolsonaro aseguró que Brasil “se cansó de esperar” con Lula: “La gente está del lado del cambio”",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/24/flavio-bolsonaro-aseguro-que-brasil-se-canso-de-esperar-con-lula-la-gente-esta-del-lado-del-cambio/",
+      "source": "Infobae",
+      "pubDate": "Sat, 24 Oct 2026 23:49:15 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Ministro de Justicia desmintió que Abelardo de la Espriella ocultara la captura de Nassim Orfale Vásquez, requerido en EE. UU.: “No tiene sustento”",
+      "link": "https://www.infobae.com/colombia/2026/10/24/ministro-de-justicia-desmintio-que-abelardo-de-la-espriella-ocultara-la-captura-de-nassim-orfale-vasquez-requerido-en-ee-uu-no-tiene-sustento/",
+      "source": "Infobae",
+      "pubDate": "Sat, 24 Oct 2026 23:34:04 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "A horas del balotaje, Brasilia exhibe la polarización entre Lula y Flávio Bolsonaro",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/24/a-horas-del-balotaje-brasilia-exhibe-la-polarizacion-entre-lula-y-flavio-bolsonaro/",
+      "source": "Infobae",
+      "pubDate": "Sat, 24 Oct 2026 23:13:44 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Expresidente paraguayo Abdo desea \"todo el éxito\" a Bolsonaro en segunda vuelta en Brasil",
+      "link": "https://www.infobae.com/america/agencias/2026/10/24/expresidente-paraguayo-abdo-desea-todo-el-exito-a-bolsonaro-en-segunda-vuelta-en-brasil/",
+      "source": "Infobae",
+      "pubDate": "Sat, 24 Oct 2026 22:31:58 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "Elecciones 2026: Brasil enfrenta el riesgo de debilitar su Constitución",
       "link": "https://www.lasillavacia.com/red-de-expertos/red-social/elecciones-2026-brasil-enfrenta-el-riesgo-de-debilitar-su-constitucion/",
