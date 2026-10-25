@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T20:36:34.977Z",
+  "updatedAt": "2026-10-25T23:58:24.154Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,28 +47,60 @@
   ],
   "articles": [
     {
-      "title": "Extienden por 2 horas la votación de la ajustada disputa entre Lula y Bolsonaro por la presidencia de Brasil",
+      "title": "Con 75% del escrutinio, Lula adelanta a Flávio Bolsonaro por apenas 51,09% a 48,91% en el reñido balotaje por la presidencia de Brasil",
       "link": "https://www.bbc.co.uk/mundo/live/cm5ynp5y1871t?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-10-25T20:36:34.900Z",
+      "pubDate": "2026-10-25T23:58:23.993Z",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "EN VIVO | Balotaje en Brasil: el TSE difundió los primeros resultados pese a extender el horario de votación dos horas",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/25/elecciones-en-brasil-en-vivo/",
+      "title": "Yotova y Gyurov  se disputarán la presidencia de Bulgaria en una ajustada segunda vuelta",
+      "link": "https://www.infobae.com/america/agencias/2026/10/25/yotova-y-gyurov-se-disputaran-la-presidencia-de-bulgaria-en-una-ajustada-segunda-vuelta/",
       "source": "Infobae",
-      "pubDate": "Sun, 25 Oct 2026 20:24:38 +0000",
+      "pubDate": "Sun, 25 Oct 2026 23:31:55 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Flávio Bolsonaro o Lula da Silva: las claves de la elección presidencial en Brasil que pueden cambiar la relación con Colombia",
-      "link": "https://www.infobae.com/colombia/2026/10/18/brasil-define-su-futuro-presidencial-en-segunda-vuelta-que-se-juega-colombia-ante-una-victoria-de-flavio-bolsonaro-o-lula-da-silva/",
+      "title": "Anamá Ferreira votó en el balotaje de Brasil y tuvo un altercado con un votante de Lula da Silva: “¡Andá a laburar!”",
+      "link": "https://www.infobae.com/teleshow/2026/10/25/anama-ferreira-voto-en-el-balotaje-de-brasil-y-tuvo-un-altercado-con-un-votante-de-lula-da-silva-anda-a-laburar/",
       "source": "Infobae",
-      "pubDate": "Sun, 25 Oct 2026 19:52:44 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Sun, 25 Oct 2026 22:53:24 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Informe desde Río de Janeiro: Brasil cierra las urnas tras prórroga excepcional de dos horas",
+      "link": "https://www.france24.com/es/video/20261025-informe-desde-r%C3%ADo-de-janeiro-brasil-cierra-las-urnas-tras-pr%C3%B3rroga-excepcional-de-dos-horas",
+      "source": "France 24",
+      "pubDate": "Sun, 25 Oct 2026 22:52:52 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "¿En qué se distancian Lula y Flávio Bolsonaro de cara al balotaje en Brasil?",
+      "link": "https://www.france24.com/es/video/20261025-en-qu%C3%A9-se-distancian-lula-y-fl%C3%A1vio-bolsonaro-de-cara-al-balotaje-en-brasil",
+      "source": "France 24",
+      "pubDate": "Sun, 25 Oct 2026 21:49:18 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Informe desde Río: extienden jornada electoral en Brasil tras aval del Supremo",
+      "link": "https://www.france24.com/es/video/20261025-informe-desde-r%C3%ADo-extienden-jornada-electoral-en-brasil-tras-aval-del-supremo",
+      "source": "France 24",
+      "pubDate": "Sun, 25 Oct 2026 21:35:03 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Extienden dos horas las votaciones presidenciales en Brasil",
+      "link": "https://www.lasillavacia.com/en-vivo/extienden-dos-horas-las-votaciones-presidenciales-en-brasil/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 25 Oct 2026 20:53:28 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Informe desde São Paulo: ¿Cómo llegan Lula da Silva y Bolsonaro de cara al balotaje?",
@@ -95,7 +127,7 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "En directo I Autoridad electoral de Brasil frena conteo del balotaje tras aval del Supremo a ampliar horario de votación",
+      "title": "En directo I Lula obtiene el 51,09% de la votación del balotaje mientras Bolsonaro consigue el 48,91% al 78% escrutado",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-en-directo-i-abren-las-urnas-en-brasil-lula-y-bolsonaro-disputan-la-presidencia-en-un-tenso-balotaje",
       "source": "France 24",
       "pubDate": "Sun, 25 Oct 2026 12:05:34 GMT",
@@ -109,30 +141,6 @@
       "pubDate": "2026-10-25T05:51:51-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Con masivos actos en São Paulo y Río de Janeiro, Lula y Bolsonaro cierran sus campañas",
-      "link": "https://www.france24.com/es/video/20261025-con-masivos-actos-en-s%C3%A3o-paulo-y-r%C3%ADo-de-janeiro-lula-y-bolsonaro-cierran-sus-campa%C3%B1as",
-      "source": "France 24",
-      "pubDate": "Sun, 25 Oct 2026 03:14:30 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Cierre de campaña de Lula da Silva en Sao Paulo de cara al balotaje en Brasil",
-      "link": "https://www.france24.com/es/video/20261025-cierre-de-campa%C3%B1a-de-lula-da-silva-en-sao-paulo-de-cara-al-balotaje-en-brasil",
-      "source": "France 24",
-      "pubDate": "Sun, 25 Oct 2026 02:37:07 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "3 claves que explican por qué el duelo final entre Flávio Bolsonaro y Lula en Brasil es crucial para América Latina (y para Trump en EE.UU.)",
-      "link": "https://www.bbc.com/mundo/articles/cqrkyj450rmlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Fri, 23 Oct 2026 11:14:47 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
