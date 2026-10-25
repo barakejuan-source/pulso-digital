@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T07:25:39.310Z",
+  "updatedAt": "2026-10-25T13:03:51.414Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 4,
       "momentum": {
-        "value": -20,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 4.4
@@ -47,36 +47,28 @@
   ],
   "articles": [
     {
-      "title": "Elecciones en Brasil EN VIVO: Los brasileños deciden su futuro en una reñida segunda vuelta electoral",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/25/elecciones-en-brasil-en-vivo/",
+      "title": "Abren las urnas en Brasil para la segunda vuelta presidencial entre Flávio Bolsonaro y Lula",
+      "link": "https://www.infobae.com/america/agencias/2026/10/25/abren-las-urnas-en-brasil-para-la-segunda-vuelta-presidencial-entre-flavio-bolsonaro-y-lula/",
       "source": "Infobae",
-      "pubDate": "Sun, 25 Oct 2026 07:15:34 +0000",
+      "pubDate": "Sun, 25 Oct 2026 12:31:14 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Lula da Silva y Flávio Bolsonaro se disputan la presidencia de Brasil en el balotaje",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/25/lula-da-silva-y-flavio-bolsonaro-se-disputan-la-presidencia-de-brasil-en-el-balotaje/",
-      "source": "Infobae",
-      "pubDate": "Sun, 25 Oct 2026 07:00:00 +0000",
+      "title": "En directo I Abren las urnas en Brasil: Lula y Bolsonaro disputan la Presidencia en un tenso balotaje",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-en-directo-i-abren-las-urnas-en-brasil-lula-y-bolsonaro-disputan-la-presidencia-en-un-tenso-balotaje",
+      "source": "France 24",
+      "pubDate": "Sun, 25 Oct 2026 12:05:34 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "El balotaje brasileño vale más en el tipo de cambio que en el protocolo",
-      "link": "https://www.infobae.com/opinion/2026/10/25/el-balotaje-brasileno-vale-mas-en-el-tipo-de-cambio-que-en-el-protocolo/",
-      "source": "Infobae",
-      "pubDate": "Sun, 25 Oct 2026 05:01:44 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "La elección de Brasil y una historia de reinvindicación del derecho al voto femenino ",
-      "link": "https://www.infobae.com/opinion/2026/10/25/la-eleccion-de-brasil-y-una-historia-de-reinvindicacion-del-derecho-al-voto-femenino/",
-      "source": "Infobae",
-      "pubDate": "Sun, 25 Oct 2026 05:01:24 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Ministro de Justicia Iván Cancino negó acusaciones a Abelardo De La Espriella por caso de Nassim Orfale, requerido por EE. UU.: 'No tiene sustento'",
+      "link": "https://www.eltiempo.com/politica/gobierno/ministro-de-justicia-ivan-cancino-nego-acusaciones-a-abelardo-de-la-espriella-por-caso-de-nassim-orfale-requerido-por-ee-uu-no-tiene-sustento-3596135",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-25T05:51:51-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Con masivos actos en São Paulo y Río de Janeiro, Lula y Bolsonaro cierran sus campañas",
@@ -115,14 +107,6 @@
       "link": "https://www.france24.com/es/video/20261025-elecciones-en-brasil-2026-lula-y-fl%C3%A1vio-bolsonaro-cierran-sus-campa%C3%B1as-con-actos-masivos",
       "source": "France 24",
       "pubDate": "Sun, 25 Oct 2026 01:20:53 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones 2026: Brasil enfrenta el riesgo de debilitar su Constitución",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/elecciones-2026-brasil-enfrenta-el-riesgo-de-debilitar-su-constitucion/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 24 Oct 2026 17:00:00 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
