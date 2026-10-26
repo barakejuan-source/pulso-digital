@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T04:24:24.251Z",
+  "updatedAt": "2026-10-26T12:32:04.550Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 6,
       "momentum": {
-        "value": 50,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 6.5
@@ -47,26 +47,50 @@
   ],
   "articles": [
     {
-      "title": "EN VIVO | Flávio Bolsonaro pedirá la anulación de las elecciones en Brasil: “Es imposible reconocer el resultado en esas condiciones”",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/25/elecciones-en-brasil-en-vivo/",
+      "title": "Abelardo de la Espriella se refirió a la victoria de Lula da Silva y reveló cómo será su relación con el presidente de Brasil: “Tenemos grandes y profundas diferencias” ",
+      "link": "https://www.infobae.com/colombia/2026/10/26/abelardo-de-la-espriella-se-refirio-a-la-victoria-de-lula-da-silva-y-revelo-como-sera-su-relacion-con-el-presidente-de-brasil-tenemos-mucho-por-hacer/",
       "source": "Infobae",
-      "pubDate": "Mon, 26 Oct 2026 04:09:31 +0000",
+      "pubDate": "Mon, 26 Oct 2026 12:10:07 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "3 claves detrás de la histórica remontada electoral de Lula para ganar su cuarto mandato como presidente de Brasil",
+      "link": "https://www.bbc.com/mundo/articles/cmwy41z5lr8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 26 Oct 2026 10:46:31 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "El festejo de los famosos argentinos por la victoria de Lula da Silva en las elecciones de Brasil",
-      "link": "https://www.infobae.com/teleshow/2026/10/26/el-festejo-de-los-famosos-argentinos-por-la-victoria-de-lula-da-silva-en-las-elecciones-de-brasil/",
-      "source": "Infobae",
-      "pubDate": "Mon, 26 Oct 2026 03:35:35 +0000",
+      "title": "Lula gana las elecciones de Brasil con una remontada histórica pero Bolsonaro pide la anulación y no reconoce la derrota",
+      "link": "https://www.bbc.com/mundo/articles/ck1wvz44jy0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 26 Oct 2026 08:11:47 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Líderes latinoamericanos felicitaron a Lula da Silva por su victoria en el balotaje de Brasil",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/26/lideres-internacionales-felicitaron-a-lula-da-silva-por-su-vicotira-en-el-balotaje-de-brasil/",
-      "source": "Infobae",
-      "pubDate": "Mon, 26 Oct 2026 03:32:08 +0000",
+      "title": "Presidente Abelardo De La Espriella denunció presuntas irregularidades en contratos del Sena en Córdoba y anunció auditorías en la entidad",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-denuncio-presuntas-irregularidades-en-contratos-del-sena-en-cordoba-y-anuncio-auditorias-en-la-entidad-3596259",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-26T02:53:18-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Brasil: Lula lo logra una vez más y alcanza un histórico cuarto mandato",
+      "link": "https://www.france24.com/es/video/20261026-brasil-lula-lo-logra-una-vez-m%C3%A1s-y-alcanza-un-hist%C3%B3rico-cuarto-mandato",
+      "source": "France 24",
+      "pubDate": "Mon, 26 Oct 2026 04:55:16 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Voto joven y soberanía: Lula marca en Brasil el contrapeso a la ola de ultraderecha en América Latina",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261026-voto-joven-y-soberan%C3%ADa-lula-marca-en-brasil-el-contrapeso-a-la-ola-de-ultraderecha-en-am%C3%A9rica-latina",
+      "source": "France 24",
+      "pubDate": "Mon, 26 Oct 2026 04:23:27 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -95,14 +119,6 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Lula gana las elecciones de Brasil con una remontada histórica pero Bolsonaro pide la anulación y no reconoce la derrota",
-      "link": "https://www.bbc.com/mundo/articles/ck1wvz44jy0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 26 Oct 2026 02:16:33 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Presidente Abelardo De La Espriella anunció una campaña nacional de ahorro de agua, energía y gas ante el fenómeno de El Niño: 'Evitar el desperdicio'",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-anuncio-una-campana-nacional-de-ahorro-de-agua-energia-y-gas-ante-el-fenomeno-de-el-nino-evitar-el-desperdicio-3596244",
       "source": "El Tiempo",
@@ -123,22 +139,6 @@
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261026-lula-da-la-vuelta-a-los-resultados-y-gana-el-balotaje-a-la-presidencia-de-brasil",
       "source": "France 24",
       "pubDate": "Mon, 26 Oct 2026 00:23:01 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Lula da la vuelta a los resultados y gana el balotaje a la Presidencia de Brasil",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-en-directo-i-abren-las-urnas-en-brasil-lula-y-bolsonaro-disputan-la-presidencia-en-un-tenso-balotaje",
-      "source": "France 24",
-      "pubDate": "Mon, 26 Oct 2026 00:11:21 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Informe desde Río de Janeiro: Brasil cierra las urnas tras prórroga excepcional de dos horas",
-      "link": "https://www.france24.com/es/video/20261025-informe-desde-r%C3%ADo-de-janeiro-brasil-cierra-las-urnas-tras-pr%C3%B3rroga-excepcional-de-dos-horas",
-      "source": "France 24",
-      "pubDate": "Sun, 25 Oct 2026 22:52:52 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
