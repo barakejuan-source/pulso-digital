@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T23:58:24.154Z",
+  "updatedAt": "2026-10-26T04:24:24.251Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 11,
+      "trendsScore": 14,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 4,
+      "finalScore": 6,
       "momentum": {
-        "value": 0,
+        "value": 50,
         "direction": "flat"
       },
-      "probability": 4.4
+      "probability": 6.5
     },
     {
       "id": "abelardo_espriella",
@@ -42,31 +42,95 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 95.6
+      "probability": 93.5
     }
   ],
   "articles": [
     {
-      "title": "Con 75% del escrutinio, Lula adelanta a Flávio Bolsonaro por apenas 51,09% a 48,91% en el reñido balotaje por la presidencia de Brasil",
-      "link": "https://www.bbc.co.uk/mundo/live/cm5ynp5y1871t?at_medium=RSS&at_campaign=rss",
+      "title": "EN VIVO | Flávio Bolsonaro pedirá la anulación de las elecciones en Brasil: “Es imposible reconocer el resultado en esas condiciones”",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/25/elecciones-en-brasil-en-vivo/",
+      "source": "Infobae",
+      "pubDate": "Mon, 26 Oct 2026 04:09:31 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "El festejo de los famosos argentinos por la victoria de Lula da Silva en las elecciones de Brasil",
+      "link": "https://www.infobae.com/teleshow/2026/10/26/el-festejo-de-los-famosos-argentinos-por-la-victoria-de-lula-da-silva-en-las-elecciones-de-brasil/",
+      "source": "Infobae",
+      "pubDate": "Mon, 26 Oct 2026 03:35:35 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Líderes latinoamericanos felicitaron a Lula da Silva por su victoria en el balotaje de Brasil",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/26/lideres-internacionales-felicitaron-a-lula-da-silva-por-su-vicotira-en-el-balotaje-de-brasil/",
+      "source": "Infobae",
+      "pubDate": "Mon, 26 Oct 2026 03:32:08 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Lula y su histórico triunfo en segunda vuelta para un cuarto mandato en la Presidencia de Brasil",
+      "link": "https://www.france24.com/es/video/20261026-lula-y-su-hist%C3%B3rico-triunfo-en-segunda-vuelta-para-un-cuarto-mandato-en-la-presidencia-de-brasil",
+      "source": "France 24",
+      "pubDate": "Mon, 26 Oct 2026 03:15:50 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Ley de rescate fiscal será presentada esta semana, presidente Abelardo De La Espriella lo reveló en alocución",
+      "link": "https://www.eltiempo.com/politica/gobierno/ley-de-rescate-fiscal-sera-presentada-esta-semana-presidente-abelardo-de-la-espriella-lo-revelo-en-alocucion-3596241",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-25T21:50:02-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "\"Es imposible reconocer estas elecciones\": Flávio Bolsonaro tras derrota ante Lula",
+      "link": "https://www.france24.com/es/video/20261026-es-imposible-reconocer-estas-elecciones-fl%C3%A1vio-bolsonaro-tras-derrota-ante-lula",
+      "source": "France 24",
+      "pubDate": "Mon, 26 Oct 2026 02:25:39 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Lula gana las elecciones de Brasil con una remontada histórica pero Bolsonaro pide la anulación y no reconoce la derrota",
+      "link": "https://www.bbc.com/mundo/articles/ck1wvz44jy0go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
-      "pubDate": "2026-10-25T23:58:23.993Z",
+      "pubDate": "Mon, 26 Oct 2026 02:16:33 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Yotova y Gyurov  se disputarán la presidencia de Bulgaria en una ajustada segunda vuelta",
-      "link": "https://www.infobae.com/america/agencias/2026/10/25/yotova-y-gyurov-se-disputaran-la-presidencia-de-bulgaria-en-una-ajustada-segunda-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Sun, 25 Oct 2026 23:31:55 +0000",
+      "title": "Presidente Abelardo De La Espriella anunció una campaña nacional de ahorro de agua, energía y gas ante el fenómeno de El Niño: 'Evitar el desperdicio'",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-anuncio-una-campana-nacional-de-ahorro-de-agua-energia-y-gas-ante-el-fenomeno-de-el-nino-evitar-el-desperdicio-3596244",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-25T21:13:20-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El último gran triunfo de Lula: por qué su victoria en Brasil tiene un valor tan especial para él y la izquierda de América Latina",
+      "link": "https://www.bbc.com/mundo/articles/c6kglv4mk49wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 26 Oct 2026 00:48:41 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Anamá Ferreira votó en el balotaje de Brasil y tuvo un altercado con un votante de Lula da Silva: “¡Andá a laburar!”",
-      "link": "https://www.infobae.com/teleshow/2026/10/25/anama-ferreira-voto-en-el-balotaje-de-brasil-y-tuvo-un-altercado-con-un-votante-de-lula-da-silva-anda-a-laburar/",
-      "source": "Infobae",
-      "pubDate": "Sun, 25 Oct 2026 22:53:24 +0000",
+      "title": "Lula da la vuelta a los resultados y gana el balotaje a la Presidencia de Brasil",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261026-lula-da-la-vuelta-a-los-resultados-y-gana-el-balotaje-a-la-presidencia-de-brasil",
+      "source": "France 24",
+      "pubDate": "Mon, 26 Oct 2026 00:23:01 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Lula da la vuelta a los resultados y gana el balotaje a la Presidencia de Brasil",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-en-directo-i-abren-las-urnas-en-brasil-lula-y-bolsonaro-disputan-la-presidencia-en-un-tenso-balotaje",
+      "source": "France 24",
+      "pubDate": "Mon, 26 Oct 2026 00:11:21 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -77,70 +141,6 @@
       "pubDate": "Sun, 25 Oct 2026 22:52:52 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "¿En qué se distancian Lula y Flávio Bolsonaro de cara al balotaje en Brasil?",
-      "link": "https://www.france24.com/es/video/20261025-en-qu%C3%A9-se-distancian-lula-y-fl%C3%A1vio-bolsonaro-de-cara-al-balotaje-en-brasil",
-      "source": "France 24",
-      "pubDate": "Sun, 25 Oct 2026 21:49:18 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Informe desde Río: extienden jornada electoral en Brasil tras aval del Supremo",
-      "link": "https://www.france24.com/es/video/20261025-informe-desde-r%C3%ADo-extienden-jornada-electoral-en-brasil-tras-aval-del-supremo",
-      "source": "France 24",
-      "pubDate": "Sun, 25 Oct 2026 21:35:03 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Extienden dos horas las votaciones presidenciales en Brasil",
-      "link": "https://www.lasillavacia.com/en-vivo/extienden-dos-horas-las-votaciones-presidenciales-en-brasil/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 25 Oct 2026 20:53:28 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Informe desde São Paulo: ¿Cómo llegan Lula da Silva y Bolsonaro de cara al balotaje?",
-      "link": "https://www.france24.com/es/video/20261025-informe-desde-s%C3%A3o-paulo-c%C3%B3mo-llegan-lula-da-silva-y-bolsonaro-de-cara-al-balotaje",
-      "source": "France 24",
-      "pubDate": "Sun, 25 Oct 2026 18:41:29 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Marien Le Pen: \"Francia no está en este estado por su pueblo sino por sus líderes\"",
-      "link": "https://www.france24.com/es/video/20261025-marien-le-pen-francia-no-est%C3%A1-en-este-estado-por-su-pueblo-sino-por-sus-l%C3%ADderes",
-      "source": "France 24",
-      "pubDate": "Sun, 25 Oct 2026 17:46:55 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Informe desde Río de Janeiro: avanza con normalidad la jornada electoral a pesar de las lluvias",
-      "link": "https://www.france24.com/es/video/20261025-informe-desde-r%C3%ADo-de-janeiro-avanza-con-normalidad-la-jornada-electoral-a-pesar-de-las-lluvias",
-      "source": "France 24",
-      "pubDate": "Sun, 25 Oct 2026 13:42:04 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "En directo I Lula obtiene el 51,09% de la votación del balotaje mientras Bolsonaro consigue el 48,91% al 78% escrutado",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-en-directo-i-abren-las-urnas-en-brasil-lula-y-bolsonaro-disputan-la-presidencia-en-un-tenso-balotaje",
-      "source": "France 24",
-      "pubDate": "Sun, 25 Oct 2026 12:05:34 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Ministro de Justicia Iván Cancino negó acusaciones a Abelardo De La Espriella por caso de Nassim Orfale, requerido por EE. UU.: 'No tiene sustento'",
-      "link": "https://www.eltiempo.com/politica/gobierno/ministro-de-justicia-ivan-cancino-nego-acusaciones-a-abelardo-de-la-espriella-por-caso-de-nassim-orfale-requerido-por-ee-uu-no-tiene-sustento-3596135",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-25T05:51:51-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
