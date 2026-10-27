@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:40:01.398Z",
+  "updatedAt": "2026-10-27T04:18:50.399Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 15,
+      "trendsScore": 19,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 6,
+      "finalScore": 8,
       "momentum": {
-        "value": 0,
+        "value": 33.3,
         "direction": "flat"
       },
-      "probability": 6.5
+      "probability": 8.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,18 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 93.5
+      "probability": 91.6
     }
   ],
   "articles": [
+    {
+      "title": "Presidente Abelardo De La Espriella se pronunció tras asesinato de Miguel Castellanos en Cúcuta: ordenó a Policía y Fiscalía capturar a responsables",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-se-pronuncio-tras-el-asesinato-de-miguel-castellanos-en-cucuta-ordeno-a-la-policia-y-a-la-fiscalia-capturar-a-los-responsables-3596524",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-26T22:02:32-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Elecciones en Israel: Eisenkot promete unir al país, mientras Netanyahu lo tacha de \"blando\" con Irán",
       "link": "https://www.france24.com/es/medio-oriente/20261026-elecciones-en-israel-eisenkot-promete-unir-al-pa%C3%ADs-mientras-netanyahu-lo-tacha-de-blando-con-ir%C3%A1n",
@@ -53,30 +61,6 @@
       "pubDate": "Mon, 26 Oct 2026 23:33:41 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "El partido de Flavio Bolsonaro reconoció la victoria de Lula da Silva en el balotaje en Brasil",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/26/el-partido-de-flavio-bolsonaro-reconocio-la-victoria-de-lula-da-silva-en-el-balotaje-en-brasil/",
-      "source": "Infobae",
-      "pubDate": "Mon, 26 Oct 2026 23:29:23 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Sergio Massa celebró el triunfo de Lula en Brasil: \"Es el Perón de este siglo\"",
-      "link": "https://www.infobae.com/politica/2026/10/26/sergio-massa-celebro-el-triunfo-de-lula-en-brasil-es-el-peron-de-este-siglo/",
-      "source": "Infobae",
-      "pubDate": "Mon, 26 Oct 2026 23:21:43 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Alias Flecha, segundo cabecilla del frente 33 de las disidencias de las Farc, se sometió a la justicia en el Catatumbo",
-      "link": "https://www.infobae.com/colombia/2026/10/26/alias-flecha-segundo-cabecilla-del-frente-33-de-las-disidencias-de-las-farc-se-sometio-a-la-justicia-en-el-catatumbo/",
-      "source": "Infobae",
-      "pubDate": "Mon, 26 Oct 2026 22:48:49 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Lula gana las elecciones de Brasil con una remontada histórica y tendrá un cuarto mandato",
@@ -103,34 +87,10 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "Elecciones en Brasil: los gráficos que explican la remontada de Lula",
-      "link": "https://www.france24.com/es/programas/en-contexto/20261026-elecciones-en-brasil-los-gr%C3%A1ficos-que-explican-la-remontada-de-lula",
-      "source": "France 24",
-      "pubDate": "Mon, 26 Oct 2026 20:38:21 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Cómo logró Lula una remontada histórica y qué impacto tiene su triunfo en América Latina",
       "link": "https://www.bbc.com/mundo/articles/cw073jk3g44ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
       "pubDate": "Mon, 26 Oct 2026 19:20:10 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Informe desde Río: los factores que ayudaron a Lula a asegurar su reelección",
-      "link": "https://www.france24.com/es/video/20261026-informe-desde-r%C3%ADo-los-factores-que-ayudaron-a-lula-a-asegurar-su-reelecci%C3%B3n",
-      "source": "France 24",
-      "pubDate": "Mon, 26 Oct 2026 18:35:26 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Así reaccionaron los seguidores de Lula a su victoria en la segunda vuelta presidencial",
-      "link": "https://www.france24.com/es/video/20261026-as%C3%AD-reaccionaron-los-seguidores-de-lula-a-su-victoria-en-la-segunda-vuelta-presidencial",
-      "source": "France 24",
-      "pubDate": "Mon, 26 Oct 2026 18:06:44 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -141,6 +101,22 @@
       "pubDate": "Mon, 26 Oct 2026 14:11:59 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "3 claves detrás de la histórica remontada electoral de Lula para ganar su cuarto mandato como presidente de Brasil",
+      "link": "https://www.bbc.com/mundo/articles/cmwy41z5lr8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 26 Oct 2026 10:46:31 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "El último gran triunfo de Lula: por qué su victoria en Brasil tiene un valor tan especial para él y la izquierda de América Latina",
+      "link": "https://www.bbc.com/mundo/articles/c6kglv4mk49wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Mundo",
+      "pubDate": "Mon, 26 Oct 2026 00:48:41 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     }
   ]
 }
