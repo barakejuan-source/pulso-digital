@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T04:18:50.399Z",
+  "updatedAt": "2026-10-27T11:50:07.946Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 8,
       "momentum": {
-        "value": 33.3,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 8.4
@@ -47,12 +47,20 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella se pronunció tras asesinato de Miguel Castellanos en Cúcuta: ordenó a Policía y Fiscalía capturar a responsables",
+      "title": "Presidente Abelardo De La Espriella se pronunció tras asesinato de exsecretario Miguel Castellanos en Cúcuta: 'Vamos a perseguir a los responsables'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-se-pronuncio-tras-el-asesinato-de-miguel-castellanos-en-cucuta-ordeno-a-la-policia-y-a-la-fiscalia-capturar-a-los-responsables-3596524",
       "source": "El Tiempo",
-      "pubDate": "2026-10-26T22:02:32-05:00",
+      "pubDate": "2026-10-27T06:17:44-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Flávio Bolsonaro afirma que recibió prohibición para salir de Brasil: lo que viene para el excandidato",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261027-fl%C3%A1vio-bolsonaro-afirma-que-recibi%C3%B3-prohibici%C3%B3n-para-salir-de-brasil-lo-que-viene-para-el-excandidato",
+      "source": "France 24",
+      "pubDate": "Tue, 27 Oct 2026 08:29:56 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Elecciones en Israel: Eisenkot promete unir al país, mientras Netanyahu lo tacha de \"blando\" con Irán",
@@ -67,22 +75,6 @@
       "link": "https://www.bbc.com/mundo/articles/ck1wvz44jy0go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
       "pubDate": "Mon, 26 Oct 2026 22:46:37 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Lula gana la segunda vuelta tras darle vuelta a los resultados; Bolsonaro no reconoce su derrota",
-      "link": "https://www.france24.com/es/video/20261026-lula-gana-la-segunda-vuelta-tras-darle-vuelta-a-los-resultados-bolsonaro-no-reconoce-su-derrota",
-      "source": "France 24",
-      "pubDate": "Mon, 26 Oct 2026 21:49:15 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Lula gana las elecciones en Brasil, pero se enfrenta a un complejo panorama para gobernar",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261026-lula-gana-las-elecciones-en-brasil-pero-se-enfrenta-a-un-complejo-panorama-para-gobernar",
-      "source": "France 24",
-      "pubDate": "Mon, 26 Oct 2026 21:20:35 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
