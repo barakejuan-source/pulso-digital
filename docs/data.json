@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T17:44:13.103Z",
+  "updatedAt": "2026-10-27T21:58:37.753Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 18,
+      "trendsScore": 19,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 7,
+      "finalScore": 8,
       "momentum": {
-        "value": -12.5,
+        "value": 14.3,
         "direction": "flat"
       },
-      "probability": 7.4
+      "probability": 8.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,63 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 92.6
+      "probability": 91.6
     }
   ],
   "articles": [
     {
-      "title": "Flávio Bolsonaro abandonó Brasil tras la derrota electoral y viaja rumbo a Estados Unidos",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/27/flavio-bolsonaro-no-entrego-su-pasaporte-dentro-del-plazo-impuesto-por-la-justicia-de-brasil-y-la-policia-los-cancelo/",
-      "source": "Infobae",
-      "pubDate": "Tue, 27 Oct 2026 17:38:10 +0000",
+      "title": "EE. UU. otorgará visado a Flávio Bolsonaro; Lula confirma que su rival derechista huyó de Brasil",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261027-ee-uu-otorgar%C3%A1-visado-a-fl%C3%A1vio-bolsonaro-lula-confirma-que-su-rival-derechista-huy%C3%B3-de-brasil",
+      "source": "France 24",
+      "pubDate": "Tue, 27 Oct 2026 21:49:32 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Gobierno de Abelardo de la Espriella justificó la salida del país del Grupo de La Haya: “Colombia volvió a ser un país predecible, respetuoso y sensato”",
-      "link": "https://www.infobae.com/colombia/2026/10/27/gobierno-de-abelardo-de-la-espriella-justifico-la-salida-del-pais-del-grupo-de-la-haya-colombia-volvio-a-ser-un-pais-predecible-respetuoso-y-sensato/",
+      "title": "VÍDEO: Un diputado de Bolsonaro anuncia que el excandidato presidencial ha partido rumbo al \"exilio\" en EEUU",
+      "link": "https://www.infobae.com/america/agencias/2026/10/27/video-un-diputado-de-bolsonaro-anuncia-que-el-excandidato-presidencial-ha-partido-rumbo-al-exilio-en-eeuu/",
       "source": "Infobae",
-      "pubDate": "Tue, 27 Oct 2026 17:27:33 +0000",
+      "pubDate": "Tue, 27 Oct 2026 21:45:53 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Flavio Bolsonaro abandonó Brasil EN VIVO: Estados Unidos le otorgará una visa a Flávio Bolsonaro y a su familia: “Se les permitirá ingresar al país”",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/27/flavio-bolsonaro-abandono-brasil-en-vivo/",
+      "source": "Infobae",
+      "pubDate": "Tue, 27 Oct 2026 21:38:32 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Flávio Bolsonaro abandonó Brasil tras la derrota electoral y viaja rumbo a Estados Unidos",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/27/flavio-bolsonaro-no-entrego-su-pasaporte-dentro-del-plazo-impuesto-por-la-justicia-de-brasil-y-la-policia-los-cancelo/",
+      "source": "Infobae",
+      "pubDate": "Tue, 27 Oct 2026 21:26:12 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella establece los criterios para que los ministros presenten proyectos de ley y soliciten mensajes de urgencia",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-establece-los-criterios-para-que-los-ministros-presenten-proyectos-de-ley-y-soliciten-mensajes-de-urgencia-3596727",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-27T15:18:25-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Directo a Río y la cancelación del pasaporte de Bolsonaro y las interrogantes sobre su paradero",
+      "link": "https://www.france24.com/es/video/20261027-directo-a-r%C3%ADo-y-la-cancelaci%C3%B3n-del-pasaporte-de-bolsonaro-y-las-interrogantes-sobre-su-paradero",
+      "source": "France 24",
+      "pubDate": "Tue, 27 Oct 2026 19:23:05 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Estos son los embajadores y cónsules de carrera que han salido de sus cargos en los primeros meses del gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/estos-son-los-embajadores-y-consules-de-carrera-que-han-salido-de-sus-cargos-en-los-primeros-meses-del-gobierno-de-abelardo-de-la-espriella-3596649",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-27T14:07:49-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,38 +107,6 @@
       "link": "https://www.france24.com/es/programas/el-debate/20261027-victoria-hist%C3%B3rica-de-lula-en-brasil-c%C3%B3mo-logr%C3%B3-remontar-ante-fl%C3%A1vio-bolsonaro",
       "source": "France 24",
       "pubDate": "Tue, 27 Oct 2026 14:48:20 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "$100 millones de recompensa por el asesinato del exsecretario de Cúcuta",
-      "link": "https://www.lasillavacia.com/en-vivo/100-millones-de-recompensa-por-el-asesinato-del-exsecretario-de-cucuta/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 27 Oct 2026 13:16:58 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Alejandro Ordóñez acompaña agenda diplomática de la OEA en Bogotá antes de asumir el Ministerio del Interior: 'La seguridad es prioridad estratégica'",
-      "link": "https://www.eltiempo.com/politica/gobierno/alejandro-ordonez-acompana-agenda-diplomatica-de-la-oea-en-bogota-antes-de-asumir-el-ministerio-del-interior-la-seguridad-es-prioridad-estrategica-3596559",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-27T07:02:55-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella se pronunció tras asesinato de exsecretario Miguel Castellanos en Cúcuta: 'Vamos a perseguir a los responsables'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-se-pronuncio-tras-el-asesinato-de-miguel-castellanos-en-cucuta-ordeno-a-la-policia-y-a-la-fiscalia-capturar-a-los-responsables-3596524",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-27T06:17:44-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Flávio Bolsonaro afirma que recibió prohibición para salir de Brasil: lo que viene para el excandidato",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261027-fl%C3%A1vio-bolsonaro-afirma-que-recibi%C3%B3-prohibici%C3%B3n-para-salir-de-brasil-lo-que-viene-para-el-excandidato",
-      "source": "France 24",
-      "pubDate": "Tue, 27 Oct 2026 08:29:56 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
