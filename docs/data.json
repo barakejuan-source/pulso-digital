@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T11:50:07.946Z",
+  "updatedAt": "2026-10-27T17:44:13.103Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 19,
+      "trendsScore": 18,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 8,
+      "finalScore": 7,
       "momentum": {
-        "value": 0,
+        "value": -12.5,
         "direction": "flat"
       },
-      "probability": 8.4
+      "probability": 7.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,50 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 91.6
+      "probability": 92.6
     }
   ],
   "articles": [
+    {
+      "title": "Flávio Bolsonaro abandonó Brasil tras la derrota electoral y viaja rumbo a Estados Unidos",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/27/flavio-bolsonaro-no-entrego-su-pasaporte-dentro-del-plazo-impuesto-por-la-justicia-de-brasil-y-la-policia-los-cancelo/",
+      "source": "Infobae",
+      "pubDate": "Tue, 27 Oct 2026 17:38:10 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Gobierno de Abelardo de la Espriella justificó la salida del país del Grupo de La Haya: “Colombia volvió a ser un país predecible, respetuoso y sensato”",
+      "link": "https://www.infobae.com/colombia/2026/10/27/gobierno-de-abelardo-de-la-espriella-justifico-la-salida-del-pais-del-grupo-de-la-haya-colombia-volvio-a-ser-un-pais-predecible-respetuoso-y-sensato/",
+      "source": "Infobae",
+      "pubDate": "Tue, 27 Oct 2026 17:27:33 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Victoria histórica de Lula en Brasil: ¿cómo logró remontar ante Flávio Bolsonaro?",
+      "link": "https://www.france24.com/es/programas/el-debate/20261027-victoria-hist%C3%B3rica-de-lula-en-brasil-c%C3%B3mo-logr%C3%B3-remontar-ante-fl%C3%A1vio-bolsonaro",
+      "source": "France 24",
+      "pubDate": "Tue, 27 Oct 2026 14:48:20 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "$100 millones de recompensa por el asesinato del exsecretario de Cúcuta",
+      "link": "https://www.lasillavacia.com/en-vivo/100-millones-de-recompensa-por-el-asesinato-del-exsecretario-de-cucuta/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 27 Oct 2026 13:16:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Alejandro Ordóñez acompaña agenda diplomática de la OEA en Bogotá antes de asumir el Ministerio del Interior: 'La seguridad es prioridad estratégica'",
+      "link": "https://www.eltiempo.com/politica/gobierno/alejandro-ordonez-acompana-agenda-diplomatica-de-la-oea-en-bogota-antes-de-asumir-el-ministerio-del-interior-la-seguridad-es-prioridad-estrategica-3596559",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-27T07:02:55-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Presidente Abelardo De La Espriella se pronunció tras asesinato de exsecretario Miguel Castellanos en Cúcuta: 'Vamos a perseguir a los responsables'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/de-la-espriella-se-pronuncio-tras-el-asesinato-de-miguel-castellanos-en-cucuta-ordeno-a-la-policia-y-a-la-fiscalia-capturar-a-los-responsables-3596524",
@@ -59,14 +99,6 @@
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261027-fl%C3%A1vio-bolsonaro-afirma-que-recibi%C3%B3-prohibici%C3%B3n-para-salir-de-brasil-lo-que-viene-para-el-excandidato",
       "source": "France 24",
       "pubDate": "Tue, 27 Oct 2026 08:29:56 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Elecciones en Israel: Eisenkot promete unir al país, mientras Netanyahu lo tacha de \"blando\" con Irán",
-      "link": "https://www.france24.com/es/medio-oriente/20261026-elecciones-en-israel-eisenkot-promete-unir-al-pa%C3%ADs-mientras-netanyahu-lo-tacha-de-blando-con-ir%C3%A1n",
-      "source": "France 24",
-      "pubDate": "Mon, 26 Oct 2026 23:33:41 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -87,26 +119,10 @@
       "candidateColor": "#64748b"
     },
     {
-      "title": "La mayoría de los presidentes de derecha de países vecinos reconocen el triunfo de Lula en Brasil a pesar de los cuestionamientos de Bolsonaro",
-      "link": "https://www.bbc.com/mundo/articles/cm5yn43g9nn4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 26 Oct 2026 14:11:59 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "3 claves detrás de la histórica remontada electoral de Lula para ganar su cuarto mandato como presidente de Brasil",
       "link": "https://www.bbc.com/mundo/articles/cmwy41z5lr8zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
       "pubDate": "Mon, 26 Oct 2026 10:46:31 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "El último gran triunfo de Lula: por qué su victoria en Brasil tiene un valor tan especial para él y la izquierda de América Latina",
-      "link": "https://www.bbc.com/mundo/articles/c6kglv4mk49wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 26 Oct 2026 00:48:41 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
