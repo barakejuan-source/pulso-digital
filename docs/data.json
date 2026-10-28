@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T21:58:37.753Z",
+  "updatedAt": "2026-10-28T01:08:36.014Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,28 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 19,
+      "trendsScore": 10,
+      "youtubeScore": 100,
+      "sentimentScore": 24,
+      "sentimentPct": {
+        "positive": 24,
+        "negative": 34,
+        "neutral": 42
+      },
+      "youtubeViews": 197708,
+      "finalScore": 41,
+      "momentum": {
+        "value": 412.5,
+        "direction": "up"
+      },
+      "probability": 50.6
+    },
+    {
+      "id": "abelardo_espriella",
+      "name": "Abelardo de la Espriella",
+      "party": "Defensores de la Patria",
+      "color": "#1D3557",
+      "trendsScore": 100,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,65 +37,28 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 8,
+      "finalScore": 40,
       "momentum": {
-        "value": 14.3,
-        "direction": "flat"
+        "value": -54,
+        "direction": "down"
       },
-      "probability": 8.4
-    },
-    {
-      "id": "abelardo_espriella",
-      "name": "Abelardo de la Espriella",
-      "party": "Defensores de la Patria",
-      "color": "#1D3557",
-      "trendsScore": 100,
-      "youtubeScore": 100,
-      "sentimentScore": 58,
-      "sentimentPct": {
-        "positive": 58,
-        "negative": 22,
-        "neutral": 20
-      },
-      "youtubeViews": 69182,
-      "finalScore": 87,
-      "momentum": {
-        "value": 0,
-        "direction": "flat"
-      },
-      "probability": 91.6
+      "probability": 49.4
     }
   ],
   "articles": [
     {
-      "title": "EE. UU. otorgará visado a Flávio Bolsonaro; Lula confirma que su rival derechista huyó de Brasil",
+      "title": "Flavio Bolsonaro abandonó Brasil EN VIVO: Trump volvió a poner en duda el triunfo de Lula en el balotaje",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/27/flavio-bolsonaro-abandono-brasil-en-vivo/",
+      "source": "Infobae",
+      "pubDate": "Wed, 28 Oct 2026 01:07:12 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "EE. UU. otorgará visado a Flávio Bolsonaro; Lula califica de \"vergonzosa\" la huida del excandidato",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261027-ee-uu-otorgar%C3%A1-visado-a-fl%C3%A1vio-bolsonaro-lula-confirma-que-su-rival-derechista-huy%C3%B3-de-brasil",
       "source": "France 24",
       "pubDate": "Tue, 27 Oct 2026 21:49:32 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "VÍDEO: Un diputado de Bolsonaro anuncia que el excandidato presidencial ha partido rumbo al \"exilio\" en EEUU",
-      "link": "https://www.infobae.com/america/agencias/2026/10/27/video-un-diputado-de-bolsonaro-anuncia-que-el-excandidato-presidencial-ha-partido-rumbo-al-exilio-en-eeuu/",
-      "source": "Infobae",
-      "pubDate": "Tue, 27 Oct 2026 21:45:53 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Flavio Bolsonaro abandonó Brasil EN VIVO: Estados Unidos le otorgará una visa a Flávio Bolsonaro y a su familia: “Se les permitirá ingresar al país”",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/27/flavio-bolsonaro-abandono-brasil-en-vivo/",
-      "source": "Infobae",
-      "pubDate": "Tue, 27 Oct 2026 21:38:32 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Flávio Bolsonaro abandonó Brasil tras la derrota electoral y viaja rumbo a Estados Unidos",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/27/flavio-bolsonaro-no-entrego-su-pasaporte-dentro-del-plazo-impuesto-por-la-justicia-de-brasil-y-la-policia-los-cancelo/",
-      "source": "Infobae",
-      "pubDate": "Tue, 27 Oct 2026 21:26:12 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -101,14 +85,6 @@
       "pubDate": "2026-10-27T14:07:49-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Victoria histórica de Lula en Brasil: ¿cómo logró remontar ante Flávio Bolsonaro?",
-      "link": "https://www.france24.com/es/programas/el-debate/20261027-victoria-hist%C3%B3rica-de-lula-en-brasil-c%C3%B3mo-logr%C3%B3-remontar-ante-fl%C3%A1vio-bolsonaro",
-      "source": "France 24",
-      "pubDate": "Tue, 27 Oct 2026 14:48:20 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Lula gana las elecciones de Brasil con una remontada histórica y tendrá un cuarto mandato",
