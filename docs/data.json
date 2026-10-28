@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-28T08:04:52.315Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-10-28T16:31:41.582Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -15,10 +15,10 @@
         "negative": 34,
         "neutral": 42
       },
-      "youtubeViews": 197708,
+      "youtubeViews": 197711,
       "finalScore": 42,
       "momentum": {
-        "value": 2.4,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 51.2
@@ -47,6 +47,46 @@
   ],
   "articles": [
     {
+      "title": "Casa de la Moneda de Portugal envió nota de protesta a Colombia por los cambios del gobierno de Abelardo de la Espriella en el convenio para fabricar pasaportes",
+      "link": "https://www.infobae.com/colombia/2026/10/28/casa-de-la-moneda-de-portugal-envio-nota-de-protesta-a-colombia-por-los-cambios-del-gobierno-de-abelardo-de-la-espriella-en-el-convenio-para-fabricar-pasaportes/",
+      "source": "Infobae",
+      "pubDate": "Wed, 28 Oct 2026 16:28:38 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Tras megaoperativo en Bogotá, presidente Abelardo De La Espriella encaró a 'Mailo', señalado de lanzar granada a un establecimiento en enero: 'Payaso'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/tras-megaoperativo-en-bogota-presidente-abelardo-de-la-espriella-encaro-a-mailo-senalado-de-lanzar-granada-a-un-establecimiento-en-enero-payaso-3596937",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-28T11:15:21-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Estos son los reparos de la CRC a la alocución televisiva de Abelardo de la Espriella, en la que lanzó críticas a los medios y “los dinosaurios de la política”",
+      "link": "https://www.infobae.com/colombia/2026/10/28/estos-son-los-reparos-de-la-crc-a-la-alocucion-televisiva-de-abelardo-de-la-espriella-en-la-que-lanzo-criticas-a-los-medios-y-los-dinosaurios-de-la-politica/",
+      "source": "Infobae",
+      "pubDate": "Wed, 28 Oct 2026 16:08:34 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván René Valenciano realizó publicación en redes tras la captura de su hijo y su hijastro en operativo liderado por Abelardo de la Espriella en Medellín y le llovieron ataques: “Bienvenido a la patria milagro”   ",
+      "link": "https://www.infobae.com/colombia/2026/10/28/ivan-rene-valenciano-realizo-publicacion-en-redes-tras-la-captura-de-su-hijo-y-su-hijastro-en-operativo-liderado-por-abelardo-de-la-espriella-en-medellin-y-le-llovieron-ataques-bienvenido-a-la-patria-milagro/",
+      "source": "Infobae",
+      "pubDate": "Wed, 28 Oct 2026 16:07:19 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella anunció que autorizó un bombardeo estratégico este 28 de octubre: 'Madrugada movida'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-que-autorizo-un-bombardeo-estrategico-este-28-de-octubre-madrugada-movida-3596847",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-28T10:48:02-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Duro rifirrafe entre ministro de Agricultura, Indalecio Dangond, e Iván Cepeda durante debate de control político en el Senado: 'A ver si hace algo'",
       "link": "https://www.eltiempo.com/politica/congreso/duro-rifirrafe-entre-el-ministro-de-agricultura-indalecio-dangond-e-ivan-cepeda-durante-debate-de-control-politico-en-el-senado-a-ver-si-hace-algo-3596824",
       "source": "El Tiempo",
@@ -59,30 +99,6 @@
       "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261028-economia-brasil-lula-elecciones-mercados",
       "source": "France 24",
       "pubDate": "Wed, 28 Oct 2026 03:14:55 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "EE. UU. otorgará visado a Flávio Bolsonaro; Lula califica de \"vergonzosa\" la huida del excandidato",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261027-ee-uu-otorgar%C3%A1-visado-a-fl%C3%A1vio-bolsonaro-lula-confirma-que-su-rival-derechista-huy%C3%B3-de-brasil",
-      "source": "France 24",
-      "pubDate": "Tue, 27 Oct 2026 21:49:32 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella establece los criterios para que los ministros presenten proyectos de ley y soliciten mensajes de urgencia",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-establece-los-criterios-para-que-los-ministros-presenten-proyectos-de-ley-y-soliciten-mensajes-de-urgencia-3596727",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-27T15:18:25-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Directo a Río y la cancelación del pasaporte de Bolsonaro y las interrogantes sobre su paradero",
-      "link": "https://www.france24.com/es/video/20261027-directo-a-r%C3%ADo-y-la-cancelaci%C3%B3n-del-pasaporte-de-bolsonaro-y-las-interrogantes-sobre-su-paradero",
-      "source": "France 24",
-      "pubDate": "Tue, 27 Oct 2026 19:23:05 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
