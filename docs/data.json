@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T01:08:36.014Z",
+  "updatedAt": "2026-10-28T08:04:52.315Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 10,
+      "trendsScore": 12,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 42
       },
       "youtubeViews": 197708,
-      "finalScore": 41,
+      "finalScore": 42,
       "momentum": {
-        "value": 412.5,
-        "direction": "up"
+        "value": 2.4,
+        "direction": "flat"
       },
-      "probability": 50.6
+      "probability": 51.2
     },
     {
       "id": "abelardo_espriella",
@@ -39,18 +39,26 @@
       "youtubeViews": 0,
       "finalScore": 40,
       "momentum": {
-        "value": -54,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 49.4
+      "probability": 48.8
     }
   ],
   "articles": [
     {
-      "title": "Flavio Bolsonaro abandonó Brasil EN VIVO: Trump volvió a poner en duda el triunfo de Lula en el balotaje",
-      "link": "https://www.infobae.com/america/america-latina/2026/10/27/flavio-bolsonaro-abandono-brasil-en-vivo/",
-      "source": "Infobae",
-      "pubDate": "Wed, 28 Oct 2026 01:07:12 +0000",
+      "title": "Duro rifirrafe entre ministro de Agricultura, Indalecio Dangond, e Iván Cepeda durante debate de control político en el Senado: 'A ver si hace algo'",
+      "link": "https://www.eltiempo.com/politica/congreso/duro-rifirrafe-entre-el-ministro-de-agricultura-indalecio-dangond-e-ivan-cepeda-durante-debate-de-control-politico-en-el-senado-a-ver-si-hace-algo-3596824",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-27T22:32:05-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Brasil: ¿cómo reaccionaron los mercados a la victoria de Lula?",
+      "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261028-economia-brasil-lula-elecciones-mercados",
+      "source": "France 24",
+      "pubDate": "Wed, 28 Oct 2026 03:14:55 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
@@ -77,14 +85,6 @@
       "pubDate": "Tue, 27 Oct 2026 19:23:05 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Estos son los embajadores y cónsules de carrera que han salido de sus cargos en los primeros meses del gobierno de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/estos-son-los-embajadores-y-consules-de-carrera-que-han-salido-de-sus-cargos-en-los-primeros-meses-del-gobierno-de-abelardo-de-la-espriella-3596649",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-27T14:07:49-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Lula gana las elecciones de Brasil con una remontada histórica y tendrá un cuarto mandato",
