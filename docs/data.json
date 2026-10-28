@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-28T16:31:41.582Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-10-28T22:22:47.099Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 12,
+      "trendsScore": 10,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 42
       },
       "youtubeViews": 197711,
-      "finalScore": 42,
+      "finalScore": 41,
       "momentum": {
-        "value": 0,
+        "value": -2.4,
         "direction": "flat"
       },
-      "probability": 51.2
+      "probability": 50.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,63 +42,39 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 48.8
+      "probability": 49.4
     }
   ],
   "articles": [
     {
-      "title": "Casa de la Moneda de Portugal envió nota de protesta a Colombia por los cambios del gobierno de Abelardo de la Espriella en el convenio para fabricar pasaportes",
-      "link": "https://www.infobae.com/colombia/2026/10/28/casa-de-la-moneda-de-portugal-envio-nota-de-protesta-a-colombia-por-los-cambios-del-gobierno-de-abelardo-de-la-espriella-en-el-convenio-para-fabricar-pasaportes/",
-      "source": "Infobae",
-      "pubDate": "Wed, 28 Oct 2026 16:28:38 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Tras megaoperativo en Bogotá, presidente Abelardo De La Espriella encaró a 'Mailo', señalado de lanzar granada a un establecimiento en enero: 'Payaso'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/tras-megaoperativo-en-bogota-presidente-abelardo-de-la-espriella-encaro-a-mailo-senalado-de-lanzar-granada-a-un-establecimiento-en-enero-payaso-3596937",
+      "title": "Presidente Abelardo De La Espriella anuncia la necesidad de militarizar algunas zonas de Bogotá en medio de un consejo de seguridad en la ciudad",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-la-necesidad-de-militarizar-algunas-zonas-de-bogota-en-medio-de-consejo-de-seguridad-3597039",
       "source": "El Tiempo",
-      "pubDate": "2026-10-28T11:15:21-05:00",
+      "pubDate": "2026-10-28T17:05:20-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Estos son los reparos de la CRC a la alocución televisiva de Abelardo de la Espriella, en la que lanzó críticas a los medios y “los dinosaurios de la política”",
-      "link": "https://www.infobae.com/colombia/2026/10/28/estos-son-los-reparos-de-la-crc-a-la-alocucion-televisiva-de-abelardo-de-la-espriella-en-la-que-lanzo-criticas-a-los-medios-y-los-dinosaurios-de-la-politica/",
+      "title": "JNE rechaza agravios de Carlos Álvarez contra su presidente: “Contribuye a deteriorar el debate público”",
+      "link": "https://www.infobae.com/peru/2026/10/28/jne-rechaza-agravios-de-carlos-alvarez-contra-su-presidente-contribuye-a-deteriorar-el-debate-publico/",
       "source": "Infobae",
-      "pubDate": "Wed, 28 Oct 2026 16:08:34 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Wed, 28 Oct 2026 21:58:25 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Iván René Valenciano realizó publicación en redes tras la captura de su hijo y su hijastro en operativo liderado por Abelardo de la Espriella en Medellín y le llovieron ataques: “Bienvenido a la patria milagro”   ",
-      "link": "https://www.infobae.com/colombia/2026/10/28/ivan-rene-valenciano-realizo-publicacion-en-redes-tras-la-captura-de-su-hijo-y-su-hijastro-en-operativo-liderado-por-abelardo-de-la-espriella-en-medellin-y-le-llovieron-ataques-bienvenido-a-la-patria-milagro/",
-      "source": "Infobae",
-      "pubDate": "Wed, 28 Oct 2026 16:07:19 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anunció que autorizó un bombardeo estratégico este 28 de octubre: 'Madrugada movida'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-que-autorizo-un-bombardeo-estrategico-este-28-de-octubre-madrugada-movida-3596847",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-28T10:48:02-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Duro rifirrafe entre ministro de Agricultura, Indalecio Dangond, e Iván Cepeda durante debate de control político en el Senado: 'A ver si hace algo'",
-      "link": "https://www.eltiempo.com/politica/congreso/duro-rifirrafe-entre-el-ministro-de-agricultura-indalecio-dangond-e-ivan-cepeda-durante-debate-de-control-politico-en-el-senado-a-ver-si-hace-algo-3596824",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-27T22:32:05-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Brasil: ¿cómo reaccionaron los mercados a la victoria de Lula?",
-      "link": "https://www.france24.com/es/programas/econom%C3%ADa/20261028-economia-brasil-lula-elecciones-mercados",
+      "title": "¿Cómo fue la huida de Flávio Bolsonaro a EE. UU.?",
+      "link": "https://www.france24.com/es/programas/en-contexto/20261028-c%C3%B3mo-fue-la-huida-de-fl%C3%A1vio-bolsonaro-a-ee-uu",
       "source": "France 24",
-      "pubDate": "Wed, 28 Oct 2026 03:14:55 GMT",
+      "pubDate": "Wed, 28 Oct 2026 21:32:49 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Flávio Bolsonaro llega a Miami mientras enfrenta investigaciones en Brasil",
+      "link": "https://www.france24.com/es/video/20261028-fl%C3%A1vio-bolsonaro-llega-a-miami-mientras-enfrenta-investigaciones-en-brasil",
+      "source": "France 24",
+      "pubDate": "Wed, 28 Oct 2026 17:20:39 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
