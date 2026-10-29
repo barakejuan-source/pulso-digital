@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-29T12:33:49.919Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-10-29T19:29:18.908Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,26 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella envió mensaje de solidaridad tras choque de trenes de alta velocidad en Toledo y ordenó asistencia consular: “España no está sola”",
-      "link": "https://www.infobae.com/colombia/2026/10/29/abelardo-de-la-espriella-envio-mensaje-de-solidaridad-a-espana-tras-choque-de-trenes-de-alta-velocidad-y-ordeno-asistencia-consular-espana-no-esta-sola/",
-      "source": "Infobae",
-      "pubDate": "Thu, 29 Oct 2026 12:24:23 +0000",
+      "title": "La historia del polémico artículo Fuelantala de la reforma pensional: de la 'extorsión' al gobierno Petro en Senado a la aprobación en la Cámara",
+      "link": "https://www.eltiempo.com/politica/congreso/la-historia-del-polemico-articulo-fuelantala-de-la-reforma-pensional-de-la-extorsion-al-gobierno-petro-en-senado-a-la-aprobacion-en-la-camara-3597140",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-29T10:15:36-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Oposición celebró decisión de juez que restituye más de 50 piezas del Museo Nacional retiradas por el Gobierno de Abelardo de la Espriella: “Quisieron borrar nuestra historia” ",
-      "link": "https://www.infobae.com/colombia/2026/10/29/oposicion-celebro-decision-de-juez-que-restituye-mas-de-50-piezas-del-museo-nacional-retiradas-por-el-gobierno-de-abelardo-de-la-espriella-quisieron-borrar-nuestra-historia/",
-      "source": "Infobae",
-      "pubDate": "Thu, 29 Oct 2026 12:22:49 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El ELN descartó por completo someterse ante Abelardo de la Espriella y le lanzó dura advertencia: “Hasta las últimas consecuencias”",
-      "link": "https://www.infobae.com/colombia/2026/10/29/el-eln-descarto-por-completo-someterse-ante-abelardo-de-la-espriella-y-le-lanzo-dura-advertencia-hasta-las-ultimas-consecuencias/",
-      "source": "Infobae",
-      "pubDate": "Thu, 29 Oct 2026 12:17:23 +0000",
+      "title": "Presidente Abelardo De La Espriella presenta la nueva era de RTVC, enfocada en la neutralidad y memoria nacional: 'Lo que hizo historia merece volver'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-presenta-la-nueva-era-de-rtvc-enfocada-en-la-neutralidad-y-memoria-nacional-lo-que-hizo-historia-merece-volver-3597149",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-29T08:44:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -74,15 +66,7 @@
       "title": "Presidente Abelardo De La Espriella envía condolencias tras el trágico accidente ferroviario en Toledo: 'España no está sola'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-envia-condolencias-tras-el-tragico-accidente-ferroviario-en-toledo-espana-no-esta-sola-3597124",
       "source": "El Tiempo",
-      "pubDate": "2026-10-29T06:45:47-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella habla de la necesidad de militarizar algunas zonas de Bogotá en medio de consejo de seguridad: 'Control militar'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-la-necesidad-de-militarizar-algunas-zonas-de-bogota-en-medio-de-consejo-de-seguridad-3597039",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-29T05:36:18-05:00",
+      "pubDate": "2026-10-29T08:04:52-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -93,14 +77,6 @@
       "pubDate": "2026-10-28T17:47:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Cómo logró Lula una remontada histórica y qué impacto tiene su triunfo en América Latina",
-      "link": "https://www.bbc.com/mundo/articles/cw073jk3g44ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 26 Oct 2026 19:20:10 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     }
   ]
 }
