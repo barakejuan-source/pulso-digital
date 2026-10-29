@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T04:59:41.590Z",
+  "updatedAt": "2026-10-29T12:33:49.919Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 5,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 197711,
       "finalScore": 39,
       "momentum": {
-        "value": -4.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 49.4
@@ -47,28 +47,44 @@
   ],
   "articles": [
     {
-      "title": "Seis días antes de morir, Cuauhtémoc Cárdenas canceló participación en evento por motivos de salud",
-      "link": "https://www.infobae.com/mexico/2026/10/29/seis-dias-antes-de-morir-cuauhtemoc-cardenas-cancelo-participacion-en-evento-por-motivos-de-salud/",
+      "title": "Abelardo de la Espriella envió mensaje de solidaridad tras choque de trenes de alta velocidad en Toledo y ordenó asistencia consular: “España no está sola”",
+      "link": "https://www.infobae.com/colombia/2026/10/29/abelardo-de-la-espriella-envio-mensaje-de-solidaridad-a-espana-tras-choque-de-trenes-de-alta-velocidad-y-ordeno-asistencia-consular-espana-no-esta-sola/",
       "source": "Infobae",
-      "pubDate": "Thu, 29 Oct 2026 04:40:20 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anuncia la necesidad de militarizar algunas zonas de Bogotá en medio de consejo de seguridad: 'Control militar'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-la-necesidad-de-militarizar-algunas-zonas-de-bogota-en-medio-de-consejo-de-seguridad-3597039",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-28T22:16:52-05:00",
+      "pubDate": "Thu, 29 Oct 2026 12:24:23 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Directo a... Miami y la llegada de Flávio Bolsonaro a Estados Unidos",
-      "link": "https://www.france24.com/es/video/20261029-directo-a-miami-y-la-llegada-de-fl%C3%A1vio-bolsonaro-a-estados-unidos",
-      "source": "France 24",
-      "pubDate": "Thu, 29 Oct 2026 00:14:39 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Oposición celebró decisión de juez que restituye más de 50 piezas del Museo Nacional retiradas por el Gobierno de Abelardo de la Espriella: “Quisieron borrar nuestra historia” ",
+      "link": "https://www.infobae.com/colombia/2026/10/29/oposicion-celebro-decision-de-juez-que-restituye-mas-de-50-piezas-del-museo-nacional-retiradas-por-el-gobierno-de-abelardo-de-la-espriella-quisieron-borrar-nuestra-historia/",
+      "source": "Infobae",
+      "pubDate": "Thu, 29 Oct 2026 12:22:49 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El ELN descartó por completo someterse ante Abelardo de la Espriella y le lanzó dura advertencia: “Hasta las últimas consecuencias”",
+      "link": "https://www.infobae.com/colombia/2026/10/29/el-eln-descarto-por-completo-someterse-ante-abelardo-de-la-espriella-y-le-lanzo-dura-advertencia-hasta-las-ultimas-consecuencias/",
+      "source": "Infobae",
+      "pubDate": "Thu, 29 Oct 2026 12:17:23 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella envía condolencias tras el trágico accidente ferroviario en Toledo: 'España no está sola'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-envia-condolencias-tras-el-tragico-accidente-ferroviario-en-toledo-espana-no-esta-sola-3597124",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-29T06:45:47-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella habla de la necesidad de militarizar algunas zonas de Bogotá en medio de consejo de seguridad: 'Control militar'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-la-necesidad-de-militarizar-algunas-zonas-de-bogota-en-medio-de-consejo-de-seguridad-3597039",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-29T05:36:18-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Alocución del 25 de octubre de Abelardo De La Espriella: estos son los reparos de la Comisión de Regulación de Comunicaciones",
@@ -79,26 +95,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "¿Cómo fue la huida de Flávio Bolsonaro a EE. UU.?",
-      "link": "https://www.france24.com/es/programas/en-contexto/20261028-c%C3%B3mo-fue-la-huida-de-fl%C3%A1vio-bolsonaro-a-ee-uu",
-      "source": "France 24",
-      "pubDate": "Wed, 28 Oct 2026 21:32:49 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Cómo logró Lula una remontada histórica y qué impacto tiene su triunfo en América Latina",
       "link": "https://www.bbc.com/mundo/articles/cw073jk3g44ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Mundo",
       "pubDate": "Mon, 26 Oct 2026 19:20:10 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "3 claves detrás de la histórica remontada electoral de Lula para ganar su cuarto mandato como presidente de Brasil",
-      "link": "https://www.bbc.com/mundo/articles/cmwy41z5lr8zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 26 Oct 2026 10:46:31 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     }
