@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T22:22:47.099Z",
+  "updatedAt": "2026-10-29T04:59:41.590Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 10,
+      "trendsScore": 4,
       "youtubeScore": 100,
       "sentimentScore": 24,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 42
       },
       "youtubeViews": 197711,
-      "finalScore": 41,
+      "finalScore": 39,
       "momentum": {
-        "value": -2.4,
+        "value": -4.9,
         "direction": "flat"
       },
-      "probability": 50.6
+      "probability": 49.4
     },
     {
       "id": "abelardo_espriella",
@@ -42,47 +42,47 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 49.4
+      "probability": 50.6
     }
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella anuncia la necesidad de militarizar algunas zonas de Bogotá en medio de un consejo de seguridad en la ciudad",
+      "title": "Seis días antes de morir, Cuauhtémoc Cárdenas canceló participación en evento por motivos de salud",
+      "link": "https://www.infobae.com/mexico/2026/10/29/seis-dias-antes-de-morir-cuauhtemoc-cardenas-cancelo-participacion-en-evento-por-motivos-de-salud/",
+      "source": "Infobae",
+      "pubDate": "Thu, 29 Oct 2026 04:40:20 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella anuncia la necesidad de militarizar algunas zonas de Bogotá en medio de consejo de seguridad: 'Control militar'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-la-necesidad-de-militarizar-algunas-zonas-de-bogota-en-medio-de-consejo-de-seguridad-3597039",
       "source": "El Tiempo",
-      "pubDate": "2026-10-28T17:05:20-05:00",
+      "pubDate": "2026-10-28T22:16:52-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "JNE rechaza agravios de Carlos Álvarez contra su presidente: “Contribuye a deteriorar el debate público”",
-      "link": "https://www.infobae.com/peru/2026/10/28/jne-rechaza-agravios-de-carlos-alvarez-contra-su-presidente-contribuye-a-deteriorar-el-debate-publico/",
-      "source": "Infobae",
-      "pubDate": "Wed, 28 Oct 2026 21:58:25 +0000",
+      "title": "Directo a... Miami y la llegada de Flávio Bolsonaro a Estados Unidos",
+      "link": "https://www.france24.com/es/video/20261029-directo-a-miami-y-la-llegada-de-fl%C3%A1vio-bolsonaro-a-estados-unidos",
+      "source": "France 24",
+      "pubDate": "Thu, 29 Oct 2026 00:14:39 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "Alocución del 25 de octubre de Abelardo De La Espriella: estos son los reparos de la Comisión de Regulación de Comunicaciones",
+      "link": "https://www.eltiempo.com/politica/gobierno/alocucion-del-25-de-octubre-de-abelardo-de-la-espriella-estos-son-los-reparos-que-hizo-la-comision-de-regulacion-de-comunicaciones-3597059",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-28T17:47:21-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "¿Cómo fue la huida de Flávio Bolsonaro a EE. UU.?",
       "link": "https://www.france24.com/es/programas/en-contexto/20261028-c%C3%B3mo-fue-la-huida-de-fl%C3%A1vio-bolsonaro-a-ee-uu",
       "source": "France 24",
       "pubDate": "Wed, 28 Oct 2026 21:32:49 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Flávio Bolsonaro llega a Miami mientras enfrenta investigaciones en Brasil",
-      "link": "https://www.france24.com/es/video/20261028-fl%C3%A1vio-bolsonaro-llega-a-miami-mientras-enfrenta-investigaciones-en-brasil",
-      "source": "France 24",
-      "pubDate": "Wed, 28 Oct 2026 17:20:39 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Lula gana las elecciones de Brasil con una remontada histórica y tendrá un cuarto mandato",
-      "link": "https://www.bbc.com/mundo/articles/ck1wvz44jy0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Mundo",
-      "pubDate": "Mon, 26 Oct 2026 22:46:37 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
