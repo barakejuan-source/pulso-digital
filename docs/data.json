@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T23:52:34.430Z",
+  "updatedAt": "2026-10-30T04:59:21.293Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,12 +47,20 @@
   ],
   "articles": [
     {
-      "title": "EN VIVO | Llega Ariadna Montiel al funeral de Cuauhtémoc Cárdenas, recuerda acompañamiento político al excandidato presidencial",
-      "link": "https://www.infobae.com/mexico/2026/10/29/funeral-de-cuauhtemoc-cardenas-une-a-la-izquierda-y-a-la-derecha-de-la-politica-mexicana/",
-      "source": "Infobae",
-      "pubDate": "Thu, 29 Oct 2026 23:09:05 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Congresistas del Centro Democrático cuestionan ley de ajuste fiscal",
+      "link": "https://www.lasillavacia.com/en-vivo/congresistas-del-centro-democratico-cuestionan-ley-de-ajuste-fiscal/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 30 Oct 2026 02:21:15 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Radican ley de rescate fiscal en el Congreso de la República: el Gobierno de Abelardo De La Espriella busca reducir el gasto público",
+      "link": "https://www.eltiempo.com/politica/gobierno/radican-ley-de-ajuste-fiscal-en-el-congreso-de-la-republica-gobierno-de-abelardo-de-la-espriella-busca-reducir-el-gasto-publico-3597321",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-29T18:50:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Una derrota, una fuga y una explosiva carta: ¿derrumbó Flávio Bolsonaro su capital político?",
@@ -61,22 +69,6 @@
       "pubDate": "Thu, 29 Oct 2026 22:48:18 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "Radican Ley de Ajuste Fiscal en el Congreso de la República: el Gobierno de Abelardo De La Espriella busca reducir el gasto público",
-      "link": "https://www.eltiempo.com/politica/gobierno/radican-ley-de-ajuste-fiscal-en-el-congreso-de-la-republica-gobierno-de-abelardo-de-la-espriella-busca-reducir-el-gasto-publico-3597321",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-29T17:16:52-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La historia del polémico artículo Fuelantala de la reforma pensional: de la 'extorsión' al gobierno Petro en Senado a la aprobación en la Cámara",
-      "link": "https://www.eltiempo.com/politica/congreso/la-historia-del-polemico-articulo-fuelantala-de-la-reforma-pensional-de-la-extorsion-al-gobierno-petro-en-senado-a-la-aprobacion-en-la-camara-3597140",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-29T10:15:36-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
