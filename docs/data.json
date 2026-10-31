@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T04:46:15.736Z",
+  "updatedAt": "2026-10-31T11:55:46.981Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -46,6 +46,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Luis Carlos Reyes: 'Colombia no está cerca de la quiebra como dice el Gobierno'",
+      "link": "https://www.france24.com/es/video/20261031-luis-carlos-reyes-colombia-no-est%C3%A1-cerca-de-la-quiebra-como-dice-el-gobierno",
+      "source": "France 24",
+      "pubDate": "Sat, 31 Oct 2026 06:36:27 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Gobierno de Abelardo De La Espriella anuncia finalización del contrato fiduciario del Fomag para la salud de los maestros e inicia etapa de transición",
       "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncia-finalizacion-del-contrato-fiduciario-del-fomag-para-la-salud-de-los-maestros-e-inicia-etapa-de-transicion-3597636",
