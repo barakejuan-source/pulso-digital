@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T11:55:46.981Z",
+  "updatedAt": "2026-10-31T17:02:35.636Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -8,27 +8,6 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 5,
-      "youtubeScore": 100,
-      "sentimentScore": 24,
-      "sentimentPct": {
-        "positive": 24,
-        "negative": 34,
-        "neutral": 42
-      },
-      "youtubeViews": 197711,
-      "finalScore": 39,
-      "momentum": {
-        "value": 0,
-        "direction": "flat"
-      },
-      "probability": 49.4
-    },
-    {
-      "id": "abelardo_espriella",
-      "name": "Abelardo de la Espriella",
-      "party": "Defensores de la Patria",
-      "color": "#1D3557",
-      "trendsScore": 100,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -37,15 +16,76 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 40,
+      "finalScore": 2,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": -94.9,
+        "direction": "down"
       },
-      "probability": 50.6
+      "probability": 2.6
+    },
+    {
+      "id": "abelardo_espriella",
+      "name": "Abelardo de la Espriella",
+      "party": "Defensores de la Patria",
+      "color": "#1D3557",
+      "trendsScore": 100,
+      "youtubeScore": 100,
+      "sentimentScore": 20,
+      "sentimentPct": {
+        "positive": 20,
+        "negative": 54,
+        "neutral": 26
+      },
+      "youtubeViews": 113009,
+      "finalScore": 76,
+      "momentum": {
+        "value": 90,
+        "direction": "up"
+      },
+      "probability": 97.4
     }
   ],
   "articles": [
+    {
+      "title": "Presidente Abelardo De La Espriella anunció que asignará siete países a embajadores carrera: cinco ya eran ocupados",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-que-asignara-siete-paises-a-embajadores-carrera-cinco-ya-eran-ocupados-3597705",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-31T11:44:02-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Por qué el embajador de China fue al funeral de Cuauhtémoc Cárdenas? Recuerdan su reunión con Mao Zedong cuando tenía 25 años",
+      "link": "https://www.infobae.com/mexico/2026/10/31/por-que-el-embajador-de-china-fue-al-funeral-de-cuauhtemoc-cardenas-recuerdan-su-reunion-con-mao-zedong-cuando-tenia-25-anos/",
+      "source": "Infobae",
+      "pubDate": "Sat, 31 Oct 2026 16:30:09 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Abelardo De La Espriella oficializa nombramiento de Alejandro Ordóñez como ministro del Interior en reemplazo de Rodrigo Lara Restrepo",
+      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-oficializa-nombramiento-de-alejandro-ordonez-como-ministro-del-interior-en-reemplazo-de-rodrigo-lara-restrepo-3597695",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-31T11:21:13-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo de la Espriella confirmó que no subirá el precio de la gasolina ni el Acpm en noviembre: así quedó el combustible en cada ciudad  ",
+      "link": "https://www.infobae.com/colombia/2026/10/31/gobierno-de-abelardo-de-la-espriella-confirmo-que-no-subira-el-precio-de-la-gasolina-ni-el-acpm-en-noviembre-asi-quedo-el-precio-del-combustible-en-cada-ciudad/",
+      "source": "Infobae",
+      "pubDate": "Sat, 31 Oct 2026 16:13:22 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Bolsonaro afirma que abandonó su país por una “persecución”; Brasil exige explicaciones a Argentina tras la huída",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261031-bolsonaro-afirma-que-abandon%C3%B3-su-pa%C3%ADs-por-una-persecuci%C3%B3n-brasil-exige-explicaciones-a-argentina-tras-la-hu%C3%ADda",
+      "source": "France 24",
+      "pubDate": "Sat, 31 Oct 2026 13:29:18 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "Luis Carlos Reyes: 'Colombia no está cerca de la quiebra como dice el Gobierno'",
       "link": "https://www.france24.com/es/video/20261031-luis-carlos-reyes-colombia-no-est%C3%A1-cerca-de-la-quiebra-como-dice-el-gobierno",
