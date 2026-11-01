@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T08:55:49.769Z",
+  "updatedAt": "2026-11-01T16:40:50.634Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,34 +47,50 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella ordenó trasladar a 33 presos de San Andrés a cárceles de máxima seguridad en Bogotá",
-      "link": "https://www.infobae.com/colombia/2026/11/01/abelardo-de-la-espriella-ordeno-trasladar-a-33-presos-de-san-andres-a-carceles-de-maxima-seguridad-en-bogota/",
+      "title": "Abelardo de la Espriella condenó el atentado con explosivo que dejó un policía muerto en Algeciras, Huila: “Los vamos a perseguir”",
+      "link": "https://www.infobae.com/colombia/2026/11/01/abelardo-de-la-espriella-condeno-el-atentado-con-explosivos-que-dejo-un-policia-muerto-en-algeciras-huila-los-vamos-a-perseguir/",
       "source": "Infobae",
-      "pubDate": "Sun, 01 Nov 2026 08:17:53 +0000",
+      "pubDate": "Sun, 01 Nov 2026 16:06:22 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Bulgaria vota presidente en una segunda vuelta marcada por amenazas de seguridad nacional y la tensión en el mar Negro",
-      "link": "https://www.infobae.com/america/mundo/2026/11/01/bulgaria-vota-presidente-en-una-segunda-vuelta-marcada-por-amenazas-de-seguridad-nacional-y-la-tension-en-el-mar-negro/",
+      "title": "Iván Cepeda denunció una supuesta campaña de desprestigio en su contra tras debate al ministro de Agricultura en el Senado: “Su propósito es silenciarme”",
+      "link": "https://www.infobae.com/colombia/2026/11/01/ivan-cepeda-denuncio-una-supuesta-campana-de-desprestigio-en-su-contra-tras-debate-al-ministro-de-agricultura-en-el-senado-su-proposito-es-silenciarme/",
       "source": "Infobae",
-      "pubDate": "Sun, 01 Nov 2026 05:41:57 +0000",
+      "pubDate": "Sun, 01 Nov 2026 16:02:59 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella condenó atentado en Algeciras, Huila: 'No vamos a retroceder ante el terrorismo'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-condeno-atentado-en-algeciras-huila-no-vamos-a-retroceder-ante-el-terrorismo-3597819",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-01T11:00:54-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Bulgaria celebra la segunda vuelta presidencial bajo la sombra de las tensiones en el mar Negro",
+      "link": "https://www.france24.com/es/europa/20261101-bulgaria-celebra-la-segunda-vuelta-presidencial-bajo-la-sombra-de-las-tensiones-en-el-mar-negro",
+      "source": "France 24",
+      "pubDate": "Sun, 01 Nov 2026 14:42:02 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
+    },
+    {
+      "title": "La contrarreloj y el duro pulso político que se vienen para la reforma tributaria y el ajuste fiscal del gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/la-contrarreloj-y-el-duro-pulso-politico-que-se-vienen-para-la-reforma-tributaria-y-el-ajuste-fiscal-del-gobierno-de-abelardo-de-la-espriella-3597736",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-01T07:18:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Carlos Suárez, el estratega del proyecto populista de Abelardo de la Espriella ",
       "link": "https://www.lasillavacia.com/silla-nacional/carlos-suarez-el-estratega-del-proyecto-populista-de-abelardo-de-la-espriella/",
       "source": "La Silla Vacía",
       "pubDate": "Sun, 01 Nov 2026 05:21:27 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La contrarreloj y el duro pulso político que se vienen para la reforma tributaria y el ajuste fiscal del gobierno de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/la-contrarreloj-y-el-duro-pulso-politico-que-se-vienen-para-la-reforma-tributaria-y-el-ajuste-fiscal-del-gobierno-de-abelardo-de-la-espriella-3597736",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-31T23:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -95,26 +111,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo De La Espriella oficializa nombramiento de Alejandro Ordóñez como ministro del Interior en reemplazo de Rodrigo Lara Restrepo",
-      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-oficializa-nombramiento-de-alejandro-ordonez-como-ministro-del-interior-en-reemplazo-de-rodrigo-lara-restrepo-3597695",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-31T19:11:11-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Presidente Abelardo De La Espriella anunció que asignará siete países a embajadores carrera: cinco ya eran ocupados",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-que-asignara-siete-paises-a-embajadores-carrera-cinco-ya-eran-ocupados-3597705",
       "source": "El Tiempo",
       "pubDate": "2026-10-31T12:00:06-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella anuncia finalización del contrato fiduciario del Fomag para la salud de los maestros e inicia etapa de transición",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncia-finalizacion-del-contrato-fiduciario-del-fomag-para-la-salud-de-los-maestros-e-inicia-etapa-de-transicion-3597636",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-30T21:14:44-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
