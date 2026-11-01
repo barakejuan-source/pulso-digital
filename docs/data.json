@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T21:13:34.598Z",
+  "updatedAt": "2026-11-01T00:49:56.046Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 5,
+      "trendsScore": 4,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -50,7 +50,15 @@
       "title": "Gobierno de Abelardo De La Espriella anunció que redujo $ 192.000 millones del presupuesto de la Presidencia y entidades adscritas",
       "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncio-que-redujo-192-000-millones-del-presupuesto-de-la-presidencia-y-entidades-adscritas-3597729",
       "source": "El Tiempo",
-      "pubDate": "2026-10-31T15:07:20-05:00",
+      "pubDate": "2026-10-31T19:16:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella oficializa nombramiento de Alejandro Ordóñez como ministro del Interior en reemplazo de Rodrigo Lara Restrepo",
+      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-oficializa-nombramiento-de-alejandro-ordonez-como-ministro-del-interior-en-reemplazo-de-rodrigo-lara-restrepo-3597695",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-31T19:11:11-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,14 +67,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-que-asignara-siete-paises-a-embajadores-carrera-cinco-ya-eran-ocupados-3597705",
       "source": "El Tiempo",
       "pubDate": "2026-10-31T12:00:06-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo De La Espriella oficializa nombramiento de Alejandro Ordóñez como ministro del Interior en reemplazo de Rodrigo Lara Restrepo",
-      "link": "https://www.eltiempo.com/politica/gobierno/abelardo-de-la-espriella-oficializa-nombramiento-de-alejandro-ordonez-como-ministro-del-interior-en-reemplazo-de-rodrigo-lara-restrepo-3597695",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-31T11:56:32-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -91,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncia-finalizacion-del-contrato-fiduciario-del-fomag-para-la-salud-de-los-maestros-e-inicia-etapa-de-transicion-3597636",
       "source": "El Tiempo",
       "pubDate": "2026-10-30T21:14:44-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Más IVA al café y reducción de impuestos a las empresas: el ajuste fiscal que propone De la Espriella",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261031-m%C3%A1s-iva-al-caf%C3%A9-y-reducci%C3%B3n-de-impuestos-a-las-empresas-el-ajuste-fiscal-que-propone-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Sat, 31 Oct 2026 02:14:32 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
