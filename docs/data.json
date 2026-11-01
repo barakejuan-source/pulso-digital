@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T16:40:50.634Z",
+  "updatedAt": "2026-11-01T21:51:53.532Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,20 +47,20 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella condenó el atentado con explosivo que dejó un policía muerto en Algeciras, Huila: “Los vamos a perseguir”",
-      "link": "https://www.infobae.com/colombia/2026/11/01/abelardo-de-la-espriella-condeno-el-atentado-con-explosivos-que-dejo-un-policia-muerto-en-algeciras-huila-los-vamos-a-perseguir/",
-      "source": "Infobae",
-      "pubDate": "Sun, 01 Nov 2026 16:06:22 +0000",
+      "title": "Presidente Abelardo De La Espriella reunió a su gabinete este domingo en Barranquilla",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-reunio-a-su-gabinete-este-domingo-en-barranquilla-3597846",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-01T15:31:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cepeda denunció una supuesta campaña de desprestigio en su contra tras debate al ministro de Agricultura en el Senado: “Su propósito es silenciarme”",
-      "link": "https://www.infobae.com/colombia/2026/11/01/ivan-cepeda-denuncio-una-supuesta-campana-de-desprestigio-en-su-contra-tras-debate-al-ministro-de-agricultura-en-el-senado-su-proposito-es-silenciarme/",
-      "source": "Infobae",
-      "pubDate": "Sun, 01 Nov 2026 16:02:59 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "Ciudadanos percibieron mayor circulación de noticias falsas durante la campaña presidencial de 2026: así se informaron y usaron la IA, según encuesta",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/ciudadanos-percibieron-mayor-circulacion-de-noticias-falsas-durante-la-campana-presidencial-de-2026-asi-se-informaron-y-usaron-la-ia-segun-encuesta-3597823",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-01T11:42:32-05:00",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Presidente Abelardo De La Espriella condenó atentado en Algeciras, Huila: 'No vamos a retroceder ante el terrorismo'",
@@ -87,34 +87,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Carlos Suárez, el estratega del proyecto populista de Abelardo de la Espriella ",
-      "link": "https://www.lasillavacia.com/silla-nacional/carlos-suarez-el-estratega-del-proyecto-populista-de-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 01 Nov 2026 05:21:27 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Presidente Abelardo De La Espriella confirma traslado masivo de 33 presos desde San Andrés hacia Bogotá: dio detalles del operativo",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirma-traslado-masivo-de-33-presos-desde-san-andres-hacia-bogota-dio-detalles-del-operativo-3597786",
       "source": "El Tiempo",
       "pubDate": "2026-10-31T22:42:02-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella anunció que redujo $ 192.000 millones del presupuesto de la Presidencia y entidades adscritas",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncio-que-redujo-192-000-millones-del-presupuesto-de-la-presidencia-y-entidades-adscritas-3597729",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-31T19:16:05-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anunció que asignará siete países a embajadores carrera: cinco ya eran ocupados",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-que-asignara-siete-paises-a-embajadores-carrera-cinco-ya-eran-ocupados-3597705",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-31T12:00:06-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
