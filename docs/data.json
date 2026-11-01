@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T00:49:56.046Z",
+  "updatedAt": "2026-11-01T08:55:49.769Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,46 @@
   ],
   "articles": [
     {
+      "title": "Abelardo de la Espriella ordenó trasladar a 33 presos de San Andrés a cárceles de máxima seguridad en Bogotá",
+      "link": "https://www.infobae.com/colombia/2026/11/01/abelardo-de-la-espriella-ordeno-trasladar-a-33-presos-de-san-andres-a-carceles-de-maxima-seguridad-en-bogota/",
+      "source": "Infobae",
+      "pubDate": "Sun, 01 Nov 2026 08:17:53 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Bulgaria vota presidente en una segunda vuelta marcada por amenazas de seguridad nacional y la tensión en el mar Negro",
+      "link": "https://www.infobae.com/america/mundo/2026/11/01/bulgaria-vota-presidente-en-una-segunda-vuelta-marcada-por-amenazas-de-seguridad-nacional-y-la-tension-en-el-mar-negro/",
+      "source": "Infobae",
+      "pubDate": "Sun, 01 Nov 2026 05:41:57 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Carlos Suárez, el estratega del proyecto populista de Abelardo de la Espriella ",
+      "link": "https://www.lasillavacia.com/silla-nacional/carlos-suarez-el-estratega-del-proyecto-populista-de-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 01 Nov 2026 05:21:27 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La contrarreloj y el duro pulso político que se vienen para la reforma tributaria y el ajuste fiscal del gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/la-contrarreloj-y-el-duro-pulso-politico-que-se-vienen-para-la-reforma-tributaria-y-el-ajuste-fiscal-del-gobierno-de-abelardo-de-la-espriella-3597736",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-31T23:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella confirma traslado masivo de 33 presos desde San Andrés hacia Bogotá: dio detalles del operativo",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirma-traslado-masivo-de-33-presos-desde-san-andres-hacia-bogota-dio-detalles-del-operativo-3597786",
+      "source": "El Tiempo",
+      "pubDate": "2026-10-31T22:42:02-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Gobierno de Abelardo De La Espriella anunció que redujo $ 192.000 millones del presupuesto de la Presidencia y entidades adscritas",
       "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-anuncio-que-redujo-192-000-millones-del-presupuesto-de-la-presidencia-y-entidades-adscritas-3597729",
       "source": "El Tiempo",
@@ -67,22 +107,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-que-asignara-siete-paises-a-embajadores-carrera-cinco-ya-eran-ocupados-3597705",
       "source": "El Tiempo",
       "pubDate": "2026-10-31T12:00:06-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Bolsonaro afirma que abandonó su país por una “persecución”; Brasil exige explicaciones a Argentina tras la huída",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261031-bolsonaro-afirma-que-abandon%C3%B3-su-pa%C3%ADs-por-una-persecuci%C3%B3n-brasil-exige-explicaciones-a-argentina-tras-la-hu%C3%ADda",
-      "source": "France 24",
-      "pubDate": "Sat, 31 Oct 2026 13:29:18 GMT",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Luis Carlos Reyes: 'Colombia no está cerca de la quiebra como dice el Gobierno'",
-      "link": "https://www.france24.com/es/video/20261031-luis-carlos-reyes-colombia-no-est%C3%A1-cerca-de-la-quiebra-como-dice-el-gobierno",
-      "source": "France 24",
-      "pubDate": "Sat, 31 Oct 2026 06:36:27 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
