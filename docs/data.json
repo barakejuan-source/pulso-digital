@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T21:51:53.532Z",
+  "updatedAt": "2026-11-02T01:22:39.813Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 5,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,6 +47,14 @@
   ],
   "articles": [
     {
+      "title": "Flávio Bolsonaro volvió a denunciar persecución en su contra: “No seré blanco de un juez con ganas de hacer el mal”",
+      "link": "https://www.infobae.com/america/america-latina/2026/11/02/flavio-bolsonaro-volvio-a-denunciar-persecucion-en-su-contra-no-sere-blanco-de-un-juez-con-ganas-de-hacer-el-mal/",
+      "source": "Infobae",
+      "pubDate": "Mon, 02 Nov 2026 00:43:26 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella reunió a su gabinete este domingo en Barranquilla",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-reunio-a-su-gabinete-este-domingo-en-barranquilla-3597846",
       "source": "El Tiempo",
@@ -77,22 +85,6 @@
       "pubDate": "Sun, 01 Nov 2026 14:42:02 GMT",
       "candidateId": null,
       "candidateColor": "#64748b"
-    },
-    {
-      "title": "La contrarreloj y el duro pulso político que se vienen para la reforma tributaria y el ajuste fiscal del gobierno de Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/la-contrarreloj-y-el-duro-pulso-politico-que-se-vienen-para-la-reforma-tributaria-y-el-ajuste-fiscal-del-gobierno-de-abelardo-de-la-espriella-3597736",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-01T07:18:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella confirma traslado masivo de 33 presos desde San Andrés hacia Bogotá: dio detalles del operativo",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirma-traslado-masivo-de-33-presos-desde-san-andres-hacia-bogota-dio-detalles-del-operativo-3597786",
-      "source": "El Tiempo",
-      "pubDate": "2026-10-31T22:42:02-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     }
   ]
 }
