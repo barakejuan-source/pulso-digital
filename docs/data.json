@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T11:45:26.661Z",
+  "updatedAt": "2026-11-03T19:17:30.499Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,50 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella se pronunció sobre la decisión de no prorrogar el contrato del Fomag con Fiduprevisora: 'Se acabó la alcahuetería'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-sobre-la-decision-de-no-prorrogar-el-contrato-del-fomag-con-fiduprevisora-se-acabo-la-alcahueteria-3598009",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-02T22:41:23-05:00",
+      "title": "Gustavo Petro acusó a los aliados políticos de Abelardo de la Espriella de supuestamente robarse el dinero del Fomag: \"Hicieron fiesta en la Previsora\"",
+      "link": "https://www.infobae.com/colombia/2026/11/03/gustavo-petro-acuso-a-los-aliados-politicos-de-abelardo-de-la-espriella-de-supuestamente-robarse-el-dinero-del-fomag-hicieron-fiesta-en-la-previsora/",
+      "source": "Infobae",
+      "pubDate": "Tue, 03 Nov 2026 19:09:50 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De la Espriella continuará con bombardeos y reactivación de fumigaciones tras atentado que dejó bebé muerta en Planadas, Tolima",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-mas-bombardeos-y-reactivacion-de-fumigaciones-tras-atentado-que-dejo-muerta-a-una-bebe-en-planadas-tolima-3597923",
+      "title": "Misión del FMI llegó a Colombia: Gobierno de Abelardo de la Espriella podría solicitar un préstamo de hasta US$5.000 millones ",
+      "link": "https://www.infobae.com/colombia/2026/11/03/mision-del-fmi-llego-a-colombia-gobierno-de-abelardo-de-la-espriella-podria-solicitar-un-prestamo-de-hasta-us5000-millones/",
+      "source": "Infobae",
+      "pubDate": "Tue, 03 Nov 2026 18:57:29 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo de la Espriella pretendería eliminar el Fomag con un proyecto de ley en el Congreso, según Fecode",
+      "link": "https://www.infobae.com/colombia/2026/11/03/gobierno-de-abelardo-de-la-espriella-pretenderia-eliminar-el-fomag-con-un-proyecto-de-ley-en-el-congreso-segun-fecode/",
+      "source": "Infobae",
+      "pubDate": "Tue, 03 Nov 2026 18:43:44 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella lamentó muerte de Ana María Cetina, niñera colombiana que estaba en accidente de jet privado en EE. UU.: 'Dolor'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-hablo-por-muerte-de-ana-maria-cetina-ninera-colombiana-que-estaba-en-accidente-de-jet-privado-en-ee-uu-dolor-3598124",
       "source": "El Tiempo",
-      "pubDate": "2026-11-02T13:01:00-05:00",
+      "pubDate": "2026-11-03T13:32:18-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Procuraduría formuló cargos contra Quintero por participación en política",
+      "link": "https://www.lasillavacia.com/en-vivo/procuraduria-formulo-cargos-contra-quintero-por-participacion-en-politica/",
+      "source": "La Silla Vacía",
+      "pubDate": "Tue, 03 Nov 2026 14:07:48 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella se pronunció sobre la decisión de no prorrogar el contrato del Fomag con Fiduprevisora: 'Se acabó la alcahuetería'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-sobre-la-decision-de-no-prorrogar-el-contrato-del-fomag-con-fiduprevisora-se-acabo-la-alcahueteria-3598009",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-02T22:41:23-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
