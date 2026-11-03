@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:05:35.651Z",
+  "updatedAt": "2026-11-03T03:23:16.278Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,42 @@
   ],
   "articles": [
     {
+      "title": "Alcalde de Cartagena le lanzó una pulla a Petro durante entrega de la primera fase del Gran Malecón del Mar: dijo que el único presidente que hubo fue Mr. Black",
+      "link": "https://www.infobae.com/colombia/2026/11/03/alcalde-de-cartagena-le-lanzo-una-pulla-a-petro-durante-entrega-de-la-primera-fase-del-gran-malecon-del-mar-dijo-que-el-unico-presidente-que-hubo-fue-mr-black/",
+      "source": "Infobae",
+      "pubDate": "Tue, 03 Nov 2026 02:42:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella celebró decisión de la ONU sobre la Misión de Verificación en Colombia: “Reafirma la soberanía”",
+      "link": "https://www.infobae.com/colombia/2026/11/03/abelardo-de-la-espriella-celebro-decision-de-la-onu-sobre-la-mision-de-verificacion-en-colombia-reafirma-la-soberania/",
+      "source": "Infobae",
+      "pubDate": "Tue, 03 Nov 2026 01:01:55 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Óscar Benavides cuestionó la ley de rescate económico de Abelardo de la Espriella por el IVA a los alimentos: “Deje de ser tan miserable”  ",
+      "link": "https://www.infobae.com/colombia/2026/11/03/oscar-benavides-cuestiono-la-ley-de-rescate-economico-de-abelardo-de-la-espriella-por-el-iva-a-los-alimentos-deje-de-ser-tan-miserable/",
+      "source": "Infobae",
+      "pubDate": "Tue, 03 Nov 2026 00:57:25 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Bulgaria elige a Iliana Yotova y la continuidad de una línea cercana a Moscú",
+      "link": "https://www.france24.com/es/video/20261102-bulgaria-elige-a-iliana-yotova-y-la-continuidad-de-una-l%C3%ADnea-cercana-a-mosc%C3%BA",
+      "source": "France 24",
+      "pubDate": "Mon, 02 Nov 2026 23:02:36 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
       "title": "Presidente Abelardo De la Espriella continuará con bombardeos y reactivación de fumigaciones tras atentado que dejó bebé muerta en Planadas, Tolima",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-mas-bombardeos-y-reactivacion-de-fumigaciones-tras-atentado-que-dejo-muerta-a-una-bebe-en-planadas-tolima-3597923",
       "source": "El Tiempo",
-      "pubDate": "2026-11-02T10:44:58-05:00",
+      "pubDate": "2026-11-02T13:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
