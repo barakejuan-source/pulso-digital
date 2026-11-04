@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T08:48:11.728Z",
+  "updatedAt": "2026-11-04T17:53:04.741Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,34 +47,58 @@
   ],
   "articles": [
     {
-      "title": "Congreso aprueba Ley de Sometimiento del gobierno De la Espriella",
-      "link": "https://www.lasillavacia.com/en-vivo/congreso-aprueba-ley-de-sometimiento-del-gobierno-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 04 Nov 2026 05:15:13 +0000",
+      "title": "Iván Cepeda lanzó advertencia a Abelardo de la Espriella tras derrota de Donald Trump en los Estados Unidos: “Sufrirá consecuencias políticas y jurídicas”",
+      "link": "https://www.infobae.com/colombia/2026/11/04/ivan-cepeda-lanzo-advertencia-a-abelardo-de-la-espriella-tras-derrota-de-donald-trump-en-los-estados-unidos-sufrira-consecuencias-politicas-y-juridicas/",
+      "source": "Infobae",
+      "pubDate": "Wed, 04 Nov 2026 17:51:20 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Así fue la posesión de Alejandro Ordóñez como nuevo ministro del Interior de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/11/04/asi-fue-la-posesion-de-alejandro-ordonez-como-nuevo-ministro-del-interior-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Wed, 04 Nov 2026 17:38:45 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Ley de sometimiento: Senado y Cámara aprobaron el proyecto de la misma forma, se evita una conciliación y solo falta sanción por el Gobierno",
-      "link": "https://www.eltiempo.com/politica/congreso/ley-de-sometimiento-senado-aprobo-el-proyecto-y-camara-debate-entre-acoger-el-mismo-texto-o-apuntarle-a-una-conciliacion-in-extremis-3598212",
+      "title": "La SAE recuperó dos lujosos inmuebles del empresario Euclides Torres, señalado de financiar la campaña presidencial de Gustavo Petro: estaban siendo ocupados ilegalmente",
+      "link": "https://www.infobae.com/colombia/2026/11/04/la-sae-recupero-dos-lujosos-inmuebles-del-empresario-euclides-torres-senalado-de-financiar-la-campana-presidencial-de-gustavo-petro-estaban-siendo-ocupados-ilegalmente/",
+      "source": "Infobae",
+      "pubDate": "Wed, 04 Nov 2026 17:38:27 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella posesiona a Alejandro Ordóñez como nuevo ministro del Interior",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-posesiona-a-alejandro-ordonez-como-nuevo-ministro-del-interior-3598429",
       "source": "El Tiempo",
-      "pubDate": "2026-11-03T23:34:21-05:00",
+      "pubDate": "2026-11-04T12:26:10-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella presenta mensaje de urgencia e insistencia para agilizar el debate de la ley de rescate fiscal",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-presenta-mensaje-de-urgencia-e-insistencia-para-agilizar-el-debate-de-la-ley-de-rescate-fiscal-3598217",
+      "title": "Abelardo De La Espriella se pronunció tras la aprobación de la ley de sometimiento en el Senado y la Cámara: 'Seguimos trabajando sin descanso'",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-se-pronuncio-tras-la-aprobacion-de-la-ley-de-sometimiento-en-senado-y-camara-seguimos-trabajando-sin-descanso-3598289",
       "source": "El Tiempo",
-      "pubDate": "2026-11-03T16:53:30-05:00",
+      "pubDate": "2026-11-04T10:03:25-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella lamentó muerte de Ana María Cetina, niñera colombiana que estaba en accidente de jet privado en EE. UU.: 'Dolor'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-hablo-por-muerte-de-ana-maria-cetina-ninera-colombiana-que-estaba-en-accidente-de-jet-privado-en-ee-uu-dolor-3598124",
+      "title": "El fin de las negociaciones políticas con grupos armados: ¿qué viene tras la aprobación de la ley de sometimiento de Abelardo De La Espriella?",
+      "link": "https://www.eltiempo.com/politica/proceso-de-paz/el-fin-de-las-negociaciones-politicas-con-grupos-armados-que-viene-tras-la-aprobacion-de-la-ley-de-sometimiento-de-abelardo-de-la-espriella-3598319",
       "source": "El Tiempo",
-      "pubDate": "2026-11-03T13:32:18-05:00",
+      "pubDate": "2026-11-04T09:41:38-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "¿Qué es la ley de sometimiento y cuáles serían sus alcances en Colombia? Las claves del proyecto del Gobierno de Abelardo De La Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/que-es-la-ley-de-sometimiento-y-cuales-serian-sus-alcances-en-colombia-las-claves-del-proyecto-del-gobierno-de-abelardo-de-la-espriella-3598300",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-04T08:00:14-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
