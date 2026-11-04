@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T19:17:30.499Z",
+  "updatedAt": "2026-11-04T00:29:38.236Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,26 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Gustavo Petro acusó a los aliados políticos de Abelardo de la Espriella de supuestamente robarse el dinero del Fomag: \"Hicieron fiesta en la Previsora\"",
-      "link": "https://www.infobae.com/colombia/2026/11/03/gustavo-petro-acuso-a-los-aliados-politicos-de-abelardo-de-la-espriella-de-supuestamente-robarse-el-dinero-del-fomag-hicieron-fiesta-en-la-previsora/",
+      "title": "María Fernanda Cabal pidió al Gobierno “disminuir la burocracia” antes que “trasladar el peso” fiscal a los ciudadanos ",
+      "link": "https://www.infobae.com/colombia/2026/11/03/maria-fernanda-cabal-pidio-al-gobierno-disminuir-la-burocracia-antes-que-trasladar-el-peso-fiscal-a-los-ciudadanos/",
       "source": "Infobae",
-      "pubDate": "Tue, 03 Nov 2026 19:09:50 +0000",
+      "pubDate": "Wed, 04 Nov 2026 00:25:31 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Misión del FMI llegó a Colombia: Gobierno de Abelardo de la Espriella podría solicitar un préstamo de hasta US$5.000 millones ",
-      "link": "https://www.infobae.com/colombia/2026/11/03/mision-del-fmi-llego-a-colombia-gobierno-de-abelardo-de-la-espriella-podria-solicitar-un-prestamo-de-hasta-us5000-millones/",
+      "title": "El Senado de la República aprobó la ley de sometimiento y hay ultimátum para los criminales: “No se va a devolver dinero”",
+      "link": "https://www.infobae.com/colombia/2026/11/04/el-senado-de-la-republica-aprobo-la-ley-de-sometimiento-y-hay-ultimatum-para-los-criminales-no-se-va-a-devolver-dinero/",
       "source": "Infobae",
-      "pubDate": "Tue, 03 Nov 2026 18:57:29 +0000",
+      "pubDate": "Wed, 04 Nov 2026 00:16:25 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gobierno de Abelardo de la Espriella pretendería eliminar el Fomag con un proyecto de ley en el Congreso, según Fecode",
-      "link": "https://www.infobae.com/colombia/2026/11/03/gobierno-de-abelardo-de-la-espriella-pretenderia-eliminar-el-fomag-con-un-proyecto-de-ley-en-el-congreso-segun-fecode/",
+      "title": "Abelardo de la Espriella pidió al Congreso acelerar el trámite de la Ley de Rescate Económico mediante mensaje de urgencia",
+      "link": "https://www.infobae.com/colombia/2026/11/03/abelardo-de-la-espriella-pidio-al-congreso-acelerar-el-tramite-de-la-ley-de-rescate-economico-mediante-mensaje-de-urgencia/",
       "source": "Infobae",
-      "pubDate": "Tue, 03 Nov 2026 18:43:44 +0000",
+      "pubDate": "Tue, 03 Nov 2026 23:43:32 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella presenta mensaje de urgencia e insistencia para agilizar el debate de la ley de rescate fiscal",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-presenta-mensaje-de-urgencia-e-insistencia-para-agilizar-el-debate-de-la-ley-de-rescate-fiscal-3598217",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-03T16:53:30-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,22 +83,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-hablo-por-muerte-de-ana-maria-cetina-ninera-colombiana-que-estaba-en-accidente-de-jet-privado-en-ee-uu-dolor-3598124",
       "source": "El Tiempo",
       "pubDate": "2026-11-03T13:32:18-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Procuraduría formuló cargos contra Quintero por participación en política",
-      "link": "https://www.lasillavacia.com/en-vivo/procuraduria-formulo-cargos-contra-quintero-por-participacion-en-politica/",
-      "source": "La Silla Vacía",
-      "pubDate": "Tue, 03 Nov 2026 14:07:48 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella se pronunció sobre la decisión de no prorrogar el contrato del Fomag con Fiduprevisora: 'Se acabó la alcahuetería'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-se-pronuncio-sobre-la-decision-de-no-prorrogar-el-contrato-del-fomag-con-fiduprevisora-se-acabo-la-alcahueteria-3598009",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-02T22:41:23-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
