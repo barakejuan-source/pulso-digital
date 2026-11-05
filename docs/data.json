@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T05:50:20.692Z",
+  "updatedAt": "2026-11-05T14:21:13.527Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 1,
       "momentum": {
-        "value": -50,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 1.3
@@ -67,14 +67,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-sanciono-la-ley-de-sometimiento-asi-funcionara-el-proyecto-aprobado-por-el-congreso-3598591",
       "source": "El Tiempo",
       "pubDate": "2026-11-04T23:04:34-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "‘El país está cansado de la laxitud, de estar perdonando criminales’, Hernán Cadavid celebra la aprobación de la ley de sometimiento",
-      "link": "https://www.eltiempo.com/politica/congreso/el-pais-esta-cansado-de-la-laxitud-de-estar-perdonando-criminales-hernan-cadavid-celebra-la-aprobacion-de-la-ley-de-sometimiento-3598466",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-04T22:02:33-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
