@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:56:48.085Z",
+  "updatedAt": "2026-11-06T19:05:11.739Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,34 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella confirmó la incautación de 104 armas en 'Operación Poseidón' en Alta Guajira: sería el mayor decomiso en 45 años",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-anuncio-la-incautacion-de-104-armas-en-la-operacion-poseidon-en-la-alta-guajira-seria-el-mayor-decomiso-en-45-anos-3598904",
+      "title": "Que porcentaje del rescate económico que propone el Gobierno de Abelardo de la Espriella le tocaría pagar a los colombianos: esto dice el análisis de un experto",
+      "link": "https://www.infobae.com/colombia/2026/11/06/que-porcentaje-del-rescate-economico-que-propone-el-gobierno-de-abelardo-de-la-espriella-le-tocaria-pagar-a-los-colombianos-esto-dice-el-analisis-de-un-experto/",
+      "source": "Infobae",
+      "pubDate": "Fri, 06 Nov 2026 18:43:28 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Gobierno de Abelardo de la Espriella expulsó a más de 80 venezolanos detenidos por presuntos delitos, especialmente en Bogotá: fueron embarcados en un avión con destino a la frontera",
+      "link": "https://www.infobae.com/colombia/2026/11/06/gobierno-de-abelardo-de-la-espriella-expulso-a-mas-de-80-venezolanos-detenidos-por-presuntos-delitos-especialmente-en-bogota-fueron-embarcados-en-un-avion-con-destino-a-la-frontera/",
+      "source": "Infobae",
+      "pubDate": "Fri, 06 Nov 2026 18:35:45 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda se pronuncia sobre denuncias de Deicy Jiménez contra Petro: 'El expresidente está dispuesto a comparecer ante la justicia'",
+      "link": "https://www.eltiempo.com/politica/congreso/ivan-cepeda-se-pronuncia-sobre-denuncias-de-deicy-jimenez-contra-petro-el-expresidente-esta-dispuesto-a-comparecer-ante-la-justicia-3599049",
       "source": "El Tiempo",
-      "pubDate": "2026-11-06T06:10:01-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "2026-11-06T13:15:27-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "Las claves de lo que dijo Abelardo de la Espriella desde la Amazonía",
-      "link": "https://www.lasillavacia.com/en-vivo/las-claves-de-lo-que-dijo-abelardo-de-la-espriella-desde-la-amazonia/",
+      "title": "Hubo “voto fusil” en 27 municipios en segunda vuelta: Core",
+      "link": "https://www.lasillavacia.com/en-vivo/hubo-voto-fusil-en-27-municipios-en-segunda-vuelta-core/",
       "source": "La Silla Vacía",
-      "pubDate": "Thu, 05 Nov 2026 23:34:49 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Ecuador: a juicio siete personas, entre ellas un exministro correísta, por el asesinato de Fernando Villavicencio",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-ecuador-a-juicio-siete-personas-entre-ellas-un-exministro-corre%C3%ADsta-por-el-asesinato-de-fernando-villavicencio",
-      "source": "France 24",
-      "pubDate": "Thu, 05 Nov 2026 23:24:03 GMT",
+      "pubDate": "Fri, 06 Nov 2026 17:02:19 +0000",
       "candidateId": null,
       "candidateColor": "#64748b"
     },
     {
-      "title": "Este fue el balance que entregó el vicepresidente Restrepo sobre los 90 días del gobierno de Abelardo De La Espriella durante Cumbre Iberoamericana",
-      "link": "https://www.eltiempo.com/politica/gobierno/este-fue-el-balance-que-entrego-el-vicepresidente-restrepo-sobre-los-90-dias-del-gobierno-de-abelardo-de-la-espriella-durante-cumbre-iberoamericana-3598803",
+      "title": "Presidente Abelardo De La Espriella confirmó la incautación de 104 armas en 'Operación Poseidón' en Alta Guajira: sería el mayor decomiso en 45 años",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-anuncio-la-incautacion-de-104-armas-en-la-operacion-poseidon-en-la-alta-guajira-seria-el-mayor-decomiso-en-45-anos-3598904",
       "source": "El Tiempo",
-      "pubDate": "2026-11-05T15:04:00-05:00",
+      "pubDate": "2026-11-06T06:10:01-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
