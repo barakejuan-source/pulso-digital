@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T21:50:55.983Z",
+  "updatedAt": "2026-11-06T02:06:46.070Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,12 +47,36 @@
   ],
   "articles": [
     {
-      "title": "Traslado de ahorros a Colpensiones tiene en controversia al Ministerio del Trabajo y a los aviadores: “Le costaría al Estado más de $9 billones”",
-      "link": "https://www.infobae.com/colombia/2026/11/05/traslado-de-ahorros-a-colpensiones-tiene-en-controversia-al-ministerio-del-trabajo-y-a-los-aviadores-le-costaria-al-estado-mas-de-9-billones/",
+      "title": "Germán Calderón España renunció a la Agencia Nacional de Defensa Jurídica del Estado: este sería el motivo   ",
+      "link": "https://www.infobae.com/colombia/2026/11/06/german-calderon-espana-renuncio-a-la-agencia-nacional-de-defensa-juridica-del-estado-este-seria-el-motivo/",
       "source": "Infobae",
-      "pubDate": "Thu, 05 Nov 2026 21:04:15 +0000",
+      "pubDate": "Fri, 06 Nov 2026 01:08:56 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "“Volveremos a las calles”: Mafe Carrascal lanzó advertencia a Abelardo de la Espriella por la Ley de Rescate Económico",
+      "link": "https://www.infobae.com/colombia/2026/11/06/volveremos-a-las-calles-mafe-carrascal-lanzo-advertencia-a-abelardo-de-la-espriella-por-la-ley-de-rescate-economico/",
+      "source": "Infobae",
+      "pubDate": "Fri, 06 Nov 2026 00:46:57 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Las claves de lo que dijo Abelardo de la Espriella desde la Amazonía",
+      "link": "https://www.lasillavacia.com/en-vivo/las-claves-de-lo-que-dijo-abelardo-de-la-espriella-desde-la-amazonia/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 05 Nov 2026 23:34:49 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Ecuador: a juicio siete personas, entre ellas un exministro correísta, por el asesinato de Fernando Villavicencio",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-ecuador-a-juicio-siete-personas-entre-ellas-un-exministro-corre%C3%ADsta-por-el-asesinato-de-fernando-villavicencio",
+      "source": "France 24",
+      "pubDate": "Thu, 05 Nov 2026 23:24:03 GMT",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
       "title": "Presidente Abelardo De La Espriella se refiere al escándalo de Deyci Jiménez y Gustavo Petro: ¿qué dijo?",
@@ -67,22 +91,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/este-fue-el-balance-que-entrego-el-vicepresidente-restrepo-sobre-los-90-dias-del-gobierno-de-abelardo-de-la-espriella-durante-cumbre-iberoamericana-3598803",
       "source": "El Tiempo",
       "pubDate": "2026-11-05T15:04:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Directo Latam y la polémica “ley de rescate” del Gobierno colombiano de De la Espriella",
-      "link": "https://www.france24.com/es/video/20261105-directo-latam-y-la-pol%C3%A9mica-ley-de-rescate-del-gobierno-colombiano-de-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Thu, 05 Nov 2026 18:41:49 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "'Se acabó la falsa paz': presidente Abelardo De La Espriella sentenció el fin de la 'paz total' tras sancionar la ley de sometimiento",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/se-acabo-la-falsa-paz-presidente-abelardo-de-la-espriella-sentencio-el-fin-de-la-paz-total-tras-sancionar-la-ley-de-sometimiento-3598746",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-05T12:38:29-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
