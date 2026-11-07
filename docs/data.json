@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T19:05:11.739Z",
+  "updatedAt": "2026-11-07T00:01:37.997Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,36 +47,12 @@
   ],
   "articles": [
     {
-      "title": "Que porcentaje del rescate económico que propone el Gobierno de Abelardo de la Espriella le tocaría pagar a los colombianos: esto dice el análisis de un experto",
-      "link": "https://www.infobae.com/colombia/2026/11/06/que-porcentaje-del-rescate-economico-que-propone-el-gobierno-de-abelardo-de-la-espriella-le-tocaria-pagar-a-los-colombianos-esto-dice-el-analisis-de-un-experto/",
-      "source": "Infobae",
-      "pubDate": "Fri, 06 Nov 2026 18:43:28 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo de la Espriella expulsó a más de 80 venezolanos detenidos por presuntos delitos, especialmente en Bogotá: fueron embarcados en un avión con destino a la frontera",
-      "link": "https://www.infobae.com/colombia/2026/11/06/gobierno-de-abelardo-de-la-espriella-expulso-a-mas-de-80-venezolanos-detenidos-por-presuntos-delitos-especialmente-en-bogota-fueron-embarcados-en-un-avion-con-destino-a-la-frontera/",
-      "source": "Infobae",
-      "pubDate": "Fri, 06 Nov 2026 18:35:45 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Iván Cepeda se pronuncia sobre denuncias de Deicy Jiménez contra Petro: 'El expresidente está dispuesto a comparecer ante la justicia'",
       "link": "https://www.eltiempo.com/politica/congreso/ivan-cepeda-se-pronuncia-sobre-denuncias-de-deicy-jimenez-contra-petro-el-expresidente-esta-dispuesto-a-comparecer-ante-la-justicia-3599049",
       "source": "El Tiempo",
       "pubDate": "2026-11-06T13:15:27-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "Hubo “voto fusil” en 27 municipios en segunda vuelta: Core",
-      "link": "https://www.lasillavacia.com/en-vivo/hubo-voto-fusil-en-27-municipios-en-segunda-vuelta-core/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 06 Nov 2026 17:02:19 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "Presidente Abelardo De La Espriella confirmó la incautación de 104 armas en 'Operación Poseidón' en Alta Guajira: sería el mayor decomiso en 45 años",
