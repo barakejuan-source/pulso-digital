@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T18:32:41.959Z",
+  "updatedAt": "2026-11-07T23:31:55.426Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 3,
+      "trendsScore": 4,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 1,
+      "finalScore": 2,
       "momentum": {
-        "value": -50,
+        "value": 100,
         "direction": "flat"
       },
-      "probability": 1.3
+      "probability": 2.6
     },
     {
       "id": "abelardo_espriella",
@@ -42,31 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 98.7
+      "probability": 97.4
     }
   ],
   "articles": [
     {
-      "title": "En medio de la polémica por los ‘sexocontratos’, Iván Cepeda reveló la historia detrás de su foto con Deicy Jiménez en el Congreso",
-      "link": "https://www.infobae.com/colombia/2026/11/07/en-medio-de-la-polemica-por-los-sexocontratos-ivan-cepeda-revelo-la-historia-detras-de-su-foto-con-deicy-jimenez-en-el-congreso/",
+      "title": "Director de Indepaz hizo advertencia tras masacre de una madre y sus dos hijas en Toro, Valle del Cauca: “Una respuesta urgente”",
+      "link": "https://www.infobae.com/colombia/2026/11/07/director-de-indepaz-hizo-advertencia-tras-masacre-de-una-madre-y-sus-dos-hijas-en-toro-valle-del-cauca-una-respuesta-urgente/",
       "source": "Infobae",
-      "pubDate": "Sat, 07 Nov 2026 18:10:40 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Abelardo sale en defensa de Carlos Ríos tras amenazas en su contra",
-      "link": "https://www.lasillavacia.com/en-vivo/abelardo-sale-en-defensa-de-carlos-rios-tras-amenazas-en-su-contra/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 07 Nov 2026 15:13:23 +0000",
+      "pubDate": "Sat, 07 Nov 2026 23:27:51 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Las claves de lo que dijo Abelardo de la Espriella desde la Amazonía y otras noticias",
-      "link": "https://www.lasillavacia.com/en-vivo/las-claves-de-lo-que-dijo-abelardo-de-la-espriella-desde-la-amazonia-y-otras-noticias/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sat, 07 Nov 2026 13:00:00 +0000",
+      "title": "Presidente Abelardo De La Espriella condena el atentado en Santa Rosa, sur de Bolívar, y anuncia acciones: 'Los vamos a perseguir con toda la fuerza'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-condena-el-atentado-en-santa-rosa-del-sur-bolivar-y-anuncia-acciones-los-vamos-a-perseguir-con-toda-la-fuerza-3599281",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-07T17:10:05-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
