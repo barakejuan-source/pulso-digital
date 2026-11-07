@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T12:42:33.661Z",
+  "updatedAt": "2026-11-07T18:32:41.959Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 3,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 0
       },
       "youtubeViews": 0,
-      "finalScore": 2,
+      "finalScore": 1,
       "momentum": {
-        "value": 100,
+        "value": -50,
         "direction": "flat"
       },
-      "probability": 2.6
+      "probability": 1.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,34 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 97.4
+      "probability": 98.7
     }
   ],
   "articles": [
+    {
+      "title": "En medio de la polémica por los ‘sexocontratos’, Iván Cepeda reveló la historia detrás de su foto con Deicy Jiménez en el Congreso",
+      "link": "https://www.infobae.com/colombia/2026/11/07/en-medio-de-la-polemica-por-los-sexocontratos-ivan-cepeda-revelo-la-historia-detras-de-su-foto-con-deicy-jimenez-en-el-congreso/",
+      "source": "Infobae",
+      "pubDate": "Sat, 07 Nov 2026 18:10:40 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Abelardo sale en defensa de Carlos Ríos tras amenazas en su contra",
+      "link": "https://www.lasillavacia.com/en-vivo/abelardo-sale-en-defensa-de-carlos-rios-tras-amenazas-en-su-contra/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 07 Nov 2026 15:13:23 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Las claves de lo que dijo Abelardo de la Espriella desde la Amazonía y otras noticias",
+      "link": "https://www.lasillavacia.com/en-vivo/las-claves-de-lo-que-dijo-abelardo-de-la-espriella-desde-la-amazonia-y-otras-noticias/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 07 Nov 2026 13:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Iván Cepeda se pronuncia sobre denuncias de Deicy Jiménez contra Petro: 'El expresidente está dispuesto a comparecer ante la justicia'",
       "link": "https://www.eltiempo.com/politica/congreso/ivan-cepeda-se-pronuncia-sobre-denuncias-de-deicy-jimenez-contra-petro-el-expresidente-esta-dispuesto-a-comparecer-ante-la-justicia-3599049",
