@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T12:59:29.544Z",
+  "updatedAt": "2026-11-08T18:44:18.562Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,58 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella envió una advertencia a los responsables de los ataques terroristas en Colombia: “Por cada atentado, un bombardeo”",
-      "link": "https://www.infobae.com/colombia/2026/11/08/abelardo-de-la-espriella-envio-una-advertencia-a-los-responsables-de-los-ataques-terroristas-en-colombia-por-cada-atentado-un-bombardeo/",
+      "title": "Campaña de Abelardo De la Espriella ganó 10 estatuillas en los premios Reed Latino",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/campana-de-abelardo-de-la-espriella-gano-10-estatuillas-en-los-premios-reed-latino-3599384",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-08T13:25:23-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda lanza dura autocrítica sobre el machismo en la izquierda: 'No podemos proclamar la emancipación y mantener la dominación'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-lanza-dura-autocritica-sobre-el-machismo-en-la-izquierda-no-podemos-proclamar-la-emancipacion-y-mantener-la-dominacion-3599397",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-08T13:06:32-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Repunte de violencia en Colombia: panorama de seguridad de tres meses de Gobierno De la Espriella",
+      "link": "https://www.france24.com/es/video/20261108-repunte-de-violencia-en-colombia-panorama-de-seguridad-de-tres-meses-de-gobierno-de-la-espriella",
+      "source": "France 24",
+      "pubDate": "Sun, 08 Nov 2026 17:58:40 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda reconoció “marcado machismo y patriarcado” en el progresismo colombiano: pidió al Pacto Histórico asumir responsabilidades",
+      "link": "https://www.infobae.com/colombia/2026/11/08/ivan-cepeda-reconocio-marcado-machismo-y-patriarcado-en-el-progresismo-colombiano-pidio-al-pacto-historico-asumir-responsabilidades/",
       "source": "Infobae",
-      "pubDate": "Sun, 08 Nov 2026 12:23:56 +0000",
+      "pubDate": "Sun, 08 Nov 2026 17:47:03 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Desde el ataque a una base militar hasta la evacuación de un canal de TV: ¿qué está pasando en Colombia?",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261108-desde-el-ataque-a-una-base-militar-hasta-la-evacuaci%C3%B3n-de-un-canal-de-tv-qu%C3%A9-est%C3%A1-pasando-en-colombia",
+      "source": "France 24",
+      "pubDate": "Sun, 08 Nov 2026 15:17:41 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El Evangelio de Bolsonaro y De la Espriella",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/el-evangelio-de-bolsonaro-y-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sun, 08 Nov 2026 15:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De la Espriella ordena proteger a Caracol Televisión, RCN y Semana tras alertas de atentado",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordena-proteger-a-caracol-television-rcn-y-semana-tras-alertas-de-atentado-3599364",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-08T08:43:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -75,14 +123,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-impacto-en-colombia-del-estilo-del-presidente-abelardo-de-la-espriella-en-sus-primeros-100-dias-de-gobierno-3599231",
       "source": "El Tiempo",
       "pubDate": "2026-11-08T00:49:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella condena el atentado en Santa Rosa, sur de Bolívar, y anuncia acciones: 'Los vamos a perseguir con toda la fuerza'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-condena-el-atentado-en-santa-rosa-del-sur-bolivar-y-anuncia-acciones-los-vamos-a-perseguir-con-toda-la-fuerza-3599281",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-07T17:10:05-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
