@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T05:13:21.038Z",
+  "updatedAt": "2026-11-08T12:59:29.544Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,34 @@
   ],
   "articles": [
     {
+      "title": "Abelardo de la Espriella envió una advertencia a los responsables de los ataques terroristas en Colombia: “Por cada atentado, un bombardeo”",
+      "link": "https://www.infobae.com/colombia/2026/11/08/abelardo-de-la-espriella-envio-una-advertencia-a-los-responsables-de-los-ataques-terroristas-en-colombia-por-cada-atentado-un-bombardeo/",
+      "source": "Infobae",
+      "pubDate": "Sun, 08 Nov 2026 12:23:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Los proyectos del gobierno de Abelardo De La Espriella que son una 'papa caliente' en la recta final del Congreso para este 2026",
+      "link": "https://www.eltiempo.com/politica/congreso/los-proyectos-del-gobierno-de-abelardo-de-la-espriella-que-son-una-papa-caliente-en-la-recta-final-del-congreso-para-este-3599265",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-08T05:01:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Retomar el diálogo bipartidista, la meta del gobierno de Abelardo De La Espriella en la relación con Estados Unidos",
+      "link": "https://www.eltiempo.com/politica/gobierno/retomar-el-dialogo-bipartidista-la-meta-del-gobierno-de-abelardo-de-la-espriella-en-la-relacion-con-estados-unidos-3599238",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-08T01:57:00-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "El impacto en Colombia del estilo del presidente Abelardo De La Espriella en sus primeros 100 días de gobierno",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-impacto-en-colombia-del-estilo-del-presidente-abelardo-de-la-espriella-en-sus-primeros-100-dias-de-gobierno-3599231",
       "source": "El Tiempo",
-      "pubDate": "2026-11-07T23:30:59-05:00",
+      "pubDate": "2026-11-08T00:49:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
