@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T23:31:55.426Z",
+  "updatedAt": "2026-11-08T05:13:21.038Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 0,
       "finalScore": 2,
       "momentum": {
-        "value": 100,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 2.6
@@ -47,10 +47,10 @@
   ],
   "articles": [
     {
-      "title": "Director de Indepaz hizo advertencia tras masacre de una madre y sus dos hijas en Toro, Valle del Cauca: “Una respuesta urgente”",
-      "link": "https://www.infobae.com/colombia/2026/11/07/director-de-indepaz-hizo-advertencia-tras-masacre-de-una-madre-y-sus-dos-hijas-en-toro-valle-del-cauca-una-respuesta-urgente/",
-      "source": "Infobae",
-      "pubDate": "Sat, 07 Nov 2026 23:27:51 +0000",
+      "title": "El impacto en Colombia del estilo del presidente Abelardo De La Espriella en sus primeros 100 días de gobierno",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-impacto-en-colombia-del-estilo-del-presidente-abelardo-de-la-espriella-en-sus-primeros-100-dias-de-gobierno-3599231",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-07T23:30:59-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -61,14 +61,6 @@
       "pubDate": "2026-11-07T17:10:05-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda se pronuncia sobre denuncias de Deicy Jiménez contra Petro: 'El expresidente está dispuesto a comparecer ante la justicia'",
-      "link": "https://www.eltiempo.com/politica/congreso/ivan-cepeda-se-pronuncia-sobre-denuncias-de-deicy-jimenez-contra-petro-el-expresidente-esta-dispuesto-a-comparecer-ante-la-justicia-3599049",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-06T13:15:27-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
