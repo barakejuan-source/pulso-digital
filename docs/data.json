@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-08T18:44:18.562Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-11-08T23:31:07.310Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,6 +47,30 @@
   ],
   "articles": [
     {
+      "title": "Iván Cepeda lanza dura autocrítica sobre el machismo en la izquierda: 'No podemos proclamar la emancipación y mantener la dominación'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-lanza-dura-autocritica-sobre-el-machismo-en-la-izquierda-no-podemos-proclamar-la-emancipacion-y-mantener-la-dominacion-3599397",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-08T17:20:51-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "El impacto en Colombia del estilo del presidente Abelardo De La Espriella en sus primeros 100 días de gobierno",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-impacto-en-colombia-del-estilo-del-presidente-abelardo-de-la-espriella-en-sus-primeros-100-dias-de-gobierno-3599231",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-08T16:11:21-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Colombia: ataques con drones y amenaza de atentados a tres meses del Gobierno De la Espriella",
+      "link": "https://www.france24.com/es/video/20261108-colombia-ataques-con-drones-y-amenaza-de-atentados-a-tres-meses-del-gobierno-de-la-espriella",
+      "source": "France 24",
+      "pubDate": "Sun, 08 Nov 2026 20:05:48 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Campaña de Abelardo De la Espriella ganó 10 estatuillas en los premios Reed Latino",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/campana-de-abelardo-de-la-espriella-gano-10-estatuillas-en-los-premios-reed-latino-3599384",
       "source": "El Tiempo",
@@ -55,28 +79,12 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cepeda lanza dura autocrítica sobre el machismo en la izquierda: 'No podemos proclamar la emancipación y mantener la dominación'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-lanza-dura-autocritica-sobre-el-machismo-en-la-izquierda-no-podemos-proclamar-la-emancipacion-y-mantener-la-dominacion-3599397",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-08T13:06:32-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
       "title": "Repunte de violencia en Colombia: panorama de seguridad de tres meses de Gobierno De la Espriella",
       "link": "https://www.france24.com/es/video/20261108-repunte-de-violencia-en-colombia-panorama-de-seguridad-de-tres-meses-de-gobierno-de-la-espriella",
       "source": "France 24",
       "pubDate": "Sun, 08 Nov 2026 17:58:40 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda reconoció “marcado machismo y patriarcado” en el progresismo colombiano: pidió al Pacto Histórico asumir responsabilidades",
-      "link": "https://www.infobae.com/colombia/2026/11/08/ivan-cepeda-reconocio-marcado-machismo-y-patriarcado-en-el-progresismo-colombiano-pidio-al-pacto-historico-asumir-responsabilidades/",
-      "source": "Infobae",
-      "pubDate": "Sun, 08 Nov 2026 17:47:03 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Desde el ataque a una base militar hasta la evacuación de un canal de TV: ¿qué está pasando en Colombia?",
@@ -115,14 +123,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/retomar-el-dialogo-bipartidista-la-meta-del-gobierno-de-abelardo-de-la-espriella-en-la-relacion-con-estados-unidos-3599238",
       "source": "El Tiempo",
       "pubDate": "2026-11-08T01:57:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El impacto en Colombia del estilo del presidente Abelardo De La Espriella en sus primeros 100 días de gobierno",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-impacto-en-colombia-del-estilo-del-presidente-abelardo-de-la-espriella-en-sus-primeros-100-dias-de-gobierno-3599231",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-08T00:49:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
