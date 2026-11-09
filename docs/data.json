@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T05:25:08.305Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-11-09T15:39:29.582Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
+      "title": "La comedia del poder y la tragedia de sus víctimas",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/la-comedia-del-poder-y-la-tragedia-de-sus-victimas/",
+      "source": "La Silla Vacía",
+      "pubDate": "Mon, 09 Nov 2026 13:19:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "A 100 días del gobierno De La Espriella, el Pacto Histórico enfrenta la falta de liderazgo y el peso de los escándalos del expresidente Gustavo Petro",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/a-100-dias-del-gobierno-de-la-espriella-el-pacto-historico-enfrenta-la-falta-de-liderazgo-y-el-peso-de-los-escandalos-del-expresidente-gustavo-petro-3599442",
       "source": "El Tiempo",
-      "pubDate": "2026-11-08T22:01:00-05:00",
+      "pubDate": "2026-11-09T06:25:19-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     },
@@ -59,54 +67,6 @@
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261109-qu%C3%A9-pas%C3%B3-con-las-donaciones-del-terremoto-en-colombia-la-fundaci%C3%B3n-de-la-primera-dama-bajo-la-lupa",
       "source": "France 24",
       "pubDate": "Mon, 09 Nov 2026 00:29:12 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Iván Cepeda lanza dura autocrítica sobre el machismo en la izquierda: 'No podemos proclamar la emancipación y mantener la dominación'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-lanza-dura-autocritica-sobre-el-machismo-en-la-izquierda-no-podemos-proclamar-la-emancipacion-y-mantener-la-dominacion-3599397",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-08T17:20:51-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Colombia: ataques con drones y amenaza de atentados a tres meses del Gobierno De la Espriella",
-      "link": "https://www.france24.com/es/video/20261108-colombia-ataques-con-drones-y-amenaza-de-atentados-a-tres-meses-del-gobierno-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Sun, 08 Nov 2026 20:05:48 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Campaña de Abelardo De la Espriella ganó 10 estatuillas en los premios Reed Latino",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/campana-de-abelardo-de-la-espriella-gano-10-estatuillas-en-los-premios-reed-latino-3599384",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-08T13:25:23-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El Evangelio de Bolsonaro y De la Espriella",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/el-evangelio-de-bolsonaro-y-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Sun, 08 Nov 2026 15:00:00 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De la Espriella ordena proteger a Caracol Televisión, RCN y Semana tras alertas de atentado",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordena-proteger-a-caracol-television-rcn-y-semana-tras-alertas-de-atentado-3599364",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-08T08:43:21-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los proyectos del gobierno de Abelardo De La Espriella que son una 'papa caliente' en la recta final del Congreso para este 2026",
-      "link": "https://www.eltiempo.com/politica/congreso/los-proyectos-del-gobierno-de-abelardo-de-la-espriella-que-son-una-papa-caliente-en-la-recta-final-del-congreso-para-este-3599265",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-08T05:01:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
