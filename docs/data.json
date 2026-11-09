@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-08T23:31:07.310Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-11-09T05:25:08.305Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 5,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,20 +47,28 @@
   ],
   "articles": [
     {
+      "title": "A 100 días del gobierno De La Espriella, el Pacto Histórico enfrenta la falta de liderazgo y el peso de los escándalos del expresidente Gustavo Petro",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/a-100-dias-del-gobierno-de-la-espriella-el-pacto-historico-enfrenta-la-falta-de-liderazgo-y-el-peso-de-los-escandalos-del-expresidente-gustavo-petro-3599442",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-08T22:01:00-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "¿Qué pasó con las donaciones del terremoto en Colombia? La fundación de la primera dama, bajo la lupa",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261109-qu%C3%A9-pas%C3%B3-con-las-donaciones-del-terremoto-en-colombia-la-fundaci%C3%B3n-de-la-primera-dama-bajo-la-lupa",
+      "source": "France 24",
+      "pubDate": "Mon, 09 Nov 2026 00:29:12 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Iván Cepeda lanza dura autocrítica sobre el machismo en la izquierda: 'No podemos proclamar la emancipación y mantener la dominación'",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/ivan-cepeda-lanza-dura-autocritica-sobre-el-machismo-en-la-izquierda-no-podemos-proclamar-la-emancipacion-y-mantener-la-dominacion-3599397",
       "source": "El Tiempo",
       "pubDate": "2026-11-08T17:20:51-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
-    },
-    {
-      "title": "El impacto en Colombia del estilo del presidente Abelardo De La Espriella en sus primeros 100 días de gobierno",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-impacto-en-colombia-del-estilo-del-presidente-abelardo-de-la-espriella-en-sus-primeros-100-dias-de-gobierno-3599231",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-08T16:11:21-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
     },
     {
       "title": "Colombia: ataques con drones y amenaza de atentados a tres meses del Gobierno De la Espriella",
@@ -75,22 +83,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/campana-de-abelardo-de-la-espriella-gano-10-estatuillas-en-los-premios-reed-latino-3599384",
       "source": "El Tiempo",
       "pubDate": "2026-11-08T13:25:23-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Repunte de violencia en Colombia: panorama de seguridad de tres meses de Gobierno De la Espriella",
-      "link": "https://www.france24.com/es/video/20261108-repunte-de-violencia-en-colombia-panorama-de-seguridad-de-tres-meses-de-gobierno-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Sun, 08 Nov 2026 17:58:40 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Desde el ataque a una base militar hasta la evacuación de un canal de TV: ¿qué está pasando en Colombia?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261108-desde-el-ataque-a-una-base-militar-hasta-la-evacuaci%C3%B3n-de-un-canal-de-tv-qu%C3%A9-est%C3%A1-pasando-en-colombia",
-      "source": "France 24",
-      "pubDate": "Sun, 08 Nov 2026 15:17:41 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -115,14 +107,6 @@
       "link": "https://www.eltiempo.com/politica/congreso/los-proyectos-del-gobierno-de-abelardo-de-la-espriella-que-son-una-papa-caliente-en-la-recta-final-del-congreso-para-este-3599265",
       "source": "El Tiempo",
       "pubDate": "2026-11-08T05:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Retomar el diálogo bipartidista, la meta del gobierno de Abelardo De La Espriella en la relación con Estados Unidos",
-      "link": "https://www.eltiempo.com/politica/gobierno/retomar-el-dialogo-bipartidista-la-meta-del-gobierno-de-abelardo-de-la-espriella-en-la-relacion-con-estados-unidos-3599238",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-08T01:57:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
