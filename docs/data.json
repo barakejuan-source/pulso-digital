@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T09:28:28.962Z",
+  "updatedAt": "2026-11-10T17:35:33.755Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -8,20 +8,20 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 4,
-      "youtubeScore": 0,
-      "sentimentScore": 0,
+      "youtubeScore": 54,
+      "sentimentScore": 19,
       "sentimentPct": {
-        "positive": 0,
-        "negative": 0,
-        "neutral": 0
+        "positive": 19,
+        "negative": 48,
+        "neutral": 33
       },
-      "youtubeViews": 0,
-      "finalScore": 2,
+      "youtubeViews": 249760,
+      "finalScore": 24,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": 1100,
+        "direction": "up"
       },
-      "probability": 2.6
+      "probability": 23.3
     },
     {
       "id": "abelardo_espriella",
@@ -30,22 +30,70 @@
       "color": "#1D3557",
       "trendsScore": 100,
       "youtubeScore": 100,
-      "sentimentScore": 20,
+      "sentimentScore": 29,
       "sentimentPct": {
-        "positive": 20,
-        "negative": 54,
-        "neutral": 26
+        "positive": 28.7,
+        "negative": 34,
+        "neutral": 37.3
       },
-      "youtubeViews": 113009,
-      "finalScore": 76,
+      "youtubeViews": 467343,
+      "finalScore": 79,
       "momentum": {
-        "value": 0,
-        "direction": "flat"
+        "value": 3.9,
+        "direction": "up"
       },
-      "probability": 97.4
+      "probability": 76.7
     }
   ],
   "articles": [
+    {
+      "title": "Gobierno de Abelardo de la Espriella declaró insubsistente a la directora general del Icfes: era una de las sobrevivientes de la administración de Gustavo Petro",
+      "link": "https://www.infobae.com/colombia/2026/11/10/gobierno-de-abelardo-de-la-espriella-declaro-insubsistente-a-la-directora-general-del-icfes-era-una-de-las-sobrevivientes-de-la-administracion-de-gustavo-petro/",
+      "source": "Infobae",
+      "pubDate": "Tue, 10 Nov 2026 17:32:05 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Frenar el IVA a los alimentos y revisar rebajas para los empresarios, estas son las propuestas del Partido Liberal al proyecto de rescate económico de Abelardo de la Espriella    ",
+      "link": "https://www.infobae.com/colombia/2026/11/10/frenar-el-iva-a-los-alimentos-y-revisar-rebajas-para-los-empresarios-estas-son-las-propuestas-del-partido-liberal-al-proyecto-de-rescate-economico-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Tue, 10 Nov 2026 17:18:11 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella encaró a ‘Barba Chivo’, uno de los más buscados de las disidencias de las Farc: “¿Qué les pareció la bomba que les envié firmada por mí?”",
+      "link": "https://www.infobae.com/colombia/2026/11/10/abelardo-de-la-espriella-encaro-a-barba-de-chivo-uno-de-los-mas-buscados-de-las-disidencias-de-las-farc-que-les-parecio-la-bomba-que-les-envie-firmada-por-mi/",
+      "source": "Infobae",
+      "pubDate": "Tue, 10 Nov 2026 17:02:14 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella anunció baja de alias Maryi, señalada enfermera de la Segunda Marquetalia, en operativo en Putumayo: esto se sabe",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-anuncio-baja-de-alias-maryi-senalada-enfermera-de-la-segunda-marquetalia-en-operativo-en-putumayo-esto-se-sabe-3599900",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-10T11:59:15-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella firmó explosivo usado en operación Noah en la que capturaron a 'Barba Chivo': '¿Qué les pareció bomba que mandé?'",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-firmo-explosivo-usado-en-operacion-noah-en-la-que-capturaron-a-barba-chivo-que-les-parecio-bomba-que-mande-3599886",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-10T11:43:45-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella entregó balance de la operación Noah contra disidencias en Tibú y anunció capturados: 'No tendrán escondite'",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-entrego-balance-de-la-operacion-noah-contra-disidencias-en-tibu-y-anuncio-capturados-no-tendran-escondite-3599791",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-10T11:00:05-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Presidente Abelardo De La Espriella: balance, sector por sector, de lo que ha pasado durante los primeros 100 días de su gobierno",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-balance-sector-por-sector-de-lo-que-ha-pasado-durante-los-primeros-100-dias-de-su-gobierno-3599673",
