@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T17:35:33.755Z",
+  "updatedAt": "2026-11-10T23:00:07.985Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -8,7 +8,7 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 4,
-      "youtubeScore": 54,
+      "youtubeScore": 53,
       "sentimentScore": 19,
       "sentimentPct": {
         "positive": 19,
@@ -16,12 +16,12 @@
         "neutral": 33
       },
       "youtubeViews": 249760,
-      "finalScore": 24,
+      "finalScore": 23,
       "momentum": {
-        "value": 1100,
-        "direction": "up"
+        "value": -4.2,
+        "direction": "flat"
       },
-      "probability": 23.3
+      "probability": 22.5
     },
     {
       "id": "abelardo_espriella",
@@ -39,34 +39,50 @@
       "youtubeViews": 467343,
       "finalScore": 79,
       "momentum": {
-        "value": 3.9,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
-      "probability": 76.7
+      "probability": 77.5
     }
   ],
   "articles": [
     {
-      "title": "Gobierno de Abelardo de la Espriella declaró insubsistente a la directora general del Icfes: era una de las sobrevivientes de la administración de Gustavo Petro",
-      "link": "https://www.infobae.com/colombia/2026/11/10/gobierno-de-abelardo-de-la-espriella-declaro-insubsistente-a-la-directora-general-del-icfes-era-una-de-las-sobrevivientes-de-la-administracion-de-gustavo-petro/",
-      "source": "Infobae",
-      "pubDate": "Tue, 10 Nov 2026 17:32:05 +0000",
+      "title": "Así les va a los embajadores del presidente Abelardo De La Espriella con el manejo del inglés y otros idiomas: ¿quiénes no acreditan?",
+      "link": "https://www.eltiempo.com/politica/gobierno/asi-les-va-a-los-embajadores-del-presidente-abelardo-de-la-espriella-con-el-manejo-del-ingles-y-otros-idiomas-quienes-no-acreditan-3599977",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-10T15:50:27-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Frenar el IVA a los alimentos y revisar rebajas para los empresarios, estas son las propuestas del Partido Liberal al proyecto de rescate económico de Abelardo de la Espriella    ",
-      "link": "https://www.infobae.com/colombia/2026/11/10/frenar-el-iva-a-los-alimentos-y-revisar-rebajas-para-los-empresarios-estas-son-las-propuestas-del-partido-liberal-al-proyecto-de-rescate-economico-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Tue, 10 Nov 2026 17:18:11 +0000",
+      "title": "Los mensajes que deja la aparición del presidente Abelardo De La Espriella vestido con el uniforme del Ejército",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-mensajes-que-deja-la-aparicion-del-presidente-abelardo-de-la-espriella-vestido-con-el-uniforme-del-ejercito-3599963",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-10T15:22:35-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella encaró a ‘Barba Chivo’, uno de los más buscados de las disidencias de las Farc: “¿Qué les pareció la bomba que les envié firmada por mí?”",
-      "link": "https://www.infobae.com/colombia/2026/11/10/abelardo-de-la-espriella-encaro-a-barba-de-chivo-uno-de-los-mas-buscados-de-las-disidencias-de-las-farc-que-les-parecio-la-bomba-que-les-envie-firmada-por-mi/",
-      "source": "Infobae",
-      "pubDate": "Tue, 10 Nov 2026 17:02:14 +0000",
+      "title": "Directo a... Bogotá y el aumento de los ataques de grupos armados en Colombia",
+      "link": "https://www.france24.com/es/video/20261110-directo-a-bogot%C3%A1-y-el-aumento-de-los-ataques-de-grupos-armados-en-colombia",
+      "source": "France 24",
+      "pubDate": "Tue, 10 Nov 2026 19:59:17 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El drama de los damnificados del terremoto en Colombia por la falta de ayudas tres meses después",
+      "link": "https://www.france24.com/es/video/20261110-el-drama-de-los-damnificados-del-terremoto-en-colombia-por-la-falta-de-ayudas-tres-meses-despu%C3%A9s",
+      "source": "France 24",
+      "pubDate": "Tue, 10 Nov 2026 19:32:58 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella firmó explosivo usado en operación Noah en la que capturaron a 'Barba Chivo': '¿Qué les pareció bomba que mandé?'",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-firmo-explosivo-usado-en-operacion-noah-en-la-que-capturaron-a-barba-chivo-que-les-parecio-bomba-que-mande-3599886",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-10T12:30:49-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -79,26 +95,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella firmó explosivo usado en operación Noah en la que capturaron a 'Barba Chivo': '¿Qué les pareció bomba que mandé?'",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-firmo-explosivo-usado-en-operacion-noah-en-la-que-capturaron-a-barba-chivo-que-les-parecio-bomba-que-mande-3599886",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-10T11:43:45-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
       "title": "Presidente Abelardo De La Espriella entregó balance de la operación Noah contra disidencias en Tibú y anunció capturados: 'No tendrán escondite'",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-entrego-balance-de-la-operacion-noah-contra-disidencias-en-tibu-y-anuncio-capturados-no-tendran-escondite-3599791",
       "source": "El Tiempo",
       "pubDate": "2026-11-10T11:00:05-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella: balance, sector por sector, de lo que ha pasado durante los primeros 100 días de su gobierno",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-balance-sector-por-sector-de-lo-que-ha-pasado-durante-los-primeros-100-dias-de-su-gobierno-3599673",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-09T16:47:03-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
