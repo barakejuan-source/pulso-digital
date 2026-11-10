@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-09T15:39:29.582Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-11-10T00:03:02.370Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 5,
+      "trendsScore": 4,
       "youtubeScore": 0,
       "sentimentScore": 0,
       "sentimentPct": {
@@ -47,26 +47,18 @@
   ],
   "articles": [
     {
-      "title": "La comedia del poder y la tragedia de sus víctimas",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/la-comedia-del-poder-y-la-tragedia-de-sus-victimas/",
-      "source": "La Silla Vacía",
-      "pubDate": "Mon, 09 Nov 2026 13:19:58 +0000",
+      "title": "Abelardo de la Espriella se pronunció tras la desarticulación de una red de pornografía infantil: “Con nuestros niños no se mete nadie”",
+      "link": "https://www.infobae.com/colombia/2026/11/09/abelardo-de-la-espriella-se-pronuncio-tras-la-desarticulacion-de-una-red-de-pornografia-infantil-con-nuestros-ninos-no-se-mete-nadie/",
+      "source": "Infobae",
+      "pubDate": "Mon, 09 Nov 2026 22:50:36 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "A 100 días del gobierno De La Espriella, el Pacto Histórico enfrenta la falta de liderazgo y el peso de los escándalos del expresidente Gustavo Petro",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/a-100-dias-del-gobierno-de-la-espriella-el-pacto-historico-enfrenta-la-falta-de-liderazgo-y-el-peso-de-los-escandalos-del-expresidente-gustavo-petro-3599442",
+      "title": "Presidente Abelardo De La Espriella: balance, sector por sector, de lo que ha pasado durante los primeros 100 días de su gobierno",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-balance-sector-por-sector-de-lo-que-ha-pasado-durante-los-primeros-100-dias-de-su-gobierno-3599673",
       "source": "El Tiempo",
-      "pubDate": "2026-11-09T06:25:19-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "¿Qué pasó con las donaciones del terremoto en Colombia? La fundación de la primera dama, bajo la lupa",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261109-qu%C3%A9-pas%C3%B3-con-las-donaciones-del-terremoto-en-colombia-la-fundaci%C3%B3n-de-la-primera-dama-bajo-la-lupa",
-      "source": "France 24",
-      "pubDate": "Mon, 09 Nov 2026 00:29:12 GMT",
+      "pubDate": "2026-11-09T16:47:03-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
