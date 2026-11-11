@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T13:50:13.671Z",
+  "updatedAt": "2026-11-11T21:09:14.396Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,8 +18,8 @@
       "youtubeViews": 986388,
       "finalScore": 34,
       "momentum": {
-        "value": 1600,
-        "direction": "up"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 43
     },
@@ -29,7 +29,7 @@
       "party": "Defensores de la Patria",
       "color": "#1D3557",
       "trendsScore": 100,
-      "youtubeScore": 3,
+      "youtubeScore": 2,
       "sentimentScore": 14,
       "sentimentPct": {
         "positive": 14,
@@ -39,58 +39,26 @@
       "youtubeViews": 21636,
       "finalScore": 45,
       "momentum": {
-        "value": -41.6,
-        "direction": "down"
+        "value": 0,
+        "direction": "flat"
       },
       "probability": 57
     }
   ],
   "articles": [
     {
-      "title": "Alcaldesa de Ibagué empezó a imitar el estilo de Abelardo de la Espriella y así encaró a capturados por delitos menores en su ciudad: \"El que la hace, la paga\"",
-      "link": "https://www.infobae.com/colombia/2026/11/11/alcaldesa-de-ibague-empezo-a-imitar-el-estilo-de-abelardo-de-la-espriella-y-asi-encaro-a-capturados-por-delitos-menores-en-su-ciudad-el-que-la-hace-la-paga/",
-      "source": "Infobae",
-      "pubDate": "Wed, 11 Nov 2026 13:45:22 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Miguel Uribe Londoño ya tiene beneplácito para embajada en Reino Unido",
+      "link": "https://www.lasillavacia.com/en-vivo/miguel-uribe-londono-ya-tiene-beneplacito-para-embajada-en-reino-unido/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 11 Nov 2026 21:01:03 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Secuestraron a la esposa del alcalde de Uribia, en La Guajira, cuando salía del gimnasio: Abelardo de la Espriella ordenó despliegue para su liberación",
-      "link": "https://www.infobae.com/colombia/2026/11/11/secuestraron-a-la-esposa-del-alcalde-de-uribia-en-la-guajira-cuando-salia-del-gimnasio-abelardo-de-la-espriella-ordeno-despliegue-para-su-liberacion/",
-      "source": "Infobae",
-      "pubDate": "Wed, 11 Nov 2026 13:42:43 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella rechazó el atentado contra sede de RCN en Cali y ordenó capturar a los responsables: “La prensa se respeta” ",
-      "link": "https://www.infobae.com/colombia/2026/11/11/abelardo-de-la-espriella-rechazo-el-atentado-contra-sede-de-rcn-en-cali-y-ordeno-capturar-a-los-responsables-la-prensa-se-respeta/",
-      "source": "Infobae",
-      "pubDate": "Wed, 11 Nov 2026 13:36:20 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anunció despliegue policial tras atentado con granada contra RCN en Cali y lanzó advertencia: 'Prensa se respeta'",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-lanzo-advertencia-tras-atentado-con-granada-contra-rcn-en-cali-y-anuncio-despliegue-la-prensa-se-respeta-3600096",
+      "title": "Hablemos de los primeros 100 días del gobierno de Abelardo De La Espriella | Participa en la charla con suscriptores, con el análisis de Thierry Ways",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/hablemos-de-los-primeros-100-dias-del-gobierno-de-abelardo-de-la-espriella-participa-en-la-charla-con-suscriptores-con-el-analisis-de-thierry-ways-3599044",
       "source": "El Tiempo",
-      "pubDate": "2026-11-11T08:27:22-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Así les va a los embajadores del presidente Abelardo De La Espriella con el manejo del inglés y otros idiomas: ¿quiénes no acreditan?",
-      "link": "https://www.eltiempo.com/politica/gobierno/asi-les-va-a-los-embajadores-del-presidente-abelardo-de-la-espriella-con-el-manejo-del-ingles-y-otros-idiomas-quienes-no-acreditan-3599977",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-11T06:38:50-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los mensajes que deja la aparición del presidente Abelardo De La Espriella vestido con el uniforme del Ejército",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-mensajes-que-deja-la-aparicion-del-presidente-abelardo-de-la-espriella-vestido-con-el-uniforme-del-ejercito-3599963",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-11T06:28:49-05:00",
+      "pubDate": "2026-11-11T10:24:57-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
