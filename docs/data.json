@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T23:00:07.985Z",
+  "updatedAt": "2026-11-11T05:25:32.201Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -8,20 +8,20 @@
       "party": "Pacto Histórico",
       "color": "#E63946",
       "trendsScore": 4,
-      "youtubeScore": 53,
-      "sentimentScore": 19,
+      "youtubeScore": 0,
+      "sentimentScore": 0,
       "sentimentPct": {
-        "positive": 19,
-        "negative": 48,
-        "neutral": 33
+        "positive": 0,
+        "negative": 0,
+        "neutral": 0
       },
-      "youtubeViews": 249760,
-      "finalScore": 23,
+      "youtubeViews": 0,
+      "finalScore": 2,
       "momentum": {
-        "value": -4.2,
-        "direction": "flat"
+        "value": -91.3,
+        "direction": "down"
       },
-      "probability": 22.5
+      "probability": 2.5
     },
     {
       "id": "abelardo_espriella",
@@ -30,51 +30,35 @@
       "color": "#1D3557",
       "trendsScore": 100,
       "youtubeScore": 100,
-      "sentimentScore": 29,
+      "sentimentScore": 24,
       "sentimentPct": {
-        "positive": 28.7,
-        "negative": 34,
-        "neutral": 37.3
+        "positive": 24,
+        "negative": 52,
+        "neutral": 24
       },
-      "youtubeViews": 467343,
-      "finalScore": 79,
+      "youtubeViews": 179029,
+      "finalScore": 77,
       "momentum": {
-        "value": 0,
+        "value": -2.5,
         "direction": "flat"
       },
-      "probability": 77.5
+      "probability": 97.5
     }
   ],
   "articles": [
+    {
+      "title": "Los mensajes que deja la aparición del presidente Abelardo De La Espriella vestido con el uniforme del Ejército",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-mensajes-que-deja-la-aparicion-del-presidente-abelardo-de-la-espriella-vestido-con-el-uniforme-del-ejercito-3599963",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-10T18:59:18-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
     {
       "title": "Así les va a los embajadores del presidente Abelardo De La Espriella con el manejo del inglés y otros idiomas: ¿quiénes no acreditan?",
       "link": "https://www.eltiempo.com/politica/gobierno/asi-les-va-a-los-embajadores-del-presidente-abelardo-de-la-espriella-con-el-manejo-del-ingles-y-otros-idiomas-quienes-no-acreditan-3599977",
       "source": "El Tiempo",
       "pubDate": "2026-11-10T15:50:27-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Los mensajes que deja la aparición del presidente Abelardo De La Espriella vestido con el uniforme del Ejército",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-mensajes-que-deja-la-aparicion-del-presidente-abelardo-de-la-espriella-vestido-con-el-uniforme-del-ejercito-3599963",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-10T15:22:35-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Directo a... Bogotá y el aumento de los ataques de grupos armados en Colombia",
-      "link": "https://www.france24.com/es/video/20261110-directo-a-bogot%C3%A1-y-el-aumento-de-los-ataques-de-grupos-armados-en-colombia",
-      "source": "France 24",
-      "pubDate": "Tue, 10 Nov 2026 19:59:17 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "El drama de los damnificados del terremoto en Colombia por la falta de ayudas tres meses después",
-      "link": "https://www.france24.com/es/video/20261110-el-drama-de-los-damnificados-del-terremoto-en-colombia-por-la-falta-de-ayudas-tres-meses-despu%C3%A9s",
-      "source": "France 24",
-      "pubDate": "Tue, 10 Nov 2026 19:32:58 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -91,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-anuncio-baja-de-alias-maryi-senalada-enfermera-de-la-segunda-marquetalia-en-operativo-en-putumayo-esto-se-sabe-3599900",
       "source": "El Tiempo",
       "pubDate": "2026-11-10T11:59:15-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella entregó balance de la operación Noah contra disidencias en Tibú y anunció capturados: 'No tendrán escondite'",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-entrego-balance-de-la-operacion-noah-contra-disidencias-en-tibu-y-anuncio-capturados-no-tendran-escondite-3599791",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-10T11:00:05-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
