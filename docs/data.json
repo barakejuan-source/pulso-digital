@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T21:09:14.396Z",
+  "updatedAt": "2026-11-12T02:53:36.636Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Miguel Uribe Londoño ya tiene beneplácito para embajada en Reino Unido",
-      "link": "https://www.lasillavacia.com/en-vivo/miguel-uribe-londono-ya-tiene-beneplacito-para-embajada-en-reino-unido/",
-      "source": "La Silla Vacía",
-      "pubDate": "Wed, 11 Nov 2026 21:01:03 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Estas son las bases del Plan Nacional de Desarrollo del gobierno de Abelardo De La Espriella: descentralización y reconstrucción, ente los ejes",
+      "link": "https://www.eltiempo.com/politica/gobierno/estos-son-las-bases-del-plan-nacional-de-desarrollo-del-gobierno-de-abelardo-de-la-espriella-descentralizacion-y-reconstruccion-ente-los-ejes-3600323",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-11T19:46:56-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "Hablemos de los primeros 100 días del gobierno de Abelardo De La Espriella | Participa en la charla con suscriptores, con el análisis de Thierry Ways",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/hablemos-de-los-primeros-100-dias-del-gobierno-de-abelardo-de-la-espriella-participa-en-la-charla-con-suscriptores-con-el-analisis-de-thierry-ways-3599044",
+      "title": "Juvinao habla sobre atención del terremoto: ‘El Fondo Milagro está lleno de perlitas",
+      "link": "https://www.eltiempo.com/politica/congreso/juvinao-habla-sobre-atencion-del-terremoto-el-fondo-milagro-esta-lleno-de-perlitas-3600320",
       "source": "El Tiempo",
-      "pubDate": "2026-11-11T10:24:57-05:00",
+      "pubDate": "2026-11-11T16:55:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
