@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T12:22:31.975Z",
+  "updatedAt": "2026-11-12T21:22:40.383Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Así le fue a la primera dama Ana Lucía Pineda tras recibir al papa León XIV en Perú: “Un espacio de fe por nuestra patria” ",
-      "link": "https://www.infobae.com/colombia/2026/11/12/asi-le-fue-a-la-primera-dama-ana-lucia-pineda-tras-recibir-al-papa-leon-xiv-en-peru-un-espacio-de-fe-por-nuestra-patria/",
-      "source": "Infobae",
-      "pubDate": "Thu, 12 Nov 2026 12:15:33 +0000",
+      "title": "#ElFiltro: presidente Abelardo De La Espriella no anunció un acuerdo con Ueno Bank de Paraguay y Santiago Peña en Colombia; publicación es un montaje",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/elfiltro-presidente-abelardo-de-la-espriella-no-anuncio-un-acuerdo-con-ueno-bank-de-paraguay-y-santiago-pena-en-colombia-publicacion-es-un-montaje-3600612",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-12T16:09:28-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Esta sería la propuesta del Centro Democrático al presidente Abelardo De La Espriella para modificar la reforma tributaria y ley de rescate fiscal",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/esta-seria-la-propuesta-del-centro-democratico-al-presidente-abelardo-de-la-espriella-para-modificar-la-reforma-tributaria-y-ley-de-rescate-fiscal-3600558",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-12T15:01:41-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Perú, Israel, Chile y Reino Unido, entre los países de los 12 nuevos embajadores que presentaron credenciales al gobierno De La Espriella",
+      "link": "https://www.eltiempo.com/politica/gobierno/peru-israel-chile-y-reino-unido-entre-los-paises-de-los-12-nuevos-embajadores-que-presentaron-credenciales-al-gobierno-de-la-espriella-3600441",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-12T08:57:16-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -59,14 +75,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/estos-son-las-bases-del-plan-nacional-de-desarrollo-del-gobierno-de-abelardo-de-la-espriella-descentralizacion-y-reconstruccion-ente-los-ejes-3600323",
       "source": "El Tiempo",
       "pubDate": "2026-11-11T23:35:22-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Juvinao habla sobre atención del terremoto: ‘El Fondo Milagro está lleno de perlitas",
-      "link": "https://www.eltiempo.com/politica/congreso/juvinao-habla-sobre-atencion-del-terremoto-el-fondo-milagro-esta-lleno-de-perlitas-3600320",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-11T16:55:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
