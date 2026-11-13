@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:59:26.930Z",
+  "updatedAt": "2026-11-13T19:33:26.516Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 2,
+      "trendsScore": 3,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -47,42 +47,50 @@
   ],
   "articles": [
     {
+      "title": "Renunció Jaime Uribe a la gerencia del Fondo Milagro tras fuerte regaño de Abelardo de la Espriella sobre millonarios salarios",
+      "link": "https://www.infobae.com/colombia/2026/11/13/renuncio-jaime-uribe-a-la-gerencia-del-fondo-milagro-tras-fuerte-regano-de-abelardo-de-la-espriella-sobre-millonarios-salarios/",
+      "source": "Infobae",
+      "pubDate": "Fri, 13 Nov 2026 19:26:33 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Renunció el gerente del Fondo Milagro: presidente Abelardo De La Espriella anunció que pidió su salida",
+      "link": "https://www.eltiempo.com/politica/gobierno/renuncio-el-gerente-del-fondo-milagro-presidente-abelardo-de-la-espriella-anuncio-que-pidio-su-salida-3600899",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-13T14:06:37-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Renunció el gerente del Fondo Milagro, Jaime Uribe, tras polémica por sueldos de funcionarios; presidente Abelardo De La Espriella se pronunció",
+      "link": "https://www.eltiempo.com/politica/gobierno/renuncio-el-gerente-del-fondo-milagro-jaime-uribe-presidente-abelardo-de-la-espriella-se-pronuncio-en-este-gobierno-hacemos-lo-correcto-3600898",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-13T14:04:37-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella lanzó fuerte advertencia tras la captura de cuatro funcionarios de la Dian señalados de lavar más de $425 millones: “Se acabó la fiesta de la corrupción”",
+      "link": "https://www.infobae.com/colombia/2026/11/13/abelardo-de-la-espriellalanzo-fuerte-advertencia-tras-la-captura-de-cuatro-funcionarios-de-la-dian-senalados-de-lavar-mas-de-425-millones-se-acabo-la-fiesta-de-la-corrupcion/",
+      "source": "Infobae",
+      "pubDate": "Fri, 13 Nov 2026 18:59:57 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Los millonarios sueldos de los funcionarios del Fondo Milagro que el presidente Abelardo De La Espriella ordenó frenar: ganaban más de $30 millones",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/los-millonarios-sueldos-de-los-funcionarios-del-fondo-milagro-que-el-presidente-abelardo-de-la-espriella-ordeno-frenar-ganaban-mas-de-30-millones-3600749",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-13T13:20:34-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella ordenó frenar la nómina del Fondo Milagro por los altos salarios de sus funcionarios: 'No los autorizo'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordeno-frenar-la-nomina-del-fondo-milagro-por-los-altos-salarios-de-sus-funcionarios-no-los-autorizo-3600682",
       "source": "El Tiempo",
       "pubDate": "2026-11-13T06:09:59-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "De la Espriella no publicó que trabajará con Santiago Peña en Ueno Bank",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-la-espriella-no-publico-que-trabajara-con-santiago-pena-en-ueno-bank/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 13 Nov 2026 00:16:56 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "#ElFiltro: presidente Abelardo De La Espriella no anunció un acuerdo con Ueno Bank de Paraguay y Santiago Peña en Colombia; publicación es un montaje",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/elfiltro-presidente-abelardo-de-la-espriella-no-anuncio-un-acuerdo-con-ueno-bank-de-paraguay-y-santiago-pena-en-colombia-publicacion-es-un-montaje-3600612",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-12T18:36:21-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Esta sería la propuesta del Centro Democrático al presidente Abelardo De La Espriella para modificar la reforma tributaria y ley de rescate fiscal",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/esta-seria-la-propuesta-del-centro-democratico-al-presidente-abelardo-de-la-espriella-para-modificar-la-reforma-tributaria-y-ley-de-rescate-fiscal-3600558",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-12T17:48:17-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Perú, Israel, Chile y Reino Unido, entre los países de los 12 nuevos embajadores que presentaron credenciales al gobierno De La Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/peru-israel-chile-y-reino-unido-entre-los-paises-de-los-12-nuevos-embajadores-que-presentaron-credenciales-al-gobierno-de-la-espriella-3600441",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-12T08:57:16-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
