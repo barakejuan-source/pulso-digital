@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T02:29:59.649Z",
+  "updatedAt": "2026-11-13T11:59:26.930Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 4,
+      "trendsScore": 2,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -50,17 +50,9 @@
       "title": "Presidente Abelardo De La Espriella ordenó frenar la nómina del Fondo Milagro por los altos salarios de sus funcionarios: 'No los autorizo'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordeno-frenar-la-nomina-del-fondo-milagro-por-los-altos-salarios-de-sus-funcionarios-no-los-autorizo-3600682",
       "source": "El Tiempo",
-      "pubDate": "2026-11-12T20:51:25-05:00",
+      "pubDate": "2026-11-13T06:09:59-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Enrique Vargas Lleras arremetió contra Roy Barreras por señalamientos sobre Germán Vargas Lleras: “Esperó a que mi hermano muriera para calumniarlo” ",
-      "link": "https://www.infobae.com/colombia/2026/11/13/enrique-vargas-lleras-arremetio-contra-roy-barreras-por-senalamientos-sobre-german-vargas-lleras-espero-a-que-mi-hermano-muriera-para-calumniarlo/",
-      "source": "Infobae",
-      "pubDate": "Fri, 13 Nov 2026 01:21:30 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
     },
     {
       "title": "De la Espriella no publicó que trabajará con Santiago Peña en Ueno Bank",
