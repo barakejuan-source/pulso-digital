@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T21:22:40.383Z",
+  "updatedAt": "2026-11-13T02:29:59.649Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,34 @@
   ],
   "articles": [
     {
+      "title": "Presidente Abelardo De La Espriella ordenó frenar la nómina del Fondo Milagro por los altos salarios de sus funcionarios: 'No los autorizo'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-ordeno-frenar-la-nomina-del-fondo-milagro-por-los-altos-salarios-de-sus-funcionarios-no-los-autorizo-3600682",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-12T20:51:25-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Enrique Vargas Lleras arremetió contra Roy Barreras por señalamientos sobre Germán Vargas Lleras: “Esperó a que mi hermano muriera para calumniarlo” ",
+      "link": "https://www.infobae.com/colombia/2026/11/13/enrique-vargas-lleras-arremetio-contra-roy-barreras-por-senalamientos-sobre-german-vargas-lleras-espero-a-que-mi-hermano-muriera-para-calumniarlo/",
+      "source": "Infobae",
+      "pubDate": "Fri, 13 Nov 2026 01:21:30 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "De la Espriella no publicó que trabajará con Santiago Peña en Ueno Bank",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/de-la-espriella-no-publico-que-trabajara-con-santiago-pena-en-ueno-bank/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 13 Nov 2026 00:16:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "#ElFiltro: presidente Abelardo De La Espriella no anunció un acuerdo con Ueno Bank de Paraguay y Santiago Peña en Colombia; publicación es un montaje",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/elfiltro-presidente-abelardo-de-la-espriella-no-anuncio-un-acuerdo-con-ueno-bank-de-paraguay-y-santiago-pena-en-colombia-publicacion-es-un-montaje-3600612",
       "source": "El Tiempo",
-      "pubDate": "2026-11-12T16:09:28-05:00",
+      "pubDate": "2026-11-12T18:36:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,7 +82,7 @@
       "title": "Esta sería la propuesta del Centro Democrático al presidente Abelardo De La Espriella para modificar la reforma tributaria y ley de rescate fiscal",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/esta-seria-la-propuesta-del-centro-democratico-al-presidente-abelardo-de-la-espriella-para-modificar-la-reforma-tributaria-y-ley-de-rescate-fiscal-3600558",
       "source": "El Tiempo",
-      "pubDate": "2026-11-12T15:01:41-05:00",
+      "pubDate": "2026-11-12T17:48:17-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,14 +91,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/peru-israel-chile-y-reino-unido-entre-los-paises-de-los-12-nuevos-embajadores-que-presentaron-credenciales-al-gobierno-de-la-espriella-3600441",
       "source": "El Tiempo",
       "pubDate": "2026-11-12T08:57:16-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Estas son las bases del Plan Nacional de Desarrollo del gobierno de Abelardo De La Espriella: descentralización y reconstrucción, ente los ejes",
-      "link": "https://www.eltiempo.com/politica/gobierno/estos-son-las-bases-del-plan-nacional-de-desarrollo-del-gobierno-de-abelardo-de-la-espriella-descentralizacion-y-reconstruccion-ente-los-ejes-3600323",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-11T23:35:22-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
