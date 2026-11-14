@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T08:46:14.479Z",
+  "updatedAt": "2026-11-14T16:28:52.163Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,46 @@
   ],
   "articles": [
     {
+      "title": "Fiscalía archiva otro caso contra Uribe por presunto soborno a testigos",
+      "link": "https://www.lasillavacia.com/en-vivo/fiscalia-archiva-otro-caso-contra-uribe-por-presunto-soborno-a-testigos/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 14 Nov 2026 16:20:06 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Fiscalía archiva investigación contra Álvaro Uribe por presunto soborno a testigos en caso relacionado con Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/fiscalia-archiva-investigacion-contra-alvaro-uribe-por-presunto-soborno-a-testigos-en-caso-relacionado-con-ivan-cepeda-3601063",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-14T08:45:22-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella anuncia al exministro Luis Felipe Henao como nuevo gerente del Fondo Milagro",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-al-exministro-luis-felipe-henao-como-nuevo-gerente-del-fondo-milagro-3601008",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-14T07:50:49-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "‘Las pulgas tienen derecho a picar al tigre, pero yo no tengo tiempo para contestar sandeces’: Abelardo De La Espriella defiende su gobierno",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/las-pulgas-tienen-derecho-a-picar-al-tigre-pero-yo-no-tengo-tiempo-para-contestar-sandeces-abelardo-de-la-espriella-defiende-su-gobierno-3601060",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-14T07:48:50-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Van 100, faltan 1.361",
+      "link": "https://www.lasillavacia.com/opinion/van-100-faltan-1-361/",
+      "source": "La Silla Vacía",
+      "pubDate": "Sat, 14 Nov 2026 12:35:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Presidente Abelardo De La Espriella declara el retorno a la normalidad tras dos años de desastre nacional por 'variabilidad climática'",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-declara-el-retorno-a-la-normalidad-tras-dos-anos-de-desastre-nacional-por-variabilidad-climatica-3601046",
       "source": "El Tiempo",
@@ -55,34 +95,10 @@
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella anuncia al exministro Luis Felipe Henao como nuevo gerente del Fondo Milagro",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncia-al-exministro-luis-felipe-henao-como-nuevo-gerente-del-fondo-milagro-3601008",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-13T22:52:38-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "En este video no abuchean a De la Espriella, sino a “Timochenko” en 2018",
-      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/en-este-video-no-abuchean-a-de-la-espriella-sino-a-timochenko-en-2018/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 13 Nov 2026 22:51:51 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Reacciones a la renuncia de Jaime Andrés Uribe como gerente del Fondo Milagro: 'Acierta el presidente Abelardo De La Espriella'",
       "link": "https://www.eltiempo.com/politica/gobierno/renuncio-el-gerente-del-fondo-milagro-presidente-abelardo-de-la-espriella-anuncio-que-pidio-su-salida-3600899",
       "source": "El Tiempo",
       "pubDate": "2026-11-13T17:16:53-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Renunció el gerente del Fondo Milagro, Jaime Uribe, tras polémica por sueldos de funcionarios; el presidente Abelardo De La Espriella se pronunció",
-      "link": "https://www.eltiempo.com/politica/gobierno/renuncio-el-gerente-del-fondo-milagro-jaime-uribe-presidente-abelardo-de-la-espriella-se-pronuncio-en-este-gobierno-hacemos-lo-correcto-3600898",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-13T16:56:16-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
