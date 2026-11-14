@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:33:26.516Z",
+  "updatedAt": "2026-11-14T00:48:25.635Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 3,
+      "trendsScore": 2,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -47,34 +47,42 @@
   ],
   "articles": [
     {
-      "title": "Renunció Jaime Uribe a la gerencia del Fondo Milagro tras fuerte regaño de Abelardo de la Espriella sobre millonarios salarios",
-      "link": "https://www.infobae.com/colombia/2026/11/13/renuncio-jaime-uribe-a-la-gerencia-del-fondo-milagro-tras-fuerte-regano-de-abelardo-de-la-espriella-sobre-millonarios-salarios/",
+      "title": "Abelardo de la Espriella entregó balance de la Operación Nehemías, que dio de baja a alias Negro Perea, cabecilla del Clan del Golfo en Tarazá",
+      "link": "https://www.infobae.com/colombia/2026/11/14/abelardo-de-la-espriella-entrego-balance-de-la-operacion-nehemias-que-dio-de-baja-a-alias-negro-perea-cabecilla-del-clan-del-golfo-en-taraza/",
       "source": "Infobae",
-      "pubDate": "Fri, 13 Nov 2026 19:26:33 +0000",
+      "pubDate": "Sat, 14 Nov 2026 00:29:04 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Renunció el gerente del Fondo Milagro: presidente Abelardo De La Espriella anunció que pidió su salida",
+      "title": "Abelardo de la Espriella se desahogó y lanzó un mensaje a los críticos de su Gobierno, en la víspera de los 100 días: “No tengo tiempo para contestar sandeces”",
+      "link": "https://www.infobae.com/colombia/2026/11/13/abelardo-de-la-espriella-se-desahogo-y-lanzo-un-mensaje-a-los-criticos-de-su-gobierno-en-la-vispera-de-los-100-dias-no-tengo-tiempo-para-contestar-sandeces/",
+      "source": "Infobae",
+      "pubDate": "Fri, 13 Nov 2026 23:22:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "En este video no abuchean a De la Espriella, sino a “Timochenko” en 2018",
+      "link": "https://www.lasillavacia.com/detector-de-mentiras/falso/en-este-video-no-abuchean-a-de-la-espriella-sino-a-timochenko-en-2018/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 13 Nov 2026 22:51:51 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Reacciones a la renuncia de Jaime Andrés Uribe como gerente del Fondo Milagro: 'Acierta el presidente Abelardo De La Espriella'",
       "link": "https://www.eltiempo.com/politica/gobierno/renuncio-el-gerente-del-fondo-milagro-presidente-abelardo-de-la-espriella-anuncio-que-pidio-su-salida-3600899",
       "source": "El Tiempo",
-      "pubDate": "2026-11-13T14:06:37-05:00",
+      "pubDate": "2026-11-13T17:16:53-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Renunció el gerente del Fondo Milagro, Jaime Uribe, tras polémica por sueldos de funcionarios; presidente Abelardo De La Espriella se pronunció",
+      "title": "Renunció el gerente del Fondo Milagro, Jaime Uribe, tras polémica por sueldos de funcionarios; el presidente Abelardo De La Espriella se pronunció",
       "link": "https://www.eltiempo.com/politica/gobierno/renuncio-el-gerente-del-fondo-milagro-jaime-uribe-presidente-abelardo-de-la-espriella-se-pronuncio-en-este-gobierno-hacemos-lo-correcto-3600898",
       "source": "El Tiempo",
-      "pubDate": "2026-11-13T14:04:37-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella lanzó fuerte advertencia tras la captura de cuatro funcionarios de la Dian señalados de lavar más de $425 millones: “Se acabó la fiesta de la corrupción”",
-      "link": "https://www.infobae.com/colombia/2026/11/13/abelardo-de-la-espriellalanzo-fuerte-advertencia-tras-la-captura-de-cuatro-funcionarios-de-la-dian-senalados-de-lavar-mas-de-425-millones-se-acabo-la-fiesta-de-la-corrupcion/",
-      "source": "Infobae",
-      "pubDate": "Fri, 13 Nov 2026 18:59:57 +0000",
+      "pubDate": "2026-11-13T16:56:16-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
