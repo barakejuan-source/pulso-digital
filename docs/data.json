@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T19:40:52.495Z",
+  "updatedAt": "2026-11-15T23:52:42.153Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,26 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Un terremoto, incógnitas sobre las ayudas y una ola terrorista: los 100 días de gobierno de De la Espriella",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-un-terremoto-inc%C3%B3gnitas-sobre-las-ayudas-y-una-ola-terrorista-los-100-d%C3%ADas-de-gobierno-de-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Sun, 15 Nov 2026 19:11:02 GMT",
+      "title": "Ley de Rescate Económico de Abelardo de la Espriella entra en etapa clave en el Congreso: estos son los ponentes que la estudiarán ",
+      "link": "https://www.infobae.com/colombia/2026/11/15/ley-de-rescate-economico-de-abelardo-de-la-espriella-entra-en-etapa-clave-en-el-congreso-estos-son-los-ponentes-que-la-estudiaran/",
+      "source": "Infobae",
+      "pubDate": "Sun, 15 Nov 2026 22:29:40 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "El kirchnerismo volvió a rechazar la eliminación de las PASO y desafió al Gobierno: “Vamos a ganar en primera vuelta”",
-      "link": "https://www.infobae.com/politica/2026/11/15/el-kirchnerismo-volvio-a-rechazar-la-eliminacion-de-las-paso-y-desafio-al-gobierno-vamos-a-ganar-en-primera-vuelta/",
-      "source": "Infobae",
-      "pubDate": "Sun, 15 Nov 2026 18:48:19 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "title": "Mano dura y un terremoto: los primeros 100 días de De la Espriella en Colombia",
+      "link": "https://www.france24.com/es/video/20261115-mano-dura-y-un-terremoto-los-primeros-100-d%C3%ADas-de-de-la-espriella-en-colombia",
+      "source": "France 24",
+      "pubDate": "Sun, 15 Nov 2026 22:03:27 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
-      "title": "La Flip alertó sobre cinco riesgos para la libertad de prensa en los primeros 100 días de gobierno de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/11/15/la-flip-alerto-sobre-cinco-riesgos-para-la-libertad-de-prensa-en-los-primeros-100-dias-de-gobierno-de-abelardo-de-la-espriella/",
-      "source": "Infobae",
-      "pubDate": "Sun, 15 Nov 2026 18:45:10 +0000",
+      "title": "Un terremoto, incógnitas sobre las ayudas y una ola terrorista: los 100 días de gobierno de De la Espriella",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-un-terremoto-inc%C3%B3gnitas-sobre-las-ayudas-y-una-ola-terrorista-los-100-d%C3%ADas-de-gobierno-de-de-la-espriella",
+      "source": "France 24",
+      "pubDate": "Sun, 15 Nov 2026 19:11:02 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
