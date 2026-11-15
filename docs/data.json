@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T13:41:57.620Z",
+  "updatedAt": "2026-11-15T19:40:52.495Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,6 +47,54 @@
   ],
   "articles": [
     {
+      "title": "Un terremoto, incógnitas sobre las ayudas y una ola terrorista: los 100 días de gobierno de De la Espriella",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-un-terremoto-inc%C3%B3gnitas-sobre-las-ayudas-y-una-ola-terrorista-los-100-d%C3%ADas-de-gobierno-de-de-la-espriella",
+      "source": "France 24",
+      "pubDate": "Sun, 15 Nov 2026 19:11:02 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El kirchnerismo volvió a rechazar la eliminación de las PASO y desafió al Gobierno: “Vamos a ganar en primera vuelta”",
+      "link": "https://www.infobae.com/politica/2026/11/15/el-kirchnerismo-volvio-a-rechazar-la-eliminacion-de-las-paso-y-desafio-al-gobierno-vamos-a-ganar-en-primera-vuelta/",
+      "source": "Infobae",
+      "pubDate": "Sun, 15 Nov 2026 18:48:19 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "La Flip alertó sobre cinco riesgos para la libertad de prensa en los primeros 100 días de gobierno de Abelardo de la Espriella",
+      "link": "https://www.infobae.com/colombia/2026/11/15/la-flip-alerto-sobre-cinco-riesgos-para-la-libertad-de-prensa-en-los-primeros-100-dias-de-gobierno-de-abelardo-de-la-espriella/",
+      "source": "Infobae",
+      "pubDate": "Sun, 15 Nov 2026 18:45:10 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella anuncia la salida de Jaime Vives de la dirección de Coljuegos por posible inconsistencia en los títulos",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-anuncia-la-salida-de-jaime-vives-de-la-direccion-de-coljuegos-por-posible-inconsistencia-en-los-titulos-3601268",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-15T12:28:47-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella encaró a alias ‘Primo Gay’ por asesinato de policías y del periodista Mateo Pérez: ‘Miserable asesino’",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-encaro-a-alias-primo-gay-por-asesinato-de-policias-y-del-periodista-mateo-perez-miserable-asesino-3601235",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-15T10:26:30-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella habló con Lucas Murillo, el menor que le pidió ayuda para una cirugía: 'El mayor aliciente que puedo tener'",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-hablo-con-lucas-murillo-el-menor-que-le-pidio-ayuda-para-una-cirugia-el-mayor-aliciente-que-puedo-tener-3601241",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-15T09:31:44-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "Rector de Uniatlántico rechaza actos de intolerancia tras suspensión de presentación de libro sobre Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/cultura/gente/rector-de-uniatlantico-rechaza-actos-de-intolerancia-tras-suspension-de-presentacion-de-libro-sobre-abelardo-de-la-espriella-3601224",
       "source": "El Tiempo",
@@ -67,14 +115,6 @@
       "link": "https://www.eltiempo.com/politica/partidos-politicos/ha-sido-un-periodo-de-construccion-de-confianza-hernan-cadavid-da-su-balance-de-los-100-dias-de-la-presidencia-de-abelardo-de-la-espriella-3601164",
       "source": "El Tiempo",
       "pubDate": "2026-11-15T04:01:00-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "¿Cuál es el balance de los primeros 100 días del Gobierno de De la Espriella en Colombia?",
-      "link": "https://www.france24.com/es/video/20261114-cu%C3%A1l-es-el-balance-de-los-primeros-100-d%C3%ADas-del-gobierno-de-de-la-espriella-en-colombia",
-      "source": "France 24",
-      "pubDate": "Sat, 14 Nov 2026 17:18:47 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
