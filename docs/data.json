@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T05:34:19.686Z",
+  "updatedAt": "2026-11-16T15:14:14.121Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 2,
+      "trendsScore": 0,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 28
       },
       "youtubeViews": 986388,
-      "finalScore": 34,
+      "finalScore": 33,
       "momentum": {
-        "value": 0,
+        "value": -2.9,
         "direction": "flat"
       },
-      "probability": 43
+      "probability": 42.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,7 +42,7 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 57
+      "probability": 57.7
     }
   ],
   "articles": [
@@ -50,7 +50,7 @@
       "title": "‘A los narcoterroristas les demostramos que se les acabaron los santuarios’: presidente Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/a-los-narcoterroristas-les-demostramos-que-se-les-acabaron-los-santuarios-presidente-abelardo-de-la-espriella-3601371",
       "source": "El Tiempo",
-      "pubDate": "2026-11-16T00:07:17-05:00",
+      "pubDate": "2026-11-16T06:18:37-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -83,30 +83,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/en-vivo-alocucion-del-presidente-de-colombia-abelardo-de-la-espriella-3601332",
       "source": "El Tiempo",
       "pubDate": "2026-11-15T20:08:39-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Mano dura y un terremoto: los primeros 100 días de De la Espriella en Colombia",
-      "link": "https://www.france24.com/es/video/20261115-mano-dura-y-un-terremoto-los-primeros-100-d%C3%ADas-de-de-la-espriella-en-colombia",
-      "source": "France 24",
-      "pubDate": "Sun, 15 Nov 2026 22:03:27 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Un terremoto, incógnitas sobre las ayudas y una ola terrorista: los 100 días de gobierno de De la Espriella",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-un-terremoto-inc%C3%B3gnitas-sobre-las-ayudas-y-una-ola-terrorista-los-100-d%C3%ADas-de-gobierno-de-de-la-espriella",
-      "source": "France 24",
-      "pubDate": "Sun, 15 Nov 2026 19:11:02 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anuncia la salida de Jaime Vives de la dirección de Coljuegos por posible inconsistencia en los títulos",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-anuncia-la-salida-de-jaime-vives-de-la-direccion-de-coljuegos-por-posible-inconsistencia-en-los-titulos-3601268",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-15T12:28:47-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
