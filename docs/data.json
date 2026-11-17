@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T15:14:14.121Z",
+  "updatedAt": "2026-11-17T00:05:25.471Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 0,
+      "trendsScore": 2,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 28
       },
       "youtubeViews": 986388,
-      "finalScore": 33,
+      "finalScore": 34,
       "momentum": {
-        "value": -2.9,
+        "value": 3,
         "direction": "flat"
       },
-      "probability": 42.3
+      "probability": 43
     },
     {
       "id": "abelardo_espriella",
@@ -42,15 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 57.7
+      "probability": 57
     }
   ],
   "articles": [
     {
+      "title": "Reducción del IVA en productos de la canasta familiar sería compensada con otros cobros por caída en el recaudo de impuestos",
+      "link": "https://www.infobae.com/colombia/2026/11/16/reduccion-del-iva-en-productos-de-la-canasta-familiar-seria-compensada-con-otros-cobros-por-caida-en-el-recaudo-de-impuestos/",
+      "source": "Infobae",
+      "pubDate": "Mon, 16 Nov 2026 23:04:28 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
       "title": "‘A los narcoterroristas les demostramos que se les acabaron los santuarios’: presidente Abelardo De La Espriella",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/a-los-narcoterroristas-les-demostramos-que-se-les-acabaron-los-santuarios-presidente-abelardo-de-la-espriella-3601371",
       "source": "El Tiempo",
-      "pubDate": "2026-11-16T06:18:37-05:00",
+      "pubDate": "2026-11-16T12:36:31-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,22 +75,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-envia-mensaje-a-damnificados-por-el-terremoto-y-presenta-balance-de-ayudas-para-la-reconstruccion-no-voy-a-descansar-3601354",
       "source": "El Tiempo",
       "pubDate": "2026-11-15T22:15:15-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella da su balance de los primeros 100 días: propone bajar el IVA y destaca acciones de la Fuerza Pública",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-da-su-balance-de-los-primeros-100-dias-propone-bajar-el-iva-y-destaca-acciones-de-la-fuerza-publica-3601339",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-15T21:16:02-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "En vivo: alocución del presidente de Colombia Abelardo De La Espriella",
-      "link": "https://www.eltiempo.com/politica/gobierno/en-vivo-alocucion-del-presidente-de-colombia-abelardo-de-la-espriella-3601332",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-15T20:08:39-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
