@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:42:17.615Z",
+  "updatedAt": "2026-11-18T03:26:48.579Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,18 +47,34 @@
   ],
   "articles": [
     {
-      "title": "Prosperidad Social denunció presuntas irregularidades en más de 20 nombramientos que se hicieron al final del Gobierno Petro",
-      "link": "https://www.infobae.com/colombia/2026/11/17/prosperidad-social-denuncio-presuntas-irregularidades-en-mas-de-20-nombramientos-que-se-hicieron-al-final-del-gobierno-petro/",
-      "source": "Infobae",
-      "pubDate": "Tue, 17 Nov 2026 20:24:05 +0000",
+      "title": "Presidente Abelardo De La Espriella anunció que no aumentará el IVA a los alimentos para animales de compañía: 'Merecen todo nuestro cuidado'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-que-no-aumentara-iva-de-los-alimentos-para-animales-de-compania-en-colombia-3601868",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-17T22:15:08-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gobierno de Abelardo De La Espriella contrata una auditoría para revisar contratación de declaratoria de desastre por variabilidad climática",
-      "link": "https://www.eltiempo.com/politica/gobierno/gobierno-de-abelardo-de-la-espriella-contrata-una-auditoria-para-revisar-contratacion-de-declaratoria-de-desastre-por-variabilidad-climatica-3601709",
+      "title": "Advierten sobre medidas que se mantendrían en la Ley de Rescate Económico que podrían afectar el bolsillo de los colombianos: “No bajen la guardia”",
+      "link": "https://www.infobae.com/colombia/2026/11/17/congresistas-advierten-sobre-medidas-que-se-mantendrian-en-la-ley-de-rescate-economico-que-podrian-afectar-el-bolsillo-de-los-colombianos-no-bajen-la-guardia/",
+      "source": "Infobae",
+      "pubDate": "Wed, 18 Nov 2026 02:41:56 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo de la Espriella confirmó el decomiso de 91 drones que podrían ser usados para ataques contra la fuerza pública, en Barranquilla  ",
+      "link": "https://www.infobae.com/colombia/2026/11/18/abelardo-de-la-espriella-confirmo-el-decomiso-de-91-drones-que-podrian-ser-usados-para-ataques-contra-la-fuerza-publica-en-barranquilla/",
+      "source": "Infobae",
+      "pubDate": "Wed, 18 Nov 2026 02:29:39 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella se pronunció tras un ataque racista contra patrullera en Cali: 'Nadie puede sentirse con derecho a humillar'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-presidente-abelardo-de-la-espriella-se-pronuncio-tras-un-ataque-racista-contra-patrullera-en-cali-nadie-puede-sentirse-con-derecho-a-humillar-3601668",
       "source": "El Tiempo",
-      "pubDate": "2026-11-17T12:48:11-05:00",
+      "pubDate": "2026-11-17T16:53:00-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
