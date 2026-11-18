@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-18T12:47:52.415Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-11-18T21:45:55.999Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 2,
+      "trendsScore": 0,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 28
       },
       "youtubeViews": 986388,
-      "finalScore": 34,
+      "finalScore": 33,
       "momentum": {
-        "value": 0,
+        "value": -2.9,
         "direction": "flat"
       },
-      "probability": 43
+      "probability": 42.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,47 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 57
+      "probability": 57.7
     }
   ],
   "articles": [
     {
-      "title": "Cruce de mensajes entre los miinistros de Defensa de Abelardo de la Espriella y Gustavo Petro por la compra de equipos antidrones: “Es falso” ",
-      "link": "https://www.infobae.com/colombia/2026/11/18/ministro-de-defensa-reprocho-la-decision-del-gobierno-petro-de-bloquear-la-compra-de-equipos-antidrones-hubo-turismo-burocratico/",
+      "title": "Abelardo de la Espriella confirmó adelantos en investigación sobre presuntos ‘sexocontratos’ de Gustavo Petro: se publicará un dosier del caso     ",
+      "link": "https://www.infobae.com/colombia/2026/11/18/abelardo-de-la-espriella-confirmo-adelantos-en-investigacion-sobre-presuntos-sexocontratos-de-gustavo-petro-se-publicara-un-dosier-del-caso/",
       "source": "Infobae",
-      "pubDate": "Wed, 18 Nov 2026 12:42:58 +0000",
+      "pubDate": "Wed, 18 Nov 2026 21:33:30 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Gustavo Petro confirmó protestas el jueves 19 de noviembre pese a que Abelardo de la Espriella afirmó que no habrá aumento en el IVA: “El pueblo debe salir” ",
-      "link": "https://www.infobae.com/colombia/2026/11/18/gustavo-petro-sigue-firme-con-la-marcha-del-19-de-noviembre-pese-a-que-de-la-espriella-confirmo-que-no-subira-el-iva-a-los-productos-de-la-canasta-familiar-el-pueblo-debe-salir/",
-      "source": "Infobae",
-      "pubDate": "Wed, 18 Nov 2026 12:32:12 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Reforma tributaria de Abelardo de la Espriella: Gobierno confirmó que no habrá aumento del IVA, pero nueva medida afectará a quienes ganen más de $7 millones al mes ",
-      "link": "https://www.infobae.com/colombia/2026/11/18/ley-de-rescate-economico-gobierno-evaluaria-cobrar-en-renta-el-iva-que-dejarian-de-pagar-quienes-ganen-mas-de-7-millones-al-mes/",
-      "source": "Infobae",
-      "pubDate": "Wed, 18 Nov 2026 12:26:59 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Abelardo de la Espriella recibirá a Keiko Fujimori, presidenta del Perú, en Barranquilla: así se llevará a cabo un gabinete binacional",
-      "link": "https://www.infobae.com/colombia/2026/11/18/abelardo-de-la-espriella-recibira-a-keiko-fujimori-presidenta-del-peru-en-barranquilla-asi-se-llevara-a-cabo-un-gabinete-binacional/",
-      "source": "Infobae",
-      "pubDate": "Wed, 18 Nov 2026 12:25:21 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella anunció que no aumentará el IVA a los alimentos para animales de compañía: 'Merecen todo nuestro cuidado'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-que-no-aumentara-iva-de-los-alimentos-para-animales-de-compania-en-colombia-3601868",
+      "title": "Presidente Abelardo De La Espriella hizo llamado para apoyar a los comerciantes de San Victorino tras el incendio en el Gran San: '¡No están solos!'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-hizo-llamado-para-apoyar-a-los-comerciantes-de-san-victorino-tras-el-incendio-en-el-gran-san-no-estan-solos-3602088",
       "source": "El Tiempo",
-      "pubDate": "2026-11-18T06:29:38-05:00",
+      "pubDate": "2026-11-18T15:37:12-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
