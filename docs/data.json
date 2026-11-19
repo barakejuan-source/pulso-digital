@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-18T21:45:55.999Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-11-19T03:01:18.095Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -18,7 +18,7 @@
       "youtubeViews": 986388,
       "finalScore": 33,
       "momentum": {
-        "value": -2.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 42.3
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella confirmó adelantos en investigación sobre presuntos ‘sexocontratos’ de Gustavo Petro: se publicará un dosier del caso     ",
-      "link": "https://www.infobae.com/colombia/2026/11/18/abelardo-de-la-espriella-confirmo-adelantos-en-investigacion-sobre-presuntos-sexocontratos-de-gustavo-petro-se-publicara-un-dosier-del-caso/",
+      "title": "Abelardo De la Espriella desmiente versión de The New York Times sobre cooperación con Estados Unidos: 'No he rechazado ninguna propuesta de Trump'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-desmiente-version-de-the-new-york-times-sobre-cooperacion-con-estados-unidos-no-he-rechazado-ninguna-propuesta-de-trump-3602221",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-18T21:28:43-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "José Antonio Meade reconoce a la 4T por el manejo de la deuda y la relevancia de los programas sociales ",
+      "link": "https://www.infobae.com/mexico/2026/11/19/jose-antonio-meade-reconoce-a-la-4t-por-el-manejo-de-la-deuda-y-la-relevancia-de-los-programas-sociales/",
       "source": "Infobae",
-      "pubDate": "Wed, 18 Nov 2026 21:33:30 +0000",
+      "pubDate": "Thu, 19 Nov 2026 01:59:06 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella sobre protestas del 19 de noviembre: 'Ahora quieren marchar por los problemas que ellos mismos generaron'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-sobre-protestas-del-19-de-noviembre-ahora-quieren-marchar-por-los-problemas-que-ellos-mismos-generaron-3602192",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-18T19:48:59-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,7 +74,7 @@
       "title": "Presidente Abelardo De La Espriella hizo llamado para apoyar a los comerciantes de San Victorino tras el incendio en el Gran San: '¡No están solos!'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-hizo-llamado-para-apoyar-a-los-comerciantes-de-san-victorino-tras-el-incendio-en-el-gran-san-no-estan-solos-3602088",
       "source": "El Tiempo",
-      "pubDate": "2026-11-18T15:37:12-05:00",
+      "pubDate": "2026-11-18T17:38:45-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
