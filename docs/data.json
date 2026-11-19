@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-19T03:01:18.095Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-11-19T12:39:24.071Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 0,
+      "trendsScore": 2,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 28
       },
       "youtubeViews": 986388,
-      "finalScore": 33,
+      "finalScore": 34,
       "momentum": {
-        "value": 0,
+        "value": 3,
         "direction": "flat"
       },
-      "probability": 42.3
+      "probability": 43
     },
     {
       "id": "abelardo_espriella",
@@ -42,39 +42,71 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 57.7
+      "probability": 57
     }
   ],
   "articles": [
     {
-      "title": "Abelardo De la Espriella desmiente versión de The New York Times sobre cooperación con Estados Unidos: 'No he rechazado ninguna propuesta de Trump'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-desmiente-version-de-the-new-york-times-sobre-cooperacion-con-estados-unidos-no-he-rechazado-ninguna-propuesta-de-trump-3602221",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-18T21:28:43-05:00",
+      "title": "Juez que compulsó copias contra el presidente Abelardo de la Espriella por cara a cara a ‘Primo Gay’ será investigado por la Comisión de Disciplina Judicial: “Extralimitación” ",
+      "link": "https://www.infobae.com/colombia/2026/11/19/abren-investigacion-contra-el-juez-que-compulso-copias-contra-el-presidente-abelardo-de-la-espriella-tras-enfrentar-cara-a-cara-a-primo-gay-extralimitacion/",
+      "source": "Infobae",
+      "pubDate": "Thu, 19 Nov 2026 12:26:25 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "José Antonio Meade reconoce a la 4T por el manejo de la deuda y la relevancia de los programas sociales ",
-      "link": "https://www.infobae.com/mexico/2026/11/19/jose-antonio-meade-reconoce-a-la-4t-por-el-manejo-de-la-deuda-y-la-relevancia-de-los-programas-sociales/",
+      "title": "Presidente Abelardo De La Espriella anunció bombardeo de la Fuerza Aérea en el Valle del Cauca contra un 'objetivo narcoterrorista'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-anuncio-bombardeo-de-la-fuerza-aerea-en-el-valle-del-cauca-contra-un-objetivo-narcoterrorista-3602263",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-19T07:19:58-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Quién es Mario Alario Méndez, el exmagistrado del Consejo de Estado que representará a Abelardo de la Espriella ante el Vaticano  ",
+      "link": "https://www.infobae.com/colombia/2026/11/19/quien-es-mario-alario-mendez-el-exmagistrado-del-consejo-de-estado-que-representaria-al-gobierno-de-la-espriella-ante-el-vaticano/",
       "source": "Infobae",
-      "pubDate": "Thu, 19 Nov 2026 01:59:06 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Thu, 19 Nov 2026 12:17:46 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Paro nacional del 19 de noviembre, el procurador Gregorio Eljach rechazó uso de la imagen de la institución para la convocatoria: “Es un acto ilegal” ",
+      "link": "https://www.infobae.com/colombia/2026/11/19/el-procurador-gregorio-eljach-rechazo-que-usen-la-imagen-de-la-institucion-para-convocar-a-las-movilizaciones-del-19-de-noviembre-es-un-acto-ilegal/",
+      "source": "Infobae",
+      "pubDate": "Thu, 19 Nov 2026 12:15:02 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Milagro Week: presidente Abelardo De La Espriella destacó el trabajo del vicepresidente José Manuel Restrepo en medio de la jornada como 'histórico'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/milagro-week-vicepresidente-jose-manuel-restrepo-reporto-us-43-200-millones-en-proyectos-y-anuncios-de-inversion-acordo-nuevas-reuniones-en-colombia-3602252",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-19T06:38:18-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Abelardo De La Espriella destacó alianza con Estados Unidos y envió mensaje de respaldo al secretario de Guerra Pete Hegseth: 'Un verdadero patriota'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-destaco-alianza-con-estados-unidos-y-envio-mensaje-de-respaldo-al-secretario-de-guerra-pete-hegseth-un-verdadero-patriota-3602248",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-19T00:57:06-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella negó vulneraciones a derechos de detenidos en operativos militares y mencionó a alias Primo Gay",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/abelardo-de-la-espriella-nego-vulneraciones-a-derechos-de-detenidos-en-operativos-militares-y-menciono-a-alias-primo-gay-los-operativos-continuaran-3602231",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-18T22:28:53-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Presidente Abelardo De La Espriella sobre protestas del 19 de noviembre: 'Ahora quieren marchar por los problemas que ellos mismos generaron'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-sobre-protestas-del-19-de-noviembre-ahora-quieren-marchar-por-los-problemas-que-ellos-mismos-generaron-3602192",
       "source": "El Tiempo",
-      "pubDate": "2026-11-18T19:48:59-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella hizo llamado para apoyar a los comerciantes de San Victorino tras el incendio en el Gran San: '¡No están solos!'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-hizo-llamado-para-apoyar-a-los-comerciantes-de-san-victorino-tras-el-incendio-en-el-gran-san-no-estan-solos-3602088",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-18T17:38:45-05:00",
+      "pubDate": "2026-11-18T21:50:37-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
