@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T03:04:02.509Z",
+  "updatedAt": "2026-11-20T12:39:11.045Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 986388,
       "finalScore": 33,
       "momentum": {
-        "value": -2.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 42.3
@@ -47,34 +47,66 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella confirmó la captura de alias Blue en Cali, investigada por actos violentos durante manifestaciones públicas",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirmo-la-captura-de-alias-blue-en-cali-investigada-por-actos-violentos-durante-manifestaciones-publicas-3602588",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-19T21:39:02-05:00",
+      "title": "Abelardo de la Espriella calificó como un intento de “golpe de Estado” declaraciones de Gustavo Petro: “Corrupto”, “degenerado” y “vicioso” ",
+      "link": "https://www.infobae.com/colombia/2026/11/20/abelardo-de-la-espriella-califico-como-un-intento-de-golpe-de-estado-declaraciones-de-gustavo-petro-corrupto-degenerado-y-vicioso/",
+      "source": "Infobae",
+      "pubDate": "Fri, 20 Nov 2026 12:29:34 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Iván Cepeda habló sobre denuncias contra la congresista Luz Verónica Estrada: “Deben asumir las consecuencias” ",
-      "link": "https://www.infobae.com/colombia/2026/11/20/ivan-cepeda-hablo-sobre-denuncias-contra-la-congresista-luz-veronica-estrada-deben-asumir-las-consecuencias/",
-      "source": "Infobae",
-      "pubDate": "Fri, 20 Nov 2026 02:32:45 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
+      "title": "La respuesta del presidente Abelardo De La Espriella frente a insinuaciones de golpe de Estado durante marchas: reacciones y últimas noticias",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/la-respuesta-del-presidente-abelardo-de-la-espriella-frente-a-insinuaciones-de-golpe-de-estado-durante-marchas-reacciones-y-ultimas-noticias-3602619",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-20T07:09:44-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "El espectáculo de la seguridad",
+      "link": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/el-espectaculo-de-la-seguridad/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Dura respuesta del presidente Abelardo De La Espriella tras discurso de Gustavo Petro en Cali: 'Jamás voy a aceptar que promuevan un golpe de Estado'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/dura-respuesta-del-presidente-abelardo-de-la-espriella-tras-discurso-de-gustavo-petro-en-cali-jamas-voy-a-aceptar-que-promuevan-un-golpe-de-estado-3602607",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-20T06:26:34-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Las duras frases del presidente Abelardo De La Espriella a Gustavo Petro tras insinuaciones de golpe de Estado en medio de marchas del 19 de noviembre",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/las-duras-frases-del-presidente-abelardo-de-la-espriella-a-gustavo-petro-tras-insinuaciones-de-golpe-de-estado-en-medio-de-marchas-del-19-de-noviembre-3602618",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-20T05:48:28-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella se pronunció sobre movilizaciones del 19 de noviembre y entregó balance: reportó 285 actividades y cuatro capturas",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-se-pronuncio-sobre-movilizaciones-del-19-de-noviembre-y-entrego-balance-reporto-285-actividades-y-cuatro-capturas-3602596",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-19T23:08:40-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella confirmó la captura de alias Blue en Cali, investigada por actos violentos durante manifestaciones públicas",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirmo-la-captura-de-alias-blue-en-cali-investigada-por-actos-violentos-durante-manifestaciones-publicas-3602588",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-19T23:01:51-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
     },
     {
       "title": "Colombia: oposición moviliza manifestaciones contra De la Espriella en diferentes ciudades",
       "link": "https://www.france24.com/es/video/20261120-colombia-oposici%C3%B3n-moviliza-manifestaciones-contra-de-la-espriella-en-diferentes-ciudades",
       "source": "France 24",
       "pubDate": "Fri, 20 Nov 2026 01:06:53 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Me declaro ateo del D.I.O.S. de Abelardo de la Espriella",
-      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/me-declaro-ateo-del-d-i-o-s-de-abelardo-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Thu, 19 Nov 2026 22:04:46 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
