@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T22:02:36.791Z",
+  "updatedAt": "2026-11-20T03:04:02.509Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 2,
+      "trendsScore": 0,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 28
       },
       "youtubeViews": 986388,
-      "finalScore": 34,
+      "finalScore": 33,
       "momentum": {
-        "value": 0,
+        "value": -2.9,
         "direction": "flat"
       },
-      "probability": 43
+      "probability": 42.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,31 +42,39 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 57
+      "probability": 57.7
     }
   ],
   "articles": [
     {
-      "title": "Paro Nacional EN VIVO, hoy 19 de noviembre: Gustavo Petro se movilizó en Cali contra el Gobierno de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/11/19/paro-nacional-en-vivo-hoy-19-de-noviembre-asi-amanecen-las-vias-de-las-principales-ciudades/",
-      "source": "Infobae",
-      "pubDate": "Thu, 19 Nov 2026 21:50:33 +0000",
+      "title": "Presidente Abelardo De La Espriella confirmó la captura de alias Blue en Cali, investigada por actos violentos durante manifestaciones públicas",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-confirmo-la-captura-de-alias-blue-en-cali-investigada-por-actos-violentos-durante-manifestaciones-publicas-3602588",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-19T21:39:02-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Abelardo de la Espriella entregó casa nueva al bombero caleño que rescató víctimas pese a perder su hogar por el terremoto del 10 de agosto",
-      "link": "https://www.infobae.com/colombia/2026/11/19/abelardo-de-la-espriella-entrego-casa-nueva-al-bombero-caleno-que-rescato-victimas-pese-a-perder-su-hogar-por-el-terremoto-del-10-de-agosto/",
+      "title": "Iván Cepeda habló sobre denuncias contra la congresista Luz Verónica Estrada: “Deben asumir las consecuencias” ",
+      "link": "https://www.infobae.com/colombia/2026/11/20/ivan-cepeda-hablo-sobre-denuncias-contra-la-congresista-luz-veronica-estrada-deben-asumir-las-consecuencias/",
       "source": "Infobae",
-      "pubDate": "Thu, 19 Nov 2026 21:43:51 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Fri, 20 Nov 2026 02:32:45 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
-      "title": "Directo Latam y el supuesto rechazo de De la Espriella a la cooperación militar con Estados Unidos",
-      "link": "https://www.france24.com/es/video/20261119-directo-latam-y-el-supuesto-rechazo-de-de-la-espriella-a-la-cooperaci%C3%B3n-militar-con-estados-unidos",
+      "title": "Colombia: oposición moviliza manifestaciones contra De la Espriella en diferentes ciudades",
+      "link": "https://www.france24.com/es/video/20261120-colombia-oposici%C3%B3n-moviliza-manifestaciones-contra-de-la-espriella-en-diferentes-ciudades",
       "source": "France 24",
-      "pubDate": "Thu, 19 Nov 2026 18:01:49 GMT",
+      "pubDate": "Fri, 20 Nov 2026 01:06:53 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Me declaro ateo del D.I.O.S. de Abelardo de la Espriella",
+      "link": "https://www.lasillavacia.com/red-de-expertos/red-social/me-declaro-ateo-del-d-i-o-s-de-abelardo-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Thu, 19 Nov 2026 22:04:46 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
