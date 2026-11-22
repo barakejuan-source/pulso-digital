@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T17:42:22.838Z",
+  "updatedAt": "2026-11-22T23:26:09.635Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 2,
+      "trendsScore": 0,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 28
       },
       "youtubeViews": 986388,
-      "finalScore": 34,
+      "finalScore": 33,
       "momentum": {
-        "value": 0,
+        "value": -2.9,
         "direction": "flat"
       },
-      "probability": 43
+      "probability": 42.3
     },
     {
       "id": "abelardo_espriella",
@@ -42,10 +42,34 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 57
+      "probability": 57.7
     }
   ],
   "articles": [
+    {
+      "title": "Ley de rescate económico de Abelardo de la Espriella se desinfla: Congreso podría recortar $35 billones al recaudo",
+      "link": "https://www.infobae.com/colombia/2026/11/22/ley-de-rescate-economico-de-abelardo-de-la-espriella-se-desinfla-congreso-podria-recortar-35-billones-al-recaudo/",
+      "source": "Infobae",
+      "pubDate": "Sun, 22 Nov 2026 22:52:12 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Autoridades del Valle del Cauca respaldaron el bombardeo contra el ELN en Dagua que dejó cinco muertos",
+      "link": "https://www.infobae.com/colombia/2026/11/22/autoridades-del-valle-del-cauca-respaldaron-el-bombardeo-contra-el-eln-en-dagua-que-dejo-cinco-muertos/",
+      "source": "Infobae",
+      "pubDate": "Sun, 22 Nov 2026 22:18:44 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Omar García Harfuch y los rumores sobre su renuncia: qué dijo y por qué se habla de su salida",
+      "link": "https://www.infobae.com/mexico/2026/11/22/omar-garcia-harfuch-y-los-rumores-sobre-su-renuncia-que-dijo-y-por-que-se-habla-de-su-salida/",
+      "source": "Infobae",
+      "pubDate": "Sun, 22 Nov 2026 22:09:42 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
     {
       "title": "Presidente Abelardo De La Espriella anuncia procesos contra operadores móviles y Starlink por señales en cárceles",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-anuncia-procesos-contra-operadores-moviles-y-starlink-por-senales-en-carceles-3603149",
