@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T20:26:20.457Z",
+  "updatedAt": "2026-11-22T01:59:27.765Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,12 +47,28 @@
   ],
   "articles": [
     {
-      "title": "Lilly Téllez celebra detención de ‘El Chapo Isidro’ mientras Álvarez Máynez cuestiona violencia y pide recuperar acuerdo de paz de la Iglesia",
-      "link": "https://www.infobae.com/mexico/2026/11/21/lilly-tellez-celebra-detencion-de-el-chapo-isidro-mientras-alvarez-maynez-cuestiona-violencia-y-pide-recuperar-acuerdo-de-paz-de-la-iglesia/",
+      "title": "Abelardo de la Espriella dijo presente en el estadio Metropolitano de Barranquilla: así apareció en la final de la Copa Sudamericana",
+      "link": "https://www.infobae.com/colombia/2026/11/22/abelardo-de-la-espriella-dijo-presente-en-el-estadio-metropolitano-de-barranquilla-asi-aparecio-en-la-final-de-la-copa-sudamericana/",
       "source": "Infobae",
-      "pubDate": "Sat, 21 Nov 2026 20:15:04 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
+      "pubDate": "Sun, 22 Nov 2026 00:53:49 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Estas son las instrucciones que impartió Abelardo de la Espriella a delegados ante las cámaras de comercio: informes mensuales a Presidencia  ",
+      "link": "https://www.infobae.com/colombia/2026/11/22/estas-son-las-instrucciones-que-impartio-abelardo-de-la-espriella-a-delegados-ante-las-camaras-de-comercio-informes-mensuales-a-presidencia/",
+      "source": "Infobae",
+      "pubDate": "Sun, 22 Nov 2026 00:32:59 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Líderes del Pacto Histórico critican duramente a Luz Verónica Estrada por diplomado falso: 'Exigimos verificar las hojas de vida de la bancada'",
+      "link": "https://www.eltiempo.com/politica/lideres-del-pacto-historico-critican-duramente-a-luz-veronica-estrada-por-diplomado-falso-exigimos-verificar-las-hojas-de-vida-de-la-bancada-3603056",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-21T16:44:47-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     }
   ]
 }
