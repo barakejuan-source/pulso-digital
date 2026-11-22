@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T09:41:04.482Z",
+  "updatedAt": "2026-11-22T17:42:22.838Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella reporta cuatro operaciones contra grupos criminales: 800 kilos de cocaína incautados",
-      "link": "https://www.infobae.com/colombia/2026/11/22/abelardo-de-la-espriella-reporta-cuatro-operaciones-contra-grupos-criminales-800-kilos-de-cocaina-incautados/",
-      "source": "Infobae",
-      "pubDate": "Sun, 22 Nov 2026 07:22:13 +0000",
+      "title": "Presidente Abelardo De La Espriella anuncia procesos contra operadores móviles y Starlink por señales en cárceles",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-anuncia-procesos-contra-operadores-moviles-y-starlink-por-senales-en-carceles-3603149",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-22T10:47:49-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella entregó balance de operativo contra el Eln en Valle del Cauca: cinco integrantes fueron dados de baja",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-entrego-balance-de-operativo-contra-el-eln-en-valle-del-cauca-cinco-integrantes-fueron-dados-de-baja-3603130",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-22T09:25:20-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella reaccionó al atentado en Cesar: 'Cada acción criminal tendrá una respuesta contundente'",
+      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-reacciono-al-atentado-en-cesar-cada-accion-criminal-tendra-una-respuesta-contundente-3603129",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-22T08:13:15-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -61,14 +77,6 @@
       "pubDate": "Sun, 22 Nov 2026 02:35:38 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Líderes del Pacto Histórico critican duramente a Luz Verónica Estrada por diplomado falso: 'Exigimos verificar las hojas de vida de la bancada'",
-      "link": "https://www.eltiempo.com/politica/lideres-del-pacto-historico-critican-duramente-a-luz-veronica-estrada-por-diplomado-falso-exigimos-verificar-las-hojas-de-vida-de-la-bancada-3603056",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-21T16:44:47-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     }
   ]
 }
