@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T06:35:38.235Z",
+  "updatedAt": "2026-11-23T19:59:04.866Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 0,
+      "trendsScore": 2,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 28
       },
       "youtubeViews": 986388,
-      "finalScore": 33,
+      "finalScore": 34,
       "momentum": {
-        "value": 0,
+        "value": 3,
         "direction": "flat"
       },
-      "probability": 42.3
+      "probability": 43
     },
     {
       "id": "abelardo_espriella",
@@ -42,31 +42,23 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 57.7
+      "probability": 57
     }
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella anuncia procesos contra operadores móviles y Starlink por señales en cárceles",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-anuncia-procesos-contra-operadores-moviles-y-starlink-por-senales-en-carceles-3603149",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-22T10:47:49-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "title": "Unos 12,4 millones de peruanos están convocados a segunda vuelta de elecciones regionales",
+      "link": "https://www.infobae.com/america/agencias/2026/11/23/unos-124-millones-de-peruanos-estan-convocados-a-segunda-vuelta-de-elecciones-regionales/",
+      "source": "Infobae",
+      "pubDate": "Mon, 23 Nov 2026 19:47:22 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
     },
     {
-      "title": "Presidente Abelardo De La Espriella entregó balance de operativo contra el Eln en Valle del Cauca: cinco integrantes fueron dados de baja",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-entrego-balance-de-operativo-contra-el-eln-en-valle-del-cauca-cinco-integrantes-fueron-dados-de-baja-3603130",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-22T09:25:20-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella reaccionó al atentado en Cesar: 'Cada acción criminal tendrá una respuesta contundente'",
-      "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-reacciono-al-atentado-en-cesar-cada-accion-criminal-tendra-una-respuesta-contundente-3603129",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-22T08:13:15-05:00",
+      "title": "Miguel Uribe Londoño fue nombrado por Abelardo de la Espriella como embajador de Colombia en Reino Unido: “Gracias, señor presidente”",
+      "link": "https://www.infobae.com/colombia/2026/11/23/miguel-uribe-londono-fue-nombrado-por-abelardo-de-la-espriella-como-embajador-de-colombia-en-reino-unido-gracias-senor-presidente/",
+      "source": "Infobae",
+      "pubDate": "Mon, 23 Nov 2026 19:37:05 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
