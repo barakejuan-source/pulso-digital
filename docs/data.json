@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T23:26:09.635Z",
+  "updatedAt": "2026-11-23T06:35:38.235Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -18,7 +18,7 @@
       "youtubeViews": 986388,
       "finalScore": 33,
       "momentum": {
-        "value": -2.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 42.3
@@ -47,30 +47,6 @@
   ],
   "articles": [
     {
-      "title": "Ley de rescate económico de Abelardo de la Espriella se desinfla: Congreso podría recortar $35 billones al recaudo",
-      "link": "https://www.infobae.com/colombia/2026/11/22/ley-de-rescate-economico-de-abelardo-de-la-espriella-se-desinfla-congreso-podria-recortar-35-billones-al-recaudo/",
-      "source": "Infobae",
-      "pubDate": "Sun, 22 Nov 2026 22:52:12 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Autoridades del Valle del Cauca respaldaron el bombardeo contra el ELN en Dagua que dejó cinco muertos",
-      "link": "https://www.infobae.com/colombia/2026/11/22/autoridades-del-valle-del-cauca-respaldaron-el-bombardeo-contra-el-eln-en-dagua-que-dejo-cinco-muertos/",
-      "source": "Infobae",
-      "pubDate": "Sun, 22 Nov 2026 22:18:44 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Omar García Harfuch y los rumores sobre su renuncia: qué dijo y por qué se habla de su salida",
-      "link": "https://www.infobae.com/mexico/2026/11/22/omar-garcia-harfuch-y-los-rumores-sobre-su-renuncia-que-dijo-y-por-que-se-habla-de-su-salida/",
-      "source": "Infobae",
-      "pubDate": "Sun, 22 Nov 2026 22:09:42 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
       "title": "Presidente Abelardo De La Espriella anuncia procesos contra operadores móviles y Starlink por señales en cárceles",
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-anuncia-procesos-contra-operadores-moviles-y-starlink-por-senales-en-carceles-3603149",
       "source": "El Tiempo",
@@ -91,14 +67,6 @@
       "link": "https://www.eltiempo.com/politica/gobierno/presidente-abelardo-de-la-espriella-reacciono-al-atentado-en-cesar-cada-accion-criminal-tendra-una-respuesta-contundente-3603129",
       "source": "El Tiempo",
       "pubDate": "2026-11-22T08:13:15-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Diez años del acuerdo de paz en Colombia: la guerra que terminó y las promesas que quedaron a medias",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261122-diez-a%C3%B1os-del-acuerdo-de-paz-en-colombia-la-guerra-que-termin%C3%B3-y-las-promesas-que-quedaron-a-medias",
-      "source": "France 24",
-      "pubDate": "Sun, 22 Nov 2026 02:35:38 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
