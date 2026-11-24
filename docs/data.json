@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T04:43:11.208Z",
+  "updatedAt": "2026-11-24T17:14:11.947Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 6,
+      "trendsScore": 4,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 28
       },
       "youtubeViews": 986388,
-      "finalScore": 35,
+      "finalScore": 34,
       "momentum": {
-        "value": 2.9,
+        "value": -2.9,
         "direction": "flat"
       },
-      "probability": 43.8
+      "probability": 43
     },
     {
       "id": "abelardo_espriella",
@@ -42,8 +42,49 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 56.3
+      "probability": 57
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Tras el atentando en Villavicencio, se revelaron imágenes de cilindros bomba con lo que sería un mensaje de las disidencias a Abelardo de la Espriella: “500 kilogramos de revolución”",
+      "link": "https://www.infobae.com/colombia/2026/11/24/tras-el-atentando-en-villavicencio-se-revelaron-imagenes-de-cilindros-bomba-con-lo-que-seria-un-mensaje-de-las-disidencias-a-abelardo-de-la-espriella-500-kilogramos-de-revolucion/",
+      "source": "Infobae",
+      "pubDate": "Tue, 24 Nov 2026 17:10:58 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Iván Cepeda se expresó con un escueto comunicado sobre el atentado con carro bomba a la Gobernación del Meta: “Mi solidaridad con la ciudadanía de Villavicencio”",
+      "link": "https://www.infobae.com/colombia/2026/11/24/ivan-cepeda-se-expreso-con-un-escueto-comunicado-sobre-el-atentado-con-carro-bomba-a-la-gobernacion-del-meta-mi-solidaridad-con-la-ciudadania-de-villavicencio/",
+      "source": "Infobae",
+      "pubDate": "Tue, 24 Nov 2026 17:05:10 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Sacerdote criticó que Abelardo de la Espriella utilice la expresión ‘Viva Cristo Rey’: “Acaso será el rey de las bombas y de la guerra”",
+      "link": "https://www.infobae.com/colombia/2026/11/24/sacerdote-critico-que-abelardo-de-la-espriella-utilice-la-expresion-viva-cristo-rey-acaso-sera-el-rey-de-las-bombas-y-de-la-guerra/",
+      "source": "Infobae",
+      "pubDate": "Tue, 24 Nov 2026 16:51:07 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Acuerdo con las FARC: 10 años de una paz bajo amenaza en Colombia",
+      "link": "https://www.france24.com/es/programas/historia/20261124-acuerdo-con-las-farc-10-a%C3%B1os-de-una-paz-bajo-amenaza-en-colombia",
+      "source": "France 24",
+      "pubDate": "Tue, 24 Nov 2026 15:22:52 GMT",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Encuesta de DatAnálisis: la imagen favorable del presidente Abelardo De La Espriella es del 52 por ciento y la desfavorable, del 39,6 por ciento",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/encuesta-de-datanalisis-la-imagen-favorable-del-presidente-abelardo-de-la-espriella-es-del-52-por-ciento-y-la-desfavorable-del-39-6-por-ciento-3603642",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-24T06:06:13-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    }
+  ]
 }
