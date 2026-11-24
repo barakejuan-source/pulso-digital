@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T19:59:04.866Z",
+  "updatedAt": "2026-11-24T04:43:11.208Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 2,
+      "trendsScore": 6,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 28
       },
       "youtubeViews": 986388,
-      "finalScore": 34,
+      "finalScore": 35,
       "momentum": {
-        "value": 3,
+        "value": 2.9,
         "direction": "flat"
       },
-      "probability": 43
+      "probability": 43.8
     },
     {
       "id": "abelardo_espriella",
@@ -42,25 +42,8 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 57
+      "probability": 56.3
     }
   ],
-  "articles": [
-    {
-      "title": "Unos 12,4 millones de peruanos están convocados a segunda vuelta de elecciones regionales",
-      "link": "https://www.infobae.com/america/agencias/2026/11/23/unos-124-millones-de-peruanos-estan-convocados-a-segunda-vuelta-de-elecciones-regionales/",
-      "source": "Infobae",
-      "pubDate": "Mon, 23 Nov 2026 19:47:22 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Miguel Uribe Londoño fue nombrado por Abelardo de la Espriella como embajador de Colombia en Reino Unido: “Gracias, señor presidente”",
-      "link": "https://www.infobae.com/colombia/2026/11/23/miguel-uribe-londono-fue-nombrado-por-abelardo-de-la-espriella-como-embajador-de-colombia-en-reino-unido-gracias-senor-presidente/",
-      "source": "Infobae",
-      "pubDate": "Mon, 23 Nov 2026 19:37:05 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    }
-  ]
+  "articles": []
 }
