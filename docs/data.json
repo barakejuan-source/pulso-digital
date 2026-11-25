@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T02:02:44.033Z",
+  "updatedAt": "2026-11-25T14:01:25.642Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 5,
+      "trendsScore": 4,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -16,12 +16,12 @@
         "neutral": 28
       },
       "youtubeViews": 986388,
-      "finalScore": 35,
+      "finalScore": 34,
       "momentum": {
-        "value": 2.9,
+        "value": -2.9,
         "direction": "flat"
       },
-      "probability": 43.8
+      "probability": 43
     },
     {
       "id": "abelardo_espriella",
@@ -42,23 +42,39 @@
         "value": 0,
         "direction": "flat"
       },
-      "probability": 56.3
+      "probability": 57
     }
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella llegó al Éxito Contadora donde se encuentra retenidas 20 personas tras liderar el PMU en Cartagena",
-      "link": "https://www.infobae.com/colombia/2026/11/25/abelardo-de-la-espriella-llego-al-pmu-instalado-en-cartagena-por-la-toma-de-rehenes-en-el-exito-contadora/",
+      "title": "Gobierno de Abelardo de la Espriella reveló video con las primeras imágenes de la operación para liberar los rehenes en el supermercado Éxito en Cartagena",
+      "link": "https://www.infobae.com/colombia/2026/11/25/gobierno-de-abelardo-de-la-espriella-revelo-video-con-las-primeras-imagenes-de-la-operacion-para-liberar-los-rehenes-en-el-supermercado-exito-en-cartagena/",
       "source": "Infobae",
-      "pubDate": "Wed, 25 Nov 2026 01:59:01 +0000",
+      "pubDate": "Wed, 25 Nov 2026 13:53:10 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Condena nacional al terrorismo tras bomba en Villavicencio: hacen llamado para que el terrorismo no doblegue a las instituciones",
+      "title": "Liberan a todos los rehenes en el Éxito de Cartagena; uno de los presuntos delincuentes murió durante el operativo",
+      "link": "https://www.infobae.com/colombia/2026/11/24/hombres-armados-y-encapuchados-asaltaron-un-supermercado-exito-en-cartagena-la-policia-tiene-rodeado-el-almacen/",
+      "source": "Infobae",
+      "pubDate": "Wed, 25 Nov 2026 13:48:35 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Condena nacional al terrorismo tras bomba en Villavicencio: diversos sectores hacen un llamado para que criminales no dobleguen a las instituciones",
       "link": "https://www.eltiempo.com/politica/partidos-politicos/rechazo-nacional-al-terrorismo-tras-bomba-en-villavicencio-hacen-llamado-para-que-el-terrorismo-no-doblegue-a-las-instituciones-3603965",
       "source": "El Tiempo",
-      "pubDate": "2026-11-24T20:12:04-05:00",
+      "pubDate": "2026-11-25T06:29:03-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "SuperSociedades ordena inspección a La Silla Vacía tras señalamiento de Carlos Suárez",
+      "link": "https://www.lasillavacia.com/silla-nacional/supersociedades-ordena-inspeccion-a-la-silla-vacia-tras-senalamiento-de-carlos-suarez/",
+      "source": "La Silla Vacía",
+      "pubDate": "Wed, 25 Nov 2026 05:05:26 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -67,22 +83,6 @@
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/que-significa-ser-woke-y-por-que-el-consejo-de-estado-le-ordeno-al-presidente-abelardo-de-la-espriella-rectificar-sus-declaraciones-sobre-el-tema-3603819",
       "source": "El Tiempo",
       "pubDate": "2026-11-24T16:05:04-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Colombia: esto se sabe de la toma de rehenes en un supermercado de la turística ciudad de Cartagena",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261124-colombia-esto-se-sabe-de-la-toma-de-rehenes-en-un-supermercado-de-la-tur%C3%ADstica-ciudad-de-cartagena",
-      "source": "France 24",
-      "pubDate": "Tue, 24 Nov 2026 19:05:02 GMT",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Acuerdo con las FARC: 10 años de una paz bajo amenaza en Colombia",
-      "link": "https://www.france24.com/es/programas/historia/20261124-acuerdo-con-las-farc-10-a%C3%B1os-de-una-paz-bajo-amenaza-en-colombia",
-      "source": "France 24",
-      "pubDate": "Tue, 24 Nov 2026 15:22:52 GMT",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
