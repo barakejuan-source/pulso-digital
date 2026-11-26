@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T07:32:10.383Z",
-  "trendsFresh": true,
+  "updatedAt": "2026-11-26T18:15:33.744Z",
+  "trendsFresh": false,
   "candidates": [
     {
       "id": "ivan_cepeda",
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Presidente Abelardo De La Espriella recibe a Sofía Vergara en Barranquilla y anuncia 'sorpresas' en los próximos meses: viajaron juntos en helicóptero",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-recibe-a-sofia-vergara-en-barranquilla-y-anuncia-sorpresas-en-los-proximos-meses-viajaron-juntos-en-helicoptero-3604403",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-26T01:00:45-05:00",
+      "title": "José Obdulio Gaviria, uno de los principales ideólogos del uribismo, criticó a Abelardo de la Espriella por darle “nivel presidencial” al secuestro en el Éxito de Cartagena: “Expuesto a la burla injusta”",
+      "link": "https://www.infobae.com/colombia/2026/11/26/jose-obdulio-gaviria-uno-de-los-principales-ideologos-del-uribismo-critico-a-abelardo-de-la-espriella-por-darle-nivel-presidencial-al-secuestro-en-el-exito-de-cartagena-expuesto-a-la-burla-injusta/",
+      "source": "Infobae",
+      "pubDate": "Thu, 26 Nov 2026 17:59:07 +0000",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Comercializadores de carros le sugieren al gobierno de Abelardo de la Espriella subir el precio de los vehículos eléctricos: esta es la propuesta ",
+      "link": "https://www.infobae.com/colombia/2026/11/26/comercializadores-de-carros-le-sugieren-al-gobierno-de-abelardo-de-la-espriella-subir-el-precio-de-los-vehiculos-electricos-esta-es-la-propuesta/",
+      "source": "Infobae",
+      "pubDate": "Thu, 26 Nov 2026 17:47:45 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,7 +66,15 @@
       "title": "Presidente Abelardo De La Espriella respondió a las críticas por enfrentar a delincuentes durante operativos: 'No se está violentando'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-pidio-al-inpec-que-se-impida-el-ingreso-ilegal-de-celulares-en-las-carceles-y-se-tomen-las-medidas-necesarias-3604389",
       "source": "El Tiempo",
-      "pubDate": "2026-11-26T00:16:46-05:00",
+      "pubDate": "2026-11-26T08:10:39-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella recibe a Sofía Vergara en Barranquilla y anuncia 'sorpresas' en los próximos meses: viajaron juntos en helicóptero",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-recibe-a-sofia-vergara-en-barranquilla-y-anuncia-sorpresas-en-los-proximos-meses-viajaron-juntos-en-helicoptero-3604403",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-26T07:20:21-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
