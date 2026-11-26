@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T23:03:12.743Z",
+  "updatedAt": "2026-11-26T07:32:10.383Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 7,
+      "trendsScore": 9,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -18,7 +18,7 @@
       "youtubeViews": 986388,
       "finalScore": 36,
       "momentum": {
-        "value": 5.9,
+        "value": 0,
         "direction": "flat"
       },
       "probability": 44.4
@@ -47,26 +47,26 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella destacó el avance de Nate Morris como posible embajador de EE. UU. en Colombia y habló de fortalecer la cooperación entre ambos países",
-      "link": "https://www.infobae.com/colombia/2026/11/25/abelardo-de-la-espriella-destaco-el-avance-de-nate-morris-como-posible-embajador-de-ee-uu-en-colombia-y-hablo-de-fortalecer-la-cooperacion-entre-ambos-paises/",
-      "source": "Infobae",
-      "pubDate": "Wed, 25 Nov 2026 22:51:36 +0000",
+      "title": "Presidente Abelardo De La Espriella recibe a Sofía Vergara en Barranquilla y anuncia 'sorpresas' en los próximos meses: viajaron juntos en helicóptero",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-recibe-a-sofia-vergara-en-barranquilla-y-anuncia-sorpresas-en-los-proximos-meses-viajaron-juntos-en-helicoptero-3604403",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-26T01:00:45-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Liberan a todos los rehenes en el Éxito de Cartagena; secuestrados revelaron detalles de lo ocurrido: “Estaban desesperados”",
-      "link": "https://www.infobae.com/colombia/2026/11/24/hombres-armados-y-encapuchados-asaltaron-un-supermercado-exito-en-cartagena-la-policia-tiene-rodeado-el-almacen/",
-      "source": "Infobae",
-      "pubDate": "Wed, 25 Nov 2026 22:28:41 +0000",
+      "title": "Presidente Abelardo De La Espriella respondió a las críticas por enfrentar a delincuentes durante operativos: 'No se está violentando'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-pidio-al-inpec-que-se-impida-el-ingreso-ilegal-de-celulares-en-las-carceles-y-se-tomen-las-medidas-necesarias-3604389",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-26T00:16:46-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "¿Cómo se desarrolló la toma y el rescate de rehenes en un supermercado de Colombia?",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261125-c%C3%B3mo-se-desarroll%C3%B3-la-toma-y-el-rescate-de-rehenes-en-un-supermercado-de-colombia",
-      "source": "France 24",
-      "pubDate": "Wed, 25 Nov 2026 16:30:13 GMT",
+      "title": "Gobierno de Abelardo De La Espriella frena ingreso de Colombia al Grupo de los Brics y adhesión al Nuevo Banco de Desarrollo: Cancillería se pronunció",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-frena-ingreso-de-colombia-al-grupo-de-los-brics-y-adhesion-al-nuevo-banco-de-desarrollo-cancilleria-se-pronuncio-3604350",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-25T19:38:37-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
