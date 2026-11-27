@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-26T18:15:33.744Z",
-  "trendsFresh": false,
+  "updatedAt": "2026-11-27T02:43:41.330Z",
+  "trendsFresh": true,
   "candidates": [
     {
       "id": "ivan_cepeda",
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 9,
+      "trendsScore": 7,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -47,42 +47,26 @@
   ],
   "articles": [
     {
-      "title": "José Obdulio Gaviria, uno de los principales ideólogos del uribismo, criticó a Abelardo de la Espriella por darle “nivel presidencial” al secuestro en el Éxito de Cartagena: “Expuesto a la burla injusta”",
-      "link": "https://www.infobae.com/colombia/2026/11/26/jose-obdulio-gaviria-uno-de-los-principales-ideologos-del-uribismo-critico-a-abelardo-de-la-espriella-por-darle-nivel-presidencial-al-secuestro-en-el-exito-de-cartagena-expuesto-a-la-burla-injusta/",
+      "title": "Abelardo de la Espriella lamentó la muerte de Anyi Jácome, que fue secuestrada por el ELN el 16 de agosto: “No quedará impune”",
+      "link": "https://www.infobae.com/colombia/2026/11/27/abelardo-de-la-espriella-lamento-la-muerte-de-anyi-jacome-que-fue-secuestrada-por-el-eln-el-16-de-agosto-no-quedara-impune/",
       "source": "Infobae",
-      "pubDate": "Thu, 26 Nov 2026 17:59:07 +0000",
+      "pubDate": "Fri, 27 Nov 2026 02:37:27 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Comercializadores de carros le sugieren al gobierno de Abelardo de la Espriella subir el precio de los vehículos eléctricos: esta es la propuesta ",
-      "link": "https://www.infobae.com/colombia/2026/11/26/comercializadores-de-carros-le-sugieren-al-gobierno-de-abelardo-de-la-espriella-subir-el-precio-de-los-vehiculos-electricos-esta-es-la-propuesta/",
-      "source": "Infobae",
-      "pubDate": "Thu, 26 Nov 2026 17:47:45 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella respondió a las críticas por enfrentar a delincuentes durante operativos: 'No se está violentando'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-pidio-al-inpec-que-se-impida-el-ingreso-ilegal-de-celulares-en-las-carceles-y-se-tomen-las-medidas-necesarias-3604389",
+      "title": "Presidente Abelardo De La Espriella entrega nuevo balance de operativo en cárcel de Cali y advierte que 'no va a tolerar extorsiones desde una celda'",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-de-operativo-en-carcel-de-cali-y-advierte-que-no-va-a-tolerar-extorsiones-desde-una-celda-3604699",
       "source": "El Tiempo",
-      "pubDate": "2026-11-26T08:10:39-05:00",
+      "pubDate": "2026-11-26T21:27:31-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella recibe a Sofía Vergara en Barranquilla y anuncia 'sorpresas' en los próximos meses: viajaron juntos en helicóptero",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-recibe-a-sofia-vergara-en-barranquilla-y-anuncia-sorpresas-en-los-proximos-meses-viajaron-juntos-en-helicoptero-3604403",
+      "title": "Presidente Abelardo De La Espriella instala la Mesa de Equidad y fija meta de reducir la pobreza monetaria del 28 % al 20 % para 2030",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-instala-la-mesa-de-equidad-y-fija-meta-de-reducir-la-pobreza-monetaria-del-28-al-20-para-3604701",
       "source": "El Tiempo",
-      "pubDate": "2026-11-26T07:20:21-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Gobierno de Abelardo De La Espriella frena ingreso de Colombia al Grupo de los Brics y adhesión al Nuevo Banco de Desarrollo: Cancillería se pronunció",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/gobierno-de-abelardo-de-la-espriella-frena-ingreso-de-colombia-al-grupo-de-los-brics-y-adhesion-al-nuevo-banco-de-desarrollo-cancilleria-se-pronuncio-3604350",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-25T19:38:37-05:00",
+      "pubDate": "2026-11-26T19:11:41-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
