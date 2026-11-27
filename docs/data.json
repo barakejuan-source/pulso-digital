@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T13:37:03.021Z",
+  "updatedAt": "2026-11-27T22:34:28.445Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 7,
+      "trendsScore": 8,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -47,28 +47,84 @@
   ],
   "articles": [
     {
-      "title": "Un profesor de Química, candidato presidencial de la Lista de Estudiantes en Serbia",
-      "link": "https://www.infobae.com/america/agencias/2026/11/27/un-profesor-de-quimica-candidato-presidencial-de-la-lista-de-estudiantes-en-serbia/",
+      "title": "Abelardo de la Espriella habló sobre el salario mínimo: estudia un sueldo solidario para incorporar a trabajadores informales al sistema social    ",
+      "link": "https://www.infobae.com/colombia/2026/11/27/abelardo-de-la-espriella-hablo-sobre-el-salario-minimo-estudia-un-sueldo-solidario-para-incorporar-a-trabajadores-informales-al-sistema-social/",
       "source": "Infobae",
-      "pubDate": "Fri, 27 Nov 2026 13:16:02 +0000",
-      "candidateId": null,
-      "candidateColor": "#64748b"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella instala la Mesa de Equidad y fija meta de reducir la pobreza monetaria del 28 % al 20 % para 2030",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-instala-la-mesa-de-equidad-y-fija-meta-de-reducir-la-pobreza-monetaria-del-28-al-20-para-3604701",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-26T23:13:26-05:00",
+      "pubDate": "Fri, 27 Nov 2026 21:40:40 +0000",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
     {
-      "title": "Presidente Abelardo De La Espriella entrega nuevo balance de operativo en cárcel de Cali y advierte que 'no va a tolerar extorsiones desde una celda'",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-de-operativo-en-carcel-de-cali-y-advierte-que-no-va-a-tolerar-extorsiones-desde-una-celda-3604699",
+      "title": "Presidente Abelardo De La Espriella habló por primera vez sobre el salario mínimo y propuso 'salario solidario' para informales: ¿en qué consiste?",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-de-la-espriella-hablo-por-primera-vez-del-salario-minimo-y-propuso-el-salario-solidario-con-cajas-de-compensacion-para-informales-3604985",
       "source": "El Tiempo",
-      "pubDate": "2026-11-26T21:43:38-05:00",
+      "pubDate": "2026-11-27T16:24:58-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
+    },
+    {
+      "title": "La historia de la foto entre José Félix Lafaurie e Iván Cepeda que desató la ruptura entre el Gobierno De La Espriella y el líder de Fedegán",
+      "link": "https://www.eltiempo.com/politica/gobierno/la-historia-de-la-foto-entre-jose-felix-lafaurie-e-ivan-cepeda-que-desato-la-ruptura-entre-el-gobierno-de-la-espriella-y-el-lider-de-fedegan-3604839",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-27T15:13:59-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Diario del gobierno de Abelardo: se abre una grieta con Fedegán",
+      "link": "https://www.lasillavacia.com/en-vivo/diario-del-gobierno-de-abelardo-se-abre-una-grieta-con-fedegan/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 27 Nov 2026 18:26:37 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Entrevista | José Félix Lafaurie responde al presidente De La Espriella por invitación a Iván Cepeda: 'El país conoce mis diferencias con Cepeda'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/entrevista-jose-felix-lafaurie-responde-al-presidente-de-la-espriella-por-invitacion-a-ivan-cepeda-el-pais-conoce-mis-diferencias-con-cepeda-3604941",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-27T13:16:04-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "“Leí con extrañeza el mensaje”: Lafaurie tras reclamo de De la Espriella",
+      "link": "https://www.lasillavacia.com/en-vivo/lei-con-extraneza-el-mensaje-lafaurie-tras-reclamo-de-de-la-espriella/",
+      "source": "La Silla Vacía",
+      "pubDate": "Fri, 27 Nov 2026 18:14:20 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Excanciller Álvaro Leyva publica nueva carta abierta a Gustavo Petro: cuestiona sus llamados a movilización y cita testimonios sobre Angie Rodríguez",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/excanciller-alvaro-leyva-publica-nueva-carta-abierta-a-gustavo-petro-cuestiona-sus-llamados-a-movilizacion-y-cita-testimonios-sobre-angie-rodriguez-3604923",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-27T12:32:34-05:00",
+      "candidateId": "abelardo_espriella",
+      "candidateColor": "#1D3557"
+    },
+    {
+      "title": "María Fernanda Cabal responde a De La Espriella por foto de José Félix Lafaurie con Iván Cepeda: 'Jamás vamos a estar aliados con ningún comunista'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/maria-fernanda-cabal-responde-a-de-la-espriella-por-foto-de-jose-felix-lafaurie-con-ivan-cepeda-jamas-vamos-a-estar-aliados-con-ningun-comunista-3604884",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-27T12:00:56-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "José Félix Lafaurie defiende presencia de Iván Cepeda en Congreso Ganadero: 'Me correspondía recibirlo con la misma consideración que a los demás'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/jose-felix-lafaurie-defiende-presencia-de-ivan-cepeda-en-congreso-ganadero-me-correspondia-recibirlo-con-la-misma-consideracion-que-a-los-demas-3604840",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-27T09:25:28-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "El contundente mensaje del presidente Abelardo De La Espriella contra José Félix Lafaurie tras foto con Iván Cepeda",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-contundente-mensaje-del-presidente-abelardo-de-la-espriella-contra-jose-felix-lafaurie-tras-foto-con-ivan-cepeda-3604822",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-27T09:11:18-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     }
   ]
 }
