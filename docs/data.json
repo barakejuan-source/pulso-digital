@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T02:43:41.330Z",
+  "updatedAt": "2026-11-27T13:37:03.021Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -47,10 +47,18 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella lamentó la muerte de Anyi Jácome, que fue secuestrada por el ELN el 16 de agosto: “No quedará impune”",
-      "link": "https://www.infobae.com/colombia/2026/11/27/abelardo-de-la-espriella-lamento-la-muerte-de-anyi-jacome-que-fue-secuestrada-por-el-eln-el-16-de-agosto-no-quedara-impune/",
+      "title": "Un profesor de Química, candidato presidencial de la Lista de Estudiantes en Serbia",
+      "link": "https://www.infobae.com/america/agencias/2026/11/27/un-profesor-de-quimica-candidato-presidencial-de-la-lista-de-estudiantes-en-serbia/",
       "source": "Infobae",
-      "pubDate": "Fri, 27 Nov 2026 02:37:27 +0000",
+      "pubDate": "Fri, 27 Nov 2026 13:16:02 +0000",
+      "candidateId": null,
+      "candidateColor": "#64748b"
+    },
+    {
+      "title": "Presidente Abelardo De La Espriella instala la Mesa de Equidad y fija meta de reducir la pobreza monetaria del 28 % al 20 % para 2030",
+      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-instala-la-mesa-de-equidad-y-fija-meta-de-reducir-la-pobreza-monetaria-del-28-al-20-para-3604701",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-26T23:13:26-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     },
@@ -58,15 +66,7 @@
       "title": "Presidente Abelardo De La Espriella entrega nuevo balance de operativo en cárcel de Cali y advierte que 'no va a tolerar extorsiones desde una celda'",
       "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-entrega-nuevo-balance-de-operativo-en-carcel-de-cali-y-advierte-que-no-va-a-tolerar-extorsiones-desde-una-celda-3604699",
       "source": "El Tiempo",
-      "pubDate": "2026-11-26T21:27:31-05:00",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
-    },
-    {
-      "title": "Presidente Abelardo De La Espriella instala la Mesa de Equidad y fija meta de reducir la pobreza monetaria del 28 % al 20 % para 2030",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-instala-la-mesa-de-equidad-y-fija-meta-de-reducir-la-pobreza-monetaria-del-28-al-20-para-3604701",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-26T19:11:41-05:00",
+      "pubDate": "2026-11-26T21:43:38-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
     }
