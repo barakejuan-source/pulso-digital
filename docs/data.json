@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:34:28.445Z",
+  "updatedAt": "2026-11-28T06:59:17.456Z",
   "trendsFresh": true,
   "candidates": [
     {
@@ -7,7 +7,7 @@
       "name": "Iván Cepeda",
       "party": "Pacto Histórico",
       "color": "#E63946",
-      "trendsScore": 8,
+      "trendsScore": 7,
       "youtubeScore": 100,
       "sentimentScore": 9,
       "sentimentPct": {
@@ -47,12 +47,36 @@
   ],
   "articles": [
     {
-      "title": "Abelardo de la Espriella habló sobre el salario mínimo: estudia un sueldo solidario para incorporar a trabajadores informales al sistema social    ",
-      "link": "https://www.infobae.com/colombia/2026/11/27/abelardo-de-la-espriella-hablo-sobre-el-salario-minimo-estudia-un-sueldo-solidario-para-incorporar-a-trabajadores-informales-al-sistema-social/",
+      "title": "Lafaurie rechaza que invitación a Iván Cepeda implique alianza política con Fedegán",
+      "link": "https://www.infobae.com/colombia/2026/11/28/lafaurie-rechaza-que-invitacion-a-ivan-cepeda-implique-alianza-politica-con-fedegan/",
       "source": "Infobae",
-      "pubDate": "Fri, 27 Nov 2026 21:40:40 +0000",
-      "candidateId": "abelardo_espriella",
-      "candidateColor": "#1D3557"
+      "pubDate": "Sat, 28 Nov 2026 04:59:00 +0000",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "La historia de la foto entre José Félix Lafaurie e Iván Cepeda que desató la ruptura entre el Gobierno De La Espriella y el líder de Fedegán",
+      "link": "https://www.eltiempo.com/politica/gobierno/la-historia-de-la-foto-entre-jose-felix-lafaurie-e-ivan-cepeda-que-desato-la-ruptura-entre-el-gobierno-de-la-espriella-y-el-lider-de-fedegan-3604839",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-27T20:40:04-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Fedegán se pronunció sobre polémica entre José Félix Lafaurie y presidente Abelardo De La Espriella por presencia de Iván Cepeda en Congreso Ganadero",
+      "link": "https://www.eltiempo.com/politica/gobierno/fedegan-se-pronuncio-sobre-polemica-entre-jose-felix-lafaurie-y-presidente-abelardo-de-la-espriella-por-presencia-de-ivan-cepeda-en-congreso-ganadero-3605046",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-27T19:17:54-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
+    },
+    {
+      "title": "Entrevista | José Félix Lafaurie responde al presidente De La Espriella por invitación a Iván Cepeda: 'El país conoce mis diferencias con Cepeda'",
+      "link": "https://www.eltiempo.com/politica/partidos-politicos/entrevista-jose-felix-lafaurie-responde-al-presidente-de-la-espriella-por-invitacion-a-ivan-cepeda-el-pais-conoce-mis-diferencias-con-cepeda-3604941",
+      "source": "El Tiempo",
+      "pubDate": "2026-11-27T18:51:42-05:00",
+      "candidateId": "ivan_cepeda",
+      "candidateColor": "#E63946"
     },
     {
       "title": "Presidente Abelardo De La Espriella habló por primera vez sobre el salario mínimo y propuso 'salario solidario' para informales: ¿en qué consiste?",
@@ -61,38 +85,6 @@
       "pubDate": "2026-11-27T16:24:58-05:00",
       "candidateId": "abelardo_espriella",
       "candidateColor": "#1D3557"
-    },
-    {
-      "title": "La historia de la foto entre José Félix Lafaurie e Iván Cepeda que desató la ruptura entre el Gobierno De La Espriella y el líder de Fedegán",
-      "link": "https://www.eltiempo.com/politica/gobierno/la-historia-de-la-foto-entre-jose-felix-lafaurie-e-ivan-cepeda-que-desato-la-ruptura-entre-el-gobierno-de-la-espriella-y-el-lider-de-fedegan-3604839",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-27T15:13:59-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Diario del gobierno de Abelardo: se abre una grieta con Fedegán",
-      "link": "https://www.lasillavacia.com/en-vivo/diario-del-gobierno-de-abelardo-se-abre-una-grieta-con-fedegan/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 27 Nov 2026 18:26:37 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "Entrevista | José Félix Lafaurie responde al presidente De La Espriella por invitación a Iván Cepeda: 'El país conoce mis diferencias con Cepeda'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/entrevista-jose-felix-lafaurie-responde-al-presidente-de-la-espriella-por-invitacion-a-ivan-cepeda-el-pais-conoce-mis-diferencias-con-cepeda-3604941",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-27T13:16:04-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "“Leí con extrañeza el mensaje”: Lafaurie tras reclamo de De la Espriella",
-      "link": "https://www.lasillavacia.com/en-vivo/lei-con-extraneza-el-mensaje-lafaurie-tras-reclamo-de-de-la-espriella/",
-      "source": "La Silla Vacía",
-      "pubDate": "Fri, 27 Nov 2026 18:14:20 +0000",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
     },
     {
       "title": "Excanciller Álvaro Leyva publica nueva carta abierta a Gustavo Petro: cuestiona sus llamados a movilización y cita testimonios sobre Angie Rodríguez",
@@ -107,22 +99,6 @@
       "link": "https://www.eltiempo.com/politica/partidos-politicos/maria-fernanda-cabal-responde-a-de-la-espriella-por-foto-de-jose-felix-lafaurie-con-ivan-cepeda-jamas-vamos-a-estar-aliados-con-ningun-comunista-3604884",
       "source": "El Tiempo",
       "pubDate": "2026-11-27T12:00:56-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "José Félix Lafaurie defiende presencia de Iván Cepeda en Congreso Ganadero: 'Me correspondía recibirlo con la misma consideración que a los demás'",
-      "link": "https://www.eltiempo.com/politica/partidos-politicos/jose-felix-lafaurie-defiende-presencia-de-ivan-cepeda-en-congreso-ganadero-me-correspondia-recibirlo-con-la-misma-consideracion-que-a-los-demas-3604840",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-27T09:25:28-05:00",
-      "candidateId": "ivan_cepeda",
-      "candidateColor": "#E63946"
-    },
-    {
-      "title": "El contundente mensaje del presidente Abelardo De La Espriella contra José Félix Lafaurie tras foto con Iván Cepeda",
-      "link": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/el-contundente-mensaje-del-presidente-abelardo-de-la-espriella-contra-jose-felix-lafaurie-tras-foto-con-ivan-cepeda-3604822",
-      "source": "El Tiempo",
-      "pubDate": "2026-11-27T09:11:18-05:00",
       "candidateId": "ivan_cepeda",
       "candidateColor": "#E63946"
     }
